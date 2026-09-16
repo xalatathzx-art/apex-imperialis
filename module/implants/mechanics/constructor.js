@@ -49,6 +49,50 @@ const KIND_OPTIONS = Object.freeze(Object.fromEntries(
   ENTRY_KINDS.map(kind => [kind, `NAVIS.Implant.Kind.${kind}`])
 ));
 
+/**
+ * The kind picker, grouped by what a kind MEANS rather than by the order the
+ * data model happens to list them in.
+ *
+ * Thirteen kinds in one flat list is a list an author reads top to bottom every
+ * time; five headed groups of two or three is a list they aim at. The groups
+ * are the author's own vocabulary — "what it changes about the body", "what it
+ * hands out" — not the implementation's, so `armourAll` sits beside `armour`
+ * and `script` beside `trait` and `talent`, which is where an author looks for
+ * them.
+ *
+ * A kind that is ever added to `ENTRY_KINDS` without being named here would
+ * silently vanish from the picker, so `kindGroupsFor` sweeps up the remainder
+ * into the last group rather than dropping it.
+ */
+const KIND_GROUPS = Object.freeze([
+  { label: "NAVIS.Implant.Mechanics.KindGroup.Stats", kinds: ["characteristic", "skill"] },
+  { label: "NAVIS.Implant.Mechanics.KindGroup.Tests", kinds: ["testMod"] },
+  { label: "NAVIS.Implant.Mechanics.KindGroup.Defence", kinds: ["armour", "armourAll"] },
+  {
+    label: "NAVIS.Implant.Mechanics.KindGroup.Body",
+    kinds: ["wounds", "criticals", "speed", "encumbrance", "energy"]
+  },
+  { label: "NAVIS.Implant.Mechanics.KindGroup.Grants", kinds: ["trait", "talent", "script"] }
+]);
+
+/** The picker as `<optgroup>`s, with the entry's own kind marked selected. */
+export function kindGroupsFor(selected) {
+  const named = new Set(KIND_GROUPS.flatMap(group => group.kinds));
+  const orphans = ENTRY_KINDS.filter(kind => !named.has(kind));
+
+  return KIND_GROUPS.map((group, index) => {
+    const kinds = index === KIND_GROUPS.length - 1 ? [...group.kinds, ...orphans] : group.kinds;
+    return {
+      label: group.label,
+      options: kinds.map(kind => ({
+        value: kind,
+        label: KIND_OPTIONS[kind] ?? kind,
+        selected: kind === selected
+      }))
+    };
+  });
+}
+
 const SPEED_OPTIONS = Object.freeze({
   land: "NAVIS.Implant.Speed.land",
   fly: "NAVIS.Implant.Speed.fly"
@@ -102,6 +146,102 @@ function advantageOptionsFor(advantage) {
 const groupsOf = item => foundry.utils.deepClone(item?.system?.mechanics ?? []);
 const isLadder = value => !!value && typeof value === "object";
 
+/* -------------------------------------------- */
+/*  The one-line summary                        */
+/*  (see the density note above `summaryFor`)   */
+/* -------------------------------------------- */
+
+const localize = key => game.i18n?.localize?.(key) ?? String(key ?? "");
+const format = (key, data) => game.i18n?.format?.(key, data) ?? String(key);
+
+/** A modifier reads as a modifier: the sign is part of the number. */
+const signed = n => (n > 0 ? `+${n}` : String(n));
+
+const kindLabelOf = kind => localize(KIND_OPTIONS[kind] ?? kind);
+
+/**
+ * The noun the number applies to.
+ *
+ * A characteristic or a skill names itself — "Выносливость +2" needs no word
+ * "Характеристика" in front of it. Every other keyed kind does: "Броня" alone
+ * would not say which location, and "Голова" alone would not say armour.
+ */
+function whatFor(kind, key, keyOptions) {
+  const kindLabel = kindLabelOf(kind);
+  if (!key || !keyOptions?.[key]) return kindLabel;
+
+  const keyLabel = localize(keyOptions[key]);
+  if (kind === "characteristic" || kind === "skill") return keyLabel;
+  return format("NAVIS.Implant.Mechanics.Summary.Paren", { a: kindLabel, b: keyLabel });
+}
+
+/** "Помеха на Скрытность" — the advantage, the flat modifier, or both. */
+function testModSummary(entry, skills) {
+  const advantage = Math.sign(Number(entry.advantage) || 0);
+  const value = Number(entry.value) || 0;
+
+  const parts = [];
+  if (advantage > 0) parts.push(localize("NAVIS.Implant.Mechanics.Advantage"));
+  if (advantage < 0) parts.push(localize("NAVIS.Implant.Mechanics.Disadvantage"));
+  if (value) parts.push(signed(value));
+
+  const effect = parts.length ? parts.join(" ") : localize("NAVIS.Implant.Mechanics.Summary.Empty");
+
+  // Two sentences, not one with a blank in it: Russian puts the named skill in
+  // the accusative after "на" ("Помеха на Скрытность") and "any test" in the
+  // prepositional ("Помеха на любой проверке"). Nothing here can decline a
+  // label that came out of impmal's config, so each case is its own string and
+  // the translator writes the ending.
+  if (entry.skill && skills?.[entry.skill]) {
+    return format("NAVIS.Implant.Mechanics.Summary.TestMod", {
+      effect,
+      skill: localize(skills[entry.skill])
+    });
+  }
+
+  return format("NAVIS.Implant.Mechanics.Summary.TestModAny", { effect });
+}
+
+/**
+ * What the entry does, in one sentence.
+ *
+ * The collapsed row has to say enough that an author never opens an entry just
+ * to remember what it was, so the summary is built from the SAME fields the
+ * open entry edits — kind, key, value or ladder, source, advantage — rather
+ * than from a stored description that could drift out of step with them.
+ *
+ * Built here, not in the template: only this file knows which of an entry's
+ * fields the kind makes meaningful, and Handlebars cannot ask.
+ */
+function summaryFor(entry, kind, shape, keyLists, skills) {
+  if (shape.testMod) return testModSummary(entry, skills);
+
+  if (shape.drop) {
+    return format("NAVIS.Implant.Mechanics.Summary.Grant", {
+      kind: kindLabelOf(kind),
+      name: entry.sourceName || localize("NAVIS.Implant.Mechanics.Summary.None")
+    });
+  }
+
+  if (shape.script) {
+    const label = kindLabelOf(kind);
+    return entry.throttle
+      ? format("NAVIS.Implant.Mechanics.Summary.Paren", { a: label, b: entry.throttle })
+      : label;
+  }
+
+  if (shape.value) {
+    const what = whatFor(kind, entry.key, shape.key ? keyLists[shape.key] : null);
+    // A ladder is four readings, so it prints as four: "+1/+2/+3/+4".
+    const value = isLadder(entry.value)
+      ? QUALITY_LEVELS.map(level => signed(levelValue(entry.value, level))).join("/")
+      : signed(Number(entry.value) || 0);
+    return format("NAVIS.Implant.Mechanics.Summary.Value", { what, value });
+  }
+
+  return kindLabelOf(kind);
+}
+
 /** A ladder's reading at one level, falling back to the ordinary article. */
 function levelValue(value, level) {
   if (!isLadder(value)) return Number(value) || 0;
@@ -112,9 +252,15 @@ function levelValue(value, level) {
 
 /**
  * Everything `templates/item/implant-mechanics.hbs` renders.
+ *
  * @param {Item} item an implant
+ * @param {Set<string>} [open] the ids of the entries whose fields are unfolded.
+ *   Held by the open window rather than by the document: which entry an author
+ *   is looking at is a fact about this editing session, and every field change
+ *   re-renders the tab, so without it every edit would fold the entry shut
+ *   under the author's hands.
  */
-export function mechanicsContext(item) {
+export function mechanicsContext(item, open = null) {
   const options = systemOptions();
   const keyLists = {
     characteristics: options.characteristics,
@@ -141,6 +287,10 @@ export function mechanicsContext(item) {
           groupId: group.id,
           kind,
           live: LIVE_KINDS.includes(kind),
+
+          summary: summaryFor(entry, kind, shape, keyLists, options.skills),
+          open: !!open?.has(entry.id),
+          kindGroups: kindGroupsFor(kind),
 
           keyOptions: shape.key ? keyLists[shape.key] : null,
           key: entry.key ?? "",
@@ -203,11 +353,17 @@ async function write(item, groups, extra = {}) {
   return item.update({ "system.mechanics": groups, ...extra });
 }
 
-/** A brand-new AND group with one characteristic entry, so the row is never empty. */
+/**
+ * A brand-new AND group with one characteristic entry, so the row is never empty.
+ * @returns {Promise<string>} the new entry's id, so the caller can unfold it —
+ *   a freshly added entry that arrives collapsed says nothing about itself.
+ */
 export async function addGroup(item) {
   const groups = groupsOf(item);
-  groups.push({ id: foundry.utils.randomID(), operator: "AND", entries: [newEntry()] });
-  return write(item, groups);
+  const entry = newEntry();
+  groups.push({ id: foundry.utils.randomID(), operator: "AND", entries: [entry] });
+  await write(item, groups);
+  return entry.id;
 }
 
 export async function deleteGroup(item, groupId) {
@@ -231,14 +387,22 @@ function newEntry() {
   return { id: foundry.utils.randomID(), kind: "characteristic", key: "", value: 0 };
 }
 
+/**
+ * One more entry on an existing group.
+ * @returns {Promise<string|undefined>} the new entry's id, so the caller can
+ *   unfold it — as with `addGroup`, an entry that arrives collapsed says
+ *   nothing about itself and the author would have to open it to begin.
+ */
 export async function addEntry(item, groupId) {
   const groups = groupsOf(item);
   const group = findGroup(groups, groupId);
   if (!group) return;
 
   group.entries = Array.isArray(group.entries) ? group.entries : [];
-  group.entries.push(newEntry());
-  return write(item, groups);
+  const entry = newEntry();
+  group.entries.push(entry);
+  await write(item, groups);
+  return entry.id;
 }
 
 export async function deleteEntry(item, groupId, entryId) {

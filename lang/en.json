@@ -412,5 +412,19 @@
   "NAVIS.Implant.Mechanics.Throttle": "Throttle",
   "NAVIS.Implant.Mechanics.ThrottleHint": "e.g. once per round",
   "NAVIS.Implant.Mechanics.ScriptHint": "Code run on an impmal trigger",
-  "NAVIS.Implant.Mechanics.SaveFailed": "A mechanics edit could not be saved — see the console."
+  "NAVIS.Implant.Mechanics.SaveFailed": "A mechanics edit could not be saved — see the console.",
+  "NAVIS.Implant.QualityAsOrdinary": "as ordinary",
+  "NAVIS.Implant.Mechanics.Kind": "Kind",
+  "NAVIS.Implant.Mechanics.KindGroup.Stats": "Characteristics and skills",
+  "NAVIS.Implant.Mechanics.KindGroup.Tests": "Tests",
+  "NAVIS.Implant.Mechanics.KindGroup.Defence": "Defence",
+  "NAVIS.Implant.Mechanics.KindGroup.Body": "Body and movement",
+  "NAVIS.Implant.Mechanics.KindGroup.Grants": "Grants",
+  "NAVIS.Implant.Mechanics.Summary.Value": "{what} {value}",
+  "NAVIS.Implant.Mechanics.Summary.Paren": "{a} ({b})",
+  "NAVIS.Implant.Mechanics.Summary.TestMod": "{effect} on {skill}",
+  "NAVIS.Implant.Mechanics.Summary.TestModAny": "{effect} on any test",
+  "NAVIS.Implant.Mechanics.Summary.Grant": "{kind}: {name}",
+  "NAVIS.Implant.Mechanics.Summary.Empty": "no change",
+  "NAVIS.Implant.Mechanics.Summary.None": "not chosen"
 }

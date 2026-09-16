@@ -1562,5 +1562,19 @@
   "NAVIS.Implant.Mechanics.Throttle": "Ограничение",
   "NAVIS.Implant.Mechanics.ThrottleHint": "например: раз за раунд",
   "NAVIS.Implant.Mechanics.ScriptHint": "Код, выполняемый на триггере impmal",
-  "NAVIS.Implant.Mechanics.SaveFailed": "Не удалось сохранить изменение механики — смотрите консоль."
+  "NAVIS.Implant.Mechanics.SaveFailed": "Не удалось сохранить изменение механики — смотрите консоль.",
+  "NAVIS.Implant.QualityAsOrdinary": "как обычный",
+  "NAVIS.Implant.Mechanics.Kind": "Вид",
+  "NAVIS.Implant.Mechanics.KindGroup.Stats": "Характеристики и навыки",
+  "NAVIS.Implant.Mechanics.KindGroup.Tests": "Броски",
+  "NAVIS.Implant.Mechanics.KindGroup.Defence": "Защита",
+  "NAVIS.Implant.Mechanics.KindGroup.Body": "Тело и движение",
+  "NAVIS.Implant.Mechanics.KindGroup.Grants": "Выдачи",
+  "NAVIS.Implant.Mechanics.Summary.Value": "{what} {value}",
+  "NAVIS.Implant.Mechanics.Summary.Paren": "{a} ({b})",
+  "NAVIS.Implant.Mechanics.Summary.TestMod": "{effect} на {skill}",
+  "NAVIS.Implant.Mechanics.Summary.TestModAny": "{effect} на любой проверке",
+  "NAVIS.Implant.Mechanics.Summary.Grant": "{kind}: {name}",
+  "NAVIS.Implant.Mechanics.Summary.Empty": "без изменений",
+  "NAVIS.Implant.Mechanics.Summary.None": "не выбран"
 }

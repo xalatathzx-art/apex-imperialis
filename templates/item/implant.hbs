@@ -1,7 +1,7 @@
 <section class="tab {{tab.cssClass}} navis-implant-details" data-group="primary" data-tab="{{tab.id}}">
 
     {{!-- What the book says the implant is. Everything below is how the system reads it. --}}
-    <div class="navis-implant-block">
+    <div class="navis-implant-block navis-implant-rules">
         <div class="navis-implant-head">
             <span>{{localize "NAVIS.Implant.Rules"}}</span>
         </div>
@@ -31,24 +31,48 @@
             </div>
         </div>
 
-        {{!-- The book prints only the levels that differ from the ordinary article. --}}
+        {{!-- The book prints only the levels that differ from the ordinary
+              article, but ALL FOUR rows are here whether or not they are
+              written: a row saying «как обычный» is a ladder step the author
+              decided about, and an absent row is one they cannot tell from a
+              step they forgot. The editor itself only unfolds for the level
+              being written to — four always-open editors were the height this
+              tab used to spend on nothing. --}}
         <div class="navis-implant-levels">
-            <div class="level">
-                <label>{{localize "NAVIS.Implant.QualityLevel1"}}</label>
-                {{formInput fields.qualityText.fields.[1] value=source.system.qualityText.[1] enriched=enriched.system.qualityText.[1] toggled=true}}
+            {{#each qualityRows}}
+            <div class="navis-quality-item{{#if this.ordinary}} ordinary{{/if}}{{#if this.open}} open{{/if}}"
+                 data-level="{{this.level}}">
+
+                <button type="button" class="navis-quality-row"
+                        data-action="navisToggleQuality" data-level="{{this.level}}"
+                        id="navis-quality-row-{{@root.sheetId}}-{{this.level}}"
+                        aria-controls="navis-quality-body-{{@root.sheetId}}-{{this.level}}"
+                        aria-expanded="{{#if this.open}}true{{else}}false{{/if}}"
+                        {{#if this.filled}}data-tooltip="{{this.full}}"{{/if}}>
+                    {{!-- The caret, not the tint, is what says open or shut:
+                          the ordinary level is already tinted for another
+                          reason, so colour alone could not carry both. --}}
+                    <i class="fa-solid fa-caret-right navis-caret" aria-hidden="true"></i>
+                    <span class="lvl">{{this.label}}</span>
+                    {{#if this.filled}}
+                    <span class="preview">{{this.preview}}</span>
+                    {{else}}
+                    <span class="preview quiet">{{localize "NAVIS.Implant.QualityAsOrdinary"}}</span>
+                    {{/if}}
+                </button>
+
+                <div class="navis-quality-body"
+                     id="navis-quality-body-{{@root.sheetId}}-{{this.level}}"
+                     role="region" aria-labelledby="navis-quality-row-{{@root.sheetId}}-{{this.level}}">
+                    <div class="navis-quality-editor">
+                        {{formInput (lookup @root.fields.qualityText.fields this.level)
+                                    value=(lookup @root.source.system.qualityText this.level)
+                                    enriched=(lookup @root.enriched.system.qualityText this.level)
+                                    toggled=true}}
+                    </div>
+                </div>
             </div>
-            <div class="level ordinary">
-                <label>{{localize "NAVIS.Implant.QualityLevel2"}}</label>
-                {{formInput fields.qualityText.fields.[2] value=source.system.qualityText.[2] enriched=enriched.system.qualityText.[2] toggled=true}}
-            </div>
-            <div class="level">
-                <label>{{localize "NAVIS.Implant.QualityLevel3"}}</label>
-                {{formInput fields.qualityText.fields.[3] value=source.system.qualityText.[3] enriched=enriched.system.qualityText.[3] toggled=true}}
-            </div>
-            <div class="level">
-                <label>{{localize "NAVIS.Implant.QualityLevel4"}}</label>
-                {{formInput fields.qualityText.fields.[4] value=source.system.qualityText.[4] enriched=enriched.system.qualityText.[4] toggled=true}}
-            </div>
+            {{/each}}
         </div>
     </div>
 

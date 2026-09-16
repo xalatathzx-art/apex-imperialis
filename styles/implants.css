@@ -97,25 +97,201 @@
   text-transform: uppercase;
 }
 
-/* One level per row: the note beside it is prose, not a number. */
-.navis-implant .navis-implant-levels .level {
-  margin-top: 5px;
-  padding-left: 6px;
+/* -------------------------------------------- */
+/*  Prose editors                               */
+/* -------------------------------------------- */
+
+/*
+ * A rulebook note is two sentences, not two hundred.
+ *
+ * Foundry gives a toggled ProseMirror field a generous minimum height, which
+ * is right on a page of lore and wrong on a tab that stacks five of them: the
+ * Implant tab spent most of its height on empty boxes. Here the editor starts
+ * at about two lines, grows with what is typed, and stops at sixteen — past
+ * which it scrolls rather than pushing the placement and the gate off-screen.
+ */
+.navis-implant .navis-implant-rules prose-mirror,
+.navis-implant .navis-implant-rules .editor,
+.navis-implant .navis-quality-editor prose-mirror,
+.navis-implant .navis-quality-editor .editor {
+  display: block;
+  height: auto;
+  min-height: 3.2em;
+  max-height: 16em;
+  overflow-y: auto;
+}
+
+/* The inner surfaces must not re-impose the floor the wrapper just removed. */
+.navis-implant .navis-implant-rules .editor-content,
+.navis-implant .navis-implant-rules .ProseMirror,
+.navis-implant .navis-quality-editor .editor-content,
+.navis-implant .navis-quality-editor .ProseMirror {
+  height: auto;
+  min-height: 0;
+}
+
+/* -------------------------------------------- */
+/*  The quality ladder                          */
+/* -------------------------------------------- */
+
+/*
+ * Four rows, always four, one line each until one is opened.
+ *
+ * Each row says what its level holds — the first line of the note, or «как
+ * обычный» — so folding hides the editor and never the fact. The full note is
+ * on the row's tooltip, so the ellipsis costs a hover and not the text.
+ */
+
+.navis-implant .navis-quality-item {
   border-left: 2px solid transparent;
 }
 
 /* Level 2 is the ordinary article — the one the others are written against. */
-.navis-implant .navis-implant-levels .level.ordinary {
+.navis-implant .navis-quality-item.ordinary {
   border-left-color: var(--navis-implant-brass);
 }
 
-.navis-implant .navis-implant-levels .level > label {
-  display: block;
-  margin-bottom: 2px;
+.navis-implant .navis-quality-row {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  width: 100%;
+  margin: 0;
+  padding: 3px 4px;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: inherit;
+  font-size: 11px;
+  line-height: 1.4;
+  text-align: left;
+  cursor: pointer;
+}
+
+.navis-implant .navis-quality-row:hover {
+  background: var(--navis-implant-line);
+}
+
+/* Keyboard users get the same row a mouse gets, and they get to see it. */
+.navis-implant .navis-quality-row:focus-visible,
+.navis-implant .navis-mech-toggle:focus-visible {
+  outline: 2px solid var(--navis-implant-brass);
+  outline-offset: -2px;
+}
+
+.navis-implant .navis-quality-row .lvl {
+  flex: 0 0 auto;
   color: var(--navis-implant-brass);
   font-size: 10px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.navis-implant .navis-quality-row .preview {
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/*
+ * «как обычный» is the most easily lost string on this sheet and the one an
+ * author most needs to trust, so it is set in the muted ink rather than the
+ * faint one: #a89e8e on the skin's #141414 panel is about 7:1, and #555 on a
+ * skinless sheet is about 6:1 — both well clear of 4.5:1. It is italic, not
+ * merely paler, so it still reads as "nothing written here" at that contrast.
+ */
+.navis-implant .navis-quality-row .preview.quiet {
+  color: var(--navis-implant-ink);
+  font-style: italic;
+}
+
+/*
+ * The caret, not a tint, is what says open or shut. The ordinary level is
+ * already tinted for a different reason, so colour alone could not carry both
+ * facts at once.
+ */
+.navis-implant .navis-caret {
+  flex: 0 0 auto;
+  width: 9px;
+  color: var(--navis-implant-brass);
+  font-size: 10px;
+  transition: transform 220ms ease-out;
+}
+
+.navis-implant .navis-quality-item.open .navis-caret,
+.navis-implant .navis-mech-entry.open .navis-caret {
+  transform: rotate(90deg);
+}
+
+/* -------------------------------------------- */
+/*  Folding                                     */
+/* -------------------------------------------- */
+
+/*
+ * `grid-template-rows: 0fr → 1fr` rather than a max-height guess: the panel
+ * animates to exactly the height its content wants, so an editor that grew
+ * while it was open does not jump when it is opened again.
+ *
+ * Opening is 220ms and closing 150ms — about 68% of it. Closing is a movement
+ * the author already decided about, so it should get out of the way; opening
+ * is one they are about to read, so it arrives at a readable speed.
+ */
+.navis-implant .navis-quality-body,
+.navis-implant .navis-mech-body {
+  display: grid;
+  grid-template-rows: 0fr;
+  /* The clip belongs on the container, not on the panel: a ProseMirror
+     toolbar's own menus can then open past the panel's own box. */
+  overflow: hidden;
+  transition: grid-template-rows 150ms ease-in;
+}
+
+.navis-implant .navis-quality-item.open > .navis-quality-body,
+.navis-implant .navis-mech-entry.open > .navis-mech-body {
+  grid-template-rows: 1fr;
+  transition: grid-template-rows 220ms ease-out;
+}
+
+/*
+ * `visibility` as well as `overflow`, so a folded panel's inputs leave the tab
+ * order instead of being tabbed into behind a zero-height row. It flips only
+ * once the collapse has finished, or the content would vanish before it moved.
+ */
+.navis-implant .navis-quality-editor,
+.navis-implant .navis-mech-fields {
+  min-height: 0;
+  visibility: hidden;
+  transition: visibility 0s linear 150ms;
+}
+
+.navis-implant .navis-quality-item.open .navis-quality-editor,
+.navis-implant .navis-mech-entry.open .navis-mech-fields {
+  visibility: visible;
+  transition-delay: 0s;
+}
+
+.navis-implant .navis-quality-item.open .navis-quality-editor {
+  padding: 4px 4px 6px;
+}
+
+.navis-implant .navis-mech-entry.open .navis-mech-fields {
+  padding-top: 4px;
+}
+
+/* All of the above is decoration on a state the markup already carries. */
+@media (prefers-reduced-motion: reduce) {
+  .navis-implant .navis-caret,
+  .navis-implant .navis-quality-body,
+  .navis-implant .navis-mech-body,
+  .navis-implant .navis-quality-item.open > .navis-quality-body,
+  .navis-implant .navis-mech-entry.open > .navis-mech-body,
+  .navis-implant .navis-quality-editor,
+  .navis-implant .navis-mech-fields {
+    transition: none;
+  }
 }
 
 .navis-implant .navis-implant-gates {
@@ -191,9 +367,58 @@
 }
 
 .navis-implant .navis-mech-entry {
-  margin: 5px 0;
-  padding: 4px 6px;
+  margin: 4px 0;
+  padding: 2px 6px;
   border: 1px dashed var(--navis-implant-line);
+}
+
+/* An open entry is a panel; a folded one is a line. The border says which. */
+.navis-implant .navis-mech-entry.open {
+  border-style: solid;
+  border-left: 2px solid var(--navis-implant-brass);
+}
+
+.navis-implant .navis-mech-head {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.navis-implant .navis-mech-toggle {
+  display: flex;
+  flex: 1 1 auto;
+  align-items: center;
+  gap: 6px;
+  min-width: 0;
+  width: auto;
+  margin: 0;
+  padding: 2px 2px;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: inherit;
+  font-size: 11px;
+  line-height: 1.5;
+  text-align: left;
+  cursor: pointer;
+}
+
+.navis-implant .navis-mech-toggle:hover {
+  background: var(--navis-implant-line);
+}
+
+.navis-implant .navis-mech-toggle .summary {
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.navis-implant .navis-mech-live-mark {
+  flex: 0 0 auto;
+  color: var(--navis-accent, #8a6d3b);
+  font-size: 9px;
 }
 
 .navis-implant .navis-mech-row {

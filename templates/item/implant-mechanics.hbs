@@ -32,34 +32,30 @@
         </header>
 
         {{#each this.entries}}
-        <div class="navis-mech-entry" data-entry-id="{{this.id}}">
+        {{!-- An entry is one line until it is asked to be more. That line is the
+              whole entry said in Russian, built in mechanics/constructor.js out
+              of the same fields the open entry edits, so a folded entry is read
+              rather than guessed at. --}}
+        <div class="navis-mech-entry{{#if this.open}} open{{/if}}" data-entry-id="{{this.id}}">
 
-            <div class="navis-mech-row">
-                <select class="navis-mech-kind" data-navis-field="kind"
-                        data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}">
-                    {{selectOptions @root.mechanics.kindOptions selected=this.kind localize=true}}
-                </select>
-
-                {{#if this.keyOptions}}
-                <select class="navis-mech-key" data-navis-field="key"
-                        data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}">
-                    {{selectOptions this.keyOptions selected=this.key localize=true blank=""}}
-                </select>
-                {{/if}}
-
-                {{#if this.hasValue}}
-                {{#unless this.ladder}}
-                <input class="navis-mech-value" type="number" data-navis-field="value"
-                       data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}"
-                       value="{{this.value}}">
-                {{/unless}}
-                <a class="navis-mech-ladder {{#if this.ladder}}on{{/if}}" data-action="navisToggleLadder"
-                   data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}">
-                    <i class="fa-solid fa-layer-group"></i> {{localize "NAVIS.Implant.Mechanics.Ladder"}}
-                </a>
-                {{/if}}
-
-                <span class="spacer"></span>
+            <div class="navis-mech-head">
+                <button type="button" class="navis-mech-toggle"
+                        data-action="navisToggleEntry"
+                        data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}"
+                        id="navis-mech-row-{{@root.sheetId}}-{{this.id}}"
+                        aria-controls="navis-mech-body-{{@root.sheetId}}-{{this.id}}"
+                        aria-expanded="{{#if this.open}}true{{else}}false{{/if}}"
+                        data-tooltip="{{this.summary}}">
+                    <i class="fa-solid fa-caret-right navis-caret" aria-hidden="true"></i>
+                    <span class="summary">{{this.summary}}</span>
+                    {{#if this.live}}
+                    {{!-- Creating no Active Effect is the one thing about an
+                          entry that is invisible everywhere else, so the folded
+                          line keeps saying it. --}}
+                    <i class="fa-solid fa-bolt navis-mech-live-mark" aria-hidden="true"
+                       data-tooltip="{{localize 'NAVIS.Implant.Mechanics.Live'}}"></i>
+                    {{/if}}
+                </button>
                 <a class="navis-mech-control" data-action="navisDeleteEntry"
                    data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}"
                    data-tooltip="{{localize 'NAVIS.Implant.Mechanics.DeleteEntry'}}">
@@ -67,86 +63,132 @@
                 </a>
             </div>
 
-            {{!-- A value that changes with the implant's level. A level left blank reads as the ordinary one. --}}
-            {{#if this.ladder}}
-            <div class="navis-mech-levels">
-                {{#each this.levels}}
-                <div class="level {{#if this.ordinary}}ordinary{{/if}}">
-                    <label>{{this.level}}</label>
-                    <input type="number" data-navis-field="value" data-level="{{this.level}}"
-                           data-group-id="{{../groupId}}" data-entry-id="{{../id}}"
-                           value="{{this.value}}">
-                </div>
-                {{/each}}
-            </div>
-            {{/if}}
+            <div class="navis-mech-body"
+                 id="navis-mech-body-{{@root.sheetId}}-{{this.id}}"
+                 role="region" aria-labelledby="navis-mech-row-{{@root.sheetId}}-{{this.id}}">
+                <div class="navis-mech-fields">
 
-            {{!-- A granted trait or talent, held by reference so it stays the compendium's. --}}
-            {{#if this.isDrop}}
-            <div class="navis-mech-drop" data-navis-drop="{{this.dropType}}"
-                 data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}">
-                {{#if this.sourceUuid}}
-                <a class="navis-mech-source" data-action="navisOpenSource" data-uuid="{{this.sourceUuid}}">
-                    <img src="{{this.sourceImg}}" alt="">
-                    <span>{{this.sourceName}}</span>
-                </a>
-                <a class="navis-mech-control" data-action="navisClearSource"
-                   data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}"
-                   data-tooltip="{{localize 'NAVIS.Implant.Mechanics.Clear'}}">
-                    <i class="fa-solid fa-xmark"></i>
-                </a>
-                {{else}}
-                <span class="hint">{{localize "NAVIS.Implant.Mechanics.Drop"}}</span>
-                {{/if}}
-            </div>
-            {{/if}}
+                    <div class="navis-mech-row">
+                        {{!-- Grouped by what a kind MEANS. Thirteen kinds in one
+                              flat list is a list read from the top every time;
+                              five headed groups is a list aimed at. --}}
+                        <select class="navis-mech-kind" data-navis-field="kind"
+                                data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}"
+                                aria-label="{{localize 'NAVIS.Implant.Mechanics.Kind'}}">
+                            {{#each this.kindGroups}}
+                            <optgroup label="{{localize this.label}}">
+                                {{#each this.options}}
+                                <option value="{{this.value}}" {{#if this.selected}}selected{{/if}}>
+                                    {{localize this.label}}
+                                </option>
+                                {{/each}}
+                            </optgroup>
+                            {{/each}}
+                        </select>
 
-            {{#if this.isTestMod}}
-            <div class="navis-mech-row sub">
-                <div class="field">
-                    <label>{{localize "NAVIS.Implant.Mechanics.Skill"}}</label>
-                    <select data-navis-field="skill"
-                            data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}">
-                        {{selectOptions @root.mechanics.skillOptions selected=this.skill localize=true
-                                        blank=(localize "NAVIS.Implant.Mechanics.AnySkill")}}
-                    </select>
-                </div>
-                <div class="field narrow">
-                    <label>{{localize "NAVIS.Implant.Mechanics.Advantage"}}</label>
-                    {{!-- Written out rather than built from an object: the order is the book's. --}}
-                    <select data-navis-field="advantage"
-                            data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}">
-                        {{#each this.advantageOptions}}
-                        <option value="{{this.value}}" {{#if this.selected}}selected{{/if}}>
-                            {{localize this.label}}
-                        </option>
+                        {{#if this.keyOptions}}
+                        <select class="navis-mech-key" data-navis-field="key"
+                                data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}">
+                            {{selectOptions this.keyOptions selected=this.key localize=true blank=""}}
+                        </select>
+                        {{/if}}
+
+                        {{#if this.hasValue}}
+                        {{#unless this.ladder}}
+                        <input class="navis-mech-value" type="number" data-navis-field="value"
+                               data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}"
+                               value="{{this.value}}">
+                        {{/unless}}
+                        <a class="navis-mech-ladder {{#if this.ladder}}on{{/if}}" data-action="navisToggleLadder"
+                           data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}">
+                            <i class="fa-solid fa-layer-group"></i> {{localize "NAVIS.Implant.Mechanics.Ladder"}}
+                        </a>
+                        {{/if}}
+                    </div>
+
+                    {{!-- A value that changes with the implant's level. A level left blank reads as the ordinary one. --}}
+                    {{#if this.ladder}}
+                    <div class="navis-mech-levels">
+                        {{#each this.levels}}
+                        <div class="level {{#if this.ordinary}}ordinary{{/if}}">
+                            <label>{{this.level}}</label>
+                            <input type="number" data-navis-field="value" data-level="{{this.level}}"
+                                   data-group-id="{{../groupId}}" data-entry-id="{{../id}}"
+                                   value="{{this.value}}">
+                        </div>
                         {{/each}}
-                    </select>
-                </div>
-            </div>
-            {{/if}}
+                    </div>
+                    {{/if}}
 
-            {{#if this.isScript}}
-            <div class="navis-mech-script">
-                <textarea data-navis-field="script" rows="4"
-                          data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}"
-                          placeholder="{{localize 'NAVIS.Implant.Mechanics.ScriptHint'}}">{{this.script}}</textarea>
-                <div class="field">
-                    <label>{{localize "NAVIS.Implant.Mechanics.Throttle"}}</label>
-                    <input type="text" data-navis-field="throttle"
+                    {{!-- A granted trait or talent, held by reference so it stays the compendium's. --}}
+                    {{#if this.isDrop}}
+                    <div class="navis-mech-drop" data-navis-drop="{{this.dropType}}"
+                         data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}">
+                        {{#if this.sourceUuid}}
+                        <a class="navis-mech-source" data-action="navisOpenSource" data-uuid="{{this.sourceUuid}}">
+                            <img src="{{this.sourceImg}}" alt="">
+                            <span>{{this.sourceName}}</span>
+                        </a>
+                        <a class="navis-mech-control" data-action="navisClearSource"
                            data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}"
-                           value="{{this.throttle}}"
-                           placeholder="{{localize 'NAVIS.Implant.Mechanics.ThrottleHint'}}">
+                           data-tooltip="{{localize 'NAVIS.Implant.Mechanics.Clear'}}">
+                            <i class="fa-solid fa-xmark"></i>
+                        </a>
+                        {{else}}
+                        <span class="hint">{{localize "NAVIS.Implant.Mechanics.Drop"}}</span>
+                        {{/if}}
+                    </div>
+                    {{/if}}
+
+                    {{#if this.isTestMod}}
+                    <div class="navis-mech-row sub">
+                        <div class="field">
+                            <label>{{localize "NAVIS.Implant.Mechanics.Skill"}}</label>
+                            <select data-navis-field="skill"
+                                    data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}">
+                                {{selectOptions @root.mechanics.skillOptions selected=this.skill localize=true
+                                                blank=(localize "NAVIS.Implant.Mechanics.AnySkill")}}
+                            </select>
+                        </div>
+                        <div class="field narrow">
+                            <label>{{localize "NAVIS.Implant.Mechanics.Advantage"}}</label>
+                            {{!-- Written out rather than built from an object: the order is the book's. --}}
+                            <select data-navis-field="advantage"
+                                    data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}">
+                                {{#each this.advantageOptions}}
+                                <option value="{{this.value}}" {{#if this.selected}}selected{{/if}}>
+                                    {{localize this.label}}
+                                </option>
+                                {{/each}}
+                            </select>
+                        </div>
+                    </div>
+                    {{/if}}
+
+                    {{#if this.isScript}}
+                    <div class="navis-mech-script">
+                        <textarea data-navis-field="script" rows="4"
+                                  data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}"
+                                  placeholder="{{localize 'NAVIS.Implant.Mechanics.ScriptHint'}}">{{this.script}}</textarea>
+                        <div class="field">
+                            <label>{{localize "NAVIS.Implant.Mechanics.Throttle"}}</label>
+                            <input type="text" data-navis-field="throttle"
+                                   data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}"
+                                   value="{{this.throttle}}"
+                                   placeholder="{{localize 'NAVIS.Implant.Mechanics.ThrottleHint'}}">
+                        </div>
+                    </div>
+                    {{/if}}
+
+                    {{!-- Live kinds are consulted while a test is prepared, so no Active Effect ever appears. --}}
+                    {{#if this.live}}
+                    <div class="navis-mech-live">
+                        <i class="fa-solid fa-bolt"></i> {{localize "NAVIS.Implant.Mechanics.Live"}}
+                    </div>
+                    {{/if}}
+
                 </div>
             </div>
-            {{/if}}
-
-            {{!-- Live kinds are consulted while a test is prepared, so no Active Effect ever appears. --}}
-            {{#if this.live}}
-            <div class="navis-mech-live">
-                <i class="fa-solid fa-bolt"></i> {{localize "NAVIS.Implant.Mechanics.Live"}}
-            </div>
-            {{/if}}
 
         </div>
         {{/each}}
