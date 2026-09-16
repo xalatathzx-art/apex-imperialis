@@ -180,6 +180,14 @@ export function defineImplantSheet() {
 
       context.mechanics = mechanicsContext(this.item);
 
+      // What the surgery recorded on this implant. Shown beside the gate so the
+      // adaptation period is a fact on the sheet rather than a number that only
+      // ever appeared once in a chat card. There is no clock here on purpose:
+      // the stored day count is what the operation produced, and advancing it
+      // is a time system this cycle does not have.
+      const days = this.item.getFlag(MODULE_ID, "adaptation")?.days;
+      context.adaptationDays = Number.isFinite(days) ? days : null;
+
       return context;
     }
 

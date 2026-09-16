@@ -21,7 +21,7 @@
  */
 
 import { changesFor, resolveEntries } from "./entries.js";
-import { IMPLANT_TYPE, actorCapState, implantsOf, isImplantActive } from "../state.js";
+import { IMPLANT_TYPE, actorCapState, isImplantActive } from "../state.js";
 import { CAP_PENALTY_SCRIPT, talentBonuses, testModScript } from "../test-mods.js";
 import { syncEnergyCapacity } from "../../technomiracles/resources.js";
 
@@ -33,9 +33,26 @@ export const CAP_FLAG = "capPenalty";
 
 const ownEffects = (doc, flag) => doc.effects.filter(effect => effect.getFlag(MODULE_ID, flag));
 
-/** impmal reads scripts from an effect's own system data; transferData carries it to the actor. */
+/**
+ * impmal reads scripts from an effect's own system data; `transferData` decides
+ * whether an effect living on an ITEM reaches the actor wearing it.
+ *
+ * `warhammer-lib.js` determineTransfer() allows exactly one shape:
+ *
+ *   let allowed = (application.type == "document" && application.documentType == "Actor");
+ *
+ * Both halves are required. `documentType: "Item"` means "this effect applies to
+ * the item itself" — that is what module/config/weapon-trait-effects.js wants for
+ * a weapon trait, and it is the wrong answer here: an implant's numbers and
+ * testMod scripts belong to the character. Actor#allApplicableEffects and
+ * getScripts both run through determineTransfer(), so getting this wrong makes
+ * every mechanic on the implant silently inert.
+ *
+ * These are also the schema defaults (warhammer-lib.js defineSchema), stated
+ * explicitly here because the defaults are what make the feature work.
+ */
 const scriptedEffect = (scripts) => ({
-  transferData: { documentType: "Item" },
+  transferData: { type: "document", documentType: "Actor" },
   scriptData: scripts
 });
 
@@ -116,36 +133,61 @@ export async function syncCapPenalty(actor) {
 }
 
 /**
- * Per-actor queues for `syncEnergyCapacity`.
+ * Keyed promise chains for every sync in this file.
  *
- * `createItem`/`deleteItem` can fire several times near-simultaneously for one
- * Foundry operation (bulk embedded-document creation/deletion), and
- * `syncEnergyCapacity` is a read-modify-write on the actor's flag: an
- * overlapping pair can have the second call clone a snapshot taken before the
- * first call's write landed, and lose that write. Task 9 hit the identical
- * problem in the implant sheet and solved it with a promise chain kept on the
- * class instance; here the caller is a set of module-level hooks rather than
- * one instance, so the chain is keyed by actor id instead, so two different
- * actors never serialize against each other.
+ * All three syncs are read-modify-writes, and all three are driven by hooks
+ * that fire several times for one user action: `_onFit` alone sends `side`,
+ * `chosenEffects` and `installed` as three separate item updates, and Foundry
+ * fires `createItem`/`deleteItem` once per document in a bulk operation. An
+ * overlapping pair reads its "existing" snapshot before the previous call's
+ * create lands, so both branches take the create path — leaving the implant
+ * with two effects and doubled numbers, or the actor with two cap penalties.
+ *
+ * Task 9 hit the identical problem in the implant sheet and solved it with a
+ * promise chain kept on the class instance; here the callers are module-level
+ * hooks rather than one instance, so each chain is keyed — by item id for the
+ * implant's own effect, by actor id for the actor-level syncs — so unrelated
+ * documents never serialize against each other.
  */
+const mechanicsQueues = new Map();
+const capQueues = new Map();
 const energyQueues = new Map();
 
 /**
- * The same callback is passed as both handlers on purpose: a rejected sync
- * must not wedge the chain, or one failure would stop `energy.max` from ever
- * following that actor's implants again for the rest of the session.
+ * The same callback is passed as both handlers on purpose: a rejected sync must
+ * not wedge the chain, or one failure would stop that document from ever being
+ * synced again for the rest of the session. A failure is logged rather than
+ * swallowed, because an implant whose numbers stopped following its sheet is
+ * otherwise indistinguishable from an implant with no numbers.
  */
-function queueEnergySync(actor) {
-  if (!actor) return;
+function enqueue(queues, key, work, what) {
+  if (!key) return;
 
-  const work = () => syncEnergyCapacity(actor);
-  const previous = energyQueues.get(actor.id) ?? Promise.resolve();
+  const previous = queues.get(key) ?? Promise.resolve();
   const next = previous.then(work, work);
-  energyQueues.set(actor.id, next);
+  queues.set(key, next);
 
   return next.catch(error => {
-    console.error(`${MODULE_ID} | Заряд capacity failed to sync.`, error);
+    console.error(`${MODULE_ID} | ${what} failed to sync.`, error);
   });
+}
+
+/** Serialised `syncImplantMechanics`, keyed per implant. */
+export function queueImplantMechanics(item) {
+  if (item?.type !== IMPLANT_TYPE) return;
+  return enqueue(mechanicsQueues, item.id, () => syncImplantMechanics(item), "Implant mechanics");
+}
+
+/** Serialised `syncCapPenalty`, keyed per actor. */
+export function queueCapPenalty(actor) {
+  if (!actor) return;
+  return enqueue(capQueues, actor.id, () => syncCapPenalty(actor), "The over-cap penalty");
+}
+
+/** Serialised `syncEnergyCapacity`, keyed per actor. */
+function queueEnergySync(actor) {
+  if (!actor) return;
+  return enqueue(energyQueues, actor.id, () => syncEnergyCapacity(actor), "Заряд capacity");
 }
 
 let registered = false;
@@ -161,28 +203,36 @@ export function registerImplantMechanicsHooks() {
   const touchesGate = change =>
     WATCHED.some(key => foundry.utils.hasProperty(change, `system.${key}`));
 
+  // The three syncs are queued independently rather than chained: the cap
+  // penalty and the Заряд ceiling are read off the actor's implants, not off
+  // the effect this implant is about to grow, so nothing is waiting on anything.
   Hooks.on("createItem", item => {
     if (item?.type !== IMPLANT_TYPE) return;
-    syncImplantMechanics(item).then(() => syncCapPenalty(item.parent));
+    queueImplantMechanics(item);
+    queueCapPenalty(item.parent);
     queueEnergySync(item.parent);
   });
 
   Hooks.on("updateItem", (item, change) => {
     if (item?.type !== IMPLANT_TYPE) return;
     if (!touchesGate(change)) return;
-    syncImplantMechanics(item).then(() => syncCapPenalty(item.parent));
+    queueImplantMechanics(item);
+    queueCapPenalty(item.parent);
     queueEnergySync(item.parent);
   });
 
   Hooks.on("deleteItem", item => {
     if (item?.type !== IMPLANT_TYPE) return;
-    syncCapPenalty(item.parent);
+    queueCapPenalty(item.parent);
     queueEnergySync(item.parent);
   });
 
   // Toughness damage can put a legal character over the ceiling without any
   // implant changing — that is exactly the case the book calls out on p. 269.
+  // Toughness moves the Заряд ceiling too, so both follow it.
   Hooks.on("updateActor", (actor, change) => {
-    if (foundry.utils.hasProperty(change, "system.characteristics.tgh")) syncCapPenalty(actor);
+    if (!foundry.utils.hasProperty(change, "system.characteristics.tgh")) return;
+    queueCapPenalty(actor);
+    queueEnergySync(actor);
   });
 }

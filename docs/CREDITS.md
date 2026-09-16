@@ -41,7 +41,11 @@ number beside them (Difficulty, test cadence, hazard thresholds) is ours and
 follows Imperium Maledictum, not the warhammer-dbc corebook, and the window
 describes what this module's own automation does;
 `tests/environment-readout.test.mjs` and `tests/environment-explain.test.mjs`
-keep those descriptions and the rules engine in step. The surrounding interface, data model and Imperium Maledictum automation
+keep those descriptions and the rules engine in step. The implant classifier in
+`module/implants/classify.js` is a port of that project's
+`module/constants/body-map.mjs::classifyImplant` — the name-to-body-system
+keyword map and its match order — reworked from a live lookup into an authoring
+default that the item stores and the sheet can override. The surrounding interface, data model and Imperium Maledictum automation
 are Navis Apexialis implementations.
 
 ## Type

@@ -489,7 +489,7 @@ export class SurgeonWindow extends Base {
     const item = this.#item(target);
     if (!item) return;
 
-    await extractImplant(this.#actor, item);
+    await extractImplant(item);
     this.render();
   }
 

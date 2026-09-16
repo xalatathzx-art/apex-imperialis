@@ -1519,6 +1519,8 @@
   "NAVIS.Implant.PlacementHint": "Зона подставляется по гнезду и стороне, пока её не выбрали вручную.",
   "NAVIS.Implant.Gate": "Состояние",
   "NAVIS.Implant.GateHint": "Работает только установленный, неповреждённый и включённый.",
+  "NAVIS.Implant.Adaptation": "Адаптация, суток",
+  "NAVIS.Implant.TestMod": "Модификатор проверки",
   "NAVIS.Implant.Category": "Категория",
   "NAVIS.Implant.Page": "Страница",
   "NAVIS.Implant.Kind.characteristic": "Характеристика",

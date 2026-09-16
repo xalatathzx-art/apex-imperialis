@@ -369,6 +369,8 @@
   "NAVIS.Implant.PlacementHint": "The location follows the slot and the side until it is chosen by hand.",
   "NAVIS.Implant.Gate": "State",
   "NAVIS.Implant.GateHint": "Only an installed, undamaged, switched-on implant does anything.",
+  "NAVIS.Implant.Adaptation": "Adaptation (days)",
+  "NAVIS.Implant.TestMod": "Test modifier",
   "NAVIS.Implant.Category": "Category",
   "NAVIS.Implant.Page": "Page",
   "NAVIS.Implant.Kind.characteristic": "Characteristic",

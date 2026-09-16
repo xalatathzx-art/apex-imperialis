@@ -49,17 +49,36 @@ export function talentBonuses(actor) {
   return { talentBonus, sacredCode };
 }
 
+/**
+ * A `dialog` script is a row in the roll dialog, and a row does nothing until it
+ * is ACTIVATED. `WarhammerScript.activated()` returns false outright when
+ * `options.activateScript` is missing, so a dialog script without one renders as
+ * an unticked line the player has to opt into by hand — fine for an optional
+ * bonus, useless for a penalty nobody will ever tick against themselves.
+ *
+ * So the guard that used to sit at the top of the script body moves into
+ * `activateScript`, and `hideScript` keeps rows that cannot apply to THIS roll
+ * out of the list entirely. impmal's own built-ins (Aim, Charge) pair the two
+ * exactly this way, and module/environment/gravity-rules.js already follows it.
+ * The script body itself then does its work unconditionally.
+ */
+
 /** Being over either ceiling is −30 in the book (p. 269) — Disadvantage under the doctrine. */
 export const CAP_PENALTY_SCRIPT = Object.freeze({
   label: "NAVIS.Implant.OverCap",
   trigger: "dialog",
-  script: "args.disadvantage++;"
+  script: "args.disadvantage++;",
+  // Over the cap is over the cap: every test, no condition, never hidden.
+  options: Object.freeze({
+    activateScript: "return true;",
+    hideScript: "return false;"
+  })
 });
 
 /**
  * @param {object} entry   a constructor entry
  * @param {number} quality the implant's level, 1..4
- * @returns {{label: string, trigger: string, script: string}|null}
+ * @returns {{label: string, trigger: string, script: string, options: object}|null}
  */
 export function testModScript(entry, quality) {
   if (entry?.kind !== "testMod") return null;
@@ -73,8 +92,8 @@ export function testModScript(entry, quality) {
 
   const lines = [];
 
-  // An entry with no skill speaks to every test, so it needs no guard at all.
-  if (entry.skill) lines.push(`if (args.skill !== ${JSON.stringify(entry.skill)}) return;`);
+  // An entry with no skill speaks to every test, so its guard is a constant.
+  const guard = entry.skill ? `args.skill === ${JSON.stringify(entry.skill)}` : "true";
 
   if (successes) lines.push(`args.fields.SL += ${successes};`);
   // Use ++ to increment, not assignment. impmal's computeState (impmal.js:156-168)
@@ -86,6 +105,10 @@ export function testModScript(entry, quality) {
   return {
     label: entry.label || "NAVIS.Implant.TestMod",
     trigger: "dialog",
-    script: lines.join("\n")
+    script: lines.join("\n"),
+    options: {
+      activateScript: `return ${guard};`,
+      hideScript: `return !(${guard});`
+    }
   };
 }

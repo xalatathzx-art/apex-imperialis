@@ -19,9 +19,9 @@
  *     four, because the availability test rolls against it.
  *   - at least one quality level carries text. An implant with an empty ladder
  *     renders four blank tabs on the sheet.
- *   - every entry kind is one `targets.js` knows, and no entry is a `script`.
- *     Nothing in this cycle executes a script entry, so one in the pack is a
- *     rule that silently does nothing.
+ *   - every entry kind is one `targets.js` knows, and no entry is a `script`,
+ *     a `trait` or a `talent`. Nothing in this cycle executes or grants those,
+ *     so one in the pack is a rule that silently does nothing.
  *   - an implant either carries mechanics or is marked prose-only, and every
  *     prose-only implant is LISTED BY NAME rather than passed over. Prose-only
  *     is a legitimate outcome — the book is full of effects impmal cannot
@@ -55,8 +55,16 @@ const AVAILABILITY = new Set(["common", "scarce", "rare", "exotic"]);
 const SLOT_KEYS = new Set(SLOTS.map(slot => slot.key));
 const KNOWN_KINDS = new Set(ENTRY_KINDS);
 
-/** Kinds nothing in this cycle executes. An entry of this kind is a silent no-op. */
-const UNSUPPORTED_KINDS = new Set(["script"]);
+/**
+ * Kinds nothing in this cycle executes. An entry of this kind is a silent no-op.
+ *
+ * `script` is decided at roll time and nothing runs it. `trait` and `talent`
+ * would grant an item, and no code on this cycle grants anything: targets.js
+ * gives them no data path, apply.js never creates an item for them, and the
+ * `sourceUuid` the constructor records is read by nobody. Granting is a later
+ * cycle; until it exists, authored content must not be able to rely on them.
+ */
+const UNSUPPORTED_KINDS = new Set(["script", "trait", "talent"]);
 
 const problems = [];
 const fail = message => problems.push(message);
