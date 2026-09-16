@@ -21,6 +21,7 @@
  */
 
 import { changesFor, resolveEntries } from "./entries.js";
+import { compileEntry } from "./compile.js";
 import { IMPLANT_TYPE, actorCapState, isImplantActive } from "../state.js";
 import { CAP_PENALTY_SCRIPT, talentBonuses, testModScript } from "../test-mods.js";
 import { syncEnergyCapacity } from "../../technomiracles/resources.js";
@@ -32,6 +33,16 @@ export const EFFECT_FLAG = "mechanicsEffect";
 export const CAP_FLAG = "capPenalty";
 
 const ownEffects = (doc, flag) => doc.effects.filter(effect => effect.getFlag(MODULE_ID, flag));
+
+/**
+ * Every script this implant's entries contribute, from both compilers.
+ * Exported for tests: it takes plain data and touches no document.
+ */
+export function scriptsForImplant(mechanics, chosen, quality) {
+  return resolveEntries(mechanics, chosen)
+    .map(entry => testModScript(entry, quality) ?? compileEntry(entry, quality))
+    .filter(Boolean);
+}
 
 /**
  * impmal reads scripts from an effect's own system data; `transferData` decides
@@ -91,9 +102,7 @@ export async function syncImplantMechanics(item) {
   const quality = item.system.quality;
 
   const changes = changesFor(item.system.mechanics, chosen, quality);
-  const scripts = resolveEntries(item.system.mechanics, chosen)
-    .map(entry => testModScript(entry, quality))
-    .filter(Boolean)
+  const scripts = scriptsForImplant(item.system.mechanics, chosen, quality)
     .map(resolveLabel);
 
   const existing = ownEffects(item, EFFECT_FLAG);
