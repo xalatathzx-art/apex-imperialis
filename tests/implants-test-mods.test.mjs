@@ -79,6 +79,24 @@ test("an entry that would do nothing produces no script", () => {
   assert.equal(testModScript({ kind: "testMod" }, 2), null);
 });
 
+// This file is pure and has no game.i18n to call: it hands back a key, not
+// text, and module/implants/mechanics/apply.js resolves it before the
+// script reaches a stored effect (see the comment on resolveLabel there).
+test("a testMod with no author label carries a key, not text", () => {
+  const script = testModScript({ kind: "testMod", value: 1 }, 2);
+  assert.equal(script.labelKey, "NAVIS.Implant.TestMod");
+  assert.equal(script.label, undefined);
+});
+
+// An author-supplied entry.label is literal text for THIS implant, not a
+// translation key, so it must come back under a different property name —
+// otherwise apply.js's resolveLabel would try to localize plain text.
+test("an author-supplied label is literal text, not a key to resolve", () => {
+  const script = testModScript({ kind: "testMod", value: 1, label: "Second Heart pulse" }, 2);
+  assert.equal(script.label, "Second Heart pulse");
+  assert.equal(script.labelKey, undefined);
+});
+
 test("the cap penalty is a dialog script applying Disadvantage", () => {
   assert.equal(CAP_PENALTY_SCRIPT.trigger, "dialog");
   assert.match(CAP_PENALTY_SCRIPT.script, /args\.disadvantage\+\+/);
@@ -88,4 +106,9 @@ test("the cap penalty is a dialog script applying Disadvantage", () => {
 test("the cap penalty activates itself and is never hidden", () => {
   assert.equal(CAP_PENALTY_SCRIPT.options.activateScript, "return true;");
   assert.equal(CAP_PENALTY_SCRIPT.options.hideScript, "return false;");
+});
+
+test("the cap penalty carries a key too — this file cannot localize it", () => {
+  assert.equal(CAP_PENALTY_SCRIPT.labelKey, "NAVIS.Implant.OverCap");
+  assert.equal(CAP_PENALTY_SCRIPT.label, undefined);
 });

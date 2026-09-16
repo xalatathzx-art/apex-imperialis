@@ -57,6 +57,30 @@ const scriptedEffect = (scripts) => ({
 });
 
 /**
+ * `test-mods.js` is pure and cannot call `game.i18n`, so a script built there
+ * carries a `labelKey` instead of a `label` — this is the one Foundry-aware
+ * point in the pipeline that resolves it. `WarhammerScript`'s constructor
+ * (warhammer-lib.js:620) does `this.label = data.label` verbatim with no
+ * localization of its own, so a key left unresolved prints as the literal
+ * key string in the roll dialog.
+ *
+ * `labelKey` is kept on the stored record alongside the resolved `label` —
+ * it costs one field and means the key survives for anything that later
+ * wants to re-resolve it. Nothing does that automatically today: the label
+ * is baked into the stored effect at build time, so switching the game's
+ * language leaves an already-built implant's labels in the old language
+ * until the implant is next touched (its mechanics rebuilt). That is
+ * acceptable — this module's content is deliberately Russian — but worth
+ * knowing before chasing a "wrong language" report as a bug.
+ *
+ * A script with a literal `label` instead (an author's own text, from
+ * `entry.label` in test-mods.js) has no `labelKey` and passes through
+ * untouched — it must never be run through `localize`.
+ */
+const resolveLabel = (script) =>
+  script.labelKey ? { ...script, label: game.i18n.localize(script.labelKey) } : script;
+
+/**
  * Rebuild the implant's effect from its current entries, quality and gate
  * state. Idempotent — safe to call on every relevant update.
  */
@@ -69,7 +93,8 @@ export async function syncImplantMechanics(item) {
   const changes = changesFor(item.system.mechanics, chosen, quality);
   const scripts = resolveEntries(item.system.mechanics, chosen)
     .map(entry => testModScript(entry, quality))
-    .filter(Boolean);
+    .filter(Boolean)
+    .map(resolveLabel);
 
   const existing = ownEffects(item, EFFECT_FLAG);
 
@@ -127,7 +152,7 @@ export async function syncCapPenalty(actor) {
     name: game.i18n.localize("NAVIS.Implant.OverCap"),
     changes: [],
     disabled: false,
-    system: { transferData: { documentType: "Actor" }, scriptData: [CAP_PENALTY_SCRIPT] },
+    system: { transferData: { documentType: "Actor" }, scriptData: [resolveLabel(CAP_PENALTY_SCRIPT)] },
     flags: { [MODULE_ID]: { [CAP_FLAG]: true } }
   }]);
 }

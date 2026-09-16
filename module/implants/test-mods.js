@@ -63,9 +63,16 @@ export function talentBonuses(actor) {
  * The script body itself then does its work unconditionally.
  */
 
-/** Being over either ceiling is −30 in the book (p. 269) — Disadvantage under the doctrine. */
+/**
+ * Being over either ceiling is −30 in the book (p. 269) — Disadvantage under
+ * the doctrine.
+ *
+ * `labelKey`, not `label`: this file is pure and has no `game.i18n` to call.
+ * `module/implants/mechanics/apply.js`, which is Foundry-aware, resolves it
+ * to `label` before the script reaches a stored effect.
+ */
 export const CAP_PENALTY_SCRIPT = Object.freeze({
-  label: "NAVIS.Implant.OverCap",
+  labelKey: "NAVIS.Implant.OverCap",
   trigger: "dialog",
   script: "args.disadvantage++;",
   // Over the cap is over the cap: every test, no condition, never hidden.
@@ -76,9 +83,24 @@ export const CAP_PENALTY_SCRIPT = Object.freeze({
 });
 
 /**
+ * This file is pure and has no `game.i18n` to call, so the label comes back
+ * as one of two shapes, deliberately distinguishable:
+ *
+ *   - `{ labelKey }` — the default, a translation key still waiting to be
+ *     resolved. This is the common case, `"NAVIS.Implant.TestMod"`.
+ *   - `{ label }` — an author supplied `entry.label` themselves. That is
+ *     literal text they wrote for THIS implant, not a key, so it must never
+ *     be run through `localize`. Returning it under a different property
+ *     name than the key case is what keeps the two from being confused
+ *     downstream.
+ *
+ * `module/implants/mechanics/apply.js`, which is Foundry-aware, resolves a
+ * `labelKey` to `label` before the script reaches a stored effect; a literal
+ * `label` passes through untouched.
+ *
  * @param {object} entry   a constructor entry
  * @param {number} quality the implant's level, 1..4
- * @returns {{label: string, trigger: string, script: string, options: object}|null}
+ * @returns {{label: string, trigger: string, script: string, options: object}|{labelKey: string, trigger: string, script: string, options: object}|null}
  */
 export function testModScript(entry, quality) {
   if (entry?.kind !== "testMod") return null;
@@ -102,8 +124,12 @@ export function testModScript(entry, quality) {
   if (advantage > 0) lines.push("args.advantage++;");
   if (advantage < 0) lines.push("args.disadvantage++;");
 
+  // An author's own literal text keeps its own property name so it is never
+  // mistaken for a key waiting to be localized (see the doc comment above).
+  const named = entry.label ? { label: entry.label } : { labelKey: "NAVIS.Implant.TestMod" };
+
   return {
-    label: entry.label || "NAVIS.Implant.TestMod",
+    ...named,
     trigger: "dialog",
     script: lines.join("\n"),
     options: {
