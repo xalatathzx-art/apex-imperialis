@@ -1,0 +1,33 @@
+{
+  "name": "Constrictor",
+  "type": "trait",
+  "_id": "navisSpTrait0020",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 2000,
+  "system": {
+    "notes": {
+      "player": "<p>You do not need a weapon to finish what your arms have started.</p> <p>While you have a grappled target you may deal <strong>Strength bonus</strong> damage ignoring armour as a Free Action on your turn.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "navisSpFolder001",
+    "name": "Species",
+    "type": "Item",
+    "folder": null,
+    "description": "",
+    "color": "#8b6a1f",
+    "sorting": "m",
+    "sort": 100,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "navisSpFolder002",
+    "name": "Subspecies",
+    "type": "Item",
+    "folder": null,
+    "description": "",
+    "color": "#6b5227",
+    "sorting": "m",
+    "sort": 200,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "navisSpFolder003",
+    "name": "Species Traits",
+    "type": "Item",
+    "folder": null,
+    "description": "",
+    "color": "#7a4a1f",
+    "sorting": "m",
+    "sort": 300,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "navisSpFolder004",
+    "name": "Species Equipment",
+    "type": "Item",
+    "folder": null,
+    "description": "",
+    "color": "#5e3a14",
+    "sorting": "m",
+    "sort": 400,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  }
+]

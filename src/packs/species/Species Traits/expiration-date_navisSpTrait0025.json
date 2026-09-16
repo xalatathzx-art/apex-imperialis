@@ -1,0 +1,33 @@
+{
+  "name": "Expiration Date",
+  "type": "trait",
+  "_id": "navisSpTrait0025",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 2500,
+  "system": {
+    "notes": {
+      "player": "<p>Your cells were built to divide fast. They will not do it for long.</p> <p>You have Advantage on Fortitude Tests to recover from injury and heal at twice the usual rate. You also age at twice the usual rate, and the GM knows the year you were made.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

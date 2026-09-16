@@ -1,0 +1,46 @@
+/* ══════════════════════════════════════════════════════════════════════════
+   NAVIS APEXIALIS SKIN — 20 IMPMAL-CORE
+
+   The paid impmal-core module ships its own stylesheet on top of the system's:
+   a teal texture under every sidebar tab, a textured page background, the
+   journal sidebar, and the pause banner. It is a module stylesheet like ours,
+   and Foundry does not promise which of two modules' styles loads first, so
+   these rules cannot lean on source order. Each one repeats a class of its
+   own selector — `.sidebar-tab.sidebar-tab` — to land one class heavier than
+   impmal-core's rule and win whichever loads later.
+
+   Kept on purpose: the pause ring and skull, which are imperial iconography
+   rather than chrome, and the animated starfield on the warp-overload bar,
+   which is a game state worth the motion.
+   ══════════════════════════════════════════════════════════════════════ */
+
+/* impmal-core: `body { background: url(background.webp) }` */
+body.navis-skin {
+  background: var(--navis-ground);
+}
+
+/* impmal-core: `body.impmal-theme .sidebar-tab { background-image: sidebar.webp }` */
+body.navis-skin .sidebar-tab.sidebar-tab {
+  background-image: none;
+  background-color: rgba(10, 10, 11, 0.94);
+}
+
+/* impmal-core: `body.impmal-theme .sheet.journal-entry .journal-sidebar` */
+body.navis-skin .sheet.journal-entry .journal-sidebar.journal-sidebar {
+  background-image: none;
+  background-color: var(--navis-surface);
+  border-right: 1px solid var(--navis-line);
+}
+
+/* impmal-core: `body.impmal-theme #pause` — a teal band in Novarese. */
+body.navis-skin #pause#pause {
+  background: linear-gradient(to right, transparent 0%, rgba(10, 10, 11, 0.88) 35%, rgba(10, 10, 11, 0.88) 65%, transparent 100%);
+  border-top: 1px solid var(--navis-brass-dim);
+  border-bottom: 1px solid var(--navis-brass-dim);
+}
+body.navis-skin #pause#pause figcaption {
+  font-family: var(--navis-font-stencil);
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  color: var(--navis-brass);
+}

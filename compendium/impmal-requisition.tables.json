@@ -1,0 +1,1384 @@
+{
+  "label": "Таблицы (Реквизиция)",
+  "entries": {
+    "GO8H53Nl1ZdHIhcL": {
+      "name": "Агромир — вещи происхождения",
+      "results": {
+        "uZpCyYGZDuvtCYj0": {
+          "description": "Запаянная без воздуха @UUID[Compendium.impmal-core.journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.XXSPEv1YwIKDyQx4#provisions-and-meals]{трапеза хорошего качества} из урожая или скота, доставшихся с редкого избытка"
+        },
+        "4758ufxq8g4EUtRI": {
+          "description": "Дрянной @UUID[Compendium.impmal-requisition.items.Item.mugkAbW0jKcleF5I]{Вдохновляющий букварь имперского пехотинца} без половины страниц, оставшийся от брата или сестры, погибших в бою"
+        },
+        "c712iab2v9R36kGh": {
+          "description": "Медальон-аквила с изображением того, кого у вас отняла Ноктис Этерна (@UUID[Compendium.impmal-core.items.Item.oaY0wS7LewD6DXK6]{Священный символ})"
+        },
+        "dIX1wCMTbJrLAfTX": {
+          "description": "@UUID[Compendium.impmal-core.items.Item.B55qG1YQTS9IyuTm]{Рюкзак или сумка}, сплетённый из главной прядильной культуры вашего родного мира"
+        },
+        "zwtb2jsI3UbK7JNi": {
+          "description": "Семейный серп, приписанный Администратумом и бережно сохраняемый сотню поколений (Уродливый @UUID[Compendium.impmal-core.items.Item.qQ8Y8nmiaTaKgzvs]{Нож})"
+        },
+        "416NRzZscApPBO7H": {
+          "description": "Дрянное @UUID[Compendium.impmal-core.items.Item.O5AtUszQGDbi8qmS]{Снаряжение выживальщика}, рассчитанное на мягкую погоду вашего родного мира"
+        },
+        "7xFmRXcPv531s9aU": {
+          "description": "Пастуший посох (@UUID[Compendium.impmal-core.items.Item.bYYdQ2TEdSgOTIf0]{Посох}), завещанный наставником, с надписью: «То строгостью, то милостью ведёт Он паству Свою»"
+        },
+        "EgvuDgpmx42G1VL3": {
+          "description": "Банка семян (@UUID[Compendium.impmal-core.journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.XXSPEv1YwIKDyQx4#provisions-and-meals]{стандартная трапеза}), на каждом из которых за содеянные грехи вырезана имперская аквила"
+        },
+        "BNixTeVAu5SuWwRe": {
+          "description": "Громоздкий @UUID[Compendium.impmal-core.items.Item.NlduMbxJZrKejC9J]{Фотовизор или фотолинзы} — подарок ослепшего на солнце товарища с уборочных полей"
+        },
+        "p8ScoPQZwhOsNrtk": {
+          "description": "Обойма дрянных @UUID[Compendium.impmal-core.items.Item.kZuL2i84eWjUTUFv]{Патронов «Кровопийца»}, что выдают охотникам на крупного опасного зверя вашего родного мира"
+        }
+      }
+    },
+    "ZF7aIkpTtNJYkPeN": {
+      "name": "Дикий мир — вещи происхождения",
+      "results": {
+        "uZpCyYGZDuvtCYj0": {
+          "description": "<p>Древний штык (@UUID[Compendium.impmal-core.items.Item.bme7IUpsgm3NzL83]{Штык}) из жуткого клыка высшего хищника</p>"
+        },
+        "4758ufxq8g4EUtRI": {
+          "description": "Грубый идол (@UUID[Compendium.impmal-core.items.Item.oaY0wS7LewD6DXK6]{Священный символ}) с Богом-Императором в виде сурового и требовательного божества природы"
+        },
+        "c712iab2v9R36kGh": {
+          "description": "Обрядовый поединочный клинок (@UUID[Compendium.impmal-core.items.Item.kZh4o3SszYKFtzHE]{Двуручное оружие}), расписанный рунической историей вашего племени"
+        },
+        "dIX1wCMTbJrLAfTX": {
+          "description": "Охотничий арбалет из железного дерева вашего родного мира (Дрянной @UUID[Compendium.impmal-core.items.Item.vCeI41URKYV6iuAD]{Стаб-револьвер})"
+        },
+        "zwtb2jsI3UbK7JNi": {
+          "description": "@UUID[Compendium.impmal-core.items.Item.WCb8cnulcFJqgoxX]{Кустарная броня}, сделанная шаманом племени из разбившегося имперского спутника"
+        },
+        "416NRzZscApPBO7H": {
+          "description": "Мягкий короб с 4 бурлящими железами, взятыми у смертоносного огнедышащего хищника вашего родного мира (Непредсказуемая @UUID[Compendium.impmal-core.items.Item.JU4aGpoaxZLY7eIO]{Огненная бомба})"
+        },
+        "7xFmRXcPv531s9aU": {
+          "description": "Уродливый @UUID[Compendium.impmal-core.items.Item.f1XuFoDwzexJZAas]{Боевой щит} из бронированной чешуи огромного зверя"
+        },
+        "EgvuDgpmx42G1VL3": {
+          "description": "Обрядовые орудия для нанесения шрамов (Дрянные @UUID[Compendium.impmal-core.items.Item.paXqMCUFqcpVEEBE]{Пыточные инструменты}), чтобы хранить обычаи племени среди звёзд"
+        },
+        "BNixTeVAu5SuWwRe": {
+          "description": "Ненадёжный @UUID[Compendium.impmal-core.items.Item.AdB3ZzAOrnREfdsv]{Мультикомпас}, которым в вашем племени пользовались вместе с дурманящими снадобьями во время видений"
+        },
+        "p8ScoPQZwhOsNrtk": {
+          "description": "Дрянной @UUID[Compendium.impmal-core.items.Item.fhXBHDbBiY6PUUTc]{Хамелеолиновый плащ}, залатанный обрывками обычной ткани"
+        }
+      }
+    },
+    "aPVptc7S3iR4Zyo3": {
+      "name": "Мир-улей — вещи происхождения",
+      "results": {
+        "uZpCyYGZDuvtCYj0": {
+          "description": "Заводской топор, отливающий ядовитыми цветами от бессчётных химических разливов нижнего улья (@UUID[Compendium.impmal-core.items.Item.cnbaSByME7caQohv]{Топор})"
+        },
+        "4758ufxq8g4EUtRI": {
+          "description": "«Освобождённый» инфопланшет мануфакторумного смотрителя с небольшой трещиной на экране (Уродливый @UUID[Compendium.impmal-core.items.Item.h1g1g9Rrjt7CnYeW]{Инфопланшет})"
+        },
+        "c712iab2v9R36kGh": {
+          "description": "Уродливый револьвер с резьбой, оставленной оружейником вашей прежней банды (@UUID[Compendium.impmal-core.items.Item.vCeI41URKYV6iuAD]{Стаб-револьвер})"
+        },
+        "dIX1wCMTbJrLAfTX": {
+          "description": "Пара заводских кислотоупорных рукавиц, почерневших на пальцах (Дрянные и уродливые @UUID[Compendium.impmal-core.items.Item.EFuAlEM1vh5fvSDW]{Флак-перчатки})"
+        },
+        "zwtb2jsI3UbK7JNi": {
+          "description": "Прицел Вожака (@UUID[Compendium.impmal-core.items.Item.Sa0x6Yf5xZ2OcfVp]{Омниприцел}) с грубо вырезанным крылатым черепом на корпусе"
+        },
+        "416NRzZscApPBO7H": {
+          "description": "Треснувшие мануфакторумные щитки от вспышек (Уродливый @UUID[Compendium.impmal-core.items.Item.NlduMbxJZrKejC9J]{Фотовизор или фотолинзы})"
+        },
+        "7xFmRXcPv531s9aU": {
+          "description": "Дрянная и уродливая @UUID[Compendium.impmal-core.items.Item.iG45nxwOAfNkpKYJ]{Крюк-кошка} с зарубками на корпусе — по одной за каждое «дело»"
+        },
+        "EgvuDgpmx42G1VL3": {
+          "description": "Кислотоупорная шинель, протравленная проволока и кислотоупорный зонт (Уродливое @UUID[Compendium.impmal-core.items.Item.O5AtUszQGDbi8qmS]{Снаряжение выживальщика})"
+        },
+        "BNixTeVAu5SuWwRe": {
+          "description": "Фосфорная химическая лампа, слепяще-белая и склонная мигать (@UUID[Compendium.impmal-core.items.Item.1LgXZfag35FhcNoj]{Светосфера или фонарь})"
+        },
+        "p8ScoPQZwhOsNrtk": {
+          "description": "Обрезок крепкой металлической трубы, которым слишком часто дрались (@UUID[Compendium.impmal-core.items.Item.lwPymw5Hah0H8Ey5]{Импровизированное одноручное}, со свойством Незаметное)"
+        }
+      }
+    },
+    "h9DHBITQxIIEqmD1": {
+      "name": "Мир-кузница — вещи происхождения",
+      "results": {
+        "uZpCyYGZDuvtCYj0": {
+          "description": "@UUID[Compendium.impmal-core.items.Item.dO7XoDXD9QYTy6zZ]{Ауспик или сканер} с алгоритмами поиска, которые ваш наставник вывел вопреки господствующей на планете технодогме"
+        },
+        "4758ufxq8g4EUtRI": {
+          "description": "Шестерня Механикус размером с ладонь с надписью на бинарике: «Многому учит неудача, если она не твоя» (@UUID[Compendium.impmal-core.items.Item.oaY0wS7LewD6DXK6]{Священный символ})"
+        },
+        "c712iab2v9R36kGh": {
+          "description": "Склянка @UUID[Compendium.impmal-core.items.Item.S8vLsphFt4PnjsHc]{Священного масла}, бережно слитая с последней машины, что вы починили перед призывом"
+        },
+        "dIX1wCMTbJrLAfTX": {
+          "description": "Большой гаечный ключ (@UUID[Compendium.impmal-core.items.Item.CrbE669FitnwNPZX]{Импровизированное двуручное}), сплошь покрытый бинарной вязью, — подарок вашего прежнего смотрителя"
+        },
+        "zwtb2jsI3UbK7JNi": {
+          "description": "@UUID[Compendium.impmal-core.items.Item.h1g1g9Rrjt7CnYeW]{Инфопланшет}, который умеет соединяться и обмениваться данными только с машинными когитаторами"
+        },
+        "416NRzZscApPBO7H": {
+          "description": "@UUID[Compendium.impmal-core.items.Item.NlduMbxJZrKejC9J]{Фотовизор или фотолинзы}, что принадлежал вашему товарищу, пока того не повысили и не благословили аугметическими глазами"
+        },
+        "7xFmRXcPv531s9aU": {
+          "description": "Грубая @UUID[Compendium.impmal-core.items.Item.zK3ii7HUPfnQGKtg]{Аугметическая рука}. Она громоздкая и дрянная: на лучшее вы своей работой так и не наслужили"
+        },
+        "EgvuDgpmx42G1VL3": {
+          "description": "Громоздкий @UUID[Compendium.impmal-core.actors.Actor.Y6oJff3F4qo2Xhlx]{Сервочереп}-инфодознаватель, собранный из хлама. Если бы о нём узнали ваши прежние хозяева, вам бы не жить"
+        },
+        "BNixTeVAu5SuWwRe": {
+          "description": "Громоздкий уродливый @UUID[Compendium.impmal-requisition.actors.Actor.YoOntJBL0bm63ihX]{Модуль «КАТ»}, когитатор которого списан с верного, но глупого пса"
+        },
+        "p8ScoPQZwhOsNrtk": {
+          "description": "@UUID[Compendium.impmal-requisition.items.Item.5M7cneBoJANBJ9f6]{Внутренний отсек}. Вы так и не нашли ни записи, ни причины, почему вам вживили эту полузаконную аугметику"
+        }
+      }
+    },
+    "iYeoXi4DcYlXr8Ih": {
+      "name": "Мир-храм — вещи происхождения",
+      "results": {
+        "uZpCyYGZDuvtCYj0": {
+          "description": "@UUID[Compendium.impmal-core.items.Item.oaY0wS7LewD6DXK6]{Священный символ}, вырезанный из костей прославленного и благочестивого прадеда"
+        },
+        "4758ufxq8g4EUtRI": {
+          "description": "Гильза от болта, сохранённая со времён Махарийской ереси, с надписью на низком готическом: «За братьев, которых я подвёл»"
+        },
+        "c712iab2v9R36kGh": {
+          "description": "@UUID[Compendium.impmal-requisition.items.Item.TNpIkOqRIZYDfyQh]{Книга} целиком из пергамена с поучениями малоизвестного имперского святого о том, что так или иначе все служат Богу-Императору"
+        },
+        "dIX1wCMTbJrLAfTX": {
+          "description": "Катехизис, принадлежавший вашему учителю. По пометкам на полях видно, что когда-то вера его пошатнулась"
+        },
+        "zwtb2jsI3UbK7JNi": {
+          "description": "@UUID[Compendium.impmal-core.items.Item.B55qG1YQTS9IyuTm]{Рюкзак или сумка} с шипастыми лямками — в назидание о том, что тяжелее всех ноша Бога-Императора"
+        },
+        "416NRzZscApPBO7H": {
+          "description": "Ветхое разрешение Министорума, выданное вашим прапрадеду и прапрабабке на паломничество к Махарии"
+        },
+        "7xFmRXcPv531s9aU": {
+          "description": "«Жизнь лорда-соляра Махария» (@UUID[Compendium.impmal-requisition.items.Item.VhJCmVa9cRWb2seD]{Книга}) с приписками эрудитов из секты, известной тем, что ходит по самому краю правоверия"
+        },
+        "EgvuDgpmx42G1VL3": {
+          "description": "@UUID[Compendium.impmal-core.items.Item.OdTP4DEK3oGAjMWZ]{Фильтры-затычки}, пропитанные благовониями, — оберегать от нечистого воздуха менее святых миров"
+        },
+        "BNixTeVAu5SuWwRe": {
+          "description": "@UUID[Compendium.impmal-core.items.Item.1LgXZfag35FhcNoj]{Светосфера или фонарь}, что светит сквозь трафарет с гербом Махария"
+        },
+        "p8ScoPQZwhOsNrtk": {
+          "description": "@UUID[Compendium.impmal-requisition.actors.Actor.y14EVxOEE4iRPMAv]{Череп-архив}. На его пюпитре вырезано: «Не верь глазам своим в век тьмы»"
+        }
+      }
+    },
+    "jkGsUmdLHedZGazg": {
+      "name": "Схола Прогениум — вещи происхождения",
+      "results": {
+        "uZpCyYGZDuvtCYj0": {
+          "description": "@UUID[Compendium.impmal-core.items.Item.Aw29y9tfO4Uc9uWb]{Хроно} с гравировкой вашего наставника-прогениума: «У Бога-Императора нет времени на милосердие»"
+        },
+        "4758ufxq8g4EUtRI": {
+          "description": "Бутылка выдержанного амасека в память о вашей первой победе под крылом наставника"
+        },
+        "c712iab2v9R36kGh": {
+          "description": "@UUID[Compendium.impmal-requisition.actors.Actor.ktUPQsWbSxgxXW4k.Item.N5qmWLUBBPrObKMi]{Громкоговоритель}, вручённый вам за ясный, властный и повелевающий голос"
+        },
+        "dIX1wCMTbJrLAfTX": {
+          "description": "@UUID[Compendium.impmal-core.items.Item.qQ8Y8nmiaTaKgzvs]{Нож} из прежнего полка вашего аббата-наставника с девизом: «Редко видим; всегда смертоносен»"
+        },
+        "zwtb2jsI3UbK7JNi": {
+          "description": "Обломок черепа однокашника со следами ожога от лазпистолета, из которого вам приказали его казнить"
+        },
+        "416NRzZscApPBO7H": {
+          "description": "@UUID[Compendium.impmal-requisition.items.Item.MpshKI9nR0LNYuDU]{Кобура с биозамком} с надписью: «Одна лишь вера способна перевернуть галактику»"
+        },
+        "7xFmRXcPv531s9aU": {
+          "description": "Уродливая @UUID[Compendium.impmal-core.items.Item.DSKAdYMPRHvadLZz]{Шоковая булава}, которой ваш наставник вразумлял учеников"
+        },
+        "EgvuDgpmx42G1VL3": {
+          "description": "Пара перчаток с вплетённой во внешнюю сторону власяницей и вытисненной на коже надписью: «Боль очищает душу»"
+        },
+        "BNixTeVAu5SuWwRe": {
+          "description": "Дымный @UUID[Compendium.impmal-requisition.items.Item.9bjSHPN7bX4cFw6V]{Термоплащ} — подарок наставника, что служил в скрытном полку Милитарум"
+        },
+        "p8ScoPQZwhOsNrtk": {
+          "description": "@UUID[Compendium.impmal-requisition.items.Item.Rm5qg30z5kmLCJVs]{Подкожный имплантат} с работающим @UUID[Compendium.impmal-core.items.Item.Aw29y9tfO4Uc9uWb]{Хроно}, чтобы вы никогда не забывали о времени"
+        }
+      }
+    },
+    "otkiWIOeADLXOYOH": {
+      "name": "Феодальный мир — вещи происхождения",
+      "results": {
+        "uZpCyYGZDuvtCYj0": {
+          "description": "Обтрёпанный @UUID[Compendium.impmal-core.items.Item.oaY0wS7LewD6DXK6]{Священный символ} в виде аквилы, сплетённый из соломы"
+        },
+        "4758ufxq8g4EUtRI": {
+          "description": "Рукоять сломанного клинка, которым бился ваш родич, павший на службе Астра Милитарум"
+        },
+        "c712iab2v9R36kGh": {
+          "description": "Колючий шарф, сотканный из дикорастущих трав вашего родного мира"
+        },
+        "dIX1wCMTbJrLAfTX": {
+          "description": "Оберег из звериных костей, связанный с безвестным местным святым и Имперским Кредо не признанный"
+        },
+        "zwtb2jsI3UbK7JNi": {
+          "description": "Арбалетный болт с вырезанными на нём местными переложениями обычных молитв Имперского Кредо"
+        },
+        "416NRzZscApPBO7H": {
+          "description": "Бутылка крепкого питья, какое варят только на вашем родном мире"
+        },
+        "7xFmRXcPv531s9aU": {
+          "description": "Крепкий пояс из выделанных шкур местного скота"
+        },
+        "EgvuDgpmx42G1VL3": {
+          "description": "Выцветший листок, раздававшийся во время одного из редких заходов пустотного корабля Адептус Министорум"
+        },
+        "BNixTeVAu5SuWwRe": {
+          "description": "Кисет с сушёными семенами местной пищевой культуры — приношение Императору за щедрый урожай"
+        },
+        "p8ScoPQZwhOsNrtk": {
+          "description": "Свинцовый паломнический значок, добытый в величайшем соборе или месте поклонения вашей планеты"
+        }
+      }
+    },
+    "vDPC2xKBiWkDHgDn": {
+      "name": "Пустота — вещи происхождения",
+      "results": {
+        "uZpCyYGZDuvtCYj0": {
+          "description": "Кинжал, вырезанный из осколка, отбитого от пустотного кракена, что чуть не сожрал ваш корабль век назад (@UUID[Compendium.impmal-core.items.Item.qQ8Y8nmiaTaKgzvs]{Нож})"
+        },
+        "4758ufxq8g4EUtRI": {
+          "description": "@UUID[Compendium.impmal-core.items.Item.oaY0wS7LewD6DXK6]{Священный символ} из гнутой проволоки и хлама, что молит машинных духов корабля уберечь от разгерметизации"
+        },
+        "c712iab2v9R36kGh": {
+          "description": "Уродливый @UUID[Compendium.impmal-core.items.Item.YKdnnpcXv14ITvE5]{Пустотный костюм}, украшенный костями людей-пиратов, которым не удалось взять ваш корабль"
+        },
+        "dIX1wCMTbJrLAfTX": {
+          "description": "@UUID[Compendium.impmal-core.items.Item.16DWBUHaqigUg0ZT]{Дыхательный аппарат}. Века заплат и починок сделали его громоздким и уродливым, зато он доказал, что надёжный"
+        },
+        "zwtb2jsI3UbK7JNi": {
+          "description": "Громоздкий ненадёжный @UUID[Compendium.impmal-core.items.Item.h1g1g9Rrjt7CnYeW]{Инфопланшет}, будто бы укреплённый из-за неуклюжести прежнего хозяина"
+        },
+        "416NRzZscApPBO7H": {
+          "description": "Дрянная @UUID[Compendium.impmal-core.items.Item.Yp1Fmiml09wxHj4h]{Вокс-бусина}. На всех каналах пробивается назойливая ноосферная болтовня, внятная одним лишь техножрецам высокого чина"
+        },
+        "7xFmRXcPv531s9aU": {
+          "description": "Пара громоздких @UUID[Compendium.impmal-core.items.Item.OjLq7yDUPG8TpISi]{Удушающих гранат}, наспех собранных из огнетушащих составов во время неудавшегося мятежа"
+        },
+        "EgvuDgpmx42G1VL3": {
+          "description": "@UUID[Compendium.impmal-core.items.Item.Aw29y9tfO4Uc9uWb]{Хроно}, что всегда показывает местное время последнего пустотного корабля, на котором вы служили"
+        },
+        "BNixTeVAu5SuWwRe": {
+          "description": "Диковинно скроенная одежда, сшитая по тем крохам, что ваши сверстники слышали о погоде на планетах"
+        },
+        "p8ScoPQZwhOsNrtk": {
+          "description": "Дрянной уродливый @UUID[Compendium.impmal-core.items.Item.8OPStKOqQK9l08ix]{Жилет из ксеношкуры} из обрезков, выброшенных командным составом"
+        }
+      }
+    },
+    "3V2pSInPfU6XAxfK": {
+      "name": "Изъяны снаряжения",
+      "results": {
+        "msBlAIpCLTeCjWx9": {
+          "description": "<p><strong>Шумное</strong>: Эта вещь работает очень громко и может привлечь внимание тех, кто окажется рядом.</p>"
+        },
+        "vkBOdc5EQlFdoNvO": {
+          "description": "<p><strong>Брезгливый дух</strong>: Получив 1 или больше Порчи, при следующем применении этой вещи вы должны сперва пройти <strong>среднюю (+0) проверку Техники</strong>, иначе она откажется работать и потребует починки.</p>"
+        },
+        "mia7uIg1G4yLPJs5": {
+          "description": "<p><strong>Своенравное</strong>: Эта вещь не будет работать весь день и считается сломанной, пока вы не потратите час на странный и подозрительный обряд, чтобы её умилостивить.</p>"
+        },
+        "ppA3UBrdazViBHSP": {
+          "description": "<p><strong>Мерзливый дух</strong>: Раз за схватку, применяя эту вещь при наличии у вас осквернения или мутации, вы должны бросить по таблице @UUID[Compendium.impmal-core.tables.RollTable.HL6DtTGWIUQy5NZ9]{Фиаско}.</p>"
+        },
+        "O1wX9fFh2oXjVdIU": {
+          "description": "<p><strong>Вызывающий облик</strong>: Вид или назначение вещи оскорбительны или противны одной из служб Империума, и её люди, скорее всего, отнесутся к вам недоброжелательно.</p>"
+        },
+        "OLFTOh42dUgibeB0": {
+          "description": "<p><strong>Нечистое</strong>: Эту вещь трудно держать в чистоте: она собирает на себя грязь и скверну отовсюду, куда попадает.</p>"
+        },
+        "ySee4yw1DsHxAXBh": {
+          "description": "<p><strong>Дурная примета</strong>: Потратив или сжегши очко судьбы, при следующем применении этой вещи вы должны сперва пройти <strong>среднюю (+0) проверку Техники</strong>, иначе она перестанет работать и потребует починки.</p>"
+        },
+        "09MKOMgX8i68nlKP": {
+          "description": "<p><strong>Отвращение к нематериальному</strong>: Раз за схватку, оказавшись рядом с демоном или существом с порогом Варпа, вы должны пройти <strong>среднюю (+0) проверку Техники</strong>, иначе вещь перестанет работать и потребует починки.</p>"
+        },
+        "jDnMQ2zizH5ZVcAj": {
+          "description": "<p><strong>Хрупкое</strong>: Эта вещь легко ломается, плохо держит повреждения и чинится дольше прочих.</p>"
+        },
+        "AWaRq6H2gpaQjxjd": {
+          "description": "<p><strong>Череда отказов</strong>: Раз за схватку, провалив проверку, связанную с этой вещью или совершённую с её помощью, вы лишаетесь её работы: она перестаёт действовать и потребует починки, прежде чем ею снова можно будет пользоваться.</p>"
+        }
+      }
+    },
+    "pnQ5HlIwq1nBeZYv": {
+      "name": "Причуды снаряжения",
+      "results": {
+        "msBlAIpCLTeCjWx9": {
+          "description": "<p><strong>Обманчивое</strong>: Из-за необычного мануфакторумного устройства или образца эта вещь выглядит как другая, похожая, — и может обмануть чужие ожидания.</p>"
+        },
+        "vkBOdc5EQlFdoNvO": {
+          "description": "<p><strong>Долговечное</strong>: Если у этой вещи есть срок действия, он удваивается; иначе она особенно стойко переносит удары и царапины, что могли бы её износить или повредить.</p>"
+        },
+        "mia7uIg1G4yLPJs5": {
+          "description": "<p><strong>По руке</strong>: Вы настолько свыклись с этой вещью, что носить её стало легче: её нагрузка уменьшается на 1.</p>"
+        },
+        "ppA3UBrdazViBHSP": {
+          "description": "<p><strong>Знаковое</strong>: Эта вещь удачно воплощает суть одной из служб Империума, и её люди относятся к вам благосклоннее.</p>"
+        },
+        "O1wX9fFh2oXjVdIU": {
+          "description": "<p><strong>Образцовое</strong>: Если с этой вещью связана какая-то проверка или ведущий требует проверку для её применения, раз за схватку вы получаете в ней +1 КУ.</p>"
+        },
+        "OLFTOh42dUgibeB0": {
+          "description": "<p><strong>Тихое</strong>: Эта вещь работает тише прочих подобных. Даже применяя её, можно остаться незамеченным и не привлечь к себе внимания.</p>"
+        },
+        "ySee4yw1DsHxAXBh": {
+          "description": "<p><strong>Ободряющее</strong>: Раз за схватку присутствие этой вещи укрепляет вашу решимость и веру в Империум, добавляя +1 КУ к любой проверке Дисциплины.</p>"
+        },
+        "09MKOMgX8i68nlKP": {
+          "description": "<p><strong>Быстрое</strong>: Эта вещь делает своё дело споро, а нередко и с охотой.</p>"
+        },
+        "jDnMQ2zizH5ZVcAj": {
+          "description": "<p><strong>Незапятнанное</strong>: Эту вещь легко держать в чистоте: она отталкивает грязь и не принимает на себя никакой отравы и скверны, что иначе осела бы на ней.</p>"
+        },
+        "AWaRq6H2gpaQjxjd": {
+          "description": "<p><strong>Освящённое</strong>: От повреждений, царапин и починок эта вещь приобрела странное сходство с предметом веры и теперь служит хозяину священным символом.</p>"
+        }
+      }
+    },
+    "XW8YaWwfUdiKh7xL": {
+      "name": "Причуды оружия",
+      "results": {
+        "msBlAIpCLTeCjWx9": {
+          "description": "<p><strong>Благословение изобилия</strong>: Атакуя этим оружием, когда магазин должен опуститься до 0, бросьте 1к10. На 10 он опускается до 1.</p>"
+        },
+        "vkBOdc5EQlFdoNvO": {
+          "description": "<p><strong>Первый залп</strong>: В первый раз за схватку это оружие наносит критическое попадание не только при дубле, но и при любом успешном результате, что делится на 10, — то есть 10, 20, 30 и так далее.</p>"
+        },
+        "mia7uIg1G4yLPJs5": {
+          "description": "<p><strong>Господство</strong>: Раз за схватку, когда у вас 1 или больше превосходства, это оружие наносит при первом попадании на 1 урона больше.</p>"
+        },
+        "ppA3UBrdazViBHSP": {
+          "description": "<p><strong>Рьяный дух</strong>: В первый раз за схватку, стреляя из этого оружия, вы получаете преимущество в этой атаке.</p>"
+        },
+        "O1wX9fFh2oXjVdIU": {
+          "description": "<p><strong>Стойкий дух</strong>: Раз за схватку, атакуя этим оружием с травмой, вы совершаете эту проверку с преимуществом.</p>"
+        },
+        "OLFTOh42dUgibeB0": {
+          "description": "<p><strong>Водительство Императора</strong>: Раз за схватку, потратив очко судьбы с этим оружием в руках, вы получаете преимущество в следующей атаке этим оружием.</p>"
+        },
+        "ySee4yw1DsHxAXBh": {
+          "description": "<p><strong>Неустанный дух</strong>: Раз за схватку, когда это оружие наносит критическое попадание, его магазин увеличивается на 1.</p>"
+        },
+        "09MKOMgX8i68nlKP": {
+          "description": "<p><strong>Непоколебимый дух</strong>: Раз за схватку, в первый раз, когда вам выпадает фиаско в атаке, вы не обращаете на него внимания.</p>"
+        },
+        "jDnMQ2zizH5ZVcAj": {
+          "description": "<p><strong>Дерзкий дух</strong>: Раз за схватку вы получаете преимущество в первой атаке этим оружием, пока противник давит вас числом.</p>"
+        },
+        "AWaRq6H2gpaQjxjd": {
+          "description": "<p><strong>Карающий дух</strong>: Раз за схватку, впервые атакуя этим оружием демона или существо с порогом Варпа, вы совершаете эту проверку с преимуществом.</p>"
+        }
+      }
+    },
+    "mXTT8vXYtV3HhJDC": {
+      "name": "Изъяны оружия",
+      "results": {
+        "msBlAIpCLTeCjWx9": {
+          "description": "<p><strong>Недовольный дух</strong>: Получив 1 или больше Порчи, при следующем применении этого оружия вы должны бросить по таблице @UUID[Compendium.impmal-core.tables.RollTable.HL6DtTGWIUQy5NZ9]{Фиаско}.</p>"
+        },
+        "vkBOdc5EQlFdoNvO": {
+          "description": "<p><strong>Очищающий дух</strong>: Пока у вас 1 или больше Порчи, перезаряжая это оружие, бросайте 1к10. На 10 оно заклинивает, и на перезарядку придётся потратить ещё одно действие.</p>"
+        },
+        "mia7uIg1G4yLPJs5": {
+          "description": "<p><strong>Прожорливость</strong>: Атакуя этим оружием, если атака должна уменьшить магазин, бросьте 1к10. На 10 магазин уменьшается ещё на 1.</p>"
+        },
+        "ppA3UBrdazViBHSP": {
+          "description": "<p><strong>Укороченное</strong>: В каждой схватке, пока вы не предпримете с этим оружием действие «Прицеливание», его дальность понижена на один шаг.</p>"
+        },
+        "O1wX9fFh2oXjVdIU": {
+          "description": "<p><strong>Иссякший дух</strong>: Раз за схватку первое критическое попадание этим оружием считается обычным успешным попаданием.</p>"
+        },
+        "OLFTOh42dUgibeB0": {
+          "description": "<p><strong>В кольце</strong>: Раз за схватку, впервые применяя это оружие, когда противник давит вас числом, вы должны бросить по таблице @UUID[Compendium.impmal-core.tables.RollTable.HL6DtTGWIUQy5NZ9]{Фиаско}.</p>"
+        },
+        "ySee4yw1DsHxAXBh": {
+          "description": "<p><strong>Тоска</strong>: Раз за схватку, впервые атакуя этим оружием с травмой, вы совершаете проверку с помехой.</p>"
+        },
+        "09MKOMgX8i68nlKP": {
+          "description": "<p><strong>Порицание</strong>: Сжегши очко судьбы, при следующей атаке этим оружием вы должны бросить по таблице «Фиаско».</p>"
+        },
+        "jDnMQ2zizH5ZVcAj": {
+          "description": "<p><strong>Гнусный дух</strong>: Раз за схватку, впервые атакуя этим оружием при наличии у вас мутации или осквернения, вы совершаете проверку с помехой.</p>"
+        },
+        "AWaRq6H2gpaQjxjd": {
+          "description": "<p><strong>Никтофобия</strong>: В первый раз за схватку, атакуя этим оружием во тьме, в мареве или при скверном освещении, вы должны бросить по таблице «Фиаско».</p>"
+        }
+      }
+    },
+    "p0CkUSUzC33zYdBs": {
+      "name": "Причуды брони",
+      "results": {
+        "msBlAIpCLTeCjWx9": {
+          "description": "<p><strong>Неосквернённая</strong>: Эта броня всегда пахнет чистотой, и никакая грязь не запачкает и не осквернит её насовсем.</p>"
+        },
+        "vkBOdc5EQlFdoNvO": {
+          "description": "<p><strong>Плавучая</strong>: Сколько бы ни весила эта броня и всё, что на вас надето, какая-то особенность её устройства позволяет держаться на плаву и даже помогает плыть.</p>"
+        },
+        "mia7uIg1G4yLPJs5": {
+          "description": "<p><strong>Быстрые застёжки</strong>: То ли из-за хитрого устройства, то ли из-за неведомой переделки эту броню легко надеть и легко снять: на то и другое уходит вдвое меньше времени.</p>"
+        },
+        "ppA3UBrdazViBHSP": {
+          "description": "<p><strong>Резвость</strong>: Раз за схватку, пока у вас 1 или больше превосходства и на вас эта броня, ваша скорость на один ход становится быстрой.</p>"
+        },
+        "O1wX9fFh2oXjVdIU": {
+          "description": "<p><strong>Дерзкое упорство</strong>: Раз за схватку, когда у вашей команды нет превосходства и вы получаете критическое попадание, уменьшите бросок по <strong>таблице критических ран</strong> на 1.</p>"
+        },
+        "OLFTOh42dUgibeB0": {
+          "description": "<p><strong>Неопалимая</strong>: Раз за схватку, пока у вашей команды 1 или больше превосходства, вы не получаете состояние <em>горение</em> в первый раз, когда оно должно вас настигнуть.</p>"
+        },
+        "ySee4yw1DsHxAXBh": {
+          "description": "<p><strong>Дух чутья</strong>: Раз за схватку вы получаете +1 КУ в <strong>проверке Рефлексов (Уклонение)</strong>, чтобы уйти от оружия со свойством <em>Взрыв</em> или <em>Разлёт</em>.</p>"
+        },
+        "09MKOMgX8i68nlKP": {
+          "description": "<p><strong>Устрашающая</strong>: Убранство этой брони на иных наводит особенный ужас. Пока она на вас, раз за схватку вы получаете +1 КУ в <strong>проверке Командования (Запугивание)</strong>.</p>"
+        },
+        "jDnMQ2zizH5ZVcAj": {
+          "description": "<p><strong>Укреплённая</strong>: Раз за схватку, если вы получаете критическое попадание, находясь в каком-либо укрытии, уменьшите бросок по <strong>таблице критических ран</strong> на 1.</p>"
+        },
+        "AWaRq6H2gpaQjxjd": {
+          "description": "<p><strong>Праведный оплот</strong>: Раз за схватку, если вы получаете критическое попадание, обороняя зону в бою, уменьшите бросок по <strong>таблице критических ран</strong> на 1.</p>"
+        }
+      }
+    },
+    "hIPHERTywsoWjJ7t": {
+      "name": "Изъяны брони",
+      "results": {
+        "msBlAIpCLTeCjWx9": {
+          "description": "<p><strong>Презрительный дух</strong>: Получив 1 или больше Порчи, при следующем попадании по вам считайте, что у атаки есть свойство <em>Состояние (сбит с ног)</em>.</p>"
+        },
+        "vkBOdc5EQlFdoNvO": {
+          "description": "<p><strong>Скверный укор</strong>: Пока у вас 1 или больше осквернений или мутаций, получив критическое попадание, прибавьте 1 к броску по <strong>таблице критических ран</strong>.</p>"
+        },
+        "mia7uIg1G4yLPJs5": {
+          "description": "<p><strong>Один во тьме</strong>: Раз за схватку, совершая действие движения в зоне со свойством <em>Тьма</em>, <em>Марево</em> или <em>Скверное освещение</em> либо входя в такую зону, вы должны бросить по таблице @UUID[Compendium.impmal-core.tables.RollTable.HL6DtTGWIUQy5NZ9]{Фиаско}.</p>"
+        },
+        "ppA3UBrdazViBHSP": {
+          "description": "<p><strong>Спотыкающаяся</strong>: Раз за схватку, когда ваша команда дерётся без превосходства, ваша скорость на один ход становится медленной.</p>"
+        },
+        "O1wX9fFh2oXjVdIU": {
+          "description": "<p><strong>Врасплох</strong>: Раз за схватку вы получаете −1 КУ в <strong>проверке Рефлексов (Уклонение)</strong>, чтобы уйти от оружия со свойством <em>Взрыв</em> или <em>Разлёт</em>.</p>"
+        },
+        "OLFTOh42dUgibeB0": {
+          "description": "<p><strong>Осыпающаяся</strong>: Раз за схватку, когда ваша команда дерётся без превосходства и вы получаете критическое попадание, прибавьте 1 к броску по <strong>таблице критических ран</strong>.</p>"
+        },
+        "ySee4yw1DsHxAXBh": {
+          "description": "<p><strong>Отягощающая</strong>: Раз за схватку, получив в бою 1 или больше Порчи, вы до конца этой схватки переходите на медленную скорость.</p>"
+        },
+        "09MKOMgX8i68nlKP": {
+          "description": "<p><strong>Неуклюжая</strong>: Раз за схватку, совершая действие <strong>«Бег»</strong>, бросьте [[/r d10]]. На 10 вы должны бросить по таблице @UUID[Compendium.impmal-core.tables.RollTable.HL6DtTGWIUQy5NZ9]{Фиаско}.</p>"
+        },
+        "jDnMQ2zizH5ZVcAj": {
+          "description": "<p><strong>Смятая</strong>: Раз за схватку, когда противник давит вас числом, первое попадание по вам наносит на 1 урона больше.</p>"
+        },
+        "AWaRq6H2gpaQjxjd": {
+          "description": "<p><strong>Злосчастная</strong>: Раз за схватку для первого попадания по вам область попадания бросается дважды, и нападающий выбирает, по какой из них пришлась атака.</p>"
+        }
+      }
+    },
+    "A75veVkPgP8YqNZV": {
+      "name": "Причуды машины",
+      "results": {
+        "msBlAIpCLTeCjWx9": {
+          "description": "<p><strong>Дух ориентирования</strong>: Машинный дух этой машины безошибочно чует магнитное поле мира и потому лучше ведёт её в скверную погоду и при помехах.</p>"
+        },
+        "vkBOdc5EQlFdoNvO": {
+          "description": "<p><strong>Блистающая</strong>: Эта машина на диво не берёт ни грязи, ни копоти, ни сажи. Быстрая химическая протирка — и она сияет как только что с завода.</p>"
+        },
+        "mia7uIg1G4yLPJs5": {
+          "description": "<p><strong>Оберегающая</strong>: Когда экипаж или пассажир этой машины получает урон от критического попадания или от потери управляемости, он уменьшает этот урон на 1 (но не меньше 1).</p>"
+        },
+        "ppA3UBrdazViBHSP": {
+          "description": "<p><strong>Скорая починка</strong>: Эта машина быстро отзывается и на спешный ремонт, и на обстоятельный, будто сама рвётся обратно в дело (по смыслу или по правилам — на ремонт уходит меньше времени).</p>"
+        },
+        "O1wX9fFh2oXjVdIU": {
+          "description": "<p><strong>Лихая</strong>: Машинный дух этой машины на удивление охоч до рискованных манёвров (водитель получает +1 КУ, совершая @UUID[JournalEntry.fpiV4F49v3gxmipn.JournalEntryPage.E6ehBMkpK3H21CpO]{действия машины}).</p>"
+        },
+        "OLFTOh42dUgibeB0": {
+          "description": "<p><strong>Ртутная машина</strong>: Когда этой машиной совершают действие @UUID[JournalEntry.fpiV4F49v3gxmipn.JournalEntryPage.E6ehBMkpK3H21CpO#evasive-manoeuvres]{Хаотичное маневрирование}, сложность этого действия смягчается на один шаг.</p>"
+        },
+        "ySee4yw1DsHxAXBh": {
+          "description": "<p><strong>Сокрушительный удар</strong>: Машинный дух этой машины жаждет бить врага. Совершая действие @UUID[JournalEntry.fpiV4F49v3gxmipn.JournalEntryPage.E6ehBMkpK3H21CpO#ram]{Таран}, считайте размер этой машины на шаг больше — для подсчёта урона.</p>"
+        },
+        "09MKOMgX8i68nlKP": {
+          "description": "<p><strong>Охотница</strong>: Машинный дух этой машины любит погоню. Раз за схватку водитель получает +1 КУ в <strong>проверке Пилотирования</strong>, чтобы догнать другую машину.</p>"
+        },
+        "jDnMQ2zizH5ZVcAj": {
+          "description": "<p><strong>Устойчивая машина</strong>: Эта машина держится почти неестественно ровно, и садиться в неё и выбираться из неё экипажу и пассажирам легко.</p>"
+        },
+        "AWaRq6H2gpaQjxjd": {
+          "description": "<p><strong>Оплот</strong>: Когда эта машина бросает по <strong>таблице критических попаданий</strong>, уменьшите результат на 1, но не меньше 1.</p>"
+        }
+      }
+    },
+    "qmFPOXnB70oTacpL": {
+      "name": "Изъяны машины",
+      "results": {
+        "msBlAIpCLTeCjWx9": {
+          "description": "<p><strong>Тревожные звуки</strong>: Двигатели или механизмы этой машины громче обычного, а экипаж и пассажиры жалуются на еле слышный вой, что изводит разум.</p>"
+        },
+        "vkBOdc5EQlFdoNvO": {
+          "description": "<p><strong>Себялюбие</strong>: Когда эта машина получает критическое попадание в грузовой отсек или по орудию, бросьте [[/r d10]]. На 6 и больше попадание вместо этого приходится по экипажу или пассажирам.</p>"
+        },
+        "mia7uIg1G4yLPJs5": {
+          "description": "<p><strong>Грязнуля</strong>: Эту машину трудно держать в чистоте: она тащит на себе всю грязь и скверну тех мест и полей боя, где бывает.</p>"
+        },
+        "ppA3UBrdazViBHSP": {
+          "description": "<p><strong>Ненавистный враг</strong>: Машинный дух этой машины ненавидит одного из врагов Империума: демонов, одиночек, мутантов или ксеносов. Всякая попытка подобраться к такой машине или к такому врагу даётся ей на 10 тяжелее.</p>"
+        },
+        "O1wX9fFh2oXjVdIU": {
+          "description": "<p><strong>Машина-гробница</strong>: Когда экипаж или пассажир этой машины получает урон от критического попадания или от потери управляемости, он увеличивает этот урон на 1.</p>"
+        },
+        "OLFTOh42dUgibeB0": {
+          "description": "<p><strong>Плетётся</strong>: Раз в сутки эта машина отказывается ехать быстрее медленной скорости в свой первый ход.</p>"
+        },
+        "ySee4yw1DsHxAXBh": {
+          "description": "<p><strong>Отступление</strong>: Когда эта машина получает критическое попадание, в свой следующий ход водитель должен пройти <strong>среднюю (+0) проверку Пилотирования</strong>, иначе машина немедленно совершает действие @UUID[JournalEntry.fpiV4F49v3gxmipn.JournalEntryPage.E6ehBMkpK3H21CpO#evasive-manoeuvres]{Хаотичное маневрирование}.</p>"
+        },
+        "09MKOMgX8i68nlKP": {
+          "description": "<p><strong>Израненная</strong>: Эта машина плохо держит повреждения и чинится дольше обычного (по смыслу или по правилам — привести её в порядок выходит дольше).</p>"
+        },
+        "jDnMQ2zizH5ZVcAj": {
+          "description": "<p><strong>Гневливая</strong>: Машинный дух этой машины не терпит хитростей и уловок, особенно перед лицом врага. Сложность действия @UUID[JournalEntry.fpiV4F49v3gxmipn.JournalEntryPage.E6ehBMkpK3H21CpO#evasive-manoeuvres]{Хаотичное маневрирование} для неё жёстче на один шаг.</p>"
+        },
+        "AWaRq6H2gpaQjxjd": {
+          "description": "<p><strong>Умилостивление</strong>: Эта машина отказывается заводиться сразу и требует странного и обстоятельного обряда, чтобы её умилостивить.</p>"
+        }
+      }
+    },
+    "LEuY8VGMAoJxnHG4": {
+      "name": "Таблица критических попаданий — шагающая техника",
+      "results": {
+        "XAxl8Us22Z2R0wL0": {
+          "description": "<p>Попадание приходится в некритичную часть машины, отскакивает от брони или по иным причинам не наносит урона.</p>"
+        },
+        "ExfS13df6BtQd5tp": {
+          "description": "<p>Кажется, всё в порядке, но в машине что-то начало звенеть. Пока техника не будет отремонтирована, все броски по этой таблице получают +1. Если <strong>Звон</strong> выпадет несколько раз, эти прибавки будут складываться.</p>"
+        },
+        "JguXs3wFlwjvXZCL": {
+          "description": "<p>Силой удара машину раскачивает или даже сбивает с шага, и экипаж на миг оглушает. Случайно выбранный член экипажа должен пройти <strong>среднюю (+0) проверку Стойкости (Неустанность)</strong> или получить состояние @UUID[Compendium.impmal-core.journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Оглушение (малое)} на три раунда.</p><p><strong>Проверка управления</strong>: средняя (+0), если водитель получил попадание.</p>"
+        },
+        "vRwfoLFjHGJcIkoi": {
+          "description": "<p>Случайно выбранный член экипажа или пассажир получает ранение от осколка или шальной пули. Цель немедленно получает попадание в случайную зону попадания из того оружия, что вызвало этот бросок по таблице. При определении урона цель может прибавить очки брони машины к своей броне. Если этот результат был вызван не вражеским попаданием, а чем-то иным, он наносит [[1d10]] единиц урона.</p><p><strong>Проверка управления</strong>: средняя (+0), если водитель получил попадание.</p>"
+        },
+        "UJST1HGeXHRE0Eib": {
+          "description": "<p>Попадание повреждает одно случайно выбранное орудие машины — оно не будет работать, пока его не отремонтируют. Если в это орудие приходится второе такое попадание, оно уничтожается. Если у машины нет вооружения или оно всё уже уничтожено, этот результат считается <strong>попаданием по экипажу/пассажирам</strong>.</p><p><strong>Проверка управления</strong>: рутинная (+20)</p>"
+        },
+        "mO4zB7nFN0R4Fw6Y": {
+          "description": "<p>Лобовая или бортовая броня машины (смотря куда пришлось попадание) понижается на [[1d5]].</p><p><strong>Проверка управления</strong>: средняя (+0)</p>"
+        },
+        "GNrdfIZofm1KJBxh": {
+          "description": "<p>Попадание приходится по ногам машины. Скорость машины падает на одну ступень. Если при этом скорость упадёт ниже медленной, машина потеряет возможность двигаться, пока её не отремонтируют, а водитель должен пройти подходящую проверку Пилотирования. При провале шагоход валится набок, и поднять его можно будет действием машины — уже после починки.</p><p><strong>Проверка управления</strong>: трудная (−10)</p>"
+        },
+        "40yIDWfwiiKZaF7M": {
+          "description": "<p>Машина превращается в огненный шар и мгновенно гибнет. Все, кто находится внутри, получают [[1d10+10]] единиц урона в случайную зону попадания и состояние @UUID[Compendium.impmal-core.journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Горение}.</p>"
+        }
+      }
+    },
+    "TnG7dMYjAL7WaFXp": {
+      "name": "Таблица критических попаданий — гусеничная техника",
+      "results": {
+        "XAxl8Us22Z2R0wL0": {
+          "description": "<p>Попадание приходится в некритичную часть машины, отскакивает от брони или по иным причинам не наносит урона.</p>"
+        },
+        "ExfS13df6BtQd5tp": {
+          "description": "<p>Кажется, всё в порядке, но в машине что-то начало звенеть. Пока техника не будет отремонтирована, все броски по этой таблице получают +1. Если <strong>Звон</strong> выпадет несколько раз, эти прибавки будут складываться.</p>"
+        },
+        "JguXs3wFlwjvXZCL": {
+          "description": "<p>Случайно выбранный член экипажа или пассажир получает ранение от осколка или шальной пули. Цель немедленно получает попадание в случайную зону попадания из того оружия, что вызвало этот бросок по таблице. При определении урона цель может прибавить очки брони машины к своей броне. Если этот результат был вызван не вражеским попаданием, а чем-то иным, он наносит [[1d10]] единиц урона.</p><p><strong>Проверка управления</strong>: средняя (+0), если водитель получил попадание.</p>"
+        },
+        "vRwfoLFjHGJcIkoi": {
+          "description": "<p>Удар приходится в грузовой отсек, если таковой имеется. Исход остаётся на усмотрение ведущего — например, груз может быть уничтожен или выпасть из кузова. Если грузового отсека у машины нет, этот результат считается <strong>попаданием по экипажу/пассажирам</strong>.</p><p><strong>Проверка управления</strong>: рутинная (+20)</p>"
+        },
+        "UJST1HGeXHRE0Eib": {
+          "description": "<p>Попадание повреждает одно случайно выбранное орудие машины — оно не будет работать, пока его не отремонтируют. Если в это орудие приходится второе такое попадание, оно уничтожается. Если у машины нет вооружения или оно всё уже уничтожено, этот результат считается <strong>попаданием по экипажу/пассажирам</strong>.</p><p><strong>Проверка управления</strong>: рутинная (+20)</p>"
+        },
+        "mO4zB7nFN0R4Fw6Y": {
+          "description": "<p>Лобовая или бортовая броня машины (смотря куда пришлось попадание) понижается на [[1d5]].</p><p><strong>Проверка управления</strong>: средняя (+0)</p>"
+        },
+        "GNrdfIZofm1KJBxh": {
+          "description": "<p>Попадание приходится в колёса или двигательный отсек. Скорость машины падает на одну ступень. Если при этом скорость упадёт ниже медленной, машина потеряет возможность двигаться, пока её не отремонтируют.</p><p><strong>Проверка управления</strong>: трудная (−10)</p>"
+        },
+        "40yIDWfwiiKZaF7M": {
+          "description": "<p>Машина превращается в огненный шар и мгновенно гибнет. Все, кто находится внутри, получают [[1d10+10]] единиц урона в случайную зону попадания и состояние @UUID[Compendium.impmal-core.journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Горение}.</p>"
+        }
+      }
+    },
+    "eK59j07kMGsBrPn3": {
+      "name": "Таблица критических попаданий — колёсная техника",
+      "results": {
+        "XAxl8Us22Z2R0wL0": {
+          "description": "<p>Попадание приходится в некритичную часть машины, отскакивает от брони или по иным причинам не наносит урона.</p>"
+        },
+        "ExfS13df6BtQd5tp": {
+          "description": "<p>Кажется, всё в порядке, но в машине что-то начало звенеть. Пока техника не будет отремонтирована, все броски по этой таблице получают +1. Если <strong>Звон</strong> выпадет несколько раз, эти прибавки будут складываться.</p>"
+        },
+        "JguXs3wFlwjvXZCL": {
+          "description": "<p>Случайно выбранный член экипажа или пассажир получает ранение от осколка или шальной пули. Цель немедленно получает попадание в случайную зону попадания из того оружия, что вызвало этот бросок по таблице. При определении урона цель может прибавить очки брони машины к своей броне. Если этот результат был вызван не вражеским попаданием, а чем-то иным, он наносит [[1d10]] единиц урона.</p><p><strong>Проверка управления</strong>: средняя (+0), если водитель получил попадание.</p>"
+        },
+        "vRwfoLFjHGJcIkoi": {
+          "description": "<p>Удар приходится в грузовой отсек, если таковой имеется. Исход остаётся на усмотрение ведущего — например, груз может быть уничтожен или выпасть из кузова. Если грузового отсека у машины нет, этот результат считается <strong>попаданием по экипажу/пассажирам</strong>.</p><p><strong>Проверка управления</strong>: рутинная (+20)</p>"
+        },
+        "UJST1HGeXHRE0Eib": {
+          "description": "<p>Попадание повреждает одно случайно выбранное орудие машины — оно не будет работать, пока его не отремонтируют. Если в это орудие приходится второе такое попадание, оно уничтожается. Если у машины нет вооружения или оно всё уже уничтожено, этот результат считается <strong>попаданием по экипажу/пассажирам</strong>.</p><p><strong>Проверка управления</strong>: рутинная (+20)</p>"
+        },
+        "mO4zB7nFN0R4Fw6Y": {
+          "description": "<p>Лобовая или бортовая броня машины (смотря куда пришлось попадание) понижается на [[1d5]].</p><p><strong>Проверка управления</strong>: средняя (+0)</p>"
+        },
+        "GNrdfIZofm1KJBxh": {
+          "description": "<p>Попадание приходится в гусеницы, колёса или двигатели. Скорость машины падает на одну ступень. Если при этом скорость упадёт ниже медленной, машина потеряет возможность двигаться, пока её не отремонтируют. Воздушная техника при этом падает на землю.</p><p><strong>Проверка управления</strong>: трудная (−10)</p>"
+        },
+        "40yIDWfwiiKZaF7M": {
+          "description": "<p>Машина превращается в огненный шар и мгновенно гибнет. Все, кто находится внутри, получают [[1d10+10]] единиц урона в случайную зону попадания и состояние @UUID[Compendium.impmal-core.journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Горение}.</p>"
+        }
+      }
+    },
+    "kIylBB1FNj2A4wvY": {
+      "name": "Таблица критических попаданий — воздушная техника",
+      "results": {
+        "XAxl8Us22Z2R0wL0": {
+          "description": "<p>Попадание приходится в некритичную часть машины, отскакивает от брони или по иным причинам не наносит урона.</p>"
+        },
+        "ExfS13df6BtQd5tp": {
+          "description": "<p>Кажется, всё в порядке, но в машине что-то начало звенеть. Пока техника не будет отремонтирована, все броски по этой таблице получают +1. Если <strong>Звон</strong> выпадет несколько раз, эти прибавки будут складываться.</p>"
+        },
+        "JguXs3wFlwjvXZCL": {
+          "description": "<p>Удар сотрясает всю машину, и экипаж с пассажирами швыряет по кабине. Каждый член экипажа и каждый пассажир должен пройти <strong>среднюю (+0) проверку Стойкости (Неустанность)</strong> или получить [[/r 1d10 # Урон]] единиц урона в случайную зону попадания.</p><p><strong>Проверка управления</strong>: средняя (+0), если водитель получил попадание.</p>"
+        },
+        "vRwfoLFjHGJcIkoi": {
+          "description": "<p>Удар приходится в грузовой отсек, если таковой имеется. Исход остаётся на усмотрение ведущего — например, груз может быть уничтожен или выпасть из кузова. Если грузового отсека у машины нет, этот результат считается <strong>попаданием по экипажу/пассажирам</strong>.</p><p><strong>Проверка управления</strong>: рутинная (+20)</p>"
+        },
+        "UJST1HGeXHRE0Eib": {
+          "description": "<p>Попадание повреждает одно случайно выбранное орудие машины — оно не будет работать, пока его не отремонтируют. Если в это орудие приходится второе такое попадание, оно уничтожается. Если у машины нет вооружения или оно всё уже уничтожено, этот результат считается <strong>попаданием по экипажу/пассажирам</strong>.</p><p><strong>Проверка управления</strong>: рутинная (+20)</p>"
+        },
+        "mO4zB7nFN0R4Fw6Y": {
+          "description": "<p>Лобовая или бортовая броня машины (смотря куда пришлось попадание) понижается на [[/r 1d5]]. Если машина идёт в опасной среде — в ядовитой атмосфере или в пустоте, — этот пробой делает машину внутри @UUID[Compendium.impmal-core.journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#hazard]{слегка опасной}, пока пробой не заделают.</p><p><strong>Проверка управления</strong>: средняя (+0)</p>"
+        },
+        "GNrdfIZofm1KJBxh": {
+          "description": "<p>Попадание приходится в крыло или двигатель. Скорость машины падает на одну ступень, а пилот получает −10 на любую проверку управления и на @UUID[JournalEntry.fpiV4F49v3gxmipn.JournalEntryPage.E6ehBMkpK3H21CpO#evasive-manoeuvres]{Хаотичное маневрирование}. Если при этом скорость упадёт ниже медленной, машина @UUID[JournalEntry.fpiV4F49v3gxmipn.JournalEntryPage.I4mFYORL990yUAjB#out-of-control]{теряет управляемость}.</p><p><strong>Проверка управления</strong>: трудная (−10)</p>"
+        },
+        "40yIDWfwiiKZaF7M": {
+          "description": "<p>Машина гибнет сразу и пылающим огненным шаром падает на землю. Все, кто находится внутри, получают [[/r 1d10 + 10 # Урон]] единиц урона в случайную зону попадания и состояние @UUID[Compendium.impmal-core.journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Горение}.</p>"
+        }
+      }
+    },
+    "Ap5zlVDkYAwYlnG6": {
+      "name": "Осложнения в дороге",
+      "description": "<p><em><strong>Примечание</strong>: в этой таблице собраны осложнения, с которыми персонажи могут столкнуться в пути, особенно если едут через опасные или разорённые войной места.</em></p>",
+      "results": {
+        "r8OB0BMQCH4iLhUp": {
+          "description": "<p><strong>Разбитая дорога</strong>: Оползень или рухнувшая кладка перегородили дорогу. Завал можно разобрать взрывчаткой или тяжёлым трудом, но и то и другое наделает много шуму и привлечёт чужое внимание.</p>"
+        },
+        "XdSH4ETDWSbDVts8": {
+          "description": "<p><strong>Заросли или толчея</strong>: Машине надо пройти через густые заросли или через людскую толчею. Как персонажи будут расчищать себе дорогу?</p>"
+        },
+        "Vr5FblgkqaKLXwn1": {
+          "description": "<p><strong>Засада или застава</strong>: Враг устроил засаду: разбитыми машинами и баррикадами он загоняет встречные машины в ловушку. Успеют ли персонажи заметить? Сумеют ли пройти хитростью?</p>"
+        },
+        "ofoJkUnZLcM4fJmN": {
+          "description": "<p><strong>Суровая погода или среда</strong>: Округу хлещет ливень или заносит снегом, а то и накрывает радиоактивным пеплом или ядовитыми газами. Персонажам лучше не вылезать наружу, а видимость резко падает (опасность или марево).</p>"
+        },
+        "DPTY0grNoxQyUR1b": {
+          "description": "<p><strong>Длинный мост</strong>: Впереди глубокое ущелье, и перебраться можно только по узкому мосту. Здесь был бой или беда, и мост выглядит ненадёжно.</p>"
+        },
+        "7qGXszvJ05ShrJE0": {
+          "description": "<p><strong>Вражеский дозор</strong>: Появляются враги верхом на стайке лёгких быстрых машин. У персонажей есть ровно столько времени, чтобы спрятаться, — или они предпочтут ударить первыми? Бой или бегство?</p>"
+        },
+        "e99MYfRkP7db2PVb": {
+          "description": "<p><strong>Минное поле</strong>: Впереди простор, усеянный разбитыми машинами и воронками: здесь стоят мины. Персонажи будут осторожно переходить минное поле или поедут в объезд?</p>"
+        },
+        "DlWX5vBQZ23VHsp7": {
+          "description": "<p><strong>Уцелевшие</strong>: Персонажи встречают горстку уцелевших. Все они просят помощи, и в глазах у них глубокое отчаяние. Можно ли им верить? По силам ли персонажам им помочь? Это может сорвать задание.</p>"
+        },
+        "ZApH0PV7xTtgOCym": {
+          "description": "<p><strong>Снайпер или наблюдатель</strong>: Вдалеке снайпер начинает постреливать по машине и экипажу. Отстреливаться или уходить? Он ведь может сообщить о команде другим.</p>"
+        },
+        "sypwOKgFD06jNGsO": {
+          "description": "<p><strong>Длинный тоннель</strong>: Дорога упирается в длинный тоннель или глубокое тёмное ущелье. Внутри сплошная тьма, местность незнакомая, и там может прятаться что угодно.</p>"
+        }
+      }
+    },
+    "54uVMoyMRfGS9XQx": {
+      "name": "Корабельные поверья",
+      "description": "<p><em><strong>Примечание</strong>: пока персонажи путешествуют на пустотном корабле, эта таблица придаёт красок палубам, через которые они идут, или той, где им отвели койку.</em></p>",
+      "results": {
+        "JAi5qUmQSjkyCH8s": {
+          "description": "<p>Когда взревели двигатели, трижды топни по палубе — отзовись на зов машинного духа.</p>"
+        },
+        "xILF18xxWmp4TtRp": {
+          "description": "<p>Молись только в сердце корабля, ибо Терра — сердце Империума.</p>"
+        },
+        "ucGj2q11Buwsl3cY": {
+          "description": "<p>Ни одна палуба не должна погружаться во мрак: хоть аварийный свет, хоть свеча.</p>"
+        },
+        "7d8WfM64bZRoBvn1": {
+          "description": "<p>Всякий, кто взошёл на борт, обязан вырезать своё имя на обшивке, чтобы дух корабля его знал.</p>"
+        },
+        "HDgNDYSUMMA1SALu": {
+          "description": "<p>Осени себя аквилой, когда впервые услышишь, как бьют корабельные орудия.</p>"
+        },
+        "yt7fm4qxaMWwaFO0": {
+          "description": "<p>Все клятвы, что даются на борту, приносятся именем Императора и капитана.</p>"
+        },
+        "MLfnUW0hQ4bL2sbC": {
+          "description": "<p>Внутренние переборки держат открытыми, чтобы дух корабля свободно ходил повсюду.</p>"
+        },
+        "ZjcVCjKrqAJEemRS": {
+          "description": "<p>Корабль нельзя переименовывать: Император не узнает его под новым именем и потеряет из виду.</p>"
+        },
+        "2sLHXPSPrADRjKCW": {
+          "description": "<p>Всякий пёс на борту — к беде: воющая круговерть Варпа зовёт его, и он тянется завыть в ответ.</p>"
+        },
+        "dZ9cJHftyf9Oejqs": {
+          "description": "<p>Заброшенные коридоры и каюты оставляют без света — как приют душам тех, кто умер на борту.</p>"
+        },
+        "z49LVLPQio7swfgy": {
+          "description": "<p>Не пой, пока корабль идёт Варпом. Не мешай хору Астрономикона.</p>"
+        },
+        "VbTG0q6dNK4slGRb": {
+          "description": "<p>Дневной паёк, брошенный во тьму под палубами, отводит беду — но только если не услышишь, как он упал.</p>"
+        },
+        "wjQtjrcP5IyjOAl3": {
+          "description": "<p>Молясь, коснись корабельной снасти голой рукой: машинный дух услышит тебя и усилит твою молитву.</p>"
+        },
+        "UACacuaAZsEodkIf": {
+          "description": "<p>Дважды стукни по переборке, прежде чем войти в тёмный коридор, но не входи, если оттуда ответят.</p>"
+        },
+        "hMqfWOXQX7uK8KPY": {
+          "description": "<p>Обрезки ногтей, оставленные у переборок, укрепляют болты и заклёпки, что их держат.</p>"
+        },
+        "5piFETMzg5FBYbQP": {
+          "description": "<p>Впервые идя Варпом, новички из экипажа должны первый день провести с завязанными глазами.</p>"
+        },
+        "NJ8CA1QytU0LmCGm": {
+          "description": "<p>Кто умер на борту, на борту и останется: черепа снимают, очищают и ставят в корабельных божницах и усыпальницах.</p>"
+        },
+        "noIOdjZGIoPKcq1g": {
+          "description": "<p>Принимать важное решение, пока корабль не омывает звёздный свет, — к великой беде.</p>"
+        },
+        "uxPX1f0YhyCen1OW": {
+          "description": "<p>В начале смены умасти себя тем маслом, с которым работаешь на своём корабельном месте.</p>"
+        },
+        "xXfQ4WqZvKPHLejM": {
+          "description": "<p>Вера — лучший щит. Пока корабль идёт Варпом, кто-то всегда должен молиться; экипаж расписывает смены внахлёст, чтобы молитва не прерывалась.</p>"
+        }
+      }
+    },
+    "cfROlfM3rd91jawg": {
+      "name": "Причуды корабельных палуб",
+      "description": "<p><em><strong>Примечание</strong>: пока персонажи путешествуют на пустотном корабле, эта таблица придаёт красок палубам, через которые они идут, или той, где им отвели койку.</em></p>",
+      "results": {
+        "JAi5qUmQSjkyCH8s": {
+          "description": "<p>Разошедшаяся система охлаждения выстудила воздух почти до мороза, и на металлической обшивке выступил иней.</p>"
+        },
+        "xILF18xxWmp4TtRp": {
+          "description": "<p>Из-за повреждённых накопителей на этой палубе то и дело скачет питание: свет гаснет и сменяется аварийным.</p>"
+        },
+        "ucGj2q11Buwsl3cY": {
+          "description": "<p>Под потолком слышится тихий стрёкот: между палубами свила гнездо колония паразитов.</p>"
+        },
+        "7d8WfM64bZRoBvn1": {
+          "description": "<p>Свет на этой палубе выбит, и вместо него горит аварийный.</p>"
+        },
+        "HDgNDYSUMMA1SALu": {
+          "description": "<p>Поле Геллера на миг дрогнуло, и с тех пор тени на этой палубе еле заметно шевелятся.</p>"
+        },
+        "yt7fm4qxaMWwaFO0": {
+          "description": "<p>Стены шершавы от процарапанных надписей, что оставили бессчётные поколения прежних экипажей.</p>"
+        },
+        "MLfnUW0hQ4bL2sbC": {
+          "description": "<p>В дурно проветриваемой сырости этой палубы растёт съедобная плесень, и экипаж собирает её в пищу.</p>"
+        },
+        "ZjcVCjKrqAJEemRS": {
+          "description": "<p>Стены этой палубы обвешаны печатями чистоты. Экипаж отказывается объяснять почему.</p>"
+        },
+        "2sLHXPSPrADRjKCW": {
+          "description": "<p>Потолочной обшивки нет: открытые кабели свисают, как кишки выпотрошенного зверя.</p>"
+        },
+        "dZ9cJHftyf9Oejqs": {
+          "description": "<p>С верхней палубы течёт, и по стенам сбегают ржавые ручьи.</p>"
+        },
+        "z49LVLPQio7swfgy": {
+          "description": "<p>Эта палуба идёт рядом с маленькой божницей, и сквозь стены доносится приглушённое пение.</p>"
+        },
+        "VbTG0q6dNK4slGRb": {
+          "description": "<p>В одну из стен вделан сервитор, что молча делает неведомое дело.</p>"
+        },
+        "wjQtjrcP5IyjOAl3": {
+          "description": "<p>Ниши в стенах заставлены черепами, и на каждом нарисована аквила.</p>"
+        },
+        "UACacuaAZsEodkIf": {
+          "description": "<p>Палуба вытерта до блеска ежедневным паломничеством от носа к корме и обратно.</p>"
+        },
+        "hMqfWOXQX7uK8KPY": {
+          "description": "<p>Эту палубу освещают свечи, а пол залит воском тысяч давно догоревших.</p>"
+        },
+        "5piFETMzg5FBYbQP": {
+          "description": "<p>Охлаждение отказало или попросту не справляется, и воздух дрожит от жара.</p>"
+        },
+        "NJ8CA1QytU0LmCGm": {
+          "description": "<p>Сервитор, которому месяцами не задавали новой задачи, всё трёт и трёт один и тот же клочок палубы.</p>"
+        },
+        "noIOdjZGIoPKcq1g": {
+          "description": "<p>С высокого потолка палубы свисают вымпелы с цветами знатного рода капитана.</p>"
+        },
+        "uxPX1f0YhyCen1OW": {
+          "description": "<p>Кто-то из паразитов погиб, перегрызая кабель под палубой, и теперь тянет горелым.</p>"
+        },
+        "xXfQ4WqZvKPHLejM": {
+          "description": "<p>Аквилу на одной из стен натёрли до блеска тысячи рук, что касались её в молитве.</p>"
+        }
+      }
+    },
+    "xXRZURR6R3OILsC8": {
+      "name": "Таблица проезда на пустотном корабле",
+      "results": {
+        "Ef8glBGU1DHstoFu": {
+          "description": "Транспорт Торгового флота — самые обычные грузовые корабли Империума, всех размеров. Поправка: +20"
+        },
+        "eO3AWfRfYumF4nOV": {
+          "description": "Вооружённый грузовоз Торгового флота — тех же обводов и размеров, что и транспорт, но часть трюма отдана под огневую мощь. Поправка: +15"
+        },
+        "sktIrazSyyxiMEXI": {
+          "description": "Эсминец Имперских флотилий — быстрый ударный корабль, увешанный вооружением для боя и сопровождения. Поправка: +10"
+        },
+        "mQUg6eLBxQF1mRC3": {
+          "description": "Миссионерский корабль Министорума — транспорт, что возит паломников с мира на мир или к далёким полям сражений. Поправка: +5"
+        },
+        "yiVzKw188Sfb9cwC": {
+          "description": "Фрегат Имперских флотилий — быстрый и поворотливый, но легковооружённый. Хорош для разведки и дозора. Поправка: +0"
+        },
+        "bPwH0odNWWOdTsuM": {
+          "description": "Быстрый клипер Торгового флота — облегчённый, невооружённый и стремительный корабль, в котором поровну двигателей и трюма. Поправка: +0"
+        },
+        "mcwh0pMW4oGneps4": {
+          "description": "Чёрный корабль Астра Телепатика — на таких свозят и везут псайкеров, в конечном счёте на Терру. Поправка: −5"
+        },
+        "Fvbv5wPHfVtT9wDW": {
+          "description": "Крейсер Имперских флотилий — крепкий корабль с большим экипажем, годный на самые разные задачи. Поправка: −10"
+        },
+        "KnFT7NLQVkcKq7ns": {
+          "description": "Корабль вольного торговца — флагман или рабочий корабль вольного торговца либо слуг его династии. Поправка: −15"
+        },
+        "JBTs2qVdU3UOSLGO": {
+          "description": "Линкор Имперских флотилий — тяжеловооружённый и толстобронный корабль, знак господства и мощи Имперских флотилий. Поправка: −20"
+        }
+      }
+    },
+    "40vn1FhUbXQcmzK4": {
+      "name": "Таблица встреч на борту",
+      "results": {
+        "SqpOIwQV6OA7bUvj": {
+          "description": "<p><strong>Трюмные бедолаги</strong>: Даже в корабельном обществе находится место для забытых отбросов, попрошаек и карманников: они обживают ржавые пустоты под топливными магистралями и трюмами.</p>"
+        },
+        "MYreS6Ep87z9n8Zz": {
+          "description": "<p><strong>Ремонтные сервиторы</strong>: Программа заглушает мысли и не даёт им выразить свою немую муку, пока они лязгающей поступью обходят корабль, заклёпывая швы, отмывая полы и смазывая переборки.</p>"
+        },
+        "T2Sf9dxF6kU4Pewo": {
+          "description": "<p><strong>Пустотники нижних палуб</strong>: Замасленные комбинезоны, подкожные фонари и шрамы от станков выдают в них тех, кто ищет и чинит поломки в корабельном чреве.</p>"
+        },
+        "XerkfbwelffTc6PD": {
+          "description": "<p><strong>Штрафной полк</strong>: В трюме толпятся бойцы в хлипкой броне, в пронумерованных комбинезонах и в ошейниках с мигающими огоньками; от экипажа их отделяют вооружённые офицеры и корабельная стража.</p>"
+        },
+        "eW9ABckKGKvk1T5y": {
+          "description": "<p><strong>Махарийские паломники</strong>: Для них этот корабль — лишь малый отрезок пути длиною в десятилетия. Оборванные и благочестивые, они поют гимны своего родного мира и благословляют пассажиров и экипаж.</p>"
+        },
+        "izoZUu3SDQEnEYPu": {
+          "description": "<p><strong>Пустотники-механики</strong>: По коридорам идёт ватага в пустотных костюмах. Смена переменилась, и теперь их черёд выходить в пустоту чинить корабль снаружи.</p>"
+        },
+        "lz0g0dYyzhm1FhLd": {
+          "description": "<p><strong>Бойцы Астра Милитарум</strong>: Вымуштрованные при офицерах и буйные на отдыхе; коридоры звенят сапогами, лающими приказами и гулом разговоров.</p>"
+        },
+        "sDJSGbLPpvdzKE1P": {
+          "description": "<p><strong>Пустотники главной палубы</strong>: Экипаж делает чёрную работу: таскает груз, снимает показания с манометров на трубопроводах и изредка передаёт вокс-сообщения в другие части корабля.</p>"
+        },
+        "bIJbFzqwHNddpGnF": {
+          "description": "<p><strong>Пилоты грузовиков</strong>: Трюм забит грузовыми контейнерами Департаменто Муниторум и @UUID[Compendium.impmal-requisition.actors.Actor.SSqyPXq4qRxqxFFu]{лихтерами «Арв»}. Их пилоты делятся лхо-палочками и рекафом, наслаждаясь тишиной перед приходом в порт.</p>"
+        },
+        "F3YWy67PYOJMmaPe": {
+          "description": "<p><strong>Корабельная стража</strong>: В чистой флотской форме или в цветах капитана, они обходят палубы и обсуждают свой последний бой — кровавую оборону от вражеского абордажа.</p>"
+        },
+        "Z913BenFRkma8fRg": {
+          "description": "<p><strong>Техножрец</strong>: Служитель Омниссии в красной рясе разбрызгивает священное масло из кадила, обходя коридоры, надзирает за хитрым ремонтом и умягчает дух корабля.</p>"
+        },
+        "HTBQ4fadvkJdKFZB": {
+          "description": "<p><strong>Священник Министорума</strong>: Корабль — их собор, а их вера — тот свет, к которому экипаж тянется в самые тёмные часы. Они блюдут корабельные божницы и служат постоянные проповеди.</p>"
+        },
+        "7ml7G74VNUOtaygl": {
+          "description": "<p><strong>Молчаливые торговцы</strong>: Купцы в расшитых пустотных костюмах надзирают за перегрузкой хорошо охраняемого тайника и тишком приплачивают экипажу и капитану за молчание.</p>"
+        },
+        "CZ9uMFqCATiqgsiL": {
+          "description": "<p><strong>Знатные отпрыски</strong>: Пользуясь той свободой, что даёт их положение, они едут в роскошных каютах и обедают с капитаном, одетые в лучшее, что носят на их родных мирах.</p>"
+        },
+        "YDzRxv71ywQML47v": {
+          "description": "<p><strong>Вольный торговец со свитой</strong>: Лихой пройдоха и его люди куролесят на борту: играют и пьют со всеми подряд и доставляют экипажу хлопоты.</p>"
+        },
+        "7KmbkW5WwU5PMpyE": {
+          "description": "<p><strong>Ревизоры снабжения Адептус Администратум</strong>: Они намерены выправить недостачу по десятине в следующем порту; пальцы их вечно стучат по инфопланшетам, а сервитор-писец жужжит, записывая каждое их слово.</p>"
+        },
+        "CJ51y227Lu9WpkjQ": {
+          "description": "<p><strong>Старший офицер</strong>: Кто-то из мостика в сопровождении стражи идёт по коридорам по важному для безопасности корабля делу; пустотники отдают честь, когда он проходит мимо.</p>"
+        },
+        "rpdtYUkbTprLr3pd": {
+          "description": "<p><strong>Адепта Сороритас</strong>: Отряд сестёр из одного из святых орденов, что несёт пламя Императорова света туда, куда идёт корабль.</p>"
+        },
+        "VIells5xbwb3aRlt": {
+          "description": "<p><strong>Капитан</strong>: В сопровождении стражи капитан ведёт гостя по коридорам корабля и с гордостью рассказывает о том, как переплелись судьбы этого судна и его рода.</p>"
+        },
+        "7GUlVYc0NpXUF3vb": {
+          "description": "<p><strong>Космодесантник</strong>: Экипаж вполголоса перешёптывается об одиноком путнике в силовой броне, что уединился где-то на борту. Ангел смерти ходит среди них.</p>"
+        }
+      }
+    },
+    "dAiKbA0EKMtz9Ozl": {
+      "name": "Таблица событий в Варпе",
+      "results": {
+        "SqpOIwQV6OA7bUvj": {
+          "description": "<p><strong>Слепящий варп-шторм</strong>: Варп кипит силой, и навигатор кричит, что не видит Астрономикона. Капитан приказывает срочно выходить в реальное пространство, и корабль всплывает неведомо где.</p>"
+        },
+        "MYreS6Ep87z9n8Zz": {
+          "description": "<p><strong>Явление демонов</strong>: Поле Геллера пробито, и по палубам хлещет искрящаяся психическая сила, что свивается и корёжится, обращаясь в @UUID[Compendium.impmal-core.journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.O9kga3ngGfFyIsze]{демонов}.</p>"
+        },
+        "T2Sf9dxF6kU4Pewo": {
+          "description": "<p><strong>Одержимость экипажа</strong>: Волна демонической силы хлещет по кораблю, и демоны входят в умы кого-то из тех, кто на борту, обращая их тела в орудия исступлённого мятежа.</p>"
+        },
+        "XerkfbwelffTc6PD": {
+          "description": "<p><strong>Отзвуки шёпота</strong>: Приглушённые голоса звучат в вокс-системах и прямо в головах у экипажа, рассказывая о былых ужасах и о худшем, что ещё впереди. Все на борту должны пройти <strong>проверку Дисциплины</strong> или получить оглушение.</p>"
+        },
+        "eW9ABckKGKvk1T5y": {
+          "description": "<p><strong>Просачивающаяся скверна</strong>: Между палубами прорастают демонические наросты. Панели вспучиваются извивающейся плотью, усеянной глядящими глазами и смердящей гнилью.</p>"
+        },
+        "izoZUu3SDQEnEYPu": {
+          "description": "<p><strong>Погибель верных</strong>: Святыни на корабле трескаются, тускнеют или плавятся под хохот четырёх голосов. Никто не решается гадать, откуда этот звук.</p>"
+        },
+        "lz0g0dYyzhm1FhLd": {
+          "description": "<p><strong>Извивающийся ужас</strong>: Бесформенный ком из пастей и щупалец продавливается сквозь поле Геллера и присасывается к обшивке, лязгая по ней, пока поле медленно его убивает.</p>"
+        },
+        "sDJSGbLPpvdzKE1P": {
+          "description": "<p><strong>Психический всплеск</strong>: Поле Геллера трещит от всплеска психической силы: все псайкеры на борту должны пройти <strong>проверку Психического мастерства</strong> или бросить по таблице @UUID[Compendium.impmal-core.tables.RollTable.9aSbu2mswOOI43J1]{«Психические феномены»}.</p>"
+        },
+        "bIJbFzqwHNddpGnF": {
+          "description": "<p><strong>Скручивающаяся бесконечность</strong>: Ткань Варпа то сжимается, то вспучивается, укорачивая или растягивая путь: недельный переход укладывается в несколько часов или растягивается на месяцы.</p>"
+        },
+        "F3YWy67PYOJMmaPe": {
+          "description": "<p><strong>Кровоточащая обшивка</strong>: С металлическим стоном по стенам корабля начинают сбегать струйки густой тёмной крови, собираясь в скользкие ручьи, что текут по всему судну.</p>"
+        },
+        "Z913BenFRkma8fRg": {
+          "description": "<p><strong>Тень в Варпе</strong>: Корабль входит в область необъяснимой тишины: навигатор силится разглядеть Астрономикон, а весь экипаж охватывает глубокий страх — такой бывает лишь у того, на кого охотятся.</p>"
+        },
+        "HTBQ4fadvkJdKFZB": {
+          "description": "<p><strong>Варп-левиафан</strong>: На сканерах появляется невообразимо огромное существо, что идёт бок о бок с кораблём, будто оседлав след поля Геллера.</p>"
+        },
+        "7ml7G74VNUOtaygl": {
+          "description": "<p><strong>Сталь в плоть</strong>: Взгляд экипажа мечется между обычным кораблём и его искажённым подобием, у которого вся обшивка — из шевелящейся плоти.</p>"
+        },
+        "CZ9uMFqCATiqgsiL": {
+          "description": "<p><strong>Искажённый вкус</strong>: Варп путает электрохимические сигналы, и всякое чувство обретает вкус: и гул двигателей, и цвет формы, и дрожь корабля.</p>"
+        },
+        "YDzRxv71ywQML47v": {
+          "description": "<p><strong>Призрачные псы</strong>: Залы звенят бегущими когтями и далёким воем, но никакого тела уловить не удаётся. Звери на борту прячутся или гибнут от ужаса на месте.</p>"
+        },
+        "7KmbkW5WwU5PMpyE": {
+          "description": "<p><strong>Вывернутое зрение</strong>: Психическая сила бьётся о поле Геллера и пульсирующими волнами выворачивает цвета в глазах у всех на борту — кроме тех счастливцев, у кого аугметические глаза.</p>"
+        },
+        "CJ51y227Lu9WpkjQ": {
+          "description": "<p><strong>Корабль-призрак</strong>: Сканеры засекают рядом другое судно, но выйти с ним на связь невозможно, а в иллюминаторах никто ничего не видит.</p>"
+        },
+        "rpdtYUkbTprLr3pd": {
+          "description": "<p><strong>Нездешнее свечение</strong>: Сила Варпа наполняет часть палубы мерцающим ореолом переливающихся цветов, что гаснет, как только корабль выходит из Варпа.</p>"
+        },
+        "VIells5xbwb3aRlt": {
+          "description": "<p><strong>Тревожный заряд</strong>: Корабль обволакивает статическим зарядом, и экипаж лишний раз не касается ни рычагов, ни приборов, чтобы не ловить резкие болезненные разряды.</p>"
+        },
+        "7GUlVYc0NpXUF3vb": {
+          "description": "<p><strong>Мерцание Геллера</strong>: Корабль сотрясает: поле Геллера мигает. Щупальца Варпа тянутся к судну, но обрываются, когда поле вспыхивает вновь.</p>"
+        }
+      }
+    },
+    "rbmCkt7lQ0oK3IMh": {
+      "name": "Таблица встреч в пустоте",
+      "results": {
+        "SqpOIwQV6OA7bUvj": {
+          "description": "<p><strong>Варп-шторм</strong>: Варп-шторм вскипает раньше, чем корабль успевает сменить курс. Бросьте по @UUID[RollTable.dAiKbA0EKMtz9Ozl]{таблице событий в Варпе}, пока экипаж лихорадочно поднимает поле Геллера.</p>"
+        },
+        "MYreS6Ep87z9n8Zz": {
+          "description": "<p><strong>Космический халк</strong>: Сканеры показывают невообразимо огромное судно, выходящее из Варпа, — космический халк, слипшийся за тысячелетия ком пустотных обломков, полный всевозможных порождений Варпа.</p>"
+        },
+        "T2Sf9dxF6kU4Pewo": {
+          "description": "<p><strong>Солнечная вспышка</strong>: Плеть радиоактивного пламени возвещает выброс частиц с ближайшей звезды: корабль надолго обесточен, палубы тонут во тьме, освещённые скудным аварийным светом.</p>"
+        },
+        "XerkfbwelffTc6PD": {
+          "description": "<p><strong>Орочьи фрибутеры</strong>: Обшивка гремит под градом грубых снарядов крупного калибра: из-за скопления астероидов выскакивают орочьи пустотные истребители и заходят на штурмовку в невероятно рваном строю.</p>"
+        },
+        "eW9ABckKGKvk1T5y": {
+          "description": "<p><strong>Инквизиторский корвет</strong>: В пределах видимости появляется судно без той вычурной отделки, что обычна для имперских кораблей. На его чёрном корпусе не горит ни огня, и сканеры его не видят.</p>"
+        },
+        "izoZUu3SDQEnEYPu": {
+          "description": "<p><strong>Альдарские корсары</strong>: Сканеры засекают обтекаемое ксеносское судно, что идёт за кораблём вне досягаемости его орудий. Если верить записям о прошлых встречах, скоро подойдут и другие.</p>"
+        },
+        "lz0g0dYyzhm1FhLd": {
+          "description": "<p><strong>Пираты-люди</strong>: На сканерах появляются неопознанные суда. На запрос представиться отвечают ультиматумом: «Отдайте груз добром — или его возьмут силой».</p>"
+        },
+        "sDJSGbLPpvdzKE1P": {
+          "description": "<p><strong>Обитаемый мертвец</strong>: Дрейфующее повреждённое судно, хотя сканеры показывают внутри признаки жизни. В таких обычно гнездятся ксеносские ужасы вроде @UUID[Compendium.impmal-core.actors.Actor.KvLrPAQ0gmIWSvfX]{чистокровных генокрадов}.</p>"
+        },
+        "bIJbFzqwHNddpGnF": {
+          "description": "<p><strong>Пост прослушивания</strong>: Небольшая пустотная станция следит за этим участком субсектора и за всем проходящим движением. Нежданные суда берут на абордаж и досматривают груз.</p>"
+        },
+        "F3YWy67PYOJMmaPe": {
+          "description": "<p><strong>Вольный торговец</strong>: Обтекаемое, но крепкое судно, выстроенное для походов по краю известного космоса. Оно возвращается из такого похода с записями о новооткрытых мирах на рубеже сектора.</p>"
+        },
+        "Z913BenFRkma8fRg": {
+          "description": "<p><strong>Дрейфующие обломки</strong>: На сканерах всплывает расколотый остов пустотного корабля; по вакууму разбросаны поле обломков и тела его экипажа.</p>"
+        },
+        "HTBQ4fadvkJdKFZB": {
+          "description": "<p><strong>Пустотный паразит</strong>: На внешней обшивке обнаружена вцепившаяся ксеносская тварь. Её надо уничтожить, пока она не добралась до целостности корпуса.</p>"
+        },
+        "7ml7G74VNUOtaygl": {
+          "description": "<p><strong>Сигнал бедствия</strong>: Сквозь помехи приходит зов с ближнего судна, пустотной станции или колонии на астероиде. Что там творится, неизвестно; их антенны повреждены, и они просят о помощи.</p>"
+        },
+        "CZ9uMFqCATiqgsiL": {
+          "description": "<p><strong>Заслон Имперских флотилий</strong>: Могучие крейсеры класса «Лунар» идут к ближней планете. Вокс-сообщения приказывают встречным судам сменить курс или быть уничтоженными.</p>"
+        },
+        "YDzRxv71ywQML47v": {
+          "description": "<p><strong>Пояс астероидов</strong>: Пустота впереди усеяна летящими глыбами: иные не больше человека, а иные и сам корабль превосходят. Пройти можно только точным счислением.</p>"
+        },
+        "7KmbkW5WwU5PMpyE": {
+          "description": "<p><strong>Спасательная капсула</strong>: Сканеры извещают экипаж о спасательной капсуле неподалёку: показания говорят, что внутри один живой. Только он и знает, какая участь постигла его судно.</p>"
+        },
+        "CJ51y227Lu9WpkjQ": {
+          "description": "<p><strong>Паломническое судно</strong>: Пустотный сор выел на обшивке барельефы святых и выбитые молитвы, но благоговения тех, кто идёт на нём, это ничуть не убавило.</p>"
+        },
+        "rpdtYUkbTprLr3pd": {
+          "description": "<p><strong>Космическая пыль</strong>: Пелена космической пыли застит вид из окон и иллюминаторов. Вокс-каналы заняты тем, чтобы развести мелкие суда в этом подобии тумана.</p>"
+        },
+        "VIells5xbwb3aRlt": {
+          "description": "<p><strong>Метеорный град</strong>: Пустотные щиты вспыхивают искрами: об них рассыпается ливень крохотных небесных тел. Все мелкие суда поблизости, у которых щитов нет, побиты и пробиты.</p>"
+        },
+        "7GUlVYc0NpXUF3vb": {
+          "description": "<p><strong>Грузовоз</strong>: Зафрахтованное торговое судно везёт сквозь пустоту плоды мира-кузницы — в колонию или в зону боёв, а обшивка его в шрамах от веков достойной, но никем не помянутой службы.</p>"
+        }
+      }
+    },
+    "FGPwxW3ZBPlI4xz0": {
+      "name": "Безделушки («Реквизиция»)",
+      "results": {
+        "DoCevHLgvrglmpgw": {
+          "description": "Окаменевший свиток"
+        },
+        "qKBzk52polJuEhw3": {
+          "description": "Гнутое металлическое перо"
+        },
+        "UCGLOTI6CNXqlC2d": {
+          "description": "Пустотницкая повязка на глаз"
+        },
+        "nBMXoz4qT5YdKt4c": {
+          "description": "Сломанное хроно"
+        },
+        "ebUuMRNaPoMyJiQw": {
+          "description": "Этикетка от выдержанного амасека"
+        },
+        "iJQLDG95Nyy7ykFD": {
+          "description": "Пластальная карта таро"
+        },
+        "7puCafMzHn6VWSIp": {
+          "description": "Протравленный кислотой гаечный ключ"
+        },
+        "iwTGGyD8n7YuQ22x": {
+          "description": "Штампованный металлический лист"
+        },
+        "6KpelXeGT7bxkcfa": {
+          "description": "Свисток из ксеносской кости"
+        },
+        "dN2miBDjDeTE7WPS": {
+          "description": "Прогоревшая вокс-решётка"
+        },
+        "7OChhHLvRnMT26OG": {
+          "description": "Рваный истрёпанный плащ"
+        },
+        "Dd8O4W4tdnUIt1fX": {
+          "description": "Изъеденный кислотой зонт"
+        },
+        "cwcvAGVlv7wiWgxh": {
+          "description": "Пустая гильза от инъектора"
+        },
+        "KS0o8plLcqlpKjGy": {
+          "description": "Отстрелянная гильза от фальшфейера"
+        },
+        "rs5BClESk5QiKOkT": {
+          "description": "Фольга от пайка"
+        },
+        "5nH3bn45CbULSHex": {
+          "description": "Монокль с гравировкой звёзд"
+        },
+        "TYDFTN5Y6bgq7cGI": {
+          "description": "Склянка металлического песка"
+        },
+        "DDXB8JKvF2BJqsnh": {
+          "description": "Погнутый приклад лазгана"
+        },
+        "k1VdUkwbcNsYEH9u": {
+          "description": "Кожаный ремень с зарубками"
+        },
+        "cA6HH9TqqrIG1cRQ": {
+          "description": "Линза от сервочерепа"
+        },
+        "ZqCnqvyZX1jVr6Eo": {
+          "description": "Осколок витража"
+        },
+        "fOc5C6UgFBBXu55u": {
+          "description": "Резные карточки со святыми"
+        },
+        "XS0KTBCGGLZBo7Lh": {
+          "description": "Жестянка с воском"
+        },
+        "cBRg9uLvklc6WVYw": {
+          "description": "Резные костяные иглы"
+        },
+        "nt4XL77ZpECTaZqt": {
+          "description": "Поцарапанные металлические кости"
+        },
+        "Q2zN631vSl11kIBY": {
+          "description": "Хамелеолиновая лента"
+        },
+        "hBOHwMrPsddK8Ruc": {
+          "description": "Взрыватель от подрывного заряда"
+        },
+        "38VNJ9DzDBynP9tU": {
+          "description": "Повязка ульевой банды"
+        },
+        "9NzfjrqdH9yZSXw5": {
+          "description": "Склянка пепла от благовоний"
+        },
+        "RadVSBhiaodLhWAx": {
+          "description": "Веер из перьев"
+        },
+        "niFEkMZO4lHeRufB": {
+          "description": "Человеческая челюсть"
+        },
+        "2P7LJ8LvbRdr2n2N": {
+          "description": "Просроченные бланки на паёк"
+        },
+        "hAcMrpJk9piDdOtJ": {
+          "description": "Обгоревший значок доцента"
+        },
+        "gHBMIZdkyaN7IvdZ": {
+          "description": "Треснувший ксеносский зуб"
+        },
+        "JGtlrwKCK9sdvvRq": {
+          "description": "Фляга с дыркой от пули"
+        },
+        "Aqv7uoK28AlI3JvG": {
+          "description": "Сломанный паломнический жетон"
+        },
+        "UxXVbkg8iaf12Fkw": {
+          "description": "Резная фигурка дворца лорда-соляра"
+        },
+        "aWv5Vi0mDfI13geM": {
+          "description": "Щербатая стопка из ульевого города"
+        },
+        "kY5bsBTw5Sh9gnPS": {
+          "description": "Просроченная грамота о покровительстве"
+        },
+        "BirSfOxGsQzFuwQ3": {
+          "description": "Пустая гильза от ксеносского оружия"
+        },
+        "IgqanKdc2FN6mhD3": {
+          "description": "Кусок переливчатого коралла"
+        },
+        "K3QROngObPxgGowf": {
+          "description": "Муниторумский портсигар для лхо-палочек"
+        },
+        "aXdgFpkqLCedLdj6": {
+          "description": "Зажим для бумаг ордината"
+        },
+        "I69r6zJ8tVV8XjLE": {
+          "description": "Обрядовый нож с агромира"
+        },
+        "gNETyrzhjRRWvt1G": {
+          "description": "Костяные накладки на автопистолет с резьбой"
+        },
+        "fAzwoO1sYjDzRTCj": {
+          "description": "Боевая маска с дикого мира"
+        },
+        "OoJ5o2Z0j2UrbpUN": {
+          "description": "Окаменелость неведомого зверя"
+        },
+        "bw3ecqWuuGbXrg1A": {
+          "description": "Треснувшая кость сервочерепа"
+        },
+        "WOCeTIZmVlFHfZvD": {
+          "description": "Исцарапанная лаз-батарея (пустая)"
+        },
+        "gKETNXcbJXX6b8Ew": {
+          "description": "Обломок ульевой мостовой"
+        },
+        "AtwxYdCqr91CVn4X": {
+          "description": "Навершие меча с феодального мира"
+        },
+        "k4XPIq9U29KxSKA8": {
+          "description": "Руль от грузовоза"
+        },
+        "JmkJEQLkdRPof2mT": {
+          "description": "Кожаный кисет со спорами от кашля"
+        },
+        "cVlDN3SDFtmsaBAV": {
+          "description": "Пустая гильза от газовой гранаты"
+        },
+        "UULeJxhhXJ5lmeky": {
+          "description": "Шестерня с мира-кузницы с гравировкой"
+        },
+        "wfqcY3sAL98uJ1du": {
+          "description": "Рваное наставление Адептус Механикус"
+        },
+        "iq4btx1V3NReeoej": {
+          "description": "Обгоревшая фигура для регицида"
+        },
+        "YAfymhys3UL2wG8P": {
+          "description": "Сломанное старинное ожерелье"
+        },
+        "4ENMolKxAnbbukmc": {
+          "description": "Обугленная фуражка капитана флота"
+        },
+        "LWjXPlOdrpZ1sigl": {
+          "description": "Пустой футляр от медицинского баллона"
+        },
+        "rlKrgFgUy3bbymD5": {
+          "description": "Кисет с обсидиановыми осколками"
+        },
+        "mJfNk5PgbNpQwHo8": {
+          "description": "Почерневшее родовое кольцо"
+        },
+        "NIBKEFgNuz0OfvYW": {
+          "description": "Оберег, сплетённый из волос покойника"
+        },
+        "QVb8ZgNJMCr4ncfO": {
+          "description": "Линза от гололитического проектора"
+        },
+        "4h8JsoJBgpGUeVIF": {
+          "description": "Шарик от подшипника двигателя «Валькирии»"
+        },
+        "BQ891r3vLh1g3zoV": {
+          "description": "Истрёпанный паломнический платок"
+        },
+        "MOYstD63M8qRLB5c": {
+          "description": "Резная статуэтка из кварца"
+        },
+        "ih9f4w6sFIg6ruWS": {
+          "description": "Бирка с мешка для трупа из ульевого города"
+        },
+        "db4udOh825hoUBTk": {
+          "description": "Залежалый надушенный платок"
+        },
+        "tyv3DVbg9Q5urg5p": {
+          "description": "Осколок тёмной брони"
+        },
+        "vF0rPvqjKSWIcjmK": {
+          "description": "Кожаный наруч с феодального мира"
+        },
+        "wC5kCKsEbGEYDBsH": {
+          "description": "Отрез металлической ткани"
+        },
+        "tF4b8qywqJNCrTDa": {
+          "description": "Служебные жетоны с дыркой от пули"
+        },
+        "UixDhksG7KY4ElBD": {
+          "description": "Меновая бирка с феодального мира"
+        },
+        "kmwQOeZ2Iosj2hHa": {
+          "description": "Плафон корабельной тревожной лампы"
+        },
+        "mkLTC0zkOpR3lpuZ": {
+          "description": "Кусок метеоритной породы"
+        },
+        "KdCfV9HEIFDi2U5Z": {
+          "description": "Обёрнутый деревянный кол"
+        },
+        "AGePErdYKqXUGXoU": {
+          "description": "Треснувший снайперский прицел"
+        },
+        "OkI4B120BTO8JffK": {
+          "description": "Обгоревший панцирный наплечник"
+        },
+        "GTMypmM51t52CgWG": {
+          "description": "Осколок заводского бура"
+        },
+        "RXJ0wNZcSnXhndpf": {
+          "description": "Треснувшее армагласовое забрало"
+        },
+        "aiQr4wTtW20Wq6fI": {
+          "description": "Пустой ксеносский отравленный дротик"
+        },
+        "rxgWr5BC19gLUndB": {
+          "description": "Чаша из божницы Министорума"
+        },
+        "XVbHdBqtMkd3HI1q": {
+          "description": "Печать дома с феодального мира"
+        },
+        "sYqcmGUGVTzU3gSz": {
+          "description": "Щепки от скамьи Экклезиархии"
+        },
+        "2isrNwnh3NjgcBLa": {
+          "description": "Нашивка эскадрильи Аэронавтики"
+        },
+        "CkydqtYe8G0VvYxy": {
+          "description": "Набор кнопок от инфопланшета"
+        },
+        "zDypCWG2x9BK24lj": {
+          "description": "Рычаг управления от малого шагохода"
+        },
+        "LoEDp3n2DazC8Nni": {
+          "description": "Изжёванный флак-наруч"
+        },
+        "djpTlrnNwhc8VuFd": {
+          "description": "Скрученная трава с агромира"
+        },
+        "HA9gOSh3xBrzlw2K": {
+          "description": "Прожжённые химией рабочие сапоги"
+        },
+        "mkVyhFsVWGot6aUm": {
+          "description": "Щербатый зуб цепного клинка"
+        },
+        "UfUFZOlc9EI14oyB": {
+          "description": "Разномастные кожаные сапоги"
+        },
+        "tOBWhGI7OPipa1JP": {
+          "description": "Треснувшая склянка с агроштаммом"
+        },
+        "0hPo9lluAqfRq2Ev": {
+          "description": "Кусок серной породы"
+        },
+        "mZGRBpQ4YBeBpDkO": {
+          "description": "Выцветший запятнанный пергамен"
+        },
+        "ftlzXhHvdQuZVIzQ": {
+          "description": "Обрезок корабельного кабеля"
+        },
+        "IoutqKS5y25K8fyR": {
+          "description": "Кусок окаменевшего дерева"
+        },
+        "6Fb0M25JLED5W57M": {
+          "description": "Муниторумское пресс-папье"
+        },
+        "fr9H9a52l6UtGkWj": {
+          "description": "Окровавленный обрывок знамени"
+        }
+      }
+    }
+  }
+}

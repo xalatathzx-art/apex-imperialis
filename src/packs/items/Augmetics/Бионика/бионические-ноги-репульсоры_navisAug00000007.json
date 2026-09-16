@@ -1,0 +1,50 @@
+{
+  "name": "Бионические ноги: репульсоры",
+  "type": "augmetic",
+  "_id": "navisAug00000007",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00002",
+  "sort": 700,
+  "system": {
+    "notes": {
+      "player": "<p>Компактный комплект антиграв-репульсоров вместо ног. Владелец не касается пола — он висит над ним на ладонь, и в тишине слышно ровное гудение поля. Среди высших чинов Механикум это столь же знак ранга, сколь и средство передвижения.</p><p><em>Любая бионическая конечность даёт +1 очко брони против попаданий в неё, складываясь с носимой бронёй.</em></p><p>Вас нельзя сбить с ног. Попадания, которые пришлись бы вам в ноги, приходятся в торс.</p><p>Не имея надёжной опоры, вы получаете <strong>Помеху</strong> на встречные проверки против попыток сдвинуть вас с места и на попытки сдвинуть с места кого-то другого грубой силой.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 7000,
+    "availability": "R4",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 263"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

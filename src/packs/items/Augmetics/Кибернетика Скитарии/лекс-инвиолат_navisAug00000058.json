@@ -1,0 +1,50 @@
+{
+  "name": "Лекс инвиолат",
+  "type": "augmetic",
+  "_id": "navisAug00000058",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00005",
+  "sort": 5800,
+  "system": {
+    "notes": {
+      "player": "<p><em>Требует установленных Боевых лат Скитарии.</em></p><p>Код имплантов Скитария дополнительно укреплён против взлома, а ноосферный фид отделён от остальных систем закодированными дата-коннекторами. Это дорого, и это ставят тем, кого точно попытаются перехватить.</p><p>Все попытки воздействовать на вашу бионику и кибернетику извне — техночудесами, взломом или скрапкодом — получают <strong>Помеху</strong>.</p><hr><p><strong>Уровень 1:</strong> Защита слабее: нарушитель получает <strong>−1 успех</strong> вместо Помехи.</p><p><strong>Уровень 3:</strong> Защита крепче: <strong>Помеха и −1 успех</strong>.</p><p><strong>Уровень 4:</strong> Защита почти непробиваема: <strong>Помеха и −2 успеха</strong>.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4000,
+    "availability": "R2",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 270"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

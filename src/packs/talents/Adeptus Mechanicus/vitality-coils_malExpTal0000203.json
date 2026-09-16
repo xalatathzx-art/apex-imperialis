@@ -1,0 +1,59 @@
+{
+  "name": "Vitality Coils",
+  "type": "talent",
+  "_id": "malExpTal0000203",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">1/session, needs power source, Action: Fortitude+0 check to heal SL+IntB wounds. Cannot remove critical wounds. On fail: suffer SL damage</span></p><hr><p><span style=\"font-family: Arial\"><em>Once per session, when in the presence of a suitable power source such as a portable generator or the power plant of a vehicle, you may make a Challenging (+0) Fortitude Test as an action. If you succeed, you may heal a number of wounds equal to your success levels, plus your Intelligence Bonus. You cannot remove Critical Wounds this way, and if you fail the test, you suffer damage equal to your negative success levels. </em></span></p>",
+      "gm": "Talent Category: Mechanicus"
+    },
+    "requirement": {
+      "value": "2 Advances in Fortitude, Potentia Coil Induction Talent",
+      "script": "return this.actor.system.skills.fortitude.advances >= 2 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Potentia Coil Induction\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "v1jaQSwVla5DGTQg",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 0
+}

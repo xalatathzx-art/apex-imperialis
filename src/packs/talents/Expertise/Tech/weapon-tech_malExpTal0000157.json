@@ -1,0 +1,59 @@
+{
+  "name": "Weapon-Tech",
+  "type": "talent",
+  "_id": "malExpTal0000157",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">1/Encounter: Free Action: enhance personal Las/Melta/Plasma/Power: increase damage & Penetrating by IntB for 1 round</span></p><hr><p><span style=\"font-family: Arial\"><em>Once per encounter as a Free Action, you may enhance any Las, Melta, Plasma, or Power weapon you are personally wielding. This increases the weapons Damage and the Penetrating Quality (if applicable) by an amount equal to your Intelligence Bonus until your next turn.</em></span></p>",
+      "gm": "Talent Category: Tech"
+    },
+    "requirement": {
+      "value": "Intelligence 40, 1 Advance in Tech(Engineering)",
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Engineering\" && i.system.skill == \"tech\")?.system?.advances >= 1)"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "gg2FdNYcHKZzBhcM",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 0
+}

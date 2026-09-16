@@ -1,0 +1,50 @@
+{
+  "name": "Рунические цепи",
+  "type": "augmetic",
+  "_id": "navisAug00000080",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00008",
+  "sort": 8000,
+  "system": {
+    "notes": {
+      "player": "<p><em>Требует имплантов Механикум. Такую операцию для непосвящённого делают только за очень большие деньги и с очень большим риском для всех участников.</em></p><p>Электрические цепи этого когнитивного импланта выгравированы рунными узорами и пронизаны нитями психокристаллов. Инфопотоки, проходя через них, резонируют с Варпом и сплетают вокруг души жреца колдовскую защиту.</p><p>Механикум официально не признаёт существования души. Цепи работают всё равно.</p><p>Вы можете использовать <strong>Интеллект вместо Силы воли</strong> во всех проверках против психосил, одержимости и прочих порождённых Варпом эффектов.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 16000,
+    "availability": "R3",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 272"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

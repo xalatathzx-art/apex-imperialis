@@ -1,0 +1,59 @@
+{
+  "name": "Angel of Mercy",
+  "type": "talent",
+  "_id": "malExpTal0000089",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">+1SL to determine healed wounds. May split number of healed wounds between multiple characters</span></p><hr><p><span style=\"font-family: Arial\"><em>You are unyielding in rendering medical assistance to as many as you can, never resting when there is work to be done. Add +1SL to your Medicae Tests when determining how many wounds you can heal.Additionally, you may split the number of wounds you heal between multiple characters</em></span></p>",
+      "gm": "Talent Category: Medicae"
+    },
+    "requirement": {
+      "value": "2 Advances in Medicae",
+      "script": "return this.actor.system.skills.medicae.advances >= 2"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "IgrCXb2wJE7Arklf",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 400000
+}

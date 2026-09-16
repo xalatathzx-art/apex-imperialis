@@ -1,0 +1,59 @@
+{
+  "name": "Silence the Witch",
+  "type": "talent",
+  "_id": "malExpTal0000066",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Reactive Target a Location attack against user of a Psychic Power / Ritual within weapon range. Resolve attack before the Power</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever a Psychic Power, Navigator Power, or Hex-type Ritual is used by an enemy, you may make a Target a Location attack against them as a reaction. The enemy must be within the Range of the weapon used for the attack, and must be done after the Test is made but before the Power is resolved, as the enemy may be unable to use the power depending on the results. If the enemy is knocked Unconscious, is set Ablaze, Stunned, or Dies, then the power does not manifest. </em></span></p>",
+      "gm": "Talent Category: Defense"
+    },
+    "requirement": {
+      "value": "2 Advances in Melee or 2 Advances in Ranged, Emperor’s Aegis Talent",
+      "script": "return (this.actor.system.skills.melee.advances >= 2 || this.actor.system.skills.ranged.advances >= 2) && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Emperor’s Aegis\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "WEnXbKeY9xtR01uo",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 600000
+}

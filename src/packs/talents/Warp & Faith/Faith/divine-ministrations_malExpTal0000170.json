@@ -1,0 +1,59 @@
+{
+  "name": "Divine Ministrations",
+  "type": "talent",
+  "_id": "malExpTal0000170",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">On Medicae to heal: restore WpB wounds OR spend FP to remove Fatigue from 2xWpB characters</span></p><hr><p><span style=\"font-family: Arial\"><em>When you are testing Medicae, you may spend a Fate Point to restore an amount of Damage equal to your Willpower Bonus instead of the normal amount. You may also spend a Fate Point to remove all fatigue from a number of people equal to twice your Willpower Bonus. </em></span></p>",
+      "gm": "Talent Category: Faith"
+    },
+    "requirement": {
+      "value": "Faithful (Imperial Cult) Talent, 1 Advance in Medicae",
+      "script": "return this.actor.system.skills.medicae.advances >= 1 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful(Imperial Cult)\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "oBHvd40uCHrPtfbK",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 1900000
+}

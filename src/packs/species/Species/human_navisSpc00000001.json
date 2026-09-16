@@ -1,0 +1,93 @@
+{
+  "name": "Human",
+  "type": "navis-apexialis.species",
+  "_id": "navisSpc00000001",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder001",
+  "sort": 100,
+  "system": {
+    "notes": {
+      "player": "<p>You are one of the uncounted quadrillions of Humanity, lifted out of the grey mass by chance or by the Gods into a champion of the Ruinous Powers — able to stand alongside the mighty Space Marines and the other monsters in Their service.</p>",
+      "gm": ""
+    },
+    "category": "human",
+    "reference": "DoomBC p.4",
+    "restricted": false,
+    "characteristics": {
+      "modifiers": {
+        "ws": 0,
+        "bs": 0,
+        "str": 0,
+        "tgh": 0,
+        "ag": 0,
+        "int": 0,
+        "per": 0,
+        "wil": 0,
+        "fel": 0
+      },
+      "choice": {
+        "number": 1,
+        "value": 5,
+        "keys": [
+          "ws",
+          "bs",
+          "str",
+          "tgh",
+          "ag",
+          "int",
+          "per",
+          "wil",
+          "fel"
+        ]
+      },
+      "maximums": {
+        "ws": 60,
+        "bs": 60,
+        "str": 60,
+        "tgh": 60,
+        "ag": 60,
+        "int": 60,
+        "per": 60,
+        "wil": 60,
+        "fel": 60
+      }
+    },
+    "skills": {},
+    "size": "medium",
+    "corruption": 0,
+    "roles": [
+      "Any"
+    ],
+    "removes": [],
+    "grantedTraits": {
+      "list": []
+    },
+    "talents": {
+      "list": []
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

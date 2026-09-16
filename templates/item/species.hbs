@@ -1,0 +1,243 @@
+<section class="tab {{tab.cssClass}} navis-species-details" data-group="primary" data-tab="{{tab.id}}">
+
+    <div class="navis-species-identity">
+        <div class="field">
+            <label>{{localize "NAVIS.Species.Category.Label"}}</label>
+            <select name="system.category">
+                {{#select source.system.category}}
+                {{#each categories as |label key|}}
+                <option value="{{key}}">{{localize label}}</option>
+                {{/each}}
+                {{/select}}
+            </select>
+        </div>
+        <div class="field">
+            <label>{{localize "IMPMAL.Size"}}</label>
+            <select name="system.size">
+                {{#select source.system.size}}
+                {{#if isSubspecies}}<option value="">{{localize "NAVIS.Species.SizeUnchanged"}}</option>{{/if}}
+                {{#each sizes as |label key|}}
+                <option value="{{key}}">{{localize label}}</option>
+                {{/each}}
+                {{/select}}
+            </select>
+        </div>
+        <div class="field">
+            <label>{{localize "NAVIS.Species.Reference"}}</label>
+            <input type="text" name="system.reference" value="{{source.system.reference}}" placeholder="DoomBC p.0">
+        </div>
+    </div>
+
+    <div class="navis-species-gating">
+        <label class="checkbox">
+            <input type="checkbox" name="system.restricted" {{checked source.system.restricted}}>
+            {{localize "NAVIS.Species.Restricted"}}
+        </label>
+        {{#if isSubspecies}}
+        <div class="field">
+            <label>{{localize "NAVIS.Species.Requires"}}</label>
+            <input type="text" name="system.requires" value="{{source.system.requires}}"
+                   placeholder="{{localize 'NAVIS.Species.RequiresHint'}}">
+        </div>
+        {{/if}}
+    </div>
+
+    {{!-- Characteristics: what the race adds to a starting human, in impmal steps of five. --}}
+    <div class="navis-species-block">
+        <div class="navis-species-head">
+            <span>{{localize "IMPMAL.Characteristics"}}</span>
+            <span class="hint">{{localize "NAVIS.Species.ModifierHint"}}</span>
+        </div>
+        <div class="navis-species-chars">
+            {{#each characteristicAbbrev as |abbrev key|}}
+            <div class="char">
+                <label>{{localize abbrev}}</label>
+                <input type="number" step="5" name="system.characteristics.modifiers.{{key}}"
+                       value="{{lookup ../source.system.characteristics.modifiers key}}">
+            </div>
+            {{/each}}
+        </div>
+        {{#unless isSubspecies}}
+        <div class="navis-species-head sub">
+            <span>{{localize "NAVIS.Species.Maximums"}}</span>
+            <span class="hint">{{localize "NAVIS.Species.MaximumsHint"}}</span>
+        </div>
+        <div class="navis-species-chars">
+            {{#each characteristicAbbrev as |abbrev key|}}
+            <div class="char">
+                <label>{{localize abbrev}}</label>
+                <input type="number" step="5" min="0" name="system.characteristics.maximums.{{key}}"
+                       value="{{lookup ../source.system.characteristics.maximums key}}">
+            </div>
+            {{/each}}
+        </div>
+        {{/unless}}
+    </div>
+
+    {{!-- The part the book leaves to the player, asked once when the species is dropped. --}}
+    <div class="navis-species-block">
+        <div class="navis-species-head">
+            <span>{{localize "NAVIS.Species.Choice"}}</span>
+            <span class="hint">{{localize "NAVIS.Species.ChoiceHint"}}</span>
+        </div>
+        <div class="navis-species-choice">
+            <div class="field narrow">
+                <label>{{localize "NAVIS.Species.ChoiceNumber"}}</label>
+                <input type="number" min="0" name="system.characteristics.choice.number"
+                       value="{{source.system.characteristics.choice.number}}">
+            </div>
+            <div class="field narrow">
+                <label>{{localize "NAVIS.Species.ChoiceValue"}}</label>
+                <input type="number" step="5" name="system.characteristics.choice.value"
+                       value="{{source.system.characteristics.choice.value}}">
+            </div>
+            <div class="field">
+                <label>{{localize "NAVIS.Species.ChoiceKeys"}}</label>
+                <multi-checkbox name="system.characteristics.choice.keys">
+                    {{#each characteristics as |label key|}}
+                    <option value="{{key}}" {{#if (includes ../source.system.characteristics.choice.keys key)}}selected{{/if}}>
+                        {{localize label}}
+                    </option>
+                    {{/each}}
+                </multi-checkbox>
+            </div>
+        </div>
+    </div>
+
+    {{!-- Starting advances. Zero means the species says nothing about that skill. --}}
+    <div class="navis-species-block">
+        <div class="navis-species-head">
+            <span>{{localize "IMPMAL.Skills"}}</span>
+            <span class="hint">{{localize "NAVIS.Species.SkillHint"}}</span>
+        </div>
+        <div class="navis-species-skills">
+            {{#each skills as |label key|}}
+            <div class="skill">
+                <label>{{localize label}}</label>
+                <input type="number" min="0" name="system.skills.{{key}}"
+                       value="{{#if (lookup ../source.system.skills key)}}{{lookup ../source.system.skills key}}{{else}}0{{/if}}">
+            </div>
+            {{/each}}
+        </div>
+    </div>
+
+    <div class="navis-species-block">
+        <div class="navis-species-head">
+            <span>{{localize "NAVIS.Species.Body"}}</span>
+            <span class="hint">{{localize "NAVIS.Species.BodyHint"}}</span>
+        </div>
+        <div class="navis-species-choice">
+            <div class="field narrow">
+                <label>{{localize "IMPMAL.Corruption"}}</label>
+                <input type="number" min="0" name="system.corruption" value="{{source.system.corruption}}">
+            </div>
+            <div class="field">
+                <label>{{localize "NAVIS.Species.Roles"}}</label>
+                <input type="text" name="system.roles" value="{{rolesText}}"
+                       placeholder="{{localize 'NAVIS.Species.RolesHint'}}">
+            </div>
+        </div>
+    </div>
+
+    {{!-- Everything the species hands the character when it is dropped on the sheet. --}}
+    <div class="sheet-list droppable" data-path="system.grantedTraits">
+        <div class="list-header row-content">
+            <div class="list-name">{{localize "NAVIS.Species.Traits"}}</div>
+            <div class="list-controls"></div>
+        </div>
+        <div class="list-content">
+            {{#each traits}}
+            <div class="list-row" data-index="{{@key}}" data-path="system.grantedTraits">
+                <div class="row-content">
+                    <div class="list-name">
+                        <img src="{{this.img}}">
+                        <div class="label">{{this.name}}</div>
+                    </div>
+                    <div class="list-controls">
+                        <a class="list-control" data-action="editDiff"><i class="fa-solid fa-file-plus-minus"></i></a>
+                        <a class="list-control" data-action="listDelete"><i class="fa-solid fa-xmark"></i></a>
+                    </div>
+                </div>
+            </div>
+            {{else}}
+            <div class="navis-species-empty">{{localize "NAVIS.Species.DropTrait"}}</div>
+            {{/each}}
+        </div>
+    </div>
+
+    <div class="sheet-list droppable" data-path="system.talents">
+        <div class="list-header row-content">
+            <div class="list-name">{{localize "IMPMAL.Talents"}}</div>
+            <div class="list-controls"></div>
+        </div>
+        <div class="list-content">
+            {{#each talents}}
+            <div class="list-row" data-index="{{@key}}" data-path="system.talents">
+                <div class="row-content">
+                    <div class="list-name">
+                        <img src="{{this.img}}">
+                        <div class="label">{{this.name}}</div>
+                    </div>
+                    <div class="list-controls">
+                        <a class="list-control" data-action="editDiff"><i class="fa-solid fa-file-plus-minus"></i></a>
+                        <a class="list-control" data-action="listDelete"><i class="fa-solid fa-xmark"></i></a>
+                    </div>
+                </div>
+            </div>
+            {{else}}
+            <div class="navis-species-empty">{{localize "NAVIS.Species.DropTalent"}}</div>
+            {{/each}}
+        </div>
+    </div>
+
+    <div class="sheet-list droppable" data-path="system.specialisations">
+        <div class="list-header row-content">
+            <div class="list-name">{{localize "IMPMAL.Specialisations"}}</div>
+            <div class="list-controls"></div>
+        </div>
+        <div class="list-content">
+            {{#each specialisations}}
+            <div class="list-row" data-index="{{@key}}" data-path="system.specialisations">
+                <div class="row-content">
+                    <div class="list-name">
+                        <img src="{{this.img}}">
+                        <div class="label">{{this.name}}</div>
+                    </div>
+                    <div class="list-controls">
+                        <a class="list-control" data-action="editDiff"><i class="fa-solid fa-file-plus-minus"></i></a>
+                        <a class="list-control" data-action="listDelete"><i class="fa-solid fa-xmark"></i></a>
+                    </div>
+                </div>
+            </div>
+            {{else}}
+            <div class="navis-species-empty">{{localize "NAVIS.Species.DropSpecialisation"}}</div>
+            {{/each}}
+        </div>
+    </div>
+
+    <div class="sheet-list droppable" data-path="system.equipment">
+        <div class="list-header row-content">
+            <div class="list-name">{{localize "IMPMAL.Equipment"}}</div>
+            <div class="list-controls"></div>
+        </div>
+        <div class="list-content">
+            {{#each equipment}}
+            <div class="list-row" data-index="{{@key}}" data-path="system.equipment">
+                <div class="row-content">
+                    <div class="list-name">
+                        <img src="{{this.img}}">
+                        <div class="label">{{this.name}}</div>
+                    </div>
+                    <div class="list-controls">
+                        <a class="list-control" data-action="editDiff"><i class="fa-solid fa-file-plus-minus"></i></a>
+                        <a class="list-control" data-action="listDelete"><i class="fa-solid fa-xmark"></i></a>
+                    </div>
+                </div>
+            </div>
+            {{else}}
+            <div class="navis-species-empty">{{localize "NAVIS.Species.DropEquipment"}}</div>
+            {{/each}}
+        </div>
+    </div>
+
+</section>

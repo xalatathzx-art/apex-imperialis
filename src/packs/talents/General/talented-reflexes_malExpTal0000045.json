@@ -1,0 +1,59 @@
+{
+  "name": "Talented (Reflexes)",
+  "type": "talent",
+  "_id": "malExpTal0000045",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Once/session: re-roll Reflexes check (take better)</span></p><hr><p><span style=\"font-family: Arial\"><em>You have a natural affinity towards Reflexes. You must have two Advances in Reflexes. Once per session, you may reroll any Test for Reflexes even if the result is already a success. </em></span></p>",
+      "gm": "Talent Category: General"
+    },
+    "requirement": {
+      "value": "2 Advances in Reflexes",
+      "script": "return this.actor.system.skills.reflexes.advances >= 2"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "KmCDAtV80ZeH9J36",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 600000
+}

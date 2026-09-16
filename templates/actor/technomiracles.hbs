@@ -1,0 +1,78 @@
+{{!--
+    Вкладка «Техночудеса».
+
+    Разметка рассчитана на слой скина src/skin/81-technomiracles.css, но скин —
+    настройка клиента, и с выключенным скином это обязано остаться читаемым
+    списком: цифры стоят рядом с полосой всегда, а не заменяются ею.
+
+    Проценты и группировка приходят готовыми из tab.js: своего
+    Handlebars-помощника модуль не заводит, чтобы не занимать глобальное имя.
+--}}
+<section class="tab {{tab.cssClass}} navis-mechanicum" data-group="primary" data-tab="{{tab.id}}">
+
+    <div class="navis-cog-row">
+        <span class="navis-cog-label">{{localize "NAVIS.Techno.Cognition"}}</span>
+        <div class="navis-cog-vessel {{#if techno.committed}}navis-committed{{/if}}"
+             style="--navis-cog-level: {{techno.level}}">
+            <div class="navis-cog-fill" style="width: {{techno.fill}}%"></div>
+        </div>
+        <span class="navis-cog-count"><b>{{techno.cognition.value}}</b> / {{techno.cognition.max}}</span>
+    </div>
+
+    <div class="navis-cog-row">
+        <span class="navis-cog-label">{{localize "NAVIS.Techno.Energy"}}</span>
+        <div class="navis-charge-cells" style="--navis-n: {{techno.energy.max}}">
+            {{#each techno.charge}}<s class="{{#if this}}on{{/if}}"></s>{{/each}}
+        </div>
+        <span class="navis-cog-count"><b>{{techno.energy.value}}</b> / {{techno.energy.max}}</span>
+    </div>
+
+    <div class="navis-process-list">
+        <span class="navis-cog-label">{{localize "NAVIS.Techno.Processes"}}</span>
+        {{#each techno.processes}}
+            <div class="navis-process">
+                <span>{{this.name}}</span>
+                <span class="navis-process-cost">
+                    {{#if this.cognition}}{{localize "NAVIS.Techno.Upkeep"}} 1{{/if}}
+                </span>
+                <a data-navis-drop="{{this.itemId}}"
+                   data-tooltip="{{localize 'NAVIS.Techno.Drop'}}">
+                    <i class="fa-solid fa-power-off"></i>
+                </a>
+            </div>
+        {{else}}
+            <span class="navis-process-empty">{{localize "NAVIS.Techno.NoProcesses"}}</span>
+        {{/each}}
+    </div>
+
+    {{#each techno.schools}}
+        <div class="sheet-list navis-techno-school">
+            <div class="list-header">
+                <span>{{#if this.name}}{{this.name}}{{else}}{{localize "NAVIS.Techno.NoSchool"}}{{/if}}</span>
+            </div>
+            <div class="list-content">
+                {{#each this.miracles}}
+                    <div class="list-row">
+                        <div class="row-content navis-techno-row">
+                            <img src="{{this.img}}" width="24" height="24">
+                            <span class="navis-techno-name">{{this.name}}</span>
+                            <span class="navis-techno-cost"
+                                  data-tooltip="{{localize 'NAVIS.Techno.CostHint'}}">
+                                {{this.cost.cognition}} / {{this.cost.energy}}
+                            </span>
+                            {{#unless this.ready}}
+                                <i class="fa-solid fa-triangle-exclamation navis-techno-missing"
+                                   data-tooltip="{{localize 'NAVIS.Techno.MissingShort'}}: {{this.missing}}"></i>
+                            {{/unless}}
+                            <a data-navis-activate="{{this.id}}"
+                               data-tooltip="{{localize 'NAVIS.Techno.Activate'}}">
+                                <i class="fa-solid fa-bolt"></i>
+                            </a>
+                        </div>
+                    </div>
+                {{/each}}
+            </div>
+        </div>
+    {{/each}}
+
+</section>

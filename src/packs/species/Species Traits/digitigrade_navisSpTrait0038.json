@@ -1,0 +1,33 @@
+{
+  "name": "Digitigrade",
+  "type": "trait",
+  "_id": "navisSpTrait0038",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 3800,
+  "system": {
+    "notes": {
+      "player": "<p>Longer legs, and a gait that eats ground.</p> <p>Your Speed counts as one step faster when you Run or Charge, and you have Advantage on Athletics Tests to sprint or leap.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

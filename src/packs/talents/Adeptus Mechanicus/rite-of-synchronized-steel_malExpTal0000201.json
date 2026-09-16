@@ -1,0 +1,59 @@
+{
+  "name": "Rite of Synchronized Steel",
+  "type": "talent",
+  "_id": "malExpTal0000201",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">When MIU/VIC linked to vehicle:use Intelligence instead Agility for Piloting</span></p><hr><p><span style=\"font-family: Arial\"><em>While linked to a vehicle with your MIU or VIC implant, you may use your Intelligence characteristic instead of Agility for the Piloting Skill. This may not be used with jump packs or similar devices. </em></span></p>",
+      "gm": "Talent Category: Mechanicus"
+    },
+    "requirement": {
+      "value": "Must have MIU/VIC implant, 1 Advance in Piloting",
+      "script": "return this.actor.system.skills.piloting.advances >= 1"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "v1jaQSwVla5DGTQg",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 1100000
+}

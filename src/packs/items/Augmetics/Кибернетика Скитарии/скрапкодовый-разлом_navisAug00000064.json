@@ -1,0 +1,50 @@
+{
+  "name": "Скрапкодовый разлом",
+  "type": "augmetic",
+  "_id": "navisAug00000064",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00005",
+  "sort": 6400,
+  "system": {
+    "notes": {
+      "player": "<p>Запретный модуль, которого ищут излишне самостоятельные и амбициозные альфа-примусы и маршалы Скитарии — на службе Тёмных Механикум, а изредка и лоялистов Марса. Он позволяет сбросить контроль повелителей и обрести свободу.</p><p>Свобода эта имеет цену, и цена записана прямо в коде модуля.</p><p><em>Требует установленных Боевых лат Скитарии.</em></p><p>Вы больше не обязаны выполнять приказы тех, у кого есть ваши командные коды, и можете по желанию игнорировать техночудеса, направленные на вашу бионику.</p><p>При установке вы получаете <strong>2к5 Порчи</strong>.</p>",
+      "gm": "<p>Это снимает поводок, который дают Боевые латы. Если латы у игрока — это его сюжет, а не покупка.</p>"
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 18000,
+    "availability": "R4",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 270"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

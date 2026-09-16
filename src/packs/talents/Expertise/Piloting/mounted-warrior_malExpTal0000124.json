@@ -1,0 +1,59 @@
+{
+  "name": "Mounted Warrior",
+  "type": "talent",
+  "_id": "malExpTal0000124",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">On attack from moving vehicle/mount: base attack difficulty cannot be worse than -10. This does not reduce penalties from other circumstances</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever you make an attack from a moving vehicle of mount, you count the difficulty as being at Difficult (-10) or less even if the Action describes the base difficulty as being worse. This applies to both ordinary attack actions and special vehicle and mount combat actions. This does not remove penalties from environmental conditions such as smoke, darkness, etc. </em></span></p>",
+      "gm": "Talent Category: Piloting"
+    },
+    "requirement": {
+      "value": "2 Advances in Piloting or Athletics(Riding)",
+      "script": "return this.actor.system.skills.piloting.advances >= 2 || this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Riding\" && i.system.skill == \"athletics\")?.system?.advances >= 2"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "3JxhLA6h0JYJZyf9",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 200000
+}

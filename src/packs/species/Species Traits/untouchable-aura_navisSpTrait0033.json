@@ -1,0 +1,33 @@
+{
+  "name": "Untouchable Aura",
+  "type": "trait",
+  "_id": "navisSpTrait0033",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 3300,
+  "system": {
+    "notes": {
+      "player": "<p>Your soul is a hole, and it drinks.</p> <p>You carry the <strong>Blank</strong> talent, and everything it grants: you win opposed Tests against psychic powers outright, Psyniscience cannot find you, possession cannot take you, and you never gain Corruption. This trait is what DoomBC puts <em>on top</em> of that.</p> <p><strong>Your zone is cut off from the Warp, not merely hostile to it.</strong> Where Blank gives Disadvantage to manifest, nothing manifests at all: a power that reaches into your zone is lost with no effect. Nobody in your zone, yourself included, may spend Fate. Daemon weapons and possessed creatures lose what makes them daemonic while they are inside, and a ritual that comes into your zone simply stops, harmlessly — the gathered power goes into you.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

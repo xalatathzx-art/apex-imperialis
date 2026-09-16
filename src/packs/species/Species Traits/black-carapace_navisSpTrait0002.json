@@ -1,0 +1,33 @@
+{
+  "name": "Black Carapace",
+  "type": "trait",
+  "_id": "navisSpTrait0002",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 200,
+  "system": {
+    "notes": {
+      "player": "<p>A subdermal interface shell that lets armour move as skin does.</p> <p>Power armour you wear imposes none of its usual weight or Strength requirement: treat its Encumbrance as 0 and ignore any Disadvantage it would cause. Against anyone else the same armour is a coffin.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

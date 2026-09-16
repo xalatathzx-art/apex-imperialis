@@ -1,0 +1,33 @@
+{
+  "name": "Aura of Technological Contempt",
+  "type": "trait",
+  "_id": "navisSpTrait0036",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 3600,
+  "system": {
+    "notes": {
+      "player": "<p>Machines fail around you and nobody has ever worked out why.</p> <p>Every powered device in your zone fails as though caught in a Haywire field. Purely mechanical work — a chrono, an autogun, a steam plant — jams or drifts out of true after a few rounds inside. Tech Tests in your zone are at Disadvantage, and a Mechanicus rite aimed at anything in your zone fails outright, however far away the tech-priest stands. Primitive things are untouched: a crossbow, a blade, a torch.</p> <p>Cloned and augmetic organs rot slowly in your presence, gene-seed included. Medicine spoils. Anyone who spends hours beside you pays for it.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Всевидящее око",
+  "type": "augmetic",
+  "_id": "navisAug00000097",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00010",
+  "sort": 9700,
+  "system": {
+    "notes": {
+      "player": "<p><em>Требует имплантов Механикум. Такую операцию для непосвящённого делают только за очень большие деньги и с очень большим риском для всех участников.</em></p><p>Комплекс многочисленных визоров закрывает лицевую пластину техножреца, а импланты в затылочной доле расширяют способность разума воспринимать несколько зрительных потоков сразу. Смотреть ему в лицо неуютно: там нет лица, там объективы.</p><p>Вы видите в тепловом спектре, видите источники радиации и вокс-сигнала — и всё это отдельными зрениями, в дополнение к обычному.</p><p>Вы видите в темноте, невосприимчивы к ослеплению и несёте функционал ретинального дисплея, пикт-кастера и магнокуляра.</p><hr><p><strong>Уровень 1:</strong> Зрение зернистое и не различает цветов.</p><p><strong>Уровень 3:</strong> <strong>+1 успех</strong> на все проверки зрения.</p><p><strong>Уровень 4:</strong> <strong>+2 успеха</strong> на проверки зрения и круговой обзор.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 8000,
+    "availability": "R2",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 275"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

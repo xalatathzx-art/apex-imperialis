@@ -1,0 +1,118 @@
+{
+  "name": "Beastman",
+  "type": "navis-apexialis.species",
+  "_id": "navisSpc00000005",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder001",
+  "sort": 500,
+  "system": {
+    "notes": {
+      "player": "<p>One of the most common stable human mutations turns a man into a half-man, half-beast that takes on many goatish traits: far stronger and hardier, but duller and more aggressive. The gravest change is to the mutant's mind, planting in it a deep aversion to order and a rejection of the fruits of civilisation, making him a creature of chaos and destruction. The hatred of technology can still be trained out of a Beastman; his indiscipline and his physiological incompatibility with bionics are a fundamental part of what he is.</p> <p>Most Beastmen live as primitive and warlike tribes, but from time to time the warbands of Chaos recruit them as sturdy, powerful and poorly controlled cannon fodder.</p>",
+      "gm": "<p><em>Conversion:</em> DoomBC starts a Beastman with 5 Corruption, which in impmal would be most of a career before play begins — Corruption there caps at Toughness bonus + Willpower bonus. It becomes 1.</p>"
+    },
+    "category": "mutant",
+    "reference": "DoomBC p.10",
+    "restricted": false,
+    "characteristics": {
+      "modifiers": {
+        "ws": 0,
+        "bs": 0,
+        "str": 10,
+        "tgh": 10,
+        "ag": 0,
+        "int": -10,
+        "per": 0,
+        "wil": 0,
+        "fel": -10
+      },
+      "choice": {
+        "number": 1,
+        "value": 5,
+        "keys": [
+          "ws",
+          "str",
+          "tgh"
+        ]
+      },
+      "maximums": {
+        "ws": 60,
+        "bs": 60,
+        "str": 60,
+        "tgh": 60,
+        "ag": 60,
+        "int": 60,
+        "per": 60,
+        "wil": 60,
+        "fel": 60
+      }
+    },
+    "skills": {
+      "melee": 1,
+      "awareness": 1,
+      "stealth": 1
+    },
+    "size": "medium",
+    "corruption": 1,
+    "roles": [
+      "Warrior",
+      "Zealot",
+      "Penumbra"
+    ],
+    "removes": [],
+    "grantedTraits": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0012",
+          "id": "navisSpTrait0012",
+          "name": "Cloven",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0013",
+          "id": "navisSpTrait0013",
+          "name": "Aversion to Order",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0014",
+          "id": "navisSpTrait0014",
+          "name": "Abhorrence",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0015",
+          "id": "navisSpTrait0015",
+          "name": "Horns and Hooves",
+          "diff": {}
+        }
+      ]
+    },
+    "talents": {
+      "list": []
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

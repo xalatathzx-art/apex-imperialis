@@ -1,0 +1,50 @@
+{
+  "name": "Шестерня оккультарис",
+  "type": "augmetic",
+  "_id": "navisAug00000099",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00010",
+  "sort": 9900,
+  "system": {
+    "notes": {
+      "player": "<p><em>Требует имплантов Механикум. Такую операцию для непосвящённого делают только за очень большие деньги и с очень большим риском для всех участников.</em></p><p>Шифровальные когитаторы скрывают персональные потоки данных техножреца, укрывая его ноосферные действия от чужого внимания. В политике Механикум это не роскошь, а условие выживания.</p><p>Чтобы засечь ваши действия в ноосфере сканированием, нужно набрать <strong>3 успеха</strong> вместо одного.</p><hr><p><strong>Уровень 1:</strong> Достаточно 2 успехов.</p><p><strong>Уровень 3:</strong> Нужно 4 успеха.</p><p><strong>Уровень 4:</strong> Нужно 5 успехов.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 7500,
+    "availability": "R2",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 275"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Abhorrence",
+  "type": "trait",
+  "_id": "navisSpTrait0014",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 1400,
+  "system": {
+    "notes": {
+      "player": "<p>The Imperium does not debate what you are. It burns what you are.</p> <p>Your Influence with the Adeptus Ministorum and the Inquisition is reduced by 1, to a minimum of 0. Being seen unhooded in Imperial space is not a modifier on a Test; it is the start of a scene.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

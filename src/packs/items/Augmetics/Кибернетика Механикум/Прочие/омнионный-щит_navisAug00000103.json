@@ -1,0 +1,50 @@
+{
+  "name": "Омнионный щит",
+  "type": "augmetic",
+  "_id": "navisAug00000103",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00010",
+  "sort": 10300,
+  "system": {
+    "notes": {
+      "player": "<p><em>Требует имплантов Механикум. Такую операцию для непосвящённого делают только за очень большие деньги и с очень большим риском для всех участников.</em></p><p>Генератор экзотических полей нейтрализует ионизирующую радиацию внутри своего купола. Побочный эффект неизбежен: внутри купола радиации нет вовсе, а значит, и сенсоры её не видят — в том числе те, которыми вы искали источник.</p><p>Вы невосприимчивы к фоновой радиации и к радиационному урону.</p><p>Ваши сенсоры радиации внутри купола не работают.</p><hr><p><strong>Уровень 1:</strong> Защищает только от фоновой радиации.</p><p><strong>Уровень 3:</strong> Сенсорам радиации купол больше не мешает.</p><p><strong>Уровень 4:</strong> Как уровень 3, и купол накрывает всех, кто стоит рядом с вами.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 9500,
+    "availability": "R2",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 276"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

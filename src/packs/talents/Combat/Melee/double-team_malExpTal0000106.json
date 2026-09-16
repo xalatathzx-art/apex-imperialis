@@ -1,0 +1,59 @@
+{
+  "name": "Double Team",
+  "type": "talent",
+  "_id": "malExpTal0000106",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">When outnumbering: +1SL on melee. If your outnumbering ally als has Double Team, get another 1SL</span></p><hr><p><span style=\"font-family: Arial\"><em>You have experience fighting in paired teams that work together to take down their enemies. When outnumbering an opponent, you gain +1SL on Melee Tests. If both you and your ally that outnumber the enemy have this Talent, then you gain another +1SL for a total of +2SL. This bonus is in addition to the normal bonus from outnumbering on an opponent (CRB pg. 214) . </em></span></p>",
+      "gm": "Talent Category: Melee"
+    },
+    "requirement": {
+      "value": "-",
+      "script": ""
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "QWThJrKmW2XlflEF",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 700000
+}

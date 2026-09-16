@@ -1,0 +1,33 @@
+{
+  "name": "Bestial Frame",
+  "type": "trait",
+  "_id": "navisSpTrait0023",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 2300,
+  "system": {
+    "notes": {
+      "player": "<p>The body works. It simply is not shaped the way the Imperium expects.</p> <p>You have Advantage on Athletics Tests that play to your animal build, and Disadvantage on Rapport Tests with anyone who has not met your kind before. Armour and clothing must be fitted to you at twice the usual cost.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Lasgun Barrage",
+  "type": "talent",
+  "_id": "malExpTal0000134",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">On Burst/Rapid Fire with las weapon: +1SL on success if you do not move</span></p><hr><p><span style=\"font-family: Arial\"><em>Through years of practice drills and battlefield experience, you have become a master of the lasgun. When fire any class on Las Weapons on Burst or Rapid Fire, you may score +1SL (provided the test is successful) if you do not move in your turn. </em></span></p>",
+      "gm": "Talent Category: Ranged"
+    },
+    "requirement": {
+      "value": "2 Advances in Ranged",
+      "script": "return this.actor.system.skills.ranged.advances >= 2"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "RR06fV9NhqJFz6js",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 0
+}

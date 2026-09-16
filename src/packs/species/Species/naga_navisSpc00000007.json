@@ -1,0 +1,164 @@
+{
+  "name": "Naga",
+  "type": "navis-apexialis.species",
+  "_id": "navisSpc00000007",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder001",
+  "sort": 700,
+  "system": {
+    "notes": {
+      "player": "<p>The Naga are the result of a mad experiment by a cabal of Flesh Sculptors who tried to recreate the exterminated Laer — beloved of the Dark Prince — by transforming humans into half-serpent mutants. The monsters born of that achievement wiped out their creators, seized by fury that anyone had presumed to control them, and scattered across the Galaxy, each keeping well away from the rest.</p>",
+      "gm": "<p><em>Conversion:</em> Natural Armour (3) becomes +2 armour on every location, which is already a mesh vest worn under the skin. Nimble and the book's speed traits are dropped: impmal has no equivalent scale and inventing one would put the species outside the system rather than inside it.</p>"
+    },
+    "category": "xenos",
+    "reference": "DoomBC p.13",
+    "restricted": false,
+    "characteristics": {
+      "modifiers": {
+        "ws": 0,
+        "bs": 0,
+        "str": 5,
+        "tgh": 10,
+        "ag": 5,
+        "int": -5,
+        "per": 0,
+        "wil": 0,
+        "fel": -5
+      },
+      "choice": {
+        "number": 1,
+        "value": 5,
+        "keys": [
+          "str",
+          "tgh",
+          "ag"
+        ]
+      },
+      "maximums": {
+        "ws": 60,
+        "bs": 60,
+        "str": 60,
+        "tgh": 60,
+        "ag": 60,
+        "int": 60,
+        "per": 60,
+        "wil": 60,
+        "fel": 60
+      }
+    },
+    "skills": {
+      "melee": 1,
+      "athletics": 1,
+      "stealth": 1
+    },
+    "size": "large",
+    "corruption": 1,
+    "roles": [
+      "Warrior",
+      "Penumbra"
+    ],
+    "removes": [],
+    "grantedTraits": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0018",
+          "id": "navisSpTrait0018",
+          "name": "Multiple Arms",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0019",
+          "id": "navisSpTrait0019",
+          "name": "Adaptive Venom",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0020",
+          "id": "navisSpTrait0020",
+          "name": "Constrictor",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0021",
+          "id": "navisSpTrait0021",
+          "name": "Coiled Body",
+          "diff": {}
+        }
+      ]
+    },
+    "talents": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-talents.Item.malExpTal0000109",
+          "id": "malExpTal0000109",
+          "name": "Preternatural Speed",
+          "diff": {}
+        }
+      ]
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": []
+    }
+  },
+  "effects": [
+    {
+      "_id": "navisSpFx0000007",
+      "name": "Naga — physiology",
+      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "changes": [
+        {
+          "key": "system.combat.wounds.max",
+          "mode": 2,
+          "value": "2",
+          "priority": 20
+        },
+        {
+          "key": "system.combat.armourModifier",
+          "mode": 2,
+          "value": "2",
+          "priority": 20
+        }
+      ],
+      "disabled": false,
+      "transfer": true,
+      "origin": null,
+      "duration": {},
+      "description": "",
+      "statuses": [],
+      "flags": {
+        "navis-apexialis": {
+          "source": "DoomBC_Core",
+          "generated": "tools/make-species.mjs"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "impmal",
+        "systemVersion": "3.3.0"
+      }
+    }
+  ],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

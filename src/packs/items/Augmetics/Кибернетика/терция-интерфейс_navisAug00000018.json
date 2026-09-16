@@ -1,0 +1,50 @@
+{
+  "name": "Терция интерфейс",
+  "type": "augmetic",
+  "_id": "navisAug00000018",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00003",
+  "sort": 1800,
+  "system": {
+    "notes": {
+      "player": "<p>Упрощённая версия кибер-мантии Механикум, имплантируемая в спину серией коннекторов к спинному мозгу. Предназначена для подключения простейших механодендритов теми, кто не посвящён в таинства.</p><p>Для настоящего техножреца эта вещь бесполезна. Для всех остальных — единственная дверь.</p><p>Вы можете установить себе механодендрит и получаете доступ к талантам, нужным для управления им.</p><p>Подключённый через этот интерфейс механодендрит нельзя использовать как реакцию — только вместо обычных рук. Все бонусы, которые он даёт, уменьшаются вдвое, округляя вверх.</p><hr><p><strong>Уровень 1:</strong> Имплант громоздок и ограничивает подвижность позвоночника: <strong>−10 к Ловкости</strong>.</p><p><strong>Уровень 3:</strong> Позволяет подключить до двух механодендритов, <em>либо</em> даёт полные бонусы от одного.</p><p><strong>Уровень 4:</strong> Оба эффекта уровня 3.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 900,
+    "availability": "R0",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 265"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

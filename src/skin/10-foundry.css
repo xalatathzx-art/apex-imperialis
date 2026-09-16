@@ -1,0 +1,346 @@
+/* ══════════════════════════════════════════════════════════════════════════
+   NAVIS APEXIALIS SKIN — 10 FOUNDRY CORE
+
+   Surfaces impmal never themes, or themes only through variables: framed
+   windows, form controls, UI controls, sidebar directories, hotbar, tooltips,
+   notifications. Every selector here is checked against Foundry v13's own
+   templates (templates/sidebar, templates/ui) and foundry2.css.
+
+   Why these rules win without !important: Foundry's server places a module
+   stylesheet declared without a layer in layer(modules), which sits above
+   Foundry's own layers and above layer(system), where it puts impmal.css and
+   warhammer-lib. So on the same element this file wins whatever the
+   specificity. The mirrored rules in 50-impmal still copy impmal's exact
+   selectors: that keeps them correct against impmal-core, which shares the
+   modules layer, and against any setup that loads impmal differently.
+
+   Foundry declares its component variables on the element that uses them
+   (on button, on input, on .ui-control, on #hotbar) rather than on body. A
+   variable set on body would be shadowed right there, so each group below is
+   declared on the same element Foundry declares it on.
+   ══════════════════════════════════════════════════════════════════════ */
+
+/* ── Framed windows ─────────────────────────────────────────────────────── */
+
+body.navis-skin .application {
+  --background:               var(--navis-window);
+  --color-header-background:  var(--navis-surface);
+  --color-border:             var(--navis-line);
+  --color-tabs-border:        var(--navis-line);
+  --color-fieldset-border:    var(--navis-line);
+  --color-form-hint:          var(--navis-ink-faint);
+  --color-form-hint-hover:    var(--navis-ink-muted);
+  --color-form-label:         var(--navis-brass);
+  --color-form-label-hover:   var(--navis-ink);
+  --color-select-option-bg:   var(--navis-field);
+
+  border: 1px solid var(--navis-line);
+  border-left: 3px solid var(--navis-brass-dim);
+  border-radius: 0;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.65);
+}
+
+/* The title is a stencilled caption, not a heading. */
+body.navis-skin .application .window-header .window-title {
+  font-family: var(--navis-font-stencil);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: var(--navis-track-caption);
+  color: var(--navis-brass);
+}
+body.navis-skin .application .window-header .header-control {
+  color: var(--navis-ink-muted);
+  transition: color var(--navis-transition);
+}
+body.navis-skin .application .window-header .header-control:hover {
+  color: var(--navis-accent-lit);
+}
+
+body.navis-skin .application legend {
+  font-family: var(--navis-font-stencil);
+  text-transform: uppercase;
+  letter-spacing: var(--navis-track-caption);
+  color: var(--navis-brass);
+}
+
+/* Journal headings. Foundry rules them with --color-warm-3, an orange that
+   reads as rust — and rust is reserved for what can be pressed. */
+body.navis-skin .journal-entry-page h1,
+body.navis-skin .journal-entry-page h2 {
+  border-bottom-color: var(--navis-brass-dim);
+}
+
+/* Core sheet tabs. Colour and type only: tab strips come in too many layouts
+   (vertical, icon-only, wrapped) to risk touching their geometry. */
+body.navis-skin .application nav.tabs [data-tab] {
+  font-family: var(--navis-font-stencil);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--navis-ink-muted);
+}
+body.navis-skin .application nav.tabs [data-tab].active {
+  color: var(--navis-accent-lit);
+  text-shadow: none;
+}
+
+/* ── Form controls ──────────────────────────────────────────────────────── */
+
+body.navis-skin input,
+body.navis-skin select,
+body.navis-skin textarea,
+body.navis-skin code-mirror {
+  --input-background-color:    var(--navis-field);
+  --input-border-color:        var(--navis-line);
+  --input-text-color:          var(--navis-ink);
+  --input-focus-text-color:    var(--navis-ink-emphatic);
+  --input-focus-outline-color: var(--navis-accent);
+  --input-placeholder-color:   var(--navis-ink-faint);
+}
+
+body.navis-skin input[type="checkbox"],
+body.navis-skin input[type="radio"] {
+  --checkbox-checked-color:    var(--navis-accent-lit);
+  --checkbox-disabled-color:   var(--navis-line);
+  --checkbox-background-color: var(--navis-field);
+  --checkbox-checkmark-color:  var(--navis-field);
+}
+
+/* Buttons. Three kinds are excluded, or every icon in the interface grows a
+   black box: .plain buttons set these same variables to transparent in
+   Foundry's own CSS; .ui-control buttons paint from --control-* instead; and
+   icon-only buttons (.icon — the window header's menu and close controls are
+   `button.header-control.icon`, without .plain) are meant to have no plate. */
+body.navis-skin button:not(.plain):not(.ui-control):not(.icon),
+body.navis-skin a.button:not(.plain):not(.ui-control):not(.icon),
+body.navis-skin kbd {
+  --button-background-color:       var(--navis-field);
+  --button-border-color:           var(--navis-line);
+  --button-text-color:             var(--navis-ink);
+  --button-focus-outline-color:    var(--navis-accent);
+  --button-hover-background-color: var(--navis-raised);
+  --button-hover-border-color:     var(--navis-accent);
+  --button-hover-text-color:       var(--navis-accent-lit);
+  border-radius: 0;
+}
+
+/* Menus: prosemirror toolbars, dropdowns, dialogs rendered as menus. */
+body.navis-skin .prosemirror,
+body.navis-skin .menu-dialog,
+body.navis-skin .pm-dropdown {
+  --menu-background:     var(--navis-surface);
+  --dropdown-background: var(--navis-surface);
+  --dropdown-border:     var(--navis-line);
+  --dialog-background:   var(--navis-window);
+  --dialog-border:       var(--navis-line);
+  --color-control-hover: var(--navis-raised);
+}
+
+/* ── UI controls: scene controls, sidebar tabs, hotbar buttons ──────────── */
+
+body.navis-skin .ui-control {
+  --control-bg-color:                  var(--navis-field);
+  --control-border-color:              var(--navis-line);
+  --control-icon-color:                var(--navis-ink-muted);
+  --control-hover-bg-color:            var(--navis-raised);
+  --control-hover-border-color:        var(--navis-brass-dim);
+  --control-hover-icon-color:          var(--navis-ink);
+  --control-active-bg-color:           var(--navis-raised);
+  --control-active-border-color:       var(--navis-accent);
+  --control-active-icon-color:         var(--navis-accent-lit);
+  --control-button-border-color:       var(--navis-accent);
+  --control-button-hover-bg-color:     var(--navis-accent-dim);
+  --control-button-hover-border-color: var(--navis-accent-lit);
+  --control-icon-filter: none;
+}
+/* Toggles (ruler snapping, the token HUD states) read a separate pair. */
+body.navis-skin .ui-control.toggle {
+  --control-bg-color:            var(--navis-field);
+  --control-border-color:        var(--navis-brass-dim);
+  --control-active-bg-color:     var(--navis-raised);
+  --control-active-border-color: var(--navis-accent);
+  --control-hover-border-color:  var(--navis-accent);
+}
+body.navis-skin .ui-control:disabled {
+  --control-hover-bg-color:     var(--control-bg-color);
+  --control-hover-border-color: var(--control-border-color);
+  --control-hover-icon-color:   var(--control-icon-color);
+}
+body.navis-skin button.ui-control,
+body.navis-skin a.ui-control,
+body.navis-skin li.ui-control {
+  border-radius: 0;
+  transition: background-color var(--navis-transition), border-color var(--navis-transition), color var(--navis-transition);
+}
+/* An active control gains a rust edge and nothing else — no solid fill. */
+body.navis-skin button.ui-control.active,
+body.navis-skin button.ui-control[aria-pressed="true"],
+body.navis-skin li.ui-control.active {
+  box-shadow: inset 3px 0 0 var(--navis-accent);
+}
+
+/* ── Sidebar ────────────────────────────────────────────────────────────── */
+
+body.navis-skin #sidebar-content {
+  border-left: 1px solid var(--navis-line);
+}
+
+/* Directory folders. The header's background is the folder's own colour,
+   set inline from its settings — the colour-coded compendium taxonomy lives
+   there — so this rule gives it an edge and a cut but never a background. */
+body.navis-skin li.directory-item.folder > .folder-header {
+  border: none;
+  border-left: 3px solid var(--navis-brass-dim);
+  clip-path: var(--navis-plate-sm);
+  font-family: var(--navis-font-stencil);
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+}
+body.navis-skin li.directory-item.folder > .folder-header .folder-name {
+  font-weight: 600;
+}
+
+/* Compendium packs: a plate per pack, brass-ruled, rust on hover. */
+body.navis-skin li.directory-item.compendium {
+  border: 1px solid var(--navis-line);
+  border-left: 3px solid var(--navis-brass-dim);
+  clip-path: var(--navis-plate);
+  transition: border-color var(--navis-transition);
+}
+body.navis-skin li.directory-item.compendium:hover {
+  border-left-color: var(--navis-accent);
+}
+body.navis-skin li.directory-item.compendium .compendium-name {
+  font-family: var(--navis-font-stencil);
+  text-transform: uppercase;
+  letter-spacing: var(--navis-track-caption);
+}
+body.navis-skin li.directory-item.compendium .compendium-footer {
+  font-family: var(--navis-font-data);
+  color: var(--navis-ink-muted);
+}
+
+/* Chat input. */
+body.navis-skin #chat-message {
+  background: var(--navis-field);
+  border: 1px solid var(--navis-line);
+  border-radius: 0;
+  color: var(--navis-ink);
+}
+body.navis-skin #chat-message:focus {
+  border-color: var(--navis-accent);
+  box-shadow: inset 3px 0 0 var(--navis-accent);
+  outline: none;
+}
+
+/* ── Hotbar ─────────────────────────────────────────────────────────────── */
+
+body.navis-skin #hotbar {
+  --slot-color:          var(--navis-field);
+  --key-bg-color-empty:  var(--navis-surface);
+  --key-bg-color-full:   var(--navis-surface);
+  --key-text-color:      var(--navis-brass);
+  --page-control-color:  var(--navis-surface);
+}
+body.navis-skin #hotbar #action-bar {
+  background: var(--navis-surface);
+  border: 1px solid var(--navis-line);
+  border-left: 3px solid var(--navis-brass-dim);
+  clip-path: var(--navis-plate-sm);
+  padding: 3px;
+}
+body.navis-skin #hotbar #action-bar .slot {
+  border: 1px solid var(--navis-line);
+  border-radius: 0;
+}
+body.navis-skin #hotbar #action-bar .slot .key {
+  font-family: var(--navis-font-stencil);
+  font-weight: 600;
+  border-radius: 0;
+}
+body.navis-skin #hotbar #action-bar .slot:hover {
+  border-color: var(--navis-accent);
+}
+body.navis-skin #hotbar .hotbar-page-number {
+  font-family: var(--navis-font-data);
+  color: var(--navis-brass);
+}
+
+/* ── Players list ───────────────────────────────────────────────────────── */
+
+body.navis-skin #players {
+  --player-name-idle-color: var(--navis-ink-muted);
+}
+
+/* ── Context menu ───────────────────────────────────────────────────────── */
+
+body.navis-skin #context-menu {
+  --background-color:       var(--navis-surface);
+  --border-color:           var(--navis-line);
+  --text-color:             var(--navis-ink);
+  --hover-text-color:       var(--navis-accent-lit);
+  --group-separator:        var(--navis-line);
+  --hover-entry-border:     var(--navis-accent);
+  --hover-entry-background: var(--navis-raised);
+}
+
+/* Foundry does not float a context menu over the page: `_setPosition` calls
+   `_injectMenu`, which puts `#context-menu` *inside* the row that was right
+   clicked. A clip-path clips its descendants as well as itself, so a row this
+   skin gives cut corners to trims the menu to that silhouette — and the menu
+   opens upward, entirely outside the row's own box, so nothing is drawn at all.
+   Measured on a chat card: a 331px menu at y=184 inside a row starting at
+   y=516, every pixel of it clipped away.
+
+   Chat is the case that bites: the sidebar directories and compendium use
+   `_setFixedPosition` and hang their menu off `<body>`, well clear of any clip.
+   The other rows are listed because the trap is the injection, not the row, and
+   whichever menu is injected next would hit it the same way.
+
+   Each branch spells out the weight it has to beat: the chat rule carries two
+   ids of its own (`#interface #sidebar .chat-message`) and `:has()` here
+   contributes `#context-menu` as a third, so these win on specificity rather
+   than on where this file sits in the cascade. The cut corners come back the
+   moment the menu closes. */
+body.navis-skin #interface #sidebar .chat-message:has(#context-menu),
+body.navis-skin #interface .chat-message:has(#context-menu),
+body.navis-skin #chat-popout .chat-message:has(#context-menu),
+body.navis-skin li.directory-item:has(#context-menu),
+body.navis-skin li.directory-item.folder > .folder-header:has(#context-menu),
+body.navis-skin .combatant:has(#context-menu),
+body.navis-skin .macro:has(#context-menu),
+body.navis-skin .list-row:has(#context-menu) {
+  clip-path: none;
+}
+
+/* ── Tooltips and notifications ─────────────────────────────────────────── */
+
+body.navis-skin #tooltip,
+body.navis-skin .locked-tooltip {
+  background: var(--navis-surface);
+  color: var(--navis-ink);
+  border: 1px solid var(--navis-line);
+  border-left: 3px solid var(--navis-brass-dim);
+  border-radius: 0;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.6);
+}
+
+/* A notification's edge says what kind it is, so the text never has to be
+   tinted to carry that. */
+body.navis-skin #notifications .notification {
+  background: var(--navis-surface);
+  color: var(--navis-ink);
+  border: 1px solid var(--navis-line);
+  border-left: 3px solid var(--navis-brass);
+  border-radius: 0;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.6);
+  clip-path: var(--navis-plate-sm);
+}
+body.navis-skin #notifications .notification.warning { border-left-color: var(--navis-alert); }
+body.navis-skin #notifications .notification.error   { border-left-color: var(--navis-danger); }
+body.navis-skin #notifications .notification.success { border-left-color: var(--navis-success); }
+
+@media (prefers-reduced-motion: reduce) {
+  body.navis-skin * {
+    transition-duration: 1ms !important;
+  }
+}

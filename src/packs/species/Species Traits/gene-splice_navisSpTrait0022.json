@@ -1,0 +1,33 @@
+{
+  "name": "Gene-Splice",
+  "type": "trait",
+  "_id": "navisSpTrait0022",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 2200,
+  "system": {
+    "notes": {
+      "player": "<p>Animal DNA laid over a human genome, by design or by accident.</p> <p>Choose three adaptations when this species is applied — one sensory, one defensive, one offensive — and write them into this trait. Typical choices: darksight, scent tracking or hearing; hide, scales or a fat layer worth 1 armour; claws, a bite or a goring horn worth 2 + Strength bonus damage.</p> <p>Whatever you pick shows. There is no passing for human.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

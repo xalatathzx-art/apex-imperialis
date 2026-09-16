@@ -1,0 +1,59 @@
+{
+  "name": "Mind of Adamant",
+  "type": "talent",
+  "_id": "malExpTal0000209",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">On Opposed Discipline check for Psychic Power: may spend FP to gain IntB SL</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever you make an Opposed Discipline Skill Test for a Psychic Power (either yours or your opponents), you may spend a Fate Point. If you do so, you gain a number of success levels equal to your Intelligence Bonus. This may turn a failed test into a successful one. </em></span></p>",
+      "gm": "Talent Category: Psyker"
+    },
+    "requirement": {
+      "value": "Psyker Talent, 2 Advances in Discipline",
+      "script": "return this.actor.system.skills.discipline.advances >= 2 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Psyker\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "PU64XiLQ7hd5vW4E",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 200000
+}

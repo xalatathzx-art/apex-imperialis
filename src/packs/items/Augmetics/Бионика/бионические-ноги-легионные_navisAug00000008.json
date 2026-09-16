@@ -1,0 +1,50 @@
+{
+  "name": "Бионические ноги: легионные",
+  "type": "augmetic",
+  "_id": "navisAug00000008",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00002",
+  "sort": 800,
+  "system": {
+    "notes": {
+      "player": "<p>Ноги, собранные под вес и размеры Астартес. Космодесантник не может пользоваться бионическими ногами другого масштаба — они попросту сломаются под ним на первом же шаге.</p><p><em>Любая бионическая конечность даёт +1 очко брони против попаданий в неё, складываясь с носимой бронёй.</em></p><p>Космодесантнику эти ноги заменяют утраченные без потерь. Обычному человеку они велики: носить их он сможет только после подгонки, а Ловкость его упадёт на <strong>−10</strong>.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 5000,
+    "availability": "R3",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 263"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

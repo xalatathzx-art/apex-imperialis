@@ -1,0 +1,59 @@
+{
+  "name": "Favored by the Warp",
+  "type": "talent",
+  "_id": "malExpTal0000206",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">May re-roll and pick rolls on Psychic Phenomena unless you got Persils of the Warp</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever you are being affected by Psychic Phenomena, as long as you are not subject to Perils of the Warp, you may roll a second time and choose which result you receive.</em></span></p>",
+      "gm": "Talent Category: Psyker"
+    },
+    "requirement": {
+      "value": "Psyker Talent, 2 Advances in Psychic Mastery",
+      "script": "return this.actor.system.skills.psychic.advances >= 2 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Psyker\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "PU64XiLQ7hd5vW4E",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 1100000
+}

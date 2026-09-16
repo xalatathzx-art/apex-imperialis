@@ -1,0 +1,33 @@
+{
+  "name": "Ancestral Regard",
+  "type": "trait",
+  "_id": "navisSpTrait0032",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 3200,
+  "system": {
+    "notes": {
+      "player": "<p>Now and then the thing in your bloodline reaches through.</p> <p>When you spend Fate to escape death, roll any Corruption you would gain twice and take the lower. Something small and impossible happens at the same moment — a wound closes, a blade turns, a voice speaks a name.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

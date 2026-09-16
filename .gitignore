@@ -1,0 +1,28 @@
+# Rulebook PDFs — 184 MB of binaries that never change, and commercial books
+# besides. The tools that read them take a path; they do not need to be here.
+*.pdf
+
+# Compiled compendiums. The content lives in src/packs/ and packs/ is built
+# from it — `node tools/build.mjs`. Committing the built LevelDB would also
+# mean committing its LOCK file, which the running Foundry server holds open,
+# so `git add` fails outright whenever the world is up.
+#
+# The leading slash is load-bearing: without it this pattern matches a `packs`
+# directory at ANY depth, and silently swallows src/packs/ — 530 files of the
+# actual source content — while looking exactly like it works.
+/packs/
+
+# Scratch: PDF text dumps, page renders, one-off compendium copies. Everything
+# in here is regenerable and none of it is input to a build.
+tmp/
+
+# Local tool state, not project content. .claude/ in particular holds this
+# machine's permission settings and can pick up local paths and tokens.
+.claude/
+.playwright-mcp/
+
+# OS and editor litter
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp

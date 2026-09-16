@@ -1,0 +1,50 @@
+{
+  "name": "Благословенная автосимулякра",
+  "type": "augmetic",
+  "_id": "navisAug00000059",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00005",
+  "sort": 5900,
+  "system": {
+    "notes": {
+      "player": "<p><em>Требует установленных Боевых лат Скитарии.</em></p><p>Сеть микро-дронов вживлена в плоть и бионику Скитария, затягивая его раны прямо в бою. Дроны не отличают своего металла от своего мяса и чинят то и другое одинаково охотно.</p><p>Вы восстанавливаете <strong>1 рану</strong> в начале каждого своего хода, и это не конфликтует с вашей бионикой, какова бы она ни была.</p><p>Модуль подавляет лучевую болезнь, если вы уже ею страдали, и останавливает её накопление от рад-печи, пока установлен и работает.</p><hr><p><strong>Уровень 1:</strong> Регенерация работает, только если вы пропускаете ход.</p><p><strong>Уровень 3:</strong> Восстановление идёт увереннее: <strong>Преимущество</strong> на связанные с ним проверки.</p><p><strong>Уровень 4:</strong> Вы восстанавливаете <strong>2 раны</strong> в начале каждого своего хода.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 9000,
+    "availability": "R3",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 270"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

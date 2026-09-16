@@ -1,0 +1,50 @@
+{
+  "name": "Пустотная кожа",
+  "type": "augmetic",
+  "_id": "navisAug00000020",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00003",
+  "sort": 2000,
+  "system": {
+    "notes": {
+      "player": "<p>Серия синтетических мембран вживляется в кожу и внешние слизистые, укрепляя их против вакуума. Несколько лишних секунд при декомпрессии — не то чтобы много, но воид-мастера знают, что решают именно они.</p><p>Весь урон от вакуума и взрывной декомпрессии уменьшается на <strong>3</strong>, до минимума в 1. Вы не слепнете, если ваши глаза открыты вакууму.</p><hr><p><strong>Уровень 1:</strong> Кожа становится грубой и негибкой: <strong>−5 к Ловкости</strong> и возможные штрафы на общение из-за скудной мимики.</p><p><strong>Уровень 3:</strong> Урон уменьшается на <strong>5</strong> вместо 3.</p><p><strong>Уровень 4:</strong> Как уровень 3, и пока ваш рот закрыт — имплант автоматически перекрывает нос при выходе в вакуум — кожа работает как пустотный скафандр, но без запаса кислорода.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 800,
+    "availability": "R0",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 265"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

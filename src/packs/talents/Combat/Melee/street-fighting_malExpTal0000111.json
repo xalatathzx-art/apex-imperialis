@@ -1,0 +1,59 @@
+{
+  "name": "Street Fighting",
+  "type": "talent",
+  "_id": "malExpTal0000111",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">+WsB/2 critical damage when fighting with knifes or bare handed</span></p><hr><p><span style=\"font-family: Arial\"><em>When armed with a knife (powered, chain, throwing, or otherwise) or a similarly small weapon, or just your bare hands, you add half your Weapons Skill bonus to any Critical Damage you inflict.</em></span></p>",
+      "gm": "Talent Category: Melee"
+    },
+    "requirement": {
+      "value": "1 Advance in Melee",
+      "script": "return this.actor.system.skills.melee.advances >= 1"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "QWThJrKmW2XlflEF",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 300000
+}

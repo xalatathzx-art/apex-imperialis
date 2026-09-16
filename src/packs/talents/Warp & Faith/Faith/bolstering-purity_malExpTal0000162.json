@@ -1,0 +1,59 @@
+{
+  "name": "Bolstering Purity",
+  "type": "talent",
+  "_id": "malExpTal0000162",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">1/mission, Reaction, Spend 1FP: let any ally within hearing range including self auto-pass Fear/Intimidation/Pinning for one round</span></p><hr><p><span style=\"font-family: Arial\"><em>Once per mission as a Reaction, you can spend a Fate Point to have one Imperial ally within hearing range – including yourself – to automatically pass all Fear, Pinning, and Intimidation tests until the end of the round. </em></span></p>",
+      "gm": "Talent Category: Faith"
+    },
+    "requirement": {
+      "value": "Do Not Falter! talent",
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Do Not Falter!\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "oBHvd40uCHrPtfbK",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 2300000
+}

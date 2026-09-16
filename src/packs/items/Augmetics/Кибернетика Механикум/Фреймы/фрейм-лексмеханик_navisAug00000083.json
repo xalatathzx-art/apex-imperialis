@@ -1,0 +1,50 @@
+{
+  "name": "Фрейм: лексмеханик",
+  "type": "augmetic",
+  "_id": "navisAug00000083",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00009",
+  "sort": 8300,
+  "system": {
+    "notes": {
+      "player": "<p><em>Требует имплантов Механикум. Такую операцию для непосвящённого делают только за очень большие деньги и с очень большим риском для всех участников.</em></p><p><em>Фрейм.</em> Одновременно можно носить только один; смена фрейма — полноценная операция, и кибер-мантия её не ускоряет. Космодесантникам фреймы недоступны: их тела слишком отличаются от человеческих.</p><p>Фрейм для обработки больших массивов данных и сложных вычислений. Узнаётся по блокам дата-стаков на спине и ровному жужжанию систем охлаждения, которое слышно раньше, чем видно самого жреца.</p><p>Вы получаете <strong>+1 успех</strong> на проверки Знаний и исследований и <strong>+1 Заряд</strong> к запасу.</p><p>Фрейм хрупок и не предназначен для опасности: <strong>−2 раны</strong>, и вы поглощаете урон хуже. Системы охлаждения шумят: все проверки слуха, чтобы вас обнаружить, получают <strong>Преимущество</strong>.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 10000,
+    "availability": "R2",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 273"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

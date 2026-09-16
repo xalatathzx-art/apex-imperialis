@@ -1,0 +1,157 @@
+{
+  "name": "Replicant",
+  "type": "navis-apexialis.species",
+  "_id": "navisSpc00000009",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder001",
+  "sort": 900,
+  "system": {
+    "notes": {
+      "player": "<p>Known by dozens of different names on dozens of different worlds, Replicants are artificially grown humans, genetically modified for heavy and dangerous work and for rapid growth. A Replicant is not born but made, in great amniotic vats, growing from a zygote into a fully adult body in a matter of weeks, after which every piece of knowledge the work requires is implanted by hypno-indoctrination.</p> <p>As huge as Space Marines and comparable even in strength and endurance, Replicants are in most ways their exact opposite: instead of masterpieces of genetic optimisation and balance they are barely stable, needing constant doses of hormonal serum so that the imperfections of their bodies do not kill them — and even then most live no more than a couple of decades, degrading swiftly and dying of cancer at the end because of their unstable genome, if the dangerous work and the gang wars have not killed them first.</p>",
+      "gm": "<p><em>Conversion:</em> Unnatural S (4) and Unnatural T (4) fold into the stat line. The serum dependency is kept whole, because a Replicant without a leash is not the species the book wrote.</p> <p><em>House rule:</em> DoomBC sets no characteristic ceilings. The Intelligence and Fellowship caps of 45 are this module's; everything else is impmal's own 60.</p>"
+    },
+    "category": "construct",
+    "reference": "DoomBC p.15",
+    "restricted": false,
+    "characteristics": {
+      "modifiers": {
+        "ws": 0,
+        "bs": 0,
+        "str": 10,
+        "tgh": 10,
+        "ag": 0,
+        "int": -5,
+        "per": -5,
+        "wil": 0,
+        "fel": 0
+      },
+      "choice": {
+        "number": 1,
+        "value": 5,
+        "keys": [
+          "str",
+          "tgh",
+          "ws"
+        ]
+      },
+      "maximums": {
+        "ws": 60,
+        "bs": 60,
+        "str": 60,
+        "tgh": 60,
+        "ag": 60,
+        "int": 45,
+        "per": 60,
+        "wil": 60,
+        "fel": 45
+      }
+    },
+    "skills": {
+      "athletics": 1,
+      "fortitude": 2
+    },
+    "size": "large",
+    "corruption": 0,
+    "roles": [
+      "Warrior",
+      "Zealot"
+    ],
+    "removes": [],
+    "grantedTraits": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0024",
+          "id": "navisSpTrait0024",
+          "name": "Serum Hook",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0025",
+          "id": "navisSpTrait0025",
+          "name": "Expiration Date",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0026",
+          "id": "navisSpTrait0026",
+          "name": "Hypno-Scars",
+          "diff": {}
+        }
+      ]
+    },
+    "talents": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-talents.Item.malExpTal0000055",
+          "id": "malExpTal0000055",
+          "name": "Die Hard",
+          "diff": {}
+        }
+      ]
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": []
+    }
+  },
+  "effects": [
+    {
+      "_id": "navisSpFx0000009",
+      "name": "Replicant — physiology",
+      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "changes": [
+        {
+          "key": "system.combat.wounds.max",
+          "mode": 2,
+          "value": "4",
+          "priority": 20
+        },
+        {
+          "key": "system.combat.criticals.max",
+          "mode": 2,
+          "value": "1",
+          "priority": 20
+        }
+      ],
+      "disabled": false,
+      "transfer": true,
+      "origin": null,
+      "duration": {},
+      "description": "",
+      "statuses": [],
+      "flags": {
+        "navis-apexialis": {
+          "source": "DoomBC_Core",
+          "generated": "tools/make-species.mjs"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "impmal",
+        "systemVersion": "3.3.0"
+      }
+    }
+  ],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

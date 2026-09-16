@@ -1,0 +1,132 @@
+{{!--
+    Вкладка подробностей техночуда.
+
+    Урон и черты рисуются партиалами самой impmal — itemDamage и itemTraits, —
+    а не рукописными полями: в этом и смысл того, что модель заимствует классы
+    системы. Рукописный ввод дал бы только «базу» урона и потерял бы выбор
+    характеристики и «игнорировать броню».
+
+    Значения берутся из `source.system`, а не `system`: в поле ввода должно
+    попадать то, что записано, а не то, что посчитано.
+--}}
+<section class="tab {{tab.cssClass}} navis-techno-details" data-group="primary" data-tab="{{tab.id}}">
+
+    <div class="form-group">
+        <label>{{localize "NAVIS.Techno.School"}}</label>
+        <input type="text" name="system.school" value="{{source.system.school}}">
+    </div>
+
+    <div class="form-group">
+        <label>{{localize "NAVIS.Techno.Path"}}</label>
+        <input type="text" name="system.path" value="{{source.system.path}}">
+    </div>
+
+    <div class="form-group">
+        <label>{{localize "NAVIS.Techno.Xp"}}</label>
+        <input type="number" name="system.xp" value="{{source.system.xp}}" min="0" step="1">
+    </div>
+
+    <div class="form-group">
+        <label>{{localize "NAVIS.Techno.Requirement"}}</label>
+        <input type="text" name="system.requirement.value" value="{{source.system.requirement.value}}">
+    </div>
+
+    {{!-- Стоимость: целое число или «X», когда жрец решает сам. --}}
+    <div class="form-group">
+        <label>{{localize "NAVIS.Techno.Cost"}}</label>
+        <div class="form-fields">
+            <label>{{localize "NAVIS.Techno.Cognition"}}</label>
+            <input type="text" name="system.cost.cognition" value="{{source.system.cost.cognition}}" placeholder="0">
+            <label>{{localize "NAVIS.Techno.Energy"}}</label>
+            <input type="text" name="system.cost.energy" value="{{source.system.cost.energy}}" placeholder="0">
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label>{{localize "NAVIS.Techno.Action"}}</label>
+        <select name="system.action">
+            {{selectOptions actions selected=source.system.action localize=true}}
+        </select>
+    </div>
+
+    {{!-- Процесс: поддерживается ли чудо и во что обходится каждый ход. --}}
+    <div class="form-group">
+        <label>{{localize "NAVIS.Techno.Process"}}</label>
+        <div class="form-fields">
+            <label>{{localize "NAVIS.Techno.Sustains"}}</label>
+            <input type="checkbox" name="system.process.sustains" {{checked source.system.process.sustains}}>
+            <label>{{localize "NAVIS.Techno.Upkeep"}}</label>
+            <input type="number" name="system.process.cognition" value="{{source.system.process.cognition}}" min="0" max="1" step="1">
+            <label>{{localize "NAVIS.Techno.Unique"}}</label>
+            <input type="checkbox" name="system.process.unique" {{checked source.system.process.unique}}>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label>{{localize "NAVIS.Techno.Test"}}</label>
+        <div class="form-fields">
+            <label>{{localize "NAVIS.Techno.TestAuto"}}</label>
+            <input type="checkbox" name="system.test.auto" {{checked source.system.test.auto}}>
+            <label>{{localize "NAVIS.Techno.TestModifier"}}</label>
+            <input type="number" name="system.test.modifier" value="{{source.system.test.modifier}}" step="1">
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label>{{localize "NAVIS.Techno.Reach"}}</label>
+        <div class="form-fields">
+            <select name="system.reach.kind">
+                {{selectOptions reaches selected=source.system.reach.kind localize=true}}
+            </select>
+            <input type="text" name="system.reach.value" value="{{source.system.reach.value}}">
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label>{{localize "NAVIS.Techno.Types"}}</label>
+        <div class="form-fields">
+            <label>{{localize "NAVIS.Techno.Doctrine"}}</label>
+            <input type="checkbox" name="system.types.doctrine" {{checked source.system.types.doctrine}}>
+            <label>{{localize "NAVIS.Techno.Passive"}}</label>
+            <input type="checkbox" name="system.types.passive" {{checked source.system.types.passive}}>
+            <label>{{localize "NAVIS.Techno.Reactive"}}</label>
+            <input type="checkbox" name="system.types.reactive" {{checked source.system.types.reactive}}>
+            <label>{{localize "NAVIS.Techno.Unseen"}}</label>
+            <input type="checkbox" name="system.types.unseen" {{checked source.system.types.unseen}}>
+            <label>{{localize "NAVIS.Techno.Anima"}}</label>
+            <input type="checkbox" name="system.types.anima" {{checked source.system.types.anima}}>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label>{{localize "NAVIS.Techno.AttackKind"}}</label>
+        <select name="system.attackType">
+            {{selectOptions attacks selected=source.system.attackType localize=true}}
+        </select>
+    </div>
+
+    {{#unless (eq source.system.attackType "none")}}
+        {{#if (eq source.system.attackType "ranged")}}
+            <div class="form-group">
+                <label>{{localize "IMPMAL.Range"}}</label>
+                <div class="form-fields">
+                    <select name="system.range">
+                        {{selectOptions (config "ranges") selected=source.system.range localize=true blank=""}}
+                    </select>
+                </div>
+            </div>
+        {{/if}}
+
+        {{> itemDamage hideSL=true}}
+
+        <div class="form-group">
+            <label>{{localize "NAVIS.Techno.OpposedDodge"}}</label>
+            <div class="form-fields">
+                <input type="checkbox" name="system.opposedDodge" {{checked source.system.opposedDodge}}>
+            </div>
+        </div>
+
+        {{> itemTraits traits=document.system.traits path="system.traits" label="IMPMAL.Traits"}}
+    {{/unless}}
+
+</section>

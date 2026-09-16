@@ -1,0 +1,59 @@
+{
+  "name": "Formidable",
+  "type": "talent",
+  "_id": "malExpTal0000057",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Halve damage from Blast weapon effect (after armor, round up)</span></p><hr><p><span style=\"font-family: Arial\"><em>Though the human body can never truly adapt to the intense pressure, heat, and vibration shocks of explosions, anyone experienced with demolitions or artillery becomes somewhat accustomed to it. When you take damage from a weapon with the Blast quality, you halve the number of Wounds you receive after accounting for armor, rounding up.</em></span></p>",
+      "gm": "Talent Category: Defense"
+    },
+    "requirement": {
+      "value": "Tenacious Talent",
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Tenacious\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "WEnXbKeY9xtR01uo",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 1100000
+}

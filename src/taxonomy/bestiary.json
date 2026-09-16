@@ -1,0 +1,68 @@
+{
+  "pack": "navis-bestiary",
+  "documentType": "Actor",
+  "note": "Folder tree for the Bestiary compendium. The source pack already grouped NPCs by faction; this adds the grand-faction tier above it so the tree reads at a glance. 'keys' are the source folder names in impmal-malexp/malexp_bestiary.",
+  "folders": [
+    {
+      "name": "Xenos",
+      "color": "#2f6b3f",
+      "sort": 100,
+      "children": [
+        { "name": "Aeldari", "color": "#3f8b55", "sort": 100, "keys": ["Aeldari"] },
+        { "name": "Drukhari", "color": "#3f8b55", "sort": 200, "keys": ["Drukhari"] },
+        { "name": "Necrons", "color": "#3f8b55", "sort": 300, "keys": ["Necrons"] },
+        { "name": "T'au Empire", "color": "#3f8b55", "sort": 400, "keys": ["T'au Empire"] }
+      ]
+    },
+    {
+      "name": "Chaos",
+      "color": "#6b1f1f",
+      "sort": 200,
+      "children": [
+        { "name": "Heretics", "color": "#8b3030", "sort": 100, "keys": ["Heretics"] },
+        {
+          "name": "Legiones Daemonica",
+          "color": "#8b3030",
+          "sort": 200,
+          "keys": ["Legiones Daemonica"],
+          "children": [
+            { "name": "Nurglite", "color": "#6b7a2f", "sort": 100, "keys": ["Nurglite"] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genestealer Cults",
+      "color": "#5b2f8b",
+      "sort": 300,
+      "keys": ["Star Children"]
+    },
+    {
+      "name": "Imperium",
+      "color": "#8b6a1f",
+      "sort": 400,
+      "children": [
+        {
+          "name": "Adeptus Mechanicus",
+          "color": "#8b5a2f",
+          "sort": 100,
+          "keys": ["Adeptus Mechanicus"],
+          "names": ["Secutarii Hoplite"],
+          "namesNote": "Secutarii Hoplite sat in no folder upstream. Its siblings Secutarii Axiarch and Secutarii Peltast are already here."
+        }
+      ]
+    },
+    {
+      "name": "Wildlife",
+      "color": "#5a4a2f",
+      "sort": 500,
+      "keys": ["Fauna"]
+    },
+    {
+      "name": "Unsorted",
+      "color": "#4a4a4a",
+      "sort": 900,
+      "fallback": true
+    }
+  ]
+}

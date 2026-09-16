@@ -1,0 +1,108 @@
+{
+  "name": "Splice",
+  "type": "navis-apexialis.species",
+  "_id": "navisSpc00000008",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder001",
+  "sort": 800,
+  "system": {
+    "notes": {
+      "player": "<p>\"Splices\" is a collective name for abhuman strains carrying animal DNA. Some are fruits of Dark Age genetics, heirs of ancient colonists who grafted new genes onto themselves to survive an extreme environment; some are victims of the retrovirus weapons released in the Age of Strife; and some were made in the age of the Imperium by mad Genetors of the Mechanicum, by Flesh Sculptors, or by xenos experimenting on human captives.</p> <p>Splicing a human genome with an animal one is always a risky business, and the Galaxy is full of the legacies of errors in that process, or of altered DNA degrading over the generations after the modification. Many of the mindless and lethal monsters of the death worlds are built on human DNA with elements of an animal genome.</p> <p>This \"species\" is in essence a constructor for assembling those human-animal hybrids, including the sanctioned abhumans such as Felinids, Scalies and Pelagers.</p>",
+      "gm": "<p><em>Conversion:</em> DoomBC builds a Splice from three adaptation lists. Rather than hard-code one animal, this species carries no stat line of its own and hands the player the constructor — write the three choices into the Gene-Splice trait, and take the +5 wherever the animal argues for it.</p>"
+    },
+    "category": "xenos",
+    "reference": "DoomBC p.14",
+    "restricted": false,
+    "characteristics": {
+      "modifiers": {
+        "ws": 0,
+        "bs": 0,
+        "str": 0,
+        "tgh": 0,
+        "ag": 0,
+        "int": 0,
+        "per": 0,
+        "wil": 0,
+        "fel": 0
+      },
+      "choice": {
+        "number": 2,
+        "value": 5,
+        "keys": [
+          "ws",
+          "bs",
+          "str",
+          "tgh",
+          "ag",
+          "per"
+        ]
+      },
+      "maximums": {
+        "ws": 60,
+        "bs": 60,
+        "str": 60,
+        "tgh": 60,
+        "ag": 60,
+        "int": 60,
+        "per": 60,
+        "wil": 60,
+        "fel": 60
+      }
+    },
+    "skills": {
+      "awareness": 1,
+      "athletics": 1
+    },
+    "size": "medium",
+    "corruption": 0,
+    "roles": [
+      "Warrior",
+      "Penumbra",
+      "Savant"
+    ],
+    "removes": [],
+    "grantedTraits": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0022",
+          "id": "navisSpTrait0022",
+          "name": "Gene-Splice",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0023",
+          "id": "navisSpTrait0023",
+          "name": "Bestial Frame",
+          "diff": {}
+        }
+      ]
+    },
+    "talents": {
+      "list": []
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

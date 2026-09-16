@@ -1,0 +1,33 @@
+{
+  "name": "Ogryn-Sized",
+  "type": "trait",
+  "_id": "navisSpTrait0005",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 500,
+  "system": {
+    "notes": {
+      "player": "<p>Everything built for human hands is a toy in yours.</p> <p>You have Disadvantage on Tests with any weapon not built at your scale, and <strong>two</strong> Disadvantage with a ranged one, whose guards and switches defeat your fingers. Using an unmodified melee weapon, roll 1d10 after the attack: on a 1-3 the weapon breaks and is useless until repaired.</p> <p>Grenades are the exception. Grenades work fine.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

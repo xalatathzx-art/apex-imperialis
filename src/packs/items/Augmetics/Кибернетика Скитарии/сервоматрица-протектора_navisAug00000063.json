@@ -1,0 +1,50 @@
+{
+  "name": "Сервоматрица протектора",
+  "type": "augmetic",
+  "_id": "navisAug00000063",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00005",
+  "sort": 6300,
+  "system": {
+    "notes": {
+      "player": "<p><em>Требует установленных Боевых лат Скитарии.</em></p><p>Сеть вторичных систем дублирует почти всю бионику и биологические органы Скитария, а контрольные цепи в мозгу содержат триггер-рутины телохранителя. Он бросается под удар раньше, чем успевает подумать, — потому что думать здесь не предусмотрено.</p><p>Матрица источает сильный запах масла и гнилого мяса. Привыкнуть к нему нельзя.</p><p>Вы получаете <strong>+3 раны</strong> и обязаны броситься на защиту своего командира, как только заметите направленную на него атаку.</p><p>Вы получаете <strong>дополнительную реакцию</strong>, которую можно потратить только на эту защиту.</p><p>Выследить вас по запаху тривиально: преследователь получает <strong>Преимущество</strong>. Возможны и штрафы на общение — на усмотрение ГМа.</p><hr><p><strong>Уровень 1:</strong> Прибавка ран меньше: <strong>+1 рана</strong>.</p><p><strong>Уровень 3:</strong> Прибавка ран растёт до <strong>+4 ран</strong>.</p><p><strong>Уровень 4:</strong> Прибавка ран растёт до <strong>+5 ран</strong>.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 6000,
+    "availability": "R2",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 270"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

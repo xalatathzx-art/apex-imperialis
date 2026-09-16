@@ -1,0 +1,50 @@
+{
+  "name": "Гаста нумерика",
+  "type": "augmetic",
+  "_id": "navisAug00000074",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00008",
+  "sort": 7400,
+  "system": {
+    "notes": {
+      "player": "<p><em>Требует имплантов Механикум. Такую операцию для непосвящённого делают только за очень большие деньги и с очень большим риском для всех участников.</em></p><p>Когнитивный модуль с особо агрессивными рутинами контроля, позволяющими перехватывать управление машинами. Среди техножрецов считается дурным тоном. Среди техножрецов Тёмных Механикум считается необходимостью.</p><p>Когда вы перехватываете управление устройством, его оператор не может просто закрыть вам доступ к банкам данных и сенсорам: он должен выиграть <strong>встречную проверку Тех</strong> против вас.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4000,
+    "availability": "R1",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 272"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

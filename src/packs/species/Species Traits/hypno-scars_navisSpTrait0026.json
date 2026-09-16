@@ -1,0 +1,33 @@
+{
+  "name": "Hypno-Scars",
+  "type": "trait",
+  "_id": "navisSpTrait0026",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 2600,
+  "system": {
+    "notes": {
+      "player": "<p>Skills laid straight into the meat, along with the obedience that came with them.</p> <p>You begin play knowing one Specialisation of the GM's choosing that your background cannot explain. When someone speaks a phrase from your conditioning you must pass a <strong>Challenging (+0) Discipline</strong> Test or obey it for one round.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Ноосферные эмиттеры",
+  "type": "augmetic",
+  "_id": "navisAug00000076",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00008",
+  "sort": 7600,
+  "system": {
+    "notes": {
+      "player": "<p><em>Требует имплантов Механикум. Такую операцию для непосвящённого делают только за очень большие деньги и с очень большим риском для всех участников.</em></p><p>Комплекс вокс-установок и микро-когитаторов в спине, поднимающийся лесом антенн над плечами. Свободным действием антенны втягиваются в тело: пока они убраны, имплант не работает, но и не виден — что порой важнее.</p><p>Эмиттеры работают как вокс-кастер, и вам не нужно держать его в руках.</p><p>Там, где ноосферы нет — в когнитивных пустошах или во владениях чужой сети, — вы поднимаете свою дешевле остальных: на <strong>1 Заряд</strong> меньше.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 3500,
+    "availability": "R1",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 272"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

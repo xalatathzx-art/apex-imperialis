@@ -1,0 +1,50 @@
+{
+  "name": "Внутренняя батарея",
+  "type": "augmetic",
+  "_id": "navisAug00000024",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00003",
+  "sort": 2400,
+  "system": {
+    "notes": {
+      "player": "<p>В грудную клетку встроена сеть имплантов, поглощающих избыточное тепло из пищеварительной системы и электричество из нервов, и слот под батарею для его накопления. Тело как генератор — мысль, которая Механикум кажется очевидной, а всем остальным отвратительной.</p><p>В слот вставляется батарея от лазоружия. За несколько часов она заряжается сама собой.</p><p>Пока батарея заряжается, вы получаете <strong>+1 успех</strong> на проверки против жары и <strong>−1 успех</strong> на проверки против холода.</p><hr><p><strong>Уровень 1:</strong> Зарядка занимает почти сутки.</p><p><strong>Уровень 3:</strong> Зарядка занимает около четырёх часов.</p><p><strong>Уровень 4:</strong> Зарядка занимает час.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 1400,
+    "availability": "R1",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 266"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

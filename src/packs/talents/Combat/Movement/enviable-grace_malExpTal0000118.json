@@ -1,0 +1,59 @@
+{
+  "name": "Enviable Grace",
+  "type": "talent",
+  "_id": "malExpTal0000118",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Ignore difficult terrain and Restrained (Minor), may fit in impassable spaces</span></p><hr><p><span style=\"font-family: Arial\"><em>You are a dexterous contortionist, twirling around restrictions to navigate your environment with enviable grace. Difficult Terrain does not reduce your Speed and you are immune to the Restrained (Minor) Condition. At the GM’s discretion, you may be able to insert yourself into otherwise impassable spaces.</em></span></p>",
+      "gm": "Talent Category: Movement"
+    },
+    "requirement": {
+      "value": "2 Advances in Reflexes(Acrobatics), Contortionist Talent",
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Acrobatics\" && i.system.skill == \"reflexes\")?.system?.advances >= 2) && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Contortionist\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "peKMu9b8pxb7bDBT",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 0
+}

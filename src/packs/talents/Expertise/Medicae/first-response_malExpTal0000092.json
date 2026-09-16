@@ -1,0 +1,59 @@
+{
+  "name": "First Response",
+  "type": "talent",
+  "_id": "malExpTal0000092",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Once/Encounter: make Medicae check to heal as a free action</span></p><hr><p><span style=\"font-family: Arial\"><em>You have an unerring knack for being in the right place at the right time when someone needs patching up. Once per encounter, you can make a Medicae test to heal wounds as a Free Action.</em></span></p>",
+      "gm": "Talent Category: Medicae"
+    },
+    "requirement": {
+      "value": "2 Advances in Medicae",
+      "script": "return this.actor.system.skills.medicae.advances >= 2"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "IgrCXb2wJE7Arklf",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 500000
+}

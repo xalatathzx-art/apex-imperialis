@@ -1,0 +1,50 @@
+{
+  "name": "Шумовой редуктор",
+  "type": "augmetic",
+  "_id": "navisAug00000102",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00010",
+  "sort": 10200,
+  "system": {
+    "notes": {
+      "player": "<p><em>Требует имплантов Механикум. Такую операцию для непосвящённого делают только за очень большие деньги и с очень большим риском для всех участников.</em></p><p>Комплекс ультразвуковых горнов и сенсоров позволяет сканировать местность по отражениям собственного излучения. В полной темноте техножрец идёт уверенно и ровно — и это первое, что выдаёт в нём не человека.</p><p>Свободным действием и <strong>1 Зарядом</strong> вы получаете эхолокацию до начала своего следующего хода: темнота, дым и отсутствие света перестают быть помехой.</p><hr><p><strong>Уровень 1:</strong> Активация стоит 2 Заряда.</p><p><strong>Уровень 3:</strong> <strong>+1 успех</strong> на проверки слуха, даже когда редуктор выключен.</p><p><strong>Уровень 4:</strong> <strong>+2 успеха</strong> на слух, и эхолокация работает постоянно и бесплатно.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 7000,
+    "availability": "R2",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 276"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

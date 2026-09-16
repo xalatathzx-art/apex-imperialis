@@ -1,0 +1,146 @@
+{
+  "name": "Harpy",
+  "type": "navis-apexialis.species",
+  "_id": "navisSpc00000006",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder001",
+  "sort": 600,
+  "system": {
+    "notes": {
+      "player": "<p>A combination of Dark Age of Technology gene-craft and Warp mutation, Harpies are an unusual winged abhuman strain found almost exclusively on daemon worlds. They form small, primitive nomadic tribes and take their clothes, weapons and tools by robbing the other peoples of those worlds, favouring lightning raids that let them make the most of their speed and freedom of movement. Those raids also bring back slaves, who serve them both as labour and for the continuation of their line.</p> <p>Harpies can breed with every known human subspecies. Girls born of such a union are always Harpies; boys are of the same subspecies as the father.</p> <p>Cruel and vain, Harpies look down on \"groundpounders\" and hold themselves to be the higher beings. Now and then one leaves her tribe or is cast out and joins a Chaos warband, and now and then a warband lord conquers a whole tribe and folds it into his army.</p>",
+      "gm": "<p><em>Conversion:</em> Unnatural A (2) folds into Agility. Flight is kept whole, because it is the entire point of the species; the cost is carried by Hollow Bones and the armour limit.</p> <p><em>House rule:</em> DoomBC sets no characteristic ceilings. The Strength cap of 45 is this module's; everything else is impmal's own 60.</p>"
+    },
+    "category": "mutant",
+    "reference": "DoomBC p.13",
+    "restricted": false,
+    "characteristics": {
+      "modifiers": {
+        "ws": 0,
+        "bs": 0,
+        "str": 0,
+        "tgh": -5,
+        "ag": 10,
+        "int": 0,
+        "per": 5,
+        "wil": 0,
+        "fel": -5
+      },
+      "choice": {
+        "number": 1,
+        "value": 5,
+        "keys": [
+          "ag",
+          "per",
+          "ws"
+        ]
+      },
+      "maximums": {
+        "ws": 60,
+        "bs": 60,
+        "str": 45,
+        "tgh": 60,
+        "ag": 60,
+        "int": 60,
+        "per": 60,
+        "wil": 60,
+        "fel": 60
+      }
+    },
+    "skills": {
+      "reflexes": 2,
+      "awareness": 1,
+      "piloting": 1
+    },
+    "size": "medium",
+    "corruption": 1,
+    "roles": [
+      "Penumbra",
+      "Warrior"
+    ],
+    "removes": [],
+    "grantedTraits": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0016",
+          "id": "navisSpTrait0016",
+          "name": "Flyer",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0017",
+          "id": "navisSpTrait0017",
+          "name": "Hollow Bones",
+          "diff": {}
+        }
+      ]
+    },
+    "talents": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-talents.Item.malExpTal0000116",
+          "id": "malExpTal0000116",
+          "name": "Cat Fall",
+          "diff": {}
+        }
+      ]
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": []
+    }
+  },
+  "effects": [
+    {
+      "_id": "navisSpFx0000006",
+      "name": "Harpy — physiology",
+      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "changes": [
+        {
+          "key": "system.combat.wounds.max",
+          "mode": 2,
+          "value": "-2",
+          "priority": 20
+        }
+      ],
+      "disabled": false,
+      "transfer": true,
+      "origin": null,
+      "duration": {},
+      "description": "",
+      "statuses": [],
+      "flags": {
+        "navis-apexialis": {
+          "source": "DoomBC_Core",
+          "generated": "tools/make-species.mjs"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "impmal",
+        "systemVersion": "3.3.0"
+      }
+    }
+  ],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

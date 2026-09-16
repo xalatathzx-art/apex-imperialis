@@ -1,0 +1,19 @@
+# Normalise line endings in sources. Without this, a checkout on Windows
+# (core.autocrlf=true) rewrites every file to CRLF while the generators in
+# tools/ write LF — so a freshly generated pack differs from the committed one
+# on every line, for no reason, and the audits go red on a clean tree.
+*.js    text eol=lf
+*.mjs   text eol=lf
+*.json  text eol=lf
+*.hbs   text eol=lf
+*.css   text eol=lf
+*.md    text eol=lf
+*.svg   text eol=lf
+
+# Binary assets: never touch these.
+*.png   binary
+*.webp  binary
+*.jpg   binary
+*.ttf   binary
+*.otf   binary
+*.woff2 binary

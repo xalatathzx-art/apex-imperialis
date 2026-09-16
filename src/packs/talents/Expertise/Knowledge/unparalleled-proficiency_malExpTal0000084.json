@@ -1,0 +1,59 @@
+{
+  "name": "Unparalleled Proficiency",
+  "type": "talent",
+  "_id": "malExpTal0000084",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">+IntB/2 SL (unaugmented) to any successful Lore/Linguistic test</span></p><hr><p><span style=\"font-family: Arial\"><em>You add half your unaugmented Intelligence Bonus (rounding up) to the Success Levels of any successful Lore or Linguistics Test.</em></span></p>",
+      "gm": "Talent Category: Knowledge"
+    },
+    "requirement": {
+      "value": "1 Advance in 3 separate Lore Specializations",
+      "script": "return this.actor.itemTypes[\"specialisation\"].filter(i => i.system.skill == \"lore\").length >= 3"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "sYF7k1rcP4ZWyjHQ",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": -289843
+}

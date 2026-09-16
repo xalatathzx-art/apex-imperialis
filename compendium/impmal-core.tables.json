@@ -1,0 +1,3591 @@
+{
+  "label": "Таблицы (Основная книга)",
+  "entries": {
+    "HL6DtTGWIUQy5NZ9": {
+      "name": "Фиаско",
+      "results": {
+        "9Z6xzsmxL5dHrpSd": {
+          "description": "<p>Вы весьма неизящно падаете и тратите несколько бесценных секунд на то, чтобы встать. В следующем раунде вы будете находиться в самом низу порядка инициативы.</p>"
+        },
+        "JCpqW0IzcnucUlQh": {
+          "description": "<p>Вы совершаете настолько неуклюжий удар, что теряете равновесие. Вы получаете помеху во всех проверках до конца своего следующего раунда.</p>"
+        },
+        "jcmVr5DuAMypuu8p": {
+          "description": "<p>Плохо выверенный выпад или выстрел вынуждает вас выронить оружие. Вы роняете оружие, которым атаковали. Кто угодно может поднять его за свободное действие.</p>"
+        },
+        "75J8AyotOfYTC9A5": {
+          "description": "<p>Неожиданная отдача или неловкий замах отправляют вас наземь. Вы @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#prone]{Сбиты с ног}.</p>"
+        },
+        "OfbwIOCpxRozG4JO": {
+          "description": "<p>Совершая непродуманный удар или слишком сильно опёршись на ногу для гашения отдачи, вы выворачиваете лодыжку. Ваша скорость падает до медленной до конца боя. Это не считается критической раной.</p>"
+        },
+        "ihNuN7psUbr5GLFc": {
+          "description": "<p>Вы случайно ударяете своим оружием о твёрдую поверхность или вмешиваетесь в работу его машинных духов. Ваше оружие будет считаться @UUID[JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#unstable]{Непредсказуемое}, пока его не починят <strong>сложной (−20) проверкой Техники (Инженерное дело)</strong>.</p>"
+        },
+        "uHMGxAZkESVEOAaR": {
+          "description": "<p>Своей неудачной атакой вы умудрились ненадолго ослепить или оглушить себя — перегрузили плазмомёт, вызвав вспышку, поднесли громкое оружие слишком близко к уху или попали себе же в глаз рикошетом. Вы получаете состояние @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#blinded]{Слепота} или @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#deafened]{Глухота} — смотря что уместнее, решать ведущему.</p>"
+        },
+        "E3DIhi0ET2l5mypR": {
+          "description": "<p>Ваш лишённый изящества удар или выстрел повредил вашу собственную броню. Вы теряете одно очко брони на одной случайной зоне попадания, пока доспех не будет отремонтирован (см. @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}). Если вы не носили брони на этой зоне, вы получаете одну рану.</p>"
+        },
+        "4J7HbIMoEj6XgYQk": {
+          "description": "<p>В хаосе битвы вы сумели нанести касательный удар сами себе. Вы получаете состояние @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Оглушение} или @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#bleeding]{Кровотечение} — смотря что уместнее, решать ведущему.</p>"
+        },
+        "dSF4baXDh5OQIOvD": {
+          "description": "<p>Ваш удар или выстрел приходится не в ту цель. Если это фиаско выпало при успешной атаке, ваше холодное оружие могло поразить противника и ударить соратника, а пуля — пройти через врага и срикошетить в товарища. Ваша атака поражает случайно выбранного соратника в пределах дальности поражения оружия. Эта атака имеет +0 успехов. Бросьте кости, чтобы определить зону попадания. Если в зоне поражения нет других соратников, значит вы сумели попасть в себя.</p>"
+        }
+      }
+    },
+    "o3wbgwFvTGN5aEan": {
+      "name": "Безделушки",
+      "results": {
+        "xj9SsIb86CjIg5R3": {
+          "description": "Маленький медный диск"
+        },
+        "HYB4d4Ot0Gb3Uai0": {
+          "description": "Пустая болтерная гильза"
+        },
+        "lfkitoMnZQ26Qjce": {
+          "description": "Кусочек пламопроводной трубки"
+        },
+        "zZ7xtXUKapLHuHJC": {
+          "description": "Мутная линза"
+        },
+        "tsHHf2scoptqgkZa": {
+          "description": "Флакон светящейся жидкости"
+        },
+        "tSVIBSZkgXGqLKl2": {
+          "description": "Сломанный секстант"
+        },
+        "zBaLkjjTlp5DmWtS": {
+          "description": "Гнутый ключ"
+        },
+        "fvJXDqKzlZj0uypF": {
+          "description": "Гильза от дробовика"
+        },
+        "Rwj2aYmFmRYlEIZL": {
+          "description": "Палочка для добывания огня"
+        },
+        "Ou8kjj2NUsimYrqp": {
+          "description": "Латунная шестерёнка"
+        },
+        "n8CUycn2eIFqYnAf": {
+          "description": "Моток медной проволоки"
+        },
+        "B7FWJxxg901Xmpzz": {
+          "description": "Гнутое кольцо от гранаты"
+        },
+        "zf2PHfuqQdC9P1Qm": {
+          "description": "Разорванная перчатка радзащиты"
+        },
+        "7PfMRiEDWbG1HiIE": {
+          "description": "Взломанный замок"
+        },
+        "bVDqzPUq73IxNq6y": {
+          "description": "Треснувшие кандалы для ног"
+        },
+        "WyNd130gZo7Liey3": {
+          "description": "Стрелка от компаса"
+        },
+        "5V2dOP54ZEJrVA9a": {
+          "description": "Оплавленное увеличительное стекло"
+        },
+        "s4wABQuYJqBZWoov": {
+          "description": "3 кварцевых шарика"
+        },
+        "OkAB4YwZjx4DVRiA": {
+          "description": "Неисправный артериальный зажим"
+        },
+        "TgPqLQadZQly7lXA": {
+          "description": "Колода пласталевых карт"
+        },
+        "7lM6aiKhR3EM6p4z": {
+          "description": "Антенна от ауспика"
+        },
+        "igkpN9AyRZtlyREJ": {
+          "description": "Фамильный гаечный ключ"
+        },
+        "jkFe5iXB0a2QvSI8": {
+          "description": "Древнее увеличительное стекло"
+        },
+        "S8fnXH1kwC3WKRLB": {
+          "description": "Кольцо от фраг-гранаты"
+        },
+        "eADAi839VLUXHjkn": {
+          "description": "Клавишный перфоратор для когитатора"
+        },
+        "T0rdatiOLHYQ6NAw": {
+          "description": "Кусочек обгорелого кабеля"
+        },
+        "uNeDj9PASUkTrg5Y": {
+          "description": "Старые противокислотные перчатки"
+        },
+        "0rOi3sdxzGJ20Hm0": {
+          "description": "Сломанный экстерминатор"
+        },
+        "UIAJ1oXzhp1JMXEH": {
+          "description": "Пригоршня сплавившихся пуль"
+        },
+        "1FzYVaGrs5em0Ois": {
+          "description": "Треснувшее стекло от фонаря"
+        },
+        "0ZVyGbSqGZC9Xtcx": {
+          "description": "Рубильник"
+        },
+        "MzJoYoj9KypLHc6C": {
+          "description": "Кусочек угля"
+        },
+        "RZFo5tl4Voa5nwgj": {
+          "description": "Кронциркуль, сломан"
+        },
+        "Gs5JmLlN3fNnQSw6": {
+          "description": "Экран инфопланшета"
+        },
+        "I8xXe1st2wxRRZNL": {
+          "description": "Нерабочий компас"
+        },
+        "S2Czf2ZzBdDSxpMi": {
+          "description": "Сломанный скальпель"
+        },
+        "I6DlfbuQraaFsgAV": {
+          "description": "Корпус гальванического сердца"
+        },
+        "Xw2u93nsex8D3EhC": {
+          "description": "Сломанный аугметический палец"
+        },
+        "lzXQUdp0HJPsXwlX": {
+          "description": "Фрагмент палубы"
+        },
+        "guxAeQksbuMvAXJN": {
+          "description": "Флакон железных опилок"
+        },
+        "rMrvI85iHbmu115h": {
+          "description": "Упаковка от сухпайка"
+        },
+        "wdtaijR8psT5DrN9": {
+          "description": "Трубка от плазмопровода"
+        },
+        "rDBIrzUzukDy9GRa": {
+          "description": "Камень из стены улья"
+        },
+        "t8vnjhfimcCLLs7e": {
+          "description": "Выдохшийся счётчик радиации"
+        },
+        "sNcFshpSWmcLwd3X": {
+          "description": "Свиток песнопений Машинному богу"
+        },
+        "iemSOmFS3xGdeAcE": {
+          "description": "Сломанные хроно"
+        },
+        "SmXi1Id3KrfozO58": {
+          "description": "Кусочек иллюминатора с корабля"
+        },
+        "lmNCwtOghS95AuSv": {
+          "description": "Треснутый экран ауспика"
+        },
+        "iICufVuGV7YTkzVY": {
+          "description": "Спусковой крючок автогана"
+        },
+        "GGxtTSqowM60lgwY": {
+          "description": "Перчатка от пустотного костюма"
+        }
+      }
+    },
+    "OX2H23XT4p7p6qn2": {
+      "name": "Пророчества",
+      "results": {
+        "VCHA2bX0JPP8OmM4": {
+          "description": "<p>Лучше умереть за Императора, чем жить для себя.</p>"
+        },
+        "UlPA2sjEk6Ld1Akb": {
+          "description": "<p>Доверяй своему рвению – нет оружия лучше его.</p>"
+        },
+        "yNkcZmjWL8a0xBvf": {
+          "description": "<p>Неглубокий разум – это чистый разум.</p>"
+        },
+        "Bz7LfDWIn7crPiLU": {
+          "description": "<p>Приветствовать ксеноса – значит приветствовать своё проклятие.</p>"
+        },
+        "BtboT862xsWvAlWx": {
+          "description": "<p>Долг превыше всего.</p>"
+        },
+        "LyqHJOTzBM0lW2G7": {
+          "description": "<p>Мудрый учится на смертях других.</p>"
+        },
+        "62TrC7Afzyk33KDt": {
+          "description": "<p>Убей ксеноса прежде, чем он изречёт свою ложь.</p>"
+        },
+        "o9ZYYoqNXyYIp7tY": {
+          "description": "<p>Логика – враг веры.</p>"
+        },
+        "jSDmXoIR6EZqAspF": {
+          "description": "<p>Размышления порождают ересь.</p>"
+        },
+        "wjt4zyrtpUG8o0OE": {
+          "description": "<p>Ересь порождает возмездие.</p>"
+        },
+        "esGR2IJBkyr8xGOP": {
+          "description": "<p>Разум без цели обречён скитаться во тьме.</p>"
+        },
+        "KiaMVY6JKEAoEHFC": {
+          "description": "<p>О нас будут судить по нашим смертям.</p>"
+        },
+        "dCKoSMO2ZZdOQZ8X": {
+          "description": "<p>Успех измеряется кровью – твоей или твоих врагов.</p>"
+        },
+        "uEuqNhFnBfBFe3fQ": {
+          "description": "<p>Император благословил нас даром нетерпимости.</p>"
+        },
+        "6gQC3ZkgGiLTZTaN": {
+          "description": "<p>Истинная вера слепа и оправдана.</p>"
+        },
+        "IB3OLFfv07CNHMQY": {
+          "description": "<p>Нет замены рвению.</p>"
+        },
+        "VZGfAc2kq7PYvFXa": {
+          "description": "<p>Даже тот, у кого нет ничего, может отдать свою жизнь.</p>"
+        },
+        "7Ho3BR8lOBXidZeY": {
+          "description": "<p>Кровь мучеников питает Империум.</p>"
+        },
+        "2jxQZI4ryLYIlOTw": {
+          "description": "<p>Не считай счастливым никого из живых.</p>"
+        },
+        "M5gp3JT2HFxJPzbN": {
+          "description": "<p>Открытый разум подобен крепости, чьи врата распахнуты и лишены стражи.</p>"
+        },
+        "yGAz1HK7PWmoFPSm": {
+          "description": "<p>Кровью мучеников закаляется клинок Империума.</p>"
+        },
+        "e3dPOv10fm33pg04": {
+          "description": "<p>Один миг ереси портит жизнь служения.</p>"
+        },
+        "OUFVwLPNvEd3DG9S": {
+          "description": "<p>Беспощадность – это доброта мудрого.</p>"
+        },
+        "hYVhvrxos8GHTxwS": {
+          "description": "<p>Идти на уступки – удел трусов.</p>"
+        },
+        "Jik3eNiDu3HGqIBQ": {
+          "description": "<p>Лишь со смертью кончается долг.</p>"
+        },
+        "AITr2OPjIr1l3OvM": {
+          "description": "<p>Смерть – это слуга праведников.</p>"
+        },
+        "GqUCBSOC4TgOj5Is": {
+          "description": "<p>Победа будет жить вечно; поражение едва вспомнят.</p>"
+        },
+        "j2hLgNVOTgaiXRcc": {
+          "description": "<p>Проявить милосердие – значит выказать слабость.</p>"
+        },
+        "0zKGxSPa46dBBnrL": {
+          "description": "<p>Невиновность ничего не доказывает.</p>"
+        },
+        "gwyTJnwkX2AcEYNv": {
+          "description": "<p>Благословен разум, слишком слабый, чтобы сомневаться.</p>"
+        },
+        "dmbCUKywT2egnt46": {
+          "description": "<p>Сожги Нечестивца в очищающем пламени.</p>"
+        },
+        "QHb5Zto4KJ1x1foB": {
+          "description": "<p>Разумом прикрываются предатели.</p>"
+        },
+        "mK2DbqjYVU22x7EN": {
+          "description": "<p>Отвернись от Императора на свой страх и риск.</p>"
+        },
+        "F9eUbdPYW1Km5ovb": {
+          "description": "<p>Слабость – единственное, чего стоит бояться.</p>"
+        },
+        "AlpaoPpEqxYPWk0l": {
+          "description": "<p>Усомниться – значит выказать слабость.</p>"
+        },
+        "YS32trgK3x1TKAA0": {
+          "description": "<p>Презрение – лучшая броня.</p>"
+        },
+        "Os6NSV1XicBGYIVe": {
+          "description": "<p>Справедливость твоих деяний измеряется силой твоих убеждений.</p>"
+        },
+        "fHoxplLaMkh5rq2V": {
+          "description": "<p>Ненависть – величайший дар Императора человечеству.</p>"
+        },
+        "IxB2MdpixpkmBxnH": {
+          "description": "<p>Сомнениями вымощен путь к проклятию.</p>"
+        },
+        "CZzkAgh1CWnvqiuS": {
+          "description": "<p>Насилие решает всё.</p>"
+        },
+        "Cjw551xmIYocGmGl": {
+          "description": "<p>Страдание – это неумолимый наставник.</p>"
+        },
+        "wXsNJXE7OlXeZW6r": {
+          "description": "<p>Император будет судить тебя не по твоим медалям, а по твоим шрамам.</p>"
+        },
+        "aML2tTE8tjUpRdGa": {
+          "description": "<p>Надежда – первый шаг на пути к разочарованию.</p>"
+        },
+        "U5NG0Vw9SdlVjNbQ": {
+          "description": "<p>Простить – значит выказать слабость.</p>"
+        },
+        "xWX6NPRKDT5OOM1N": {
+          "description": "<p>Не спрашивай, почему ты должен служить. Спрашивай как.</p>"
+        },
+        "aMiAWG7TDWCXcpTF": {
+          "description": "<p>Все твои усилия обернутся прахом, если они не служат Императору.</p>"
+        },
+        "6s4w4ZMsdFSqS2EK": {
+          "description": "<p>На войне нет свидетелей – лишь солдаты и предатели.</p>"
+        },
+        "jpTnKdbDdnc6u6Bz": {
+          "description": "<p>Неси волю Императора как факел и разгоняй им тени.</p>"
+        },
+        "MiGFXgxZNe1oKE9X": {
+          "description": "<p>Ересь вырастает из безделья.</p>"
+        },
+        "E2n8JdTBs8gAoFwY": {
+          "description": "<p>Сожги еретика! Убей мутанта! Очисти нечестивца!</p>"
+        }
+      }
+    },
+    "r1enfoBH64ajVnBa": {
+      "name": "Связи",
+      "results": {
+        "R5fouXTiVyft5bse": {
+          "description": "_____ должен мне немало соляров."
+        },
+        "1c7oRcOiZrzC2nPB": {
+          "description": "Я должен _____ немало соляров."
+        },
+        "J26fR8XSSAanb0s2": {
+          "description": "Я слышал, как _____ говорил нечто богохульное – едва ли не еретическое."
+        },
+        "hitk71g0FEokVTjq": {
+          "description": "_____ знает мою самую тёмную тайну."
+        },
+        "jq9WtVbfsep1ouDS": {
+          "description": "_____ знает, что я спрятал дорогого мне человека от Чёрных кораблей."
+        },
+        "5TubkfKbSD0VFGw3": {
+          "description": "_____ и я давным-давно сражались на разных сторонах."
+        },
+        "k9Fn4kk98L69Bzxk": {
+          "description": "Я начертал имя _____ на моём любимом оружии."
+        },
+        "kGOO1nC6wtMZtAGQ": {
+          "description": "_____ и я выросли вместе."
+        },
+        "Z3SBW2aX8tws3YHU": {
+          "description": "_____ попросил меня предать кого-то близкого нам."
+        },
+        "U3660G7fkCHiYpu7": {
+          "description": "Мы с _____ пережили нечто, о чём не говорим."
+        },
+        "b8cCVkpgvZSv43RZ": {
+          "description": "Я уверен, что видел, как _____ погиб."
+        },
+        "YngFwWrjHdAcKX4g": {
+          "description": "У меня были видения о _____."
+        },
+        "xxL5tYriRW0XryFo": {
+          "description": "Я спас _____ жизнь."
+        },
+        "GtjYtoWiGKRtyFLf": {
+          "description": "_____ спас мою жизнь."
+        },
+        "V3u0MYyqiRFl56hr": {
+          "description": "Однажды я видел, как _____ читает странную книгу. Это выглядело жутковато."
+        },
+        "Ey27JWUmQ9ekh9Rt": {
+          "description": "Я слышал, как _____ говорил с кем-то один на один и говорил пугающие вещи."
+        },
+        "9GGfp2oyd46MpL2z": {
+          "description": "У меня есть кое-что, принадлежащее _____, а у него – кое-что моё."
+        },
+        "IfeSdW9L5j25319n": {
+          "description": "_____ поделился ужасной тайной."
+        },
+        "b83Vr09oU6AqUR02": {
+          "description": "У меня есть одна серебряная пуля. На ней выгравировано несколько слов на высоком готическом и имя _____."
+        },
+        "wFsRYd5AtZ3bGZsc": {
+          "description": "Я слышал, как _____ подвергал сомнению свои убеждения."
+        },
+        "CO4DhT9YESHWDwTZ": {
+          "description": "_____ владеет чем-то, что я хочу заполучить."
+        },
+        "02q2NJQWXZGSMmrn": {
+          "description": "Я знаю, кто _____ на самом деле."
+        },
+        "CsGDpPJuAr3WfyiQ": {
+          "description": "Я уже работал с _____ раньше."
+        },
+        "f2o5kycWfgqvChs0": {
+          "description": "_____ и я постоянно соперничаем."
+        },
+        "MYW0MIcYXhYdETbi": {
+          "description": "Я подозреваю, что _____ – предатель."
+        }
+      }
+    },
+    "yNzbUdTn7e4psIZW": {
+      "name": "Особые приметы",
+      "results": {
+        "mxTcpojF7Hzntq6E": {
+          "description": "У вас на лбу набита татуировка в виде аквилы."
+        },
+        "67Zc7iwFDmhWyoNN": {
+          "description": "От вас попахивает трупной мукой."
+        },
+        "y6aXf5N92zQ1QncR": {
+          "description": "В вашей груди засел неразорвавшийся болтерный снаряд. Вы знаете, что когда-нибудь он разорвётся."
+        },
+        "yARqjaZVtYOiFmM7": {
+          "description": "У вас есть выцветшая электуировка, о которой вы хотели бы забыть."
+        },
+        "maKUqv7OOBm9A6gf": {
+          "description": "Вашу кожу марают оспины или старые следы другой кожной болезни."
+        },
+        "ZrxVhLmck90XBbwl": {
+          "description": "Ваши уши были заменены на большие, но рабочие аугметические протезы."
+        },
+        "Aic0xqbSPsYN5e3K": {
+          "description": "Ваши зубы сделаны из металла."
+        },
+        "D1pDsmXqoGDYCJpW": {
+          "description": "У вас татуированы роговицы глаз."
+        },
+        "Kn7hziKGnaIW647x": {
+          "description": "У вас страшные шрамы – возможно, это следы боя или несчастного случая."
+        },
+        "iRhGoOFo5jtuOjMq": {
+          "description": "Ваши зубы бритвенной остроты."
+        },
+        "7eUsR1iDLwjg0Koy": {
+          "description": "Часть костей вашего черепа заменена на металлические пластины."
+        },
+        "n37YxkYebbFDueKr": {
+          "description": "У вас есть необъяснимый шрам в виде аквилы."
+        },
+        "nMMf7KIlfdvZ0KS1": {
+          "description": "Ваши веки покрыты тату-надписями на высоком готическом с обеих сторон."
+        },
+        "bNf8wPD6z2CopRJ4": {
+          "description": "У вас есть родимое пятно в виде черепа. Определите, где оно."
+        },
+        "50auqVJtor23SGUI": {
+          "description": "Культ или секта оставила на вашем теле клеймо."
+        },
+        "nCxgJWQV07GuHRvy": {
+          "description": "У вас совершенно белые зрачки."
+        },
+        "tAHsNEnlm3t3fJ94": {
+          "description": "У вас ужасно бледная кожа."
+        },
+        "qtIHJwgKxBbNQlGy": {
+          "description": "У вас огромные мышцы, выросшие благодаря жизни, полной труда, или путём искусственной пересадки."
+        },
+        "cBJtfzuhhkt0COfK": {
+          "description": "В вашей голове есть множество разъёмов для подключения."
+        },
+        "gkljDdtVtvNipu5I": {
+          "description": "Вы покрываете себя кусочками пергамента с письменами и печатями чистоты, без которых вам неуютно."
+        },
+        "bANpdA45AzPCSfK1": {
+          "description": "Вы совершенно непримечательны – ещё одна легко заменимая шестерёнка в бесконечной машине Империума."
+        },
+        "hfqzI6kSU6zCBT3a": {
+          "description": "Вы очень приметны. Сделайте два броска по этой таблице, перебрасывая результаты 79+."
+        }
+      }
+    },
+    "coJHDTpSkUfDMXAJ": {
+      "name": "Имена — низкое готическое",
+      "results": {
+        "2WsPUtPLisj65QMD": {
+          "description": "Арз"
+        },
+        "152hKeilhU7lj0QB": {
+          "description": "Бэрик"
+        },
+        "EZs5crsZ7nVmmOoe": {
+          "description": "Канто"
+        },
+        "LL15dZiiWadGzbcZ": {
+          "description": "Цил"
+        },
+        "2RPKOBMgFt9BvF15": {
+          "description": "Дэрриал"
+        },
+        "C7cS3LAYYo4c0aKu": {
+          "description": "Енох"
+        },
+        "AmxdWQDzLbZ4xANo": {
+          "description": "Хорст"
+        },
+        "k0TIegUN2kkhxi1x": {
+          "description": "Гай"
+        },
+        "ZgPJWswRZAKvJK8L": {
+          "description": "Галация"
+        },
+        "C0yBeclU73BoCV7p": {
+          "description": "Келли"
+        },
+        "IQ3RJDi7diAAKN1t": {
+          "description": "Кулем"
+        },
+        "zxUYeNuD8Y4AZNDr": {
+          "description": "Магдала"
+        },
+        "vLGzKFbosPfqxF8f": {
+          "description": "Мерра"
+        },
+        "DMlBqFc0LJuL2HSN": {
+          "description": "Мордикай"
+        },
+        "1pkpE6E78MB84Yl7": {
+          "description": "Нарсия"
+        },
+        "WgdWt8XhDLSyVphH": {
+          "description": "Норос"
+        },
+        "qvQPU0CJwk5UNar0": {
+          "description": "Пеннетт"
+        },
+        "v6qKo5QRUPZ6pgWR": {
+          "description": "Квинтен"
+        },
+        "grLjHWczSHrqBfCF": {
+          "description": "Квиннел"
+        },
+        "7kmmIFiEcKSDSV3Z": {
+          "description": "Риа"
+        },
+        "cJfTfQSeQPIdkBRE": {
+          "description": "Сильванто"
+        },
+        "wYHqO0Fs2rrLz5r6": {
+          "description": "Сессилия"
+        },
+        "UoBNVfEd56NJyOKB": {
+          "description": "Ури"
+        },
+        "DAHz9RnNYAAa6Xhi": {
+          "description": "Ксандра"
+        },
+        "NOL8XW7MuhQd7a4o": {
+          "description": "Зариэль"
+        }
+      }
+    },
+    "l3wReEEnU5MMjiMR": {
+      "name": "Имена — высокое готическое",
+      "results": {
+        "2WsPUtPLisj65QMD": {
+          "description": "Азарах"
+        },
+        "152hKeilhU7lj0QB": {
+          "description": "Баранот"
+        },
+        "EZs5crsZ7nVmmOoe": {
+          "description": "Кастелла"
+        },
+        "LL15dZiiWadGzbcZ": {
+          "description": "Дарв"
+        },
+        "2RPKOBMgFt9BvF15": {
+          "description": "Фауста"
+        },
+        "C7cS3LAYYo4c0aKu": {
+          "description": "Флавия"
+        },
+        "AmxdWQDzLbZ4xANo": {
+          "description": "Галлиах"
+        },
+        "k0TIegUN2kkhxi1x": {
+          "description": "Харфос"
+        },
+        "ZgPJWswRZAKvJK8L": {
+          "description": "Ихар"
+        },
+        "C0yBeclU73BoCV7p": {
+          "description": "Ирисса"
+        },
+        "IQ3RJDi7diAAKN1t": {
+          "description": "Карпат"
+        },
+        "zxUYeNuD8Y4AZNDr": {
+          "description": "Лотос"
+        },
+        "vLGzKFbosPfqxF8f": {
+          "description": "Люсинда"
+        },
+        "DMlBqFc0LJuL2HSN": {
+          "description": "Микандра"
+        },
+        "1pkpE6E78MB84Yl7": {
+          "description": "Ноктин"
+        },
+        "WgdWt8XhDLSyVphH": {
+          "description": "Новианна"
+        },
+        "qvQPU0CJwk5UNar0": {
+          "description": "Октавия"
+        },
+        "v6qKo5QRUPZ6pgWR": {
+          "description": "Партеос"
+        },
+        "grLjHWczSHrqBfCF": {
+          "description": "Региа"
+        },
+        "7kmmIFiEcKSDSV3Z": {
+          "description": "Скифия"
+        },
+        "cJfTfQSeQPIdkBRE": {
+          "description": "Северан"
+        },
+        "wYHqO0Fs2rrLz5r6": {
+          "description": "Тайрисс"
+        },
+        "UoBNVfEd56NJyOKB": {
+          "description": "Венрия"
+        },
+        "DAHz9RnNYAAa6Xhi": {
+          "description": "Вентий"
+        },
+        "NOL8XW7MuhQd7a4o": {
+          "description": "Йеммис"
+        }
+      }
+    },
+    "ZqI4aqwNimSIvn0u": {
+      "name": "Имена — архаичные",
+      "results": {
+        "2WsPUtPLisj65QMD": {
+          "description": "Энисса"
+        },
+        "152hKeilhU7lj0QB": {
+          "description": "Барбоса"
+        },
+        "EZs5crsZ7nVmmOoe": {
+          "description": "Карадок"
+        },
+        "LL15dZiiWadGzbcZ": {
+          "description": "Драко"
+        },
+        "2RPKOBMgFt9BvF15": {
+          "description": "Друзилла"
+        },
+        "C7cS3LAYYo4c0aKu": {
+          "description": "Эйзен"
+        },
+        "AmxdWQDzLbZ4xANo": {
+          "description": "Женевьева"
+        },
+        "k0TIegUN2kkhxi1x": {
+          "description": "Ханетт"
+        },
+        "ZgPJWswRZAKvJK8L": {
+          "description": "Ингрита"
+        },
+        "C0yBeclU73BoCV7p": {
+          "description": "Жак"
+        },
+        "IQ3RJDi7diAAKN1t": {
+          "description": "Иокаста"
+        },
+        "zxUYeNuD8Y4AZNDr": {
+          "description": "Кароллон"
+        },
+        "vLGzKFbosPfqxF8f": {
+          "description": "Киллиан"
+        },
+        "DMlBqFc0LJuL2HSN": {
+          "description": "Лемант"
+        },
+        "1pkpE6E78MB84Yl7": {
+          "description": "Лит"
+        },
+        "WgdWt8XhDLSyVphH": {
+          "description": "Навин"
+        },
+        "qvQPU0CJwk5UNar0": {
+          "description": "Поллония"
+        },
+        "v6qKo5QRUPZ6pgWR": {
+          "description": "Сабант"
+        },
+        "grLjHWczSHrqBfCF": {
+          "description": "Тессера"
+        },
+        "7kmmIFiEcKSDSV3Z": {
+          "description": "Тразелла"
+        },
+        "cJfTfQSeQPIdkBRE": {
+          "description": "Верити"
+        },
+        "wYHqO0Fs2rrLz5r6": {
+          "description": "Уинниф"
+        },
+        "UoBNVfEd56NJyOKB": {
+          "description": "Яста"
+        },
+        "DAHz9RnNYAAa6Xhi": {
+          "description": "Задора"
+        },
+        "NOL8XW7MuhQd7a4o": {
+          "description": "Зарков"
+        }
+      }
+    },
+    "4fSZRyUTFHNuCHiB": {
+      "name": "Имена — неформальные",
+      "results": {
+        "2WsPUtPLisj65QMD": {
+          "description": "Бывалый"
+        },
+        "152hKeilhU7lj0QB": {
+          "description": "Топор"
+        },
+        "EZs5crsZ7nVmmOoe": {
+          "description": "Клюв"
+        },
+        "LL15dZiiWadGzbcZ": {
+          "description": "Костлявый"
+        },
+        "2RPKOBMgFt9BvF15": {
+          "description": "Болт"
+        },
+        "C7cS3LAYYo4c0aKu": {
+          "description": "Огнемёт"
+        },
+        "AmxdWQDzLbZ4xANo": {
+          "description": "Крушитель"
+        },
+        "k0TIegUN2kkhxi1x": {
+          "description": "Резак"
+        },
+        "ZgPJWswRZAKvJK8L": {
+          "description": "Докк"
+        },
+        "C0yBeclU73BoCV7p": {
+          "description": "Эхо"
+        },
+        "IQ3RJDi7diAAKN1t": {
+          "description": "Скат"
+        },
+        "zxUYeNuD8Y4AZNDr": {
+          "description": "Бугай"
+        },
+        "vLGzKFbosPfqxF8f": {
+          "description": "Рохля"
+        },
+        "DMlBqFc0LJuL2HSN": {
+          "description": "Лхо"
+        },
+        "1pkpE6E78MB84Yl7": {
+          "description": "Маг"
+        },
+        "WgdWt8XhDLSyVphH": {
+          "description": "Мозг"
+        },
+        "qvQPU0CJwk5UNar0": {
+          "description": "Тритон"
+        },
+        "v6qKo5QRUPZ6pgWR": {
+          "description": "Клешня"
+        },
+        "grLjHWczSHrqBfCF": {
+          "description": "Рыжий"
+        },
+        "7kmmIFiEcKSDSV3Z": {
+          "description": "Короста"
+        },
+        "cJfTfQSeQPIdkBRE": {
+          "description": "Заточка"
+        },
+        "wYHqO0Fs2rrLz5r6": {
+          "description": "Старр"
+        },
+        "UoBNVfEd56NJyOKB": {
+          "description": "Сталь"
+        },
+        "DAHz9RnNYAAa6Xhi": {
+          "description": "Транк"
+        },
+        "NOL8XW7MuhQd7a4o": {
+          "description": "Змий"
+        }
+      }
+    },
+    "LQQSVSJW5j8d87MJ": {
+      "name": "Имена — тайные",
+      "results": {
+        "2WsPUtPLisj65QMD": {
+          "description": "Альфа"
+        },
+        "152hKeilhU7lj0QB": {
+          "description": "Бот"
+        },
+        "EZs5crsZ7nVmmOoe": {
+          "description": "Призывник"
+        },
+        "LL15dZiiWadGzbcZ": {
+          "description": "Знак"
+        },
+        "2RPKOBMgFt9BvF15": {
+          "description": "Бриллиант"
+        },
+        "C7cS3LAYYo4c0aKu": {
+          "description": "Экзактий"
+        },
+        "AmxdWQDzLbZ4xANo": {
+          "description": "Рок"
+        },
+        "k0TIegUN2kkhxi1x": {
+          "description": "Гамма"
+        },
+        "ZgPJWswRZAKvJK8L": {
+          "description": "Благодать"
+        },
+        "C0yBeclU73BoCV7p": {
+          "description": "Борона"
+        },
+        "IQ3RJDi7diAAKN1t": {
+          "description": "Инкуб"
+        },
+        "zxUYeNuD8Y4AZNDr": {
+          "description": "Самоцвет"
+        },
+        "vLGzKFbosPfqxF8f": {
+          "description": "Рубильник"
+        },
+        "DMlBqFc0LJuL2HSN": {
+          "description": "Люмен"
+        },
+        "1pkpE6E78MB84Yl7": {
+          "description": "Мортис"
+        },
+        "WgdWt8XhDLSyVphH": {
+          "description": "Норна"
+        },
+        "qvQPU0CJwk5UNar0": {
+          "description": "Оптима"
+        },
+        "v6qKo5QRUPZ6pgWR": {
+          "description": "Прометий"
+        },
+        "grLjHWczSHrqBfCF": {
+          "description": "Отказ"
+        },
+        "7kmmIFiEcKSDSV3Z": {
+          "description": "Ловчий"
+        },
+        "cJfTfQSeQPIdkBRE": {
+          "description": "Безымянный"
+        },
+        "wYHqO0Fs2rrLz5r6": {
+          "description": "Гриф"
+        },
+        "UoBNVfEd56NJyOKB": {
+          "description": "Белый шум"
+        },
+        "DAHz9RnNYAAa6Xhi": {
+          "description": "Икс"
+        },
+        "NOL8XW7MuhQd7a4o": {
+          "description": "Зильх"
+        }
+      }
+    },
+    "X0ki23WlGEfkxMYI": {
+      "name": "Тип глаз",
+      "results": {
+        "yPXWunxs6N6Yb7G3": {
+          "description": "Скорбные"
+        },
+        "yTFep7IyF0FFkfRD": {
+          "description": "Жёсткие"
+        },
+        "v2ZD8ydQbOsi6nzA": {
+          "description": "Старые"
+        },
+        "QsXoS4nV1aSWZork": {
+          "description": "Сосредоточенный взгляд"
+        },
+        "pSF3k0Tx67Rh0Unt": {
+          "description": "Безумные"
+        },
+        "fK1122jfFUoONUkp": {
+          "description": "Яркие"
+        },
+        "X11dJG8eaXI8BJGd": {
+          "description": "Злобные"
+        },
+        "S1N9GwPwreeJHHK9": {
+          "description": "Полные надежд"
+        },
+        "OohV0TaSzpanhF7y": {
+          "description": "Подозрительные"
+        },
+        "ikPjsHEGyAcPbtq1": {
+          "description": "Свирепые"
+        },
+        "ZQdpODBix8mtgGmm": {
+          "description": "Тёплые"
+        },
+        "f4ANswSHAog1znoE": {
+          "description": "Мёртвые"
+        },
+        "ZxrovnTM7M90sOTt": {
+          "description": "Горящие"
+        },
+        "luI6xNAw81ykBLRp": {
+          "description": "Осуждающие"
+        },
+        "hOU1juGeBWmfpnhO": {
+          "description": "Гипнотизирующие"
+        },
+        "MEaVhUNr0DE3hdDe": {
+          "description": "Несчастные"
+        },
+        "0E7I0N4FHZ7YFKuK": {
+          "description": "Любопытные"
+        },
+        "xssZoFEueycRi2q0": {
+          "description": "Холодные"
+        },
+        "oKJHXt6l63jCkKEn": {
+          "description": "Загнанный взор"
+        },
+        "orupOuJsCIGj9DDI": {
+          "description": "Расчётливые"
+        }
+      }
+    },
+    "kwryVvk6y1FeCCmG": {
+      "name": "Цвет волос",
+      "results": {
+        "yxr52Hvq3zHCvqN2": {
+          "description": "Серые или седые"
+        },
+        "6jS2Kx8aQF3s6CVk": {
+          "description": "Чёрные"
+        },
+        "cOxtPhzQBWhm2Uf5": {
+          "description": "Каштановые"
+        },
+        "nQg4WQMcx1Unir86": {
+          "description": "Рыжие"
+        },
+        "oY6kTi5oXmcjHInq": {
+          "description": "Белые"
+        },
+        "K2CIc53vL9sGQQ8m": {
+          "description": "Зелёные"
+        },
+        "ZisMpHIwdiz6SRHm": {
+          "description": "Синие"
+        },
+        "865ZbyG3rkILV0Hl": {
+          "description": "Фиолетовые"
+        },
+        "cVu4PF6rzdt3OeJP": {
+          "description": "Отсутствуют"
+        },
+        "inXVy0pWAKRXMb2F": {
+          "description": "Многоцветные (два броска, игнорируя 81–00)"
+        }
+      }
+    },
+    "BOxQIj5TwduOo1Bk": {
+      "name": "Причёска",
+      "results": {
+        "yxr52Hvq3zHCvqN2": {
+          "description": "Непричёсанные"
+        },
+        "6jS2Kx8aQF3s6CVk": {
+          "description": "Косы"
+        },
+        "cOxtPhzQBWhm2Uf5": {
+          "description": "Ирокез"
+        },
+        "nQg4WQMcx1Unir86": {
+          "description": "Пересаженные от лошади или др. животного"
+        },
+        "oY6kTi5oXmcjHInq": {
+          "description": "Длинные волосы"
+        },
+        "K2CIc53vL9sGQQ8m": {
+          "description": "Коротко обрезанные"
+        },
+        "ZisMpHIwdiz6SRHm": {
+          "description": "Кудри"
+        },
+        "865ZbyG3rkILV0Hl": {
+          "description": "Пышная сложная причёска"
+        },
+        "cVu4PF6rzdt3OeJP": {
+          "description": "Металлические провода и шипы"
+        },
+        "inXVy0pWAKRXMb2F": {
+          "description": "Заклёпки, проволока и металлические пластины"
+        }
+      }
+    },
+    "gPwiEavBh82AoryT": {
+      "name": "Характер покровителя",
+      "results": {
+        "6BJW2wEyDo7Ldkf4": {
+          "description": "<p><strong>Гневливый:</strong> ваш господин решителен, честолюбив и не привык медлить. Он требует результатов и не слушает оправданий. Этот человек мстителен и скор на расправу.</p>"
+        },
+        "pd0AU5kphwlYuMcI": {
+          "description": "<p><strong>Мрачный:</strong> ваш господин задумчив и рассудителен. Он действует не спеша и обдумывает последствия каждого решения. От своих слуг он ждёт не меньшего совершенства, чем от себя.</p>"
+        },
+        "YpAyqwVY9HS8V05A": {
+          "description": "<p><strong>Прагматичный:</strong> ваш господин спокоен и безмятежен. Он больше других правителей Империума способен рассматривать другие точки зрения и понимает, когда можно пойти на взаимные уступки.</p>"
+        },
+        "5tQMmwX7bxg0ZiJO": {
+          "description": "<p><strong>Деятельный:</strong> ваш господин словоохотлив, деятелен и полон энтузиазма. Он окружает себя слугами и соратниками. Такой человек презирает безделье, но порой бывает опрометчив.</p>"
+        },
+        "WjiOcXN1StxZoxvo": {
+          "description": "<p><strong>Непостижимый:</strong> ваш господин скрывает свою личность за пеленой стоического профессионализма или показного добродушия.</p>"
+        }
+      }
+    },
+    "POo8AHcUV64bD84j": {
+      "name": "Стремление — Адептус Администратум",
+      "results": {
+        "04O54UsPdrkUfSye": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#conflict]{Конфликт}"
+        },
+        "jNK39RMYHY5WDt7O": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#information]{Знания}"
+        },
+        "wZ64xSziJeYrCXzX": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#material]{Богатство}"
+        },
+        "vkkdql6Uzogr1wmC": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#reputation]{Слава}"
+        },
+        "EE7NYnn2n6Fun5ac": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#unity]{Единство}"
+        }
+      }
+    },
+    "FTEmVyflswV1PlcX": {
+      "name": "Стремление — Адептус Астра Телепатика",
+      "results": {
+        "04O54UsPdrkUfSye": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#conflict]{Конфликт}"
+        },
+        "jNK39RMYHY5WDt7O": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#information]{Знания}"
+        },
+        "wZ64xSziJeYrCXzX": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#material]{Богатство}"
+        },
+        "vkkdql6Uzogr1wmC": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#reputation]{Слава}"
+        },
+        "EE7NYnn2n6Fun5ac": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#unity]{Единство}"
+        }
+      }
+    },
+    "t8f5SFrHyoNDssQZ": {
+      "name": "Стремление — Адептус Механикус",
+      "results": {
+        "04O54UsPdrkUfSye": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#conflict]{Конфликт}"
+        },
+        "jNK39RMYHY5WDt7O": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#information]{Знания}"
+        },
+        "wZ64xSziJeYrCXzX": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#material]{Богатство}"
+        },
+        "vkkdql6Uzogr1wmC": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#reputation]{Слава}"
+        },
+        "EE7NYnn2n6Fun5ac": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#unity]{Единство}"
+        }
+      }
+    },
+    "LOBjC6IIl0W6WlSx": {
+      "name": "Стремление — Астра Милитарум",
+      "results": {
+        "04O54UsPdrkUfSye": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#conflict]{Конфликт}"
+        },
+        "jNK39RMYHY5WDt7O": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#information]{Знания}"
+        },
+        "wZ64xSziJeYrCXzX": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#material]{Богатство}"
+        },
+        "vkkdql6Uzogr1wmC": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#reputation]{Слава}"
+        },
+        "EE7NYnn2n6Fun5ac": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#unity]{Единство}"
+        }
+      }
+    },
+    "xJLF8rJ4RafJYNyY": {
+      "name": "Стремление — Адептус Министорум",
+      "results": {
+        "04O54UsPdrkUfSye": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#conflict]{Конфликт}"
+        },
+        "jNK39RMYHY5WDt7O": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#information]{Знания}"
+        },
+        "wZ64xSziJeYrCXzX": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#material]{Богатство}"
+        },
+        "vkkdql6Uzogr1wmC": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#reputation]{Слава}"
+        },
+        "EE7NYnn2n6Fun5ac": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#unity]{Единство}"
+        }
+      }
+    },
+    "hoyWfCDa1bWtcwfT": {
+      "name": "Стремление — Имперские флотилии",
+      "results": {
+        "04O54UsPdrkUfSye": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#conflict]{Конфликт}"
+        },
+        "jNK39RMYHY5WDt7O": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#information]{Знания}"
+        },
+        "wZ64xSziJeYrCXzX": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#material]{Богатство}"
+        },
+        "vkkdql6Uzogr1wmC": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#reputation]{Слава}"
+        },
+        "EE7NYnn2n6Fun5ac": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#unity]{Единство}"
+        }
+      }
+    },
+    "RVug4ojrtvFzlJa6": {
+      "name": "Стремление — одиночки",
+      "results": {
+        "04O54UsPdrkUfSye": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#conflict]{Конфликт}"
+        },
+        "jNK39RMYHY5WDt7O": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#information]{Знания}"
+        },
+        "wZ64xSziJeYrCXzX": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#material]{Богатство}"
+        },
+        "vkkdql6Uzogr1wmC": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#reputation]{Слава}"
+        },
+        "EE7NYnn2n6Fun5ac": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#unity]{Единство}"
+        }
+      }
+    },
+    "07QEbVNQFLheiqqF": {
+      "name": "Стремление — династии вольных торговцев",
+      "results": {
+        "04O54UsPdrkUfSye": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#conflict]{Конфликт}"
+        },
+        "jNK39RMYHY5WDt7O": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#information]{Знания}"
+        },
+        "wZ64xSziJeYrCXzX": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#material]{Богатство}"
+        },
+        "vkkdql6Uzogr1wmC": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#reputation]{Слава}"
+        },
+        "EE7NYnn2n6Fun5ac": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#unity]{Единство}"
+        }
+      }
+    },
+    "aAIpNgy0xZZ8PQrd": {
+      "name": "Стремление — Инквизиция",
+      "results": {
+        "04O54UsPdrkUfSye": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#conflict]{Конфликт}"
+        },
+        "jNK39RMYHY5WDt7O": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#information]{Знания}"
+        },
+        "wZ64xSziJeYrCXzX": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#material]{Богатство}"
+        },
+        "vkkdql6Uzogr1wmC": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#reputation]{Слава}"
+        },
+        "EE7NYnn2n6Fun5ac": {
+          "description": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#unity]{Единство}"
+        }
+      }
+    },
+    "ep3s7nKOUoph2xIi": {
+      "name": "Служба — агромир",
+      "results": {
+        "H7AT9mFdseJRm2TF": {
+          "name": "Адептус Администратум"
+        },
+        "ojwepJz9uDX6tlQE": {
+          "name": "Адептус Астра Телепатика"
+        },
+        "E7J7giaQ9726ON0F": {
+          "name": "Адептус Механикус"
+        },
+        "c45Pphxc69BoLnMe": {
+          "name": "Адептус Министорум"
+        },
+        "UMm9327rhXYuxytq": {
+          "name": "Астра Милитарум"
+        },
+        "pqXqke2HvLLaodHh": {
+          "name": "Имперские флотилии"
+        },
+        "sBgaCgOEG6McyYiB": {
+          "name": "Одиночки"
+        },
+        "Ln2YWzRV17juB6Dl": {
+          "name": "Инквизиция"
+        },
+        "5PVG1urd1JUcLIz4": {
+          "name": "Династии вольных торговцев"
+        }
+      }
+    },
+    "oACrVcayoED73eW3": {
+      "name": "Служба — дикий мир",
+      "results": {
+        "H7AT9mFdseJRm2TF": {
+          "name": "Адептус Администратум"
+        },
+        "ojwepJz9uDX6tlQE": {
+          "name": "Адептус Астра Телепатика"
+        },
+        "E7J7giaQ9726ON0F": {
+          "name": "Адептус Механикус"
+        },
+        "c45Pphxc69BoLnMe": {
+          "name": "Адептус Министорум"
+        },
+        "UMm9327rhXYuxytq": {
+          "name": "Астра Милитарум"
+        },
+        "pqXqke2HvLLaodHh": {
+          "name": "Имперские флотилии"
+        },
+        "sBgaCgOEG6McyYiB": {
+          "name": "Одиночки"
+        },
+        "Ln2YWzRV17juB6Dl": {
+          "name": "Инквизиция"
+        },
+        "5PVG1urd1JUcLIz4": {
+          "name": "Династии вольных торговцев"
+        }
+      }
+    },
+    "bWToySiNl72h2LiY": {
+      "name": "Служба — феодальный мир",
+      "results": {
+        "H7AT9mFdseJRm2TF": {
+          "name": "Адептус Администратум"
+        },
+        "ojwepJz9uDX6tlQE": {
+          "name": "Адептус Астра Телепатика"
+        },
+        "E7J7giaQ9726ON0F": {
+          "name": "Адептус Механикус"
+        },
+        "c45Pphxc69BoLnMe": {
+          "name": "Адептус Министорум"
+        },
+        "UMm9327rhXYuxytq": {
+          "name": "Астра Милитарум"
+        },
+        "pqXqke2HvLLaodHh": {
+          "name": "Имперские флотилии"
+        },
+        "sBgaCgOEG6McyYiB": {
+          "name": "Одиночки"
+        },
+        "Ln2YWzRV17juB6Dl": {
+          "name": "Инквизиция"
+        },
+        "5PVG1urd1JUcLIz4": {
+          "name": "Династии вольных торговцев"
+        }
+      }
+    },
+    "EyH7uN45LGlL7zvy": {
+      "name": "Служба — мир-кузница",
+      "results": {
+        "H7AT9mFdseJRm2TF": {
+          "name": "Адептус Администратум"
+        },
+        "ojwepJz9uDX6tlQE": {
+          "name": "Адептус Астра Телепатика"
+        },
+        "E7J7giaQ9726ON0F": {
+          "name": "Адептус Механикус"
+        },
+        "c45Pphxc69BoLnMe": {
+          "name": "Адептус Министорум"
+        },
+        "UMm9327rhXYuxytq": {
+          "name": "Астра Милитарум"
+        },
+        "pqXqke2HvLLaodHh": {
+          "name": "Имперские флотилии"
+        },
+        "sBgaCgOEG6McyYiB": {
+          "name": "Одиночки"
+        },
+        "Ln2YWzRV17juB6Dl": {
+          "name": "Инквизиция"
+        },
+        "5PVG1urd1JUcLIz4": {
+          "name": "Династии вольных торговцев"
+        }
+      }
+    },
+    "BJ6DhPFbEXII8C9f": {
+      "name": "Служба — мир-улей",
+      "results": {
+        "H7AT9mFdseJRm2TF": {
+          "name": "Адептус Администратум"
+        },
+        "ojwepJz9uDX6tlQE": {
+          "name": "Адептус Астра Телепатика"
+        },
+        "E7J7giaQ9726ON0F": {
+          "name": "Адептус Механикус"
+        },
+        "c45Pphxc69BoLnMe": {
+          "name": "Адептус Министорум"
+        },
+        "UMm9327rhXYuxytq": {
+          "name": "Астра Милитарум"
+        },
+        "pqXqke2HvLLaodHh": {
+          "name": "Имперские флотилии"
+        },
+        "sBgaCgOEG6McyYiB": {
+          "name": "Одиночки"
+        },
+        "Ln2YWzRV17juB6Dl": {
+          "name": "Инквизиция"
+        },
+        "5PVG1urd1JUcLIz4": {
+          "name": "Династии вольных торговцев"
+        }
+      }
+    },
+    "hqHL2rKcOsSfYsrw": {
+      "name": "Служба — Схола Прогениум",
+      "results": {
+        "H7AT9mFdseJRm2TF": {
+          "name": "Адептус Администратум"
+        },
+        "ojwepJz9uDX6tlQE": {
+          "name": "Адептус Астра Телепатика"
+        },
+        "E7J7giaQ9726ON0F": {
+          "name": "Адептус Механикус"
+        },
+        "c45Pphxc69BoLnMe": {
+          "name": "Адептус Министорум"
+        },
+        "UMm9327rhXYuxytq": {
+          "name": "Астра Милитарум"
+        },
+        "pqXqke2HvLLaodHh": {
+          "name": "Имперские флотилии"
+        },
+        "Ln2YWzRV17juB6Dl": {
+          "name": "Инквизиция"
+        },
+        "5PVG1urd1JUcLIz4": {
+          "name": "Династии вольных торговцев"
+        }
+      }
+    },
+    "7MVzDzO1f96P1eWh": {
+      "name": "Служба — мир-храм",
+      "results": {
+        "H7AT9mFdseJRm2TF": {
+          "name": "Адептус Администратум"
+        },
+        "ojwepJz9uDX6tlQE": {
+          "name": "Адептус Астра Телепатика"
+        },
+        "E7J7giaQ9726ON0F": {
+          "name": "Адептус Механикус"
+        },
+        "c45Pphxc69BoLnMe": {
+          "name": "Адептус Министорум"
+        },
+        "UMm9327rhXYuxytq": {
+          "name": "Астра Милитарум"
+        },
+        "pqXqke2HvLLaodHh": {
+          "name": "Имперские флотилии"
+        },
+        "sBgaCgOEG6McyYiB": {
+          "name": "Одиночки"
+        },
+        "Ln2YWzRV17juB6Dl": {
+          "name": "Инквизиция"
+        },
+        "5PVG1urd1JUcLIz4": {
+          "name": "Династии вольных торговцев"
+        }
+      }
+    },
+    "71shyC6qN7Tnf0Rx": {
+      "name": "Служба — Пустота",
+      "results": {
+        "H7AT9mFdseJRm2TF": {
+          "name": "Адептус Администратум"
+        },
+        "ojwepJz9uDX6tlQE": {
+          "name": "Адептус Астра Телепатика"
+        },
+        "E7J7giaQ9726ON0F": {
+          "name": "Адептус Механикус"
+        },
+        "c45Pphxc69BoLnMe": {
+          "name": "Адептус Министорум"
+        },
+        "UMm9327rhXYuxytq": {
+          "name": "Астра Милитарум"
+        },
+        "pqXqke2HvLLaodHh": {
+          "name": "Имперские флотилии"
+        },
+        "sBgaCgOEG6McyYiB": {
+          "name": "Одиночки"
+        },
+        "Ln2YWzRV17juB6Dl": {
+          "name": "Инквизиция"
+        },
+        "5PVG1urd1JUcLIz4": {
+          "name": "Династии вольных торговцев"
+        }
+      }
+    },
+    "eDQC0ssRGzZebgdq": {
+      "name": "Осложнения боевых сцен"
+    },
+    "TRQuuaBtW30wpGTq": {
+      "name": "Таблица событий",
+      "results": {
+        "nv1a8azEUUfiGllR": {
+          "description": "<p><strong>Арест</strong>: член вашей команды был обвинён в тяжком преступлении и схвачен, когда меньше всего этого ожидал. Ему могут вменять убийство, ересь или, хуже того, уклонение от имперских десятин и податей. Любой другой персонаж может потратить занятие, чтобы доказать невиновность товарища <strong>рутинной (+20) проверкой Знаний</strong>. В противном случае группе придётся потратить два дополнительных занятия, чтобы освободить друга (законным или нет образом). Если покровитель группы решит, что его тайны под угрозой, он также может вмешаться и спасти своего человека — это снижает благосклонность покровителя к арестовавшей его агента службе на 1.</p>"
+        },
+        "8VWcEnI6dFkRIb8E": {
+          "description": "<p><strong>Счастливая встреча</strong>: вы сталкиваетесь с обладателем необычного или уникального знания, что может помочь вам в будущем. Когда вы в следующий раз будете обращаться к знатоку, будет считаться, что вы уже встречали нужного знатока.</p>"
+        },
+        "xocBfcdGeDK1VXfn": {
+          "description": "<p><strong>Разлад</strong>: вы встречаетесь с членом другой службы (см. таблицу @UUID[Compendium.impmal-core.tables.RollTable.vl9saE1Hpu48qsLd]{Служба покровителя}, чтобы определить, какой именно), и это заканчивается плохо — быть может, вы прерываете жизненно важную работу техножреца или случайно вмешиваетесь в тёмные дела местных бандитов. Вам удалось спасти свою жизнь, но вас запомнили — все последствия на усмотрение ведущего.</p>"
+        },
+        "xZN24oqDrYHSKe7R": {
+          "description": "<p><strong>Смерть в тенях</strong>: вашему знакомому грозит смерть, и он просит вас о помощи. Вы можете потратить занятие, чтобы помочь ему — позаботиться о его защите, выследить его врага или иным образом предотвратить гибель. Если вы не сможете сделать это, знакомый затаит на вас злобу или даже погибнет!</p>"
+        },
+        "o64tLKbuDN0pVEaK": {
+          "description": "<p><strong>Под колпаком</strong>: за вами следят! Это происходит уже несколько дней, но ваши преследователи постоянно на шаг впереди и не позволяют встретиться с ними лицом к лицу. Это могут быть вигилы, что подозревают вас в преступлениях, бандиты, планирующие шантаж, или даже агенты вашего же покровителя, выискивающие признаки измены. Паранойя не позволяет вам отдохнуть — следующее приключение вы начинаете с состоянием @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#fatigued]{Усталость}.</p>"
+        },
+        "q2OGbA3007Mp0Io0": {
+          "description": "<p><strong>Беспорядки</strong>: агитаторы разожгли в городе бунт. Возможно, заражённый груз серых пайков породил слухи о нехватке провианта или любимый народом проповедник был обвинён в ереси, а возможно, восстание вызвали действия самих персонажей! Так или иначе, все проверки, связанные с занятиями, в этот промежуток между приключениями получают −2 успеха.</p>"
+        },
+        "kp2Le4NbIj8GFptA": {
+          "description": "<p><strong>Вспышка болезни</strong>: по окрестностям проносится хворь — возможно, это Улренова оспа или даже небольшой очаг смертельного ползучего мора. Предпримите <strong>трудную (−10) проверку Стойкости</strong>. В случае провала вы заражены — следующее задание вы начинаете с состоянием @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#poisoned]{Отравление}. Чтобы исцелиться и снять состояние, вы должны получить медицинскую помощь (какую именно — решит ведущий).</p>"
+        },
+        "koYnepj5A0KyZ0nq": {
+          "description": "<p><strong>Облава</strong>: местные власти объявляют комендантский час. Вигилы патрулируют улицы в поисках бандитов, а скитарии авангарда обыскивают трущобы миров-кузниц и сгоняют «добровольцев» для следующего набора. В этом промежутке между заданиями группа получает помеху во всех проверках, что связаны с незаконными делами или занятиями.</p>"
+        },
+        "vCM45A7C8bxxF5ml": {
+          "description": "<p><strong>Недовольные машинные духи</strong>: один предмет вашего снаряжения перестаёт работать и не поддаётся починке. Какой именно — решать ведущему, но это должно быть что-то достаточно дорогое или важное для героя. О починке вещей см. @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}.</p>"
+        },
+        "iNlwUasUfgLowk2u": {
+          "description": "<p><strong>Услуга за услугу</strong>: ваш старый знакомый пользуется возможностью отплатить вам за помощь. Кто это и что именно он сделает — зависит от ваших прошлых приключений и персонажей, которым вы помогали на заданиях или в прошлой жизни. Так или иначе, этот человек очень хочет сделать вам добро и готов помочь в следующем занятии или на задании.</p>"
+        },
+        "YNAEMVQgJKnATBbS": {
+          "description": "<p><strong>Пророчество</strong>: вам было явлено загадочное видение — вещий сон, откровение во время пылкой молитвы или закономерность, скрытая в череде всплесков двоичного кода сбоящей машины. Следующее задание вы начинаете с одним дополнительным очком судьбы. Оно не восстановится, когда вы потратите его.</p>"
+        },
+        "nlm4lF9IquhfbiAX": {
+          "description": "<p><strong>Неожиданный дар</strong>: вы получаете подарок от неизвестного. Это обычный предмет — его выбирает ведущий, но он должен быть полезен для вас. Возможно, подношение оставят в вашем жилище, пока вас нет, или загадочный незнакомец сунет коробку вам в руки и скроется в толпе, а быть может, бюрократы Адептус Администратум передадут задержавшуюся на годы посылку. Кто прислал это и ждёт ли чего-то взамен — решать ведущему.</p>"
+        },
+        "fw8d8kqTv4lSHrIl": {
+          "description": "<p><strong>Несчастье с господином</strong>: это событие может произойти только один раз в промежуток между заданиями. Если оно выпадает нескольким персонажам, то всё равно происходит лишь раз.</p><p>Ваш покровитель могущественен и богат, но не бессмертен. В этот раз с ним случается несчастье — это может быть рана, тяжёлая болезнь, политическое поражение. Когда такое событие выпадает в первый раз, ведущий должен записать, что случилось. Если господин потерпел политическое унижение, то его влияние на связанную с этим службу падает на 1. Если он был ранен, то немедленных последствий не будет, но персонажи могут узнать об этом, а ранение в силах повлиять на взаимодействие господина со слугами и их способность просить его о помощи.</p>"
+        },
+        "1mpdKxjWsZwICkh0": {
+          "description": "<p><strong>Охотник за головами</strong>: поговаривают, что за вашу голову назначили награду. Возможно, вы случайно убили или разгневали важного человека на прошлом задании, а быть может, то происки врагов, недовольных вашим вмешательством. Так или иначе, по вашим пятам идёт @UUID[Compendium.impmal-core.actors.Actor.5CCbRXAMBtwviuFE]{Охотник за головами}. Это не оказывает немедленного воздействия, но он попытается схватить вас в самый неподходящий миг в будущем задании. Если награду объявят хотя бы за половину группы, преследователи объединятся в банду венаторов и будут охотиться на всех персонажей вместе.</p>"
+        },
+        "9WlBvYyTnxfjtHhi": {
+          "description": "<p><strong>Старые долги</strong>: к вам обращается человек, которому вы должны услугу, и просит помочь в ответ. Это может быть вигил, что когда-то закрыл глаза на мелкое преступление, адепт Администратума, ускоривший исполнение запроса, или товарищ-гвардеец, некогда спасший вашу жизнь. Он просит о чём-то значимом, что нельзя легко выполнить и от чего непросто отмахнуться. Чтобы решить такую проблему, может потребоваться несколько занятий или даже отдельное приключение. Все подробности определяет ведущий.</p>"
+        },
+        "rQ3x9DfBKHJ7wRep": {
+          "description": "<p><strong>Соблазнительная возможность</strong>: вам выпадает шанс сделать немного лёгких денег — например, подворачивается игра в регицид с высокими ставками или встречается отчаявшийся человек, что предлагает небольшое состояние за ваше срочное вмешательство. Если в этот промежуток вы будете заниматься заработком, то полученная сумма удвоится.</p>"
+        },
+        "tGNh4eD8BFmPUyWT": {
+          "description": "<p><strong>Праздничный триумф</strong>: происходит великий праздник! Возможно, в этот день воинства святого Махария освободили планету и вернули её в объятия Императора, а может, люди просто отдают дань памяти забытым традициям своей родины. Так или иначе, то небольшая передышка от бесконечного труда и тяжёлой жизни. Персонажи, что будут участвовать в празднике, почувствуют себя бодрыми и помолодевшими и смогут игнорировать состояние @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#fatigued]{Усталость}, когда в первый раз получат его.</p>"
+        },
+        "e41lq9xTKcgLo0vr": {
+          "description": "<p><strong>Налоговое ярмо</strong>: в соседнем субсекторе разгорается война, и имперская десятина возрастает. Группа теряет половину накопленных средств, если те не были припрятаны или вложены. Вместо этого каждый член группы может пожертвовать на общее дело Империума одно обычное или редкое оружие.</p>"
+        },
+        "Hb3SDMyjYPr7cTdp": {
+          "description": "<p><strong>Очень важный гость</strong>: ваши пути пересекаются с очень важным человеком. Возможно, на агромир прибывает старший член Администратума, орбитальная станция принимает вольного торговца, а мастерские мира-кузницы удостаивает визитом сам магос-доминус. Вы можете предпринять <strong>очень сложную (−30) социальную проверку</strong>. В случае успеха вам удаётся его впечатлить — вы получаете +1 к влиянию на его службу (до предела в +2). Провал снижает ваше влияние на 1.</p>"
+        }
+      }
+    },
+    "wyIDvsnkkI18FbJy": {
+      "name": "Таблица критических попаданий по технике",
+      "results": {
+        "XAxl8Us22Z2R0wL0": {
+          "description": "<p>Попадание приходится в некритичную часть машины, отскакивает от брони или по иным причинам не наносит урона.</p>"
+        },
+        "ExfS13df6BtQd5tp": {
+          "description": "<p>Кажется, всё в порядке, но в машине что-то начало звенеть. Пока техника не будет отремонтирована, все броски по этой таблице получают +1. Если <strong>Звон</strong> выпадет несколько раз, эти прибавки будут складываться.</p>"
+        },
+        "JguXs3wFlwjvXZCL": {
+          "description": "<p>Случайно выбранный член экипажа или пассажир получает ранение от осколка или шальной пули. Цель немедленно получает попадание в случайную зону попадания из того оружия, что вызвало этот бросок по таблице. При определении урона цель может прибавить очки брони машины к своей броне. Если этот результат был вызван не вражеским попаданием, а чем-то иным, он наносит [[1d10]] единиц урона.</p><p><strong>Проверка управления</strong>: средняя (+0), если водитель получил попадание.</p>"
+        },
+        "vRwfoLFjHGJcIkoi": {
+          "description": "<p>Удар приходится в грузовой отсек, если таковой имеется. Исход остаётся на усмотрение ведущего — например, груз может быть уничтожен или выпасть из кузова. Если грузового отсека у машины нет, этот результат считается <strong>попаданием по экипажу/пассажирам</strong>.</p><p><strong>Проверка управления: </strong>рутинная (+20)</p>"
+        },
+        "UJST1HGeXHRE0Eib": {
+          "description": "<p>Попадание повреждает одно случайно выбранное орудие машины — оно не будет работать, пока его не отремонтируют. Если в это орудие приходится второе такое попадание, оно уничтожается. Если у машины нет вооружения или оно всё уже уничтожено, этот результат считается <strong>попаданием по экипажу/пассажирам</strong>.</p><p><strong>Проверка управления: </strong>рутинная (+20)</p>"
+        },
+        "mO4zB7nFN0R4Fw6Y": {
+          "description": "<p>Лобовая или бортовая броня машины (смотря куда пришлось попадание) понижается на [[1d5]].</p><p><strong>Проверка управления</strong>: средняя (+0)</p>"
+        },
+        "GNrdfIZofm1KJBxh": {
+          "description": "<p>Попадание приходится в колёса, гусеницы или двигатель. Скорость машины падает на одну ступень. Если при этом скорость упадёт ниже медленной, машина потеряет возможность двигаться, пока её не отремонтируют. Воздушная техника при этом падает на землю.</p><p><strong>Проверка управления: </strong>трудная (−10)</p>"
+        },
+        "40yIDWfwiiKZaF7M": {
+          "description": "<p>Машина превращается в огненный шар и мгновенно гибнет. Все, кто находится внутри, получают [[1d10+10]] единиц урона в случайную зону попадания и состояние @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Горение}.</p>"
+        }
+      }
+    },
+    "IGaEvnnUcOl7BrkE": {
+      "name": "Осложнения боевых сцен — Окружение",
+      "results": {
+        "kpztqbGAZm32tS5Y": {
+          "description": "По зонам распространяется Опасность."
+        },
+        "q3A3U1ZaHZQXqnxS": {
+          "description": "Всё вокруг застилает Марево (дым, туман, ядовитый газ)."
+        },
+        "7Ih1KC9rjnkUXLET": {
+          "description": "Проламывается пол или обваливается потолок."
+        },
+        "07VYmGh2WM1LC4vI": {
+          "description": "Битва происходит на большой высоте или на очень шатких конструкциях."
+        },
+        "FrrfSKTXHfm7Fwvo": {
+          "description": "Всё вокруг непредсказуемо движется, трясётся или дёргается."
+        },
+        "ZhrGs4teGTwFhhji": {
+          "description": "Местные хищные растения и животные охотятся на друзей и врагов."
+        }
+      }
+    },
+    "pRxFTNVJHS7kDiDv": {
+      "name": "Осложнения боевых сцен — Тактика",
+      "results": {
+        "kpztqbGAZm32tS5Y": {
+          "description": "У врага есть ксенотех или еретехника."
+        },
+        "q3A3U1ZaHZQXqnxS": {
+          "description": "Враг обороняется и ждёт подкреплений."
+        },
+        "7Ih1KC9rjnkUXLET": {
+          "description": "Враг устраивает засады и подготовил ловушки."
+        },
+        "07VYmGh2WM1LC4vI": {
+          "description": "Враг перехватывает контроль над опасностями окружения."
+        },
+        "FrrfSKTXHfm7Fwvo": {
+          "description": "Враг неостановим и обладает огромным численным превосходством."
+        },
+        "ZhrGs4teGTwFhhji": {
+          "description": "Против персонажей объединяются разные группы врагов."
+        }
+      }
+    },
+    "84CsSg1GZORruqqF": {
+      "name": "Осложнения боевых сцен — Время",
+      "results": {
+        "kpztqbGAZm32tS5Y": {
+          "description": "Персонажи должны доставить срочное послание или посылку."
+        },
+        "q3A3U1ZaHZQXqnxS": {
+          "description": "Вскоре вся округа будет уничтожена или станет непригодной для жизни."
+        },
+        "7Ih1KC9rjnkUXLET": {
+          "description": "Герои должны достичь некой точки, чтобы остановить врага."
+        },
+        "07VYmGh2WM1LC4vI": {
+          "description": "Область нужно удерживать, пока не подойдут подкрепления."
+        },
+        "FrrfSKTXHfm7Fwvo": {
+          "description": "Одного врага нужно поймать или убить, не дав сбежать."
+        },
+        "ZhrGs4teGTwFhhji": {
+          "description": "Необходимо провести ритуал очищения или технообряд."
+        }
+      }
+    },
+    "5Pu3sRC9qZi8Fw9x": {
+      "name": "Осложнения боевых сцен — Защита",
+      "results": {
+        "kpztqbGAZm32tS5Y": {
+          "description": "Здание или крупная боевая машина, которые должны быть укреплены."
+        },
+        "q3A3U1ZaHZQXqnxS": {
+          "description": "Напуганная группа невинных людей, что не могут себя защитить."
+        },
+        "7Ih1KC9rjnkUXLET": {
+          "description": "Свидетель или пленный еретик должен предстать перед судом."
+        },
+        "07VYmGh2WM1LC4vI": {
+          "description": "Лишённый подвижности соратник, хрупкое устройство или колдовской артефакт."
+        },
+        "FrrfSKTXHfm7Fwvo": {
+          "description": "Пойманный зверь или пленный вражеский воин, жаждущий свободы."
+        },
+        "ZhrGs4teGTwFhhji": {
+          "description": "Через территорию врага движется крупная техника или зверь."
+        }
+      }
+    },
+    "vQWrY7p0o8cfn9U3": {
+      "name": "Осложнения боевых сцен — Важная цель",
+      "results": {
+        "kpztqbGAZm32tS5Y": {
+          "description": "Вам необходимо уничтожить вражеского командира."
+        },
+        "q3A3U1ZaHZQXqnxS": {
+          "description": "У одного из врагов есть колдовской или технологический артефакт."
+        },
+        "7Ih1KC9rjnkUXLET": {
+          "description": "Группа должна занять указанную точку."
+        },
+        "07VYmGh2WM1LC4vI": {
+          "description": "Вам нужно схватить врага или освободить соратника, что находится прямо в центре вражеских порядков."
+        },
+        "FrrfSKTXHfm7Fwvo": {
+          "description": "В опасной зоне стоит когитатор, который нужно взломать."
+        },
+        "ZhrGs4teGTwFhhji": {
+          "description": "Среди толпы невинных смертных находится чудовищный враг."
+        }
+      }
+    },
+    "f8bDrClngzOFTKdF": {
+      "name": "Осложнения боевых сцен — Взаимодействие",
+      "results": {
+        "kpztqbGAZm32tS5Y": {
+          "description": "Свет то освещает всё вокруг, то тускнеет."
+        },
+        "q3A3U1ZaHZQXqnxS": {
+          "description": "Большая цистерна воды или токсичных отходов, содержимое которой может затопить всё вокруг."
+        },
+        "7Ih1KC9rjnkUXLET": {
+          "description": "Через окрестности проходят взрывоопасные тепловые плазмопроводы."
+        },
+        "07VYmGh2WM1LC4vI": {
+          "description": "Гермодвери или пустотные щиты, которыми можно управлять."
+        },
+        "FrrfSKTXHfm7Fwvo": {
+          "description": "Смертоносные гальванические сервотягачи, что могут давить врагов."
+        },
+        "ZhrGs4teGTwFhhji": {
+          "description": "Вокруг неустойчивые конструкции, что легко разрушить."
+        }
+      }
+    },
+    "7wkeObPTKch7PC6G": {
+      "name": "Ординат Департаменто Муниторум — возможности",
+      "results": {
+        "Tklv13qYtBQ38uxN": {
+          "name": "Цензорий"
+        },
+        "TYfXbT8PWy6tUyCo": {
+          "name": "Семинария"
+        },
+        "2mnnUOjjH0aNsT2O": {
+          "name": "Астропатическая связь"
+        },
+        "QIba4a2dsSvdUqsO": {
+          "name": "Связные в Картографике"
+        },
+        "MkJZPjmNtwiLTjnM": {
+          "name": "Транспортная логистика"
+        },
+        "yYsAzFgYfAFzs9DR": {
+          "name": "Доступ в инфохранилище"
+        },
+        "17QQEN58h6gzGLoZ": {
+          "name": "Флотский десант"
+        },
+        "FaQTk2Cu8gprFxWB": {
+          "name": "Богатства Муниторума"
+        },
+        "s1nKmlAcC73O03RW": {
+          "name": "Право на вербовку"
+        },
+        "nnx3FC0sSzxXbuZZ": {
+          "name": "Прикомандированные войска"
+        }
+      }
+    },
+    "JV5QK7BMGhKMOIUT": {
+      "name": "Ординат Департаменто Муниторум — слабости",
+      "results": {
+        "JzYfkm34gDhh9z5F": {
+          "name": "Резкий характер"
+        },
+        "xkzeUB6mlKi4Fs6I": {
+          "name": "Порченный"
+        },
+        "b3vRP3NKDdCyOAIn": {
+          "name": "Драконовские законы"
+        },
+        "W2Wp0vo7sJF9FptT": {
+          "name": "Одной ногой в могиле"
+        },
+        "0G1hQLaWlkAHkmwP": {
+          "name": "Бесконечные отчёты"
+        },
+        "qBOc9n2197lY0iL1": {
+          "name": "Известный интриган"
+        },
+        "6ysTF1HWzf3372nv": {
+          "name": "Педантичный архивист"
+        },
+        "SpFQe9LHUddE1qtg": {
+          "name": "Много агентов, мало времени"
+        },
+        "82fcaemzgJZyFz0n": {
+          "name": "Сторонние заботы"
+        },
+        "XUXKgddFYkzGd4lv": {
+          "name": "Подсчёт ущерба"
+        }
+      }
+    },
+    "npIr4uwAWMXyyHAf": {
+      "name": "Десятинный префект — возможности",
+      "results": {
+        "sFYGBl9ZgmPI1PVE": {
+          "name": "Цензорий"
+        },
+        "8jr5YCs9cgWXPOJV": {
+          "name": "Семинария"
+        },
+        "X4nZHFfoev15E68c": {
+          "name": "Древние слуги"
+        },
+        "p5P2RSnPFCOoQ0WF": {
+          "name": "Астропатическая связь"
+        },
+        "WgnayOVZaSHYNrvn": {
+          "name": "Связные в Картографике"
+        },
+        "RZN5ZJbjGusUsquJ": {
+          "name": "Группа клерков"
+        },
+        "ZISOVH7pxrg6M3Hk": {
+          "name": "Агентурная сеть"
+        },
+        "mKzYHDkkZGzQCcdB": {
+          "name": "Транспортная логистика"
+        },
+        "3AgZhY8NgpXTlnwO": {
+          "name": "Доступ в инфохранилище"
+        },
+        "THEwUcgOUT22lx60": {
+          "name": "Патруль вигилов"
+        }
+      }
+    },
+    "uoaIW0sh504X2KRO": {
+      "name": "Десятинный префект — слабости",
+      "results": {
+        "83BRNhpxGBYh4Uno": {
+          "name": "Резкий характер"
+        },
+        "SeL8dtBmuDZqeytX": {
+          "name": "Трус"
+        },
+        "CHFXygMVuYWM2ITa": {
+          "name": "Драконовские законы"
+        },
+        "8pN7rjLq8rpRvBSa": {
+          "name": "Одной ногой в могиле"
+        },
+        "WY1jmiJORfz2N1DR": {
+          "name": "Бесконечные отчёты"
+        },
+        "9G80xTEzH3LaeCyM": {
+          "name": "Педантичный архивист"
+        },
+        "k7v94FRzQuMHZ9JE": {
+          "name": "Скупец"
+        },
+        "bRs3u1akzdhvswrR": {
+          "name": "Древний наблюдатель"
+        },
+        "33czxKdjMrBxcd1u": {
+          "name": "Ревизионист"
+        },
+        "yMcJ3z0fuTq5xGWH": {
+          "name": "Подсчёт ущерба"
+        }
+      }
+    },
+    "5JJ3PrECO81f2qsi": {
+      "name": "Астропат — возможности",
+      "results": {
+        "Aeonqc2rTj9OIrUb": {
+          "range": [
+            1,
+            1
+          ]
+        },
+        "wPSxUUZLNC8IYLu6": {
+          "range": [
+            2,
+            2
+          ]
+        },
+        "GzGmpqlYfsrBUqKe": {
+          "range": [
+            3,
+            3
+          ]
+        },
+        "ltAA3NCaJXNsHtbq": {
+          "range": [
+            4,
+            4
+          ]
+        },
+        "aqEAR353LpRQnheu": {
+          "range": [
+            5,
+            5
+          ]
+        },
+        "GNo8JDnRkQ9zcJuy": {
+          "range": [
+            6,
+            6
+          ]
+        },
+        "S6zkaZXCSW0JA0Mp": {
+          "range": [
+            7,
+            7
+          ]
+        },
+        "xjXjIArzhvMLt2PH": {
+          "range": [
+            8,
+            8
+          ]
+        },
+        "98IEaIKiqGFbHWgA": {
+          "range": [
+            9,
+            9
+          ]
+        },
+        "dnH5VxXC5xOq3RqC": {
+          "range": [
+            10,
+            10
+          ]
+        }
+      }
+    },
+    "Dkxz9vTiroFEqJyx": {
+      "name": "Астропат — слабости",
+      "results": {
+        "EX8IUn4vYfTKWueS": {
+          "name": "Резкий характер"
+        },
+        "PE97wpjVHFFqHOdq": {
+          "name": "Враг"
+        },
+        "uhtfBAugSGmyhRCS": {
+          "name": "Одной ногой в могиле"
+        },
+        "wGXD60K2i1gNhSBo": {
+          "name": "Много агентов, мало времени"
+        },
+        "J9SyM7XKqdrl3A61": {
+          "name": "Параноик"
+        },
+        "knOQR8KTkI9IlJbd": {
+          "name": "Показная набожность"
+        },
+        "J60G7zUIO4ffpu6k": {
+          "name": "Дрянные припасы"
+        },
+        "Iho1eWULNKMnwQ8w": {
+          "name": "Сторонние заботы"
+        },
+        "hmVENhbHVBLIeIYE": {
+          "name": "Под подозрением"
+        },
+        "jBvlyQTjaJ4UVWGA": {
+          "name": "Видения Варпа"
+        }
+      }
+    },
+    "dxWT88SmoLVUin2p": {
+      "name": "Сестра Безмолвия — возможности",
+      "results": {
+        "4sJDBsz28L8mwQvn": {
+          "name": "Древние слуги"
+        },
+        "thxMN0FIpADNjpoF": {
+          "name": "Связные в Картографике"
+        },
+        "0buvE6vSFlbgPCHX": {
+          "name": "Тайный тренировочный лагерь Инквизиции"
+        },
+        "neqZNmAL6GD7U1N6": {
+          "name": "Очищающее пламя"
+        },
+        "8BD6mgvCTaGt6fhz": {
+          "name": "Доступ в инфохранилище"
+        },
+        "H4wGnr4OhivQOweZ": {
+          "name": "Флотский десант"
+        },
+        "dQ9r0hJbjbBpNgyo": {
+          "name": "Грозная слава"
+        },
+        "Q5ShBwmhlTbukQoy": {
+          "name": "Обряды очищения"
+        },
+        "OOsgCkk99c1vB5Hu": {
+          "name": "Священные болтеры"
+        },
+        "55HMOsE59HFO3unZ": {
+          "name": "Охота на ведьм"
+        }
+      }
+    },
+    "dj3NATGvIiPukCcT": {
+      "name": "Сестра Безмолвия — слабости",
+      "results": {
+        "mzx32gpfEiUyREIz": {
+          "name": "Резкий характер"
+        },
+        "lPkHL6Z2HIopjyj3": {
+          "name": "Сложные каналы связи"
+        },
+        "rUmWBAOzjWIOjkAC": {
+          "name": "Я вас не знаю"
+        },
+        "UDHjK41nh0Q2Iu1E": {
+          "name": "Враг"
+        },
+        "uYhbxNyT8TgEh7Jj": {
+          "name": "Чти машинных духов"
+        },
+        "NadMIOV2RslmJ5Gj": {
+          "name": "Скупец"
+        },
+        "WniJaQJDMkJhd6Ba": {
+          "name": "Много агентов, мало времени"
+        },
+        "PDW7XIbyACJrgpaW": {
+          "name": "Показная набожность"
+        },
+        "TYlqypCIFbfpMW9H": {
+          "name": "Подсчёт ущерба"
+        },
+        "RV4Efh2c1sc2V9hG": {
+          "name": "Охотник на ведьм"
+        }
+      }
+    },
+    "hd1MYJbUyHmOwODe": {
+      "name": "Владыка кузницы — возможности",
+      "results": {
+        "iH0KvQ5TmP6jXVYM": {
+          "name": "Наставление от Адептус Механикус"
+        },
+        "A7394pD71DG5ZLU8": {
+          "name": "Семинария"
+        },
+        "gExxjnlQQRPsEz7S": {
+          "name": "Древние слуги"
+        },
+        "3uh0DnSOUy32MDh0": {
+          "name": "Мастерская аугметики"
+        },
+        "AoNNeotthtmssq4D": {
+          "name": "Связные в Картографике"
+        },
+        "uvTS7E5RisSKLo5b": {
+          "name": "Транспортная логистика"
+        },
+        "nSEvh6fjzaswZv4P": {
+          "name": "Доступ в инфохранилище"
+        },
+        "FomKuEKMHDTFJtID": {
+          "name": "Ублажение машинных духов"
+        },
+        "LtIT9zLpebcvaWso": {
+          "name": "Клада сервиторов"
+        },
+        "lMxuNFgB4maqVMpK": {
+          "name": "Владыка пустотного порта"
+        }
+      }
+    },
+    "9WTu585sfGXtH2Gw": {
+      "name": "Владыка кузницы — слабости",
+      "results": {
+        "k9I9LmdBYGwFazkO": {
+          "name": "Резкий характер"
+        },
+        "PnIoavIQ2tvpBI4K": {
+          "name": "Инфонаркоман"
+        },
+        "Nrzx7Aw0YKJRKQzF": {
+          "name": "Драконовские законы"
+        },
+        "RypmUzuzL9VSryhN": {
+          "name": "Враг"
+        },
+        "ENyEmMGe8PfVJDZz": {
+          "name": "Чти машинных духов"
+        },
+        "OStAtokYXXebGPzP": {
+          "name": "Известный интриган"
+        },
+        "T7l5pjQrqPzPZBhT": {
+          "name": "Педантичный архивист"
+        },
+        "e6UBFMD7molPjvHY": {
+          "name": "Древний наблюдатель"
+        },
+        "zBLjnB5R6uysr8Gu": {
+          "name": "Законы Омниссии"
+        },
+        "QEa5lub5mZBznCxa": {
+          "name": "Захват территорий"
+        }
+      }
+    },
+    "d7S0LB1PUAVqiYp6": {
+      "name": "Магос Биологис — возможности",
+      "results": {
+        "xyI61xP4BfrDxCfH": {
+          "name": "Наставление от Адептус Механикус"
+        },
+        "w3tbEmZBf4IkVtPV": {
+          "name": "Семинария"
+        },
+        "MBKz8XjJgrbjZufG": {
+          "name": "Древние слуги"
+        },
+        "v5FmQZS54COBsjBt": {
+          "name": "Мастерская аугметики"
+        },
+        "cymGBj11y1XZ8EvD": {
+          "name": "Доступ в инфохранилище"
+        },
+        "RTxf4TWiesYW1EJr": {
+          "name": "Запретный архив"
+        },
+        "AR27eM6xFC65LuOt": {
+          "name": "Ублажение машинных духов"
+        },
+        "FfrUorKmWU5yzReb": {
+          "name": "Госпиталь"
+        },
+        "sOymXRflRInNzsPj": {
+          "name": "Клада сервиторов"
+        },
+        "Der4rhun9EnJHlhE": {
+          "name": "Ксенотехник"
+        }
+      }
+    },
+    "z2ctnJlpJJFdDzkp": {
+      "name": "Магос Биологис — слабости",
+      "results": {
+        "Pa94EwSsYcugJ4Ju": {
+          "name": "Резкий характер"
+        },
+        "cVznWhh1OmzkvbXd": {
+          "name": "Сложные каналы связи"
+        },
+        "qRkrLwUZqDjq4of6": {
+          "name": "Инфонаркоман"
+        },
+        "FE4aJ0yO6riZnvOb": {
+          "name": "Я вас не знаю"
+        },
+        "VnUthTweEsJdwG1Y": {
+          "name": "Враг"
+        },
+        "5OwFZjZPmvrG8QMp": {
+          "name": "Бесконечные отчёты"
+        },
+        "9Ocs9zgGp5mic4Kp": {
+          "name": "Педантичный архивист"
+        },
+        "c6054aQYftPeBsVW": {
+          "name": "Древний наблюдатель"
+        },
+        "YupRojUvo6plIptg": {
+          "name": "Законы Омниссии"
+        },
+        "Bl2N2upPfHb1xjuw": {
+          "name": "Необычные верования"
+        }
+      }
+    },
+    "FtMGtpjmmyTMsz7m": {
+      "name": "Архиисповедник — возможности",
+      "results": {
+        "0Kn6NRcivQb8SUDc": {
+          "name": "Семинария"
+        },
+        "9CS99nq77a6EzjAB": {
+          "name": "Церемониймейстер"
+        },
+        "ztGkmE1pKkZEVsQT": {
+          "name": "Очищающее пламя"
+        },
+        "LsDD5tYxxgFffiiY": {
+          "name": "Фанатики"
+        },
+        "EjGdNeppdF7F5L4Q": {
+          "name": "Разжигатель праведных войн"
+        },
+        "mNkiS2jMZohpxirH": {
+          "name": "Благородная кровь"
+        },
+        "at9qoGRu9MLUKGfG": {
+          "name": "Роскошь"
+        },
+        "jmeEqTpj8uAeauTZ": {
+          "name": "Обряды очищения"
+        },
+        "Fp3sCYmltDWum3SE": {
+          "name": "Помощь проповедника"
+        },
+        "54qhB5pe7WQXglP2": {
+          "name": "Охота на ведьм"
+        }
+      }
+    },
+    "4fT3DocUtiTJdARN": {
+      "name": "Архиисповедник — слабости",
+      "results": {
+        "t0SWftJysYPoBJpR": {
+          "name": "Резкий характер"
+        },
+        "BHXoHbPW6J9TgKky": {
+          "name": "Хвастун"
+        },
+        "8zdVmV66i7QHBWeS": {
+          "name": "Догматик"
+        },
+        "HuVzZEmyEd2bSPh5": {
+          "name": "Враг"
+        },
+        "MyM9Wet7qDVKmQsB": {
+          "name": "Одной ногой в могиле"
+        },
+        "OEOfUVlAtwAIbrUQ": {
+          "name": "Блаженное неведение"
+        },
+        "jDNhGF3IN5UMYJYd": {
+          "name": "Известный интриган"
+        },
+        "TFT27x2tfRMmg6JH": {
+          "name": "Миссионерское предписание"
+        },
+        "bFbOj73arlSS4Iqx": {
+          "name": "Грешен перед Омниссией"
+        },
+        "MHgjbazbHsNdfZxD": {
+          "name": "Показная набожность"
+        }
+      }
+    },
+    "cUbBroSPgfhzWD2u": {
+      "name": "Канонисса — возможности",
+      "results": {
+        "weGi4ILeFmc1T6pV": {
+          "name": "Семинария"
+        },
+        "S6XrgzYbPYLO0Vho": {
+          "name": "Тайный тренировочный лагерь Инквизиции"
+        },
+        "kWdI9r6Sa0JJ9dFM": {
+          "name": "Очищающее пламя"
+        },
+        "7rADPtEwOKWcTAan": {
+          "name": "Святилище Экклезиархии"
+        },
+        "AdVfOWXCm3LMsBOx": {
+          "name": "Грозная слава"
+        },
+        "g4MySkDCRkiRAvJn": {
+          "name": "Военная академия"
+        },
+        "x8E1OLsNWx9kZaGf": {
+          "name": "Госпиталь"
+        },
+        "LJX3HmSymMEcwMVB": {
+          "name": "Священные болтеры"
+        },
+        "QxDMjcrIPzN6YYZj": {
+          "name": "Помощь проповедника"
+        },
+        "f3HPCe1WDk1M3Rnb": {
+          "name": "Охота на ведьм"
+        }
+      }
+    },
+    "br3kq9HWKyT8As5S": {
+      "name": "Канонисса — слабости",
+      "results": {
+        "IBYOOckGMgNrfEjv": {
+          "name": "Резкий характер"
+        },
+        "CgkaEakwVWMtChsn": {
+          "name": "Догматик"
+        },
+        "oHDqn8nHPaLZYELT": {
+          "name": "Драконовские законы"
+        },
+        "h38jzBPwJZt9VnJd": {
+          "name": "Враг"
+        },
+        "1QkJ787zK4fPFA8y": {
+          "name": "Блаженное неведение"
+        },
+        "vpL2XI9n2zNu1VEM": {
+          "name": "Скупец"
+        },
+        "qNLjNiNmxAPSPmDW": {
+          "name": "Миссионерское предписание"
+        },
+        "B8H8RJKACN3PO3Li": {
+          "name": "Немезида"
+        },
+        "lFMWd6q7U3M6lOk1": {
+          "name": "Показная набожность"
+        },
+        "Bf6bNFmFfg6SehRR": {
+          "name": "Убийца псайкеров"
+        }
+      }
+    },
+    "SqYaDBXc2qdAoCeI": {
+      "name": "Лорд-комиссар — возможности",
+      "results": {
+        "xrmtO0yLQmkUnPbN": {
+          "name": "Семинария"
+        },
+        "FYDoA8kFby73KVVs": {
+          "name": "Церемониймейстер"
+        },
+        "wxh2I7N1YxGFtAzQ": {
+          "name": "Святилище Экклезиархии"
+        },
+        "mJ3yTD3hP1sNLMny": {
+          "name": "Военная академия"
+        },
+        "KxMeqbtatd98FlkR": {
+          "name": "Склад Муниторума"
+        },
+        "0j2hTC5MZBosN3oM": {
+          "name": "Поддержка псайкера"
+        },
+        "Wp7ddZZ68hg8C8Zk": {
+          "name": "Право на вербовку"
+        },
+        "bMQlruhcE4TyD628": {
+          "name": "Священные болтеры"
+        },
+        "b90KTtlNSFMPhlQS": {
+          "name": "Прикомандированные войска"
+        },
+        "0paqZsXDXkXCZY1D": {
+          "name": "Знаток оружия"
+        }
+      }
+    },
+    "duuev9Jb0LpeQHpW": {
+      "name": "Лорд-комиссар — слабости",
+      "results": {
+        "E0cutQptQ8tcSO15": {
+          "name": "Резкий характер"
+        },
+        "xXRUH27b1tIS45BO": {
+          "name": "Спорщик"
+        },
+        "7HEjbxylixKD755k": {
+          "name": "Постоянная бдительность!"
+        },
+        "TUbxAA2VBBomd6uh": {
+          "name": "Хвастун"
+        },
+        "uR1vWVChmvG41M0z": {
+          "name": "Догматик"
+        },
+        "As7PKtsuBr7Kgoaw": {
+          "name": "Драконовские законы"
+        },
+        "2Kl7Oni3tnZRJDae": {
+          "name": "Враг"
+        },
+        "XthMmcfTFyw9wiAf": {
+          "name": "Чти машинных духов"
+        },
+        "2IVX2z1TNKrOUpBh": {
+          "name": "Цель оправдывает средства"
+        },
+        "bxAMljezOd0A4DQ2": {
+          "name": "Немезида"
+        }
+      }
+    },
+    "XElsVtuAXbJyqkYT": {
+      "name": "Старший офицер — возможности",
+      "results": {
+        "BwFUwtc1Jg9MFibu": {
+          "name": "Поддержка с воздуха"
+        },
+        "t05BLoIcM2afkHu5": {
+          "name": "Астропатическая связь"
+        },
+        "fQ6JyZ7IMSxE9dTv": {
+          "name": "Разжигатель праведных войн"
+        },
+        "SBDpLKdbA44fFRqt": {
+          "name": "Военная академия"
+        },
+        "C6APmu2pAA3lBN2q": {
+          "name": "Госпиталь"
+        },
+        "YJ6xRDrBqXhxjHHp": {
+          "name": "Склад Муниторума"
+        },
+        "Bap5ok6S7FDAGX4e": {
+          "name": "Богатства Муниторума"
+        },
+        "iA8YIg6w8cHyzbDD": {
+          "name": "Право на вербовку"
+        },
+        "mbl3WCOiRLCorrKN": {
+          "name": "Стратегос Экстремис"
+        },
+        "eBaobroBug9NwOOp": {
+          "name": "Знаток оружия"
+        }
+      }
+    },
+    "M47BuuGzBR4n1QCQ": {
+      "name": "Старший офицер — слабости",
+      "results": {
+        "XUKvz3IZwJWqmrxq": {
+          "name": "Резкий характер"
+        },
+        "uYvfcpiKZDS03BV0": {
+          "name": "Враг"
+        },
+        "3fURZvoUDEuZAH4E": {
+          "name": "Блаженное неведение"
+        },
+        "8iAdTAsRZJLyVkr5": {
+          "name": "Чти машинных духов"
+        },
+        "shrtIgIJVphQV6nk": {
+          "name": "Известный интриган"
+        },
+        "qUUPniipB6XW98tJ": {
+          "name": "Грешен перед Омниссией"
+        },
+        "n3rLgbvivvMmRSZg": {
+          "name": "Много агентов, мало времени"
+        },
+        "4JYtbAAAkhqjGU9v": {
+          "name": "Убийца псайкеров"
+        },
+        "6MNYCEK60lAQKVwH": {
+          "name": "В поисках сторонников"
+        },
+        "eG6pB9VTix1l6FVM": {
+          "name": "Захват территорий"
+        }
+      }
+    },
+    "l98EdzkdrHcptPpw": {
+      "name": "Капитан пустотного корабля — возможности",
+      "results": {
+        "MyRbZlQQ7jqg8RSf": {
+          "name": "Поддержка с воздуха"
+        },
+        "cTTs5gi0SA1vi6ZT": {
+          "name": "Астропатическая связь"
+        },
+        "XZR9eRjguVXRbk0O": {
+          "name": "Связные в Картографике"
+        },
+        "62ceDwPiNmkgY257": {
+          "name": "Транспортная логистика"
+        },
+        "8K7aO3zvN6ASpd1r": {
+          "name": "Флотский десант"
+        },
+        "NrMdJBDVfUx3KWVc": {
+          "name": "Разжигатель праведных войн"
+        },
+        "8dDrI273MNUcPVu7": {
+          "name": "Склад Муниторума"
+        },
+        "mmcZL4Y2MpvzlEYF": {
+          "name": "Благородная кровь"
+        },
+        "nh7Ng2l1FThWALKN": {
+          "name": "Право на вербовку"
+        },
+        "uj3iHiIelFluFZVT": {
+          "name": "База подготовки пустоходов"
+        }
+      }
+    },
+    "akzAfKT77DHzy8zt": {
+      "name": "Капитан пустотного корабля — слабости",
+      "results": {
+        "GlDjJST2RGk4zdfD": {
+          "name": "Резкий характер"
+        },
+        "bLWg1NRkEwk44fUH": {
+          "name": "Спорщик"
+        },
+        "px8h70cO756ziWNF": {
+          "name": "Неудачная сделка"
+        },
+        "ZSvcDZtGiVS6ld5r": {
+          "name": "Догматик"
+        },
+        "jev7yA9pdQDCGFky": {
+          "name": "Враг"
+        },
+        "F9y1YYJjjDAfFEkU": {
+          "name": "Много агентов, мало времени"
+        },
+        "01mJtRZNba4RxTUa": {
+          "name": "Параноик"
+        },
+        "oxlWswyP3Covq9Vi": {
+          "name": "Показная набожность"
+        },
+        "w2VgYHIQp6qKnANM": {
+          "name": "В поисках сторонников"
+        },
+        "sbIZ5hLXTWHGGtYV": {
+          "name": "Сторонние заботы"
+        }
+      }
+    },
+    "cujPD9LekSVWaubu": {
+      "name": "Комендант порта — возможности",
+      "results": {
+        "MAblGqemQiEm9bAp": {
+          "name": "Астропатическая связь"
+        },
+        "6h74JFqMtaAAugsO": {
+          "name": "Ценитель прекрасного"
+        },
+        "oopYgXXV4b8fJvIW": {
+          "name": "Контрабандист"
+        },
+        "gPXBGB2oUN87Dlhz": {
+          "name": "Транспортная логистика"
+        },
+        "f3J9xGTyBQWx4Nez": {
+          "name": "Флотский десант"
+        },
+        "qj7LV6zSmbp9QQcR": {
+          "name": "Разжигатель праведных войн"
+        },
+        "OFks4pqo9L3pafAa": {
+          "name": "Нуль-санктум"
+        },
+        "NjaOfq6OwJDdJwMv": {
+          "name": "Право на вербовку"
+        },
+        "6hULIGZkDnNdlU97": {
+          "name": "Десятинная инспекция"
+        },
+        "APEZ0OvEWKZQzgWQ": {
+          "name": "База подготовки пустоходов"
+        }
+      }
+    },
+    "3OWgJVkMQ8AwrpwD": {
+      "name": "Комендант порта — слабости",
+      "results": {
+        "xHbZTFrM6Atl9g9i": {
+          "name": "Резкий характер"
+        },
+        "Y6Bp9q9XKbsME8fp": {
+          "name": "Спорщик"
+        },
+        "JQv4J6TG0Sanlig3": {
+          "name": "Жертва шантажа"
+        },
+        "NyxrHg418uU6p3Of": {
+          "name": "Неудачная сделка"
+        },
+        "5nfXwvXhzXDMAY3O": {
+          "name": "Враг"
+        },
+        "LajS8NS9PQZCWzcH": {
+          "name": "Много агентов, мало времени"
+        },
+        "vHGkdhSWMX2obDfa": {
+          "name": "В поисках сторонников"
+        },
+        "PNdrS6XUDvrBOgvn": {
+          "name": "Ревизионист"
+        },
+        "k25VBwSnhGXsihhl": {
+          "name": "Зыбкая власть"
+        },
+        "rpoq9nNwqzuMDmEp": {
+          "name": "Странные пристрастия"
+        }
+      }
+    },
+    "FPCbL5nE7gJHcIxy": {
+      "name": "Преступный гений — возможности",
+      "results": {
+        "YWBkFTV3CmqR2deo": {
+          "name": "Тайный союзник"
+        },
+        "jHImIfzpFJgeCHvM": {
+          "name": "Шантажист"
+        },
+        "6kh0nWsYuJbHDczH": {
+          "name": "Контрабандист"
+        },
+        "KQCKKQOpy7pQY5hr": {
+          "name": "Шпионская легенда"
+        },
+        "o4n0A7xwPQcjV2Y4": {
+          "name": "Поддельные документы"
+        },
+        "o4o1yFBhCcOyQNff": {
+          "name": "Банда"
+        },
+        "vuxUWf3WhgUF2ZVM": {
+          "name": "Санктум Обскурус"
+        },
+        "vW1fR9kBk4NNCVQI": {
+          "name": "Внедрённые осведомители"
+        },
+        "npeImVP9GH8ydrIS": {
+          "name": "Стратегос Экстремис"
+        },
+        "DD6CivjKZpicWR8U": {
+          "name": "Временные союзы"
+        }
+      }
+    },
+    "ATJij1IW7cY5XMPU": {
+      "name": "Преступный гений — слабости",
+      "results": {
+        "xjca8UPjjHqPzCcR": {
+          "name": "Резкий характер"
+        },
+        "2hnmKDzRoANPPuvZ": {
+          "name": "Порченный"
+        },
+        "73uW5E5HzlxhO9gr": {
+          "name": "Опасные долги"
+        },
+        "eVHqq452VONg32jA": {
+          "name": "Враг"
+        },
+        "Ow29ffJvb8W7QmBs": {
+          "name": "Отлучённый"
+        },
+        "99SKc0vv7wQzwSfJ": {
+          "name": "Параноик"
+        },
+        "9n0tFQx42vHarXU0": {
+          "name": "Диверсант"
+        },
+        "U0BOKSLpvQ3LJLkG": {
+          "name": "Дрянные припасы"
+        },
+        "y23Nt8tntM1vXS6e": {
+          "name": "Странные пристрастия"
+        },
+        "doWrPsQ7yRaPXgCX": {
+          "name": "Под подозрением"
+        }
+      }
+    },
+    "1D4yRRyryWJleGJb": {
+      "name": "Гильдмейстер — возможности",
+      "results": {
+        "YWBkFTV3CmqR2deo": {
+          "name": "Тайный союзник"
+        },
+        "jHImIfzpFJgeCHvM": {
+          "name": "Шантажист"
+        },
+        "6kh0nWsYuJbHDczH": {
+          "name": "Группа клерков"
+        },
+        "KQCKKQOpy7pQY5hr": {
+          "name": "Ценитель прекрасного"
+        },
+        "o4n0A7xwPQcjV2Y4": {
+          "name": "Поддельные документы"
+        },
+        "o4o1yFBhCcOyQNff": {
+          "name": "Банда"
+        },
+        "vuxUWf3WhgUF2ZVM": {
+          "name": "Управитель мануфакторума"
+        },
+        "vW1fR9kBk4NNCVQI": {
+          "name": "Благородная кровь"
+        },
+        "npeImVP9GH8ydrIS": {
+          "name": "Расходный материал"
+        },
+        "DD6CivjKZpicWR8U": {
+          "name": "Временные союзы"
+        }
+      }
+    },
+    "uFPld6CQnIhCpeeo": {
+      "name": "Гильдмейстер — слабости",
+      "results": {
+        "YWBkFTV3CmqR2deo": {
+          "name": "Резкий характер"
+        },
+        "jHImIfzpFJgeCHvM": {
+          "name": "Жертва шантажа"
+        },
+        "6kh0nWsYuJbHDczH": {
+          "name": "Трус"
+        },
+        "KQCKKQOpy7pQY5hr": {
+          "name": "Опасные долги"
+        },
+        "o4n0A7xwPQcjV2Y4": {
+          "name": "Враг"
+        },
+        "o4o1yFBhCcOyQNff": {
+          "name": "Одной ногой в могиле"
+        },
+        "vuxUWf3WhgUF2ZVM": {
+          "name": "Самозванец"
+        },
+        "vW1fR9kBk4NNCVQI": {
+          "name": "Цена жизни"
+        },
+        "npeImVP9GH8ydrIS": {
+          "name": "Зыбкая власть"
+        },
+        "DD6CivjKZpicWR8U": {
+          "name": "Странные пристрастия"
+        }
+      }
+    },
+    "CGK65Y3XBj5ZhdbW": {
+      "name": "Инквизитор Ордо Ксенос — возможности",
+      "results": {
+        "CjwsLa2B9Hw2hhOG": {
+          "name": "Тайный тренировочный лагерь Инквизиции"
+        },
+        "NauR0eJ0j3nqEGFz": {
+          "name": "Агентурная сеть"
+        },
+        "GL6G70RfaFhcEksK": {
+          "name": "Шпионская легенда"
+        },
+        "2gfwu69mx4UAcvSZ": {
+          "name": "Грозная слава"
+        },
+        "sDpqJGNVdnPylMKU": {
+          "name": "Оракул"
+        },
+        "ysq41UGYW3n3kK4h": {
+          "name": "Психическая защита"
+        },
+        "FiupZK7rG2abgPOr": {
+          "name": "Санктум Обскурус"
+        },
+        "P6mucJlTtsptDwOe": {
+          "name": "Внедрённые осведомители"
+        },
+        "S31UmIHCoTT7OfSe": {
+          "name": "Стратегос Экстремис"
+        },
+        "LfAhpfMob6C2DSh4": {
+          "name": "Ксенотехник"
+        }
+      }
+    },
+    "gdyycJTm8YbRmY4W": {
+      "name": "Инквизитор Ордо Ксенос — слабости",
+      "results": {
+        "82yegy8VN8AuwKSA": {
+          "name": "Резкий характер"
+        },
+        "fkLge0tqtyJ4XANH": {
+          "name": "Я вас не знаю"
+        },
+        "NyMINDtkF0CDboIo": {
+          "name": "Враг"
+        },
+        "4bzY2rkWf31BgeUt": {
+          "name": "Отлучённый"
+        },
+        "5DVrFOInYj2pEExW": {
+          "name": "Немезида"
+        },
+        "2YcrtvhlujjS84Vd": {
+          "name": "Грешен перед Омниссией"
+        },
+        "bLtmqXuJDdKu3M7X": {
+          "name": "Параноик"
+        },
+        "At5fPWu15VtWS71e": {
+          "name": "Слухи о смерти"
+        },
+        "rnRTwmDQmdnX6Io3": {
+          "name": "Необычные верования"
+        },
+        "4ykjGuG61J7bCwvv": {
+          "name": "Видения Варпа"
+        }
+      }
+    },
+    "QKjKcyPwpNoPEdEl": {
+      "name": "Инквизитор Ордо Еретикус — возможности",
+      "results": {
+        "FtVZ6vfeJiF8rzWN": {
+          "name": "Тайный тренировочный лагерь Инквизиции"
+        },
+        "KiOnk2GqzTYkx160": {
+          "name": "Агентурная сеть"
+        },
+        "7XSd83OEPhxhYQlf": {
+          "name": "Шпионская легенда"
+        },
+        "CgRLOzQON7MaW3IJ": {
+          "name": "Доступ в инфохранилище"
+        },
+        "Dn6hxhfL906UnpQd": {
+          "name": "Грозная слава"
+        },
+        "5JAmZZzD2VFgQi2J": {
+          "name": "Психическая защита"
+        },
+        "Fr5MvBZPR0z4BDUe": {
+          "name": "Санктум Обскурус"
+        },
+        "GYknurqxx2zsmVvh": {
+          "name": "Внедрённые осведомители"
+        },
+        "51XjHtAWeYqqbdps": {
+          "name": "Стратегос Экстремис"
+        },
+        "dtSVh3ECsFW0Ee3u": {
+          "name": "Охота на ведьм"
+        }
+      }
+    },
+    "GCnoN9Da0skYz497": {
+      "name": "Инквизитор Ордо Еретикус — слабости",
+      "results": {
+        "Nlj3EYv0nwpIyBhO": {
+          "name": "Резкий характер"
+        },
+        "q5uhUlpibVdQAUfU": {
+          "name": "Постоянная бдительность!"
+        },
+        "YZ4bUDae7apNk9NN": {
+          "name": "Сложные каналы связи"
+        },
+        "ua2OhSeN42iAR1Ms": {
+          "name": "Я вас не знаю"
+        },
+        "tOQ47iDaYlF4tS06": {
+          "name": "Враг"
+        },
+        "58NKtqZjUCLzccrG": {
+          "name": "Немезида"
+        },
+        "fGD8D2VV3zkvBYZd": {
+          "name": "Параноик"
+        },
+        "XsfCnSHZ7eqlGwWO": {
+          "name": "Убийца псайкеров"
+        },
+        "CuddilufbL21N3Bw": {
+          "name": "Сторонние заботы"
+        },
+        "Rv3mRi6npGkfm8w9": {
+          "name": "Охотник на ведьм"
+        }
+      }
+    },
+    "FnRODDXuLJSfuG20": {
+      "name": "Дипломат — возможности",
+      "results": {
+        "Dabr2RXDPWshpA7w": {
+          "name": "Астропатическая связь"
+        },
+        "cMVbvyjJ4FoLgUkb": {
+          "name": "Тайный союзник"
+        },
+        "eSKalp8O0QXIlrBU": {
+          "name": "Шантажист"
+        },
+        "gpsztoPUKKkTlcFh": {
+          "name": "Связные в Картографике"
+        },
+        "UZTVHbA2czjkwwLb": {
+          "name": "Контрабандист"
+        },
+        "K19AmhtFMTMc84OR": {
+          "name": "Запретный архив"
+        },
+        "Iz3blhsFKMV0LDVQ": {
+          "name": "Роскошь"
+        },
+        "5BWiNJKiPvMmvouA": {
+          "name": "Зарегистрированный торговец"
+        },
+        "xPpCk0ZFWZ5wskW6": {
+          "name": "Временные союзы"
+        },
+        "eX3bVs9uTZrGsXMN": {
+          "name": "Ксенотехник"
+        }
+      }
+    },
+    "MvHVVwNYVcubYnbD": {
+      "name": "Дипломат — слабости",
+      "results": {
+        "kfE84fuW58bH5rKp": {
+          "name": "Резкий характер"
+        },
+        "awEdPM0LVyFCVTII": {
+          "name": "Хвастун"
+        },
+        "VF3Uw64dkT5ZG1yF": {
+          "name": "Трус"
+        },
+        "SvfCZ4EkphiUzvm7": {
+          "name": "Неудачная сделка"
+        },
+        "Qv2qaOxZGxRP2rtt": {
+          "name": "Враг"
+        },
+        "6mitvepCs7nmbed6": {
+          "name": "Цель оправдывает средства"
+        },
+        "gAd9qFYU90OKgetJ": {
+          "name": "Миссионерское предписание"
+        },
+        "FIu0QmScY88gzgzD": {
+          "name": "Параноик"
+        },
+        "0EXRJRub0AdSJQi7": {
+          "name": "Цена жизни"
+        },
+        "SNkwJxvROtmV8VZ1": {
+          "name": "Слухи о смерти"
+        }
+      }
+    },
+    "jS692ozas2GdVQeT": {
+      "name": "Торговец-милитант — возможности",
+      "results": {
+        "QOppsyt0ULjz3tuP": {
+          "name": "Поддержка с воздуха"
+        },
+        "0FJ2EKQPZIUUQPj2": {
+          "name": "Связные в Картографике"
+        },
+        "QH2dmUV1m6lqN9uC": {
+          "name": "Ценитель прекрасного"
+        },
+        "leOg18CskafoR1mb": {
+          "name": "Контрабандист"
+        },
+        "F5GlUIogZeM9XWih": {
+          "name": "Флотский десант"
+        },
+        "whCV6SxbsVpUoig2": {
+          "name": "Разжигатель праведных войн"
+        },
+        "wWMNpPOAxhd5pXeU": {
+          "name": "Военная академия"
+        },
+        "wA4f8SUQnY3NMZ5o": {
+          "name": "Роскошь"
+        },
+        "c3Dn19vcMUXqCCGg": {
+          "name": "Изысканные доспехи"
+        },
+        "k2ktxHHbIZyK18Ap": {
+          "name": "Зарегистрированный торговец"
+        }
+      }
+    },
+    "mfmmbkSRfFEsepuw": {
+      "name": "Торговец-милитант — слабости",
+      "results": {
+        "NrUPfVQ8xIfUGEPt": {
+          "name": "Резкий характер"
+        },
+        "iXd78AXoECtUQ3Mu": {
+          "name": "Спорщик"
+        },
+        "M6IBvVJTqfnLGHq4": {
+          "name": "Хвастун"
+        },
+        "FeyHP5LebwsDKmSp": {
+          "name": "Опасные долги"
+        },
+        "rfA37IH7DGoS3x2b": {
+          "name": "Враг"
+        },
+        "8uoojmKXVNtFPTBq": {
+          "name": "Цель оправдывает средства"
+        },
+        "hfwuqJzejq9mb8j1": {
+          "name": "Слухи о смерти"
+        },
+        "Mf03n6UTeOQBJidD": {
+          "name": "Странные пристрастия"
+        },
+        "1lL4bEjHxUY4WQYu": {
+          "name": "Захват территорий"
+        },
+        "orBMAV00Slt5R4YL": {
+          "name": "Необычные верования"
+        }
+      }
+    },
+    "dvsiB3K8ezHI8F7M": {
+      "name": "Критические раны головы",
+      "results": {
+        "D5dxpBlOeyP7wRjT": {
+          "name": "Синяк"
+        },
+        "AJR5qJpUOave7OF4": {
+          "name": "Сильный удар"
+        },
+        "3R7yfKmbcufOTn0E": {
+          "name": "Рваная рана"
+        },
+        "NhDsMlXSs7FAD0DJ": {
+          "name": "Отсечённое ухо"
+        },
+        "7725lRp9bdTknHPC": {
+          "name": "Вывихнутая челюсть"
+        },
+        "LuaSNknOC3lLhX5x": {
+          "name": "Удар в лоб"
+        },
+        "nMVViNb4PSNemUWz": {
+          "name": "Повреждение глаза"
+        },
+        "1XtoTWlogCvJqsSC": {
+          "name": "Повреждение уха"
+        },
+        "H7Um2ktuXwoTUS3a": {
+          "name": "Выбитые зубы"
+        },
+        "LjgF3dCCJbEC1PY7": {
+          "name": "Сломанный нос"
+        },
+        "xLWxDaCVb9l81LQj": {
+          "name": "Изуродованное ухо"
+        },
+        "PpDozoALsrO7BtlD": {
+          "name": "Оглушающий удар"
+        },
+        "iL5AFarvgUr2Dhsa": {
+          "name": "Вытекший глаз"
+        },
+        "nbWcONa6VQfHFdpo": {
+          "name": "Выбитая челюсть"
+        },
+        "sBkITatY1Ywv3D5V": {
+          "name": "Расколотый череп"
+        }
+      }
+    },
+    "7PZdfk0TRBPDr0QR": {
+      "name": "Критические раны руки",
+      "results": {
+        "bfjgvn3MTAZou7dh": {
+          "name": "Вывернутый сустав"
+        },
+        "DDrjv6qHbcT8zohI": {
+          "name": "Омертвевшая рука"
+        },
+        "JqUGWxhSrUtSEcY3": {
+          "name": "Рваная рана"
+        },
+        "97r875e8FsJM912i": {
+          "name": "Раненая кисть"
+        },
+        "uVJTZ60vndWzt9wI": {
+          "name": "Выбитое плечо"
+        },
+        "Zez2InN9HkNNP4DY": {
+          "name": "Отсечённый палец"
+        },
+        "mYdjJMfivWepKqjT": {
+          "name": "Чистый перелом"
+        },
+        "NMA0FtOwqqOXG9Pv": {
+          "name": "Глубокая рана"
+        },
+        "lk8tH3uQm2sIlnYT": {
+          "name": "Изуродованная кисть"
+        },
+        "3ZY168sZvgiYJPHn": {
+          "name": "Разбитый локоть"
+        },
+        "w3pbBP9zbHnXpAvk": {
+          "name": "Рассечённая кисть"
+        },
+        "tvAgCTYIBY3JpToW": {
+          "name": "Разрубленные артерии"
+        },
+        "XF8YgLokZYTVtHsX": {
+          "name": "Отсечённая кисть"
+        },
+        "iclCJbKnFxVCP4s7": {
+          "name": "Оторванная рука"
+        },
+        "Bp1785iTFPUBudrw": {
+          "name": "Жестокое расчленение"
+        }
+      }
+    },
+    "kCP63j7ZWPVquLqW": {
+      "name": "Критические раны торса",
+      "results": {
+        "SxlRjDS21h6EMQGF": {
+          "name": "Сбитое дыхание"
+        },
+        "tLWhzsunHvbHLGFg": {
+          "name": "Прямо под дых"
+        },
+        "uYmgHGLiM1RsPoSl": {
+          "name": "Рваная рана"
+        },
+        "GJLpk8XMh6PP4zWw": {
+          "name": "Удар в живот"
+        },
+        "vxk04dzPPJ6Hl3rr": {
+          "name": "Треснувшее ребро"
+        },
+        "bdhZxRhl143DK4h1": {
+          "name": "Сокрушительный удар"
+        },
+        "hTESyRVKOELF1kMe": {
+          "name": "Сломанная ключица"
+        },
+        "UO7T7N1M3DdGeHqW": {
+          "name": "Глубокая рана"
+        },
+        "xnfBqubKCrMffIQ4": {
+          "name": "Треснувшее бедро"
+        },
+        "0gFwqhRrf52O2trC": {
+          "name": "Сломанные рёбра"
+        },
+        "I5KDGt7LHc7aukx7": {
+          "name": "Пробитые лёгкие"
+        },
+        "iYGa6veziMYm767E": {
+          "name": "Разрубленные артерии"
+        },
+        "zlTcEKYp8sYvfbJ2": {
+          "name": "Свежевание"
+        },
+        "jpxiJ8wfw7Pt6e9O": {
+          "name": "Сломанный позвоночник"
+        },
+        "lx3m34bridgdUvQ7": {
+          "name": "Четвертование"
+        }
+      }
+    },
+    "2GOSTiyV8FH51YD2": {
+      "name": "Критические раны ноги",
+      "results": {
+        "ZhwB8p5s0eThF0jw": {
+          "name": "Подвёрнутая лодыжка"
+        },
+        "l9LkDgUCLq0TlCBF": {
+          "name": "Омертвевшая нога"
+        },
+        "iYorUrG3rx5uYmvg": {
+          "name": "Рваная рана"
+        },
+        "59plbPeFDUbGbtXj": {
+          "name": "Раненая икра"
+        },
+        "5xLL5ZfjeMXt79em": {
+          "name": "Выбитое колено"
+        },
+        "MZyN0HQsK6UYSJcu": {
+          "name": "Отсечённый палец ноги"
+        },
+        "x4tPzWL4bDizBF1U": {
+          "name": "Чистый перелом"
+        },
+        "qkWDvYuJnb2dnNLE": {
+          "name": "Глубокая рана"
+        },
+        "vWCfzXDwEtc5rrXN": {
+          "name": "Изуродованная стопа"
+        },
+        "HmTjebm0evDtNV0q": {
+          "name": "Разбитое колено"
+        },
+        "KSYwiv3jTPEGqGnf": {
+          "name": "Рассечённая стопа"
+        },
+        "zYdV1jSvs4LimtCB": {
+          "name": "Разрубленные артерии"
+        },
+        "uYiBfwQyYVKtgEeX": {
+          "name": "Отсечённая стопа"
+        },
+        "G5FBgyUFFfyNgFJ2": {
+          "name": "Оторванная нога"
+        },
+        "rOlN05063hs0a2MB": {
+          "name": "Жестокое расчленение"
+        }
+      }
+    },
+    "aHz4wSCM8ogTVOhT": {
+      "name": "Мутации",
+      "results": {
+        "JFdfttQ7H2gJZ5QZ": {
+          "name": "Ведьмина метка"
+        },
+        "QNFUyoXfS9SIOCCC": {
+          "name": "Иссохшее тело"
+        },
+        "1KMHdRQj02WsNXaa": {
+          "name": "Хлёсткие щупальца"
+        },
+        "1wDdYB56TB8F0yHU": {
+          "name": "Нечеловеческая красота"
+        },
+        "oSSItqrE1kdNBWIR": {
+          "name": "Железная кожа"
+        },
+        "fBSvKpHzvlhIh7Kw": {
+          "name": "Новый рот"
+        },
+        "Bk0c0dnOaRWfDpzT": {
+          "name": "Едкая кровь"
+        },
+        "Z4QDii28ZoYUEBG9": {
+          "name": "Живая тень"
+        },
+        "IlPFZeqAM3YFJv92": {
+          "name": "Раздутый зверь"
+        },
+        "lRCH8QALVgY3mDFm": {
+          "name": "Лишний глаз"
+        },
+        "DnfjlVJDvU6Oykwd": {
+          "name": "Изогнутые рога"
+        },
+        "9Z4PHCISfkQf9QfG": {
+          "name": "Демонический облик"
+        },
+        "CJlKee03vhjcIJSH": {
+          "name": "Пальцеходящие ноги"
+        },
+        "W3MklBOKxZVE2j6T": {
+          "name": "Перья"
+        },
+        "Vu0rDQwjI1YD4NxO": {
+          "name": "Варповы когти"
+        },
+        "I9eySsSOF9XhFzj7": {
+          "name": "Световая непоследовательность"
+        },
+        "qRkNTGZYIRlyBbzf": {
+          "name": "Гноящаяся рана"
+        },
+        "herh7nTNd0z68WBA": {
+          "name": "Распухший язык"
+        },
+        "JeAIvp3v1uMP7SbN": {
+          "name": "Металлическая плоть"
+        },
+        "3u67OcBxXuhJ54NX": {
+          "name": "Исцеление Варпом"
+        }
+      }
+    },
+    "AJC7cYdzY3rIHZWm": {
+      "name": "Осквернения",
+      "results": {
+        "JFdfttQ7H2gJZ5QZ": {
+          "name": "Чёрное сердце"
+        },
+        "QNFUyoXfS9SIOCCC": {
+          "name": "Ненормальный аппетит"
+        },
+        "1KMHdRQj02WsNXaa": {
+          "name": "Мания"
+        },
+        "1wDdYB56TB8F0yHU": {
+          "name": "Сглаз"
+        },
+        "oSSItqrE1kdNBWIR": {
+          "name": "Подозрительная дурнота"
+        },
+        "fBSvKpHzvlhIh7Kw": {
+          "name": "Неизбывная паранойя"
+        },
+        "Bk0c0dnOaRWfDpzT": {
+          "name": "Тёмный шёпот"
+        },
+        "Z4QDii28ZoYUEBG9": {
+          "name": "Фантомные воспоминания"
+        },
+        "IlPFZeqAM3YFJv92": {
+          "name": "Необъяснимый страх"
+        },
+        "lRCH8QALVgY3mDFm": {
+          "name": "Обмороки"
+        },
+        "DnfjlVJDvU6Oykwd": {
+          "name": "Очарование смерти"
+        },
+        "9Z4PHCISfkQf9QfG": {
+          "name": "Колёса внутри колёс"
+        },
+        "CJlKee03vhjcIJSH": {
+          "name": "Бесконечный зуд"
+        },
+        "W3MklBOKxZVE2j6T": {
+          "name": "Чутьё Варпа"
+        },
+        "Vu0rDQwjI1YD4NxO": {
+          "name": "Глаза"
+        },
+        "I9eySsSOF9XhFzj7": {
+          "name": "Взгляд в пустоту"
+        },
+        "qRkNTGZYIRlyBbzf": {
+          "name": "Вкус пепла"
+        },
+        "herh7nTNd0z68WBA": {
+          "name": "Тёмные видения"
+        },
+        "JeAIvp3v1uMP7SbN": {
+          "name": "Покровитель из Варпа"
+        },
+        "3u67OcBxXuhJ54NX": {
+          "name": "Психическое пробуждение"
+        }
+      }
+    },
+    "nyaEnNOrR8Sq8Wf4": {
+      "name": "Происхождение",
+      "results": {
+        "tKqMP9CWbf3LH26w": {
+          "name": "Агромир"
+        },
+        "pkbVbhYRVboN1tvn": {
+          "name": "Дикий мир"
+        },
+        "Mmyp21yiwfwL2zXW": {
+          "name": "Феодальный мир"
+        },
+        "vWhAR8NDC57sAgX2": {
+          "name": "Мир-кузница"
+        },
+        "Ht9ESBF9mnTOvkbA": {
+          "name": "Мир-улей"
+        },
+        "TPHNYNxUlQoRnEsN": {
+          "name": "Схола Прогениум"
+        },
+        "nErjnaUDdGgODH5h": {
+          "name": "Мир-храм"
+        },
+        "japoyPD67937K2cq": {
+          "name": "Пустота"
+        }
+      }
+    },
+    "9SLhM8FOgluaUwvO": {
+      "name": "Случайные таланты",
+      "results": {
+        "ZcESXFpRrEerCsjf": {
+          "name": "Обострённые чувства"
+        },
+        "ndRqB33XYIPnJK7l": {
+          "name": "Прилив адреналина"
+        },
+        "ktYCdVtAKdahtRb3": {
+          "name": "Амбидекстрия"
+        },
+        "2UiAvLWhnSVQPDpi": {
+          "name": "Человек искусства"
+        },
+        "bA39rbflnbNT8dsP": {
+          "name": "Готическая тарабарщина"
+        },
+        "QvMEDX0yBXuuaLFN": {
+          "name": "Потайные карманы"
+        },
+        "ZwIXbqQKOiZFFWa0": {
+          "name": "Человек-змея"
+        },
+        "S3W8rukrGTvmsRb4": {
+          "name": "Бесцеремонный"
+        },
+        "aL5MMSCVJPP6POpU": {
+          "name": "Пугающий голос"
+        },
+        "JMdYKRFa5UVF5LNY": {
+          "name": "Идеальная память"
+        },
+        "2rV6CI9tqBtSvA7B": {
+          "name": "Я здесь как дома"
+        },
+        "8dRuX8XBnlDPo67r": {
+          "name": "Избранник судьбы"
+        },
+        "FraaE5JfshJRMBkv": {
+          "name": "Флагеллант"
+        },
+        "3Dd84obXzrO8NxW1": {
+          "name": "Запретные тайны"
+        },
+        "kNmkkfHkkA52EY6D": {
+          "name": "Неистовство"
+        },
+        "XtJMVcNbxytLCiut": {
+          "name": "Ненависть"
+        },
+        "BZgawMtysAoX45xZ": {
+          "name": "Подхалим"
+        },
+        "naiiOJstTk1Ve6hm": {
+          "name": "Наследник"
+        },
+        "iCrm0CjrhnrRjCpS": {
+          "name": "Вторая личность"
+        },
+        "fvym7BGAXG9lqsk3": {
+          "name": "Живучий"
+        },
+        "fc5ZFTySJF1xA0OS": {
+          "name": "Непримечательный"
+        },
+        "ZTgKlm2Qc0imKk49": {
+          "name": "Честный труженик"
+        },
+        "dFGHrckpg7p1FNDt": {
+          "name": "Походка пустохода"
+        },
+        "OnYdBSr5rds3PyhB": {
+          "name": "Хорошая подготовка"
+        }
+      }
+    },
+    "vl9saE1Hpu48qsLd": {
+      "name": "Служба покровителя",
+      "results": {
+        "0CVjevipH0LAnH8h": {
+          "name": "Адептус Администратум"
+        },
+        "vfi9Ffx9FiapMky9": {
+          "name": "Адептус Астра Телепатика"
+        },
+        "eabJ1C92UxJKnAnx": {
+          "name": "Адептус Механикус"
+        },
+        "81fHzMO7CB0hODSw": {
+          "name": "Адептус Министорум"
+        },
+        "ltxX8ebOVzCxLwz7": {
+          "name": "Астра Милитарум"
+        },
+        "1h6JYsqaPqIGJoSw": {
+          "name": "Имперские флотилии"
+        },
+        "hY7OLnoaUiWFBoA5": {
+          "name": "Одиночки"
+        },
+        "Nutk1UlQ7fnfIq66": {
+          "name": "Династии вольных торговцев"
+        },
+        "F9fBxVa6gF9m1mhl": {
+          "name": "Инквизиция"
+        }
+      }
+    },
+    "9aSbu2mswOOI43J1": {
+      "name": "Психические феномены",
+      "results": {
+        "1D4FHXExRsByonOy": {
+          "description": "<p><strong>Изморозь:</strong> всё вокруг покрывается инеем. Изо рта у людей вырывается пар, а сверхъестественный холод пробирает даже через самую тёплую одежду и броню.</p><p><strong>Аномалия:</strong> феномен становится постоянным. Область можно временно обогреть, но энтропия возьмёт своё, и могильный хлад вернётся.</p>"
+        },
+        "ZpHl1dRkQAjiqpkN": {
+          "description": "<p><strong>Вой баньши:</strong> вокруг раздаётся протяжный вопль, периодически не позволяющий слышать что-либо ещё.</p><p><strong>Аномалия:</strong> оглушительные вопли раздаются каждый день. Всем, кто слышит этот голос, он кажется знакомым.</p>"
+        },
+        "2cj0WXU6xFQAyTx9": {
+          "description": "<p><strong>Кровавые слёзы:</strong> картины, иконы, статуи и другие изображения вокруг начинают плакать кровью.</p><p><strong>Аномалия:</strong> кровавый плач становится постоянным. Выпивший эту кровь испытает ужасные вещие сны.</p>"
+        },
+        "gIwyDdFIzBTUMeX0": {
+          "description": "<p><strong>Кража дыхания:</strong> у всех присутствующих воздух будто вытягивают из лёгких. Персонажи в этой зоне должны пройти <strong>среднюю (+0) проверку Стойкости (Неустанность)</strong> или получить @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Оглушение} на один раунд.</p><p><strong>Аномалия:</strong> воздух вокруг становится мёртвым — им очень трудно дышать. Считается, что эта зона постоянно находится под воздействием @UUID[Compendium.impmal-core.items.Item.OjLq7yDUPG8TpISi]{удушающей гранаты}.</p>"
+        },
+        "dHTBFn3GSEASBwo5": {
+          "description": "<p><strong>Тёмное предвестие:</strong> вокруг вас проносится лёгкий ветер, принося с собой ощущение безымянного ужаса.</p><p><strong>Аномалия:</strong> это место навсегда остаётся пугающим. Персонажи, входящие в него, должны пройти <strong>среднюю (+0) проверку Дисциплины (Страх)</strong> или их охватит Страх.</p>"
+        },
+        "xcqHmfozewqgttk9": {
+          "description": "<p><strong>Искажённое отражение:</strong> отражающие поверхности вокруг искажают то, что в них виднеется, будто показывая уродливую и пугающую версию реальности.</p><p><strong>Аномалия:</strong> такие поверхности вокруг перестают отражать жизнь и наполняются странными образами, в которых можно черпать нечестивое вдохновение.</p>"
+        },
+        "W1EEzksvpa23RXAS": {
+          "description": "<p><strong>Падение вверх:</strong> на несколько секунд гравитация обращается вспять. Персонажи в этой зоне должны пройти <strong>среднюю (+0) проверку Рефлексов (Акробатика)</strong> или упадут с высоты десяти метров.</p><p><strong>Аномалия:</strong> в этой зоне постоянно и непредсказуемо искажается гравитация. Повышенная сила тяжести накладывает на персонажей состояние @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#overburdened]{Перегрузка}. Порой она резко сменяется на описанное выше падение вверх.</p>"
+        },
+        "tC0ZfXqZQvMeslWx": {
+          "description": "<p><strong>Могильный хлад:</strong> всё вокруг становится очень холодным, а изо рта у людей вырывается пар.</p><p><strong>Аномалия:</strong> это место остаётся холодным, как ни пытайся его обогреть — см. правила @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE#exposure]{холода}.</p>"
+        },
+        "BBXVgoXS6vQGLvsC": {
+          "description": "<p><strong>Червь памяти:</strong> все вокруг понимают, что им очень трудно вспомнить имена людей, который сейчас час и другие мелочи.</p><p><strong>Аномалия:</strong> это место становится очагом забывчивости. Здесь очень трудно что-либо вспомнить, а если провести тут больше часа, можно забыть что-то важное.</p>"
+        },
+        "eC6gflOc0yc7yae7": {
+          "description": "<p><strong>Нарастающая паранойя:</strong> все вокруг внезапно осознают, что за ними следят.</p><p><strong>Аномалия:</strong> это место окутывает дух недоверия и паранойи. Любой, кто проведёт здесь больше часа, начнёт подозревать злокозненные замыслы во всех вокруг.</p>"
+        },
+        "ZQMQ9mLBE7QQM745": {
+          "description": "<p><strong>Гниль и разложение:</strong> все способные портиться товары вокруг теряют свежесть и вкус, а насекомые и мелкие животные погибают.</p><p><strong>Аномалия:</strong> вокруг воцаряется постоянный запах гнили. Живые растения, маленькие животные и продукты умирают или сгнивают здесь за несколько часов, а вокруг начинают распространяться новые болезни.</p>"
+        },
+        "61YrX15CQ8FErtT0": {
+          "description": "<p><strong>Вуаль тьмы:</strong> все источники света тускнеют, отчего зона получает свойство @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#poorly-lit]{Скверное освещение}.</p><p><strong>Аномалия:</strong> это потемнение никогда не пройдёт.</p>"
+        },
+        "Fldt6FZiAarHAk0F": {
+          "description": "<p><strong>Варпово эхо:</strong> все в этой зоне слышат голоса и звуки из прошлого и не свершившегося грядущего. Персонажи, слушающие эту безумную какофонию, должны пройти <strong>среднюю (+0) проверку Дисциплины</strong> или получат @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Оглушение}.</p><p><strong>Аномалия:</strong> шёпот и едва слышные голоса не утихнут здесь никогда. Они могут сообщить слушателям что-то важное или сбить их с верного пути.</p>"
+        },
+        "NaC7gOlyAp1rw2xD": {
+          "description": "<p><strong>Психический прорыв:</strong> сделайте ещё один бросок по этой таблице. Результаты 101+ перебрасывайте. Примените и обычное воздействие феномена, и аномалию.</p>"
+        },
+        "4FIGnbhrznzpo7Fv": {
+          "description": "<p><strong>Прорыв Варпа:</strong> случается нечто ужасное. Сделайте бросок по @UUID[RollTable.2YYlAUyaVIt4bZVa]{таблице прорывов Варпа}, как будто вы провалили проверку на контроль накопленных варп-зарядов.</p>"
+        }
+      }
+    },
+    "2YYlAUyaVIt4bZVa": {
+      "name": "Прорывы Варпа",
+      "results": {
+        "YoVL9TqMQjICU4Su": {
+          "description": "<p><strong>Испуг:</strong> в Варпе вы замечаете неверный отблеск чего-то, что вызывает у вас мурашки. Вы получаете состояние @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Страх (Малый)}.</p>"
+        },
+        "ajR20Vs554SuBy6l": {
+          "description": "<p><strong>Стиснутые зубы:</strong> энергия Варпа проносится сквозь вас. Вы получаете три раны.</p>"
+        },
+        "VKLQYfn7ayYvRaRD": {
+          "description": "<p><strong>Психический разряд:</strong> все оснащённые батареями устройства у вас — батареи для лазганов, инфопланшеты, вокс-вещатели — немедленно разряжаются. Их потребуется перезарядить или починить.</p>"
+        },
+        "zKWy6aCJTQ8xrvi7": {
+          "description": "<p><strong>Каскад света:</strong> энергии Варпа излучаются из вас в виде лучей радужного света. Все персонажи на ближней дистанции получают попадание, что наносит [[1d10+6]] единиц урона. От этого попадания можно уклониться, как если бы это была стрелковая атака, что набрала один успех.</p>"
+        },
+        "LsBJN1xGAGPn6o79": {
+          "description": "<p><strong>Ответный удар:</strong> в вашем разуме всплывает сполох энергии Варпа, отчего вас шатает. Вы получаете состояние @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Оглушение}.</p>"
+        },
+        "ChtsWPxcffQevnCD": {
+          "description": "<p><strong>Украденный язык:</strong> прихоть Варпа лишает вас способности говорить на [[1d10]] часов.</p>"
+        },
+        "ZQF5aCEQvUDcTqpy": {
+          "description": "<p><strong>Светочувствительность:</strong> на [[1d10]] часов вы становитесь очень чувствительны к свету и можете легко видеть почти в кромешной тьме. Вы не страдаете от свойств @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#obscured]{Марево} или @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#poorly-lit]{Скверное освещение}, но получите состояние @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#blinded]{Слепота}, если окажетесь в зоне без этих черт на ярком свету.</p>"
+        },
+        "RH1zt9qhzvXcfznF": {
+          "description": "<p><strong>Искажение тела:</strong> какой-то элемент вашей внешности незаметно, но навечно меняется — глаза, цвет волос, рост, походка. Подробности определяет ведущий.</p>"
+        },
+        "uk5LDiTznO4bK0Gy": {
+          "description": "<p><strong>Мучительные крики:</strong> вы кричите, когда кошмарные видения Варпа искажают ваш разум. Вы получаете состояние @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Оглушение} и считаетесь прикоснувшимся к @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.PuzopCeKzYgcYAwh#moderate-exposure]{среднему источнику порчи}.</p>"
+        },
+        "aj3NDwAvc8fQH4ca": {
+          "description": "<p><strong>Ожог души:</strong> сила Варпа проходит через ваше тело, оставляя вечный шрам на душе. Следующие [[1d10]] часов вы не можете творить психосилы.</p>"
+        },
+        "aXvODppppvj5B7BM": {
+          "description": "<p><strong>Заперт внутри себя:</strong> энергии Варпа струятся по вашему телу, не давая вам управлять им. На [[1d10]] раундов вы обездвижены незримой сущностью с Силой 50.</p>"
+        },
+        "EG3kGlqoIMS29505": {
+          "description": "<p><strong>Оглушительный взрыв:</strong> близкий разрыв энергий Варпа — и вы теряете сознание. Все персонажи на ближней дистанции от вас должны пройти <strong>среднюю (+0) проверку Стойкости</strong> или получат состояние @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Оглушение}.</p>"
+        },
+        "Krc9O4xtjdHKievi": {
+          "description": "<p><strong>Кровавый дождь:</strong> разражается сверхъестественная психическая буря, и всю зону окатывает ливень крови. Также все психосилы, используемые в пределах области, приносят вдвое больше варп-зарядов.</p>"
+        },
+        "9tgvrDc8OrA7ulBn": {
+          "description": "<p><strong>Выпадение времени:</strong> ход времени вокруг вас искажается, и вас бросает на [[1d10]] раундов в будущее. С точки зрения окружающих вы пропадаете на [[1d10]] раундов.</p>"
+        },
+        "sT3N6KbuUn1sBoLG": {
+          "description": "<p><strong>Явление демона:</strong> из Варпа является демон и оказывается на ближней дистанции от вас. Бросьте к10 — на 1–3 это будет @UUID[Compendium.impmal-core.actors.Actor.4bhFOh1nTrYloc8s]{чумоносец}, на 4–6 @UUID[Compendium.impmal-core.actors.Actor.r38KjnD2RWhYIykh]{кровопускатель}, на 7–8 @UUID[Compendium.impmal-core.actors.Actor.xzqdh2P5F2c7QpVm]{демонетка}, а на 9–10 @UUID[Compendium.impmal-core.actors.Actor.CAvzgSBWrbnHu8zi]{розовый ужас}.</p>"
+        },
+        "CVkap9Q2lCwYMtJe": {
+          "description": "<p><strong>Катастрофический взрыв:</strong> энергии Имматериума изливаются из вас сверкающими лентами. Вы и все персонажи на ближней дистанции получаете попадание, что наносит 3к10 единиц энергетического урона. Всё ваше снаряжение уничтожено, а вы остаётесь в центре дымящегося кратера.</p>"
+        },
+        "CpHuDEQv8glEJ9SV": {
+          "description": "<p><strong>Массовая одержимость:</strong> вы кричите на ненормальном, еретическом языке, чувствуя, как демоны пытаются использовать вас как врата в тварный мир. Бросайте 1к10 в начале каждого вашего хода — на 8+ это прекращается. Пока одержимость действует, вы не можете совершать движение и должны тратить действие на отпор демонической орде. Пока демоны не отступят, вы будете источником порчи средней величины.</p>"
+        },
+        "rULXqFJ7d8otKbHH": {
+          "description": "<p><strong>Демонхост:</strong> вы должны немедленно пройти <strong>очень сложную (−30) проверку Дисциплины</strong> или уступить демонической одержимости. Что именно произойдёт — решать ведущему, но сущность в вашем теле наверняка набросится на ваших соратников. Хотя фактически вы уже мертвы, уничтожение демонхоста может освободить вашу душу, если не спасти жизнь.</p>"
+        },
+        "XR3RA1AiZsqxco7I": {
+          "description": "<p><strong>Око Ужаса:</strong> распахиваются большие врата в Имматериум, и через них в мир ступает нечто ужасное. Что именно — решать ведущему, но великий демон, появившийся из портала, или космический скиталец, вышедший на орбиту планеты, будут уместными вариантами.</p>"
+        }
+      }
+    }
+  }
+}

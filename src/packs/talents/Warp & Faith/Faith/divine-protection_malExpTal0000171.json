@@ -1,0 +1,59 @@
+{
+  "name": "Divine Protection",
+  "type": "talent",
+  "_id": "malExpTal0000171",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Spread attacks only hits enemies</span></p><hr><p><span style=\"font-family: Arial\"><em>Those who hunt the witch and mutant prefer to use cleansing fire to purify their unclean enemies, using it even when allies are in the line of fire, yet miraculously leaving them unaffected. When you attack using a weapon with the Spread quality, it only strikes enemies within the area of effect; the attack does not harm allies.  </em></span></p>",
+      "gm": "Talent Category: Faith"
+    },
+    "requirement": {
+      "value": "Faithful (Imperial Cult) Talent, 1 Advance in Discipline and 2 Advances in Ranged",
+      "script": "return this.actor.system.skills.discipline.advances >= 1 && this.actor.system.skills.ranged.advances >= 2 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful(Imperial Cult)\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "oBHvd40uCHrPtfbK",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 2000000
+}

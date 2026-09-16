@@ -1,0 +1,143 @@
+/* ══════════════════════════════════════════════════════════════════════════
+   NAVIS APEXIALIS SKIN — 60 IMPMAL EXTRAS
+
+   Hand-written rules for impmal and warhammer-lib that are not a one-to-one
+   answer to an impmal themed rule, so they cannot be generated from
+   mirrors.mjs. Each block states the rule it has to beat and why its selector
+   is heavy enough to beat it.
+   ══════════════════════════════════════════════════════════════════════ */
+
+/* ── Component variables ────────────────────────────────────────────────────
+   impmal declares these outside its theme, as `.application.impmal.actor` and
+   `body.theme-light .application.impmal.actor`. Prefixing body.navis-skin gives
+   the same specificity as the heavier of the two, and we load later. */
+
+body.navis-skin .application.impmal.actor {
+  --input-border:  var(--navis-line);
+  --skill-branch:  var(--navis-brass-dim);
+  --bar-border:    var(--navis-line);
+  --bar-fill:      var(--navis-brass-dim);
+  --slot-border:   var(--navis-line);
+  --slot-bg:       var(--navis-field);
+  --sustaining:    var(--navis-alert);
+  --defend-border: var(--navis-alert);
+}
+body.navis-skin .application.actor.impmal.character {
+  --characteristic-border: var(--navis-line);
+  --patron-border:         var(--navis-brass-dim);
+}
+body.navis-skin .application.actor.impmal.npc {
+  --characteristic-border: var(--navis-line);
+  --section-border:        var(--navis-line);
+}
+body.navis-skin .application.actor.impmal.vehicle {
+  --actors: var(--navis-line);
+  --drop:   var(--navis-brass-dim);
+}
+body.navis-skin .application.impmal.sheet,
+body.navis-skin .warhammer.impmal.sheet {
+  --condition:  var(--navis-line);
+  --pip:        var(--navis-alert);
+  --dropshadow: var(--navis-line);
+}
+body.navis-skin .application.impmal.item {
+  --label: var(--navis-raised);
+  --slot:  var(--navis-line);
+}
+
+/* warhammer-lib sits in the `system` cascade layer, below ours, so any
+   declaration on the same element wins; these only have to land on the
+   element warhammer-lib declares them on. */
+body.navis-skin .warhammer.application {
+  --list-header:           transparent;
+  --list-header-border:    var(--navis-brass-dim);
+  --list-row:              none;
+  --list-row-alternate:    rgba(255, 255, 255, 0.025);
+  --name-bg:               var(--navis-raised);
+  --name-border:           var(--navis-line);
+  --name-label:            var(--navis-surface);
+  /* Not a text colour: warhammer-lib paints the tab strip's rules AND the
+     active tab's background with it. Rust here fills the active tab solid and
+     swallows its label. */
+  --tab-color:             var(--navis-line);
+
+  --attribute-input:         var(--navis-field);
+  --attribute-input-border:  transparent;
+  --attribute-border:        var(--navis-line);
+  --attribute-title:         var(--navis-raised);
+  --attribute-title-color:   var(--navis-brass);
+  --fieldset-border:         var(--navis-line);
+  --attribute-locked-input:  transparent;
+  --attribute-locked-border: transparent;
+  --attribute-label:         transparent;
+  --attribute-field:         transparent;
+  --form-label:              transparent;
+  --form-input:              var(--navis-field);
+  --form-input-border:       transparent;
+  --form-group-border:       var(--navis-line);
+  --editor-header:           var(--navis-raised);
+  --editor-header-border:    var(--navis-brass-dim);
+  --hover-bg:                var(--navis-raised);
+}
+/* The active sheet tab with impmal's theme off, where warhammer-lib draws it.
+   warhammer-lib is in layer(system), below ours, so any rule on the element wins. */
+body.navis-skin .warhammer.application nav.sheet-tabs .active {
+  background-color: var(--navis-raised);
+  color: var(--navis-accent-lit);
+  box-shadow: inset 0 -2px 0 var(--navis-accent);
+}
+
+body.navis-skin .warhammer.roll-dialog-v2 { --modifier-bg: var(--navis-raised); }
+body.navis-skin .warhammer.item-dialog    { --border: var(--navis-line); --selected: var(--navis-raised); }
+
+/* ── Bevels never nest ──────────────────────────────────────────────────────
+   A plate inside a plate drops its own cut and leans on the surface ladder.
+   Otherwise the corners saw into each other and the shape stops reading as one
+   object. One class heavier than the mirrored rules that set the clip. */
+body.navis-skin .application.impmal.sheet .sheet-list .attribute-box,
+body.navis-skin .application.impmal.sheet .attribute-box .attribute-box,
+body.navis-skin .warhammer.application div.sheet-list div.sheet-list {
+  clip-path: none;
+  background: var(--navis-surface);
+}
+
+/* ── Chat: test cards ───────────────────────────────────────────────────────
+   module/skin.js stamps data-navis-outcome on every .impmal.test it renders,
+   because the card's markup never says whether the roll passed. The readout
+   and the outcome word read --navis-outcome from here. */
+body.navis-skin .impmal.test[data-navis-outcome="success"] { --navis-outcome: var(--navis-success); }
+body.navis-skin .impmal.test[data-navis-outcome="failure"] { --navis-outcome: var(--navis-danger); }
+
+/* Written with impmal's own three prefixes. Its #interface #sidebar variant
+   carries two ids, and a one-id selector would lose to it. */
+body.navis-skin #chat-popout .chat-message .impmal.test .title,
+body.navis-skin #interface .chat-message .impmal.test .title,
+body.navis-skin #interface #sidebar .chat-message .impmal.test .title {
+  font-family: var(--navis-font-stencil);
+  text-transform: uppercase;
+  letter-spacing: var(--navis-track-caption);
+}
+body.navis-skin #chat-popout .chat-message .impmal.test .outcome,
+body.navis-skin #interface .chat-message .impmal.test .outcome,
+body.navis-skin #interface #sidebar .chat-message .impmal.test .outcome {
+  font-family: var(--navis-font-stencil);
+  text-transform: uppercase;
+  letter-spacing: var(--navis-track-caption);
+  color: var(--navis-outcome, currentColor);
+}
+body.navis-skin #chat-popout .chat-message .impmal.test .comparison,
+body.navis-skin #interface .chat-message .impmal.test .comparison,
+body.navis-skin #interface #sidebar .chat-message .impmal.test .comparison {
+  font-family: var(--navis-font-data);
+  font-variant-numeric: tabular-nums;
+}
+
+/* The speaker is a stencilled caption, like every other label. */
+body.navis-skin #chat-popout .chat-message .message-header .message-sender,
+body.navis-skin #interface .chat-message .message-header .message-sender,
+body.navis-skin #interface #sidebar .chat-message .message-header .message-sender {
+  font-family: var(--navis-font-stencil);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--navis-brass);
+}

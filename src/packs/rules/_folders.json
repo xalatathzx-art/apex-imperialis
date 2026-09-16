@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "NavisRulesFolder",
+    "name": "Rules",
+    "type": "JournalEntry",
+    "folder": null,
+    "description": "",
+    "color": "#7a2020",
+    "sorting": "a",
+    "sort": 100,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  }
+]

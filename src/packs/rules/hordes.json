@@ -1,0 +1,197 @@
+{
+  "_id": "NavisHordeRules1",
+  "name": "Hordes",
+  "folder": "NavisRulesFolder",
+  "sort": 100,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "impmal",
+    "systemVersion": "3.3.0",
+    "coreVersion": "13.348"
+  },
+  "pages": [
+    {
+      "_id": "NavisHordePage01",
+      "name": "Hordes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>A horde is a body of identical NPCs that fights as one creature. It has no wounds. Its only measure of endurance is its <strong>Strength</strong> — the number of bodies still standing.</p><p>A horde rolls once in initiative, takes one Move and one Action, occupies a single zone, and may be in Immediate range of several enemies in that zone at once. It uses the characteristics, skills, weapons, armour, Resolve and traits of the NPC it is made of.</p><h3 id=\"what-a-horde-does-not-do\">What a Horde Does Not Do</h3><ul><li><p>It has no hit locations; every hit on a horde is a body hit, so the body's armour is the horde's armour.</p></li><li><p>It takes no Wounds and no Critical Wounds. It loses Strength instead, and is destroyed at 0.</p></li><li><p>It cannot be knocked Prone, cannot Aim, and makes no Called Shots.</p></li><li><p>It gains no Advantage for outnumbering — its numbers are already counted, once, as its modifier.</p></li><li><p>It cannot be Shoved by a single creature of Average size or smaller.</p></li><li><p>It reaches, and is reached from, adjacent zones in melee, as an Enormous creature does.</p></li></ul><section class=\"box-text light\"><p class=\"box-header\">Two rules, and no bonus SL</p><p>Everything below rests on a single asymmetry, and it is worth reading before the tables:</p><p><strong>Against</strong> a horde you attack with <strong>Advantage</strong>. A wall of people is hard to miss — but it is not easier to hurt.</p><p>A horde's <strong>own</strong> Perception, Melee, Ranged and Fellowship tests take a <strong>modifier</strong> for its numbers: its volume of fire, its many eyes, its many voices.</p><p>Neither side is handed bonus SL, and that is the point. Damage in Imperium Maledictum is weapon damage + SL, so bonus SL quietly becomes damage. Granting it against a horde made every shot into a crowd hit harder the bigger the crowd was — which is how a hundred gangers evaporate in two rounds.</p></section><p>Read on: @UUID[.NavisHordePage02]{Tier and Numbers}, @UUID[.NavisHordePage03]{Taking Losses}, @UUID[.NavisHordePage04]{The Horde's Attacks}, @UUID[.NavisHordePage05]{Breaking and Conditions}, @UUID[.NavisHordePage06]{At the Table}.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 100,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "impmal",
+        "systemVersion": "3.3.0",
+        "coreVersion": "13.348"
+      }
+    },
+    {
+      "_id": "NavisHordePage02",
+      "name": "Tier and Numbers",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h3 id=\"attacking-a-horde\">Attacking a Horde</h3><p>Attack a horde <strong>with Advantage</strong>. That is the whole rule: no bonus SL, no modifier. Advantage turns misses into hits without inflating the SL that becomes damage, which is exactly what being an enormous, densely packed target should do.</p><h3 id=\"the-horde-s-own-numbers\">The Horde's Own Numbers</h3><p>A horde adds a <strong>modifier</strong> to its own tests for the bodies it still has — to every test based on <strong>Perception</strong>, to <strong>Melee</strong>, <strong>Ranged</strong> and thrown attacks, and to <strong>Fellowship</strong>. The underlying characteristic tests take it too.</p><table class=\"impmal\"><thead><tr class=\"subheader\"><td><p>Strength</p></td><td><p>Modifier</p></td></tr></thead><tbody><tr><td><p>1–4</p></td><td><p>+0</p></td></tr><tr><td><p>5–9</p></td><td><p>+5</p></td></tr><tr><td><p>10–19</p></td><td><p>+10</p></td></tr><tr><td><p>20–39</p></td><td><p>+20</p></td></tr><tr><td><p>40–59</p></td><td><p>+30</p></td></tr><tr><td><p>60–89</p></td><td><p>+40</p></td></tr><tr><td><p>90–119</p></td><td><p>+50</p></td></tr><tr><td><p>120 or more</p></td><td><p>+60</p></td></tr></tbody></table><p>Nothing else the horde does is modified: Discipline, Fortitude, Reflexes and the rest are rolled by the NPC's own numbers, because a crowd is no steadier, tougher or quicker than the people in it.</p><h3 id=\"tier\">Tier</h3><p>Tier is a coarser reading of the same Strength, and it does only two jobs: it sets how many targets one attack can be applied to, and it is what falls to break the horde's morale.</p><table class=\"impmal\"><thead><tr class=\"subheader\"><td><p>Strength</p></td><td><p>Tier</p></td></tr></thead><tbody><tr><td><p>1–9</p></td><td><p><strong>1</strong></p></td></tr><tr><td><p>10–24</p></td><td><p><strong>2</strong></p></td></tr><tr><td><p>25–49</p></td><td><p><strong>3</strong></p></td></tr><tr><td><p>50–99</p></td><td><p><strong>4</strong></p></td></tr><tr><td><p>100 or more</p></td><td><p><strong>5</strong></p></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 200,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "impmal",
+        "systemVersion": "3.3.0",
+        "coreVersion": "13.348"
+      }
+    },
+    {
+      "_id": "NavisHordePage03",
+      "name": "Taking Losses",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Resolve an attack against a horde exactly as any other attack, then read the damage against its armour.</p><ul><li><p>Make the attack test, with Advantage.</p></li><li><p>Work out damage as usual: weapon damage + SL.</p></li><li><p>Apply Penetrating to the horde's armour.</p></li><li><p>Compare the damage to what is left of that armour.</p></li></ul><section class=\"box-text light\"><p class=\"box-header\">The loss rule</p><p><strong>Damage that meets or beats the horde's armour kills one of them. Every 2 points past the armour kills another.</strong></p><p>Damage that falls short of the armour kills nobody. Armour is a threshold here, not a subtraction — a weapon that cannot hurt one of them cannot hurt any of them.</p></section><table class=\"impmal\"><thead><tr class=\"subheader\"><td><p>Damage, against armour 4</p></td><td><p>Casualties</p></td></tr></thead><tbody><tr><td><p>1–3</p></td><td><p>0</p></td></tr><tr><td><p>4–5</p></td><td><p>1</p></td></tr><tr><td><p>6–7</p></td><td><p>2</p></td></tr><tr><td><p>8–9</p></td><td><p>3</p></td></tr><tr><td><p>10–11</p></td><td><p>4</p></td></tr><tr><td><p>12–13</p></td><td><p>5</p></td></tr></tbody></table><h3 id=\"the-area-rule\">The Area Rule</h3><section class=\"box-text light\"><p class=\"box-header\">Area fire</p><p><strong>An attack that sweeps the formation spends 1 point per body past the armour instead of 2.</strong></p><p>That is <strong>Blast</strong> and <strong>Flamer</strong>, and nothing else. <strong>Spread</strong> is not on the list: it sits on too much ordinary weaponry, and it splashes onto a neighbour rather than covering ground.</p></section><p>No weapon needs a case of its own beyond that. Everything else a weapon does against a crowd, it already does through its own numbers, and those numbers are damage:</p><ul><li><p><strong>Burst</strong> grants its usual +1 SL, which is +1 damage. Nothing new is added here.</p></li><li><p><strong>Rapid Fire (X)</strong> grants Advantage and +X damage on that branch, and that is the whole of its benefit against a horde.</p></li><li><p><strong>Blast</strong> needs no invented rating. Target the zone; the horde rolls Reflexes (Dodge) once; it takes damage + the SL difference, and spends it a body per point.</p></li><li><p><strong>Ablaze</strong> ignores armour, so there is no threshold to beat: it kills one and then one more per point. Fire in a packed formation is the one place the rule needs no argument.</p></li><li><p><strong>Ineffective</strong> counts the armour twice, which against a horde usually means the attack never reaches the threshold at all.</p></li></ul><h3 id=\"triumph\">Triumph</h3><p>A horde takes no Critical Wounds. Instead, a <strong>Triumph</strong> — doubles on a test with positive SL — <strong>doubles the casualties</strong> of that attack. A critical hit would simply kill an ordinary minor NPC, and a horde is made of them.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 300,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "impmal",
+        "systemVersion": "3.3.0",
+        "coreVersion": "13.348"
+      }
+    },
+    {
+      "_id": "NavisHordePage04",
+      "name": "The Horde's Attacks",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>A horde attacks once, as its Action. It makes <strong>one</strong> attack test and applies the result against up to <strong>Tier</strong> targets within reach, chosen by the GM. Each defender defends separately — with Melee, or Reflexes (Dodge) — so the SL difference, and the damage, can differ for each.</p><p>Damage against each target is <strong>weapon damage + SL</strong>, as it is for anyone. The horde's numbers are already in that SL, through the modifier on the test — they are not counted a second time as damage.</p><p>A horde may Charge, with Advantage, by the usual rule. It gains no Advantage for outnumbering.</p><h3 id=\"engulf\">Engulf</h3><p>If a character ends their turn in the horde's zone, the horde may spend its Action to close over them. The character is <strong>Restrained (Minor)</strong> and automatically suffers the horde's attack at the start of each of its turns until they break free.</p><p>This is what makes a horde a hazard of position rather than a bag of damage: the answer to it is to not be standing in the middle of it.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 400,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "impmal",
+        "systemVersion": "3.3.0",
+        "coreVersion": "13.348"
+      }
+    },
+    {
+      "_id": "NavisHordePage05",
+      "name": "Breaking and Conditions",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h3 id=\"breaking\">Breaking</h3><p>A horde needs no morale subsystem of its own. Imperium Maledictum already has Resolve and Superiority, and they carry it:</p><section class=\"box-text light\"><p class=\"box-header\">Breaking</p><p><strong>Every time the horde's Tier falls by one, it loses 1 Resolve.</strong></p><p>At Resolve 0 the horde is <strong>Desperate</strong>, and the GM chooses Flee!, Surrender! or Charge! by the standard rule.</p></section><p>Because the party's Superiority already works against enemy Resolve, nothing about a horde sits outside the rules the table already uses — and the players get a visible tactical goal: break a band, not grind a number. A gang leader with Resolve 1 shatters on the first band lost; fanatics with Resolve 3 have to be taken apart.</p><p>A horde whose Resolve cannot fall — Fearless, in the old phrasing — simply never loses it.</p><h3 id=\"conditions\">Conditions</h3><section class=\"box-text light\"><p class=\"box-header\">Conditions</p><p><strong>A condition that covers a zone, or that does not depend on any one body, applies normally. A personal condition instead costs the horde 1 Tier for its duration, to a minimum of 1.</strong></p></section><table class=\"impmal\"><thead><tr class=\"subheader\"><td><p></p></td><td><p>On a horde</p></td></tr></thead><tbody><tr><td><p>Ablaze, Haze, Darkness, Difficult Terrain, Hazard, Cover</p></td><td><p>Apply normally</p></td></tr><tr><td><p>Stunned, Frightened, Blinded, Deafened, Overburdened</p></td><td><p>−1 Tier while they last</p></td></tr><tr><td><p>Bleeding, Prone, a single member Grappled</p></td><td><p>Ignored</p></td></tr></tbody></table><p>The GM has the last word on anything not listed. The test is simple: could this reach a meaningful part of the unit?</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "impmal",
+        "systemVersion": "3.3.0",
+        "coreVersion": "13.348"
+      }
+    },
+    {
+      "_id": "NavisHordePage06",
+      "name": "At the Table",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Navis Apexialis automates the arithmetic. Open any NPC, go to the <strong>Effects</strong> tab, and enter a Strength in the <strong>Horde</strong> row. That is the whole of the setup — a horde is a flag on an ordinary NPC, so any stat block from any compendium can be fielded as one without being copied or imported.</p><h3 id=\"what-runs-by-itself\">What Runs by Itself</h3><ul><li><p>Targeting a horde gives you Advantage, and the tooltip says where it came from.</p></li><li><p>The horde's own Perception, Melee, Ranged and Fellowship tests take its numbers modifier, tooltip and all.</p></li><li><p>Damage becomes casualties, after the system's own armour, Penetrating, Ineffective and force-field maths.</p></li><li><p>Blast and Flamer spend a point per body instead of two; a Triumph doubles the result.</p></li><li><p>A falling Tier spends Resolve, and the chat announces when the horde goes Desperate.</p></li><li><p>Bleeding and Prone are refused; Stunned, Frightened, Blinded, Deafened and Overburdened cost a Tier.</p></li><li><p>A horde at 0 Strength is marked dead, and so is any NPC driven to maximum Wounds.</p></li><li><p>The token carries the number of bodies still standing, and it follows every loss.</p></li><li><p>The chat card says how many of them fell, above the damage line.</p></li></ul><h3 id=\"what-stays-with-the-gm\">What Stays with the GM</h3><p>Choosing up to Tier targets for one attack — the system already applies one test to every token you have targeted, so the row tells you the number and stays out of the way. Engulf. And which of Flee!, Surrender! or Charge! a broken horde does.</p><h3 id=\"two-settings\">Two Settings</h3><p>Both are in <em>Configure Settings → Navis Apexialis</em>, because both are a table's taste rather than a rule:</p><ul><li><p><strong>Horde: damage bonus</strong> — extra damage on the horde's own attacks, on top of its modifier. Off by default, because the modifier already counts those bodies once, through SL. Raise it only if you want hordes deadlier still.</p></li><li><p><strong>Mark dead NPCs</strong> — an NPC at maximum Wounds, and a horde at 0, take the dead status. A house rule: impmal itself kills only through Critical Wounds. It never touches player characters.</p></li></ul><h3 id=\"an-example\">An Example</h3><p><strong>A horde of 30 gangers. Tier 3. Armour 2. Ranged 40, lasguns (6).</strong></p><p>A veteran lobs a frag grenade (6, Blast). The horde fills the zone, so it rolls Reflexes (Dodge) once and loses by <strong>3 SL</strong>. Damage is 6 + 3 = 9 against armour 2: the armour is beaten, which is one body, and the 7 points past it are spent a body apiece because Blast sweeps — <strong>8 casualties</strong>. Strength falls 30 → 22, which drops it out of its band: <strong>Tier 3 → 2</strong>, and the horde's Resolve of 1 is spent with it. It is Desperate.</p><p>His squadmate's bolter would have done less. Eight damage plus a point of SL, with Penetrating 4 stripping the armour outright, is nine against nothing: one body for beating the armour, then 9 ÷ 2 more. <strong>Five.</strong> Excellent shooting. Not a grenade.</p><p>The GM rolls Charge! Twenty-two gangers still standing is a <strong>+20</strong> modifier, so the mob shoots at 40 + 20 = <strong>60</strong> — and it applies that one test against <strong>two</strong> targets, Tier 2, for damage 6 + SL each.</p><p>The lesson the table takes away is the one worth having: against a crowd, bring something that covers ground. And what is left of the crowd still shoots better than any one ganger ever could.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 600,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "impmal",
+        "systemVersion": "3.3.0",
+        "coreVersion": "13.348"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Item": {
+    "name": "name",
+    "description": "system.notes.player",
+    "gmNotes": "system.notes.gm",
+    "characterNotes": "system.character.notes",
+    "patronNotes": "system.patron.notes",
+    "requirement": "system.requirement.value",
+    "powerTarget": "system.target"
+  },
+  "Actor": {
+    "name": "name",
+    "description": "system.notes.gm",
+    "playerNotes": "system.notes.player",
+    "species": "system.species",
+    "role": "system.role",
+    "faction": "system.faction"
+  }
+}

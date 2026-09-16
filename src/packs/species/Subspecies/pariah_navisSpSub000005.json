@@ -1,0 +1,100 @@
+{
+  "name": "Pariah",
+  "type": "navis-apexialis.subspecies",
+  "_id": "navisSpSub000005",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder002",
+  "sort": 500,
+  "system": {
+    "notes": {
+      "player": "<p>You were born with a rare mutation — one in a billion — that turns your soul into a gaping black hole which draws psychic energy into itself. You grew up an outcast, perhaps even abandoned by your parents, because the curse makes other psychic beings, ordinary humans included, feel revulsion, unease and fear of you.</p> <p>A great many organisations of both the Imperium and the forces of Chaos find the anti-psychic abilities of Pariahs either useful or abhorrent, and on both sides there are those who seek your kind out as valuable agents and those who exterminate you as a dangerous blasphemy.</p> <p>The Gods alone know how you drew their attention, and why they should want a champion who denies their very nature.</p>",
+      "gm": "<p><strong>Read before allowing one.</strong> The aura is not a modifier, it is a rule that switches off an entire pillar of the game inside the Pariah's zone — psychic powers, Fate, daemons, rituals. At a table with a psyker it changes what that player can do whenever the two of them stand together. That is the whole point of the species, and it is why it ships marked.</p>"
+    },
+    "category": "human",
+    "reference": "DoomBC p.5",
+    "restricted": true,
+    "characteristics": {
+      "modifiers": {
+        "ws": 0,
+        "bs": 0,
+        "str": 0,
+        "tgh": 0,
+        "ag": 0,
+        "int": 0,
+        "per": 0,
+        "wil": 0,
+        "fel": 0
+      },
+      "choice": {
+        "number": 0,
+        "value": 5,
+        "keys": []
+      }
+    },
+    "skills": {},
+    "size": "",
+    "corruption": 0,
+    "roles": [
+      "Penumbra",
+      "Warrior"
+    ],
+    "removes": [],
+    "grantedTraits": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0033",
+          "id": "navisSpTrait0033",
+          "name": "Untouchable Aura",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0034",
+          "id": "navisSpTrait0034",
+          "name": "Soulless",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0035",
+          "id": "navisSpTrait0035",
+          "name": "Anathema Touch",
+          "diff": {}
+        }
+      ]
+    },
+    "talents": {
+      "list": [
+        {
+          "uuid": "Compendium.impmal-core.items.Item.PpidBBZ7dG6yziXg",
+          "id": "PpidBBZ7dG6yziXg",
+          "name": "Blank",
+          "diff": {}
+        }
+      ]
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": []
+    },
+    "requires": "Human"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

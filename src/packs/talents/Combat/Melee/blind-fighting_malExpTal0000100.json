@@ -1,0 +1,59 @@
+{
+  "name": "Blind Fighting",
+  "type": "talent",
+  "_id": "malExpTal0000100",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Ignore all vision obscured penalties for fighting in meele. Does not remove penalty from being Blinded</span></p><hr><p><span style=\"font-family: Arial\"><em>Years of practice and development of your other senses allow you to fight in close combat without the benefit of your sight. You ignore all penalties for fighting with a melee weapon while suffering from obscured vision, allowing yourself to fight in fog, smoke, or darkness more effectively. </em></span></p>",
+      "gm": "Talent Category: Melee"
+    },
+    "requirement": {
+      "value": "-",
+      "script": ""
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "QWThJrKmW2XlflEF",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 1300000
+}

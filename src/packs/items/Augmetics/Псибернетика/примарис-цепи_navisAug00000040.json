@@ -1,0 +1,50 @@
+{
+  "name": "Примарис-цепи",
+  "type": "augmetic",
+  "_id": "navisAug00000040",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00004",
+  "sort": 4000,
+  "system": {
+    "notes": {
+      "player": "<p>Продвинутые кибернетические мозговые импланты примарис-псайкеров служат не для контроля, а для защиты. Их ставят тем, кто доказал свою верность и надёжность, — чтобы уберечь ценный инструмент от гнева Эмпиреев. Отличить санкционные цепи от примарис-цепей снаружи невозможно, и псайкеры прекрасно понимают, что это не случайность.</p><p>Когда вы вызываете Прорыв Варпа иначе, чем усиленным проявлением психосилы, вы можете пройти <strong>рутинную (+20) проверку Дисциплины</strong>. За каждый успех вы получаете <strong>−5</strong> к броску на таблице Прорывов.</p><p>Ценой этому служит ваше тело: применив цепи, вы получаете <strong>1к5+1 урона</strong> после того, как результат Прорыва отыгран, — даже если проверка провалилась.</p><hr><p><strong>Уровень 1:</strong> Урон возрастает до <strong>1к10+1</strong>.</p><p><strong>Уровень 3:</strong> При провале проверки урон не наносится.</p><p><strong>Уровень 4:</strong> Как уровень 3, и проверка Дисциплины получает <strong>Преимущество</strong>.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 5000,
+    "availability": "R3",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 268"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

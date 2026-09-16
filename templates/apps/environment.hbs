@@ -1,0 +1,77 @@
+{{!-- Окно ГМа. Погода — подпись и цвет, которые он вписывает руками.
+      Показания среды он же отыгрывает. Автоматизирована только гравитация:
+      её эффекты перечислены под полем. --}}
+<div class="navis-env-grid">
+
+  <fieldset class="navis-env-block">
+    <legend>{{localize "NAVIS.Environment.Weather"}}</legend>
+
+    <label class="navis-env-field">
+      <span>{{localize "NAVIS.Environment.WeatherLabel"}}</span>
+      <input type="text" name="weather.label" value="{{environment.weather.label}}"
+             placeholder="{{localize "NAVIS.Environment.WeatherPlaceholder"}}">
+    </label>
+    <label class="navis-env-field">
+      <span>{{localize "NAVIS.Environment.WeatherTone"}}</span>
+      <input type="color" name="weather.tone" value="{{weatherTone}}">
+    </label>
+
+    <label class="navis-env-field">
+      <span>{{localize "NAVIS.Environment.Temperature"}}</span>
+      <input type="number" name="temperature" value="{{environment.temperature}}">
+    </label>
+
+    <label class="navis-env-field">
+      <span>{{localize "NAVIS.Environment.Radiation"}}</span>
+      <input type="number" name="radiation" min="0" max="10" value="{{environment.radiation}}">
+    </label>
+
+    <label class="navis-env-field">
+      <span>{{localize "NAVIS.Environment.Atmosphere"}}</span>
+      <select name="atmosphere.type">
+        <option value="normal" {{#if (eq environment.atmosphere.type "normal")}}selected{{/if}}>{{localize "NAVIS.Environment.normal"}}</option>
+        <option value="thin" {{#if (eq environment.atmosphere.type "thin")}}selected{{/if}}>{{localize "NAVIS.Environment.thin"}}</option>
+        <option value="unbreathable" {{#if (eq environment.atmosphere.type "unbreathable")}}selected{{/if}}>{{localize "NAVIS.Environment.unbreathable"}}</option>
+        <option value="toxic" {{#if (eq environment.atmosphere.type "toxic")}}selected{{/if}}>{{localize "NAVIS.Environment.toxic"}}</option>
+        <option value="vacuum" {{#if (eq environment.atmosphere.type "vacuum")}}selected{{/if}}>{{localize "NAVIS.Environment.vacuum"}}</option>
+      </select>
+    </label>
+    <label class="navis-env-field">
+      <span>{{localize "NAVIS.Environment.Intensity"}}</span>
+      <input type="number" name="atmosphere.intensity" min="0" max="10" value="{{environment.atmosphere.intensity}}">
+    </label>
+
+    <label class="navis-env-field navis-env-note">
+      <span>{{localize "NAVIS.Environment.Note"}}</span>
+      <textarea name="note" rows="3">{{environment.note}}</textarea>
+    </label>
+  </fieldset>
+
+  <fieldset class="navis-env-block">
+    <legend>{{localize "NAVIS.Environment.Gravity"}}</legend>
+
+    <label class="navis-env-field">
+      <span>{{localize "NAVIS.Environment.Gravity"}}</span>
+      <input type="number" name="gravity" min="0" step="0.1" value="{{environment.gravity}}">
+    </label>
+    <p class="navis-env-explain {{#if gravity.idle}}idle{{/if}}" style="--tone:{{gravity.tone}}">
+      <b>{{gravity.label}} · {{gravity.value}}G</b>
+    </p>
+
+    <div class="navis-env-auto">
+      <h4>{{localize "NAVIS.Gravity.Title"}}</h4>
+      <p class="weight">{{weightNote}}</p>
+      {{#if gravityEffects.length}}
+        <ul>
+          {{#each gravityEffects as |line|}}
+            <li class="{{line.rule}}{{#if line.manual}} manual{{/if}}"
+                data-tooltip="{{#if line.manual}}{{localize "NAVIS.Gravity.ManualHint"}}{{else}}{{localize "NAVIS.Gravity.AutoHint"}}{{/if}}">{{line.text}}</li>
+          {{/each}}
+        </ul>
+      {{else}}
+        <p class="idle">{{localize "NAVIS.Gravity.Quiet"}}</p>
+      {{/if}}
+    </div>
+  </fieldset>
+
+</div>

@@ -1,0 +1,50 @@
+{
+  "name": "Болеограждение",
+  "type": "augmetic",
+  "_id": "navisAug00000027",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00003",
+  "sort": 2700,
+  "system": {
+    "notes": {
+      "player": "<p>Комплекс имплантов вживляется в головной и спинной мозг, ограничивая интенсивность боли, которую владелец способен почувствовать. Его ставят дознавателям, чтобы они не боялись собственных инструментов, и бойцам, чтобы те не падали от того, что можно перетерпеть.</p><p>Побочный эффект известен всем, кто с такими работал: человек перестаёт понимать, когда ему пора остановиться.</p><p>Вы игнорируете критические эффекты, которые действуют через боль, невосприимчивы к пыткам болью и автоматически проходите проверки против паники от <em>Горения</em>.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 2200,
+    "availability": "R1",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 266"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

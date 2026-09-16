@@ -1,0 +1,50 @@
+{
+  "name": "Цепкий даташип",
+  "type": "augmetic",
+  "_id": "navisAug00000060",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00005",
+  "sort": 6000,
+  "system": {
+    "notes": {
+      "player": "<p><em>Требует установленных Боевых лат Скитарии.</em></p><p>Гибкий механодендрит с жалом устанавливается снизу спины, подобно скорпионьему хвосту. Он служит балансиром при ходьбе — и отмычкой, когда нужно вскрыть чужую машину, не разбирая её.</p><p>Даташип работает как балансир: <strong>+1 успех</strong> на проверки Рефлексов (Акробатика) и на пересечение труднопроходимой местности.</p><p>Как оружие он считается ножом, пробивающим броню и точным.</p><p>Пробив броню цели с бионикой, латами или силовым доспехом, жало вгрызается в её системы: пока вы удерживаете контакт, ваши союзники-техножрецы могут управлять её имплантами и бронёй, и их команды имеют приоритет над её собственными.</p>",
+      "gm": "<p>Это оружие против своих же. Рассчитано на Скитариев и техножрецов противника.</p>"
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 5000,
+    "availability": "R2",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 270"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

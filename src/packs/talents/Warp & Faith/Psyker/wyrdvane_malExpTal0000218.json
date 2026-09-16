@@ -1,0 +1,59 @@
+{
+  "name": "Wyrdvane",
+  "type": "talent",
+  "_id": "malExpTal0000218",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Redirect Perils of the Warp effect from anyone within Medium range (including self) to another character within Medium range</span></p><hr><p><span style=\"font-family: Arial\"><em>You have learned to channel and redirect the worst effects of the Immaterium. You can redirect the effects of the Perils of the Warp rolls from any character within Medium Range of yourself, including yourself, onto another character of your choosing within Medium Range. </em></span></p>",
+      "gm": "Talent Category: Psyker"
+    },
+    "requirement": {
+      "value": "Psychic Locus Talent",
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Psychic Locus\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "PU64XiLQ7hd5vW4E",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 0
+}

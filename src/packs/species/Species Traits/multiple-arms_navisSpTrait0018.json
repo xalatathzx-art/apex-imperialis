@@ -1,0 +1,33 @@
+{
+  "name": "Multiple Arms",
+  "type": "trait",
+  "_id": "navisSpTrait0018",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 1800,
+  "system": {
+    "notes": {
+      "player": "<p>Four arms, and the wiring to use all of them.</p> <p>You may hold and ready twice as many items as a two-armed character. You have Advantage on Athletics Tests to climb, grapple or hold something shut, and on Tests to resist being disarmed.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

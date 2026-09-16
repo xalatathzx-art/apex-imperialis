@@ -1,0 +1,72 @@
+{
+  "name": "Astartes Power Armour",
+  "type": "protection",
+  "_id": "navisSpGear00005",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder004",
+  "sort": 500,
+  "system": {
+    "notes": {
+      "player": "<p>Ceramite plate over a powered exoskeleton, fused to its wearer through the Black Carapace. It is the best armour in the game and it is meant to be: a lasgun cannot meaningfully hurt the thing inside it.</p> <p>A GM allowing an Astartes into a campaign is allowing this. Without the <em>Black Carapace</em> trait it cannot be worn at all.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 9
+    },
+    "cost": 1000000,
+    "availability": "Exotic",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": "",
+      "force": false
+    },
+    "category": "power",
+    "armour": 10,
+    "locations": {
+      "list": [
+        "head",
+        "body",
+        "leftArm",
+        "rightArm",
+        "leftLeg",
+        "rightLeg"
+      ],
+      "label": "all"
+    },
+    "traits": {
+      "list": [
+        {
+          "key": "loud"
+        }
+      ]
+    },
+    "damage": {},
+    "destroyed": {},
+    "mods": {
+      "list": []
+    },
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

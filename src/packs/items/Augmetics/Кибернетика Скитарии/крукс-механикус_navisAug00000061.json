@@ -1,0 +1,50 @@
+{
+  "name": "Крукс механикус",
+  "type": "augmetic",
+  "_id": "navisAug00000061",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00005",
+  "sort": 6100,
+  "system": {
+    "notes": {
+      "player": "<p><em>Требует установленных Боевых лат Скитарии.</em></p><p>Большая часть органов и часть мозга Скитария заменяются машинными аналогами, приближая его к совершенству Бога-Машины. В Легио это символ статуса, и носят его с гордостью.</p><p>Того, что было человеком, после этой операции остаётся немного.</p><p>Вы получаете <strong>+5 к Силе и Выносливости</strong> и считаетесь машиной для всех правил, которые это различают.</p><p>Другие Скитарии видят в вас старшего: <strong>+1 успех</strong> на общение и Командование ими.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 11000,
+    "availability": "R3",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 270"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

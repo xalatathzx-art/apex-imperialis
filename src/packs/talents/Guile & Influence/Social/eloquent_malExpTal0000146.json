@@ -1,0 +1,59 @@
+{
+  "name": "Eloquent",
+  "type": "talent",
+  "_id": "malExpTal0000146",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">+1SL to Rapport(Charm) & (Inquiry)</span></p><hr><p><span style=\"font-family: Arial\"><em>You gain +1SL when making a Rapport (Charm) or Rapport (Inquiry) Test.</em></span></p>",
+      "gm": "Talent Category: Social"
+    },
+    "requirement": {
+      "value": "2 Advances in Rapport(Charm)",
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Charm\" && i.system.skill == \"rapport\")?.system?.advances >= 2)"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "QZxXEi5gaFblpeYN",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 0
+}

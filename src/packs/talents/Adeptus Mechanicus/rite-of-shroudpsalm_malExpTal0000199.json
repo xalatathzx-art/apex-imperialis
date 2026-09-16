@@ -1,0 +1,59 @@
+{
+  "name": "Rite of Shroudpsalm",
+  "type": "talent",
+  "_id": "malExpTal0000199",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Free action (de-)activate: you do not register on scanning/recording equipment. Any gear/equipment providing boni to Awareness do not work on you</span></p><hr><p><span style=\"font-family: Arial\"><em>You are implanted with noospheric negators, electromagnetic disrupters, and stealth screen projectors, all designed to interfere with enemy surveillance equipment. You may activate or deactivate the effects of this talent as a Free Action. While active, you do not register on auspices, pict-thieves, monoscopes, or other forms of scanning or recording equipment. Anyone attempting to identify your presence use their unmodified Awareness, without bonuses for gear or equipment. </em></span></p>",
+      "gm": "Talent Category: Mechanicus"
+    },
+    "requirement": {
+      "value": "Must be AdMech, 2 Advances in Stealth",
+      "script": "return this.actor.system.skills.stealth.advances >= 2"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "v1jaQSwVla5DGTQg",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 1300000
+}

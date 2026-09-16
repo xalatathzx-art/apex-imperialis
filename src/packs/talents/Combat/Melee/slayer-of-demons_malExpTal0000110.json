@@ -1,0 +1,59 @@
+{
+  "name": "Slayer of Demons",
+  "type": "talent",
+  "_id": "malExpTal0000110",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">+10 WS and +2 damage when melee fighting daemons</span></p><hr><p><span style=\"font-family: Arial\"><em>Vowing to battle the beasts from the beyond, you have marked the warp-spawned for death. You gain a +10 to your Weapons Skill and deal +2 Damage in melee when fighting Daemons.</em></span></p>",
+      "gm": "Talent Category: Melee"
+    },
+    "requirement": {
+      "value": "Hatred (Daemons) Talent or 1 Advance in Lore(Forbidden – Daemonology)",
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Forbidden – Daemonology\" && i.system.skill == \"lore\")?.system?.advances >= 1) || this.actor.itemTypes[\"talent\"].find(i => i.name == \"Hatred(Daemons)\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "QWThJrKmW2XlflEF",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 1100000
+}

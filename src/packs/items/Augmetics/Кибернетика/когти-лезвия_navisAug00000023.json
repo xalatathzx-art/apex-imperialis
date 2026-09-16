@@ -1,0 +1,50 @@
+{
+  "name": "Когти-лезвия",
+  "type": "augmetic",
+  "_id": "navisAug00000023",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00003",
+  "sort": 2300,
+  "system": {
+    "notes": {
+      "player": "<p>Узкие длинные лезвия вживляются в руку и выдвигаются из кончиков пальцев по желанию. Они бритвенно остры, и хирург находит им столько же применений, сколько убийца.</p><p>Когти служат скальпелями: <strong>+1 успех</strong> на проверки Медика для операций и первой помощи, а также на проверки допроса пытками.</p><p>Как оружие они считаются ножом со свойством <em>Бритвенно острое</em>, который невозможно обнаружить обыском и отобрать.</p><hr><p><strong>Уровень 1:</strong> Лезвия тупее, чем должны быть: считайте их обычным ножом без свойства.</p><p><strong>Уровень 3:</strong> Выдвижные механизмы заставляют лезвия вибрировать: оружие получает свойство <em>Рвущее</em>.</p><p><strong>Уровень 4:</strong> Как уровень 3, и имплант оборудован железой, вырабатывающей токсин: оружие получает свойство <em>Отравляющее</em>. Железу можно заправить и другим ядом.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 1200,
+    "availability": "R1",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 266"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Манус поэнаэ",
+  "type": "augmetic",
+  "_id": "navisAug00000100",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00010",
+  "sort": 10000,
+  "system": {
+    "notes": {
+      "player": "<p><em>Требует имплантов Механикум. Такую операцию для непосвящённого делают только за очень большие деньги и с очень большим риском для всех участников.</em></p><p>На спину и плечо имплантируется турель для оружия с грави-суспензорами для компенсации отдачи. Турель поворачивается сама, и собеседник никогда не уверен, смотрит она на него или нет.</p><p>В турель ставится любая винтовка или пистолет. Оружие стреляет самостоятельно и не занимает рук.</p><p>Если это не пистолет, каждый выстрел требует <strong>1 Заряд</strong>.</p><hr><p><strong>Уровень 1:</strong> Выстрел стоит 2 Заряда.</p><p><strong>Уровень 3:</strong> Любое оружие стреляет без затрат.</p><p><strong>Уровень 4:</strong> Как уровень 3.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 9000,
+    "availability": "R2",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 275"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

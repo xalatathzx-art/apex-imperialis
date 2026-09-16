@@ -1,0 +1,59 @@
+{
+  "name": "Blessing of Flame",
+  "type": "talent",
+  "_id": "malExpTal0000161",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Action to bless a weapon: Lore (Theology)+0 untile end of combat (or Mag is depleted). Weapon gains Inflict(Ablaze) & Sanctified. Ablazes demons on hit even without damage</span></p><hr><p><span style=\"font-family: Arial\"><em>As an Action, you may make a Challenging (+0) Lore (Theology) Test to bless a single weapon with the Inflict (Ablaze), and Sanctified Qualities. A weapon so blessed sets Daemons Ablaze when it strikes them, even without dealing damage, and retains these Qualities until the end of Combat or until its Mag is depleted (if it has one). </em></span></p>",
+      "gm": "Talent Category: Faith"
+    },
+    "requirement": {
+      "value": "2 Advances in Lore(Theology), Faithful (Imperial Cult) talent",
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Theology\" && i.system.skill == \"lore\")?.system?.advances >= 2) && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful(Imperial Cult)\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "oBHvd40uCHrPtfbK",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 2200000
+}

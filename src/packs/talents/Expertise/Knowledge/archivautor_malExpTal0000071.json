@@ -1,0 +1,59 @@
+{
+  "name": "Archivautor",
+  "type": "talent",
+  "_id": "malExpTal0000071",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Reroll failed checks utilizing recorded information with a -10</span></p><hr><p><span style=\"font-family: Arial\"><em>When you make a Lore or Psychic Mastery Test utilizing sources of recorded information of any sort, such as cogitators, tomes, info-nets, and dataslates, you can reroll a failed test once with an additional -10 penalty. </em></span></p>",
+      "gm": "Talent Category: Knowledge"
+    },
+    "requirement": {
+      "value": "1 Advance in Lore, Data Delver Talent",
+      "script": "return this.actor.system.skills.lore.advances >= 1 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Data Delver\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "sYF7k1rcP4ZWyjHQ",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 0
+}

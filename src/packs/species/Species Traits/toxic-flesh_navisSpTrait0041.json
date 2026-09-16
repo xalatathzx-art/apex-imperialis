@@ -1,0 +1,33 @@
+{
+  "name": "Toxic Flesh",
+  "type": "trait",
+  "_id": "navisSpTrait0041",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 4100,
+  "system": {
+    "notes": {
+      "player": "<p>Something foul weeps from your horns and your mouth, and it is contagious.</p> <p>Anyone who wounds you in melee with a natural weapon, or whom you wound with yours, must pass a <strong>Challenging (+0) Fortitude</strong> Test or gain the <em>Poisoned</em> condition.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

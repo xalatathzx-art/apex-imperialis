@@ -1,0 +1,50 @@
+{
+  "name": "Модуль обработки отходов",
+  "type": "augmetic",
+  "_id": "navisAug00000021",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00003",
+  "sort": 2100,
+  "system": {
+    "notes": {
+      "player": "<p>Комплекс модулей обработки и очищения заменяет толстый кишечник и мочевой пузырь. Носитель больше не испражняется и требует втрое меньше воды: модуль высушивает отходы и возвращает отфильтрованную воду в организм.</p><p>Наружу выходит порт, из которого раз в месяц вынимают и выбрасывают спрессованный стержень. Скитарии, воид-мастера и все, кому предстоят долгие переходы без припасов, считают это лучшей аугметикой из существующих.</p><p>Вы требуете втрое меньше воды и не нуждаетесь в отхожем месте. Уровень исполнения влияет только на внешний вид, но не на работу модуля.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 500,
+    "availability": "R0",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 265"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

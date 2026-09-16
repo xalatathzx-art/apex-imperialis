@@ -1,0 +1,59 @@
+{
+  "name": "Ambassador Imperialis",
+  "type": "talent",
+  "_id": "malExpTal0000142",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">1/Encounter: reroll failed Social skill test with Xeno/Non-Imperials. Also reduce penalties of such interactions by 10</span></p><hr><p><span style=\"font-family: Arial\"><em>When you are making a Social Skill test when dealing with Xenos or other non-Imperial NPCs, reduce any penalty by 10. In addition, you may reroll a single failed Social Skill test per encounter when interacting with such an NPC.</em></span></p>",
+      "gm": "Talent Category: Social"
+    },
+    "requirement": {
+      "value": "1 Advance in Rapport, 1 Advance in Lore",
+      "script": "return this.actor.system.skills.rapport.advances >= 1 && this.actor.system.skills.lore.advances >= 1"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "QZxXEi5gaFblpeYN",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 100000
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Бионические ноги: серпентин-шасси",
+  "type": "augmetic",
+  "_id": "navisAug00000006",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00002",
+  "sort": 600,
+  "system": {
+    "notes": {
+      "player": "<p>Сегментированный металлический змеиный хвост вместо ног. Шасси не столько заменяет ноги, сколько отменяет саму идею ходьбы: владелец течёт по полу, и звук этот ни с чем не спутать.</p><p><em>Любая бионическая конечность даёт +1 очко брони против попаданий в неё, складываясь с носимой бронёй.</em></p><p>Ваша скорость возрастает на <strong>1</strong>, и вы не устаёте от долгого бега.</p><p>Хвостом можно захватывать и удерживать противника, считая его дополнительной парой рук в борьбе.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 7000,
+    "availability": "R4",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 263"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

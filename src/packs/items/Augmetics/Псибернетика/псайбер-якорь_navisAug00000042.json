@@ -1,0 +1,50 @@
+{
+  "name": "Псайбер-якорь",
+  "type": "augmetic",
+  "_id": "navisAug00000042",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00004",
+  "sort": 4200,
+  "system": {
+    "notes": {
+      "player": "<p>Многие инквизиторы и агенты Хаоса держат псайбер-фамилиаров как шпионов, посыльных, маяки или оружие — не будучи псайкерами вовсе. Якорь и есть то, что делает это возможным: мозговой имплант, отмеченный уникальной личной руной, которую затем наносят на псайбер-матрицу зверя.</p><p>Вы можете сформировать узы псайбера с существом, несущим псайбер-матрицу с вашей руной, как если бы вы сами были псайкером. Талант Псайкер для этого не требуется и не даётся.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 6000,
+    "availability": "R3",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 268"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

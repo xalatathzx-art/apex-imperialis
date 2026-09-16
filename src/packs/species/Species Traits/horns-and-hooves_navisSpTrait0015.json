@@ -1,0 +1,33 @@
+{
+  "name": "Horns and Hooves",
+  "type": "trait",
+  "_id": "navisSpTrait0015",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 1500,
+  "system": {
+    "notes": {
+      "player": "<p>You are armed even when you are stripped and chained.</p> <p>Your horns, hooves and teeth are a melee weapon dealing <strong>2 + Strength bonus</strong> damage. They are never <em>Useless</em> and cannot be disarmed or taken from you.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

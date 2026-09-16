@@ -1,0 +1,173 @@
+/* ══════════════════════════════════════════════════════════════════════════
+   NAVIS APEXIALIS SKIN — 00 TOKENS
+
+   Everything is gated on body.navis-skin, which module/skin.js sets from a
+   client setting. The class is ours, not impmal's body.impmal-theme: that one
+   follows a per-player setting the player can switch off, and a skin hung on it
+   would silently vanish for them.
+
+   This file is only custom properties. No selector here paints anything; it
+   decides what every other rule's var() resolves to.
+   ══════════════════════════════════════════════════════════════════════ */
+
+body.navis-skin {
+  /* ── Surfaces, by depth ──────────────────────────────────────────────────
+     Fields sit DARKER than the panel holding them. That is what keeps the
+     accent the only bright thing on screen, so brightness always means
+     "you can touch this". */
+  --navis-ground:       #0a0a0b;
+  --navis-window:       #0e0e0e;
+  --navis-surface:      #141414;
+  --navis-raised:       #1c1b1a;
+  --navis-field:        #070707;
+  --navis-field-focus:  #121110;
+
+  /* ── Structure. Brass never means "interactive". ──────────────────────── */
+  --navis-brass:        #b8873c;
+  --navis-brass-dim:    #6b5227;
+  --navis-line:         #2b2724;
+
+  /* ── Ink: bone, never white ──────────────────────────────────────────────
+     Pure white measured 18.4:1 on the surface: past legible into glare, and
+     bright type on near-black halates over a long session. A warm three-step
+     ladder instead, every step measured against all four surfaces:
+       ink        11.1-13.0:1   names, values, body
+       ink-muted   6.5-7.6:1    descriptions, secondary
+       ink-faint   5.1-6.0:1    captions, timestamps, "vs"
+     Emphasis comes from weight and case, never from brightening toward white,
+     so ink-emphatic is deliberately the same bone as ink. */
+  --navis-ink:          #d8cfbf;
+  --navis-ink-emphatic: #d8cfbf;
+  --navis-ink-muted:    #a89e8e;
+  --navis-ink-faint:    #948b7d;
+  --navis-brass-lit:    #d2a256;   /* the actor's name, the highest characteristics */
+
+  /* ── One colour, one meaning ─────────────────────────────────────────────
+     accent      shapes that can be pressed: edges, fills, rules
+     accent-lit  the same affordance as TEXT. The plain accent measures
+                 4.1-4.5:1 on the surfaces and fails WCAG AA for text; this
+                 one measures 5.6-6.6:1. */
+  --navis-accent:       #c0581f;
+  --navis-accent-lit:   #e2762f;
+  --navis-accent-dim:   #5e2a10;
+
+  --navis-alert:        #d9a441;   /* a condition is active   */
+  --navis-danger:       #d26658;   /* critical, over maximum  */
+  --navis-success:      #4fb07a;   /* a test passed           */
+  --navis-success-dim:  #1f3f2e;
+  --navis-danger-dim:   #43201c;
+
+  --navis-whisper:      #6b5227;
+  --navis-blind:        #7a5aa8;
+
+  /* ── Geometry and motion ─────────────────────────────────────────────── */
+  --navis-cut:          10px;
+  --navis-cut-sm:       6px;
+  --navis-transition:   150ms ease;
+
+  --navis-plate: polygon(var(--navis-cut) 0, 100% 0, 100% calc(100% - var(--navis-cut)),
+                         calc(100% - var(--navis-cut)) 100%, 0 100%, 0 var(--navis-cut));
+  --navis-plate-sm: polygon(var(--navis-cut-sm) 0, 100% 0, 100% calc(100% - var(--navis-cut-sm)),
+                            calc(100% - var(--navis-cut-sm)) 100%, 0 100%, 0 var(--navis-cut-sm));
+
+  /* Diagonal hatch: "this part is already spent". */
+  --navis-hatch: repeating-linear-gradient(135deg, rgba(0, 0, 0, 0.38) 0 6px, transparent 6px 12px);
+
+  /* ── Type roles ──────────────────────────────────────────────────────────
+     Two families, bundled in 05-fonts: Barlow Condensed labels, Barlow reads.
+     Figures are Barlow with tabular numerals (set on body below), which is
+     what makes a monospace face unnecessary — columns still align. Novarese,
+     from impmal-core, is kept for exactly one thing: the actor's name. */
+  --navis-font-stencil: "Barlow Condensed", "Bahnschrift SemiBold Condensed", "Arial Narrow", sans-serif;
+  --navis-font-display: "Novarese", "Barlow Condensed", "Arial Narrow", serif;
+  --navis-font-text:    "Barlow", "Segoe UI", system-ui, sans-serif;
+  --navis-font-data:    "Barlow", "Segoe UI", system-ui, sans-serif;
+  --navis-track-caption: 1.2px;
+
+  /* Six steps, each a role. */
+  --navis-size-caption:   11px;
+  --navis-size-secondary: 13px;
+  --navis-size-body:      14px;
+  --navis-size-label:     15px;
+  --navis-size-figure:    19px;
+  --navis-size-readout:   30px;
+
+  /* ════════════════════════════════════════════════════════════════════
+     impmal's own tokens. About 205 of its themed rules read these, so
+     reassigning them repaints most of the system without touching a rule.
+     ════════════════════════════════════════════════════════════════ */
+  --impmal-darkblue:   var(--navis-surface);
+  --impmal-lightblue:  var(--navis-line);        /* rules, borders, corner brackets */
+  --impmal-lightgreen: var(--navis-accent-lit);  /* links and live values           */
+  --impmal-darkgreen:  var(--navis-accent-dim);
+  --impmal-orange:     var(--navis-brass);
+  --impmal-grey:       var(--navis-ink-faint);
+  --impmal-grey2:      var(--navis-ink-muted);
+
+  /* Foundry colours impmal reassigns in the same :root block, which is how
+     it tints chrome it never wrote selectors for. */
+  --color-shadow-primary:       var(--navis-accent-dim);
+  --color-border-highlight:     var(--navis-accent);
+  --color-border-light-primary: var(--navis-accent);
+  --color-border-highlight-alt: var(--navis-line);
+  --color-shadow-highlight:     var(--navis-line);
+  --color-border-dark-3:        var(--navis-line);
+
+  /* impmal's CRT treatment runs off three body-level variables. Unset them and
+     every flicker, text-shadow pulse and scan overlay in the system stops,
+     without editing the thirty-odd rules that reference them. */
+  --im-flicker-anim: none;
+  --im-shadow-anim:  none;
+  --im-scan-bg:      none;
+
+  /* Type. impmal's "classic font" option reads --header-font and --type-font;
+     Foundry reads the rest. */
+  --font-primary: var(--navis-font-text);
+  --font-body:    var(--navis-font-text);
+  --font-sans:    var(--navis-font-text);
+  --font-monospace: var(--navis-font-data);
+  --header-font:  var(--navis-font-stencil);
+  --type-font:    var(--navis-font-text);
+
+  --color-scrollbar: var(--navis-brass-dim);
+  --color-scrollbar-border: var(--navis-line);
+  scrollbar-color: var(--navis-brass-dim) var(--navis-field);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ── Foundry's text, table and link palette ────────────────────────────────
+   Foundry declares these on body.theme-* AND on any .themed element, so an
+   application forced to a light theme would re-declare them on itself and
+   ignore ours on body. Declaring on both closes that gap. */
+body.navis-skin,
+body.navis-skin .themed {
+  --color-scheme: dark;
+  --color-text-emphatic:  var(--navis-ink-emphatic);
+  --color-text-primary:   var(--navis-ink);
+  --color-text-secondary: var(--navis-ink-muted);
+  --color-text-subtle:    var(--navis-ink-faint);
+  --color-text-light:     var(--navis-ink);
+  --color-text-dark:      var(--navis-ink);
+  --color-text-selection:    var(--navis-ink-emphatic);
+  --color-text-selection-bg: var(--navis-accent-dim);
+  --color-text-hyperlink: var(--navis-accent-lit);
+  --color-text-accent:    var(--navis-brass);
+
+  --table-background-color:     transparent;
+  --table-header-bg-color:      var(--navis-raised);
+  --table-header-border-color:  var(--navis-brass-dim);
+  --table-header-text-color:    var(--navis-brass);
+  --table-row-color-even:       rgba(255, 255, 255, 0.025);
+  --table-row-color-odd:        transparent;
+  --table-row-color-highlight:  var(--navis-raised);
+
+  --content-link-background:   var(--navis-field);
+  --content-link-border-color: var(--navis-line);
+  --content-link-icon-color:   var(--navis-brass);
+  --content-link-text-color:   var(--navis-accent-lit);
+
+  --sidebar-background:     rgba(10, 10, 11, 0.94);
+  --sidebar-separator:      1px solid var(--navis-line);
+  --sidebar-entry-hover-bg: linear-gradient(90deg, rgba(192, 88, 31, 0.16) 0%, transparent 100%);
+  --sidebar-folder-color:   var(--navis-surface);
+}

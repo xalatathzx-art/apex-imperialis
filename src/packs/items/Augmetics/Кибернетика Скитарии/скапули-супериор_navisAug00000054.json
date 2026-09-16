@@ -1,0 +1,50 @@
+{
+  "name": "Скапули супериор",
+  "type": "augmetic",
+  "_id": "navisAug00000054",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00005",
+  "sort": 5400,
+  "system": {
+    "notes": {
+      "player": "<p><em>Требует установленных Боевых лат Скитарии.</em></p><p>Мозг Скитария перенастраивают для лучшей ориентации в трёхмерном пространстве, а в спину вживляют комбинацию прыжкового ранца и механических крыльев.</p><p>Летает он превосходно. Разговаривать с ним после этого почти невозможно: перестроенный разум больше не читает лиц.</p><p>Вы умеете летать и получаете <strong>+2 успеха</strong> на проверки Пилотирования для личного полёта. Дурная погода, сильный ветер и разреженная атмосфера вам не помеха.</p><p>Взамен вы получаете <strong>Помеху</strong> на все проверки общения и автоматически проваливаете попытки прочесть чужие намерения.</p><hr><p><strong>Уровень 1:</strong> Дополнительно <strong>−10 к Восприятию и Товариществу</strong>, пока модуль установлен.</p><p><strong>Уровень 3:</strong> Штраф на общение падает до <strong>−2 успехов</strong>, а чужие намерения вы читаете с Помехой, а не проваливаете вовсе.</p><p><strong>Уровень 4:</strong> Как уровень 3, и раз в ход вы можете перебросить проверку полёта.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 5500,
+    "availability": "R2",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 270"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Unarmed Master",
+  "type": "talent",
+  "_id": "malExpTal0000112",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Unarmed weapon profile is: 2+StB, Penetrating(1)</span></p><hr><p><span style=\"font-family: Arial\"><em>Your unarmed Melee attacks deal 2 + StrB Damage with the Penetrating (1) Trait.</em></span></p>",
+      "gm": "Talent Category: Melee"
+    },
+    "requirement": {
+      "value": "3 Advances in Melee(Brawling), 2 Advance in Reflexes, Unarmed Warrior Talent",
+      "script": "return this.actor.system.skills.reflexes.advances >= 2 && (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Brawling\" && i.system.skill == \"melee\")?.system?.advances >= 3) && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Unarmed Warrior\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "QWThJrKmW2XlflEF",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 0
+}

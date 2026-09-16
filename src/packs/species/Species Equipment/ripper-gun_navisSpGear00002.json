@@ -1,0 +1,85 @@
+{
+  "name": "Ripper Gun",
+  "type": "weapon",
+  "_id": "navisSpGear00002",
+  "img": "modules/impmal-core/assets/icons/weapons/melee-weapon.webp",
+  "folder": "navisSpFolder004",
+  "sort": 200,
+  "system": {
+    "notes": {
+      "player": "<p>A drum-fed scattergun with a bayonet the size of a shovel, made for hands that cannot find a trigger guard. Built at Ogryn scale.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 5
+    },
+    "cost": 900,
+    "availability": "Rare",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": "",
+      "force": false
+    },
+    "damage": {
+      "base": "7",
+      "characteristic": "",
+      "SL": true,
+      "ignoreAP": false
+    },
+    "traits": {
+      "list": [
+        {
+          "key": "loud"
+        },
+        {
+          "key": "spread"
+        },
+        {
+          "key": "twohanded"
+        }
+      ]
+    },
+    "attackType": "ranged",
+    "spec": "longGun",
+    "category": "",
+    "range": "short",
+    "rangeModifier": {
+      "value": 0,
+      "override": ""
+    },
+    "mag": {
+      "value": 12,
+      "current": null
+    },
+    "ammoCost": 20,
+    "ammo": {
+      "id": ""
+    },
+    "mods": {
+      "list": []
+    },
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

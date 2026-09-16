@@ -1,0 +1,59 @@
+{
+  "name": "Surefoot Wayfinder",
+  "type": "talent",
+  "_id": "malExpTal0000119",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Ignore movement penalty of (most) difficult terrain. Once/session: reroll failed Navigation(Tracking) test</span></p><hr><p><span style=\"font-family: Arial\"><em>You ignore penalties to your movement from Difficult Terrain, although particularly dangerous environments such as burning buildings stil penalize you at the GMs discretion. You may also re-roll one failed Navigation (Tracking) Test per session.</em></span></p>",
+      "gm": "Talent Category: Movement"
+    },
+    "requirement": {
+      "value": "2 Advances in Navigation(Surface)",
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Surface\" && i.system.skill == \"navigation\")?.system?.advances >= 2)"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "peKMu9b8pxb7bDBT",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 0
+}

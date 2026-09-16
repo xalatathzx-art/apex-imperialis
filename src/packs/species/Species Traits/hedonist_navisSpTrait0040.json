@@ -1,0 +1,33 @@
+{
+  "name": "Hedonist",
+  "type": "trait",
+  "_id": "navisSpTrait0040",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 4000,
+  "system": {
+    "notes": {
+      "player": "<p>Everything is worth doing if it can be felt.</p> <p>When something in front of you promises immediate pleasure — food, luxury, cruelty, a dance, a fight — and the cost is only later, pass a <strong>Challenging (+0) Discipline</strong> Test or take it.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

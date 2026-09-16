@@ -1,0 +1,127 @@
+{
+  "name": "Pestigor",
+  "type": "navis-apexialis.subspecies",
+  "_id": "navisSpSub000008",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder002",
+  "sort": 800,
+  "system": {
+    "notes": {
+      "player": "<p>Nurgle's Beastmen are easily known by their bloated bodies, by the poisonous slime weeping from their horns and mouths, and by their ulcerated hides, through whose patchily shedding hair a yellow-green necrotic skin shows. Far more sedate and a little brighter than others of their kind, Pestigors are unhurried to the point of sloth, and are in no rush to act if not acting is an option.</p>",
+      "gm": ""
+    },
+    "category": "mutant",
+    "reference": "DoomBC p.12",
+    "restricted": false,
+    "characteristics": {
+      "modifiers": {
+        "ws": 0,
+        "bs": 0,
+        "str": 0,
+        "tgh": 5,
+        "ag": 0,
+        "int": 5,
+        "per": 0,
+        "wil": 0,
+        "fel": 0
+      },
+      "choice": {
+        "number": 0,
+        "value": 5,
+        "keys": []
+      }
+    },
+    "skills": {},
+    "size": "",
+    "corruption": 1,
+    "roles": [
+      "Warrior",
+      "Zealot"
+    ],
+    "removes": [],
+    "grantedTraits": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0041",
+          "id": "navisSpTrait0041",
+          "name": "Toxic Flesh",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0042",
+          "id": "navisSpTrait0042",
+          "name": "Grandfather's Endurance",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0043",
+          "id": "navisSpTrait0043",
+          "name": "Sloth",
+          "diff": {}
+        }
+      ]
+    },
+    "talents": {
+      "list": []
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": []
+    },
+    "requires": "Beastman"
+  },
+  "effects": [
+    {
+      "_id": "navisSpFxb000008",
+      "name": "Pestigor — physiology",
+      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "changes": [
+        {
+          "key": "system.combat.wounds.max",
+          "mode": 2,
+          "value": "2",
+          "priority": 20
+        }
+      ],
+      "disabled": false,
+      "transfer": true,
+      "origin": null,
+      "duration": {},
+      "description": "",
+      "statuses": [],
+      "flags": {
+        "navis-apexialis": {
+          "source": "DoomBC_Core",
+          "generated": "tools/make-species.mjs"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "impmal",
+        "systemVersion": "3.3.0"
+      }
+    }
+  ],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

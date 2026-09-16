@@ -1,0 +1,59 @@
+{
+  "name": "Faithful (Cult Mechanicus)",
+  "type": "talent",
+  "_id": "malExpTal0000188",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">1/session: add IntB SL making a test related to Machine Cult</span></p><hr><p><span style=\"font-family: Arial\"><em>You are a true believer of the Cult Mechanicus, a follower of the teachings of the Forge Worlds and placing yourself in the service of the Omnissiah. You are capable of manifesting your faith as a light in the darkness of the 41st Millennium. This power can be used to further the Quest for Knowledge, but if it is misused, the Machine God’s followers will punish your treachery. Once per session, you may add your Intelligence Bonus in SL when you are making a Test related to your faith. Examples: \n- When interrogating a suspected heretek, invoke the Omnissiah’s judgement to gain SL equal to your Intelligence Bonus on a Presence (Intimidation) Test. \n- If you are righteously striking down a foul xenos creature or a heretek, you can scream a benediction of the Machine God’s fury to gain SL equal to your Intelligence Bonus on your next attack.\n- If you are attempting to recall information or locate a particular sacred text, you can make a prayer to the Omnissiah to gain SL equal to your Intelligence Bonus on your Lore (Forbidden – Cult Mechanicus) Test. \n- If you are attempting to cleanse a corrupt Machine Spirit, or interfacing with a cogitator that has been tainted, you utter the rites of cleansing to gain SL equal to your Intelligence Bonus on your Tech (Security) Test.</em></span></p>",
+      "gm": "Talent Category: Mechanicus"
+    },
+    "requirement": {
+      "value": "Member of AdMech OR +2 Influence with them OR 2 Advances in Lore (Forbidden. Cult Mechanicus)",
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name.includes(\"Cult Mechanicus\") && i.system.skill == \"lore\")?.system?.advances >= 2)"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "v1jaQSwVla5DGTQg",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 1600000
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Bullet Hell",
+  "type": "talent",
+  "_id": "malExpTal0000128",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">1/combat when using Rapid Fire: increase RF rating by BS-B (without spending more ammo)</span></p><hr><p><span style=\"font-family: Arial\"><em>You discharge a hailstorm of lead from your shooter, spent casings puddling around your feet. Once per encounter, when using a weapon with the Rapid Fire (X) Trait, increase the rating by your Ballistic Skill Bonus without increasing the amount of ammunition consumed.</em></span></p>",
+      "gm": "Talent Category: Ranged"
+    },
+    "requirement": {
+      "value": "2 Advances in Ranged",
+      "script": "return this.actor.system.skills.ranged.advances >= 2"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "RR06fV9NhqJFz6js",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 700000
+}

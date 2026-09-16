@@ -1,0 +1,50 @@
+{
+  "name": "Бионические ноги: гусеницы",
+  "type": "augmetic",
+  "_id": "navisAug00000002",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00002",
+  "sort": 200,
+  "system": {
+    "notes": {
+      "player": "<p>Дешёвый и широко доступный гусеничный блок вместо ног. Такие ставят рабочим мануфакторумов и сервиторам-погрузчикам: тем, кому не нужно бегать, но нужно тащить. Владелец передвигается с ровным механическим лязгом, который слышно за поворот.</p><p><em>Любая бионическая конечность даёт +1 очко брони против попаданий в неё, складываясь с носимой бронёй.</em></p><p>Вы не можете прыгать, карабкаться и пользоваться вертикальными лестницами, и получаете <strong>Помеху</strong> на все проверки Рефлексов (Акробатика).</p><p>Взамен ваш порог перегрузки растёт на <strong>+2</strong>: гусеницы несут и толкают то, что человеку не поднять.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 600,
+    "availability": "R0",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 263"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "id": "navis-apexialis",
+  "title": "Navis Apexialis",
+  "description": "<p>A global content module for <strong>Imperium Maledictum</strong>: playable species, expanded talents, a xenos and heretic bestiary, the mechanics that drive them, and a skin for the whole interface.</p><hr /><p>The Species compendium adds a real Species item type: drop a race onto a character and it applies the whole package — characteristics, skills, traits, size and gear — with a Subspecies slot beside it. The roster is the DoomBC line converted to impmal's own scale.</p><p>Talents and the bestiary come from <em>Maledictum Expanded</em> by Meins, re-catalogued into a colour-coded folder taxonomy and repaired against the impmal system enums and the official impmal-core compendium. See <code>docs/migration-report.md</code> for every change made to the source data.</p><p>The skin repaints sheets, chat, every window, the sidebar and the hotbar in plate, brass and rust. Players can switch it off in their own settings.</p><p>Credits for Imperium Maledictum go to Moxy.</p>",
+  "version": "0.2.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Navis Apexialis",
+      "flags": {}
+    },
+    {
+      "name": "Meins",
+      "flags": {
+        "role": "Maledictum Expanded, the source of this release's content"
+      }
+    },
+    {
+      "name": "Moxy",
+      "flags": {
+        "role": "Imperium Maledictum"
+      }
+    }
+  ],
+  "esmodules": [
+    "module/navis-apexialis.js"
+  ],
+  "styles": [
+    "styles/navis-skin.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "ru",
+      "name": "Русский",
+      "path": "lang/ru.json",
+      "system": "impmal"
+    }
+  ],
+  "documentTypes": {
+    "Item": {
+      "species": {},
+      "subspecies": {}
+    }
+  },
+  "packs": [
+    {
+      "name": "navis-species",
+      "label": "Виды",
+      "path": "packs/navis-species",
+      "type": "Item",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-items",
+      "label": "Предметы",
+      "path": "packs/navis-items",
+      "type": "Item",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-talents",
+      "label": "Таланты",
+      "path": "packs/navis-talents",
+      "type": "Item",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-bestiary",
+      "label": "Бестиарий",
+      "path": "packs/navis-bestiary",
+      "type": "Actor",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-rules",
+      "label": "Правила",
+      "path": "packs/navis-rules",
+      "type": "JournalEntry",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Navis Apexialis",
+      "sorting": "m",
+      "color": "#8b6a1f",
+      "packs": [
+        "navis-species",
+        "navis-items",
+        "navis-talents",
+        "navis-bestiary"
+      ]
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "impmal",
+        "type": "system",
+        "compatibility": {
+          "minimum": "3.1.0",
+          "verified": "3.3.0"
+        }
+      }
+    ],
+    "recommends": [
+      {
+        "id": "impmal-core",
+        "type": "module",
+        "reason": "Every item in this module uses artwork shipped with impmal-core, and the Pariah subspecies grants the system's own Blank talent from its compendium. Without it, entries fall back to blank icons and the Pariah loses its mechanics."
+      },
+      {
+        "id": "babele",
+        "type": "module",
+        "reason": "Carries the Russian names and rules text for the compendium documents themselves, which a language file cannot reach. Without it the interface is still Russian and the compendiums stay English."
+      }
+    ]
+  }
+}

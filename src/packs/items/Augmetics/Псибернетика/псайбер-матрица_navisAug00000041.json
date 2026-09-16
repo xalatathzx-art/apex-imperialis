@@ -1,0 +1,50 @@
+{
+  "name": "Псайбер-матрица",
+  "type": "augmetic",
+  "_id": "navisAug00000041",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00004",
+  "sort": 4100,
+  "system": {
+    "notes": {
+      "player": "<p>Этот мозговой имплант психически связывает разум животного, подчиняя его чужой душе. Перед вживлением матрицу отмечают личной руной псайкера — и с этого мгновения ворон, крыса или охотничий пёс перестаёт принадлежать себе.</p><p>Вживлённая в разумное существо, матрица погружает его в кому, пока её не извлекут. Это знают все, и всё равно пробуют.</p><p>Матрицу можно вживить только неразумному животному, обладающему душой. Существо становится псайбер-фамилиаром того, чьей руной отмечена матрица: хозяин видит и слышит через него и может отдавать ему приказы на любом расстоянии в пределах планеты.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 2500,
+    "availability": "R2",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 268"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "name": "Astartes Pattern Boltgun",
+  "type": "weapon",
+  "_id": "navisSpGear00003",
+  "img": "modules/impmal-core/assets/icons/weapons/melee-weapon.webp",
+  "folder": "navisSpFolder004",
+  "sort": 300,
+  "system": {
+    "notes": {
+      "player": "<p>The weapon the Imperium mythologises. Mass-reactive shells that punch through a body before detonating inside it. Built for transhuman hands and recoil no unaugmented human shoulder can absorb.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 4
+    },
+    "cost": 8000,
+    "availability": "Rare",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": "",
+      "force": false
+    },
+    "damage": {
+      "base": "9",
+      "characteristic": "",
+      "SL": true,
+      "ignoreAP": false
+    },
+    "traits": {
+      "list": [
+        {
+          "key": "loud"
+        },
+        {
+          "key": "penetrating",
+          "value": "4"
+        },
+        {
+          "key": "twohanded"
+        },
+        {
+          "key": "burst"
+        }
+      ]
+    },
+    "attackType": "ranged",
+    "spec": "longGun",
+    "category": "",
+    "range": "long",
+    "rangeModifier": {
+      "value": 0,
+      "override": ""
+    },
+    "mag": {
+      "value": 30,
+      "current": null
+    },
+    "ammoCost": 600,
+    "ammo": {
+      "id": ""
+    },
+    "mods": {
+      "list": []
+    },
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

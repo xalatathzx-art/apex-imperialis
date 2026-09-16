@@ -1,0 +1,59 @@
+{
+  "name": "Natural Psyker",
+  "type": "talent",
+  "_id": "malExpTal0000210",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Choose Minor Psyker Power. 1/encounter may cast this as free action. Can also cast a \"normal\" Psyker power before/after this</span></p><hr><p><span style=\"font-family: Arial\"><em>When you take this talent, choose one Minor Psychic Power. As a Free Action, you may cast this power once per encounter. You will still be able to cast Psychic Powers as an action before or after you use this talent</em></span></p>",
+      "gm": "Talent Category: Psyker"
+    },
+    "requirement": {
+      "value": "Psyker Talent, 1 Advance in Psychic Mastery",
+      "script": "return this.actor.system.skills.psychic.advances >= 1 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Psyker\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "PU64XiLQ7hd5vW4E",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 300000
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Dedicate the Kill",
+  "type": "talent",
+  "_id": "malExpTal0000103",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Spent Movement action to nominate target in LoS. Personally killing the target recovers 1 FP</span></p><hr><p><span style=\"font-family: Arial\"><em>You are a devout believer that only offerings of flesh and blood can appease your God. During an encounter, you may sacrifice your movement for the turn to nominate an Elite or Leader level enemy in line of sight as your target. You may nominate a new target by sacrificing your movement again, but this replaces the previous target. If you personally kill your target in melee combat, you regain 1 spent Fate Point. </em></span></p>",
+      "gm": "Talent Category: Melee"
+    },
+    "requirement": {
+      "value": "Faithful (X) Talent",
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name.includes(\"Faithful\"))"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "QWThJrKmW2XlflEF",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 400000
+}

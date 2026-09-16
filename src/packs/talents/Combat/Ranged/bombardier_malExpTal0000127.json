@@ -1,0 +1,59 @@
+{
+  "name": "Bombardier",
+  "type": "talent",
+  "_id": "malExpTal0000127",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Advantage to fire Launcher/Artillery weapons at obscured zone or a zone outside LoS</span></p><hr><p><span style=\"font-family: Arial\"><em>Due to many years of training, you are an expert with explosive weapons and have uncanny control over where projectiles land. When firing a Launcher or Artillery Weapon at a partially obscured zone or a zone with no line of sight, you have Advantage. </em></span></p>",
+      "gm": "Talent Category: Ranged"
+    },
+    "requirement": {
+      "value": "2 Advances in Ranged(Ordnance)",
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Ordnance\" && i.system.skill == \"ranged\")?.system?.advances >= 2)"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "RR06fV9NhqJFz6js",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 500000
+}

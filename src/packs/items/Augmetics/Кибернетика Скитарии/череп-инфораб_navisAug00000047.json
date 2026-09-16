@@ -1,0 +1,50 @@
+{
+  "name": "Череп-инфораб",
+  "type": "augmetic",
+  "_id": "navisAug00000047",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00005",
+  "sort": 4700,
+  "system": {
+    "notes": {
+      "player": "<p><em>Требует установленных Боевых лат Скитарии.</em></p><p>Продвинутая версия серво-шунта для Скитариев. Череп не просто смотрит — он работает, и работает вашими руками, вашей меткостью и вашей выучкой.</p><p>Как серво-шунт, но для проверок сервочерепа вы используете <strong>свои</strong> характеристики, навыки и таланты, а не его.</p><p>Вы можете тратить свои реакции на атаки сервочерепа так же, как на атаки механодендритами.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 1400,
+    "availability": "R1",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 269"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

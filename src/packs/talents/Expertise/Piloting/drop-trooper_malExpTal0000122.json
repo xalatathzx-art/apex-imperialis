@@ -1,0 +1,59 @@
+{
+  "name": "Drop Trooper",
+  "type": "talent",
+  "_id": "malExpTal0000122",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Using Grav-Chute: may reroll Reflexes(Dodge) test. May push extended use time of Chutes to 20 minutes</span></p><hr><p><span style=\"font-family: Arial\"><em>When descending with a Grav Chute, the character may reroll Reflexes (Dodge) tests to avoid being hit. Additionally, the character is more used to pushing their equipment to the limit and can extend the use of the Grav Chute to last for 20 minutes with careful operation.</em></span></p>",
+      "gm": "Talent Category: Piloting"
+    },
+    "requirement": {
+      "value": "1 Advance in Piloting(Aeronautica)",
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Aeronautica\" && i.system.skill == \"piloting\")?.system?.advances >= 1)"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "3JxhLA6h0JYJZyf9",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 100000
+}

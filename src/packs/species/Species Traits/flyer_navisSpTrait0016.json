@@ -1,0 +1,33 @@
+{
+  "name": "Flyer",
+  "type": "trait",
+  "_id": "navisSpTrait0016",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 1600,
+  "system": {
+    "notes": {
+      "player": "<p>Hollow-boned, broad-winged, and useless on the ground by comparison.</p> <p>You may fly at your normal Speed. You cannot fly while carrying more than your Strength bonus in Encumbrance, and you cannot fly at all in an enclosed space narrower than three metres.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

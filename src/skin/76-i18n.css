@@ -1,0 +1,75 @@
+/* ══════════════════════════════════════════════════════════════════════════
+   NAVIS APEXIALIS SKIN — 76 ROOM FOR RUSSIAN
+
+   The sheet's measurements were set against English labels. Russian runs
+   longer — "Происхождение" against "Origin", "Прицеливание" against "Aim" —
+   and four places overflowed. These give them the room they need without
+   moving anything at English width.
+
+   Watch the specificity: the rules being adjusted live at selector depths like
+   `.navis-ready > .navis-rtile > .label label`, and a shorter selector loses
+   silently. Each rule here matches the depth of the one it corrects.
+   ══════════════════════════════════════════════════════════════════════ */
+
+/* An identity label never bleeds into the cell beside it. */
+body.navis-skin .application.actor.impmal.character .navis-character-header .navis-idents .detail-group > label {
+  overflow: hidden;
+  letter-spacing: 0.9px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Origin carries the longest word of the five, Role the shortest. */
+body.navis-skin .application.actor.impmal.character .navis-character-header .details-row.navis-idents:has(.navis-subspecies-slot) {
+  grid-template-columns:
+    minmax(0, 1.2fr) minmax(0, 1.15fr) minmax(0, 0.5fr) minmax(0, 0.9fr) minmax(0, 0.9fr);
+}
+
+/* The characteristics legend column: "Старт · улуч" needs more than 52px. */
+body.navis-skin .application.actor.impmal.character .navis-chars:has(.navis-rowcap) {
+  grid-template-columns: 74px repeat(9, minmax(0, 1fr));
+}
+
+/* The Superiority tile carries a "Group" badge beside its caption. "Superiority
+   Group" fits; "Превосходство Группа" does not, and the badge ends up under the
+   word. The caption gives way first, and the badge never shrinks. */
+body.navis-skin .application.actor.impmal.character .navis-ready > .navis-rtile > .label {
+  gap: 4px;
+}
+body.navis-skin .application.actor.impmal.character .navis-ready > .navis-rtile > .label label {
+  overflow: hidden;
+  min-width: 0;
+  letter-spacing: 0.4px;
+  text-overflow: ellipsis;
+}
+body.navis-skin .application.actor.impmal.character .navis-ready > .navis-rtile > .label .navis-group {
+  flex: none;
+}
+
+/* Action buttons: Russian verbs run a character or two longer than the English
+   ones the tracking was set for — "Прицеливание" against "Aim". The columns are
+   equal and fixed, so the tracking and then the padding give way instead.
+   "Прицеливание" is the longest of the fourteen and overruns a 96px column by
+   two pixels at 3px padding — which now costs a whole letter, because the
+   button truncates with an ellipsis rather than shaving the ends. One pixel of
+   padding leaves it four to spare; the text is centred, so the padding was
+   never doing visible work. */
+body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list .navis-action-row > button.action {
+  padding-inline: 1px;
+  letter-spacing: 0;
+}
+body.navis-skin .application.actor.impmal.character .navis-rtile > .label > .navis-group {
+  flex: none;
+}
+
+/* The conditions panel: the pips were taking the row's whole spare width, so a
+   two-word name like "Сбит с ног" wrapped and made its row taller than the
+   rest. The name takes what it needs; the pips shrink to their content. */
+body.navis-skin .application.actor.impmal .conditions > .condition > label {
+  flex: 1 1 auto;
+  min-width: 0;
+  white-space: nowrap;
+}
+body.navis-skin .application.actor.impmal .conditions > .condition > .pips {
+  flex: none;
+}

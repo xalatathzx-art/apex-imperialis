@@ -1,0 +1,50 @@
+{
+  "name": "Сахарорегулятор",
+  "type": "augmetic",
+  "_id": "navisAug00000017",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00003",
+  "sort": 1700,
+  "system": {
+    "notes": {
+      "player": "<p>Хим-генератор, имплантируемый возле печени: отслеживает уровень сахаров в крови, извлекая лишние или насыщая её дополнительными. Наружу выходит модуль в верхней части живота, куда вставляется батарея от лазпистолета.</p><p>Вещь скучная, дешёвая и спасшая больше жизней, чем любой болтер.</p><p>Батареи хватает примерно на неделю. Пока в импланте есть заряд, вы не нуждаетесь в пище ради энергии — но всё ещё нуждаетесь в ней ради белков, минералов и витаминов — и не набираете вес от переедания.</p><p>Уровень исполнения влияет только на внешний вид модуля, но не на работу.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 400,
+    "availability": "R0",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 265"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

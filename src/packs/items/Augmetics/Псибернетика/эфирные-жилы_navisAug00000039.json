@@ -1,0 +1,50 @@
+{
+  "name": "Эфирные жилы",
+  "type": "augmetic",
+  "_id": "navisAug00000039",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00004",
+  "sort": 3900,
+  "system": {
+    "notes": {
+      "player": "<p>Пара расписанных рунами металлических стержней вживляется в спину псайкера, присоединяясь к спинному мозгу и выходя наружу над плечами. Когда он тянется к Варпу, вокруг внешних модулей вспыхивают бледные актинические нимбы — имплант не умеет работать незаметно и выдаёт своего носителя всякому, кто смотрит.</p><p>Вы можете поддерживать одну психосилу, не увеличивая свой Заряд Варпа за её поддержание.</p><p>Когда вы проявляете психосилу усиленно, вы получаете <strong>−10</strong> к броску на таблице Прорывов Варпа.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 3000,
+    "availability": "R2",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 268"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

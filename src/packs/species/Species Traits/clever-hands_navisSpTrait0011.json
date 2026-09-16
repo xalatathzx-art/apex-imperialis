@@ -1,0 +1,33 @@
+{
+  "name": "Clever Hands",
+  "type": "trait",
+  "_id": "navisSpTrait0011",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 1100,
+  "system": {
+    "notes": {
+      "player": "<p>Thick fingers, and not one of them clumsy.</p> <p>Once per session you may treat a failed Tech (Engineering) Test to repair or jury-rig something as a success with 0 SL. The repair holds until the end of the scene.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

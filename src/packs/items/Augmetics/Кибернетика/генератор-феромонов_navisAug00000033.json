@@ -1,0 +1,50 @@
+{
+  "name": "Генератор феромонов",
+  "type": "augmetic",
+  "_id": "navisAug00000033",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00003",
+  "sort": 3300,
+  "system": {
+    "notes": {
+      "player": "<p>Имплант производит и выпускает в воздух мощные феромоны, делающие тех, кто их вдыхает, податливее к манипуляции. Работает он тихо, незаметно и совершенно без разбора: на союзников тоже.</p><p>Пока имплант активен, все, кто дышит напитанным феромонами воздухом без средств защиты, получают <strong>−1 успех</strong> на встречные проверки против вашего общения. В замкнутом помещении без сильной вентиляции штраф удваивается.</p><p>На тех, кто в герметичном шлеме, респираторе или ребризере, это не действует вовсе — как и на разговор по воксу.</p><hr><p><strong>Уровень 3:</strong> Штраф растёт до <strong>−2 успехов</strong>.</p><p><strong>Уровень 4:</strong> Штраф растёт до <strong>−2 успехов</strong>, а в замкнутом помещении даёт <strong>Помеху</strong>.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4500,
+    "availability": "R2",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 267"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

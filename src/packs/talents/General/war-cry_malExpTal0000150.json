@@ -1,0 +1,59 @@
+{
+  "name": "War Cry",
+  "type": "talent",
+  "_id": "malExpTal0000150",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Spend action: you are source of Fear for all enemy within (auditory) Long Range. Fatigued at end of turn</span></p><hr><p><span style=\"font-family: Arial\"><em>At the start of any of your turns, you may declare that you are spending an Action to make a War Cry. All enemies within Long Range treat you as if you are a Source of Fear and must test to not be Frightened provided they can hear you until the start of your next turn. While screaming, you cannot communicate in any other way, and gain the Fatigued Condition at the end of your turn. </em></span></p>",
+      "gm": "Talent Category: General"
+    },
+    "requirement": {
+      "value": "1 Advance in Presence(Intimidation)",
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Intimidation\" && i.system.skill == \"presence\")?.system?.advances >= 1)"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "KmCDAtV80ZeH9J36",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 0
+}

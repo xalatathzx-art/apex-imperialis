@@ -1,0 +1,169 @@
+{
+  "name": "Ogryn",
+  "type": "navis-apexialis.species",
+  "_id": "navisSpc00000002",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisSpFolder001",
+  "sort": 200,
+  "system": {
+    "notes": {
+      "player": "<p>You belong to the most widespread abhuman strain — a mighty and astonishingly hardy giant who towers even over a Space Marine, and who is as dull and as trusting as a child. On many worlds of the Imperium and of Chaos alike, Ogryns work mostly as loaders, labourers, bodyguards and bouncers.</p> <p>You stood out from the mass of your kind by unusual cleverness — the ability to count to five, say, and to write your own name — and they fitted you with brain implants to raise your intellect further still, so that you could grasp more complicated tasks. But with understanding you also became a fit target for the attention of the Dark Gods, and that let you rise further yet.</p>",
+      "gm": "<p><em>Conversion:</em> DoomBC gives the Ogryn S 40 and T 45 on a human baseline of 25, then adds Unnatural Strength (6) and Unnatural Toughness (6) on top. Folded into impmal's scale that is +15 to each, which is already the largest single modifier on any sheet. The book's +15 maximum Wounds becomes +4, because impmal characters run 9-14 Wounds rather than forty.</p> <p><em>House rule:</em> DoomBC sets no characteristic ceilings. The Intelligence cap of 40 is this module's, so that Bone-'ead stays true instead of being bought off with XP. Everything else is impmal's own 60.</p>"
+    },
+    "category": "abhuman",
+    "reference": "DoomBC p.8",
+    "restricted": false,
+    "characteristics": {
+      "modifiers": {
+        "ws": 0,
+        "bs": 0,
+        "str": 15,
+        "tgh": 15,
+        "ag": -10,
+        "int": -15,
+        "per": 0,
+        "wil": 0,
+        "fel": -5
+      },
+      "choice": {
+        "number": 1,
+        "value": 5,
+        "keys": [
+          "str",
+          "tgh",
+          "wil"
+        ]
+      },
+      "maximums": {
+        "ws": 60,
+        "bs": 60,
+        "str": 60,
+        "tgh": 60,
+        "ag": 60,
+        "int": 40,
+        "per": 60,
+        "wil": 60,
+        "fel": 60
+      }
+    },
+    "skills": {
+      "athletics": 2,
+      "fortitude": 1
+    },
+    "size": "large",
+    "corruption": 0,
+    "roles": [
+      "Warrior",
+      "Zealot"
+    ],
+    "removes": [],
+    "grantedTraits": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0003",
+          "id": "navisSpTrait0003",
+          "name": "Brute Physiology",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0004",
+          "id": "navisSpTrait0004",
+          "name": "Bone-'ead",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0005",
+          "id": "navisSpTrait0005",
+          "name": "Ogryn-Sized",
+          "diff": {}
+        }
+      ]
+    },
+    "talents": {
+      "list": []
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpGear00001",
+          "id": "navisSpGear00001",
+          "name": "Ogryn-Sized Slab Club",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpGear00002",
+          "id": "navisSpGear00002",
+          "name": "Ripper Gun",
+          "diff": {}
+        }
+      ]
+    }
+  },
+  "effects": [
+    {
+      "_id": "navisSpFx0000002",
+      "name": "Ogryn — physiology",
+      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "changes": [
+        {
+          "key": "system.combat.wounds.max",
+          "mode": 2,
+          "value": "4",
+          "priority": 20
+        },
+        {
+          "key": "system.combat.criticals.max",
+          "mode": 2,
+          "value": "1",
+          "priority": 20
+        },
+        {
+          "key": "system.combat.armourModifier",
+          "mode": 2,
+          "value": "1",
+          "priority": 20
+        }
+      ],
+      "disabled": false,
+      "transfer": true,
+      "origin": null,
+      "duration": {},
+      "description": "",
+      "statuses": [],
+      "flags": {
+        "navis-apexialis": {
+          "source": "DoomBC_Core",
+          "generated": "tools/make-species.mjs"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "impmal",
+        "systemVersion": "3.3.0"
+      }
+    }
+  ],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

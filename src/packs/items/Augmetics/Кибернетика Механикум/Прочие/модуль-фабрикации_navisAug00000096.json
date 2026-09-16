@@ -1,0 +1,50 @@
+{
+  "name": "Модуль фабрикации",
+  "type": "augmetic",
+  "_id": "navisAug00000096",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00010",
+  "sort": 9600,
+  "system": {
+    "notes": {
+      "player": "<p><em>Требует имплантов Механикум. Такую операцию для непосвящённого делают только за очень большие деньги и с очень большим риском для всех участников.</em></p><p>Миниатюрная кузница, встроенная в спину, производит небольшие количества металлов, полупроводников и пластиков из загруженного сырья — камней, органики, мусора — и отливает из них электронику, шестерни и цепи.</p><p>Техножрец с таким модулем не нуждается в снабжении. Он нуждается только в том, чтобы под ногами что-нибудь было.</p><p>Вам не нужны материалы для ремонта, модификации и изготовления предметов, техники и небольших машинных существ — если работа не требует особо редкого сырья вроде адамантия или психокристаллов.</p><hr><p><strong>Уровень 1:</strong> Только металлы и пластики.</p><p><strong>Уровень 3:</strong> <strong>+1 успех</strong> на проверки, где используются материалы.</p><p><strong>Уровень 4:</strong> <strong>+2 успеха</strong> на такие проверки.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 10000,
+    "availability": "R2",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 275"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

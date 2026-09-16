@@ -1,0 +1,50 @@
+{
+  "name": "Люминен-конденсаторы",
+  "type": "augmetic",
+  "_id": "navisAug00000075",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisAugFld00008",
+  "sort": 7500,
+  "system": {
+    "notes": {
+      "player": "<p><em>Требует имплантов Механикум. Такую операцию для непосвящённого делают только за очень большие деньги и с очень большим риском для всех участников.</em></p><p>Продвинутые энергетические шунты и эмиттеры позволяют техножрецу формировать и направлять мотивирующую силу электричества. Он кладёт ладонь на мёртвую батарею, и та оживает.</p><p>Потратив десять минут в медитации над батареей или устройством, вы заряжаете его. Сложность зависит от того, что именно вы оживляете: <strong>рутинная (+20)</strong> для светосферы или вокс-бусины, <strong>средняя (+0)</strong> для батареи лазгана, <strong>трудная (−10)</strong> для сервочерепа, <strong>сложная (−20)</strong> для батареи силовой брони, <strong>очень сложная (−30)</strong> для когитатора или ксенотехники.</p><p>Устройство заряжается независимо от исхода, но за каждый недостающий успех вы теряете <strong>1 Заряд</strong> или получаете <em>Усталость</em>.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 5500,
+    "availability": "R2",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-augmetics.mjs",
+      "reference": "DoomBC стр. 272"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}
