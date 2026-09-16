@@ -10,7 +10,7 @@
       "player": "<p>Боевая версия Серво-Руки, высоко ценимая Варп-Кузнецами и Секуторами, оборудованная генератором силового поля. Занимает два порта для мехадендритов.</p>",
       "gm": ""
     },
-    "rules": "<p>Имеет тот же функционал, что Серво-Рука, но лучше приспособлена к бою и защищена от силового оружия. Профиль: Хват Weapon, S(Un) 75(7), Длина 1.5м, Rng 1-5, Урон 2d10+18 E, Pen 10, Imprecise, Power Field.</p>",
+    "rules": "<p>Имеет тот же функционал, что Серво-Рука, но лучше приспособлена к бою и защищена от силового оружия.</p><p>Удар серво-когтем: <strong>урон 29</strong>, <em>Бронебойное 10</em>. Это верхний край шкалы impmal, и книга печатает его именно таким: 2d10+18 при пробитии 10. Книжное <em>Power Field</em> — уничтожение парирующего клинка — impmal не выражает.</p><p><em>Бонус Силы владельца к этому урону не прибавляется: собственная Сила мехадендрита уже учтена в числе.</em></p>",
     "page": "DoomBC стр. 278",
     "category": "mechadendrite",
     "rarity": 4,
@@ -44,7 +44,37 @@
     "installed": false,
     "disabled": false,
     "active": true,
-    "mechanics": [],
+    "mechanics": [
+      {
+        "id": "navisImpGrp00880",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt08800",
+            "kind": "weapon",
+            "profile": {
+              "name": "Серво-Коготь",
+              "attackType": "melee",
+              "category": "power",
+              "spec": "brawling",
+              "range": "",
+              "damage": {
+                "base": "29",
+                "characteristic": "",
+                "SL": false,
+                "ignoreAP": false
+              }
+            }
+          },
+          {
+            "id": "navisImpEnt08801",
+            "kind": "weaponTrait",
+            "traitKey": "penetrating",
+            "traitValue": 10
+          }
+        ]
+      }
+    ],
     "chosenEffects": {}
   },
   "effects": [],
@@ -53,7 +83,7 @@
       "source": "DoomBC_Core",
       "generated": "tools/make-implants.mjs",
       "reference": "DoomBC стр. 278",
-      "proseOnly": true
+      "proseOnly": false
     }
   },
   "_stats": {

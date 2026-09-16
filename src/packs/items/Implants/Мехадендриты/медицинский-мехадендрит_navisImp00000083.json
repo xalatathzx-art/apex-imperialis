@@ -10,7 +10,7 @@
       "player": "<p>Снабжённый арсеналом лезвий, шприцов, сенсоров и пил мехадендрит, равно полезный медикам для лечения и палачам для допроса.</p>",
       "gm": ""
     },
-    "rules": "<p>Даёт бонус к практическим проверкам Медики и допросам болью, позволяет делать инъекции как рукопашные атаки по дружественным целям, а полудействием — вылечить Кровотечение или автоматически преуспеть в фиксации или ампутации бесполезной конечности. Профиль: Хват Utility, S(Un) 30(0), Длина 3м, Rng 0-8, Урон 1d5+3 R, Pen 4, Flexible, Razor Sharp, Toxic(0).</p>",
+    "rules": "<p>Даёт бонус к практическим проверкам Медики и допросам болью, позволяет делать инъекции как рукопашные атаки по дружественным целям, а полудействием — вылечить Кровотечение или автоматически преуспеть в фиксации или ампутации бесполезной конечности.</p><p>Рукопашная атака мехадендритом: <strong>урон 6</strong>, <em>Бронебойное 4</em>, <em>Отравление</em>, <em>Длинное</em> (стебель 3 м).</p><p><em>Бонус Силы владельца к этому урону не прибавляется: собственная Сила мехадендрита уже учтена в числе.</em></p>",
     "page": "DoomBC стр. 278",
     "category": "mechadendrite",
     "rarity": 2,
@@ -44,7 +44,48 @@
     "installed": false,
     "disabled": false,
     "active": true,
-    "mechanics": [],
+    "mechanics": [
+      {
+        "id": "navisImpGrp00820",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt08200",
+            "kind": "weapon",
+            "profile": {
+              "name": "Медицинский Мехадендрит",
+              "attackType": "melee",
+              "category": "mundane",
+              "spec": "brawling",
+              "range": "",
+              "damage": {
+                "base": "6",
+                "characteristic": "",
+                "SL": false,
+                "ignoreAP": false
+              }
+            }
+          },
+          {
+            "id": "navisImpEnt08201",
+            "kind": "weaponTrait",
+            "traitKey": "penetrating",
+            "traitValue": 4
+          },
+          {
+            "id": "navisImpEnt08202",
+            "kind": "weaponTrait",
+            "traitKey": "inflict",
+            "traitValue": "Отравление"
+          },
+          {
+            "id": "navisImpEnt08203",
+            "kind": "weaponTrait",
+            "traitKey": "reach"
+          }
+        ]
+      }
+    ],
     "chosenEffects": {}
   },
   "effects": [],
@@ -53,7 +94,7 @@
       "source": "DoomBC_Core",
       "generated": "tools/make-implants.mjs",
       "reference": "DoomBC стр. 278",
-      "proseOnly": true
+      "proseOnly": false
     }
   },
   "_stats": {

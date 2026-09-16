@@ -40,6 +40,26 @@
  * not characteristic values; impmal characteristics run on the same 0–100
  * scale DoomBC does, so there is nothing to convert.
  *
+ * THE ARM VARIATIONS AND INTEGRATED WEAPONS (стр. 263)
+ *
+ * Two of the five arms are sockets, not weapons, and carry a `weaponMount`
+ * marked `emptySocket`: Рука-Оружие, whose weapon the book says must be
+ * «добыть отдельно», and Универсальный Порт, which ships with a plain forearm
+ * and takes the others separately. An empty socket is their finished state —
+ * the sheet gives a drop target, and a weapon dropped on it is granted equipped
+ * while the arm is fitted. The audit accepts `emptySocket` for exactly this
+ * reason and would otherwise call a mount with no source an unfinished mount.
+ *
+ * The other three stay prose, and none of them is an oversight:
+ *   - Бионическая рука — every laddered effect is «этой рукой».
+ *   - Монозадачная — a hand replaced by a tool. Its +10 is to using that tool,
+ *     a specialisation `testMod` cannot gate on, and it is not a weapon.
+ *   - Интегрированное оружие — the book prints no profile and no acquisition
+ *     either; what it gives is concealment and one surprise attack, neither of
+ *     which impmal expresses. It is left prose rather than given a socket,
+ *     because a socket would claim the player supplies the weapon and the book
+ *     says it is already built into the forearm.
+ *
  * Trait and Talent grants (Crawler, Digitigrade, Sturdy, Hoverer, Sprint,
  * Preternatural Speed) stay prose. The `trait`/`talent` entry kinds want a
  * document uuid to drag in, and impmal has no items under those names.
@@ -377,9 +397,17 @@ export const BIONICS = [
       "<p>Эта рука не может делать ничего, кроме стрельбы или ударов своим оружием, "
       + "зато даёт с ним <strong>+1 успех</strong>. Двуручное оружие вы держите одной рукой.</p>"
       + "<p>Оружие нельзя выбить у вас из рук, ему не нужна опора для закрепления, "
-      + "а его запас боеприпасов утраивается (тяжёлое оружие — удваивается).</p>",
+      + "а его запас боеприпасов утраивается (тяжёлое оружие — удваивается).</p>"
+      + "<p><em>Перетащите оружие на гнездо этой руки, и оно появится у вас "
+      + "надетым, пока рука установлена. Пустое гнездо — это законченное "
+      + "состояние: книга говорит, что оружие добывается отдельно.</em></p>",
     levels: ARM_LEVELS,
-    proseOnly: true
+    // стр. 263: «интегрированным стрелковым или рукопашным оружием (которые
+    // нужно добыть отдельно)». The book prints no profile because the weapon is
+    // whatever the character bought, so this is a socket, not a weapon.
+    mechanics: [
+      { operator: "AND", entries: [{ kind: "weaponMount", emptySocket: true }] }
+    ]
   },
 
   {
@@ -415,9 +443,16 @@ export const BIONICS = [
       + LIMB,
     rules:
       "<p>Обычное предплечье с кистью идёт в комплекте; прочие добываются отдельно. "
-      + "Смена предплечья занимает <strong>действие</strong>.</p>",
+      + "Смена предплечья занимает <strong>действие</strong>.</p>"
+      + "<p><em>Если в порт вставлена рука-оружие, перетащите это оружие на гнездо "
+      + "порта. Пустое гнездо — это обычное предплечье с кистью, то есть "
+      + "законченное состояние, а не недоделанное.</em></p>",
     levels: ARM_LEVELS,
-    proseOnly: true
+    // стр. 263: обычное предплечье «идёт в комплекте», монозадачная рука и
+    // рука-оружие «добываемые отдельно». A socket with nothing printed in it.
+    mechanics: [
+      { operator: "AND", entries: [{ kind: "weaponMount", emptySocket: true }] }
+    ]
   },
 
   {

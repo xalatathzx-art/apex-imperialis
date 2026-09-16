@@ -10,7 +10,7 @@
       "player": "<p>Массивный серво-манипулятор для подъёма огромных тяжестей — вроде приподнятия танка на бок для полевого ремонта. Занимает два порта для мехадендритов.</p>",
       "gm": ""
     },
-    "rules": "<p>Повышает вес ношения владельца до собственного, если тот не выше; клещи могут закрепиться против попыток сдвинуть владельца с места и помогают в Карабканье, но не годятся для тонких манипуляций. Профиль: Хват Utility, S(Un) 75(7), Длина 1.5м, Rng 1-5, Урон 2d10+14 I(Cr), Imprecise, Primitive, Reinforced.</p>",
+    "rules": "<p>Повышает вес ношения владельца до собственного, если тот не выше; клещи могут закрепиться против попыток сдвинуть владельца с места и помогают в Карабканье, но не годятся для тонких манипуляций.</p><p>Удар серво-рукой: <strong>урон 25</strong>, <em>Бесполезное</em>. Книжные <em>Imprecise</em> и <em>Reinforced</em> impmal не выражает.</p><p><em>Бонус Силы владельца к этому урону не прибавляется: собственная Сила мехадендрита уже учтена в числе.</em></p>",
     "page": "DoomBC стр. 278",
     "category": "mechadendrite",
     "rarity": 3,
@@ -44,7 +44,36 @@
     "installed": false,
     "disabled": false,
     "active": true,
-    "mechanics": [],
+    "mechanics": [
+      {
+        "id": "navisImpGrp00870",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt08700",
+            "kind": "weapon",
+            "profile": {
+              "name": "Серво-Рука",
+              "attackType": "melee",
+              "category": "mundane",
+              "spec": "brawling",
+              "range": "",
+              "damage": {
+                "base": "25",
+                "characteristic": "",
+                "SL": false,
+                "ignoreAP": false
+              }
+            }
+          },
+          {
+            "id": "navisImpEnt08701",
+            "kind": "weaponTrait",
+            "traitKey": "ineffective"
+          }
+        ]
+      }
+    ],
     "chosenEffects": {}
   },
   "effects": [],
@@ -53,7 +82,7 @@
       "source": "DoomBC_Core",
       "generated": "tools/make-implants.mjs",
       "reference": "DoomBC стр. 278",
-      "proseOnly": true
+      "proseOnly": false
     }
   },
   "_stats": {

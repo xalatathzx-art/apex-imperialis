@@ -10,7 +10,7 @@
       "player": "<p>Простейший мехадендрит с четырёхпалым манипулятором на конце — дополнительная рука без специализированных свойств, способная на любую работу, посильную человеческой руке, и пользующаяся инструментами, но не оружием.</p>",
       "gm": ""
     },
-    "rules": "<p>Даёт бонус на любые проверки Крафта за каждый установленный мехатендрил. Мехадендриты несут собственный показатель Силы, независимый от Силы владельца, и используют его при подъёме и переноске. Профиль: Хват Utility, S(Un) 40(2), Длина 3м, Rng 0-8, Урон 1d10+6 R, Pen 0, Flexible, Primitive.</p>",
+    "rules": "<p>Даёт бонус на любые проверки Крафта за каждый установленный мехатендрил. Эту сумму механика предмета не видит — она считается по всем вашим мехатендрилам сразу, а предмет знает только себя. Мехадендриты несут собственный показатель Силы, независимый от Силы владельца, и используют его при подъёме и переноске.</p><p>Рукопашная атака мехатендрилом: <strong>урон 11</strong>, <em>Бесполезное</em>, <em>Длинное</em> (стебель 3 м).</p><p><em>Бонус Силы владельца к этому урону не прибавляется: собственная Сила мехадендрита уже учтена в числе.</em></p>",
     "page": "DoomBC стр. 277",
     "category": "mechadendrite",
     "rarity": 1,
@@ -44,7 +44,41 @@
     "installed": false,
     "disabled": false,
     "active": true,
-    "mechanics": [],
+    "mechanics": [
+      {
+        "id": "navisImpGrp00780",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt07800",
+            "kind": "weapon",
+            "profile": {
+              "name": "Мехатендрил",
+              "attackType": "melee",
+              "category": "mundane",
+              "spec": "brawling",
+              "range": "",
+              "damage": {
+                "base": "11",
+                "characteristic": "",
+                "SL": false,
+                "ignoreAP": false
+              }
+            }
+          },
+          {
+            "id": "navisImpEnt07801",
+            "kind": "weaponTrait",
+            "traitKey": "ineffective"
+          },
+          {
+            "id": "navisImpEnt07802",
+            "kind": "weaponTrait",
+            "traitKey": "reach"
+          }
+        ]
+      }
+    ],
     "chosenEffects": {}
   },
   "effects": [],
@@ -53,7 +87,7 @@
       "source": "DoomBC_Core",
       "generated": "tools/make-implants.mjs",
       "reference": "DoomBC стр. 277",
-      "proseOnly": true
+      "proseOnly": false
     }
   },
   "_stats": {

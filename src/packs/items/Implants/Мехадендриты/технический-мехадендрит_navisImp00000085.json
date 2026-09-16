@@ -10,7 +10,7 @@
       "player": "<p>Многозадачный мехадендрит для ремонта, обслуживания и конструкции, оборудованный набором пил, дрелей, зажимов, резаков и паяльников.</p>",
       "gm": ""
     },
-    "rules": "<p>Оборудован Комби-Инструментом и даёт бонус на проверки Техники для физического ремонта и запуска устройств, а встроенная модификация Кадило штрафует Ближний и Дальний бой цели на Раунд. Профиль: Хват Utility, S(Un) 30(0), Длина 3м, Rng 0-8, Урон 1d5+3 R, Pen 2, Flexible, Precise, Reinforced.</p>",
+    "rules": "<p>Оборудован Комби-Инструментом и даёт бонус на проверки Техники для физического ремонта и запуска устройств, а встроенная модификация Кадило штрафует Ближний и Дальний бой цели на Раунд.</p><p>Рукопашная атака пилами и резаками: <strong>урон 6</strong>, <em>Бронебойное 2</em>, <em>Длинное</em> (стебель 3 м).</p><p><em>Бонус Силы владельца к этому урону не прибавляется: собственная Сила мехадендрита уже учтена в числе.</em></p>",
     "page": "DoomBC стр. 278",
     "category": "mechadendrite",
     "rarity": 2,
@@ -44,7 +44,42 @@
     "installed": false,
     "disabled": false,
     "active": true,
-    "mechanics": [],
+    "mechanics": [
+      {
+        "id": "navisImpGrp00840",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt08400",
+            "kind": "weapon",
+            "profile": {
+              "name": "Технический Мехадендрит",
+              "attackType": "melee",
+              "category": "mundane",
+              "spec": "brawling",
+              "range": "",
+              "damage": {
+                "base": "6",
+                "characteristic": "",
+                "SL": false,
+                "ignoreAP": false
+              }
+            }
+          },
+          {
+            "id": "navisImpEnt08401",
+            "kind": "weaponTrait",
+            "traitKey": "penetrating",
+            "traitValue": 2
+          },
+          {
+            "id": "navisImpEnt08402",
+            "kind": "weaponTrait",
+            "traitKey": "reach"
+          }
+        ]
+      }
+    ],
     "chosenEffects": {}
   },
   "effects": [],
@@ -53,7 +88,7 @@
       "source": "DoomBC_Core",
       "generated": "tools/make-implants.mjs",
       "reference": "DoomBC стр. 278",
-      "proseOnly": true
+      "proseOnly": false
     }
   },
   "_stats": {

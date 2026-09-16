@@ -10,7 +10,7 @@
       "player": "<p>Специализированный мехадендрит для термической и химической обработки поверхностей — резки, сварки, перекраски.</p>",
       "gm": ""
     },
-    "rules": "<p>Даёт бонус на проверки Техники и Ремесла для ремонта и заметно выше — для косметических модификаций. Может стрелять, как Легион-Огнемёт, из двух баков альтернативного топлива. Профиль удара: Хват Utility, S(Un) 30(0), Длина 2м, Rng 0-6, Урон 1d10+9 E(Fl) или 1d10+3 I(Cr), Pen 4/0, Contained Flame, Imprecise / Imprecise, Primitive.</p>",
+    "rules": "<p>Даёт бонус на проверки Техники и Ремесла для ремонта и заметно выше — для косметических модификаций. Может стрелять, как Легион-Огнемёт, из двух баков альтернативного топлива.</p><p>Пламя факела вынесено в оружие: <strong>урон 14</strong>, <em>Бронебойное 4</em>, <em>Горение</em>. Второй книжный профиль — голый удар стволом на <strong>урон 8</strong> без пробития и с <em>Бесполезным</em> — оставлен текстом: одно свойство пробития на имплант, и оно принадлежит пламени.</p><p><em>Бонус Силы владельца к этому урону не прибавляется: собственная Сила мехадендрита уже учтена в числе.</em></p>",
     "page": "DoomBC стр. 278",
     "category": "mechadendrite",
     "rarity": 3,
@@ -44,7 +44,43 @@
     "installed": false,
     "disabled": false,
     "active": true,
-    "mechanics": [],
+    "mechanics": [
+      {
+        "id": "navisImpGrp00850",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt08500",
+            "kind": "weapon",
+            "profile": {
+              "name": "Фуцелиновый Факел",
+              "attackType": "melee",
+              "category": "mundane",
+              "spec": "brawling",
+              "range": "",
+              "damage": {
+                "base": "14",
+                "characteristic": "",
+                "SL": false,
+                "ignoreAP": false
+              }
+            }
+          },
+          {
+            "id": "navisImpEnt08501",
+            "kind": "weaponTrait",
+            "traitKey": "penetrating",
+            "traitValue": 4
+          },
+          {
+            "id": "navisImpEnt08502",
+            "kind": "weaponTrait",
+            "traitKey": "inflict",
+            "traitValue": "Горение"
+          }
+        ]
+      }
+    ],
     "chosenEffects": {}
   },
   "effects": [],
@@ -53,7 +89,7 @@
       "source": "DoomBC_Core",
       "generated": "tools/make-implants.mjs",
       "reference": "DoomBC стр. 278",
-      "proseOnly": true
+      "proseOnly": false
     }
   },
   "_stats": {

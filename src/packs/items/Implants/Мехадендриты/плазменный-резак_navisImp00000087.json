@@ -10,7 +10,7 @@
       "player": "<p>Специализированный мехадендрит для резки и сварки корабельных корпусов и тяжёлой техники.</p>",
       "gm": ""
     },
-    "rules": "<p>Даёт бонус на проверки Техники и Ремесла, связанные с резкой или сваркой. Может стрелять, как Легион-Плазменный Пистолет, без свойства Maximal и без расхода боеприпасов. Профиль удара: Хват Utility, S(Un) 30(0), Длина 2м, Rng 0-6, Урон 1d10+10 E или 1d10+3 I(Cr), Pen 8/0, Contained / Imprecise, Primitive.</p>",
+    "rules": "<p>Даёт бонус на проверки Техники и Ремесла, связанные с резкой или сваркой. Может стрелять, как Легион-Плазменный Пистолет, без свойства Maximal и без расхода боеприпасов.</p><p>Плазменная струя вынесена в оружие: <strong>урон 15</strong>, <em>Бронебойное 8</em>. Второй книжный профиль — голый удар стволом на <strong>урон 8</strong> без пробития и с <em>Бесполезным</em> — оставлен текстом: одно свойство пробития на имплант, и оно принадлежит струе.</p><p><em>Бонус Силы владельца к этому урону не прибавляется: собственная Сила мехадендрита уже учтена в числе.</em></p>",
     "page": "DoomBC стр. 278",
     "category": "mechadendrite",
     "rarity": 3,
@@ -44,7 +44,37 @@
     "installed": false,
     "disabled": false,
     "active": true,
-    "mechanics": [],
+    "mechanics": [
+      {
+        "id": "navisImpGrp00860",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt08600",
+            "kind": "weapon",
+            "profile": {
+              "name": "Плазменный Резак",
+              "attackType": "melee",
+              "category": "mundane",
+              "spec": "brawling",
+              "range": "",
+              "damage": {
+                "base": "15",
+                "characteristic": "",
+                "SL": false,
+                "ignoreAP": false
+              }
+            }
+          },
+          {
+            "id": "navisImpEnt08601",
+            "kind": "weaponTrait",
+            "traitKey": "penetrating",
+            "traitValue": 8
+          }
+        ]
+      }
+    ],
     "chosenEffects": {}
   },
   "effects": [],
@@ -53,7 +83,7 @@
       "source": "DoomBC_Core",
       "generated": "tools/make-implants.mjs",
       "reference": "DoomBC стр. 278",
-      "proseOnly": true
+      "proseOnly": false
     }
   },
   "_stats": {
