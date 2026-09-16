@@ -19,9 +19,23 @@
  *     four, because the availability test rolls against it.
  *   - at least one quality level carries text. An implant with an empty ladder
  *     renders four blank tabs on the sheet.
- *   - every entry kind is one `targets.js` knows, and no entry is a `script`,
- *     a `trait` or a `talent`. Nothing in this cycle executes or grants those,
- *     so one in the pack is a rule that silently does nothing.
+ *   - every entry kind is one `targets.js` knows, and no entry is a `script` —
+ *     nothing executes one, so one in the pack is a rule that silently does
+ *     nothing. `trait` and `talent` used to be listed here too; Task 6 built
+ *     the grant machinery they needed, so they are ordinary entries now.
+ *   - a `weaponTrait` entry's `traitKey` is one of impmal's 21 weapon traits,
+ *     and it carries a `traitValue` only if that trait is one of the eight
+ *     that take one — a value on any other trait is dropped silently at
+ *     runtime by weapon-profile.js, so the audit is the only place that
+ *     catches an author who typed one anyway.
+ *   - a `conditionImmunity` entry's `condition` is one of impmal's 14 tiered
+ *     conditions.
+ *   - a `weapon` entry's `profile` has a name and an `attackType` of `melee`
+ *     or `ranged`.
+ *   - a `weaponMount` entry has either a `sourceUuid` or `emptySocket: true`.
+ *     An unfinished mount that says nothing is exactly the silent-inert case
+ *     this audit exists to catch; a declared empty socket is a finished state
+ *     the rulebook describes.
  *   - an implant either carries mechanics or is marked prose-only, and every
  *     prose-only implant is LISTED BY NAME rather than passed over. Prose-only
  *     is a legitimate outcome — the book is full of effects impmal cannot
@@ -40,6 +54,8 @@ import { fileURLToPath } from "node:url";
 
 import { SLOTS, locationForSlot } from "../module/implants/classify.js";
 import { ENTRY_KINDS } from "../module/implants/mechanics/targets.js";
+import { CONDITION_KEYS } from "../module/implants/mechanics/compile.js";
+import { WEAPON_TRAITS_WITH_VALUE } from "../module/implants/weapon-profile.js";
 import { TALENT_NAMES } from "../module/implants/test-mods.js";
 import { IMPLANT_TYPE } from "../module/implants/state.js";
 
@@ -56,15 +72,28 @@ const SLOT_KEYS = new Set(SLOTS.map(slot => slot.key));
 const KNOWN_KINDS = new Set(ENTRY_KINDS);
 
 /**
- * Kinds nothing in this cycle executes. An entry of this kind is a silent no-op.
+ * Kinds nothing executes. An entry of this kind is a silent no-op.
  *
- * `script` is decided at roll time and nothing runs it. `trait` and `talent`
- * would grant an item, and no code on this cycle grants anything: targets.js
- * gives them no data path, apply.js never creates an item for them, and the
- * `sourceUuid` the constructor records is read by nobody. Granting is a later
- * cycle; until it exists, authored content must not be able to rely on them.
+ * `trait` and `talent` used to be here too, but Task 6 built the grant
+ * machinery (grants.js, grants-apply.js) they always needed, so they moved out.
+ * `script` stays: it is decided at roll time and nothing on this cycle runs one.
  */
-const UNSUPPORTED_KINDS = new Set(["script", "trait", "talent"]);
+const UNSUPPORTED_KINDS = new Set(["script"]);
+
+/**
+ * impmal's 21 weapon/armour traits, keyed exactly as `traitKey` stores them.
+ *
+ * Read from `game.impmal.config.weaponArmourTraits` in a running world
+ * (systems/impmal/impmal.js), because this audit runs under plain node with no
+ * Foundry to import that config from. Kept as a checked list here rather than
+ * re-derived at every run: a system update that adds a 22nd trait would need
+ * this list refreshed by hand, same as WEAPON_TRAITS_WITH_VALUE already is.
+ */
+export const WEAPON_TRAIT_KEYS = new Set([
+  "blast", "burst", "close", "defensive", "flamer", "heavy", "ineffective",
+  "inflict", "loud", "penetrating", "rapidFire", "reach", "reliable", "rend",
+  "shield", "spread", "subtle", "supercharge", "thrown", "twohanded", "unstable"
+]);
 
 const problems = [];
 const fail = message => problems.push(message);
@@ -79,6 +108,70 @@ const checkId = (id, where, what) => {
   return true;
 };
 
+/**
+ * The new cycle-B entry kinds, each checked in isolation and pure — no
+ * filesystem, no shared state — so a test can hand one entry object in and
+ * read the problems back out. `where` is prefixed by the caller, not here.
+ */
+
+/** @returns {string[]} problems with a weaponTrait entry, or [] if it is fine. */
+export function weaponTraitProblems(entry) {
+  const problems = [];
+  const key = entry.traitKey;
+
+  if (!WEAPON_TRAIT_KEYS.has(key)) {
+    problems.push(`weaponTrait entry "${entry.id}" has traitKey "${key}", which is not one of impmal's 21 weapon traits`);
+    return problems;
+  }
+
+  const hasTraitValue = entry.traitValue !== undefined && entry.traitValue !== null && entry.traitValue !== "";
+  if (hasTraitValue && !WEAPON_TRAITS_WITH_VALUE.includes(key)) {
+    problems.push(
+      `weaponTrait entry "${entry.id}" carries traitValue "${entry.traitValue}" on trait "${key}", `
+      + "which does not take one — weapon-profile.js drops it silently at runtime"
+    );
+  }
+
+  return problems;
+}
+
+/** @returns {string[]} problems with a conditionImmunity entry, or [] if it is fine. */
+export function conditionImmunityProblems(entry) {
+  if (CONDITION_KEYS.includes(entry.condition)) return [];
+  return [`conditionImmunity entry "${entry.id}" has condition "${entry.condition}", which is not one of impmal's tiered conditions`];
+}
+
+/** @returns {string[]} problems with a weapon entry, or [] if it is fine. */
+export function weaponProblems(entry) {
+  const problems = [];
+  const profile = entry.profile;
+
+  if (!profile?.name) {
+    problems.push(`weapon entry "${entry.id}" has no profile name`);
+  }
+  if (profile?.attackType !== "melee" && profile?.attackType !== "ranged") {
+    problems.push(`weapon entry "${entry.id}" has profile attackType "${profile?.attackType}", expected "melee" or "ranged"`);
+  }
+
+  return problems;
+}
+
+/** @returns {string[]} problems with a weaponMount entry, or [] if it is fine. */
+export function weaponMountProblems(entry) {
+  if (entry.sourceUuid || entry.emptySocket === true) return [];
+  return [
+    `weaponMount entry "${entry.id}" has no sourceUuid and is not marked emptySocket — `
+    + "an unfinished mount must say so"
+  ];
+}
+
+const KIND_PROBLEM_CHECKS = Object.freeze({
+  weaponTrait: weaponTraitProblems,
+  conditionImmunity: conditionImmunityProblems,
+  weapon: weaponProblems,
+  weaponMount: weaponMountProblems
+});
+
 function documents(dir) {
   const found = [];
   if (!fs.existsSync(dir)) return found;
@@ -92,6 +185,16 @@ function documents(dir) {
   }
   return found;
 }
+
+/**
+ * The scan itself, run only when this file is executed directly.
+ *
+ * Everything above this point is pure and side-effect-free, so
+ * tests/implants-audit.test.mjs can import the per-kind checkers without
+ * walking src/packs/items or risking a `process.exit(1)` inside the test
+ * runner. Guarding the scan behind this check is what makes that safe.
+ */
+function main() {
 
 /* ── folders ───────────────────────────────────────────────────────────── */
 
@@ -205,7 +308,12 @@ for (const [file, document] of documents(SRC)) {
         fail(`${where}: entry "${entry.id}" has kind "${entry.kind}", which targets.js does not know`);
       }
       if (UNSUPPORTED_KINDS.has(entry.kind)) {
-        fail(`${where}: entry "${entry.id}" is a "${entry.kind}" entry, and nothing in this cycle executes one`);
+        fail(`${where}: entry "${entry.id}" is a "${entry.kind}" entry, and nothing executes one`);
+      }
+
+      const kindCheck = KIND_PROBLEM_CHECKS[entry.kind];
+      if (kindCheck) {
+        for (const problem of kindCheck(entry)) fail(`${where}: ${problem}`);
       }
     }
   }
@@ -253,4 +361,10 @@ if (proseOnly.length) {
   for (const name of proseOnly) console.log(`  • ${name}`);
 } else {
   console.log("\nтолько текстом: ни одного");
+}
+
+}
+
+if (process.argv[1] && fileURLToPath(import.meta.url) === path.resolve(process.argv[1])) {
+  main();
 }
