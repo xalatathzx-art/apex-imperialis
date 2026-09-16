@@ -210,7 +210,19 @@ function fittedEntry(item, side) {
 export function offerSides(paired, free) {
   if (!paired) return [{ side: "", label: t("NAVIS.Surgeon.Install") }];
   if (!free.length) return [{ side: "", label: t("NAVIS.Surgeon.Install") }];
-  return free.map(side => ({ side, label: `${t("NAVIS.Surgeon.Install")} · ${sideLabel(side)}` }));
+  if (free.length === 1) {
+    const side = free[0];
+    return [{ side, label: `${t("NAVIS.Surgeon.Install")} · ${sideLabel(side)}` }];
+  }
+  // Both sides free: two buttons now share the row with the implant's name,
+  // which the row has no width to spare for. Each button shrinks to just the
+  // side, and the full action moves into its tooltip so which side it fits
+  // stays unambiguous.
+  return free.map(side => ({
+    side,
+    label: sideLabel(side),
+    tooltip: `${t("NAVIS.Surgeon.Install")} · ${sideLabel(side)}`
+  }));
 }
 
 function groupByCategory(entries) {

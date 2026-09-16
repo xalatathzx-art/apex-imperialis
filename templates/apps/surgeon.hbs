@@ -58,10 +58,10 @@
         {{#each stock}}
         <div class="navis-surgeon-row stock" data-item-id="{{id}}" style="--navis-implant-tint:{{tint}}">
           <img src="{{img}}" alt="" data-action="navisOpenItem" data-tooltip="{{localize 'NAVIS.Surgeon.OpenSheet'}}">
-          <span class="label"><b>{{name}}</b><small>{{quality}}</small></span>
+          <span class="label"><b data-tooltip="{{name}}">{{name}}</b><small>{{quality}}</small></span>
           {{#if @root.canOperate}}
           {{#each sides}}
-          <button type="button" class="navis-surgeon-act go" data-action="navisFit" data-side="{{side}}">{{label}}</button>
+          <button type="button" class="navis-surgeon-act go" data-action="navisFit" data-side="{{side}}" {{#if tooltip}}data-tooltip="{{tooltip}}"{{/if}}>{{label}}</button>
           {{/each}}
           {{#if @root.isGM}}
           <button type="button" class="navis-surgeon-act gm" data-action="navisFitNoTest"
@@ -79,11 +79,11 @@
         {{#each entries}}
         <div class="navis-surgeon-row offer" style="--navis-implant-tint:{{tint}}">
           <img src="{{img}}" alt="" data-action="navisOpenItem" data-uuid="{{uuid}}" data-tooltip="{{localize 'NAVIS.Surgeon.OpenSheet'}}">
-          <span class="label"><b>{{name}}</b><small>{{quality}}</small></span>
+          <span class="label"><b data-tooltip="{{name}}">{{name}}</b><small>{{quality}}</small></span>
           {{#if @root.canOperate}}
           {{#each sides}}
           <button type="button" class="navis-surgeon-act go" data-action="navisInstall"
-                  data-uuid="{{../uuid}}" data-slot="{{../slot}}" data-side="{{side}}">{{label}}</button>
+                  data-uuid="{{../uuid}}" data-slot="{{../slot}}" data-side="{{side}}" {{#if tooltip}}data-tooltip="{{tooltip}}"{{/if}}>{{label}}</button>
           {{/each}}
           {{#if ../../bothSides}}
           <button type="button" class="navis-surgeon-act both" data-action="navisInstallBoth"
