@@ -13,8 +13,8 @@
  * not cascade that delete on its own.
  */
 
-import { GRANT_FLAG, diffGrants, grantKey, plannedGrants } from "./grants.js";
-import { resolveEntries } from "./mechanics/entries.js";
+import { GRANT_FLAG, diffGrants, grantKey, plannedGrants, weaponTraitEntries } from "./grants.js";
+import { enqueue } from "./mechanics/apply.js";
 import { WEAPON_TRAITS_WITH_VALUE, weaponDataFromProfile } from "./weapon-profile.js";
 import { IMPLANT_TYPE } from "./state.js";
 
@@ -37,10 +37,31 @@ function traitFromEntry(entry) {
 
 const traitsList = (traitEntries) => traitEntries.map(traitFromEntry).filter(Boolean);
 
-/** This implant's weaponTrait entries — applied TO a granted weapon, never granted as their own document. */
-function weaponTraitEntriesOf(item) {
-  const chosen = item.system?.chosenEffects ?? {};
-  return resolveEntries(item.system?.mechanics, chosen).filter(entry => entry?.kind === "weaponTrait");
+/**
+ * The traits a MOUNTED weapon ends up with: its own, plus the implant's, the
+ * implant winning where both name the same trait.
+ *
+ * This must merge and not replace. A mount's source is a real weapon fetched by
+ * UUID and it arrives carrying its own traits — overwriting the list strips a
+ * bolt pistol of `loud`, a chainsword of `rend`, a plasma gun of `supercharge`,
+ * silently, the moment it is socketed. The weapon path has no such problem:
+ * there the profile IS the weapon, so its trait list is authored whole.
+ */
+function mergedTraitsList(sourceList, traitEntries) {
+  const merged = Array.isArray(sourceList) ? sourceList.filter(trait => trait?.key) : [];
+  const byKey = new Map(merged.map((trait, index) => [trait.key, index]));
+
+  for (const trait of traitsList(traitEntries)) {
+    const at = byKey.get(trait.key);
+    if (at === undefined) {
+      byKey.set(trait.key, merged.length);
+      merged.push(trait);
+    } else {
+      merged[at] = trait;
+    }
+  }
+
+  return merged;
 }
 
 /** Documents this implant has already granted, read off its actor. */
@@ -52,9 +73,13 @@ function existingGrants(item) {
     .map(doc => ({ id: doc.id, key: doc.getFlag(MODULE_ID, GRANT_FLAG) }));
 }
 
-/** One planned grant → creation data for `Actor#createEmbeddedDocuments`, or null if it cannot be built. */
-async function creationDataFor(item, planned, traitEntries) {
-  const flags = { [MODULE_ID]: { [GRANT_FLAG]: grantKey(item.id, planned.entryId) } };
+/**
+ * One planned grant → creation data for `Actor#createEmbeddedDocuments`, or
+ * null if it cannot be built. Exported for tests, which pass a stub source
+ * document rather than reaching a compendium.
+ */
+export async function creationDataFor(item, planned, traitEntries) {
+  const flags = { [MODULE_ID]: { [GRANT_FLAG]: grantKey(item.id, planned.entryId, planned.hash) } };
 
   if (planned.kind === "weapon") {
     const data = weaponDataFromProfile(planned.data.profile, traitEntries);
@@ -72,8 +97,13 @@ async function creationDataFor(item, planned, traitEntries) {
   data.flags = foundry.utils.mergeObject(data.flags ?? {}, flags);
 
   if (planned.kind === "weaponMount") {
-    foundry.utils.setProperty(data, "system.equipped.value", true);
-    foundry.utils.setProperty(data, "system.traits.list", traitsList(traitEntries));
+    // `force` is load-bearing, exactly as in weapon-profile.js for a grown-in
+    // weapon: without it impmal's computeEquipped (impmal.js:8757) recomputes
+    // `value` from whether a hand is holding the item, and a socketed weapon is
+    // in no hand — so it un-equips itself on the first data preparation.
+    foundry.utils.setProperty(data, "system.equipped", { value: true, force: true });
+    foundry.utils.setProperty(data, "system.traits.list",
+      mergedTraitsList(foundry.utils.getProperty(data, "system.traits.list"), traitEntries));
   }
 
   return data;
@@ -101,7 +131,7 @@ export async function syncImplantGrants(item) {
   const { create, remove } = diffGrants(planned, existing, item.id);
 
   if (create.length) {
-    const traitEntries = weaponTraitEntriesOf(item);
+    const traitEntries = weaponTraitEntries(item);
     const toCreate = [];
     for (const p of create) {
       const data = await creationDataFor(item, p, traitEntries);
@@ -114,34 +144,22 @@ export async function syncImplantGrants(item) {
 }
 
 /**
- * Keyed promise chain, copied from mechanics/apply.js's `mechanicsQueues`:
+ * Serialised `syncImplantGrants`, keyed per implant.
+ *
  * Foundry batches `createEmbeddedDocuments`, so several `createItem`/
  * `updateItem` hooks can fire for one user action before the first sync's
  * writes land. Without a queue keyed per implant id, an overlapping pair both
  * read the same stale "existing" snapshot and both take the create path,
  * leaving the implant with two weapons — the same bug cycle A shipped once
  * already with the mechanics effect.
+ *
+ * The queue itself is mechanics/apply.js's `enqueue`, shared rather than
+ * re-typed: it already carries the two properties that matter (the work passed
+ * as both handlers so a rejection cannot wedge the chain, and a failure logged
+ * rather than swallowed), and a private copy is a place for them to drift.
  */
 const grantQueues = new Map();
 
-/**
- * Serialised `syncImplantGrants`, keyed per implant.
- *
- * `work` is passed as BOTH the fulfilment and rejection handler: a rejected
- * sync must not wedge this implant's chain, or one failure would stop that
- * implant from ever syncing its grants again for the rest of the session. The
- * failure is logged rather than swallowed so a grant that silently stopped
- * following its sheet is not indistinguishable from a grant that never had
- * anything wrong with it.
- */
 export function queueGrantSync(item) {
-  if (!item?.id) return Promise.resolve();
-
-  const work = () => syncImplantGrants(item);
-  const next = (grantQueues.get(item.id) ?? Promise.resolve()).then(work, work);
-  grantQueues.set(item.id, next);
-
-  return next.catch(error => {
-    console.error(`${MODULE_ID} | grant sync failed`, error);
-  });
+  return enqueue(grantQueues, item?.id, () => syncImplantGrants(item), "Implant grants");
 }

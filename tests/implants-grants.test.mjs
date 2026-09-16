@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { GRANT_FLAG, grantKey, plannedGrants, diffGrants } from "../module/implants/grants.js";
+import { GRANT_FLAG, grantKey, plannedGrants, diffGrants, weaponTraitEntries } from "../module/implants/grants.js";
 
 const IMPLANT = "navis-apexialis.implant";
 const implant = (entries, { installed = true, disabled = false, active = true, id = "imp1" } = {}) => ({
@@ -75,4 +75,68 @@ test("diff leaves a grant that is both planned and present", () => {
   const { create, remove } = diffGrants(planned, existing, "imp1");
   assert.deepEqual(create, []);
   assert.deepEqual(remove, []);
+});
+
+test("an edited profile reads as a different grant — remove plus create", () => {
+  const before = plannedGrants(implant([
+    { id: "e1", kind: "weapon", profile: { name: "Когти", damage: { base: "4" } } }
+  ]));
+  const existing = [{ id: "doc1", key: grantKey("imp1", "e1", before[0].hash) }];
+
+  // Same entry id, edited contents.
+  const after = plannedGrants(implant([
+    { id: "e1", kind: "weapon", profile: { name: "Когти", damage: { base: "6" } } }
+  ]));
+
+  const { create, remove } = diffGrants(after, existing, "imp1");
+  assert.deepEqual(remove, ["doc1"]);
+  assert.equal(create.length, 1);
+  assert.equal(create[0].entryId, "e1");
+});
+
+test("re-pointing a mount replaces the weapon instead of leaving the old one", () => {
+  const before = plannedGrants(implant([{ id: "e1", kind: "weaponMount", sourceUuid: "Compendium.x.y.Item.old" }]));
+  const existing = [{ id: "doc1", key: grantKey("imp1", "e1", before[0].hash) }];
+
+  const after = plannedGrants(implant([{ id: "e1", kind: "weaponMount", sourceUuid: "Compendium.x.y.Item.new" }]));
+  const { create, remove } = diffGrants(after, existing, "imp1");
+  assert.deepEqual(remove, ["doc1"]);
+  assert.equal(create.length, 1);
+});
+
+test("a weaponTrait added later changes the weapon's grant key", () => {
+  const before = plannedGrants(implant([
+    { id: "e1", kind: "weapon", profile: { name: "Когти" } }
+  ]));
+  const after = plannedGrants(implant([
+    { id: "e1", kind: "weapon", profile: { name: "Когти" } },
+    { id: "e2", kind: "weaponTrait", traitKey: "rend", traitValue: 2 }
+  ]));
+  assert.notEqual(before[0].hash, after[0].hash);
+});
+
+test("untouched content keeps its hash, so an unchanged grant is left alone", () => {
+  const entries = [{ id: "e1", kind: "weapon", profile: { name: "Когти", damage: { base: "4" } } }];
+  const a = plannedGrants(implant(entries));
+  const b = plannedGrants(implant(structuredClone(entries)));
+  assert.equal(a[0].hash, b[0].hash);
+
+  const existing = [{ id: "doc1", key: grantKey("imp1", "e1", a[0].hash) }];
+  const { create, remove } = diffGrants(b, existing, "imp1");
+  assert.deepEqual(create, []);
+  assert.deepEqual(remove, []);
+});
+
+test("the grant key still starts with the implant id, which the removal path matches on", () => {
+  const planned = plannedGrants(implant([{ id: "e1", kind: "weapon", profile: { name: "Когти" } }]));
+  assert.ok(grantKey("imp1", "e1", planned[0].hash).startsWith("imp1:"));
+});
+
+test("weaponTraitEntries reports only the trait entries", () => {
+  const entries = weaponTraitEntries(implant([
+    { id: "e1", kind: "weapon", profile: { name: "Когти" } },
+    { id: "e2", kind: "weaponTrait", traitKey: "rend", traitValue: 2 }
+  ]));
+  assert.equal(entries.length, 1);
+  assert.equal(entries[0].traitKey, "rend");
 });

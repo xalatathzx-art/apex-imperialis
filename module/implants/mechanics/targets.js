@@ -11,7 +11,8 @@
  *
  * Three groups of kinds have NO path:
  * - Live kinds (`testMod`, `script`): decided when a test is prepared.
- * - Grant kinds (`trait`, `talent`): create items rather than change numbers.
+ * - Grant kinds (`trait`, `talent`, `weapon`, `weaponMount`, `weaponTrait`):
+ *   create or modify items rather than change numbers.
  * - Computed kinds (`energy`): computed directly, not via effects pipeline.
  */
 

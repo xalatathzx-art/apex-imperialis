@@ -194,8 +194,12 @@ const energyQueues = new Map();
  * synced again for the rest of the session. A failure is logged rather than
  * swallowed, because an implant whose numbers stopped following its sheet is
  * otherwise indistinguishable from an implant with no numbers.
+ *
+ * Exported because grants-apply.js needs the same chain for its own queue.
+ * There is one implementation of this on purpose: a hand-copied variant is a
+ * place for those two properties to drift apart.
  */
-function enqueue(queues, key, work, what) {
+export function enqueue(queues, key, work, what) {
   if (!key) return;
 
   const previous = queues.get(key) ?? Promise.resolve();

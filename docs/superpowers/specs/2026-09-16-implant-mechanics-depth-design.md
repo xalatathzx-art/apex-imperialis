@@ -147,7 +147,19 @@ Two kinds, one outcome: a real impmal `weapon` item on the actor, owned by the
 implant.
 
 **`weapon`** carries the profile in the entry, because the book prints one —
-Pteraxii Talons are "Dmg 1d10+2 R, Pen 4, Reinforced" on the page. Fields map
+Pteraxii Talons are "Dmg 1d10+2 R, Pen 4, Reinforced" on the page.
+
+**`damage.base` is a string field that impmal reads as a NUMBER.**
+`DamageModel.compute` does `this.value = (Number(this.base) || 0) + <characteristic
+bonus>` (`impmal.js:8031`), so a die expression like `"1d10+2"` yields `NaN`, falls
+to `0`, and the weapon silently does no damage. Imperium Maledictum does not roll
+dice for weapon damage at all — it is a flat number plus a characteristic bonus,
+which is why a real impmal weapon stores `"6"`. The book's dice must be converted
+before authoring, using the module's own established rule (1d5→3, 1d10→5, 2d10→11,
+flat addends unchanged). An earlier draft of this spec asserted the opposite and
+would have shipped every weapon implant doing zero damage.
+
+Fields map
 onto impmal's own weapon schema, read from a live document rather than guessed:
 
 ```js
