@@ -400,5 +400,6 @@
   "NAVIS.Implant.Mechanics.Neutral": "—",
   "NAVIS.Implant.Mechanics.Throttle": "Throttle",
   "NAVIS.Implant.Mechanics.ThrottleHint": "e.g. once per round",
-  "NAVIS.Implant.Mechanics.ScriptHint": "Code run on an impmal trigger"
+  "NAVIS.Implant.Mechanics.ScriptHint": "Code run on an impmal trigger",
+  "NAVIS.Implant.Mechanics.SaveFailed": "A mechanics edit could not be saved — see the console."
 }

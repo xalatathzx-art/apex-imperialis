@@ -113,9 +113,14 @@
                 </div>
                 <div class="field narrow">
                     <label>{{localize "NAVIS.Implant.Mechanics.Advantage"}}</label>
+                    {{!-- Written out rather than built from an object: the order is the book's. --}}
                     <select data-navis-field="advantage"
                             data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}">
-                        {{selectOptions @root.mechanics.advantageOptions selected=this.advantage localize=true}}
+                        {{#each this.advantageOptions}}
+                        <option value="{{this.value}}" {{#if this.selected}}selected{{/if}}>
+                            {{localize this.label}}
+                        </option>
+                        {{/each}}
                     </select>
                 </div>
             </div>

@@ -1550,5 +1550,6 @@
   "NAVIS.Implant.Mechanics.Neutral": "—",
   "NAVIS.Implant.Mechanics.Throttle": "Ограничение",
   "NAVIS.Implant.Mechanics.ThrottleHint": "например: раз за раунд",
-  "NAVIS.Implant.Mechanics.ScriptHint": "Код, выполняемый на триггере impmal"
+  "NAVIS.Implant.Mechanics.ScriptHint": "Код, выполняемый на триггере impmal",
+  "NAVIS.Implant.Mechanics.SaveFailed": "Не удалось сохранить изменение механики — смотрите консоль."
 }

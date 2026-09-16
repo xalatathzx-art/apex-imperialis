@@ -64,11 +64,19 @@ export const HIT_LOCATIONS = Object.freeze([
   "head", "body", "leftArm", "rightArm", "leftLeg", "rightLeg"
 ]);
 
-const ADVANTAGE_OPTIONS = Object.freeze({
-  1: "NAVIS.Implant.Mechanics.Advantage",
-  0: "NAVIS.Implant.Mechanics.Neutral",
-  "-1": "NAVIS.Implant.Mechanics.Disadvantage"
-});
+/**
+ * An ARRAY, not an object keyed by the stored number.
+ *
+ * JavaScript orders integer-like keys ascending however they were written, so
+ * `{1, 0, "-1"}` would render as "— / Преимущество / Помеха". The book's order
+ * runs from the benefit down to the penalty, so the list has to keep the order
+ * it is written in. The stored value is still the number 1, 0 or -1.
+ */
+const ADVANTAGE_OPTIONS = Object.freeze([
+  { value: "1", label: "NAVIS.Implant.Mechanics.Advantage" },
+  { value: "0", label: "NAVIS.Implant.Mechanics.Neutral" },
+  { value: "-1", label: "NAVIS.Implant.Mechanics.Disadvantage" }
+]);
 
 /** impmal's own config, narrowed to what a select needs. Empty if the system is absent. */
 function systemOptions() {
@@ -83,6 +91,12 @@ function systemOptions() {
     skills: config.skills ?? {},
     locations
   };
+}
+
+/** The three advantage options in the order they are written, one marked selected. */
+function advantageOptionsFor(advantage) {
+  const current = String(Math.sign(Number(advantage) || 0));
+  return ADVANTAGE_OPTIONS.map(option => ({ ...option, selected: option.value === current }));
 }
 
 const groupsOf = item => foundry.utils.deepClone(item?.system?.mechanics ?? []);
@@ -148,7 +162,7 @@ export function mechanicsContext(item) {
 
           isTestMod: !!shape.testMod,
           skill: entry.skill ?? "",
-          advantage: String(Math.sign(Number(entry.advantage) || 0)),
+          advantageOptions: advantageOptionsFor(entry.advantage),
 
           isScript: !!shape.script,
           script: entry.script ?? "",
@@ -162,7 +176,6 @@ export function mechanicsContext(item) {
     groups,
     kindOptions: KIND_OPTIONS,
     skillOptions: options.skills,
-    advantageOptions: ADVANTAGE_OPTIONS,
     empty: groups.length === 0
   };
 }

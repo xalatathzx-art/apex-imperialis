@@ -99,6 +99,31 @@ export function defineImplantSheet() {
      */
     locationTouched = false;
 
+    /**
+     * Constructor writes, one at a time.
+     *
+     * Every editing helper in `mechanics/constructor.js` is a read-modify-write:
+     * it clones `system.mechanics`, changes one field and updates the item. Two
+     * change events landing closer together than one update round-trip — a
+     * designer tabbing quickly between fields — would have the second clone a
+     * snapshot taken before the first write landed, and the first edit would be
+     * lost with nothing on screen to say so.
+     */
+    #queue = Promise.resolve();
+
+    /**
+     * The same callback is passed as both handlers on purpose: a rejected write
+     * must not wedge the chain, or one failure would freeze the constructor for
+     * the rest of the session.
+     */
+    #enqueue(work) {
+      this.#queue = this.#queue.then(work, work);
+      return this.#queue.catch(error => {
+        console.error(`${MODULE_ID} | an implant mechanics edit failed to save.`, error);
+        ui.notifications?.error(game.i18n.localize("NAVIS.Implant.Mechanics.SaveFailed"));
+      });
+    }
+
     static DEFAULT_OPTIONS = {
       classes: ["navis-implant"],
       position: { width: 560, height: 700 },
@@ -225,7 +250,8 @@ export function defineImplantSheet() {
       event.stopPropagation();
 
       const { navisField: field, groupId, entryId, level } = input.dataset;
-      mech.setField(this.item, { groupId, entryId, field, level, value: input.value });
+      const value = input.value;
+      this.#enqueue(() => mech.setField(this.item, { groupId, entryId, field, level, value }));
     }
 
     /**
@@ -244,39 +270,42 @@ export function defineImplantSheet() {
         return ui.notifications.warn(game.i18n.localize("NAVIS.Implant.Mechanics.WrongDrop"));
       }
 
-      return mech.setSource(this.item, target.dataset.groupId, target.dataset.entryId, dropped);
+      return this.#enqueue(() => mech.setSource(this.item, target.dataset.groupId, target.dataset.entryId, dropped));
     }
 
     /* ---------------------------------------- */
     /*  Constructor actions                     */
     /* ---------------------------------------- */
 
+    // Every one of these is a read-modify-write on the same array as the field
+    // edits, so they share the same queue rather than racing them.
+
     static _onAddGroup() {
-      return mech.addGroup(this.item);
+      return this.#enqueue(() => mech.addGroup(this.item));
     }
 
     static _onDeleteGroup(event, target) {
-      return mech.deleteGroup(this.item, target.dataset.groupId);
+      return this.#enqueue(() => mech.deleteGroup(this.item, target.dataset.groupId));
     }
 
     static _onToggleOperator(event, target) {
-      return mech.toggleOperator(this.item, target.dataset.groupId);
+      return this.#enqueue(() => mech.toggleOperator(this.item, target.dataset.groupId));
     }
 
     static _onAddEntry(event, target) {
-      return mech.addEntry(this.item, target.dataset.groupId);
+      return this.#enqueue(() => mech.addEntry(this.item, target.dataset.groupId));
     }
 
     static _onDeleteEntry(event, target) {
-      return mech.deleteEntry(this.item, target.dataset.groupId, target.dataset.entryId);
+      return this.#enqueue(() => mech.deleteEntry(this.item, target.dataset.groupId, target.dataset.entryId));
     }
 
     static _onToggleLadder(event, target) {
-      return mech.toggleLadder(this.item, target.dataset.groupId, target.dataset.entryId);
+      return this.#enqueue(() => mech.toggleLadder(this.item, target.dataset.groupId, target.dataset.entryId));
     }
 
     static _onClearSource(event, target) {
-      return mech.clearSource(this.item, target.dataset.groupId, target.dataset.entryId);
+      return this.#enqueue(() => mech.clearSource(this.item, target.dataset.groupId, target.dataset.entryId));
     }
 
     static async _onOpenSource(event, target) {
