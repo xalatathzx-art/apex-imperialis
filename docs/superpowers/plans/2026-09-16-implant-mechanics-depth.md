@@ -798,8 +798,10 @@ export function weaponDataFromProfile(profile, traitEntries = []) {
         ignoreAP: !!damage.ignoreAP
       },
       traits: { list: traitEntries.map(traitFromEntry).filter(Boolean) },
-      // Grown into the limb: there is nothing to draw.
-      equipped: { value: true, force: false }
+      // Grown into the limb: there is nothing to draw. `force` is load-bearing —
+      // without it impmal.computeEquipped recomputes `value` from whether a hand
+      // is holding the item and immediately un-equips it (impmal.js:8757).
+      equipped: { value: true, force: true }
     }
   };
 }
