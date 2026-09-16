@@ -78,7 +78,12 @@ export async function fitImplant(actor, item, { test = true } = {}) {
   const skillTest = await actor.setupSkillTest(
     { key: "medicae" },
     { appendTitle: ` — ${item.name}` },
-    { fields: { disadvantage: true } }
+    // impmal's `disadvantage` field is a counter, not a boolean: it seeds at
+    // 0, other code does `disadvantage++`, and the roll dialog interpolates
+    // the raw value into its breakdown text. `true` would compute the right
+    // penalty (JS coerces it to 1 in arithmetic) but print "true" to the
+    // player instead of "1". Always pass a count.
+    { fields: { disadvantage: 1 } }
   );
 
   // The GM or player closed the dialog: nothing happened yet.
