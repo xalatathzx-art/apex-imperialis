@@ -48,7 +48,7 @@ Read from `game.impmal.config` in a live world:
 
 **Interfaces:**
 - Consumes: nothing new.
-- Produces: `ENTRY_KINDS` grows to 18; `LIVE_KINDS` grows to `["testMod","script","attackMod","damageBonus","damageReduction","conditionImmunity"]`; `GRANT_KINDS` grows to `["trait","talent","weapon","weaponMount","weaponTrait"]`.
+- Produces: `ENTRY_KINDS` grows from 13 to 20; `LIVE_KINDS` grows to `["testMod","script","attackMod","damageBonus","damageReduction","conditionImmunity"]`; `GRANT_KINDS` grows to `["trait","talent","weapon","weaponMount","weaponTrait"]`.
 
 The five new script kinds and three new grant kinds all resolve to **no data path** — none of them is an Active Effect change. `targetPath` and `entryToChange` must return null for every one.
 
