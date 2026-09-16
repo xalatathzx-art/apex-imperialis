@@ -36,14 +36,14 @@ export function implantsOf(actor) {
 }
 
 /** Where this actor stands against both ceilings. */
-export function actorCapState(actor) {
+export function actorCapState(actor, { talentBonus = 0, sacredCode = false } = {}) {
   const implants = implantsOf(actor);
 
   return capState({
     installed: implants.filter(isImplantFitted).length,
     active: implants.filter(isImplantActive).length,
     toughnessBonus: actor?.system?.characteristics?.tgh?.bonus ?? 0,
-    talentBonus: 0,
-    sacredCode: false
+    talentBonus,
+    sacredCode
   });
 }

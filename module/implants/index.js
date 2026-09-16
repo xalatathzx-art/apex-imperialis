@@ -12,6 +12,7 @@
  */
 
 import { defineImplantModel } from "./model.js";
+import { registerImplantMechanicsHooks } from "./mechanics/apply.js";
 import { defineImplantSheet } from "./sheet.js";
 import { IMPLANT_TYPE } from "./state.js";
 
@@ -31,6 +32,8 @@ export function registerImplantModel() {
   CONFIG.Item.dataModels[IMPLANT_TYPE] = model;
   CONFIG.Item.typeLabels ??= {};
   CONFIG.Item.typeLabels[IMPLANT_TYPE] = "NAVIS.Implant.Type";
+
+  registerImplantMechanicsHooks();
 }
 
 export function registerImplantSheet() {
