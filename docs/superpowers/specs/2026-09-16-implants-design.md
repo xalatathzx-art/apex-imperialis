@@ -248,16 +248,16 @@ Entry kinds, chosen as the set the in-scope families actually need:
 | `speed` | `system.combat.speed.{land,fly}.modifier` |
 | `encumbrance` | `system.encumbrance.{overburdened,restrained}` |
 | `trait` / `talent` | grants an item, by drag-and-drop reference |
-| `energy` | Заряд capacity or refill — `flags.navis-apexialis.mechanicum.energy` |
+| `energy` | no target — Заряд is computed, see below |
 | `testMod` | live request — +N successes or Advantage/Disadvantage on a named test |
 | `script` | free JS, with optional throttle |
 
 `targets.js` holds the kind → path table and nothing else, so adding a target is
 a one-line change in one file.
 
-All kinds except `testMod` and `script` create an Active Effect on the item at
-install time. Those two are **live requests**: they write nothing, and are read
-at the moment of the roll — `testMod` by a script hooked into test preparation,
+All kinds except `testMod`, `script` and `energy` create an Active Effect on the
+item at install time. The first two are **live requests**: they write nothing,
+and are read at the moment of the roll — `testMod` by a script hooked into test preparation,
 which is how impmal expresses success bonuses and Advantage (`args.fields`),
 since neither is an effect key. This mirrors the reference system's
 `terrainIgnore` / `reroll` entries, which are live for the same reason.
