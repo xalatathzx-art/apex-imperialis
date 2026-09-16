@@ -10,6 +10,7 @@ import { WEAPON_TRAIT_EFFECTS } from "./config/weapon-trait-effects.js";
 import { registerVehicleActionRules } from "./config/vehicle-actions.js";
 import { registerContentStrings, registerCompendiumTranslations } from "./content-i18n.js";
 import { registerHorde } from "./horde/index.js";
+import { registerImplantModel, registerImplantSheet, reportImplantState } from "./implants/index.js";
 import { registerEnvironment } from "./environment/index.js";
 import { registerSheetBars } from "./sheet-bars.js";
 import { registerBiomonitor } from "./biomonitor/index.js";
@@ -47,6 +48,7 @@ Hooks.once("init", () => {
 
   registerTerminology();
   registerSpeciesModel();
+  registerImplantModel();
 
   const config = game.impmal?.config;
 
@@ -87,6 +89,8 @@ Hooks.once("ready", () => {
   // Foundry fills CONFIG.Item.sheetClasses after the setup hook, and the Species
   // sheet is built on top of one of impmal's, so this cannot run any earlier.
   registerSpeciesSheet();
+  registerImplantSheet();
+  reportImplantState();
 
   // Both modules ship the same content under different ids, so running them
   // together means every talent, weapon and NPC appears twice.

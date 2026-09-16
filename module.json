@@ -47,7 +47,8 @@
   "documentTypes": {
     "Item": {
       "species": {},
-      "subspecies": {}
+      "subspecies": {},
+      "implant": {}
     }
   },
   "packs": [
