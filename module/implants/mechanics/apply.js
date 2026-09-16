@@ -25,6 +25,7 @@ import { compileEntry } from "./compile.js";
 import { IMPLANT_TYPE, actorCapState, isImplantActive } from "../state.js";
 import { CAP_PENALTY_SCRIPT, talentBonuses, testModScript } from "../test-mods.js";
 import { syncEnergyCapacity } from "../../technomiracles/resources.js";
+import { queueGrantSync } from "../grants-apply.js";
 
 const MODULE_ID = "navis-apexialis";
 
@@ -243,6 +244,7 @@ export function registerImplantMechanicsHooks() {
   Hooks.on("createItem", item => {
     if (item?.type !== IMPLANT_TYPE) return;
     queueImplantMechanics(item);
+    queueGrantSync(item);
     queueCapPenalty(item.parent);
     queueEnergySync(item.parent);
   });
@@ -251,12 +253,14 @@ export function registerImplantMechanicsHooks() {
     if (item?.type !== IMPLANT_TYPE) return;
     if (!touchesGate(change)) return;
     queueImplantMechanics(item);
+    queueGrantSync(item);
     queueCapPenalty(item.parent);
     queueEnergySync(item.parent);
   });
 
   Hooks.on("deleteItem", item => {
     if (item?.type !== IMPLANT_TYPE) return;
+    queueGrantSync(item);
     queueCapPenalty(item.parent);
     queueEnergySync(item.parent);
   });
