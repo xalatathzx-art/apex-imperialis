@@ -308,3 +308,361 @@
   font-size: 10px;
   font-style: italic;
 }
+
+/* ============================================ */
+/*  The Chirurgeon                              */
+/* ============================================ */
+
+/*
+ * Scoped under `.navis-surgeon`, the class the window puts on itself.
+ *
+ * The figure is styled here rather than borrowed from styles/navis-skin.css:
+ * every rule there sits behind `body.navis-skin`, and the skin is a per-client
+ * setting a player may have switched off. A window whose only content is an
+ * invisible silhouette is not an acceptable failure mode, so the mask layers
+ * carry their own rules and take the skin's tokens only as improvements.
+ */
+
+.navis-surgeon {
+  --navis-surgeon-line: var(--navis-line, rgba(0, 0, 0, 0.2));
+  --navis-surgeon-surface: var(--navis-surface, rgba(0, 0, 0, 0.03));
+  --navis-surgeon-brass: var(--navis-brass-dim, #806633);
+  --navis-surgeon-ink: var(--navis-ink-muted, #555);
+  --navis-surgeon-alarm: #b03a2e;
+}
+
+/* -------------------------------------------- */
+/*  Cap header                                  */
+/* -------------------------------------------- */
+
+.navis-surgeon .navis-surgeon-cap {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
+  padding: 6px 10px;
+  border-bottom: 1px solid var(--navis-surgeon-line);
+  background: var(--navis-surgeon-surface);
+}
+
+.navis-surgeon .navis-surgeon-cap .subject {
+  flex: 0 1 auto;
+  color: var(--navis-surgeon-brass);
+  font: 12px var(--navis-font-text, inherit);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.navis-surgeon .navis-surgeon-cap .gauge {
+  display: flex;
+  align-items: baseline;
+  gap: 5px;
+}
+
+.navis-surgeon .navis-surgeon-cap .gauge small {
+  color: var(--navis-surgeon-ink);
+  font-size: 10px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.navis-surgeon .navis-surgeon-cap .gauge b {
+  font-family: var(--navis-font-data, monospace);
+  font-size: 14px;
+}
+
+/* Over either ceiling is the whole character's problem, so it is said loudly. */
+.navis-surgeon .navis-surgeon-cap .gauge.over b {
+  color: var(--navis-surgeon-alarm);
+}
+
+.navis-surgeon .navis-surgeon-cap .warning {
+  flex: 1 1 100%;
+  color: var(--navis-surgeon-alarm);
+  font-size: 11px;
+}
+
+.navis-surgeon .navis-surgeon-cap .warning i {
+  margin-right: 5px;
+}
+
+.navis-surgeon .navis-surgeon-cap.over {
+  border-bottom-color: var(--navis-surgeon-alarm);
+  box-shadow: inset 0 -2px 0 -1px var(--navis-surgeon-alarm);
+}
+
+/* -------------------------------------------- */
+/*  Layout                                      */
+/* -------------------------------------------- */
+
+/*
+ * Columns and figure are placed by explicit grid column, not by DOM order: the
+ * two columns come out of one loop, and nothing can be written between the
+ * iterations of a Handlebars `each`.
+ */
+.navis-surgeon .navis-surgeon-grid {
+  display: grid;
+  grid-template-columns: 1fr minmax(170px, 250px) 1fr;
+  gap: 10px;
+  align-items: start;
+  padding: 8px;
+  overflow: auto;
+}
+
+.navis-surgeon .navis-surgeon-column {
+  grid-row: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 0;
+}
+
+.navis-surgeon .navis-surgeon-column:nth-of-type(1) { grid-column: 1; }
+.navis-surgeon .navis-surgeon-column:nth-of-type(2) { grid-column: 3; }
+
+.navis-surgeon .navis-surgeon-figure {
+  grid-row: 1;
+  grid-column: 2;
+  position: sticky;
+  top: 0;
+}
+
+/* Narrow window: one column, the figure first and every slot under it. */
+@media (max-width: 760px) {
+  .navis-surgeon .navis-surgeon-grid { grid-template-columns: 1fr; }
+  .navis-surgeon .navis-surgeon-column,
+  .navis-surgeon .navis-surgeon-figure { grid-column: 1; grid-row: auto; position: static; }
+  .navis-surgeon .navis-surgeon-figure { order: -1; }
+}
+
+/* -------------------------------------------- */
+/*  Slots                                       */
+/* -------------------------------------------- */
+
+.navis-surgeon .navis-surgeon-slot {
+  padding: 5px 7px;
+  background: var(--navis-surgeon-surface);
+  border: 1px solid var(--navis-surgeon-line);
+  border-left: 3px solid var(--navis-surgeon-brass);
+  clip-path: var(--navis-plate-sm, none);
+}
+
+.navis-surgeon .navis-surgeon-slot.empty {
+  opacity: 0.85;
+}
+
+.navis-surgeon .navis-surgeon-slot-head {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  margin-bottom: 4px;
+  padding-bottom: 3px;
+  border-bottom: 1px solid var(--navis-surgeon-line);
+  font: 10px var(--navis-font-text, inherit);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.navis-surgeon .navis-surgeon-slot-head .name {
+  color: var(--navis-surgeon-brass);
+}
+
+.navis-surgeon .navis-surgeon-slot-head i {
+  color: var(--navis-surgeon-ink);
+  font-size: 9px;
+}
+
+.navis-surgeon .navis-surgeon-slot-head .count {
+  margin-left: auto;
+  font-family: var(--navis-font-data, monospace);
+}
+
+.navis-surgeon .navis-surgeon-group {
+  margin-top: 5px;
+}
+
+.navis-surgeon .navis-surgeon-group h4 {
+  margin: 0 0 2px;
+  border: 0;
+  color: var(--navis-surgeon-ink);
+  font-size: 9px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.navis-surgeon .navis-surgeon-none {
+  margin: 2px 0 0;
+  color: var(--navis-surgeon-ink);
+  font-size: 10px;
+  font-style: italic;
+}
+
+/* -------------------------------------------- */
+/*  Rows                                        */
+/* -------------------------------------------- */
+
+.navis-surgeon .navis-surgeon-row {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 2px 0 2px 4px;
+  border-left: 2px solid var(--navis-implant-tint, transparent);
+}
+
+.navis-surgeon .navis-surgeon-row img {
+  flex: 0 0 auto;
+  width: 22px;
+  height: 22px;
+  border: 0;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.navis-surgeon .navis-surgeon-row .label {
+  flex: 1 1 auto;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  line-height: 1.15;
+}
+
+.navis-surgeon .navis-surgeon-row .label b {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 12px;
+}
+
+.navis-surgeon .navis-surgeon-row .label small {
+  color: var(--navis-surgeon-ink);
+  font-size: 9px;
+}
+
+/* Switched off and damaged are different states and have to read differently. */
+.navis-surgeon .navis-surgeon-row.off .label b { opacity: 0.55; }
+.navis-surgeon .navis-surgeon-row.damaged .label b { text-decoration: line-through; }
+.navis-surgeon .navis-surgeon-row.offer,
+.navis-surgeon .navis-surgeon-row.stock { opacity: 0.92; }
+
+.navis-surgeon .navis-surgeon-act {
+  flex: 0 0 auto;
+  width: auto;
+  padding: 1px 6px;
+  border: 1px solid var(--navis-surgeon-line);
+  background: transparent;
+  color: inherit;
+  font-size: 10px;
+  line-height: 1.5;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.navis-surgeon .navis-surgeon-act:hover {
+  border-color: var(--navis-surgeon-brass);
+  color: var(--navis-surgeon-brass);
+}
+
+.navis-surgeon .navis-surgeon-act.go { border-color: var(--navis-surgeon-brass); }
+.navis-surgeon .navis-surgeon-act.both { border-style: dashed; }
+.navis-surgeon .navis-surgeon-act.gm { opacity: 0.7; }
+
+.navis-surgeon .navis-surgeon-row .switch {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+/* -------------------------------------------- */
+/*  Figure                                      */
+/* -------------------------------------------- */
+
+.navis-surgeon .navis-body-frame {
+  position: relative;
+  width: 100%;
+  max-width: 250px;
+  margin: 4px auto;
+  /* 884x1339 of the 1000x1600 canvas — BODY_FIGURE_BOX. */
+  aspect-ratio: 884 / 1339;
+}
+
+.navis-surgeon .scan-index {
+  position: absolute;
+  left: 4px;
+  top: 2px;
+  color: var(--navis-surgeon-ink);
+  font-size: 8px;
+  letter-spacing: 0.12em;
+}
+
+.navis-surgeon .navis-body-photo {
+  position: absolute;
+  left: -6.56%;
+  top: -7.53%;
+  width: 113.1%;
+  height: 119.5%;
+  isolation: isolate;
+  pointer-events: none;
+}
+
+.navis-surgeon .navis-body-photo .body-layer,
+.navis-surgeon .navis-body-photo .organ-layer {
+  --c: var(--navis-brass, #a37f33);
+  position: absolute;
+  inset: 0;
+  display: block;
+  background: var(--c);
+  -webkit-mask: var(--mask) center / 100% 100% no-repeat;
+  mask: var(--mask) center / 100% 100% no-repeat;
+  -webkit-mask-mode: alpha;
+  mask-mode: alpha;
+}
+
+.navis-surgeon .navis-body-photo .body-layer.augmetic { --c: #ffd977; }
+.navis-surgeon .navis-body-photo .body-layer.hot { --c: #ffe9b0; }
+
+.navis-surgeon .navis-body-photo .body-layer.augmetic,
+.navis-surgeon .navis-body-photo .body-layer.hot {
+  filter: drop-shadow(0 0 2px var(--c)) drop-shadow(0 0 7px var(--c));
+}
+
+.navis-surgeon .navis-body-photo .organ-layer {
+  --c: #b8913f;
+  z-index: 2;
+  opacity: 0.55;
+}
+
+.navis-surgeon .navis-body-photo .organ-layer.heart { --c: #d4544a; opacity: 0.85; }
+.navis-surgeon .navis-body-photo .organ-layer.brain { opacity: 0.45; }
+
+/* -------------------------------------------- */
+/*  The biomonitor's entry point                */
+/* -------------------------------------------- */
+
+.navis-bio-surgeon {
+  flex: 0 0 auto;
+  width: auto;
+  margin-left: auto;
+  padding: 0 6px;
+  border: 1px solid var(--navis-line, rgba(0, 0, 0, 0.2));
+  background: transparent;
+  color: inherit;
+  font-size: 10px;
+  line-height: 1.6;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.navis-bio-surgeon i {
+  margin-right: 4px;
+}
+
+.navis-bio-surgeon:hover {
+  border-color: var(--navis-brass-dim, #806633);
+  color: var(--navis-brass-dim, #806633);
+}
+
+/* The same tint the Chirurgeon uses, so a category reads alike in both. */
+.navis-biomonitor .navis-implant-link {
+  border-left: 2px solid var(--navis-implant-tint, transparent);
+  padding-left: 4px;
+}

@@ -1,17 +1,22 @@
 import { MODULE_ID, EXPOSURE_FLAG } from "../environment/environment-data.js";
 import { environmentSnapshot } from "../environment/environment-derived.js";
 import { adjustRadiationDose, buildBiomonitorModel, biomonitorThreats } from "./biomonitor-data.js";
-import { BODY_HIT_ZONES, BODY_ORGAN_LAYERS, BODY_SCAN_LAYERS } from "./biomonitor-body.js";
+import { BODY_HIT_ZONES, BODY_ORGAN_LAYERS, BODY_SCAN_LAYERS, implantTint } from "./biomonitor-body.js";
+import { openSurgeon } from "../implants/surgeon-app.js";
 
 export const BIOMONITOR_CLASS = "navis-biomonitor";
 const escape = value => String(value ?? "").replace(/[&<>'"]/g, char => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[char]);
 const t = key => game.i18n.localize(`NAVIS.Biomonitor.${key}`);
 const items = list => list.length ? list.map(item => `<a data-document-id="${item.id}">${escape(item.name)}</a>`).join("") : `<span class="empty">${t("None")}</span>`;
+// Импланты — те же ссылки, но окрашенные по категории: на фигуре и в списке
+// один и тот же цвет, и родная аугметика с ними не путается.
+const implantItems = list => list.map(item => `<a class="navis-implant-link" data-document-id="${item.id}" style="--navis-implant-tint:${implantTint(item.system?.category)}">${escape(item.name)}</a>`).join("");
+const augmeticCount = model => model.augmetics.length + model.implants.length;
 
 function bodyScan(model) {
   const state = key => {
     const zone = model.zones.find(entry => entry.key === key);
-    return zone.criticals.length ? "critical" : zone.injuries.length ? "injured" : zone.augmetics.length ? "augmetic" : "";
+    return zone.criticals.length ? "critical" : zone.injuries.length ? "injured" : (zone.augmetics.length || zone.implants.length) ? "augmetic" : "";
   };
   const anatomy = BODY_SCAN_LAYERS.map(layer => `<i class="body-layer ${state(layer.zone)}" data-layer="${layer.zone}" style="--mask:url('${layer.src}')"></i>`).join("");
   const organs = BODY_ORGAN_LAYERS.map(layer => `<i class="organ-layer ${layer.key}" style="--mask:url('${layer.src}')"></i>`).join("");
@@ -46,20 +51,29 @@ function threatList(model) {
 // Пока участок не выбран, карточка показывает аугметику без привязки к телу —
 // иначе имплант, которому не проставили зону, не виден в мониторе нигде.
 function zoneDefault(model) {
-  if (!model.internalAugmetics.length) return `<h4>${t("BodyZone")}</h4><p class="navis-clear">${t("SelectZone")}</p>`;
-  return `<h4>${t("Internal")}</h4>${items(model.internalAugmetics)}`;
+  const internal = [...model.internalAugmetics, ...model.internalImplants];
+  if (!internal.length) return `<h4>${t("BodyZone")}</h4><p class="navis-clear">${t("SelectZone")}</p>`;
+  return `<h4>${t("Internal")}</h4>${items(model.internalAugmetics)}${implantItems(model.internalImplants)}`;
 }
 
-function markup(model) {
+// Кнопка открывает отдельное окно. Монитор от неё не становится
+// редактируемым: ставит и снимает импланты Хирургеон, здесь только вход.
+function surgeonButton(actor) {
+  if (!(actor?.isOwner || game.user?.isGM)) return "";
+  const label = escape(game.i18n.localize("NAVIS.Surgeon.Title"));
+  return `<button type="button" class="navis-bio-surgeon" data-action="surgeon" data-tooltip="${label}"><i class="fa-solid fa-user-doctor"></i>${label}</button>`;
+}
+
+function markup(model, actor) {
   const e = model.environment;
   return `<section class="${BIOMONITOR_CLASS}" data-actor-id="${model.actorId}">
     <div class="navis-biomonitor-detail">
       <div class="navis-bio-main">
-        <section class="navis-bio-figure"><header><b>◄ ${t("BioScan")} ►</b><span>SUBJECT // ${escape(model.name)}</span></header><div class="navis-body-scan">${bodyScan(model)}</div><footer><span>● ${t("Flesh")}</span><span>◇ ${t("Augmetics")}: ${model.augmetics.length}</span></footer></section>
+        <section class="navis-bio-figure"><header><b>◄ ${t("BioScan")} ►</b><span>SUBJECT // ${escape(model.name)}</span>${surgeonButton(actor)}</header><div class="navis-body-scan">${bodyScan(model)}</div><footer><span>● ${t("Flesh")}</span><span>◇ ${t("Augmetics")}: ${augmeticCount(model)}</span></footer></section>
         <div class="navis-bio-side">
           ${ecg(model)}
           <div class="navis-bio-vitals">
-            <span><b>${model.effects.length}</b><small>${t("Conditions")}</small></span><span><b>${model.injuries.length}</b><small>${t("Injuries")}</small></span><span><b>${model.criticalItems.length}</b><small>${t("Criticals")}</small></span><span><b>${model.augmetics.length}</b><small>${t("Augmetics")}</small></span>
+            <span><b>${model.effects.length}</b><small>${t("Conditions")}</small></span><span><b>${model.injuries.length}</b><small>${t("Injuries")}</small></span><span><b>${model.criticalItems.length}</b><small>${t("Criticals")}</small></span><span><b>${augmeticCount(model)}</b><small>${t("Augmetics")}</small></span>
           </div>
           <article class="navis-bio-threats"><h4>${t("Conditions")}</h4>${threatList(model)}</article>
           <article class="zone-detail">${zoneDefault(model)}</article>
@@ -98,7 +112,7 @@ export function renderBiomonitor(_sheet, root, actor) {
   const influence = main?.querySelector(":scope > .sheet-list.influence, :scope > .navis-influence");
   if (!main || !influence) return;
   const model = buildBiomonitorModel(actor, environmentSnapshot(actor));
-  influence.insertAdjacentHTML("afterend", markup(model));
+  influence.insertAdjacentHTML("afterend", markup(model, actor));
   const monitor = influence.nextElementSibling;
   monitor.addEventListener("pointerover", event => {
     const hit = event.target.closest(".navis-body-hit");
@@ -108,6 +122,7 @@ export function renderBiomonitor(_sheet, root, actor) {
   monitor.addEventListener("click", event => {
     const documentLink = event.target.closest("[data-document-id]");
     if (documentLink) actor.items?.get?.(documentLink.dataset.documentId)?.sheet?.render(true);
+    if (event.target.closest('[data-action="surgeon"]')) openSurgeon(actor);
     const dose = event.target.closest('[data-action="dose"]');
     if (dose) adjustDose(actor, Number(dose.dataset.delta));
     const zoneButton = event.target.closest(".navis-body-hit");
@@ -115,8 +130,8 @@ export function renderBiomonitor(_sheet, root, actor) {
       const zone = model.zones.find(entry => entry.key === zoneButton.dataset.zone);
       markZone(monitor, zoneButton.dataset.zone, "selected");
       const readout = `<div class="zone-armour"><span>${t("Armour")}</span><b>${zone.armour}</b></div>`
-        + (zone.augmetics.length ? `<div class="zone-armour"><span>${t("Augmetics")}</span><b>${zone.augmetics.length}</b></div>` : "");
-      monitor.querySelector(".zone-detail").innerHTML = `<h4>${escape(game.i18n.localize(`NAVIS.Location.${zone.key}`))}</h4>${readout}${items([...zone.injuries, ...zone.criticals, ...zone.augmetics])}`;
+        + ((zone.augmetics.length + zone.implants.length) ? `<div class="zone-armour"><span>${t("Augmetics")}</span><b>${zone.augmetics.length + zone.implants.length}</b></div>` : "");
+      monitor.querySelector(".zone-detail").innerHTML = `<h4>${escape(game.i18n.localize(`NAVIS.Location.${zone.key}`))}</h4>${readout}${items([...zone.injuries, ...zone.criticals, ...zone.augmetics])}${implantItems(zone.implants)}`;
     }
   });
 }

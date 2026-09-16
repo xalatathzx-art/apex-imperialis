@@ -1,3 +1,5 @@
+import { locationForSlot } from "../implants/classify.js";
+
 export const BODY_ZONES = Object.freeze([
   { key: "head", label: "Head" }, { key: "leftArm", label: "Left Arm" },
   { key: "rightArm", label: "Right Arm" }, { key: "body", label: "Body" },
@@ -57,4 +59,36 @@ export function augmeticLocation(item) {
     }
   }
   return valid(item?.flags?.["navis-apexialis"]?.location) ?? "internal";
+}
+
+/**
+ * Where a fitted implant shows on the figure.
+ *
+ * `system.location` wins when it names a real zone: the implant sheet lets an
+ * author override the placement by hand, and that choice is not to be second
+ * guessed. Otherwise the zone follows the stored slot and side — never the
+ * name.
+ */
+export function implantLocation(item) {
+  const chosen = valid(item?.system?.location);
+  if (chosen) return chosen;
+  return locationForSlot(item?.system?.slot, item?.system?.side);
+}
+
+/**
+ * A stable colour per implant category, for display only.
+ *
+ * Categories are free text written by the content pipeline, so there is no
+ * fixed table to colour from: the hue is hashed from the string instead. Two
+ * implants of the same category always read the same, and a category nobody
+ * anticipated still gets a colour of its own instead of falling back to the
+ * same brass as everything else.
+ */
+export function implantTint(category) {
+  const raw = String(category ?? "").trim();
+  if (!raw) return "var(--navis-brass-dim, #806633)";
+
+  let hash = 0;
+  for (let i = 0; i < raw.length; i += 1) hash = (hash * 31 + raw.charCodeAt(i)) >>> 0;
+  return `hsl(${hash % 360} 58% 62%)`;
 }

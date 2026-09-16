@@ -1,4 +1,5 @@
-import { BODY_ZONES, augmeticLocation } from "./biomonitor-body.js";
+import { BODY_ZONES, augmeticLocation, implantLocation } from "./biomonitor-body.js";
+import { implantsOf, isImplantFitted } from "../implants/state.js";
 
 function values(collection) { return Array.from(collection ?? []); }
 function locationOf(item) { return item?.system?.location?.value ?? item?.system?.location ?? "body"; }
@@ -36,19 +37,25 @@ export function buildBiomonitorModel(actor, snapshot = {}) {
   const injuries = values(actor?.itemTypes?.injury);
   const criticalItems = values(actor?.itemTypes?.critical);
   const augmetics = values(actor?.itemTypes?.augmetic);
+  // Установленные импланты — рядом с родной аугметикой, но отдельным списком:
+  // это другой тип, другой бюджет и другая раскраска. Только отображение —
+  // ставит и снимает их Хирургеон, монитор остаётся read-only.
+  const implants = implantsOf(actor).filter(isImplantFitted);
   const effects = values(actor?.effects).filter(effect => !effect.disabled);
   const zones = BODY_ZONES.map(zone => ({
     ...zone,
     armour: actor?.system?.combat?.hitLocations?.[zone.key]?.armour ?? 0,
     injuries: injuries.filter(item => locationOf(item) === zone.key),
     criticals: criticalItems.filter(item => locationOf(item) === zone.key),
-    augmetics: augmetics.filter(item => augmeticLocation(item) === zone.key)
+    augmetics: augmetics.filter(item => augmeticLocation(item) === zone.key),
+    implants: implants.filter(item => implantLocation(item) === zone.key)
   }));
   return {
     actorId: actor?.id, name: actor?.name,
     status: { key: statusKey }, wounds, criticals,
-    injuries, criticalItems, augmetics, effects, zones,
+    injuries, criticalItems, augmetics, implants, effects, zones,
     internalAugmetics: augmetics.filter(item => augmeticLocation(item) === "internal"),
+    internalImplants: implants.filter(item => implantLocation(item) === "internal"),
     environment: {
       radiationDose: Number(snapshot.radiationDose) || 0,
       radiation: Number(snapshot.radiation) || 0,

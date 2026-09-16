@@ -1,0 +1,120 @@
+{{!-- The Chirurgeon. Две колонки слотов, фигура между ними.
+
+      Каждый слот показывает всё, что к нему относится: установленное, своё
+      со склада и предложения компендиума. Имплант без слота попадает в
+      «Прочее» и виден там — иначе его нельзя было бы установить вовсе.
+
+      Колонки и фигура разложены гридом по номерам колонок, а не порядком в
+      разметке: колонки приходят одним циклом, и вставить фигуру в середину
+      цикла нечем. --}}
+
+<header class="navis-surgeon-cap {{#if cap.over}}over{{/if}}">
+  <span class="subject">{{actorName}}</span>
+  <span class="gauge {{#if cap.overInstalled}}over{{/if}}">
+    <small>{{localize "NAVIS.Implant.Installed"}}</small>
+    <b>{{cap.installed}} / {{cap.installedCap}}</b>
+  </span>
+  <span class="gauge {{#if cap.overActive}}over{{/if}}">
+    <small>{{localize "NAVIS.Implant.Active"}}</small>
+    <b>{{cap.active}} / {{cap.activeCap}}</b>
+  </span>
+  {{#if cap.over}}<strong class="warning"><i class="fa-solid fa-triangle-exclamation"></i>{{cap.warning}}</strong>{{/if}}
+</header>
+
+<div class="navis-surgeon-grid">
+
+  {{#each columns}}
+  <section class="navis-surgeon-column">
+    {{#each this}}
+    <article class="navis-surgeon-slot {{#if empty}}empty{{/if}}" data-slot="{{key}}" data-zone="{{zones}}">
+
+      <header class="navis-surgeon-slot-head">
+        <span class="name">{{label}}</span>
+        {{#if paired}}<i class="fa-solid fa-arrows-left-right" aria-hidden="true"></i>{{/if}}
+        <span class="count">{{count}}</span>
+      </header>
+
+      {{#each fitted}}
+      <div class="navis-surgeon-row fitted {{#unless active}}off{{/unless}} {{#if damaged}}damaged{{/if}}"
+           data-item-id="{{id}}" data-zone="{{zone}}" style="--navis-implant-tint:{{tint}}">
+        <img src="{{img}}" alt="" data-action="navisOpenItem" data-tooltip="{{localize 'NAVIS.Surgeon.OpenSheet'}}">
+        <span class="label">
+          <b>{{name}}</b>
+          <small>{{quality}}{{#if side}} · {{side}}{{/if}}{{#if damaged}} · {{localize "NAVIS.Implant.Disabled"}}{{/if}}</small>
+        </span>
+        {{#if @root.canOperate}}
+        <label class="switch" data-tooltip="{{localize 'NAVIS.Surgeon.Toggle'}}">
+          <input type="checkbox" data-action="navisToggleActive" {{#if active}}checked{{/if}}>
+        </label>
+        <button type="button" class="navis-surgeon-act" data-action="navisExtract">{{localize "NAVIS.Surgeon.Extract"}}</button>
+        {{/if}}
+      </div>
+      {{/each}}
+
+      {{#if stock.length}}
+      <div class="navis-surgeon-group">
+        <h4>{{localize "NAVIS.Surgeon.FromStock"}}</h4>
+        {{#each stock}}
+        <div class="navis-surgeon-row stock" data-item-id="{{id}}" style="--navis-implant-tint:{{tint}}">
+          <img src="{{img}}" alt="" data-action="navisOpenItem" data-tooltip="{{localize 'NAVIS.Surgeon.OpenSheet'}}">
+          <span class="label"><b>{{name}}</b><small>{{quality}}</small></span>
+          {{#if @root.canOperate}}
+          {{#each sides}}
+          <button type="button" class="navis-surgeon-act go" data-action="navisFit" data-side="{{side}}">{{label}}</button>
+          {{/each}}
+          {{#if @root.isGM}}
+          <button type="button" class="navis-surgeon-act gm" data-action="navisFitNoTest"
+                  data-tooltip="{{localize 'NAVIS.Surgeon.InstallNoTest'}}"><i class="fa-solid fa-screwdriver-wrench"></i></button>
+          {{/if}}
+          {{/if}}
+        </div>
+        {{/each}}
+      </div>
+      {{/if}}
+
+      {{#each offers}}
+      <div class="navis-surgeon-group catalogue">
+        <h4>{{label}}</h4>
+        {{#each entries}}
+        <div class="navis-surgeon-row offer" style="--navis-implant-tint:{{tint}}">
+          <img src="{{img}}" alt="" data-action="navisOpenItem" data-uuid="{{uuid}}" data-tooltip="{{localize 'NAVIS.Surgeon.OpenSheet'}}">
+          <span class="label"><b>{{name}}</b><small>{{quality}}</small></span>
+          {{#if @root.canOperate}}
+          {{#each sides}}
+          <button type="button" class="navis-surgeon-act go" data-action="navisInstall"
+                  data-uuid="{{../uuid}}" data-slot="{{../slot}}" data-side="{{side}}">{{label}}</button>
+          {{/each}}
+          {{#if ../../bothSides}}
+          <button type="button" class="navis-surgeon-act both" data-action="navisInstallBoth"
+                  data-uuid="{{uuid}}" data-slot="{{slot}}">{{localize "NAVIS.Surgeon.BothSides"}}</button>
+          {{/if}}
+          {{/if}}
+        </div>
+        {{/each}}
+      </div>
+      {{/each}}
+
+      {{#unless anything}}
+      <p class="navis-surgeon-none">{{localize "NAVIS.Surgeon.Empty"}}</p>
+      {{/unless}}
+
+    </article>
+    {{/each}}
+  </section>
+  {{/each}}
+
+  <section class="navis-surgeon-figure">
+    <div class="navis-body-frame">
+      <span class="scan-index">CHIR/11</span>
+      <div class="navis-body-photo">
+        {{#each figure.layers}}
+          <i class="body-layer {{state}}" data-layer="{{zone}}" style="--mask:url('{{src}}')"></i>
+        {{/each}}
+        {{#each figure.organs}}
+          <i class="organ-layer {{key}}" style="--mask:url('{{src}}')"></i>
+        {{/each}}
+      </div>
+    </div>
+  </section>
+
+</div>
