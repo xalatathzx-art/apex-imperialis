@@ -26,14 +26,24 @@ const PRIORITY = 20;
 export const ENTRY_KINDS = Object.freeze([
   "characteristic", "skill", "armour", "armourAll",
   "wounds", "criticals", "speed", "encumbrance",
-  "energy", "trait", "talent", "testMod", "script"
+  "energy", "trait", "talent", "testMod", "script",
+  // Cycle B — attack, damage, protection, integrated weapons.
+  "attackMod", "damageBonus", "weaponTrait",
+  "damageReduction", "conditionImmunity",
+  "weapon", "weaponMount"
 ]);
 
 /** Kinds that store nothing and are read at the moment of a roll. */
-export const LIVE_KINDS = Object.freeze(["testMod", "script"]);
+export const LIVE_KINDS = Object.freeze([
+  "testMod", "script",
+  "attackMod", "damageBonus", "damageReduction", "conditionImmunity"
+]);
 
 /** Kinds that create an item on the actor rather than changing a number. */
-const GRANT_KINDS = Object.freeze(["trait", "talent"]);
+const GRANT_KINDS = Object.freeze([
+  "trait", "talent",
+  "weapon", "weaponMount", "weaponTrait"
+]);
 
 /**
  * Kinds computed directly rather than applied as an effect. Заряд lives in a

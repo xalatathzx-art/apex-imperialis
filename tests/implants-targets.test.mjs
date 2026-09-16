@@ -4,13 +4,14 @@ import { ENTRY_KINDS, LIVE_KINDS, targetPath, entryToChange } from "../module/im
 
 test("the entry kinds are the set cycle A's families need", () => {
   assert.deepEqual([...ENTRY_KINDS].sort(), [
-    "armour", "armourAll", "characteristic", "criticals", "encumbrance",
-    "energy", "script", "skill", "speed", "talent", "testMod", "trait", "wounds"
+    "armour", "armourAll", "attackMod", "characteristic", "conditionImmunity", "criticals", "damageBonus",
+    "damageReduction", "encumbrance", "energy", "script", "skill", "speed", "talent", "testMod", "trait",
+    "weapon", "weaponMount", "weaponTrait", "wounds"
   ]);
 });
 
 test("live kinds write nothing and are read at roll time", () => {
-  assert.deepEqual([...LIVE_KINDS].sort(), ["script", "testMod"]);
+  assert.deepEqual([...LIVE_KINDS].sort(), ["attackMod", "conditionImmunity", "damageBonus", "damageReduction", "script", "testMod"]);
   for (const kind of LIVE_KINDS) assert.equal(targetPath({ kind }), null);
 });
 
@@ -68,4 +69,30 @@ test("a live entry produces no change at all", () => {
 
 test("a zero value produces no change — an effect that does nothing is noise on the sheet", () => {
   assert.equal(entryToChange({ kind: "wounds", value: 0 }, 2), null);
+});
+
+test("the new attack, damage and protection kinds are declared", () => {
+  for (const kind of ["attackMod", "damageBonus", "weaponTrait", "damageReduction", "conditionImmunity", "weapon", "weaponMount"]) {
+    assert.ok(ENTRY_KINDS.includes(kind), `${kind} missing from ENTRY_KINDS`);
+  }
+});
+
+test("script kinds are live and produce no change", () => {
+  for (const kind of ["attackMod", "damageBonus", "damageReduction", "conditionImmunity"]) {
+    assert.ok(LIVE_KINDS.includes(kind), `${kind} should be live`);
+    assert.equal(targetPath({ kind }), null);
+    assert.equal(entryToChange({ kind, value: 5 }, 2), null);
+  }
+});
+
+test("grant kinds produce no change either — they create documents", () => {
+  for (const kind of ["weapon", "weaponMount", "weaponTrait"]) {
+    assert.equal(targetPath({ kind }), null);
+    assert.equal(entryToChange({ kind, value: 5 }, 2), null);
+  }
+});
+
+test("the kinds that DO target a data path are unchanged", () => {
+  assert.equal(targetPath({ kind: "characteristic", key: "tgh" }), "system.characteristics.tgh.modifier");
+  assert.equal(targetPath({ kind: "wounds" }), "system.combat.wounds.max");
 });
