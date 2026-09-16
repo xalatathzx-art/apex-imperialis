@@ -74,7 +74,7 @@ export function defineImplantModel() {
         choices: SLOTS.map(s => s.key)
       });
       schema.location = new fields.StringField({ initial: "internal" });
-      schema.side = new fields.StringField({ initial: "", choices: ["", "left", "right"] });
+      schema.side = new fields.StringField({ initial: "", blank: true, choices: ["", "left", "right"] });
 
       // The gate. Three booleans, because the book counts fitted and switched
       // on separately (pp. 102, 269) and a damaged implant still occupies its
