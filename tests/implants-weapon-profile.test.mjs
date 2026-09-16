@@ -22,9 +22,10 @@ test("a melee profile maps onto impmal's own weapon shape", () => {
   assert.equal(data.system.damage.ignoreAP, false);
 });
 
-test("a granted weapon comes equipped — it is grown into the limb", () => {
+test("a granted weapon stays equipped: force pins it against impmal's hand check", () => {
   const data = weaponDataFromProfile({ name: "x", attackType: "melee" }, []);
   assert.equal(data.system.equipped.value, true);
+  assert.equal(data.system.equipped.force, true);
 });
 
 test("weaponTrait entries become the weapon's trait list", () => {
