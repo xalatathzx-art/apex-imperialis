@@ -1,7 +1,7 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 
-import { readBlock, spendFrom, restoreAtTurnStart } from "../module/technomiracles/resources.js";
+import { readBlock, spendFrom, restoreAtTurnStart, energyCapacity } from "../module/technomiracles/resources.js";
 
 /**
  * Поддельный актёр: ровно то, чего касается resources.js, — бонусы
@@ -81,4 +81,30 @@ test("восстановление сохраняет список Процес�
   const actor = actorWith({ flag: { cognition: { value: 0, max: 4 }, energy: { value: 1, max: 3 }, processes } });
   const block = await restoreAtTurnStart(actor);
   assert.deepEqual(block.processes, processes);
+});
+
+const implantWithEnergy = (value, active = true) => ({
+  type: "navis-apexialis.implant",
+  system: { installed: true, disabled: false, active, quality: 2, chosenEffects: {},
+            mechanics: [{ id: "g", operator: "AND", entries: [{ id: "e", kind: "energy", value }] }] }
+});
+
+test("Заряд capacity is the Toughness bonus when nothing adds to it", () => {
+  const actor = { system: { characteristics: { tgh: { bonus: 4 } } }, items: [] };
+  assert.equal(energyCapacity(actor), 4);
+});
+
+test("an active implant with an energy entry raises the capacity", () => {
+  const actor = { system: { characteristics: { tgh: { bonus: 4 } } }, items: [implantWithEnergy(5)] };
+  assert.equal(energyCapacity(actor), 9);
+});
+
+test("a switched-off implant does not", () => {
+  const actor = { system: { characteristics: { tgh: { bonus: 4 } } }, items: [implantWithEnergy(5, false)] };
+  assert.equal(energyCapacity(actor), 4);
+});
+
+test("capacity never goes below zero", () => {
+  const actor = { system: { characteristics: { tgh: { bonus: 0 } } }, items: [implantWithEnergy(-5)] };
+  assert.equal(energyCapacity(actor), 0);
 });

@@ -23,6 +23,7 @@
 import { changesFor, resolveEntries } from "./entries.js";
 import { IMPLANT_TYPE, actorCapState, implantsOf, isImplantActive } from "../state.js";
 import { CAP_PENALTY_SCRIPT, talentBonuses, testModScript } from "../test-mods.js";
+import { syncEnergyCapacity } from "../../technomiracles/resources.js";
 
 const MODULE_ID = "navis-apexialis";
 
@@ -130,17 +131,20 @@ export function registerImplantMechanicsHooks() {
   Hooks.on("createItem", item => {
     if (item?.type !== IMPLANT_TYPE) return;
     syncImplantMechanics(item).then(() => syncCapPenalty(item.parent));
+    syncEnergyCapacity(item.parent);
   });
 
   Hooks.on("updateItem", (item, change) => {
     if (item?.type !== IMPLANT_TYPE) return;
     if (!touchesGate(change)) return;
     syncImplantMechanics(item).then(() => syncCapPenalty(item.parent));
+    syncEnergyCapacity(item.parent);
   });
 
   Hooks.on("deleteItem", item => {
     if (item?.type !== IMPLANT_TYPE) return;
     syncCapPenalty(item.parent);
+    syncEnergyCapacity(item.parent);
   });
 
   // Toughness damage can put a legal character over the ceiling without any
