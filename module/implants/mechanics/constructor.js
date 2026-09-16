@@ -25,9 +25,18 @@
  */
 
 import { ENTRY_KINDS, LIVE_KINDS } from "./targets.js";
+import { CONDITION_KEYS } from "./compile.js";
 import { QUALITY_LEVELS, ORDINARY_QUALITY } from "../rules.js";
+import { WEAPON_TRAITS_WITH_VALUE } from "../weapon-profile.js";
 
-/** Which controls each kind needs. `key` names the option list it selects from. */
+/**
+ * Which controls each kind needs. `key` names the option list it selects from.
+ *
+ * The flags are the SHAPE of the form, not the meaning of the entry: several
+ * kinds share `value`, and it is the extra flags beside it that decide which
+ * extra row appears and which sentence the folded line gets. A kind that adds
+ * nothing but a value needs no flag of its own.
+ */
 const KIND_FIELDS = Object.freeze({
   characteristic: { key: "characteristics", value: true },
   skill: { key: "skills", value: true },
@@ -41,7 +50,21 @@ const KIND_FIELDS = Object.freeze({
   trait: { drop: "trait" },
   talent: { drop: "talent" },
   testMod: { value: true, testMod: true },
-  script: { script: true }
+  script: { script: true },
+
+  // Cycle B. `attack` is the attack-type narrowing both attack kinds share;
+  // only attackMod also spends an advantage, so that is a second flag rather
+  // than a consequence of the first.
+  attackMod: { value: true, attack: true, advantage: true },
+  damageBonus: { value: true, attack: true },
+  weaponTrait: { weaponTrait: true },
+  damageReduction: { value: true, reduction: true },
+  conditionImmunity: { condition: true },
+  weapon: { profile: true },
+  // A mount IS a drop target — the same machinery trait and talent use, aimed
+  // at impmal's own "weapon" item type — but it reads as a socket rather than
+  // as a grant, so it says so in its own sentence.
+  weaponMount: { drop: "weapon", mount: true }
 });
 
 /** Kind key → its label key, in ENTRY_KINDS order so the select reads the same everywhere. */
@@ -53,12 +76,19 @@ const KIND_OPTIONS = Object.freeze(Object.fromEntries(
  * The kind picker, grouped by what a kind MEANS rather than by the order the
  * data model happens to list them in.
  *
- * Thirteen kinds in one flat list is a list an author reads top to bottom every
- * time; five headed groups of two or three is a list they aim at. The groups
+ * Twenty kinds in one flat list is a list an author reads top to bottom every
+ * time; six headed groups of two to five is a list they aim at. The groups
  * are the author's own vocabulary — "what it changes about the body", "what it
  * hands out" — not the implementation's, so `armourAll` sits beside `armour`
  * and `script` beside `trait` and `talent`, which is where an author looks for
  * them.
+ *
+ * The same reasoning places the cycle B kinds against their meaning rather
+ * than their implementation: `damageReduction` and `conditionImmunity` are
+ * both live scripts, but an author looking for "takes less damage" looks under
+ * Защита, not under whatever produces it; `weaponTrait` sits with the attack
+ * kinds it modifies rather than with the weapon entry it is eventually written
+ * onto.
  *
  * A kind that is ever added to `ENTRY_KINDS` without being named here would
  * silently vanish from the picker, so `kindGroupsFor` sweeps up the remainder
@@ -67,12 +97,22 @@ const KIND_OPTIONS = Object.freeze(Object.fromEntries(
 const KIND_GROUPS = Object.freeze([
   { label: "NAVIS.Implant.Mechanics.KindGroup.Stats", kinds: ["characteristic", "skill"] },
   { label: "NAVIS.Implant.Mechanics.KindGroup.Tests", kinds: ["testMod"] },
-  { label: "NAVIS.Implant.Mechanics.KindGroup.Defence", kinds: ["armour", "armourAll"] },
+  {
+    label: "NAVIS.Implant.Mechanics.KindGroup.Attack",
+    kinds: ["attackMod", "damageBonus", "weaponTrait"]
+  },
+  {
+    label: "NAVIS.Implant.Mechanics.KindGroup.Defence",
+    kinds: ["armour", "armourAll", "damageReduction", "conditionImmunity"]
+  },
   {
     label: "NAVIS.Implant.Mechanics.KindGroup.Body",
     kinds: ["wounds", "criticals", "speed", "encumbrance", "energy"]
   },
-  { label: "NAVIS.Implant.Mechanics.KindGroup.Grants", kinds: ["trait", "talent", "script"] }
+  {
+    label: "NAVIS.Implant.Mechanics.KindGroup.Grants",
+    kinds: ["trait", "talent", "weapon", "weaponMount", "script"]
+  }
 ]);
 
 /** The picker as `<optgroup>`s, with the entry's own kind marked selected. */
@@ -122,6 +162,37 @@ const ADVANTAGE_OPTIONS = Object.freeze([
   { value: "-1", label: "NAVIS.Implant.Mechanics.Disadvantage" }
 ]);
 
+/**
+ * Which attacks an attack entry narrows to. An ARRAY for the same reason as
+ * ADVANTAGE_OPTIONS: the widest case reads first, and "" would sort ahead of
+ * nothing if this were an object.
+ *
+ * The stored value is exactly what compile.js's `attackGuardExpression` tests
+ * — "" (no narrowing), "melee" or "ranged" — so an author's choice and the
+ * generated guard cannot drift apart.
+ */
+const ATTACK_TYPE_OPTIONS = Object.freeze([
+  { value: "", label: "NAVIS.Implant.Mechanics.AttackAny" },
+  { value: "melee", label: "NAVIS.Implant.Mechanics.AttackMelee" },
+  { value: "ranged", label: "NAVIS.Implant.Mechanics.AttackRanged" }
+]);
+
+/**
+ * The 14 tiered conditions as a picker, labelled from impmal's own strings.
+ *
+ * impmal ships an untiered label for thirteen of them — "IMPMAL.ConditionAblaze"
+ * beside the "…Minor"/"…Major" pair — which is the name an author wants here:
+ * an immunity is to the condition, not to one of its tiers. `dead` is the one
+ * with no such string in impmal's lang file, so it is the one word this module
+ * has to translate itself.
+ */
+const CONDITION_OPTIONS = Object.freeze(Object.fromEntries(CONDITION_KEYS.map(key => [
+  key,
+  key === "dead"
+    ? "NAVIS.Implant.Condition.dead"
+    : `IMPMAL.Condition${key[0].toUpperCase()}${key.slice(1)}`
+])));
+
 /** impmal's own config, narrowed to what a select needs. Empty if the system is absent. */
 function systemOptions() {
   const config = game.impmal?.config ?? {};
@@ -133,7 +204,11 @@ function systemOptions() {
   return {
     characteristics: config.characteristics ?? {},
     skills: config.skills ?? {},
-    locations
+    locations,
+    // Read from config at render time rather than copied into this file: a
+    // system update that adds a trait or a weapon category should reach the
+    // author's picker without a change here.
+    weaponTraits: config.weaponArmourTraits ?? {}
   };
 }
 
@@ -141,6 +216,49 @@ function systemOptions() {
 function advantageOptionsFor(advantage) {
   const current = String(Math.sign(Number(advantage) || 0));
   return ADVANTAGE_OPTIONS.map(option => ({ ...option, selected: option.value === current }));
+}
+
+/** The three attack-type options, one marked selected. Anything unknown reads as "any". */
+function attackTypeOptionsFor(attackType) {
+  const current = attackType === "melee" || attackType === "ranged" ? attackType : "";
+  return ATTACK_TYPE_OPTIONS.map(option => ({ ...option, selected: option.value === current }));
+}
+
+/**
+ * The weapon profile as a form.
+ *
+ * Which category and spec lists apply depends on the profile's own attack
+ * type, exactly as impmal's weapon sheet decides it: a melee weapon's
+ * categories are meleeTypes, a ranged weapon's are rangedTypes, and offering
+ * both at once would let an author save a "pistol chainsword". Range is a
+ * ranged-only field for the same reason.
+ */
+function weaponProfileFor(entry) {
+  const config = game.impmal?.config ?? {};
+  const profile = entry.profile ?? {};
+  const damage = profile.damage ?? {};
+  const attackType = profile.attackType === "ranged" ? "ranged" : "melee";
+  const ranged = attackType === "ranged";
+
+  return {
+    name: profile.name ?? "",
+    attackType,
+    attackTypeOptions: config.weaponTypes ?? {},
+    ranged,
+    category: profile.category ?? "",
+    categoryOptions: (ranged ? config.rangedTypes : config.meleeTypes) ?? {},
+    spec: profile.spec ?? "",
+    specOptions: (ranged ? config.rangedSpecs : config.meleeSpecs) ?? {},
+    range: profile.range ?? "",
+    rangeOptions: config.ranges ?? {},
+    damageBase: damage.base ?? "",
+    damageCharacteristic: damage.characteristic ?? "",
+    // The abbreviations, as impmal's own damage row uses: "+ Сил" beside the
+    // base, not the characteristic's full name wrapped onto a second line.
+    characteristicOptions: config.characteristicAbbrev ?? config.characteristics ?? {},
+    damageSL: !!damage.SL,
+    damageIgnoreAP: !!damage.ignoreAP
+  };
 }
 
 const groupsOf = item => foundry.utils.deepClone(item?.system?.mechanics ?? []);
@@ -156,6 +274,18 @@ const format = (key, data) => game.i18n?.format?.(key, data) ?? String(key);
 
 /** A modifier reads as a modifier: the sign is part of the number. */
 const signed = n => (n > 0 ? `+${n}` : String(n));
+
+/** A reduction is always a subtraction, whichever sign the author typed. U+2212. */
+const reduced = n => `−${Math.abs(n)}`;
+
+/** A number, or a ladder printed as its four readings: "+1/+2/+3/+4". */
+function valueText(value, render = signed) {
+  if (!isLadder(value)) return render(Number(value) || 0);
+  return QUALITY_LEVELS.map(level => render(levelValue(value, level))).join("/");
+}
+
+/** Does this entry's value say anything at all? A ladder always does. */
+const hasValue = value => isLadder(value) || !!Number(value);
 
 const kindLabelOf = kind => localize(KIND_OPTIONS[kind] ?? kind);
 
@@ -202,6 +332,61 @@ function testModSummary(entry, skills) {
   return format("NAVIS.Implant.Mechanics.Summary.TestModAny", { effect });
 }
 
+/* ---- the cycle B sentences ---- */
+
+/**
+ * "…на атаки ближнего боя".
+ *
+ * Three whole strings rather than one with the weapon type dropped into it,
+ * for the reason `testModSummary` gives at length: Russian declines the phrase
+ * after "на", and nothing here can decline a word it was handed. `wideKey` is
+ * what an unnarrowed entry reads as — attackMod still says "на атаки", while a
+ * damage bonus is already a whole sentence without it.
+ */
+function narrowedToAttack(effect, attackType, wideKey) {
+  if (attackType === "melee") return format("NAVIS.Implant.Mechanics.Summary.AttackMelee", { effect });
+  if (attackType === "ranged") return format("NAVIS.Implant.Mechanics.Summary.AttackRanged", { effect });
+  return wideKey ? format(wideKey, { effect }) : effect;
+}
+
+/** "+2 к успехам, Преимущество" — whichever of the two the entry actually spends. */
+function attackModSummary(entry) {
+  const parts = [];
+  if (hasValue(entry.value)) {
+    parts.push(format("NAVIS.Implant.Mechanics.Summary.Successes", { value: valueText(entry.value) }));
+  }
+
+  const advantage = Math.sign(Number(entry.advantage) || 0);
+  if (advantage > 0) parts.push(localize("NAVIS.Implant.Mechanics.Advantage"));
+  if (advantage < 0) parts.push(localize("NAVIS.Implant.Mechanics.Disadvantage"));
+
+  const effect = parts.length ? parts.join(", ") : localize("NAVIS.Implant.Mechanics.Summary.Empty");
+  return narrowedToAttack(effect, entry.attackType, "NAVIS.Implant.Mechanics.Summary.AttackAny");
+}
+
+function damageBonusSummary(entry) {
+  const effect = format("NAVIS.Implant.Mechanics.Summary.DamageBonus", { value: valueText(entry.value) });
+  return narrowedToAttack(effect, entry.attackType, null);
+}
+
+/** "Оружие: Пробивающее (4)" — the value only when the trait is one that takes one. */
+function weaponTraitSummary(entry, traitOptions) {
+  const key = entry.traitKey;
+  if (!key || !traitOptions?.[key]) {
+    return format("NAVIS.Implant.Mechanics.Summary.WeaponTrait", {
+      trait: localize("NAVIS.Implant.Mechanics.Summary.None")
+    });
+  }
+
+  const label = localize(traitOptions[key]);
+  const value = entry.traitValue;
+  const trait = WEAPON_TRAITS_WITH_VALUE.includes(key) && value !== undefined && value !== null && value !== ""
+    ? format("NAVIS.Implant.Mechanics.Summary.Paren", { a: label, b: value })
+    : label;
+
+  return format("NAVIS.Implant.Mechanics.Summary.WeaponTrait", { trait });
+}
+
 /**
  * What the entry does, in one sentence.
  *
@@ -213,8 +398,42 @@ function testModSummary(entry, skills) {
  * Built here, not in the template: only this file knows which of an entry's
  * fields the kind makes meaningful, and Handlebars cannot ask.
  */
-function summaryFor(entry, kind, shape, keyLists, skills) {
+function summaryFor(entry, kind, shape, keyLists, options) {
+  const skills = options.skills;
   if (shape.testMod) return testModSummary(entry, skills);
+
+  // Before the generic `shape.value` branch below: all three of these carry a
+  // value, and "Модификатор атаки +2" is not what any of them mean.
+  if (shape.attack) return kind === "attackMod" ? attackModSummary(entry) : damageBonusSummary(entry);
+  if (shape.weaponTrait) return weaponTraitSummary(entry, options.weaponTraits);
+
+  if (shape.reduction) {
+    return format("NAVIS.Implant.Mechanics.Summary.DamageReduction", {
+      value: valueText(entry.value, reduced)
+    });
+  }
+
+  if (shape.condition) {
+    const label = CONDITION_OPTIONS[entry.condition];
+    return format("NAVIS.Implant.Mechanics.Summary.Immunity", {
+      condition: localize(label ?? "NAVIS.Implant.Mechanics.Summary.None")
+    });
+  }
+
+  // A weapon names itself, so "Оружие: Когти Птераксии" is the grant sentence
+  // with the profile's own name where a dropped document's would be.
+  if (shape.profile) {
+    return format("NAVIS.Implant.Mechanics.Summary.Grant", {
+      kind: kindLabelOf(kind),
+      name: entry.profile?.name || localize("NAVIS.Implant.Mechanics.Summary.None")
+    });
+  }
+
+  if (shape.mount) {
+    return format("NAVIS.Implant.Mechanics.Summary.Mount", {
+      name: entry.sourceName || localize("NAVIS.Implant.Mechanics.Summary.MountEmpty")
+    });
+  }
 
   if (shape.drop) {
     return format("NAVIS.Implant.Mechanics.Summary.Grant", {
@@ -233,10 +452,7 @@ function summaryFor(entry, kind, shape, keyLists, skills) {
   if (shape.value) {
     const what = whatFor(kind, entry.key, shape.key ? keyLists[shape.key] : null);
     // A ladder is four readings, so it prints as four: "+1/+2/+3/+4".
-    const value = isLadder(entry.value)
-      ? QUALITY_LEVELS.map(level => signed(levelValue(entry.value, level))).join("/")
-      : signed(Number(entry.value) || 0);
-    return format("NAVIS.Implant.Mechanics.Summary.Value", { what, value });
+    return format("NAVIS.Implant.Mechanics.Summary.Value", { what, value: valueText(entry.value) });
   }
 
   return kindLabelOf(kind);
@@ -288,7 +504,7 @@ export function mechanicsContext(item, open = null) {
           kind,
           live: LIVE_KINDS.includes(kind),
 
-          summary: summaryFor(entry, kind, shape, keyLists, options.skills),
+          summary: summaryFor(entry, kind, shape, keyLists, options),
           open: !!open?.has(entry.id),
           kindGroups: kindGroupsFor(kind),
 
@@ -306,6 +522,9 @@ export function mechanicsContext(item, open = null) {
 
           isDrop: !!shape.drop,
           dropType: shape.drop ?? "",
+          // An empty socket has to say what fits in it; "предмет" would leave
+          // an author dragging a talent onto a weapon mount to find out.
+          dropHint: shape.mount ? "NAVIS.Implant.Mechanics.DropWeapon" : "NAVIS.Implant.Mechanics.Drop",
           sourceUuid: entry.sourceUuid ?? "",
           sourceName: entry.sourceName ?? "",
           sourceImg: entry.sourceImg ?? "",
@@ -316,7 +535,29 @@ export function mechanicsContext(item, open = null) {
 
           isScript: !!shape.script,
           script: entry.script ?? "",
-          throttle: entry.throttle ?? ""
+          throttle: entry.throttle ?? "",
+
+          // Which attacks it narrows to, and — attackMod only — the advantage
+          // it also spends. `advantageOptions` above is shared with testMod.
+          isAttack: !!shape.attack,
+          hasAdvantage: !!shape.advantage,
+          attackTypeOptions: attackTypeOptionsFor(entry.attackType),
+
+          isWeaponTrait: !!shape.weaponTrait,
+          traitOptions: options.weaponTraits,
+          traitKey: entry.traitKey ?? "",
+          // impmal's eight valued traits and nothing else: a value typed
+          // against "Громкое" would be dropped on the floor by
+          // weapon-profile.js, so the field is not offered.
+          traitHasValue: WEAPON_TRAITS_WITH_VALUE.includes(entry.traitKey),
+          traitValue: entry.traitValue ?? "",
+
+          isCondition: !!shape.condition,
+          conditionOptions: CONDITION_OPTIONS,
+          condition: entry.condition ?? "",
+
+          isProfile: !!shape.profile,
+          profile: shape.profile ? weaponProfileFor(entry) : null
         };
       })
     };
@@ -443,8 +684,16 @@ export async function toggleLadder(item, groupId, entryId) {
  * One field of one entry.
  *
  * Changing the kind drops `key`: a characteristic key is not a skill key, and
- * a stale one would silently target a path that does not exist.
+ * a stale one would silently target a path that does not exist. Changing the
+ * weapon trait drops `traitValue` for the same reason — carrying a 4 from
+ * Пробивающее over to Тяжёлое would quietly make it "Тяжёлое (4)".
+ *
+ * A `profile.*` field writes into the entry's weapon profile rather than onto
+ * the entry: `weapon-profile.js` reads one nested object, and flattening it
+ * here would make the constructor and the compiler disagree about the shape.
  */
+const PROFILE_PREFIX = "profile.";
+
 export async function setField(item, { groupId, entryId, field, level, value }) {
   const groups = groupsOf(item);
   const entry = findEntry(groups, groupId, entryId);
@@ -460,6 +709,21 @@ export async function setField(item, { groupId, entryId, field, level, value }) 
   } else if (field === "kind") {
     entry.kind = value;
     delete entry.key;
+  } else if (field === "traitKey") {
+    entry.traitKey = value;
+    delete entry.traitValue;
+  } else if (field.startsWith(PROFILE_PREFIX)) {
+    entry.profile = entry.profile ?? {};
+    const path = field.slice(PROFILE_PREFIX.length);
+    foundry.utils.setProperty(entry.profile, path, value);
+    // Melee and ranged draw their categories, specs and ranges from different
+    // config lists, so a category kept across the switch would be a value no
+    // picker on screen can show — a melee weapon silently filed as "болтерное".
+    if (path === "attackType") {
+      entry.profile.category = "";
+      entry.profile.spec = "";
+      entry.profile.range = "";
+    }
   } else {
     entry[field] = value;
   }

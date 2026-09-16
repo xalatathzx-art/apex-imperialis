@@ -69,9 +69,9 @@
                 <div class="navis-mech-fields">
 
                     <div class="navis-mech-row">
-                        {{!-- Grouped by what a kind MEANS. Thirteen kinds in one
+                        {{!-- Grouped by what a kind MEANS. Twenty kinds in one
                               flat list is a list read from the top every time;
-                              five headed groups is a list aimed at. --}}
+                              six headed groups is a list aimed at. --}}
                         <select class="navis-mech-kind" data-navis-field="kind"
                                 data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}"
                                 aria-label="{{localize 'NAVIS.Implant.Mechanics.Kind'}}">
@@ -135,7 +135,7 @@
                             <i class="fa-solid fa-xmark"></i>
                         </a>
                         {{else}}
-                        <span class="hint">{{localize "NAVIS.Implant.Mechanics.Drop"}}</span>
+                        <span class="hint">{{localize this.dropHint}}</span>
                         {{/if}}
                     </div>
                     {{/if}}
@@ -163,6 +163,163 @@
                             </select>
                         </div>
                     </div>
+                    {{/if}}
+
+                    {{!-- Which attacks the modifier narrows to. The stored value is
+                          exactly what compile.js's guard tests, so the author's
+                          choice and the generated script cannot drift apart. --}}
+                    {{#if this.isAttack}}
+                    <div class="navis-mech-row sub">
+                        <div class="field">
+                            <label>{{localize "NAVIS.Implant.Mechanics.AttackType"}}</label>
+                            <select data-navis-field="attackType" aria-label="{{localize 'NAVIS.Implant.Mechanics.AttackType'}}"
+                                    data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}">
+                                {{#each this.attackTypeOptions}}
+                                <option value="{{this.value}}" {{#if this.selected}}selected{{/if}}>
+                                    {{localize this.label}}
+                                </option>
+                                {{/each}}
+                            </select>
+                        </div>
+                        {{#if this.hasAdvantage}}
+                        <div class="field narrow">
+                            <label>{{localize "NAVIS.Implant.Mechanics.Advantage"}}</label>
+                            <select data-navis-field="advantage"
+                                    aria-label="{{localize 'NAVIS.Implant.Mechanics.Advantage'}}"
+                                    data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}">
+                                {{#each this.advantageOptions}}
+                                <option value="{{this.value}}" {{#if this.selected}}selected{{/if}}>
+                                    {{localize this.label}}
+                                </option>
+                                {{/each}}
+                            </select>
+                        </div>
+                        {{/if}}
+                    </div>
+                    {{/if}}
+
+                    {{!-- A trait written onto whatever weapon this implant grants.
+                          The value box appears only for impmal's eight traits that
+                          take one — a number typed against the other thirteen is
+                          dropped when the weapon is built. --}}
+                    {{#if this.isWeaponTrait}}
+                    <div class="navis-mech-row sub">
+                        <div class="field">
+                            <label>{{localize "NAVIS.Implant.Mechanics.WeaponTrait"}}</label>
+                            <select data-navis-field="traitKey" aria-label="{{localize 'NAVIS.Implant.Mechanics.WeaponTrait'}}"
+                                    data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}">
+                                {{selectOptions this.traitOptions selected=this.traitKey localize=true blank=""}}
+                            </select>
+                        </div>
+                        {{#if this.traitHasValue}}
+                        <div class="field narrow">
+                            <label>{{localize "NAVIS.Implant.Mechanics.TraitValue"}}</label>
+                            <input type="text" data-navis-field="traitValue" aria-label="{{localize 'NAVIS.Implant.Mechanics.TraitValue'}}"
+                                   data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}"
+                                   value="{{this.traitValue}}">
+                        </div>
+                        {{/if}}
+                    </div>
+                    {{/if}}
+
+                    {{#if this.isCondition}}
+                    <div class="navis-mech-row sub">
+                        <div class="field">
+                            <label>{{localize "NAVIS.Implant.Mechanics.Condition"}}</label>
+                            <select data-navis-field="condition" aria-label="{{localize 'NAVIS.Implant.Mechanics.Condition'}}"
+                                    data-group-id="{{this.groupId}}" data-entry-id="{{this.id}}">
+                                {{selectOptions this.conditionOptions selected=this.condition localize=true blank=""}}
+                            </select>
+                        </div>
+                    </div>
+                    {{/if}}
+
+                    {{!-- A weapon grown into the limb: impmal's own weapon fields,
+                          typed here rather than dropped, because there is no
+                          compendium document for a set of claws that exists only
+                          as part of this implant. Category, spec and range follow
+                          the attack type, exactly as impmal's weapon sheet does. --}}
+                    {{#if this.isProfile}}
+                    {{#with this.profile}}
+                    <div class="navis-mech-profile">
+                        <div class="navis-mech-row sub">
+                            <div class="field wide">
+                                <label>{{localize "NAVIS.Implant.Mechanics.WeaponName"}}</label>
+                                <input type="text" data-navis-field="profile.name" aria-label="{{localize 'NAVIS.Implant.Mechanics.WeaponName'}}"
+                                       data-group-id="{{../groupId}}" data-entry-id="{{../id}}"
+                                       value="{{this.name}}"
+                                       placeholder="{{localize 'NAVIS.Implant.Mechanics.WeaponNameHint'}}">
+                            </div>
+                            <div class="field narrow">
+                                <label>{{localize "NAVIS.Implant.Mechanics.AttackType"}}</label>
+                                <select data-navis-field="profile.attackType" aria-label="{{localize 'NAVIS.Implant.Mechanics.AttackType'}}"
+                                        data-group-id="{{../groupId}}" data-entry-id="{{../id}}">
+                                    {{selectOptions this.attackTypeOptions selected=this.attackType localize=true}}
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="navis-mech-row sub">
+                            <div class="field">
+                                <label>{{localize "NAVIS.Implant.Mechanics.WeaponCategory"}}</label>
+                                <select data-navis-field="profile.category" aria-label="{{localize 'NAVIS.Implant.Mechanics.WeaponCategory'}}"
+                                        data-group-id="{{../groupId}}" data-entry-id="{{../id}}">
+                                    {{selectOptions this.categoryOptions selected=this.category localize=true blank=""}}
+                                </select>
+                            </div>
+                            <div class="field">
+                                <label>{{localize "NAVIS.Implant.Mechanics.WeaponSpec"}}</label>
+                                <select data-navis-field="profile.spec" aria-label="{{localize 'NAVIS.Implant.Mechanics.WeaponSpec'}}"
+                                        data-group-id="{{../groupId}}" data-entry-id="{{../id}}">
+                                    {{selectOptions this.specOptions selected=this.spec localize=true blank=""}}
+                                </select>
+                            </div>
+                            {{#if this.ranged}}
+                            <div class="field">
+                                <label>{{localize "NAVIS.Implant.Mechanics.WeaponRange"}}</label>
+                                <select data-navis-field="profile.range" aria-label="{{localize 'NAVIS.Implant.Mechanics.WeaponRange'}}"
+                                        data-group-id="{{../groupId}}" data-entry-id="{{../id}}">
+                                    {{selectOptions this.rangeOptions selected=this.range localize=true blank=""}}
+                                </select>
+                            </div>
+                            {{/if}}
+                        </div>
+
+                        <div class="navis-mech-row sub">
+                            <div class="field narrow">
+                                <label>{{localize "NAVIS.Implant.Mechanics.WeaponDamage"}}</label>
+                                <input type="text" data-navis-field="profile.damage.base" aria-label="{{localize 'NAVIS.Implant.Mechanics.WeaponDamage'}}"
+                                       data-group-id="{{../groupId}}" data-entry-id="{{../id}}"
+                                       value="{{this.damageBase}}">
+                            </div>
+                            <div class="field narrow">
+                                <label>{{localize "NAVIS.Implant.Mechanics.WeaponDamageChar"}}</label>
+                                <select data-navis-field="profile.damage.characteristic" aria-label="{{localize 'NAVIS.Implant.Mechanics.WeaponDamageChar'}}"
+                                        data-group-id="{{../groupId}}" data-entry-id="{{../id}}">
+                                    {{selectOptions this.characteristicOptions selected=this.damageCharacteristic
+                                                    localize=true blank=""}}
+                                </select>
+                            </div>
+                        </div>
+
+                        {{!-- Checkboxes with their own labels, so the tick is never
+                              the only thing that says what it means. --}}
+                        <div class="navis-mech-row sub navis-mech-flags">
+                            <label class="check">
+                                <input type="checkbox" data-navis-field="profile.damage.SL"
+                                       data-group-id="{{../groupId}}" data-entry-id="{{../id}}"
+                                       {{checked this.damageSL}}>
+                                {{localize "NAVIS.Implant.Mechanics.WeaponDamageSL"}}
+                            </label>
+                            <label class="check">
+                                <input type="checkbox" data-navis-field="profile.damage.ignoreAP"
+                                       data-group-id="{{../groupId}}" data-entry-id="{{../id}}"
+                                       {{checked this.damageIgnoreAP}}>
+                                {{localize "NAVIS.Implant.Mechanics.WeaponIgnoreAP"}}
+                            </label>
+                        </div>
+                    </div>
+                    {{/with}}
                     {{/if}}
 
                     {{#if this.isScript}}

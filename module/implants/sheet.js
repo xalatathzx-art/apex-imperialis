@@ -357,7 +357,10 @@ export function defineImplantSheet() {
       event.stopPropagation();
 
       const { navisField: field, groupId, entryId, level } = input.dataset;
-      const value = input.value;
+      // A checkbox's `value` is the string "on" whether it is ticked or not;
+      // the weapon profile's two damage booleans are stored as booleans, so
+      // the tick itself is what has to be read.
+      const value = input.type === "checkbox" ? input.checked : input.value;
       this.#enqueue(() => mech.setField(this.item, { groupId, entryId, field, level, value }));
     }
 

@@ -433,6 +433,72 @@
   margin-top: 4px;
 }
 
+/*
+ * The sub-rows carry their own field sizing.
+ *
+ * `.navis-implant-row .field` above is the article tab's, and the constructor
+ * sits in a narrower column: an entry's fields share one 560px window with a
+ * kind picker that is already 130px wide, so they wrap at a smaller basis and
+ * a select is allowed to shrink below its content rather than push the row
+ * sideways.
+ */
+.navis-implant .navis-mech-row .field {
+  flex: 1 1 110px;
+  min-width: 0;
+}
+
+.navis-implant .navis-mech-row .field.narrow {
+  flex: 0 0 84px;
+}
+
+.navis-implant .navis-mech-row .field.wide {
+  flex: 1 1 100%;
+}
+
+.navis-implant .navis-mech-row .field > select,
+.navis-implant .navis-mech-row .field > input {
+  width: 100%;
+  min-width: 0;
+}
+
+/* An integrated weapon is a whole impmal weapon, so its fields read as a block. */
+.navis-implant .navis-mech-profile {
+  margin-top: 4px;
+  padding: 4px 6px;
+  border-left: 2px solid var(--navis-implant-brass);
+  background: var(--navis-implant-surface);
+}
+
+.navis-implant .navis-mech-profile > .navis-mech-row:first-child {
+  margin-top: 0;
+}
+
+/*
+ * A tick is never the only thing that says what it means: the label is the
+ * control, so the words are clickable and a screen reader reads them as the
+ * checkbox's name.
+ */
+.navis-implant .navis-mech-flags {
+  gap: 12px;
+  align-items: center;
+}
+
+.navis-implant .navis-mech-flags .check {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 4px;
+  color: var(--navis-implant-ink);
+  font-size: 10px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.navis-implant .navis-mech-flags .check > input {
+  flex: 0 0 auto;
+  margin: 0;
+}
+
 .navis-implant .navis-mech-kind {
   flex: 0 0 130px;
 }
