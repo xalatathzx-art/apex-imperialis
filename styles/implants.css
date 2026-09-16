@@ -879,27 +879,34 @@
 /*  The biomonitor's entry point                */
 /* -------------------------------------------- */
 
-.navis-bio-surgeon {
+/*
+ * The figure header's title doubles as the Surgeon entry point for the
+ * actor's owner/GM. It must look like the title it replaces (same brass
+ * small-caps, same position, no button chrome fighting the panel) while
+ * still reading as pressable. This is the skin-off base: the skin (see
+ * src/skin/80-biomonitor.css) layers its own colour and glow on top, so
+ * every custom property here carries a fallback for when the skin is off.
+ */
+.navis-bio-figure > header button {
   flex: 0 0 auto;
-  width: auto;
-  margin-left: auto;
-  padding: 0 6px;
-  border: 1px solid var(--navis-line, rgba(0, 0, 0, 0.2));
-  background: transparent;
+  padding: 0;
+  border: 0;
+  background: none;
   color: inherit;
-  font-size: 10px;
-  line-height: 1.6;
+  font: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
   white-space: nowrap;
   cursor: pointer;
 }
 
-.navis-bio-surgeon i {
-  margin-right: 4px;
+.navis-bio-figure > header button:hover {
+  color: var(--navis-brass-dim, #806633);
 }
 
-.navis-bio-surgeon:hover {
-  border-color: var(--navis-brass-dim, #806633);
-  color: var(--navis-brass-dim, #806633);
+.navis-bio-figure > header button:focus-visible {
+  outline: 2px solid var(--navis-brass-dim, #806633);
+  outline-offset: 2px;
 }
 
 /* The same tint the Chirurgeon uses, so a category reads alike in both. */

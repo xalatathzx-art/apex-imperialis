@@ -56,12 +56,15 @@ function zoneDefault(model) {
   return `<h4>${t("Internal")}</h4>${items(model.internalAugmetics)}${implantItems(model.internalImplants)}`;
 }
 
-// Кнопка открывает отдельное окно. Монитор от неё не становится
-// редактируемым: ставит и снимает импланты Хирургеон, здесь только вход.
-function surgeonButton(actor) {
-  if (!(actor?.isOwner || game.user?.isGM)) return "";
-  const label = escape(game.i18n.localize("NAVIS.Surgeon.Title"));
-  return `<button type="button" class="navis-bio-surgeon" data-action="surgeon" data-tooltip="${label}"><i class="fa-solid fa-user-doctor"></i>${label}</button>`;
+// Заголовок фигуры — это и есть вход в Хирургеон для владельца/ГМ: кнопка
+// открывает отдельное окно, монитор от этого не становится редактируемым,
+// ставит и снимает импланты сам Хирургеон. У остальных — просто подпись.
+function figureTitle(actor) {
+  if (actor?.isOwner || game.user?.isGM) {
+    const label = escape(game.i18n.localize("NAVIS.Surgeon.Title"));
+    return `<button type="button" data-action="surgeon" data-tooltip="${label}">◄ ${label} ►</button>`;
+  }
+  return `<b>◄ ${t("BioScan")} ►</b>`;
 }
 
 function markup(model, actor) {
@@ -69,7 +72,7 @@ function markup(model, actor) {
   return `<section class="${BIOMONITOR_CLASS}" data-actor-id="${model.actorId}">
     <div class="navis-biomonitor-detail">
       <div class="navis-bio-main">
-        <section class="navis-bio-figure"><header><b>◄ ${t("BioScan")} ►</b><span>SUBJECT // ${escape(model.name)}</span>${surgeonButton(actor)}</header><div class="navis-body-scan">${bodyScan(model)}</div><footer><span>● ${t("Flesh")}</span><span>◇ ${t("Augmetics")}: ${augmeticCount(model)}</span></footer></section>
+        <section class="navis-bio-figure"><header>${figureTitle(actor)}<span>SUBJECT // ${escape(model.name)}</span></header><div class="navis-body-scan">${bodyScan(model)}</div><footer><span>● ${t("Flesh")}</span><span>◇ ${t("Augmetics")}: ${augmeticCount(model)}</span></footer></section>
         <div class="navis-bio-side">
           ${ecg(model)}
           <div class="navis-bio-vitals">
