@@ -258,7 +258,8 @@ a one-line change in one file.
 All kinds except `testMod`, `script` and `energy` create an Active Effect on the
 item at install time. The first two are **live requests**: they write nothing,
 and are read at the moment of the roll — `testMod` by a script hooked into test preparation,
-which is how impmal expresses success bonuses and Advantage (`args.fields`),
+which is how impmal expresses success bonuses (`args.fields.SL`) and Advantage
+(`args.advantage++` — a counter, never an assignment),
 since neither is an effect key. This mirrors the reference system's
 `terrainIgnore` / `reroll` entries, which are live for the same reason.
 

@@ -53,7 +53,7 @@ export function talentBonuses(actor) {
 export const CAP_PENALTY_SCRIPT = Object.freeze({
   label: "NAVIS.Implant.OverCap",
   trigger: "dialog",
-  script: "args.fields.disadvantage = true;"
+  script: "args.disadvantage++;"
 });
 
 /**
@@ -74,11 +74,14 @@ export function testModScript(entry, quality) {
   const lines = [];
 
   // An entry with no skill speaks to every test, so it needs no guard at all.
-  if (entry.skill) lines.push(`if (args.skill !== "${entry.skill}") return;`);
+  if (entry.skill) lines.push(`if (args.skill !== ${JSON.stringify(entry.skill)}) return;`);
 
   if (successes) lines.push(`args.fields.SL += ${successes};`);
-  if (advantage > 0) lines.push("args.fields.advantage = true;");
-  if (advantage < 0) lines.push("args.fields.disadvantage = true;");
+  // Use ++ to increment, not assignment. impmal's computeState (impmal.js:156-168)
+  // compares advantage and disadvantage as numbers. Assignment would wipe out
+  // contributions from other sources (weapon traits, other implants, Fate).
+  if (advantage > 0) lines.push("args.advantage++;");
+  if (advantage < 0) lines.push("args.disadvantage++;");
 
   return {
     label: entry.label || "NAVIS.Implant.TestMod",

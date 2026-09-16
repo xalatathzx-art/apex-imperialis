@@ -51,8 +51,8 @@ test("the value is resolved at the implant's quality before it reaches the scrip
 });
 
 test("advantage and disadvantage set impmal's own flags", () => {
-  assert.match(testModScript({ kind: "testMod", advantage: 1 }, 2).script, /args\.fields\.advantage = true/);
-  assert.match(testModScript({ kind: "testMod", advantage: -1 }, 2).script, /args\.fields\.disadvantage = true/);
+  assert.match(testModScript({ kind: "testMod", advantage: 1 }, 2).script, /args\.advantage\+\+/);
+  assert.match(testModScript({ kind: "testMod", advantage: -1 }, 2).script, /args\.disadvantage\+\+/);
 });
 
 test("an entry of another kind produces no script", () => {
@@ -66,5 +66,5 @@ test("an entry that would do nothing produces no script", () => {
 
 test("the cap penalty is a dialog script applying Disadvantage", () => {
   assert.equal(CAP_PENALTY_SCRIPT.trigger, "dialog");
-  assert.match(CAP_PENALTY_SCRIPT.script, /args\.fields\.disadvantage = true/);
+  assert.match(CAP_PENALTY_SCRIPT.script, /args\.disadvantage\+\+/);
 });
