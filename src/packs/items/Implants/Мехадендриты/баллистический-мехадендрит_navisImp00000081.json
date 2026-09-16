@@ -1,0 +1,70 @@
+{
+  "name": "Баллистический Мехадендрит",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000081",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00006",
+  "sort": 8100,
+  "system": {
+    "notes": {
+      "player": "<p>Распространённый среди воинственных Механикум мехадендрит, по умолчанию снабжённый компактным лазпистолетом.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Пистолет можно заменить любым другим компактным пистолетом или оружием со свойством Combi; питающееся от батарей оружие не расходует боеприпасы. При перегреве урон приходится в торс, а сам мехадендрит бесполезен до починки. Профиль удара: Хват Weapon, S(Un) 20(0), Длина 2м, Rng 0-6, Урон 1d5+1 I(Cr), Flexible, Primitive.</p>",
+    "page": "DoomBC стр. 277",
+    "category": "mechadendrite",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 2800,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 1,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "−1 успех на связанные проверки, S −10.",
+      "2": "",
+      "3": "+1 успех на связанные проверки, S +5.",
+      "4": "+1 успех на связанные проверки, S +10."
+    },
+    "slot": "mechadendrite",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 277",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

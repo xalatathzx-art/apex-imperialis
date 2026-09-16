@@ -1,0 +1,93 @@
+{
+  "name": "Фрейм Максимус",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000116",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 11600,
+  "system": {
+    "notes": {
+      "player": "<p>Фрейм, доступный лишь самым почтенным и высокопоставленным Магосам — устанавливается не вместо, а поверх одного из низших фреймов (кроме Фактора и Хоминиса), требуя изученного Запретного Знания (Механикум)+30.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Сохраняет бонусы фрейма-основы, но снимает его штрафы. Даёт <strong>+10 Ран</strong>, Размер 1 (если владелец не больше), черты Ловкий (10) и Неестественная Выносливость (2) — <strong>+5 к Выносливости</strong> — а также <strong>+5 к максимуму Заряда</strong> и +5 к максимуму Когниции. Вся бионика и кибернетика владельца получает +1 к качеству, и он получает бонус на общение через Ноосферу. Не может передвигаться пешком, кроме как на определённых вариациях бионических ног.</p>",
+    "page": "DoomBC стр. 274",
+    "category": "mechanicum",
+    "rarity": 4,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 15000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp01150",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt11500",
+            "kind": "wounds",
+            "value": 10
+          },
+          {
+            "id": "navisImpEnt11501",
+            "kind": "characteristic",
+            "key": "tgh",
+            "value": 5
+          },
+          {
+            "id": "navisImpEnt11502",
+            "kind": "energy",
+            "value": 5
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 274",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

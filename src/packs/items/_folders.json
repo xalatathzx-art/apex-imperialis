@@ -36,5 +36,100 @@
       "systemId": "impmal",
       "systemVersion": "3.3.0"
     }
+  },
+  {
+    "_id": "navisImpFld00003",
+    "name": "Кибернетика",
+    "type": "Item",
+    "folder": "navisImpFld00001",
+    "description": "",
+    "color": "#3f6b6a",
+    "sorting": "m",
+    "sort": 200,
+    "flags": {},
+    "_stats": {
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null,
+      "coreVersion": "13.348",
+      "systemId": "impmal",
+      "systemVersion": "3.3.0"
+    }
+  },
+  {
+    "_id": "navisImpFld00004",
+    "name": "Псибернетика",
+    "type": "Item",
+    "folder": "navisImpFld00001",
+    "description": "",
+    "color": "#5a3f7a",
+    "sorting": "m",
+    "sort": 300,
+    "flags": {},
+    "_stats": {
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null,
+      "coreVersion": "13.348",
+      "systemId": "impmal",
+      "systemVersion": "3.3.0"
+    }
+  },
+  {
+    "_id": "navisImpFld00005",
+    "name": "Кибернетика Скитарии",
+    "type": "Item",
+    "folder": "navisImpFld00001",
+    "description": "",
+    "color": "#7a4a2f",
+    "sorting": "m",
+    "sort": 400,
+    "flags": {},
+    "_stats": {
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null,
+      "coreVersion": "13.348",
+      "systemId": "impmal",
+      "systemVersion": "3.3.0"
+    }
+  },
+  {
+    "_id": "navisImpFld00006",
+    "name": "Мехадендриты",
+    "type": "Item",
+    "folder": "navisImpFld00001",
+    "description": "",
+    "color": "#4a4a4a",
+    "sorting": "m",
+    "sort": 500,
+    "flags": {},
+    "_stats": {
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null,
+      "coreVersion": "13.348",
+      "systemId": "impmal",
+      "systemVersion": "3.3.0"
+    }
+  },
+  {
+    "_id": "navisImpFld00007",
+    "name": "Кибернетика Механикум",
+    "type": "Item",
+    "folder": "navisImpFld00001",
+    "description": "",
+    "color": "#8a1f1f",
+    "sorting": "m",
+    "sort": 600,
+    "flags": {},
+    "_stats": {
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null,
+      "coreVersion": "13.348",
+      "systemId": "impmal",
+      "systemVersion": "3.3.0"
+    }
   }
 ]

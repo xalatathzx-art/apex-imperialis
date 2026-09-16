@@ -1,0 +1,70 @@
+{
+  "name": "Внутренний Био-Монитор",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000045",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00003",
+  "sort": 4500,
+  "system": {
+    "notes": {
+      "player": "<p>Комплекс сенсоров и медицинских микро-когитаторов в грудной клетке отслеживает жизненные показатели и может передавать их на чужие ретинальные дисплеи через вокс.</p>",
+      "gm": ""
+    },
+    "rules": "<p>В конце Хода владельца выводит его из Оглушения мощным электрошоком (но не из Ступора). Имеет 6 инжекторов под любые инъекции, срабатывающих по свободному действию или заданному условию.</p>",
+    "page": "DoomBC стр. 267",
+    "category": "cybernetic",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 267",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

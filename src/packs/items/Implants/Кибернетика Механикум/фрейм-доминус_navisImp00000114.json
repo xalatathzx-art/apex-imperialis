@@ -1,0 +1,113 @@
+{
+  "name": "Фрейм Доминус",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000114",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 11400,
+  "system": {
+    "notes": {
+      "player": "<p>Фрейм для поля боя — поддержки бойцов Скитарии и Тагматы командованием и оптимизацией их боевых протоколов, равно как и личного участия в бою, со сгорбленной осанкой над банками боевой оптимизации и укреплённой сегментированной бронёй.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт дополнительное полудействие только на командование или прицеливание, и <strong>усиливает броню на +1 в голову, +3 в торс и +2 в руки и ноги</strong>. Раз в Ход восстанавливает 1 заряд, тратимый только на оружие со свойством Cognis, и бонус на опознание оружия, техники и тактики. Если передвигается пешком не на подходящих ногах — штраф к Ловкости; естественные руки получают штраф к Дальнему бою.</p>",
+    "page": "DoomBC стр. 274",
+    "category": "mechanicum",
+    "rarity": 3,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 8000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp01130",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt11300",
+            "kind": "armour",
+            "key": "head",
+            "value": 1
+          },
+          {
+            "id": "navisImpEnt11301",
+            "kind": "armour",
+            "key": "body",
+            "value": 3
+          },
+          {
+            "id": "navisImpEnt11302",
+            "kind": "armour",
+            "key": "leftArm",
+            "value": 2
+          },
+          {
+            "id": "navisImpEnt11303",
+            "kind": "armour",
+            "key": "rightArm",
+            "value": 2
+          },
+          {
+            "id": "navisImpEnt11304",
+            "kind": "armour",
+            "key": "leftLeg",
+            "value": 2
+          },
+          {
+            "id": "navisImpEnt11305",
+            "kind": "armour",
+            "key": "rightLeg",
+            "value": 2
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 274",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Санкционные Цепи",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000053",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00004",
+  "sort": 5300,
+  "system": {
+    "notes": {
+      "player": "<p>Стандартный кибернетический имплант, вживляемый имперским псайкерам как часть процедуры санкционирования, вместе с пультом, который можно держать в руке или встроить в ретинальный дисплей.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Включённые Санкционные Цепи не дают псайкеру манифестировать и поддерживать психосилы. Если он всё же пытается манифестировать в усиленном режиме со штрафом −30, успешная манифестация перегружает и отключает имплант до конца боя или сцены, нанося урон Интеллекту; неудачная манифестация не вызывает Феномен, но даёт Усталость и Ступор.</p>",
+    "page": "DoomBC стр. 268",
+    "category": "psybernetic",
+    "rarity": 0,
+    "availability": "common",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 800,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "cortex",
+    "side": "",
+    "location": "head",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 268",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

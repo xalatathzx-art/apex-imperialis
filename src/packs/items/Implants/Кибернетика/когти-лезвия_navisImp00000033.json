@@ -1,0 +1,70 @@
+{
+  "name": "Когти-Лезвия",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000033",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00003",
+  "sort": 3300,
+  "system": {
+    "notes": {
+      "player": "<p>Узкие бритвенно-острые лезвия вживлены в руку, выдвигаясь из кончиков пальцев по желанию.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Как скальпели дают бонус на хирургию, Первую помощь и допрос болью. Также работают как оружие ближнего боя со своим профилем урона.</p>",
+    "page": "DoomBC стр. 266",
+    "category": "cybernetic",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 2000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Урон снижен, лезвия хуже держат заточку.",
+      "2": "",
+      "3": "Выдвижные механизмы заставляют лезвия вибрировать: получают свойство Tearing.",
+      "4": "Как Уровень 3, и вдобавок железа с ядом даёт лезвиям свойство Toxic(0), заряжаемое любым доступным ядом."
+    },
+    "slot": "arm",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 266",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

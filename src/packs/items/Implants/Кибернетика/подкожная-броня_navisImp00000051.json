@@ -1,0 +1,116 @@
+{
+  "name": "Подкожная Броня",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000051",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00003",
+  "sort": 5100,
+  "system": {
+    "notes": {
+      "player": "<p>Сетка брони из особых сплавов вживлена под кожу, обеспечивая дополнительную защиту без единого видимого шва.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт <strong>+2 очка брони</strong> в торс, руки и ноги, складывающееся с носимой бронёй.</p>",
+    "page": "DoomBC стр. 267",
+    "category": "cybernetic",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Броня ограничивает подвижность: <strong>−10 к Ловкости</strong>.",
+      "2": "",
+      "3": "Броня способна поглощать урон от горения.",
+      "4": "Как Уровень 3, и вдобавок снижает любой Критический Эффект в торс на 1, а в руки и ноги — на 2."
+    },
+    "slot": "skin",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00500",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt05000",
+            "kind": "armour",
+            "key": "body",
+            "value": 2
+          },
+          {
+            "id": "navisImpEnt05001",
+            "kind": "armour",
+            "key": "leftArm",
+            "value": 2
+          },
+          {
+            "id": "navisImpEnt05002",
+            "kind": "armour",
+            "key": "rightArm",
+            "value": 2
+          },
+          {
+            "id": "navisImpEnt05003",
+            "kind": "armour",
+            "key": "leftLeg",
+            "value": 2
+          },
+          {
+            "id": "navisImpEnt05004",
+            "kind": "armour",
+            "key": "rightLeg",
+            "value": 2
+          },
+          {
+            "id": "navisImpEnt05005",
+            "kind": "characteristic",
+            "key": "ag",
+            "value": {
+              "1": -10,
+              "2": 0
+            }
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 267",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

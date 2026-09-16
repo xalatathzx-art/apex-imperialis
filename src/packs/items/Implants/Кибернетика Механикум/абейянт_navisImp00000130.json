@@ -1,0 +1,70 @@
+{
+  "name": "Абейянт",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000130",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 13000,
+  "system": {
+    "notes": {
+      "player": "<p>Парящий трон для высших Магосов — одновременно символ статуса, боевая колесница и дополнительная когитационная система; вживляется только система коннекторов к нему.</p><p>Устанавливается только персонажу с чертой Импланты Механикум, не более одного экземпляра. Операция по установке персонажу вне Техножречества — услуга Редкости 4.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Раз в Ход свободным действием владелец подключается к Абейянту или отключается от него. Подключённый получает черту Полёт (5), аблативные Раны, дополнительное полудействие только на движение, бонус на Компенсаторы и восстанавливает больше Заряда и Когниции в Ход; отключённый Абейянт держит минимальные АР и Т.b сам по себе.</p>",
+    "page": "DoomBC стр. 276",
+    "category": "mechanicum",
+    "rarity": 4,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 15000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Аблативные Раны, АР и Т.b ниже; восстанавливает меньше ресурсов и не даёт бонусов.",
+      "2": "",
+      "3": "Аблативные Раны, АР, Т.b и черта Полёт выше.",
+      "4": "Ещё выше."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 276",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

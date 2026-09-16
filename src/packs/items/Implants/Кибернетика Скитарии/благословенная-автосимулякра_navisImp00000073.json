@@ -1,0 +1,70 @@
+{
+  "name": "Благословенная Автосимулякра",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000073",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00005",
+  "sort": 7300,
+  "system": {
+    "notes": {
+      "player": "<p>Сеть микро-дронов вживлена в плоть и бионику Скитария, затягивая его раны прямо в бою.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт черту Регенерация (1), не конфликтующую с бионикой и кибернетикой владельца. Подавляет лучевую болезнь, если она уже была, или замораживает срок её развития от Рад Печи, пока имплант работает.</p>",
+    "page": "DoomBC стр. 270",
+    "category": "skitarii",
+    "rarity": 3,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 7000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Регенерация срабатывает только при пропуске Хода.",
+      "2": "",
+      "3": "Дополнительный бонус на проверки Выносливости для регенерации.",
+      "4": "Как Уровень 3, но рейтинг черты повышается до 2."
+    },
+    "slot": "skin",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 270",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Клинок Старца Самуила",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000131",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 13100,
+  "system": {
+    "notes": {
+      "player": "<p>Продвинутые излучатели расщепительного поля встроены в ладони и соединены энергопроводами прямо с Катушкой Потенции, позволяя обволакивать оружие и кулаки сияющими полями всепробивающей силы.</p><p>Устанавливается только персонажу с чертой Импланты Механикум, не более одного экземпляра. Операция по установке персонажу вне Техножречества — услуга Редкости 4.</p>",
+      "gm": ""
+    },
+    "rules": "<p>При попадании рукопашным оружием в руках или безоружной атакой владелец может потратить заряды, чтобы дать попаданию дополнительное Прон, свойства Extreme (9/-1), Power Field и Lance, а также снизить рейтинг технологических щитов цели.</p>",
+    "page": "DoomBC стр. 276",
+    "category": "mechanicum",
+    "rarity": 3,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 8000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 1,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Активация стоит больше зарядов.",
+      "2": "",
+      "3": "Активация стоит меньше зарядов.",
+      "4": "Активация стоит ещё меньше зарядов."
+    },
+    "slot": "arm",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 276",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

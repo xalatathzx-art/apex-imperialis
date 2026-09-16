@@ -1,0 +1,70 @@
+{
+  "name": "Нити Старца Софоса",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000136",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 13600,
+  "system": {
+    "notes": {
+      "player": "<p>Рунические инфокабели проложены вдоль мехадендритов, а на их лезвиях и манипуляторах установлены инжекторы нанодронов, формирующих коннекторы с чужими инфопроводами на ходу.</p><p>Устанавливается только персонажу с чертой Импланты Механикум, не более одного экземпляра. Операция по установке персонажу вне Техножречества — услуга Редкости 4.</p>",
+      "gm": ""
+    },
+    "rules": "<p>При успешном контакте мехадендритом с целью, несущей Импланты Механикум, Латы Скитарии, силовую броню или черту Машина, владелец получает бонус на Техночудеса против неё, пока держит контакт, а при контакте тремя и более дендритами может «воровать» её генерацию Заряда.</p>",
+    "page": "DoomBC стр. 276",
+    "category": "mechanicum",
+    "rarity": 3,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 8000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 1,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Бонус ниже и не позволяет «воровать» Заряд.",
+      "2": "",
+      "3": "«Кража» Заряда возможна уже при контакте двумя дендритами.",
+      "4": "Как Уровень 3, и вдобавок бонус на прочие проверки против цели за каждый контактирующий дендрит."
+    },
+    "slot": "mechadendrite",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 276",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

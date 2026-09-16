@@ -1,0 +1,70 @@
+{
+  "name": "Серво-Шунт",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000031",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00003",
+  "sort": 3100,
+  "system": {
+    "notes": {
+      "player": "<p>Гибкий инфо-кабель соединяет контрольный модуль на голове или спине персонажа с отдельно добываемым сервочерепом.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Владелец получает дополнительное зрение и слух от черепа (использующего собственные Характеристики) и раз в Ход может переставить череп в пределах 3м и сменить направление обзора. Подключить или отключить череп — полное или полудействие соответственно.</p>",
+    "page": "DoomBC стр. 265",
+    "category": "cybernetic",
+    "rarity": 0,
+    "availability": "common",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 800,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 265",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

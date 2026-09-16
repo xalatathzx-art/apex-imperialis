@@ -1,0 +1,97 @@
+{
+  "name": "Синтемышцы",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000042",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00003",
+  "sort": 4200,
+  "system": {
+    "notes": {
+      "player": "<p>Пучки электронных фибромышц вплетены в естественные мышцы, усиливая их сверх человеческого предела.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт черту Неестественная Сила (2) — <strong>+5 к Силе</strong>.</p>",
+    "page": "DoomBC стр. 266",
+    "category": "cybernetic",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 2000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Мышцы плохо приживаются: за каждый час использования — 1 Усталость, если владелец решил ими пользоваться в этот час.",
+      "2": "",
+      "3": "Черта растёт до Неестественной Силы (4) — <strong>+10 к Силе</strong>, но раздутые мышцы стесняют движение: <strong>−10 к Ловкости</strong>.",
+      "4": "Как Уровень 3, но без штрафа к Ловкости."
+    },
+    "slot": "skeleton",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00410",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt04100",
+            "kind": "characteristic",
+            "key": "str",
+            "value": {
+              "2": 5,
+              "3": 10,
+              "4": 10
+            }
+          },
+          {
+            "id": "navisImpEnt04101",
+            "kind": "characteristic",
+            "key": "ag",
+            "value": {
+              "2": 0,
+              "3": -10,
+              "4": 0
+            }
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 266",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

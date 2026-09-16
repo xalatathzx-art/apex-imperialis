@@ -1,0 +1,70 @@
+{
+  "name": "Гордийский Коллектор",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000091",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 9100,
+  "system": {
+    "notes": {
+      "player": "<p>Раскладной зонт солнечных батарей вмонтирован в шею техножреца.</p><p>Устанавливается только персонажу с чертой Импланты Механикум, не более одного экземпляра. Операция по установке персонажу вне Техножречества — услуга Редкости 4.</p>",
+      "gm": ""
+    },
+    "rules": "<p>За 5 минут медитации под ярким светом восстанавливает 1 заряд Энергии; под тусклым светом — дольше, по усмотрению ГМа.</p>",
+    "page": "DoomBC стр. 271",
+    "category": "mechanicum",
+    "rarity": 0,
+    "availability": "common",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 800,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Медитация под нормальным освещением занимает 15 минут.",
+      "2": "",
+      "3": "Медитация занимает 1 минуту.",
+      "4": "Медитация занимает 2 Хода."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 271",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

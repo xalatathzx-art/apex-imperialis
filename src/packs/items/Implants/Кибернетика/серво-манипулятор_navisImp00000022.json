@@ -1,0 +1,70 @@
+{
+  "name": "Серво-Манипулятор",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000022",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00003",
+  "sort": 2200,
+  "system": {
+    "notes": {
+      "player": "<p>Тонкий полуавтономный манипулятор с клешневидным захватом, обычно ставящийся сервиторам, у которых обе руки заняты оружием или инструментами. Крепится только поверх другой бионики — например, на плечо бионической руки, — а не прямо на плоть.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Манипулятор считается дополнительной рукой: он держит предметы, перезаряжает и расклинивает оружие, работает с пультами и кнопками, но не может пользоваться оружием. Передача предмета между ним и настоящей рукой занимает полудействие.</p>",
+    "page": "DoomBC стр. 265",
+    "category": "cybernetic",
+    "rarity": 0,
+    "availability": "common",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 800,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Активация встроенной Электу-татуировки, если она есть, болезненна — чисто косметическая деталь, не имеющая игровых последствий.",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "slot": "mechadendrite",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 265",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

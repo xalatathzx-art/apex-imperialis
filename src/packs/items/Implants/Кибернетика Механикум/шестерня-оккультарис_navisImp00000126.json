@@ -1,0 +1,70 @@
+{
+  "name": "Шестерня Оккультарис",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000126",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 12600,
+  "system": {
+    "notes": {
+      "player": "<p>Шифровальные когитаторы скрывают персональные потоки данных техножреца, лучше укрывая его Ноосферные действия от чужого внимания.</p><p>Устанавливается только персонажу с чертой Импланты Механикум, не более одного экземпляра. Операция по установке персонажу вне Техножречества — услуга Редкости 4.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Чтобы засечь Техночудеса владельца Ноосферным сканированием, нужно набрать больше успехов, чем обычно.</p>",
+    "page": "DoomBC стр. 275",
+    "category": "mechanicum",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Нужно 2 успеха вместо обычного 1.",
+      "2": "",
+      "3": "Нужно 4 успеха.",
+      "4": "Нужно 5 успехов."
+    },
+    "slot": "cortex",
+    "side": "",
+    "location": "head",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 275",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

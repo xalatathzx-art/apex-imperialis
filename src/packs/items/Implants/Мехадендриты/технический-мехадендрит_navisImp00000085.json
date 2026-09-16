@@ -1,0 +1,70 @@
+{
+  "name": "Технический Мехадендрит",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000085",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00006",
+  "sort": 8500,
+  "system": {
+    "notes": {
+      "player": "<p>Многозадачный мехадендрит для ремонта, обслуживания и конструкции, оборудованный набором пил, дрелей, зажимов, резаков и паяльников.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Оборудован Комби-Инструментом и даёт бонус на проверки Техники для физического ремонта и запуска устройств, а встроенная модификация Кадило штрафует Ближний и Дальний бой цели на Раунд. Профиль: Хват Utility, S(Un) 30(0), Длина 3м, Rng 0-8, Урон 1d5+3 R, Pen 2, Flexible, Precise, Reinforced.</p>",
+    "page": "DoomBC стр. 278",
+    "category": "mechadendrite",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 2800,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 1,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "−1 успех на связанные проверки, S −10.",
+      "2": "",
+      "3": "+1 успех на связанные проверки, S +5.",
+      "4": "+1 успех на связанные проверки, S +10."
+    },
+    "slot": "mechadendrite",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 278",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

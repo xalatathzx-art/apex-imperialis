@@ -1,0 +1,70 @@
+{
+  "name": "Солнечный Конвертер",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000095",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 9500,
+  "system": {
+    "notes": {
+      "player": "<p>Миниатюрный термоядерный реактор производит нескончаемый поток энергии нуждам бионики Механикум.</p><p>Устанавливается только персонажу с чертой Импланты Механикум, не более одного экземпляра. Операция по установке персонажу вне Техножречества — услуга Редкости 4.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Пока реактор включён (переключается свободным действием), он восстанавливает 1 заряд Энергии в начале каждого Хода, но любой Критический Эффект в спину торса усиливается и становится Энергетическим, а владелец получает урон Выносливости от выброса энергии реактора.</p>",
+    "page": "DoomBC стр. 271",
+    "category": "mechanicum",
+    "rarity": 3,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 8000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Восстанавливает заряд лишь каждый второй Ход.",
+      "2": "",
+      "3": "Не усиливает Критические Эффекты и не наносит урон в спину торса.",
+      "4": "Как Уровень 3, и вдобавок даёт бонус на проверки Компенсаторов."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 271",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

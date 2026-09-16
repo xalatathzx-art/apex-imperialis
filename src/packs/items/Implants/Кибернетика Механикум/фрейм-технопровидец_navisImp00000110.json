@@ -1,0 +1,107 @@
+{
+  "name": "Фрейм Технопровидец",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000110",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 11000,
+  "system": {
+    "notes": {
+      "player": "<p>Фрейм для техножрецов, обслуживающих технику непосвящённых союзников — самый узнаваемый вне Техножречества, с укреплениями торса и конечностей, интегрированными в носимую броню.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Снижает время смены для Крафта и ремонта на 2 часа, считает Манипуляционный Дендрит, Серво-Руку или Серво-Коготь ассистентом на эти проверки и позволяет перебрасывать неудачные проверки диагностики поломок. Даёт <strong>+2 очка брони</strong> во все части тела, кроме головы.</p>",
+    "page": "DoomBC стр. 273",
+    "category": "mechanicum",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp01090",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt10900",
+            "kind": "armour",
+            "key": "body",
+            "value": 2
+          },
+          {
+            "id": "navisImpEnt10901",
+            "kind": "armour",
+            "key": "leftArm",
+            "value": 2
+          },
+          {
+            "id": "navisImpEnt10902",
+            "kind": "armour",
+            "key": "rightArm",
+            "value": 2
+          },
+          {
+            "id": "navisImpEnt10903",
+            "kind": "armour",
+            "key": "leftLeg",
+            "value": 2
+          },
+          {
+            "id": "navisImpEnt10904",
+            "kind": "armour",
+            "key": "rightLeg",
+            "value": 2
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 273",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

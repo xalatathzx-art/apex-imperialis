@@ -1,0 +1,86 @@
+{
+  "name": "Модуль Агрессии",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000066",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00005",
+  "sort": 6600,
+  "system": {
+    "notes": {
+      "player": "<p>Мозговые импланты и инжекторы гормонов, вживляемые Сикарианским Ржаволовцам, придающие им их фирменную контролируемую агрессию.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт Талант Ярость, способность совершать Избегания в Ярости без обычных ограничений и автоматический успех на проверки выхода из Ярости.</p>",
+    "page": "DoomBC стр. 269",
+    "category": "skitarii",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 3500,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Пока установлен, <strong>−10 к Интеллекту</strong>.",
+      "2": "",
+      "3": "Дополнительно даёт Таланты стойкости к холоду и боевого пыла в крови.",
+      "4": "Как Уровень 3, и вдобавок снимает штраф к Дальнему бою в Ярости."
+    },
+    "slot": "cortex",
+    "side": "",
+    "location": "head",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00650",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt06500",
+            "kind": "characteristic",
+            "key": "int",
+            "value": {
+              "1": -10,
+              "2": 0
+            }
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 269",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

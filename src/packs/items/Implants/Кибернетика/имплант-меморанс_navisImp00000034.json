@@ -1,0 +1,70 @@
+{
+  "name": "Имплант Меморанс",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000034",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00003",
+  "sort": 3400,
+  "system": {
+    "notes": {
+      "player": "<p>Нейральный имплант подключается ко всем пяти органам чувств, записывая их работу за последние сутки.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Владелец может в любой момент «пережить» запись заново, теряя на это время обычные чувства. Свободным действием можно остановить/возобновить запись и запечатать часть памяти в постоянное хранение.</p>",
+    "page": "DoomBC стр. 266",
+    "category": "cybernetic",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 2000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Хранит записи не дольше 4 часов.",
+      "2": "",
+      "3": "Хранит записи до 3 суток.",
+      "4": "Хранит записи до 9 суток."
+    },
+    "slot": "cortex",
+    "side": "",
+    "location": "head",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 266",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

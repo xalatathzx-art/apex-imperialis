@@ -1,0 +1,70 @@
+{
+  "name": "Катушка Инферния",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000094",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 9400,
+  "system": {
+    "notes": {
+      "player": "<p>Модифицированная Катушка Потенции с вселённым ритуалами Кузнецов Войны демоном, имплантируемая рядом с обычной и связанная с ней руническими шунтами, чтобы извлекать энергию из страданий заключённого демона.</p><p>Устанавливается только персонажу с чертой Импланты Механикум, не более одного экземпляра. Операция по установке персонажу вне Техножречества — услуга Редкости 4.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Владелец может включить катушку при проверке Компенсатора, получая бонус, но снижая свой Предел Критического Провала для этого теста и вызывая Феномен при Критическом Провале.</p>",
+    "page": "DoomBC стр. 271",
+    "category": "mechanicum",
+    "rarity": 3,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 8000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Снижение Предела Критического Провала больше.",
+      "2": "",
+      "3": "Бонус на Компенсатор выше.",
+      "4": "Бонус на Компенсатор ещё выше."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 271",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

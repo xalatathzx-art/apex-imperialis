@@ -1,0 +1,70 @@
+{
+  "name": "Обвязка Мыслеведьмы",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000052",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00004",
+  "sort": 5200,
+  "system": {
+    "notes": {
+      "player": "<p>Продукт техноереси Тёмных Механикум: обвязка связывает голову псайкера и тело жертвы в один организм, минуя пределы столь грубой операции искажением самой реальности силой дара псайкера.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Имплантируется сразу двум персонажам одного вида — псайкеру и не псайкеру. Псайкер лишается конечностей и большей части тела, а голова с верхней частью торса срастается с телом-хостом, которое он контролирует по правилам черты Паразит; искривление реальности ради такого слияния снижает его Психический Рейтинг на 2. Попадания в голову тела-хоста приходятся в псайкера, а тело-хост получает штраф к Ловкости из-за нарушенного равновесия. Если тело-хост погибает, псайкер остаётся жив до PR дней, пока в обвязку не установят новое тело.</p>",
+    "page": "DoomBC стр. 268",
+    "category": "psybernetic",
+    "rarity": 0,
+    "availability": "common",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 800,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 268",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

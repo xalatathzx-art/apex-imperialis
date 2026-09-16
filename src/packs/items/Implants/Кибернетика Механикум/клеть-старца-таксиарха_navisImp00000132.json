@@ -1,0 +1,70 @@
+{
+  "name": "Клеть Старца Таксиарха",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000132",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 13200,
+  "system": {
+    "notes": {
+      "player": "<p>Генератор гаол-полей свивает вокруг мотивопроводов кокон защитных энергий, ограждающий их от ужасающей силы поля Haywire.</p><p>Устанавливается только персонажу с чертой Импланты Механикум, не более одного экземпляра. Операция по установке персонажу вне Техножречества — услуга Редкости 4.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Владелец считает любой эффект Haywire на 2 меньше, чем он есть, и может свободным действием и тратой заряда удвоить это снижение для себя и распространить его на всех в радиусе 3м.</p>",
+    "page": "DoomBC стр. 276",
+    "category": "mechanicum",
+    "rarity": 3,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 8000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Только пассивный эффект.",
+      "2": "",
+      "3": "Можно активировать вне своего Хода как реакцию на попадание в поле Haywire.",
+      "4": "Как Уровень 3, но снижение выше."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 276",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

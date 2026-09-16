@@ -1,0 +1,70 @@
+{
+  "name": "Фрейм Редуктор",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000115",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 11500,
+  "system": {
+    "notes": {
+      "player": "<p>Фрейм, узкоспециализированный для поддержки формаций тяжёлой артиллерии и сверхтяжёлой техники и командования осадами, узнаваемый по массивному блоку баллистических когитаторов на плечах.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Автоматически преуспевает в расчёте траектории для оружия со свойством Arcing ценой 1 заряда вместо полудействия. За 2 заряда даёт подключённой напрямую или через Ноосферу технике временный бонус на стрельбу главным и прочими орудиями или на маневрирование.</p>",
+    "page": "DoomBC стр. 274",
+    "category": "mechanicum",
+    "rarity": 3,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 8000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 274",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

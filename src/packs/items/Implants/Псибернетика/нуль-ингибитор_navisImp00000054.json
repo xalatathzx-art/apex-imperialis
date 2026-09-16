@@ -1,0 +1,70 @@
+{
+  "name": "Нуль-Ингибитор",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000054",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00004",
+  "sort": 5400,
+  "system": {
+    "notes": {
+      "player": "<p>Продвинутый мозговой имплант, частично подавляющий поле Парии, — используется по обе стороны схизмы Хаоса, чтобы ограничить неудобства от присутствия Парий поблизости.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Включённый имплант сужает поле Парии до радиуса 1м, отключает его эффект касания к не-псайкерам и заменяет эффект касания к псайкеру или демону на обычный. Включается и выключается свободным действием не чаще раза в Раунд.</p>",
+    "page": "DoomBC стр. 268",
+    "category": "psybernetic",
+    "rarity": 3,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 8000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "cortex",
+    "side": "",
+    "location": "head",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 268",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

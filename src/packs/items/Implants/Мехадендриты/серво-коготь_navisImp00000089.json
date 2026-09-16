@@ -1,0 +1,70 @@
+{
+  "name": "Серво-Коготь",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000089",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00006",
+  "sort": 8900,
+  "system": {
+    "notes": {
+      "player": "<p>Боевая версия Серво-Руки, высоко ценимая Варп-Кузнецами и Секуторами, оборудованная генератором силового поля. Занимает два порта для мехадендритов.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Имеет тот же функционал, что Серво-Рука, но лучше приспособлена к бою и защищена от силового оружия. Профиль: Хват Weapon, S(Un) 75(7), Длина 1.5м, Rng 1-5, Урон 2d10+18 E, Pen 10, Imprecise, Power Field.</p>",
+    "page": "DoomBC стр. 278",
+    "category": "mechadendrite",
+    "rarity": 4,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 12000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 2,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "−1 успех на связанные проверки, S −10.",
+      "2": "",
+      "3": "+1 успех на связанные проверки, S +5.",
+      "4": "+1 успех на связанные проверки, S +10."
+    },
+    "slot": "mechadendrite",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 278",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

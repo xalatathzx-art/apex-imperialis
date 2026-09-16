@@ -1,0 +1,70 @@
+{
+  "name": "Фрейм Хоминис",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000108",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 10800,
+  "system": {
+    "notes": {
+      "player": "<p>Обычное человеческое тело — фрейм «по умолчанию», заказываемый, чтобы сменить внешность, восстановить утраченные органы или отказаться от более специализированного фрейма.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Не даёт особых механических эффектов сверх тех, что дают установленные в него импланты.</p>",
+    "page": "DoomBC стр. 273",
+    "category": "mechanicum",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 2000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 273",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

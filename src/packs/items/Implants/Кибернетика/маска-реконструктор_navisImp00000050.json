@@ -1,0 +1,70 @@
+{
+  "name": "Маска Реконструктор",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000050",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00003",
+  "sort": 5000,
+  "system": {
+    "notes": {
+      "player": "<p>Кости лица заменены подвижными серво-опорами с электростимуляторами и хим-индукторами; вдоль скальпа установлены фабрикаторы коллагеновых волокон и маг-излучатели.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Полным действием позволяет пройти проверку Обмана (Ловкость) и изменить внешность — от причёски до черт лица другой расы или пола — с модификатором, зависящим от выбранной степени изменения. Провал проверки на кожу или лицо наносит 1 непоглощаемого урона в голову.</p>",
+    "page": "DoomBC стр. 267",
+    "category": "cybernetic",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Все связанные проверки получают −1 успех.",
+      "2": "",
+      "3": "Все связанные проверки получают +1 успех.",
+      "4": "Все связанные проверки получают +2 успеха."
+    },
+    "slot": "skin",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 267",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

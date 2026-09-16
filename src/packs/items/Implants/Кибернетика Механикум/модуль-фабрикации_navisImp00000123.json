@@ -1,0 +1,70 @@
+{
+  "name": "Модуль Фабрикации",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000123",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 12300,
+  "system": {
+    "notes": {
+      "player": "<p>Миниатюрная кузница, встроенная в спину, производит небольшие количества металлов, полупроводников и пластиков из загруженного сырья.</p><p>Устанавливается только персонажу с чертой Импланты Механикум, не более одного экземпляра. Операция по установке персонажу вне Техножречества — услуга Редкости 4.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Владелец не нуждается в материалах для ремонта, модификации и Крафта предметов и небольшой техники, если те не требуют особо редких материалов.</p>",
+    "page": "DoomBC стр. 275",
+    "category": "mechanicum",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Производит только металлы и пластики.",
+      "2": "",
+      "3": "Бонус на проверки, где используются материалы.",
+      "4": "Бонус на такие проверки выше."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 275",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

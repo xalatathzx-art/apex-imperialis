@@ -47,6 +47,11 @@ import { fileURLToPath } from "node:url";
 import { classifyImplant, locationForSlot } from "../module/implants/classify.js";
 
 import { BIONICS } from "./data/implants-bionics.mjs";
+import { CYBERNETICS } from "./data/implants-cybernetics.mjs";
+import { PSYBERNETICS } from "./data/implants-psybernetics.mjs";
+import { SKITARII } from "./data/implants-skitarii.mjs";
+import { MECHADENDRITES } from "./data/implants-mechadendrites.mjs";
+import { MECHANICUM } from "./data/implants-mechanicum.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const OUT = path.join(ROOT, "src/packs/items");
@@ -68,8 +73,13 @@ const ICON = "modules/impmal-core/assets/icons/generic.webp";
  *   navisImpEnt + 5 digits = 16
  */
 const FOLDERS = [
-  { key: "root",    id: "navisImpFld00001", name: "Implants", parent: null,   color: "#5d6b7a", sort: 100 },
-  { key: "bionics", id: "navisImpFld00002", name: "Бионика",  parent: "root", color: "#6a5a2f", sort: 100 }
+  { key: "root",         id: "navisImpFld00001", name: "Implants",             parent: null,   color: "#5d6b7a", sort: 100 },
+  { key: "bionics",      id: "navisImpFld00002", name: "Бионика",              parent: "root", color: "#6a5a2f", sort: 100 },
+  { key: "cybernetics",  id: "navisImpFld00003", name: "Кибернетика",          parent: "root", color: "#3f6b6a", sort: 200 },
+  { key: "psybernetics", id: "navisImpFld00004", name: "Псибернетика",         parent: "root", color: "#5a3f7a", sort: 300 },
+  { key: "skitarii",     id: "navisImpFld00005", name: "Кибернетика Скитарии", parent: "root", color: "#7a4a2f", sort: 400 },
+  { key: "mechadendrites", id: "navisImpFld00006", name: "Мехадендриты",      parent: "root", color: "#4a4a4a", sort: 500 },
+  { key: "mechanicum",   id: "navisImpFld00007", name: "Кибернетика Механикум", parent: "root", color: "#8a1f1f", sort: 600 }
 ];
 
 const FOLDER_ID = Object.fromEntries(FOLDERS.map(f => [f.key, f.id]));
@@ -83,7 +93,12 @@ const FOLDER_ID = Object.fromEntries(FOLDERS.map(f => [f.key, f.id]));
  * authored yet does not leave an empty folder in the compendium.
  */
 const SECTIONS = [
-  { folder: "bionics", category: "bionic", entries: BIONICS }
+  { folder: "bionics",     category: "bionic",      entries: BIONICS },
+  { folder: "cybernetics", category: "cybernetic",  entries: CYBERNETICS },
+  { folder: "psybernetics", category: "psybernetic", entries: PSYBERNETICS },
+  { folder: "skitarii", category: "skitarii", entries: SKITARII },
+  { folder: "mechadendrites", category: "mechadendrite", entries: MECHADENDRITES },
+  { folder: "mechanicum", category: "mechanicum", entries: MECHANICUM }
 ];
 
 /**

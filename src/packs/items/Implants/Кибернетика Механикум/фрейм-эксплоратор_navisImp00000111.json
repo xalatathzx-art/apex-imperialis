@@ -1,0 +1,89 @@
+{
+  "name": "Фрейм Эксплоратор",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000111",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 11100,
+  "system": {
+    "notes": {
+      "player": "<p>Фрейм для исследования свежеоткрытых миров, заброшенных руин и техно-археологических экспедиций, узнаваемый по комплексам сенсоров в голове и искривляющим зрение гаол-полям вокруг локомотивных систем.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт круговой обзор всеми сенсорами и <strong>Преимущество на проверки Бдительности</strong>, <strong>+2 к скорости</strong> любым способом передвижения, полностью игнорирует Трудный Ландшафт, бонус против экстремальных температур и на передвижение, а также считает все Навыки при обследовании местности продвинутыми на +0, если те не выше. Уменьшает генерацию Заряда на 1 в Ход и даёт штраф на Компенсаторы; оба эффекта, кроме кругового обзора, можно свободным действием отключить.</p>",
+    "page": "DoomBC стр. 273",
+    "category": "mechanicum",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp01100",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt11000",
+            "kind": "testMod",
+            "skill": "awareness",
+            "advantage": 1
+          },
+          {
+            "id": "navisImpEnt11001",
+            "kind": "speed",
+            "key": "land",
+            "value": 2
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 273",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

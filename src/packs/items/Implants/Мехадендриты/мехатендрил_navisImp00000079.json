@@ -1,0 +1,70 @@
+{
+  "name": "Мехатендрил",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000079",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00006",
+  "sort": 7900,
+  "system": {
+    "notes": {
+      "player": "<p>Простейший мехадендрит с четырёхпалым манипулятором на конце — дополнительная рука без специализированных свойств, способная на любую работу, посильную человеческой руке, и пользующаяся инструментами, но не оружием.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт бонус на любые проверки Крафта за каждый установленный мехатендрил. Мехадендриты несут собственный показатель Силы, независимый от Силы владельца, и используют его при подъёме и переноске. Профиль: Хват Utility, S(Un) 40(2), Длина 3м, Rng 0-8, Урон 1d10+6 R, Pen 0, Flexible, Primitive.</p>",
+    "page": "DoomBC стр. 277",
+    "category": "mechadendrite",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 1200,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 1,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "mechadendrite",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 277",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

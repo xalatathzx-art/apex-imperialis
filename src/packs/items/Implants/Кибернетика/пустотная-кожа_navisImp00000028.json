@@ -1,0 +1,86 @@
+{
+  "name": "Пустотная Кожа",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000028",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00003",
+  "sort": 2800,
+  "system": {
+    "notes": {
+      "player": "<p>Синтетические мембраны вживлены в кожу и слизистые, укрепляя их от вакуума — несколько лишних секунд жизни при взрывной декомпрессии.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Снижает весь урон от вакуума и взрывной декомпрессии на 3 (минимум 1) и защищает от Ослепления при открытых вакууму глазах.</p>",
+    "page": "DoomBC стр. 265",
+    "category": "cybernetic",
+    "rarity": 0,
+    "availability": "common",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 800,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Кожа становится грубой и негибкой: <strong>−5 к Ловкости</strong> и возможные штрафы на общение из-за скованной мимики.",
+      "2": "",
+      "3": "Дополнительно снижает любой Критический Эффект в голову на 1.",
+      "4": "Как Уровень 3, и вдобавок броня растёт до +2 очков, а Оглушение от попадания в голову сокращается на 1 Раунд."
+    },
+    "slot": "skin",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00270",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt02700",
+            "kind": "characteristic",
+            "key": "ag",
+            "value": {
+              "1": -5,
+              "2": 0
+            }
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 265",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Боевые Латы Скитарии",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000060",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00005",
+  "sort": 6000,
+  "system": {
+    "notes": {
+      "player": "<p>Базовый комплект имплантов Скитарии, интегрированный прямо в плоть. Броневые секции можно снимать для ремонта или замены повреждённых пластин, или снять целиком, чтобы надеть другую броню — но тогда владелец теряет Атомантическое Укрепление.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт полный комплект брони (АР 6/7/5/5) с модификациями Insulated, Thermal, Foam Sealant, Thrusters, Cooler и Transteel, а также нерасходуемый технологический щит-дефлектор (Атомантическое Укрепление): если АР части брони падает до 0, щит на ней тоже отключается до ремонта. Мантия Искателя позволяет менять бионические конечности за 5 минут без проверки и идёт с парой бионических ног и рук хорошего качества. Замена этой брони требует операции, как для установки бионики.</p>",
+    "page": "DoomBC стр. 269",
+    "category": "skitarii",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 1500,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 1,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "fullbody",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 269",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

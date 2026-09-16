@@ -1,0 +1,70 @@
+{
+  "name": "Двигатель Холодного Синтеза",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000096",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 9600,
+  "system": {
+    "notes": {
+      "player": "<p>Несовершенное воспроизводство реактора времён ТЭТ по неполному Стандартному Шаблону Конструирования — производит неограниченную энергию ценой постоянной калибровки.</p><p>Устанавливается только персонажу с чертой Импланты Механикум, не более одного экземпляра. Операция по установке персонажу вне Техножречества — услуга Редкости 4.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Полудействием владелец может потратить любое количество Заряда, конвертируя его в другой Заряд по установленному курсу.</p>",
+    "page": "DoomBC стр. 271",
+    "category": "mechanicum",
+    "rarity": 4,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 15000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Курс конвертации хуже.",
+      "2": "",
+      "3": "Активация свободным действием ценой худшего курса.",
+      "4": "Активация свободным действием без ухудшения курса, либо полудействием с лучшим курсом."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 271",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

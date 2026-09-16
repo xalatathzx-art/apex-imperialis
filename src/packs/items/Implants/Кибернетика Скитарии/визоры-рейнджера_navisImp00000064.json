@@ -1,0 +1,96 @@
+{
+  "name": "Визоры Рейнджера",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000064",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00005",
+  "sort": 6400,
+  "system": {
+    "notes": {
+      "player": "<p>Комплекс продвинутых сенсоров, вмонтированных в лицевую пластину Боевых Лат Скитарии и подключённых прямо к центрам зрения мозга.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт бонус на все проверки зрения, инфракрасное зрение и способность засекать источники радиации; в визор можно встроить один прицел для оружия. Катехизисы Командования делают владельца послушным командам от Механикум с нужными кодами, как сервитора или робота.</p>",
+    "page": "DoomBC стр. 269",
+    "category": "skitarii",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 1500,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Постоянные головные боли: <strong>−10 к Интеллекту</strong>, пока имплант установлен.",
+      "2": "",
+      "3": "Бонус на проверки зрения выше.",
+      "4": "Как Уровень 3, и вдобавок функционал наилучшего магнокуляра."
+    },
+    "slot": "ocular",
+    "side": "",
+    "location": "head",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00630",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt06300",
+            "kind": "characteristic",
+            "key": "int",
+            "value": {
+              "1": -10,
+              "2": 0
+            }
+          },
+          {
+            "id": "navisImpEnt06301",
+            "kind": "testMod",
+            "skill": "awareness",
+            "value": {
+              "2": 0,
+              "3": 2,
+              "4": 2
+            }
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 269",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

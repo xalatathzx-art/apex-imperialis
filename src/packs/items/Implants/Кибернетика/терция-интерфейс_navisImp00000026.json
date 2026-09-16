@@ -1,0 +1,86 @@
+{
+  "name": "Терция Интерфейс",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000026",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00003",
+  "sort": 2600,
+  "system": {
+    "notes": {
+      "player": "<p>Упрощённая версия Кибер-Мантии Механикум, вживляемая в спину с разъёмами к спинному мозгу — то, чем непосвящённый подключает простейший мехадендрит. Для владельца настоящей Кибер-Мантии этот имплант бесполезен.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Позволяет имплантировать себе один мехадендрит Редкостью не выше 2. Подключённый через Терцию мехадендрит нельзя пускать в ход тратой Реакции — только вместо рук, — а любой его бонус или штраф уменьшается вдвое (округляя вверх).</p>",
+    "page": "DoomBC стр. 265",
+    "category": "cybernetic",
+    "rarity": 0,
+    "availability": "common",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 800,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Громоздкая конструкция ограничивает подвижность позвоночника: <strong>−10 к Ловкости</strong>, пока имплант установлен.",
+      "2": "",
+      "3": "Позволяет подключить до двух мехадендритов, либо снять половинное ограничение бонусов и штрафов с одного из них.",
+      "4": "Оба эффекта Уровня 3 сразу."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00250",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt02500",
+            "kind": "characteristic",
+            "key": "ag",
+            "value": {
+              "1": -10,
+              "2": 0
+            }
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 265",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

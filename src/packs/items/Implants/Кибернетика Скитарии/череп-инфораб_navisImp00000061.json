@@ -1,0 +1,70 @@
+{
+  "name": "Череп-Инфораб",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000061",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00005",
+  "sort": 6100,
+  "system": {
+    "notes": {
+      "player": "<p>Продвинутая версия Серво-Шунта для Скитариев, действующая почти так же, но позволяющая владельцу пользоваться собственными Характеристиками и Навыками для проверок черепа.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Владелец может тратить свои Реакции на атаки сервочерепа, как для атак мехадендритами.</p>",
+    "page": "DoomBC стр. 269",
+    "category": "skitarii",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 1500,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 269",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

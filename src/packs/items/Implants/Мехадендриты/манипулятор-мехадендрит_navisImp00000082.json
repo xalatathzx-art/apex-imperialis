@@ -1,0 +1,70 @@
+{
+  "name": "Манипулятор Мехадендрит",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000082",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00006",
+  "sort": 8200,
+  "system": {
+    "notes": {
+      "player": "<p>Тяжёлый и мощный манипулятор для подъёма и переноски тяжестей; имплантация включает опорные штифты в позвоночник и ноги.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Если несёт больше двойного веса подъёма владельца, тот должен зафиксировать зажимы в штифтах и не может двигаться. Клещи могут свободным действием уцепиться за опору против попыток сдвинуть владельца с места, а также помогать в Карабканье. Совершенно не годится для тонких манипуляций. Профиль: Хват Utility, S(Un) 50(5), Длина 2м, Rng 1-5, Урон 1d10+8 I(Cr), Imprecise, Primitive.</p>",
+    "page": "DoomBC стр. 277",
+    "category": "mechadendrite",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 2800,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 1,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "−1 успех на связанные проверки, S −10.",
+      "2": "",
+      "3": "+1 успех на связанные проверки, S +5.",
+      "4": "+1 успех на связанные проверки, S +10."
+    },
+    "slot": "mechadendrite",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 277",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

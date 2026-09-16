@@ -1,0 +1,70 @@
+{
+  "name": "Скрапкодовый Разлом",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000078",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00005",
+  "sort": 7800,
+  "system": {
+    "notes": {
+      "player": "<p>Запретный модуль, искомый амбициозными альфа-примусами и маршалами Скитарии на службе Тёмных Механикум — или изредка лоялистами Марса, — позволяющий сбросить контроль повелителей и обрести истинную свободу.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Владелец более не обязан выполнять приказы Механикум с его командными кодами и может игнорировать эффекты Техночудес на свою бионику и кибернетику. При установке получает 2d5 Порчи до максимума в 60.</p>",
+    "page": "DoomBC стр. 270",
+    "category": "skitarii",
+    "rarity": 4,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 14000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "cortex",
+    "side": "",
+    "location": "head",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 270",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

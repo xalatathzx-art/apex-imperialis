@@ -1,0 +1,70 @@
+{
+  "name": "Скелетное Укрепление",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000041",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00003",
+  "sort": 4100,
+  "system": {
+    "notes": {
+      "player": "<p>За долгую и болезненную операцию каждую кость пропитывают адамантиевым сплавом, укрепляя скелет.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Владелец получает Таланты стойкости к боли и переломам, набирает 50% веса, игнорирует Критические Эффекты переломов и потери конечностей, а его безоружные атаки и природное оружие бьют сильнее и острее.</p>",
+    "page": "DoomBC стр. 266",
+    "category": "cybernetic",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 2000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "skeleton",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 266",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}
