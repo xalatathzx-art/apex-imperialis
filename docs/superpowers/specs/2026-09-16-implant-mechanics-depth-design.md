@@ -75,7 +75,7 @@ can vanish silently while this lands.
 |---|---|
 | Характеристики и навыки | `characteristic`, `skill` |
 | Броски | `testMod` |
-| **Атака и урон** | `attackMod`, `damageBonus`, `penetration`, `weaponTrait`, `inflictCondition` |
+| **Атака и урон** | `attackMod`, `damageBonus`, `weaponTrait` |
 | Защита | `armour`, `armourAll`, `damageReduction`, `conditionImmunity` |
 | Тело и движение | `wounds`, `criticals`, `speed`, `encumbrance`, `energy` |
 | Выдачи | `weapon`, `weaponMount`, `trait`, `talent`, `script` |
@@ -84,13 +84,37 @@ can vanish silently while this lands.
 
 | Kind | Trigger or target | Fields |
 |---|---|---|
-| `attackMod` | `dialog`, guarded to weapon tests | successes, advantage, optional `attackType` (melee/ranged), optional "only this implant's weapon" |
-| `damageBonus` | `preAttackerComputeOpposedDamage` | value, same guards |
-| `penetration` | `preAttackerComputeOpposedDamage` | value, same guards |
+| `attackMod` | `dialog`, guarded on `args.isAttack` | successes, advantage, optional `attackType` (melee/ranged) |
+| `damageBonus` | `dialog`, `args.fields.damage += N` | value, same guards |
 | `weaponTrait` | applied to the granted weapon at grant time | trait key from the 21, value where the trait takes one |
-| `inflictCondition` | `rollWeaponTest`, on a successful hit | condition key from the 14, tier |
-| `damageReduction` | `preApplyDamage` | value, optional damage-type guard |
+| `damageReduction` | `preApplyDamage`, `args.modifiers.push(…)` | value, optional damage-type guard |
 | `conditionImmunity` | `createCondition` | condition key |
+
+### Five kinds, not seven — checked against the system
+
+An earlier draft of this table listed `penetration` and `inflictCondition` as
+kinds of their own. They are not needed. Of impmal's 21 weapon and armour traits,
+only six are implemented as scripts (`defensive`, `shoddy`, `mastercrafted`,
+`gauss`, `phase`, `tesla`); **the other fifteen, including `penetrating`,
+`inflict` and `rend`, the system handles natively** from the trait's presence and
+value on the weapon. So "+4 penetration" is `weaponTrait` with key `penetrating`
+and value 4, and "inflicts Bleeding" is `weaponTrait` with key `inflict`. Two
+kinds that would each have needed their own compiler, their own tests and their
+own audit rule collapse into one that already had to exist.
+
+The same check settled the open question about `attackMod`'s guard. impmal's own
+shipped scripts discriminate with **`args.isAttack`** and **`args.weapon`** — for
+example `return args.isAttack && args.actor.type == "character" && args.weapon`.
+That is the guard to use; the absence of `args.skill` is not a test, since a
+characteristic test has no skill either.
+
+`damageBonus` likewise needs no opposed-damage trigger: the `force` weapon
+category does `args.fields.damage += args.actor.system.warp.charge` on the plain
+`dialog` trigger, so damage is adjustable at the same moment as successes.
+
+`conditionImmunity` follows the idiom impmal uses for its own immunities —
+`this.actor.hasCondition(key)`, then a notification and `delete()` — rather than
+inventing a suppression mechanism.
 
 Every one carries the quality ladder, so a value may differ per level exactly as
 `characteristic` already does.
