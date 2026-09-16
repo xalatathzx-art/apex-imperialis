@@ -29,7 +29,8 @@
     "module/navis-apexialis.js"
   ],
   "styles": [
-    "styles/navis-skin.css"
+    "styles/navis-skin.css",
+    "styles/implants.css"
   ],
   "languages": [
     {

@@ -1,0 +1,118 @@
+<section class="tab {{tab.cssClass}} navis-implant-details" data-group="primary" data-tab="{{tab.id}}">
+
+    {{!-- What the book says the implant is. Everything below is how the system reads it. --}}
+    <div class="navis-implant-block">
+        <div class="navis-implant-head">
+            <span>{{localize "NAVIS.Implant.Rules"}}</span>
+        </div>
+        {{formInput fields.rules value=source.system.rules enriched=enriched.system.rules toggled=true}}
+    </div>
+
+    <div class="navis-implant-block">
+        <div class="navis-implant-head">
+            <span>{{localize "NAVIS.Implant.Quality"}}</span>
+            <span class="hint">{{localize "NAVIS.Implant.QualityHint"}}</span>
+        </div>
+
+        <div class="navis-implant-row">
+            <div class="field">
+                <label>{{localize "NAVIS.Implant.Quality"}}</label>
+                <select name="system.quality">
+                    {{#each qualityLevels}}
+                    <option value="{{this.level}}" {{#if this.selected}}selected{{/if}}>
+                        {{this.label}}{{#if this.ordinary}} — {{localize "NAVIS.Implant.QualityOrdinary"}}{{/if}}
+                    </option>
+                    {{/each}}
+                </select>
+            </div>
+            <div class="field narrow">
+                <label>{{localize "NAVIS.Implant.Rarity"}}</label>
+                <input type="number" name="system.rarity" value="{{source.system.rarity}}">
+            </div>
+        </div>
+
+        {{!-- The book prints only the levels that differ from the ordinary article. --}}
+        <div class="navis-implant-levels">
+            <div class="level">
+                <label>{{localize "NAVIS.Implant.QualityLevel1"}}</label>
+                {{formInput fields.qualityText.fields.[1] value=source.system.qualityText.[1] enriched=enriched.system.qualityText.[1] toggled=true}}
+            </div>
+            <div class="level ordinary">
+                <label>{{localize "NAVIS.Implant.QualityLevel2"}}</label>
+                {{formInput fields.qualityText.fields.[2] value=source.system.qualityText.[2] enriched=enriched.system.qualityText.[2] toggled=true}}
+            </div>
+            <div class="level">
+                <label>{{localize "NAVIS.Implant.QualityLevel3"}}</label>
+                {{formInput fields.qualityText.fields.[3] value=source.system.qualityText.[3] enriched=enriched.system.qualityText.[3] toggled=true}}
+            </div>
+            <div class="level">
+                <label>{{localize "NAVIS.Implant.QualityLevel4"}}</label>
+                {{formInput fields.qualityText.fields.[4] value=source.system.qualityText.[4] enriched=enriched.system.qualityText.[4] toggled=true}}
+            </div>
+        </div>
+    </div>
+
+    {{!-- Where it is fitted. The zone follows the slot and the side until it is set by hand. --}}
+    <div class="navis-implant-block">
+        <div class="navis-implant-head">
+            <span>{{localize "NAVIS.Implant.Placement"}}</span>
+            <span class="hint">{{localize "NAVIS.Implant.PlacementHint"}}</span>
+        </div>
+        <div class="navis-implant-row">
+            <div class="field">
+                <label>{{localize "NAVIS.Implant.Slot"}}</label>
+                <select name="system.slot">
+                    {{selectOptions slotOptions selected=source.system.slot localize=true}}
+                </select>
+            </div>
+            {{#if showSide}}
+            <div class="field narrow">
+                <label>{{localize "NAVIS.Implant.Side"}}</label>
+                <select name="system.side">
+                    {{selectOptions sideOptions selected=source.system.side localize=true}}
+                </select>
+            </div>
+            {{/if}}
+            <div class="field">
+                <label>{{localize "NAVIS.Implant.Location"}}</label>
+                <select name="system.location" {{#if locationTouched}}data-touched="true"{{/if}}>
+                    {{selectOptions locationOptions selected=source.system.location localize=true}}
+                </select>
+            </div>
+        </div>
+    </div>
+
+    {{!-- The gate: fitted, damaged and switched on are three separate facts. --}}
+    <div class="navis-implant-block">
+        <div class="navis-implant-head">
+            <span>{{localize "NAVIS.Implant.Gate"}}</span>
+            <span class="hint">{{localize "NAVIS.Implant.GateHint"}}</span>
+        </div>
+        <div class="navis-implant-gates">
+            <label class="checkbox">
+                <input type="checkbox" name="system.installed" {{checked source.system.installed}}>
+                {{localize "NAVIS.Implant.Installed"}}
+            </label>
+            <label class="checkbox">
+                <input type="checkbox" name="system.disabled" {{checked source.system.disabled}}>
+                {{localize "NAVIS.Implant.Disabled"}}
+            </label>
+            <label class="checkbox">
+                <input type="checkbox" name="system.active" {{checked source.system.active}}>
+                {{localize "NAVIS.Implant.Active"}}
+            </label>
+        </div>
+    </div>
+
+    <div class="navis-implant-row">
+        <div class="field">
+            <label>{{localize "NAVIS.Implant.Category"}}</label>
+            <input type="text" name="system.category" value="{{source.system.category}}">
+        </div>
+        <div class="field">
+            <label>{{localize "NAVIS.Implant.Page"}}</label>
+            <input type="text" name="system.page" value="{{source.system.page}}" placeholder="DoomBC p.0">
+        </div>
+    </div>
+
+</section>

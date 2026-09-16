@@ -1,0 +1,310 @@
+/*
+ * The Implant sheet.
+ *
+ * Scoped under `.navis-implant`, the class the sheet puts on its own window,
+ * so nothing here can reach another sheet — not impmal's augmetic sheet the
+ * class is built on, and not another module's.
+ *
+ * The vocabulary is the module's own, borrowed from the biomonitor block in
+ * styles/navis-skin.css: a plate on `--navis-surface`, hairline `--navis-line`
+ * borders, a brass left edge to mark a block, small uppercase captions in
+ * `--navis-font-text`. Every custom property carries a fallback, because a
+ * player may have the skin switched off in their own settings and the sheet
+ * still has to read.
+ */
+
+.navis-implant {
+  --navis-implant-line: var(--navis-line, rgba(0, 0, 0, 0.2));
+  --navis-implant-surface: var(--navis-surface, rgba(0, 0, 0, 0.03));
+  --navis-implant-brass: var(--navis-brass-dim, #806633);
+  --navis-implant-ink: var(--navis-ink-muted, #555);
+}
+
+/* -------------------------------------------- */
+/*  Shared block furniture                      */
+/* -------------------------------------------- */
+
+.navis-implant .navis-implant-block,
+.navis-implant .navis-mech-group {
+  margin-bottom: 8px;
+  padding: 6px 8px;
+  background: var(--navis-implant-surface);
+  border: 1px solid var(--navis-implant-line);
+  border-left: 3px solid var(--navis-implant-brass);
+  border-radius: 0;
+  clip-path: var(--navis-plate-sm, none);
+}
+
+.navis-implant .navis-implant-head,
+.navis-implant .navis-mech-group-head {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 5px;
+  padding-bottom: 3px;
+  border-bottom: 1px solid var(--navis-implant-line);
+  font: 10px var(--navis-font-text, inherit);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.navis-implant .navis-implant-head > span:first-child {
+  color: var(--navis-implant-brass);
+  white-space: nowrap;
+}
+
+.navis-implant .hint {
+  flex: 1 1 auto;
+  min-width: 0;
+  color: var(--navis-implant-ink);
+  font-size: 10px;
+  font-style: italic;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.navis-implant .spacer {
+  flex: 1 1 auto;
+}
+
+/* -------------------------------------------- */
+/*  Description tab                             */
+/* -------------------------------------------- */
+
+.navis-implant .navis-implant-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 6px;
+  margin-bottom: 4px;
+}
+
+.navis-implant .navis-implant-row .field {
+  flex: 1 1 140px;
+  min-width: 0;
+}
+
+.navis-implant .navis-implant-row .field.narrow {
+  flex: 0 0 90px;
+}
+
+.navis-implant .field > label {
+  display: block;
+  margin-bottom: 2px;
+  color: var(--navis-implant-ink);
+  font-size: 10px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+/* One level per row: the note beside it is prose, not a number. */
+.navis-implant .navis-implant-levels .level {
+  margin-top: 5px;
+  padding-left: 6px;
+  border-left: 2px solid transparent;
+}
+
+/* Level 2 is the ordinary article — the one the others are written against. */
+.navis-implant .navis-implant-levels .level.ordinary {
+  border-left-color: var(--navis-implant-brass);
+}
+
+.navis-implant .navis-implant-levels .level > label {
+  display: block;
+  margin-bottom: 2px;
+  color: var(--navis-implant-brass);
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.navis-implant .navis-implant-gates {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.navis-implant .navis-implant-gates .checkbox {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  white-space: nowrap;
+}
+
+/* -------------------------------------------- */
+/*  Mechanics tab                               */
+/* -------------------------------------------- */
+
+.navis-implant .navis-mech-intro {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.navis-implant .navis-mech-add {
+  flex: 0 0 auto;
+  padding: 2px 8px;
+  border: 1px solid var(--navis-implant-line);
+  color: var(--navis-implant-brass);
+  font-size: 11px;
+  white-space: nowrap;
+}
+
+.navis-implant .navis-mech-empty {
+  padding: 12px;
+  color: var(--navis-implant-ink);
+  font-style: italic;
+  text-align: center;
+}
+
+/* An OR group is the one the player will have to answer, so it is marked. */
+.navis-implant .navis-mech-group.or {
+  border-left-color: var(--navis-accent, #8a6d3b);
+}
+
+.navis-implant .navis-mech-op {
+  flex: 0 0 auto;
+  min-width: 46px;
+  padding: 1px 6px;
+  border: 1px solid var(--navis-implant-brass);
+  color: var(--navis-implant-brass);
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  text-align: center;
+}
+
+.navis-implant .navis-mech-group.or .navis-mech-op {
+  border-color: var(--navis-accent, #8a6d3b);
+  color: var(--navis-accent, #8a6d3b);
+}
+
+.navis-implant .navis-mech-control {
+  flex: 0 0 auto;
+  width: 18px;
+  color: var(--navis-implant-ink);
+  text-align: center;
+}
+
+.navis-implant .navis-mech-control:hover {
+  color: var(--navis-danger, #a33);
+}
+
+.navis-implant .navis-mech-entry {
+  margin: 5px 0;
+  padding: 4px 6px;
+  border: 1px dashed var(--navis-implant-line);
+}
+
+.navis-implant .navis-mech-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 5px;
+}
+
+.navis-implant .navis-mech-row.sub {
+  align-items: flex-end;
+  margin-top: 4px;
+}
+
+.navis-implant .navis-mech-kind {
+  flex: 0 0 130px;
+}
+
+.navis-implant .navis-mech-key {
+  flex: 1 1 110px;
+  min-width: 0;
+}
+
+.navis-implant .navis-mech-value {
+  flex: 0 0 60px;
+  text-align: center;
+}
+
+.navis-implant .navis-mech-ladder {
+  flex: 0 0 auto;
+  padding: 1px 5px;
+  border: 1px solid var(--navis-implant-line);
+  color: var(--navis-implant-ink);
+  font-size: 10px;
+  white-space: nowrap;
+}
+
+.navis-implant .navis-mech-ladder.on {
+  border-color: var(--navis-implant-brass);
+  color: var(--navis-implant-brass);
+}
+
+.navis-implant .navis-mech-levels {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 5px;
+  margin-top: 4px;
+}
+
+.navis-implant .navis-mech-levels .level > label {
+  display: block;
+  color: var(--navis-implant-ink);
+  font-size: 10px;
+  text-align: center;
+}
+
+.navis-implant .navis-mech-levels .level.ordinary > label {
+  color: var(--navis-implant-brass);
+}
+
+.navis-implant .navis-mech-levels input {
+  text-align: center;
+}
+
+.navis-implant .navis-mech-drop {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 4px;
+  padding: 4px 6px;
+  border: 1px dashed var(--navis-implant-brass);
+  min-height: 28px;
+}
+
+.navis-implant .navis-mech-source {
+  display: flex;
+  flex: 1 1 auto;
+  align-items: center;
+  gap: 6px;
+  min-width: 0;
+}
+
+.navis-implant .navis-mech-source img {
+  flex: 0 0 auto;
+  width: 20px;
+  height: 20px;
+  border: 0;
+  object-fit: cover;
+}
+
+.navis-implant .navis-mech-source span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.navis-implant .navis-mech-script {
+  margin-top: 4px;
+}
+
+.navis-implant .navis-mech-script textarea {
+  width: 100%;
+  font-family: var(--navis-font-data, monospace);
+  font-size: 11px;
+  resize: vertical;
+}
+
+/* Live kinds create no Active Effect, so the entry says so where it is authored. */
+.navis-implant .navis-mech-live {
+  margin-top: 4px;
+  color: var(--navis-accent, #8a6d3b);
+  font-size: 10px;
+  font-style: italic;
+}
