@@ -32,8 +32,9 @@ test("wounds, criticals, speed and encumbrance target their real paths", () => {
   assert.equal(targetPath({ kind: "encumbrance", key: "overburdened" }), "system.encumbrance.overburdened");
 });
 
-test("Заряд is a module flag, because impmal has no such pool", () => {
-  assert.equal(targetPath({ kind: "energy" }), "flags.navis-apexialis.mechanicum.energy.max");
+test("Заряд has no data path — an Active Effect cannot reach a module flag", () => {
+  assert.equal(targetPath({ kind: "energy" }), null);
+  assert.equal(entryToChange({ kind: "energy", value: 5 }, 2), null);
 });
 
 test("grants have no data path — they create items instead", () => {
@@ -56,7 +57,7 @@ test("an entry becomes an additive change at its quality level", () => {
 });
 
 test("a per-level value resolves before becoming a change", () => {
-  const entry = { kind: "energy", value: { 1: 1, 2: 3, 3: 5, 4: 7 } };
+  const entry = { kind: "wounds", value: { 1: 1, 2: 3, 3: 5, 4: 7 } };
   assert.equal(entryToChange(entry, 1).value, 1);
   assert.equal(entryToChange(entry, 4).value, 7);
 });

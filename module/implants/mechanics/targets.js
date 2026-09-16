@@ -7,13 +7,12 @@
  *
  * Every path here was taken from impmal's own effect-key list
  * (`templates/apps/effect-key-options.hbs`), so an implant reaches exactly the
- * fields the system already lets an Active Effect reach. The one exception is
- * `energy`: Заряд does not exist in impmal at all and lives in a module flag.
+ * fields the system already lets an Active Effect reach.
  *
- * Two kinds — `testMod` and `script` — deliberately have NO path. Success
- * bonuses and Advantage are not effect keys in impmal; they are decided when a
- * test is prepared, by reading `args.fields`. So those entries write nothing
- * and are consulted live at roll time.
+ * Three groups of kinds have NO path:
+ * - Live kinds (`testMod`, `script`): decided when a test is prepared.
+ * - Grant kinds (`trait`, `talent`): create items rather than change numbers.
+ * - Computed kinds (`energy`): computed directly, not via effects pipeline.
  */
 
 import { resolveQualityValue } from "../rules.js";
@@ -36,11 +35,19 @@ export const LIVE_KINDS = Object.freeze(["testMod", "script"]);
 /** Kinds that create an item on the actor rather than changing a number. */
 const GRANT_KINDS = Object.freeze(["trait", "talent"]);
 
+/**
+ * Kinds computed directly rather than applied as an effect. Заряд lives in a
+ * module flag, which an Active Effect cannot reach — module/technomiracles/
+ * resources.js records this from an earlier cycle. Task 12's energyCapacity()
+ * walks these entries itself, so producing a change here would be dead at best
+ * and a double-count at worst.
+ */
+const COMPUTED_KINDS = Object.freeze(["energy"]);
+
 const FIXED_PATHS = Object.freeze({
   armourAll: "system.combat.armourModifier",
   wounds: "system.combat.wounds.max",
-  criticals: "system.combat.criticals.max",
-  energy: "flags.navis-apexialis.mechanicum.energy.max"
+  criticals: "system.combat.criticals.max"
 });
 
 const KEYED_PATHS = Object.freeze({
@@ -53,12 +60,12 @@ const KEYED_PATHS = Object.freeze({
 
 /**
  * @param {{kind: string, key?: string}} entry
- * @returns {string|null} the data path, or null for live and grant kinds
+ * @returns {string|null} the data path, or null for live, grant, and computed kinds
  */
 export function targetPath(entry) {
   const kind = entry?.kind;
   if (!kind) return null;
-  if (LIVE_KINDS.includes(kind) || GRANT_KINDS.includes(kind)) return null;
+  if (LIVE_KINDS.includes(kind) || GRANT_KINDS.includes(kind) || COMPUTED_KINDS.includes(kind)) return null;
 
   if (FIXED_PATHS[kind]) return FIXED_PATHS[kind];
 
