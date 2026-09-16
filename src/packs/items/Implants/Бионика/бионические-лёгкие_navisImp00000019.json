@@ -1,0 +1,95 @@
+{
+  "name": "Бионические лёгкие",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000019",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00002",
+  "sort": 1900,
+  "system": {
+    "notes": {
+      "player": "<p>Бионический протез лёгких: замена тому, что выжег ядовитый газ, съела болезнь или разорвала декомпрессия. Грудь владельца при вдохе поднимается чуть позже, чем следовало бы.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Лёгкие дышат за вас. На высоких уровнях они дышат лучше вас.</p>",
+    "page": "DoomBC стр. 264",
+    "category": "bionic",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 1200,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Работают со слышимым шипением и дают ощутимую одышку: <strong>−1 успех</strong> на проверки Скрытности и <strong>−1 успех</strong> на проверки Стойкости при длительной тяжёлой работе.",
+      "2": "",
+      "3": "Работают как респиратор наилучшего исполнения.",
+      "4": "Работают как ребризер наилучшего исполнения: вам хватает воздуха там, где его нет."
+    },
+    "slot": "respiratory",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00180",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt01800",
+            "kind": "testMod",
+            "skill": "stealth",
+            "value": {
+              "1": -1,
+              "2": 0
+            }
+          },
+          {
+            "id": "navisImpEnt01801",
+            "kind": "testMod",
+            "skill": "fortitude",
+            "value": {
+              "1": -1,
+              "2": 0
+            }
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 264",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

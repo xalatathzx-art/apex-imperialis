@@ -1,0 +1,86 @@
+{
+  "name": "Бионический глаз",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000015",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00002",
+  "sort": 1500,
+  "system": {
+    "notes": {
+      "player": "<p>Бионический протез глаза, дублирующий функции обычного. Дешёвые модели светятся тускло-красным и выдают владельца в темноте; дорогие не отличить от живого, пока он не моргнёт не в такт.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Глаз видит как живой. Установить можно два глаза — по одному на сторону, — а Уровень 4 позволяет подключить и больше.</p>",
+    "page": "DoomBC стр. 264",
+    "category": "bionic",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 1200,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Не различает цветов и выдаёт зернистое изображение.",
+      "2": "",
+      "3": "Работает как фото-визор наилучшего исполнения, ретинальный дисплей и пикт-кастер одновременно.",
+      "4": "Как Уровень 3, и вдобавок <strong>+1 успех</strong> на все проверки зрения плюс одна из доработок: интегрированный компактный лаз-, хотшот-лаз- или бласт-пистолет; охотничий визор; магнокуляр; подсветка силуэтов (+2 успеха на поиск существ и машин, −2 на прочие проверки зрения); зрение мельчайших деталей; широкоугольный обзор в 270°; видимость вокс-сигналов, радиации и магнитных полей; размытие иконографии Хаоса, защищающее разум от Порчи; или полная неотличимость от живого глаза. Каждая доработка сверх первой поднимает Редкость на 1."
+    },
+    "slot": "ocular",
+    "side": "",
+    "location": "head",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00140",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt01400",
+            "kind": "testMod",
+            "skill": "awareness",
+            "value": {
+              "2": 0,
+              "4": 1
+            }
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 264",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

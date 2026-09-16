@@ -1,7 +1,7 @@
 [
   {
-    "_id": "navisAugFld00001",
-    "name": "Augmetics",
+    "_id": "navisImpFld00001",
+    "name": "Implants",
     "type": "Item",
     "folder": null,
     "description": "",
@@ -19,185 +19,14 @@
     }
   },
   {
-    "_id": "navisAugFld00002",
+    "_id": "navisImpFld00002",
     "name": "Бионика",
     "type": "Item",
-    "folder": "navisAugFld00001",
+    "folder": "navisImpFld00001",
     "description": "",
     "color": "#6a5a2f",
     "sorting": "m",
     "sort": 100,
-    "flags": {},
-    "_stats": {
-      "compendiumSource": null,
-      "duplicateSource": null,
-      "exportSource": null,
-      "coreVersion": "13.348",
-      "systemId": "impmal",
-      "systemVersion": "3.3.0"
-    }
-  },
-  {
-    "_id": "navisAugFld00003",
-    "name": "Кибернетика",
-    "type": "Item",
-    "folder": "navisAugFld00001",
-    "description": "",
-    "color": "#4f5a6a",
-    "sorting": "m",
-    "sort": 200,
-    "flags": {},
-    "_stats": {
-      "compendiumSource": null,
-      "duplicateSource": null,
-      "exportSource": null,
-      "coreVersion": "13.348",
-      "systemId": "impmal",
-      "systemVersion": "3.3.0"
-    }
-  },
-  {
-    "_id": "navisAugFld00004",
-    "name": "Псибернетика",
-    "type": "Item",
-    "folder": "navisAugFld00001",
-    "description": "",
-    "color": "#5a3f6a",
-    "sorting": "m",
-    "sort": 300,
-    "flags": {},
-    "_stats": {
-      "compendiumSource": null,
-      "duplicateSource": null,
-      "exportSource": null,
-      "coreVersion": "13.348",
-      "systemId": "impmal",
-      "systemVersion": "3.3.0"
-    }
-  },
-  {
-    "_id": "navisAugFld00005",
-    "name": "Кибернетика Скитарии",
-    "type": "Item",
-    "folder": "navisAugFld00001",
-    "description": "",
-    "color": "#6a4a2f",
-    "sorting": "m",
-    "sort": 400,
-    "flags": {},
-    "_stats": {
-      "compendiumSource": null,
-      "duplicateSource": null,
-      "exportSource": null,
-      "coreVersion": "13.348",
-      "systemId": "impmal",
-      "systemVersion": "3.3.0"
-    }
-  },
-  {
-    "_id": "navisAugFld00006",
-    "name": "Кибернетика Механикум",
-    "type": "Item",
-    "folder": "navisAugFld00001",
-    "description": "",
-    "color": "#7a2f2f",
-    "sorting": "m",
-    "sort": 500,
-    "flags": {},
-    "_stats": {
-      "compendiumSource": null,
-      "duplicateSource": null,
-      "exportSource": null,
-      "coreVersion": "13.348",
-      "systemId": "impmal",
-      "systemVersion": "3.3.0"
-    }
-  },
-  {
-    "_id": "navisAugFld00007",
-    "name": "Энергосистемы",
-    "type": "Item",
-    "folder": "navisAugFld00006",
-    "description": "",
-    "color": "#7a3f2f",
-    "sorting": "m",
-    "sort": 100,
-    "flags": {},
-    "_stats": {
-      "compendiumSource": null,
-      "duplicateSource": null,
-      "exportSource": null,
-      "coreVersion": "13.348",
-      "systemId": "impmal",
-      "systemVersion": "3.3.0"
-    }
-  },
-  {
-    "_id": "navisAugFld00008",
-    "name": "Технофокусы",
-    "type": "Item",
-    "folder": "navisAugFld00006",
-    "description": "",
-    "color": "#7a3f2f",
-    "sorting": "m",
-    "sort": 200,
-    "flags": {},
-    "_stats": {
-      "compendiumSource": null,
-      "duplicateSource": null,
-      "exportSource": null,
-      "coreVersion": "13.348",
-      "systemId": "impmal",
-      "systemVersion": "3.3.0"
-    }
-  },
-  {
-    "_id": "navisAugFld00009",
-    "name": "Фреймы",
-    "type": "Item",
-    "folder": "navisAugFld00006",
-    "description": "",
-    "color": "#7a3f2f",
-    "sorting": "m",
-    "sort": 300,
-    "flags": {},
-    "_stats": {
-      "compendiumSource": null,
-      "duplicateSource": null,
-      "exportSource": null,
-      "coreVersion": "13.348",
-      "systemId": "impmal",
-      "systemVersion": "3.3.0"
-    }
-  },
-  {
-    "_id": "navisAugFld00010",
-    "name": "Прочие",
-    "type": "Item",
-    "folder": "navisAugFld00006",
-    "description": "",
-    "color": "#7a3f2f",
-    "sorting": "m",
-    "sort": 400,
-    "flags": {},
-    "_stats": {
-      "compendiumSource": null,
-      "duplicateSource": null,
-      "exportSource": null,
-      "coreVersion": "13.348",
-      "systemId": "impmal",
-      "systemVersion": "3.3.0"
-    }
-  },
-  {
-    "_id": "navisAugFld00011",
-    "name": "Мехадендриты",
-    "type": "Item",
-    "folder": "navisAugFld00001",
-    "description": "",
-    "color": "#3f5a5a",
-    "sorting": "m",
-    "sort": 600,
     "flags": {},
     "_stats": {
       "compendiumSource": null,

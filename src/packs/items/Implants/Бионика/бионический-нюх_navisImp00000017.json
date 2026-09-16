@@ -1,0 +1,87 @@
+{
+  "name": "Бионический нюх",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000017",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00002",
+  "sort": 1700,
+  "system": {
+    "notes": {
+      "player": "<p>Бионический протез обонятельных рецепторов, выжженных ядовитым газом. Владелец описывает запахи цифрами и потом долго не может объяснить, чем пахнет дом.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Имплант заменяет обоняние. Проверки Бдительности, опирающиеся на нюх, идут по его уровню.</p>",
+    "page": "DoomBC стр. 264",
+    "category": "bionic",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 1200,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Регистрирует только запахи опасных ядов — всё прочее для вас без запаха.",
+      "2": "",
+      "3": "<strong>+1 успех</strong> на проверки Бдительности, опирающиеся на нюх.",
+      "4": "Как Уровень 3, и вдобавок позволяет различать людей по запаху и идти по следу, словно ищейка: <strong>+2 успеха</strong> на выслеживание при наличии образца запаха цели. Блокирует запахи, от которых обычно рвёт."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00160",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt01600",
+            "kind": "testMod",
+            "skill": "awareness",
+            "value": {
+              "2": 0,
+              "3": 1,
+              "4": 1
+            }
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 264",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

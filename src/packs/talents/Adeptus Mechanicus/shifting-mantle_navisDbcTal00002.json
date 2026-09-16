@@ -1,0 +1,58 @@
+{
+  "name": "Смещающаяся Мантия",
+  "type": "talent",
+  "_id": "navisDbcTal00002",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p>Таинства священного кода позволяют Скитарию включать и отключать свои модули посреди боя, а также устанавливать их больше, чем его тело способно контролировать.</p><p>Раз в Ход ментальным свободным действием вы можете отключить один из своих Модулей и/или включить другой. Отключённый модуль не даёт ни бонусов, ни штрафов, но и не мешает вам. Если модуль даёт дополнительные Раны, его включение поднимает максимум Ран, но не текущие.</p><p>Вы можете установить до <strong>2 дополнительных Модулей</strong> сверх обычного лимита. Максимум <strong>активных</strong> Модулей это не поднимает — лишь позволяет менять конфигурацию на ходу.</p>",
+      "gm": "DoomBC стр. 102. Требует Боевых Лат Скитарии. module/implants/test-mods.js сопоставляет этот талант по имени (TALENT_NAMES.sacredCode): он поднимает только потолок установленных Модулей, на 2."
+    },
+    "requirement": {
+      "value": "Боевые Латы Скитарии, Интеллект 40, Знания (Механикум) +10",
+      "script": ""
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 300,
+    "xpCost": 300,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "reference": "DoomBC стр. 102"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "folder": "v1jaQSwVla5DGTQg",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 500100
+}

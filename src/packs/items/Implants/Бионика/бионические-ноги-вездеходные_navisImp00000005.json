@@ -1,0 +1,92 @@
+{
+  "name": "Бионические ноги: вездеходные",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000005",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00002",
+  "sort": 500,
+  "system": {
+    "notes": {
+      "player": "<p>Ступни заменены четырёхпалыми крестовидными опорами, сходными со ступнями шагоходов вроде Стража или Дредноута. По грязи, осыпи и битому рокриту такой боец идёт так же ровно, как по палубе — и так же громко.</p><p><em>Любая бионическая конечность даёт +1 очко брони против попаданий в неё, складываясь с носимой бронёй.</em></p>",
+      "gm": ""
+    },
+    "rules": "<p>Вы получаете <strong>Преимущество</strong> на проверки, чтобы пересечь труднопроходимую местность, и на встречные проверки против попыток сдвинуть вас с места.</p><p>Вы получаете <strong>−2 успеха</strong> на проверки Скрытности.</p>",
+    "page": "DoomBC стр. 263",
+    "category": "bionic",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 1800,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Протез вял и плохо слушается: ваша <strong>скорость падает на 1</strong>, а совершая Бег или Натиск, вы должны пройти <strong>среднюю (+0) проверку Ловкости</strong>, иначе падаете и останавливаетесь на полпути.",
+      "2": "",
+      "3": "Нога несёт вас сама: вы не устаёте от долгого бега и получаете <strong>+2 успеха</strong> на любые проверки прыжков.",
+      "4": "Как Уровень 3, и вдобавок <strong>+5</strong> к проверкам Ближнего боя, Силы и Ловкости, выполняемым ногами, плюс одна из доработок: считается легионной ногой; внутренняя полость под два ножа, пистолет, две гранаты или предмет размера 2×1; выдвижной нож в носке или пятке; грав-подошвы; продвинутые движители; или синтекожа, неотличимая от живой ноги на вид и на ощупь. Каждая доработка сверх первой поднимает Редкость на 1."
+    },
+    "slot": "leg",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00040",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt00400",
+            "kind": "speed",
+            "key": "land",
+            "value": {
+              "1": -1,
+              "2": 0
+            }
+          },
+          {
+            "id": "navisImpEnt00401",
+            "kind": "testMod",
+            "skill": "stealth",
+            "value": -2
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 263",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

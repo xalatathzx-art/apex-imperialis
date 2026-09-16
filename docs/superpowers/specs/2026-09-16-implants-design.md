@@ -173,7 +173,7 @@ pile or give the biomonitor zones it cannot paint.
 
 The book separates them explicitly. p. 269: a Skitarii may fit no more than
 ½ T.b (rounded up) Modules, and if their T.b drops they must **switch off** the
-excess or take −30 to everything. p. 102: the Mysteries of the Sacred Code let a
+excess or take −30 to everything. p. 102: Shifting Mantle lets a
 Skitarii fit **two more Modules than the limit**, which does not raise how many
 may be active — it only lets them reconfigure on the fly, one off and one on per
 Turn. A single boolean cannot express that, and dropping it would delete a
@@ -372,8 +372,10 @@ mechanics are reported rather than passed over silently, in the style of
 - `tools/check-augmetics.mjs`
 - `tools/data/augmetics-{bionics,cybernetics,mechadendrites,mechanicum,psybernetics,skitarii}.mjs`
 
-The module is not under version control, so these are unrecoverable once
-removed. A copy goes to the session scratchpad before deletion.
+Done in Task 13. The module IS under version control — the plan was written
+before it was — so nothing was copied to a scratchpad: every deleted file is
+committed at `bf85975` and pushed, and `git show bf85975:<path>` recovers any
+of them permanently, which a session-scoped scratchpad would not.
 
 ## Testing
 

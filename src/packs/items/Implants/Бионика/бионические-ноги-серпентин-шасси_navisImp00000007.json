@@ -1,0 +1,86 @@
+{
+  "name": "Бионические ноги: серпентин-шасси",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000007",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00002",
+  "sort": 700,
+  "system": {
+    "notes": {
+      "player": "<p>Сегментированный металлический змеиный хвост вместо ног. Шасси не столько заменяет ноги, сколько отменяет саму идею ходьбы: владелец течёт по полу, и звук этот ни с чем не спутать.</p><p><em>Любая бионическая конечность даёт +1 очко брони против попаданий в неё, складываясь с носимой бронёй.</em></p>",
+      "gm": ""
+    },
+    "rules": "<p>Ваша скорость возрастает на <strong>1</strong>, и вы не устаёте от долгого бега.</p><p>Хвостом можно захватывать и удерживать противника, считая его дополнительной парой рук в борьбе.</p>",
+    "page": "DoomBC стр. 263",
+    "category": "bionic",
+    "rarity": 3,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 7000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Протез вял и плохо слушается: ваша <strong>скорость падает на 1</strong>, а совершая Бег или Натиск, вы должны пройти <strong>среднюю (+0) проверку Ловкости</strong>, иначе падаете и останавливаетесь на полпути.",
+      "2": "",
+      "3": "Нога несёт вас сама: вы не устаёте от долгого бега и получаете <strong>+2 успеха</strong> на любые проверки прыжков.",
+      "4": "Как Уровень 3, и вдобавок <strong>+5</strong> к проверкам Ближнего боя, Силы и Ловкости, выполняемым ногами, плюс одна из доработок: считается легионной ногой; внутренняя полость под два ножа, пистолет, две гранаты или предмет размера 2×1; выдвижной нож в носке или пятке; грав-подошвы; продвинутые движители; или синтекожа, неотличимая от живой ноги на вид и на ощупь. Каждая доработка сверх первой поднимает Редкость на 1."
+    },
+    "slot": "leg",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00060",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt00600",
+            "kind": "speed",
+            "key": "land",
+            "value": {
+              "1": 0,
+              "2": 1
+            }
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 263",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

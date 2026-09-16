@@ -1,0 +1,86 @@
+{
+  "name": "Гастральная бионика",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000020",
+  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "folder": "navisImpFld00002",
+  "sort": 2000,
+  "system": {
+    "notes": {
+      "player": "<p>Бионический протез желудочно-кишечного тракта. Одна из тех аугметик, о которых не говорят вслух: её ставят тем, чьи внутренности выжгло химическим оружием, испорченной водой подульев или слишком усердным дознавателем. Снаружи она незаметна, и владелец узнаётся лишь по тому, что ест он что угодно и никогда не жалуется.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Протез заменяет пищеварение. Что именно вы после этого способны съесть без вреда, решает его уровень.</p>",
+    "page": "DoomBC стр. 264",
+    "category": "bionic",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 1200,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Протез собран небрежно и усваивает пищу скверно. Вы получаете <strong>−10 к Выносливости</strong>, становитесь болезненно худым, а кожа идёт бледными желтоватыми пятнами — пока имплант не заменят на лучший.",
+      "2": "",
+      "3": "Вы не страдаете от пищевых отравлений и можете без вреда переваривать испорченную и гниющую пищу. Вкуса это ей не добавляет.",
+      "4": "Как Уровень 3, и вдобавок вы полностью невосприимчивы ко всем съеденным и выпитым ядам, а <strong>средняя (+0) проверка Бдительности</strong> позволяет определить химический состав любого проглоченного вещества по одному вкусу."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00190",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt01900",
+            "kind": "characteristic",
+            "key": "tgh",
+            "value": {
+              "1": -10,
+              "2": 0
+            }
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 264",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}
