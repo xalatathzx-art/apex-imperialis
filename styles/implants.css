@@ -331,6 +331,22 @@
   --navis-surgeon-alarm: #b03a2e;
 }
 
+/*
+ * The application frame lays its content out as a flex column and shrinks
+ * whichever child is too tall to fit (window-content's default flex
+ * behaviour, with no `flex-grow` needed). That used to happen directly
+ * between the cap and the grid; now both sit one level deeper, inside this
+ * wrapper, which has to stand in for the frame and offer the same flex
+ * column + shrink-to-fit behaviour to its own two children.
+ */
+.navis-surgeon .navis-surgeon-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 0;
+  overflow: hidden;
+}
+
 /* -------------------------------------------- */
 /*  Cap header                                  */
 /* -------------------------------------------- */
