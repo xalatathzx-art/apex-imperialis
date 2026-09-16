@@ -17,6 +17,7 @@
 import { canAfford, defaultCapacity, restoreCognition, spend } from "./rules.js";
 import { implantsOf, isImplantActive } from "../implants/state.js";
 import { resolveQualityValue } from "../implants/rules.js";
+import { resolveEntries } from "../implants/mechanics/entries.js";
 
 const MODULE_ID = "navis-apexialis";
 const FLAG = "mechanicum";
@@ -45,10 +46,13 @@ export function energyCapacity(actor) {
   let added = 0;
   for (const item of implantsOf(actor)) {
     if (!isImplantActive(item)) continue;
-    for (const group of item.system.mechanics ?? []) {
-      for (const entry of group?.entries ?? []) {
-        if (entry?.kind === "energy") added += resolveQualityValue(entry.value, item.system.quality);
-      }
+
+    // Не сырые записи группы, а то, что реально применяется: OR-группа без
+    // выбора не даёт ничего, а выбранная — ровно одну запись. Иначе `energy`,
+    // предложенный как одна из альтернатив, считался бы независимо от выбора.
+    const entries = resolveEntries(item.system.mechanics, item.system.chosenEffects ?? {});
+    for (const entry of entries) {
+      if (entry?.kind === "energy") added += resolveQualityValue(entry.value, item.system.quality);
     }
   }
 

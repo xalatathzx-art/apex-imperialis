@@ -1,7 +1,7 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 
-import { readBlock, spendFrom, restoreAtTurnStart, energyCapacity } from "../module/technomiracles/resources.js";
+import { readBlock, spendFrom, restoreAtTurnStart, energyCapacity, syncEnergyCapacity } from "../module/technomiracles/resources.js";
 
 /**
  * Поддельный актёр: ровно то, чего касается resources.js, — бонусы
@@ -9,11 +9,12 @@ import { readBlock, spendFrom, restoreAtTurnStart, energyCapacity } from "../mod
  * а проверить стоит именно путь записи: `readBlock` безобиден, а `spendFrom`
  * при нехватке обязан не записать ничего.
  */
-const actorWith = ({ int = 4, tgh = 3, flag = null } = {}) => {
+const actorWith = ({ int = 4, tgh = 3, flag = null, items = [] } = {}) => {
   let stored = flag;
   const writes = [];
   return {
     system: { characteristics: { int: { bonus: int }, tgh: { bonus: tgh } } },
+    items,
     getFlag: () => stored,
     setFlag: async (_module, _key, value) => {
       writes.push(structuredClone(value));
@@ -107,4 +108,67 @@ test("a switched-off implant does not", () => {
 test("capacity never goes below zero", () => {
   const actor = { system: { characteristics: { tgh: { bonus: 0 } } }, items: [implantWithEnergy(-5)] };
   assert.equal(energyCapacity(actor), 0);
+});
+
+test("stacked implants add up", () => {
+  const actor = { system: { characteristics: { tgh: { bonus: 4 } } }, items: [implantWithEnergy(3), implantWithEnergy(2)] };
+  assert.equal(energyCapacity(actor), 9);
+});
+
+test("a positive and a negative entry net out", () => {
+  const actor = { system: { characteristics: { tgh: { bonus: 4 } } }, items: [implantWithEnergy(5), implantWithEnergy(-2)] };
+  assert.equal(energyCapacity(actor), 7);
+});
+
+/** An `energy` entry offered as one alternative in an unchosen/chosen OR group. */
+const implantWithOrEnergy = (value, chosenId = null) => ({
+  type: "navis-apexialis.implant",
+  system: {
+    installed: true, disabled: false, active: true, quality: 2,
+    chosenEffects: chosenId ? { g: chosenId } : {},
+    mechanics: [{
+      id: "g", operator: "OR",
+      entries: [
+        { id: "energy-choice", kind: "energy", value },
+        { id: "other-choice", kind: "characteristic", key: "tgh", value: 1 }
+      ]
+    }]
+  }
+});
+
+test("an energy entry in an unchosen OR group contributes nothing", () => {
+  const actor = { system: { characteristics: { tgh: { bonus: 4 } } }, items: [implantWithOrEnergy(5)] };
+  assert.equal(energyCapacity(actor), 4);
+});
+
+test("an energy entry chosen out of an OR group contributes its value", () => {
+  const actor = { system: { characteristics: { tgh: { bonus: 4 } } }, items: [implantWithOrEnergy(5, "energy-choice")] };
+  assert.equal(energyCapacity(actor), 9);
+});
+
+test("syncEnergyCapacity clamps a stored value down when capacity drops", async () => {
+  // Ёмкость упала до бонуса Стойкости: имплантатов, поднимавших её, больше нет.
+  const actor = actorWith({ tgh: 4, flag: { cognition: { value: 0, max: 4 }, energy: { value: 6, max: 8 }, processes: [] } });
+  await syncEnergyCapacity(actor);
+  assert.deepEqual(actor.writes.at(-1).energy, { value: 4, max: 4 });
+});
+
+test("syncEnergyCapacity leaves value alone when capacity rises", async () => {
+  const actor = actorWith({
+    tgh: 4,
+    flag: { cognition: { value: 0, max: 4 }, energy: { value: 2, max: 4 }, processes: [] },
+    items: [implantWithEnergy(5)]
+  });
+  await syncEnergyCapacity(actor);
+  assert.deepEqual(actor.writes.at(-1).energy, { value: 2, max: 9 });
+});
+
+test("a stored max follows a change in active implants", async () => {
+  const actor = actorWith({
+    tgh: 4,
+    flag: { cognition: { value: 0, max: 4 }, energy: { value: 4, max: 4 }, processes: [] },
+    items: [implantWithEnergy(3)]
+  });
+  await syncEnergyCapacity(actor);
+  assert.equal(actor.writes.at(-1).energy.max, 7);
 });

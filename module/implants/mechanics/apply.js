@@ -115,6 +115,39 @@ export async function syncCapPenalty(actor) {
   }]);
 }
 
+/**
+ * Per-actor queues for `syncEnergyCapacity`.
+ *
+ * `createItem`/`deleteItem` can fire several times near-simultaneously for one
+ * Foundry operation (bulk embedded-document creation/deletion), and
+ * `syncEnergyCapacity` is a read-modify-write on the actor's flag: an
+ * overlapping pair can have the second call clone a snapshot taken before the
+ * first call's write landed, and lose that write. Task 9 hit the identical
+ * problem in the implant sheet and solved it with a promise chain kept on the
+ * class instance; here the caller is a set of module-level hooks rather than
+ * one instance, so the chain is keyed by actor id instead, so two different
+ * actors never serialize against each other.
+ */
+const energyQueues = new Map();
+
+/**
+ * The same callback is passed as both handlers on purpose: a rejected sync
+ * must not wedge the chain, or one failure would stop `energy.max` from ever
+ * following that actor's implants again for the rest of the session.
+ */
+function queueEnergySync(actor) {
+  if (!actor) return;
+
+  const work = () => syncEnergyCapacity(actor);
+  const previous = energyQueues.get(actor.id) ?? Promise.resolve();
+  const next = previous.then(work, work);
+  energyQueues.set(actor.id, next);
+
+  return next.catch(error => {
+    console.error(`${MODULE_ID} | Заряд capacity failed to sync.`, error);
+  });
+}
+
 let registered = false;
 
 export function registerImplantMechanicsHooks() {
@@ -131,20 +164,20 @@ export function registerImplantMechanicsHooks() {
   Hooks.on("createItem", item => {
     if (item?.type !== IMPLANT_TYPE) return;
     syncImplantMechanics(item).then(() => syncCapPenalty(item.parent));
-    syncEnergyCapacity(item.parent);
+    queueEnergySync(item.parent);
   });
 
   Hooks.on("updateItem", (item, change) => {
     if (item?.type !== IMPLANT_TYPE) return;
     if (!touchesGate(change)) return;
     syncImplantMechanics(item).then(() => syncCapPenalty(item.parent));
-    syncEnergyCapacity(item.parent);
+    queueEnergySync(item.parent);
   });
 
   Hooks.on("deleteItem", item => {
     if (item?.type !== IMPLANT_TYPE) return;
     syncCapPenalty(item.parent);
-    syncEnergyCapacity(item.parent);
+    queueEnergySync(item.parent);
   });
 
   // Toughness damage can put a legal character over the ceiling without any
