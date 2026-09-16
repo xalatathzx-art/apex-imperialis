@@ -123,9 +123,44 @@ export function clearSurgeonOffers() {
   offersCache = null;
 }
 
+/**
+ * Drop the cache when a compendium implant is added, edited or removed, and
+ * redraw whatever is open.
+ *
+ * The cache is what makes the window cheap, and without this a GM who authors
+ * an implant in a pack keeps seeing the old catalogue until the world is
+ * relaunched — the one edit most likely to happen with the Chirurgeon already
+ * on screen. Only pack documents matter: an item on an actor is read live.
+ */
+export function registerSurgeonHooks() {
+  const invalidate = document => {
+    if (document?.documentName !== "Item") return;
+    if (!document.pack || document.type !== IMPLANT_TYPE) return;
+    clearSurgeonOffers();
+    for (const app of windows.values()) app.render();
+  };
+
+  for (const hook of ["createItem", "updateItem", "deleteItem"]) Hooks.on(hook, invalidate);
+}
+
 /* -------------------------------------------- */
 /*  View model                                  */
 /* -------------------------------------------- */
+
+/**
+ * The three placement fields an implant carries, decided together.
+ *
+ * `location` is written alongside `slot` and `side`, never left behind. The
+ * model initialises it and the item sheet keeps it in step, so a compendium
+ * entry authored for one limb carries that limb's zone in its source data —
+ * and `implantLocation` prefers a stored zone over the slot. Without this, an
+ * arm fitted on the right would light the LEFT arm on both figures, and Обе
+ * стороны would put both copies on the same limb.
+ */
+export function placementFor(slot, side = "") {
+  const chosen = side ?? "";
+  return { slot, side: chosen, location: locationForSlot(slot, chosen) };
+}
 
 /**
  * Which sides of a paired slot are already taken.
@@ -134,7 +169,7 @@ export function clearSurgeonOffers() {
  * consumes the first side still free rather than being ignored: pretending it
  * takes no room would offer "both sides" over an arm that already has one.
  */
-function occupancy(fitted) {
+export function occupancy(fitted) {
   const taken = new Set();
   const placement = new Map();
 
@@ -172,7 +207,7 @@ function fittedEntry(item, side) {
  * the cap is what forbids an extra implant, not this window, and an entry with
  * no button at all is the failure mode the file header describes.
  */
-function offerSides(paired, free) {
+export function offerSides(paired, free) {
   if (!paired) return [{ side: "", label: t("NAVIS.Surgeon.Install") }];
   if (!free.length) return [{ side: "", label: t("NAVIS.Surgeon.Install") }];
   return free.map(side => ({ side, label: `${t("NAVIS.Surgeon.Install")} · ${sideLabel(side)}` }));
@@ -392,7 +427,7 @@ export class SurgeonWindow extends Base {
     }
 
     const data = source.toObject();
-    data.system = { ...data.system, slot, side: side ?? "" };
+    data.system = { ...data.system, ...placementFor(slot, side) };
 
     const [created] = await this.#actor.createEmbeddedDocuments("Item", [data]);
     return created ?? null;

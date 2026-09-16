@@ -14,6 +14,7 @@
 import { defineImplantModel } from "./model.js";
 import { registerImplantMechanicsHooks } from "./mechanics/apply.js";
 import { defineImplantSheet } from "./sheet.js";
+import { registerSurgeonHooks } from "./surgeon-app.js";
 import { IMPLANT_TYPE } from "./state.js";
 
 const MODULE_ID = "navis-apexialis";
@@ -34,6 +35,7 @@ export function registerImplantModel() {
   CONFIG.Item.typeLabels[IMPLANT_TYPE] = "NAVIS.Implant.Type";
 
   registerImplantMechanicsHooks();
+  registerSurgeonHooks();
 }
 
 export function registerImplantSheet() {

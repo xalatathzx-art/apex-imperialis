@@ -60,14 +60,14 @@
         </div>
         <div class="navis-implant-row">
             <div class="field">
-                <label>{{localize "NAVIS.Implant.Slot"}}</label>
+                <label>{{localize "NAVIS.Implant.SlotLabel"}}</label>
                 <select name="system.slot">
                     {{selectOptions slotOptions selected=source.system.slot localize=true}}
                 </select>
             </div>
             {{#if showSide}}
             <div class="field narrow">
-                <label>{{localize "NAVIS.Implant.Side"}}</label>
+                <label>{{localize "NAVIS.Implant.SideLabel"}}</label>
                 <select name="system.side">
                     {{selectOptions sideOptions selected=source.system.side localize=true}}
                 </select>
