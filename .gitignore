@@ -16,6 +16,9 @@
 # in here is regenerable and none of it is input to a build.
 tmp/
 
+# Subagent-driven-development scratch: ledgers, briefs, review packages.
+.superpowers/
+
 # Local tool state, not project content. .claude/ in particular holds this
 # machine's permission settings and can pick up local paths and tokens.
 .claude/
