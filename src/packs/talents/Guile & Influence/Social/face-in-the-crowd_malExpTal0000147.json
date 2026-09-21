@@ -2,7 +2,7 @@
   "name": "Face in the Crowd",
   "type": "talent",
   "_id": "malExpTal0000147",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">When shadowing a target through crowds/gathering: use Fellowship instead Agility on Stealth</span></p><hr><p><span style=\"font-family: Arial\"><em>With training, you can ensure no-one notices your presence through careful replication of a crowds mannerisms or even joining gatherings while keeping an eye on your quarry. When making a stealth test to follow an enemy, you use your Fellowship characteristic instead of Agility. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

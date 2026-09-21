@@ -5,34 +5,34 @@
       "name": "Агромир — вещи происхождения",
       "results": {
         "uZpCyYGZDuvtCYj0": {
-          "description": "Запаянная без воздуха @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.XXSPEv1YwIKDyQx4#provisions-and-meals]{трапеза хорошего качества} из урожая или скота, доставшихся с редкого избытка"
+          "description": "Запаянная без воздуха @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.XXSPEv1YwIKDyQx4#provisions-and-meals]{трапеза хорошего качества} из урожая или скота, доставшихся с редкого избытка"
         },
         "4758ufxq8g4EUtRI": {
-          "description": "Дрянной @UUID[Compendium.navis-apexialis.navis-requisition-items.Item.mugkAbW0jKcleF5I]{Вдохновляющий букварь имперского пехотинца} без половины страниц, оставшийся от брата или сестры, погибших в бою"
+          "description": "Дрянной @UUID[Compendium.apex-imperialis.navis-requisition-items.Item.mugkAbW0jKcleF5I]{Вдохновляющий букварь имперского пехотинца} без половины страниц, оставшийся от брата или сестры, погибших в бою"
         },
         "c712iab2v9R36kGh": {
-          "description": "Медальон-аквила с изображением того, кого у вас отняла Ноктис Этерна (@UUID[Compendium.navis-apexialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Священный символ})"
+          "description": "Медальон-аквила с изображением того, кого у вас отняла Ноктис Этерна (@UUID[Compendium.apex-imperialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Священный символ})"
         },
         "dIX1wCMTbJrLAfTX": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.B55qG1YQTS9IyuTm]{Рюкзак или сумка}, сплетённый из главной прядильной культуры вашего родного мира"
+          "description": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.B55qG1YQTS9IyuTm]{Рюкзак или сумка}, сплетённый из главной прядильной культуры вашего родного мира"
         },
         "zwtb2jsI3UbK7JNi": {
-          "description": "Семейный серп, приписанный Администратумом и бережно сохраняемый сотню поколений (Уродливый @UUID[Compendium.navis-apexialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{Нож})"
+          "description": "Семейный серп, приписанный Администратумом и бережно сохраняемый сотню поколений (Уродливый @UUID[Compendium.apex-imperialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{Нож})"
         },
         "416NRzZscApPBO7H": {
-          "description": "Дрянное @UUID[Compendium.navis-apexialis.navis-core-items.Item.O5AtUszQGDbi8qmS]{Снаряжение выживальщика}, рассчитанное на мягкую погоду вашего родного мира"
+          "description": "Дрянное @UUID[Compendium.apex-imperialis.navis-core-items.Item.O5AtUszQGDbi8qmS]{Снаряжение выживальщика}, рассчитанное на мягкую погоду вашего родного мира"
         },
         "7xFmRXcPv531s9aU": {
-          "description": "Пастуший посох (@UUID[Compendium.navis-apexialis.navis-core-items.Item.bYYdQ2TEdSgOTIf0]{Посох}), завещанный наставником, с надписью: «То строгостью, то милостью ведёт Он паству Свою»"
+          "description": "Пастуший посох (@UUID[Compendium.apex-imperialis.navis-core-items.Item.bYYdQ2TEdSgOTIf0]{Посох}), завещанный наставником, с надписью: «То строгостью, то милостью ведёт Он паству Свою»"
         },
         "EgvuDgpmx42G1VL3": {
-          "description": "Банка семян (@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.XXSPEv1YwIKDyQx4#provisions-and-meals]{стандартная трапеза}), на каждом из которых за содеянные грехи вырезана имперская аквила"
+          "description": "Банка семян (@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.XXSPEv1YwIKDyQx4#provisions-and-meals]{стандартная трапеза}), на каждом из которых за содеянные грехи вырезана имперская аквила"
         },
         "BNixTeVAu5SuWwRe": {
-          "description": "Громоздкий @UUID[Compendium.navis-apexialis.navis-core-items.Item.NlduMbxJZrKejC9J]{Фотовизор или фотолинзы} — подарок ослепшего на солнце товарища с уборочных полей"
+          "description": "Громоздкий @UUID[Compendium.apex-imperialis.navis-core-items.Item.NlduMbxJZrKejC9J]{Фотовизор или фотолинзы} — подарок ослепшего на солнце товарища с уборочных полей"
         },
         "p8ScoPQZwhOsNrtk": {
-          "description": "Обойма дрянных @UUID[Compendium.navis-apexialis.navis-core-items.Item.kZuL2i84eWjUTUFv]{Патронов «Кровопийца»}, что выдают охотникам на крупного опасного зверя вашего родного мира"
+          "description": "Обойма дрянных @UUID[Compendium.apex-imperialis.navis-core-items.Item.kZuL2i84eWjUTUFv]{Патронов «Кровопийца»}, что выдают охотникам на крупного опасного зверя вашего родного мира"
         }
       }
     },
@@ -40,34 +40,34 @@
       "name": "Дикий мир — вещи происхождения",
       "results": {
         "uZpCyYGZDuvtCYj0": {
-          "description": "<p>Древний штык (@UUID[Compendium.navis-apexialis.navis-core-items.Item.bme7IUpsgm3NzL83]{Штык}) из жуткого клыка высшего хищника</p>"
+          "description": "<p>Древний штык (@UUID[Compendium.apex-imperialis.navis-core-items.Item.bme7IUpsgm3NzL83]{Штык}) из жуткого клыка высшего хищника</p>"
         },
         "4758ufxq8g4EUtRI": {
-          "description": "Грубый идол (@UUID[Compendium.navis-apexialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Священный символ}) с Богом-Императором в виде сурового и требовательного божества природы"
+          "description": "Грубый идол (@UUID[Compendium.apex-imperialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Священный символ}) с Богом-Императором в виде сурового и требовательного божества природы"
         },
         "c712iab2v9R36kGh": {
-          "description": "Обрядовый поединочный клинок (@UUID[Compendium.navis-apexialis.navis-core-items.Item.kZh4o3SszYKFtzHE]{Двуручное оружие}), расписанный рунической историей вашего племени"
+          "description": "Обрядовый поединочный клинок (@UUID[Compendium.apex-imperialis.navis-core-items.Item.kZh4o3SszYKFtzHE]{Двуручное оружие}), расписанный рунической историей вашего племени"
         },
         "dIX1wCMTbJrLAfTX": {
-          "description": "Охотничий арбалет из железного дерева вашего родного мира (Дрянной @UUID[Compendium.navis-apexialis.navis-core-items.Item.vCeI41URKYV6iuAD]{Стаб-револьвер})"
+          "description": "Охотничий арбалет из железного дерева вашего родного мира (Дрянной @UUID[Compendium.apex-imperialis.navis-core-items.Item.vCeI41URKYV6iuAD]{Стаб-револьвер})"
         },
         "zwtb2jsI3UbK7JNi": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.WCb8cnulcFJqgoxX]{Кустарная броня}, сделанная шаманом племени из разбившегося имперского спутника"
+          "description": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.WCb8cnulcFJqgoxX]{Кустарная броня}, сделанная шаманом племени из разбившегося имперского спутника"
         },
         "416NRzZscApPBO7H": {
-          "description": "Мягкий короб с 4 бурлящими железами, взятыми у смертоносного огнедышащего хищника вашего родного мира (Непредсказуемая @UUID[Compendium.navis-apexialis.navis-core-items.Item.JU4aGpoaxZLY7eIO]{Огненная бомба})"
+          "description": "Мягкий короб с 4 бурлящими железами, взятыми у смертоносного огнедышащего хищника вашего родного мира (Непредсказуемая @UUID[Compendium.apex-imperialis.navis-core-items.Item.JU4aGpoaxZLY7eIO]{Огненная бомба})"
         },
         "7xFmRXcPv531s9aU": {
-          "description": "Уродливый @UUID[Compendium.navis-apexialis.navis-core-items.Item.f1XuFoDwzexJZAas]{Боевой щит} из бронированной чешуи огромного зверя"
+          "description": "Уродливый @UUID[Compendium.apex-imperialis.navis-core-items.Item.f1XuFoDwzexJZAas]{Боевой щит} из бронированной чешуи огромного зверя"
         },
         "EgvuDgpmx42G1VL3": {
-          "description": "Обрядовые орудия для нанесения шрамов (Дрянные @UUID[Compendium.navis-apexialis.navis-core-items.Item.paXqMCUFqcpVEEBE]{Пыточные инструменты}), чтобы хранить обычаи племени среди звёзд"
+          "description": "Обрядовые орудия для нанесения шрамов (Дрянные @UUID[Compendium.apex-imperialis.navis-core-items.Item.paXqMCUFqcpVEEBE]{Пыточные инструменты}), чтобы хранить обычаи племени среди звёзд"
         },
         "BNixTeVAu5SuWwRe": {
-          "description": "Ненадёжный @UUID[Compendium.navis-apexialis.navis-core-items.Item.AdB3ZzAOrnREfdsv]{Мультикомпас}, которым в вашем племени пользовались вместе с дурманящими снадобьями во время видений"
+          "description": "Ненадёжный @UUID[Compendium.apex-imperialis.navis-core-items.Item.AdB3ZzAOrnREfdsv]{Мультикомпас}, которым в вашем племени пользовались вместе с дурманящими снадобьями во время видений"
         },
         "p8ScoPQZwhOsNrtk": {
-          "description": "Дрянной @UUID[Compendium.navis-apexialis.navis-core-items.Item.fhXBHDbBiY6PUUTc]{Хамелеолиновый плащ}, залатанный обрывками обычной ткани"
+          "description": "Дрянной @UUID[Compendium.apex-imperialis.navis-core-items.Item.fhXBHDbBiY6PUUTc]{Хамелеолиновый плащ}, залатанный обрывками обычной ткани"
         }
       }
     },
@@ -75,34 +75,34 @@
       "name": "Мир-улей — вещи происхождения",
       "results": {
         "uZpCyYGZDuvtCYj0": {
-          "description": "Заводской топор, отливающий ядовитыми цветами от бессчётных химических разливов нижнего улья (@UUID[Compendium.navis-apexialis.navis-core-items.Item.cnbaSByME7caQohv]{Топор})"
+          "description": "Заводской топор, отливающий ядовитыми цветами от бессчётных химических разливов нижнего улья (@UUID[Compendium.apex-imperialis.navis-core-items.Item.cnbaSByME7caQohv]{Топор})"
         },
         "4758ufxq8g4EUtRI": {
-          "description": "«Освобождённый» инфопланшет мануфакторумного смотрителя с небольшой трещиной на экране (Уродливый @UUID[Compendium.navis-apexialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW]{Инфопланшет})"
+          "description": "«Освобождённый» инфопланшет мануфакторумного смотрителя с небольшой трещиной на экране (Уродливый @UUID[Compendium.apex-imperialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW]{Инфопланшет})"
         },
         "c712iab2v9R36kGh": {
-          "description": "Уродливый револьвер с резьбой, оставленной оружейником вашей прежней банды (@UUID[Compendium.navis-apexialis.navis-core-items.Item.vCeI41URKYV6iuAD]{Стаб-револьвер})"
+          "description": "Уродливый револьвер с резьбой, оставленной оружейником вашей прежней банды (@UUID[Compendium.apex-imperialis.navis-core-items.Item.vCeI41URKYV6iuAD]{Стаб-револьвер})"
         },
         "dIX1wCMTbJrLAfTX": {
-          "description": "Пара заводских кислотоупорных рукавиц, почерневших на пальцах (Дрянные и уродливые @UUID[Compendium.navis-apexialis.navis-core-items.Item.EFuAlEM1vh5fvSDW]{Флак-перчатки})"
+          "description": "Пара заводских кислотоупорных рукавиц, почерневших на пальцах (Дрянные и уродливые @UUID[Compendium.apex-imperialis.navis-core-items.Item.EFuAlEM1vh5fvSDW]{Флак-перчатки})"
         },
         "zwtb2jsI3UbK7JNi": {
-          "description": "Прицел Вожака (@UUID[Compendium.navis-apexialis.navis-core-items.Item.Sa0x6Yf5xZ2OcfVp]{Омниприцел}) с грубо вырезанным крылатым черепом на корпусе"
+          "description": "Прицел Вожака (@UUID[Compendium.apex-imperialis.navis-core-items.Item.Sa0x6Yf5xZ2OcfVp]{Омниприцел}) с грубо вырезанным крылатым черепом на корпусе"
         },
         "416NRzZscApPBO7H": {
-          "description": "Треснувшие мануфакторумные щитки от вспышек (Уродливый @UUID[Compendium.navis-apexialis.navis-core-items.Item.NlduMbxJZrKejC9J]{Фотовизор или фотолинзы})"
+          "description": "Треснувшие мануфакторумные щитки от вспышек (Уродливый @UUID[Compendium.apex-imperialis.navis-core-items.Item.NlduMbxJZrKejC9J]{Фотовизор или фотолинзы})"
         },
         "7xFmRXcPv531s9aU": {
-          "description": "Дрянная и уродливая @UUID[Compendium.navis-apexialis.navis-core-items.Item.iG45nxwOAfNkpKYJ]{Крюк-кошка} с зарубками на корпусе — по одной за каждое «дело»"
+          "description": "Дрянная и уродливая @UUID[Compendium.apex-imperialis.navis-core-items.Item.iG45nxwOAfNkpKYJ]{Крюк-кошка} с зарубками на корпусе — по одной за каждое «дело»"
         },
         "EgvuDgpmx42G1VL3": {
-          "description": "Кислотоупорная шинель, протравленная проволока и кислотоупорный зонт (Уродливое @UUID[Compendium.navis-apexialis.navis-core-items.Item.O5AtUszQGDbi8qmS]{Снаряжение выживальщика})"
+          "description": "Кислотоупорная шинель, протравленная проволока и кислотоупорный зонт (Уродливое @UUID[Compendium.apex-imperialis.navis-core-items.Item.O5AtUszQGDbi8qmS]{Снаряжение выживальщика})"
         },
         "BNixTeVAu5SuWwRe": {
-          "description": "Фосфорная химическая лампа, слепяще-белая и склонная мигать (@UUID[Compendium.navis-apexialis.navis-core-items.Item.1LgXZfag35FhcNoj]{Светосфера или фонарь})"
+          "description": "Фосфорная химическая лампа, слепяще-белая и склонная мигать (@UUID[Compendium.apex-imperialis.navis-core-items.Item.1LgXZfag35FhcNoj]{Светосфера или фонарь})"
         },
         "p8ScoPQZwhOsNrtk": {
-          "description": "Обрезок крепкой металлической трубы, которым слишком часто дрались (@UUID[Compendium.navis-apexialis.navis-core-items.Item.lwPymw5Hah0H8Ey5]{Импровизированное одноручное}, со свойством Незаметное)"
+          "description": "Обрезок крепкой металлической трубы, которым слишком часто дрались (@UUID[Compendium.apex-imperialis.navis-core-items.Item.lwPymw5Hah0H8Ey5]{Импровизированное одноручное}, со свойством Незаметное)"
         }
       }
     },
@@ -110,34 +110,34 @@
       "name": "Мир-кузница — вещи происхождения",
       "results": {
         "uZpCyYGZDuvtCYj0": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.dO7XoDXD9QYTy6zZ]{Ауспик или сканер} с алгоритмами поиска, которые ваш наставник вывел вопреки господствующей на планете технодогме"
+          "description": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.dO7XoDXD9QYTy6zZ]{Ауспик или сканер} с алгоритмами поиска, которые ваш наставник вывел вопреки господствующей на планете технодогме"
         },
         "4758ufxq8g4EUtRI": {
-          "description": "Шестерня Механикус размером с ладонь с надписью на бинарике: «Многому учит неудача, если она не твоя» (@UUID[Compendium.navis-apexialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Священный символ})"
+          "description": "Шестерня Механикус размером с ладонь с надписью на бинарике: «Многому учит неудача, если она не твоя» (@UUID[Compendium.apex-imperialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Священный символ})"
         },
         "c712iab2v9R36kGh": {
-          "description": "Склянка @UUID[Compendium.navis-apexialis.navis-core-items.Item.S8vLsphFt4PnjsHc]{Священного масла}, бережно слитая с последней машины, что вы починили перед призывом"
+          "description": "Склянка @UUID[Compendium.apex-imperialis.navis-core-items.Item.S8vLsphFt4PnjsHc]{Священного масла}, бережно слитая с последней машины, что вы починили перед призывом"
         },
         "dIX1wCMTbJrLAfTX": {
-          "description": "Большой гаечный ключ (@UUID[Compendium.navis-apexialis.navis-core-items.Item.CrbE669FitnwNPZX]{Импровизированное двуручное}), сплошь покрытый бинарной вязью, — подарок вашего прежнего смотрителя"
+          "description": "Большой гаечный ключ (@UUID[Compendium.apex-imperialis.navis-core-items.Item.CrbE669FitnwNPZX]{Импровизированное двуручное}), сплошь покрытый бинарной вязью, — подарок вашего прежнего смотрителя"
         },
         "zwtb2jsI3UbK7JNi": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW]{Инфопланшет}, который умеет соединяться и обмениваться данными только с машинными когитаторами"
+          "description": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW]{Инфопланшет}, который умеет соединяться и обмениваться данными только с машинными когитаторами"
         },
         "416NRzZscApPBO7H": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.NlduMbxJZrKejC9J]{Фотовизор или фотолинзы}, что принадлежал вашему товарищу, пока того не повысили и не благословили аугметическими глазами"
+          "description": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.NlduMbxJZrKejC9J]{Фотовизор или фотолинзы}, что принадлежал вашему товарищу, пока того не повысили и не благословили аугметическими глазами"
         },
         "7xFmRXcPv531s9aU": {
-          "description": "Грубая @UUID[Compendium.navis-apexialis.navis-core-items.Item.zK3ii7HUPfnQGKtg]{Аугметическая рука}. Она громоздкая и дрянная: на лучшее вы своей работой так и не наслужили"
+          "description": "Грубая @UUID[Compendium.apex-imperialis.navis-core-items.Item.zK3ii7HUPfnQGKtg]{Аугметическая рука}. Она громоздкая и дрянная: на лучшее вы своей работой так и не наслужили"
         },
         "EgvuDgpmx42G1VL3": {
-          "description": "Громоздкий @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.Y6oJff3F4qo2Xhlx]{Сервочереп}-инфодознаватель, собранный из хлама. Если бы о нём узнали ваши прежние хозяева, вам бы не жить"
+          "description": "Громоздкий @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.Y6oJff3F4qo2Xhlx]{Сервочереп}-инфодознаватель, собранный из хлама. Если бы о нём узнали ваши прежние хозяева, вам бы не жить"
         },
         "BNixTeVAu5SuWwRe": {
-          "description": "Громоздкий уродливый @UUID[Compendium.navis-apexialis.navis-requisition-actors.Actor.YoOntJBL0bm63ihX]{Модуль «КАТ»}, когитатор которого списан с верного, но глупого пса"
+          "description": "Громоздкий уродливый @UUID[Compendium.apex-imperialis.navis-requisition-actors.Actor.YoOntJBL0bm63ihX]{Модуль «КАТ»}, когитатор которого списан с верного, но глупого пса"
         },
         "p8ScoPQZwhOsNrtk": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-requisition-items.Item.5M7cneBoJANBJ9f6]{Внутренний отсек}. Вы так и не нашли ни записи, ни причины, почему вам вживили эту полузаконную аугметику"
+          "description": "@UUID[Compendium.apex-imperialis.navis-requisition-items.Item.5M7cneBoJANBJ9f6]{Внутренний отсек}. Вы так и не нашли ни записи, ни причины, почему вам вживили эту полузаконную аугметику"
         }
       }
     },
@@ -145,34 +145,34 @@
       "name": "Мир-храм — вещи происхождения",
       "results": {
         "uZpCyYGZDuvtCYj0": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Священный символ}, вырезанный из костей прославленного и благочестивого прадеда"
+          "description": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Священный символ}, вырезанный из костей прославленного и благочестивого прадеда"
         },
         "4758ufxq8g4EUtRI": {
           "description": "Гильза от болта, сохранённая со времён Махарийской ереси, с надписью на низком готическом: «За братьев, которых я подвёл»"
         },
         "c712iab2v9R36kGh": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-requisition-items.Item.TNpIkOqRIZYDfyQh]{Книга} целиком из пергамена с поучениями малоизвестного имперского святого о том, что так или иначе все служат Богу-Императору"
+          "description": "@UUID[Compendium.apex-imperialis.navis-requisition-items.Item.TNpIkOqRIZYDfyQh]{Книга} целиком из пергамена с поучениями малоизвестного имперского святого о том, что так или иначе все служат Богу-Императору"
         },
         "dIX1wCMTbJrLAfTX": {
           "description": "Катехизис, принадлежавший вашему учителю. По пометкам на полях видно, что когда-то вера его пошатнулась"
         },
         "zwtb2jsI3UbK7JNi": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.B55qG1YQTS9IyuTm]{Рюкзак или сумка} с шипастыми лямками — в назидание о том, что тяжелее всех ноша Бога-Императора"
+          "description": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.B55qG1YQTS9IyuTm]{Рюкзак или сумка} с шипастыми лямками — в назидание о том, что тяжелее всех ноша Бога-Императора"
         },
         "416NRzZscApPBO7H": {
           "description": "Ветхое разрешение Министорума, выданное вашим прапрадеду и прапрабабке на паломничество к Махарии"
         },
         "7xFmRXcPv531s9aU": {
-          "description": "«Жизнь лорда-соляра Махария» (@UUID[Compendium.navis-apexialis.navis-requisition-items.Item.VhJCmVa9cRWb2seD]{Книга}) с приписками эрудитов из секты, известной тем, что ходит по самому краю правоверия"
+          "description": "«Жизнь лорда-соляра Махария» (@UUID[Compendium.apex-imperialis.navis-requisition-items.Item.VhJCmVa9cRWb2seD]{Книга}) с приписками эрудитов из секты, известной тем, что ходит по самому краю правоверия"
         },
         "EgvuDgpmx42G1VL3": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.OdTP4DEK3oGAjMWZ]{Фильтры-затычки}, пропитанные благовониями, — оберегать от нечистого воздуха менее святых миров"
+          "description": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.OdTP4DEK3oGAjMWZ]{Фильтры-затычки}, пропитанные благовониями, — оберегать от нечистого воздуха менее святых миров"
         },
         "BNixTeVAu5SuWwRe": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.1LgXZfag35FhcNoj]{Светосфера или фонарь}, что светит сквозь трафарет с гербом Махария"
+          "description": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.1LgXZfag35FhcNoj]{Светосфера или фонарь}, что светит сквозь трафарет с гербом Махария"
         },
         "p8ScoPQZwhOsNrtk": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-requisition-actors.Actor.y14EVxOEE4iRPMAv]{Череп-архив}. На его пюпитре вырезано: «Не верь глазам своим в век тьмы»"
+          "description": "@UUID[Compendium.apex-imperialis.navis-requisition-actors.Actor.y14EVxOEE4iRPMAv]{Череп-архив}. На его пюпитре вырезано: «Не верь глазам своим в век тьмы»"
         }
       }
     },
@@ -180,34 +180,34 @@
       "name": "Схола Прогениум — вещи происхождения",
       "results": {
         "uZpCyYGZDuvtCYj0": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.Aw29y9tfO4Uc9uWb]{Хроно} с гравировкой вашего наставника-прогениума: «У Бога-Императора нет времени на милосердие»"
+          "description": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.Aw29y9tfO4Uc9uWb]{Хроно} с гравировкой вашего наставника-прогениума: «У Бога-Императора нет времени на милосердие»"
         },
         "4758ufxq8g4EUtRI": {
           "description": "Бутылка выдержанного амасека в память о вашей первой победе под крылом наставника"
         },
         "c712iab2v9R36kGh": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-requisition-actors.Actor.ktUPQsWbSxgxXW4k.Item.N5qmWLUBBPrObKMi]{Громкоговоритель}, вручённый вам за ясный, властный и повелевающий голос"
+          "description": "@UUID[Compendium.apex-imperialis.navis-requisition-actors.Actor.ktUPQsWbSxgxXW4k.Item.N5qmWLUBBPrObKMi]{Громкоговоритель}, вручённый вам за ясный, властный и повелевающий голос"
         },
         "dIX1wCMTbJrLAfTX": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{Нож} из прежнего полка вашего аббата-наставника с девизом: «Редко видим; всегда смертоносен»"
+          "description": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{Нож} из прежнего полка вашего аббата-наставника с девизом: «Редко видим; всегда смертоносен»"
         },
         "zwtb2jsI3UbK7JNi": {
           "description": "Обломок черепа однокашника со следами ожога от лазпистолета, из которого вам приказали его казнить"
         },
         "416NRzZscApPBO7H": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-requisition-items.Item.MpshKI9nR0LNYuDU]{Кобура с биозамком} с надписью: «Одна лишь вера способна перевернуть галактику»"
+          "description": "@UUID[Compendium.apex-imperialis.navis-requisition-items.Item.MpshKI9nR0LNYuDU]{Кобура с биозамком} с надписью: «Одна лишь вера способна перевернуть галактику»"
         },
         "7xFmRXcPv531s9aU": {
-          "description": "Уродливая @UUID[Compendium.navis-apexialis.navis-core-items.Item.DSKAdYMPRHvadLZz]{Шоковая булава}, которой ваш наставник вразумлял учеников"
+          "description": "Уродливая @UUID[Compendium.apex-imperialis.navis-core-items.Item.DSKAdYMPRHvadLZz]{Шоковая булава}, которой ваш наставник вразумлял учеников"
         },
         "EgvuDgpmx42G1VL3": {
           "description": "Пара перчаток с вплетённой во внешнюю сторону власяницей и вытисненной на коже надписью: «Боль очищает душу»"
         },
         "BNixTeVAu5SuWwRe": {
-          "description": "Дымный @UUID[Compendium.navis-apexialis.navis-requisition-items.Item.9bjSHPN7bX4cFw6V]{Термоплащ} — подарок наставника, что служил в скрытном полку Милитарум"
+          "description": "Дымный @UUID[Compendium.apex-imperialis.navis-requisition-items.Item.9bjSHPN7bX4cFw6V]{Термоплащ} — подарок наставника, что служил в скрытном полку Милитарум"
         },
         "p8ScoPQZwhOsNrtk": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-requisition-items.Item.Rm5qg30z5kmLCJVs]{Подкожный имплантат} с работающим @UUID[Compendium.navis-apexialis.navis-core-items.Item.Aw29y9tfO4Uc9uWb]{Хроно}, чтобы вы никогда не забывали о времени"
+          "description": "@UUID[Compendium.apex-imperialis.navis-requisition-items.Item.Rm5qg30z5kmLCJVs]{Подкожный имплантат} с работающим @UUID[Compendium.apex-imperialis.navis-core-items.Item.Aw29y9tfO4Uc9uWb]{Хроно}, чтобы вы никогда не забывали о времени"
         }
       }
     },
@@ -215,7 +215,7 @@
       "name": "Феодальный мир — вещи происхождения",
       "results": {
         "uZpCyYGZDuvtCYj0": {
-          "description": "Обтрёпанный @UUID[Compendium.navis-apexialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Священный символ} в виде аквилы, сплетённый из соломы"
+          "description": "Обтрёпанный @UUID[Compendium.apex-imperialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Священный символ} в виде аквилы, сплетённый из соломы"
         },
         "4758ufxq8g4EUtRI": {
           "description": "Рукоять сломанного клинка, которым бился ваш родич, павший на службе Астра Милитарум"
@@ -250,34 +250,34 @@
       "name": "Пустота — вещи происхождения",
       "results": {
         "uZpCyYGZDuvtCYj0": {
-          "description": "Кинжал, вырезанный из осколка, отбитого от пустотного кракена, что чуть не сожрал ваш корабль век назад (@UUID[Compendium.navis-apexialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{Нож})"
+          "description": "Кинжал, вырезанный из осколка, отбитого от пустотного кракена, что чуть не сожрал ваш корабль век назад (@UUID[Compendium.apex-imperialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{Нож})"
         },
         "4758ufxq8g4EUtRI": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Священный символ} из гнутой проволоки и хлама, что молит машинных духов корабля уберечь от разгерметизации"
+          "description": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Священный символ} из гнутой проволоки и хлама, что молит машинных духов корабля уберечь от разгерметизации"
         },
         "c712iab2v9R36kGh": {
-          "description": "Уродливый @UUID[Compendium.navis-apexialis.navis-core-items.Item.YKdnnpcXv14ITvE5]{Пустотный костюм}, украшенный костями людей-пиратов, которым не удалось взять ваш корабль"
+          "description": "Уродливый @UUID[Compendium.apex-imperialis.navis-core-items.Item.YKdnnpcXv14ITvE5]{Пустотный костюм}, украшенный костями людей-пиратов, которым не удалось взять ваш корабль"
         },
         "dIX1wCMTbJrLAfTX": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.16DWBUHaqigUg0ZT]{Дыхательный аппарат}. Века заплат и починок сделали его громоздким и уродливым, зато он доказал, что надёжный"
+          "description": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.16DWBUHaqigUg0ZT]{Дыхательный аппарат}. Века заплат и починок сделали его громоздким и уродливым, зато он доказал, что надёжный"
         },
         "zwtb2jsI3UbK7JNi": {
-          "description": "Громоздкий ненадёжный @UUID[Compendium.navis-apexialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW]{Инфопланшет}, будто бы укреплённый из-за неуклюжести прежнего хозяина"
+          "description": "Громоздкий ненадёжный @UUID[Compendium.apex-imperialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW]{Инфопланшет}, будто бы укреплённый из-за неуклюжести прежнего хозяина"
         },
         "416NRzZscApPBO7H": {
-          "description": "Дрянная @UUID[Compendium.navis-apexialis.navis-core-items.Item.Yp1Fmiml09wxHj4h]{Вокс-бусина}. На всех каналах пробивается назойливая ноосферная болтовня, внятная одним лишь техножрецам высокого чина"
+          "description": "Дрянная @UUID[Compendium.apex-imperialis.navis-core-items.Item.Yp1Fmiml09wxHj4h]{Вокс-бусина}. На всех каналах пробивается назойливая ноосферная болтовня, внятная одним лишь техножрецам высокого чина"
         },
         "7xFmRXcPv531s9aU": {
-          "description": "Пара громоздких @UUID[Compendium.navis-apexialis.navis-core-items.Item.OjLq7yDUPG8TpISi]{Удушающих гранат}, наспех собранных из огнетушащих составов во время неудавшегося мятежа"
+          "description": "Пара громоздких @UUID[Compendium.apex-imperialis.navis-core-items.Item.OjLq7yDUPG8TpISi]{Удушающих гранат}, наспех собранных из огнетушащих составов во время неудавшегося мятежа"
         },
         "EgvuDgpmx42G1VL3": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.Aw29y9tfO4Uc9uWb]{Хроно}, что всегда показывает местное время последнего пустотного корабля, на котором вы служили"
+          "description": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.Aw29y9tfO4Uc9uWb]{Хроно}, что всегда показывает местное время последнего пустотного корабля, на котором вы служили"
         },
         "BNixTeVAu5SuWwRe": {
           "description": "Диковинно скроенная одежда, сшитая по тем крохам, что ваши сверстники слышали о погоде на планетах"
         },
         "p8ScoPQZwhOsNrtk": {
-          "description": "Дрянной уродливый @UUID[Compendium.navis-apexialis.navis-core-items.Item.8OPStKOqQK9l08ix]{Жилет из ксеношкуры} из обрезков, выброшенных командным составом"
+          "description": "Дрянной уродливый @UUID[Compendium.apex-imperialis.navis-core-items.Item.8OPStKOqQK9l08ix]{Жилет из ксеношкуры} из обрезков, выброшенных командным составом"
         }
       }
     },
@@ -294,7 +294,7 @@
           "description": "<p><strong>Своенравное</strong>: Эта вещь не будет работать весь день и считается сломанной, пока вы не потратите час на странный и подозрительный обряд, чтобы её умилостивить.</p>"
         },
         "ppA3UBrdazViBHSP": {
-          "description": "<p><strong>Мерзливый дух</strong>: Раз за схватку, применяя эту вещь при наличии у вас осквернения или мутации, вы должны бросить по таблице @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Фиаско}.</p>"
+          "description": "<p><strong>Мерзливый дух</strong>: Раз за схватку, применяя эту вещь при наличии у вас осквернения или мутации, вы должны бросить по таблице @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Фиаско}.</p>"
         },
         "O1wX9fFh2oXjVdIU": {
           "description": "<p><strong>Вызывающий облик</strong>: Вид или назначение вещи оскорбительны или противны одной из служб Империума, и её люди, скорее всего, отнесутся к вам недоброжелательно.</p>"
@@ -390,7 +390,7 @@
       "name": "Изъяны оружия",
       "results": {
         "msBlAIpCLTeCjWx9": {
-          "description": "<p><strong>Недовольный дух</strong>: Получив 1 или больше Порчи, при следующем применении этого оружия вы должны бросить по таблице @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Фиаско}.</p>"
+          "description": "<p><strong>Недовольный дух</strong>: Получив 1 или больше Порчи, при следующем применении этого оружия вы должны бросить по таблице @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Фиаско}.</p>"
         },
         "vkBOdc5EQlFdoNvO": {
           "description": "<p><strong>Очищающий дух</strong>: Пока у вас 1 или больше Порчи, перезаряжая это оружие, бросайте 1к10. На 10 оно заклинивает, и на перезарядку придётся потратить ещё одно действие.</p>"
@@ -405,7 +405,7 @@
           "description": "<p><strong>Иссякший дух</strong>: Раз за схватку первое критическое попадание этим оружием считается обычным успешным попаданием.</p>"
         },
         "OLFTOh42dUgibeB0": {
-          "description": "<p><strong>В кольце</strong>: Раз за схватку, впервые применяя это оружие, когда противник давит вас числом, вы должны бросить по таблице @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Фиаско}.</p>"
+          "description": "<p><strong>В кольце</strong>: Раз за схватку, впервые применяя это оружие, когда противник давит вас числом, вы должны бросить по таблице @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Фиаско}.</p>"
         },
         "ySee4yw1DsHxAXBh": {
           "description": "<p><strong>Тоска</strong>: Раз за схватку, впервые атакуя этим оружием с травмой, вы совершаете проверку с помехой.</p>"
@@ -466,7 +466,7 @@
           "description": "<p><strong>Скверный укор</strong>: Пока у вас 1 или больше осквернений или мутаций, получив критическое попадание, прибавьте 1 к броску по <strong>таблице критических ран</strong>.</p>"
         },
         "mia7uIg1G4yLPJs5": {
-          "description": "<p><strong>Один во тьме</strong>: Раз за схватку, совершая действие движения в зоне со свойством <em>Тьма</em>, <em>Марево</em> или <em>Скверное освещение</em> либо входя в такую зону, вы должны бросить по таблице @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Фиаско}.</p>"
+          "description": "<p><strong>Один во тьме</strong>: Раз за схватку, совершая действие движения в зоне со свойством <em>Тьма</em>, <em>Марево</em> или <em>Скверное освещение</em> либо входя в такую зону, вы должны бросить по таблице @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Фиаско}.</p>"
         },
         "ppA3UBrdazViBHSP": {
           "description": "<p><strong>Спотыкающаяся</strong>: Раз за схватку, когда ваша команда дерётся без превосходства, ваша скорость на один ход становится медленной.</p>"
@@ -481,7 +481,7 @@
           "description": "<p><strong>Отягощающая</strong>: Раз за схватку, получив в бою 1 или больше Порчи, вы до конца этой схватки переходите на медленную скорость.</p>"
         },
         "09MKOMgX8i68nlKP": {
-          "description": "<p><strong>Неуклюжая</strong>: Раз за схватку, совершая действие <strong>«Бег»</strong>, бросьте [[/r d10]]. На 10 вы должны бросить по таблице @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Фиаско}.</p>"
+          "description": "<p><strong>Неуклюжая</strong>: Раз за схватку, совершая действие <strong>«Бег»</strong>, бросьте [[/r d10]]. На 10 вы должны бросить по таблице @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Фиаско}.</p>"
         },
         "jDnMQ2zizH5ZVcAj": {
           "description": "<p><strong>Смятая</strong>: Раз за схватку, когда противник давит вас числом, первое попадание по вам наносит на 1 урона больше.</p>"
@@ -571,7 +571,7 @@
           "description": "<p>Кажется, всё в порядке, но в машине что-то начало звенеть. Пока техника не будет отремонтирована, все броски по этой таблице получают +1. Если <strong>Звон</strong> выпадет несколько раз, эти прибавки будут складываться.</p>"
         },
         "JguXs3wFlwjvXZCL": {
-          "description": "<p>Силой удара машину раскачивает или даже сбивает с шага, и экипаж на миг оглушает. Случайно выбранный член экипажа должен пройти <strong>среднюю (+0) проверку Стойкости (Неустанность)</strong> или получить состояние @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Оглушение (малое)} на три раунда.</p><p><strong>Проверка управления</strong>: средняя (+0), если водитель получил попадание.</p>"
+          "description": "<p>Силой удара машину раскачивает или даже сбивает с шага, и экипаж на миг оглушает. Случайно выбранный член экипажа должен пройти <strong>среднюю (+0) проверку Стойкости (Неустанность)</strong> или получить состояние @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Оглушение (малое)} на три раунда.</p><p><strong>Проверка управления</strong>: средняя (+0), если водитель получил попадание.</p>"
         },
         "vRwfoLFjHGJcIkoi": {
           "description": "<p>Случайно выбранный член экипажа или пассажир получает ранение от осколка или шальной пули. Цель немедленно получает попадание в случайную зону попадания из того оружия, что вызвало этот бросок по таблице. При определении урона цель может прибавить очки брони машины к своей броне. Если этот результат был вызван не вражеским попаданием, а чем-то иным, он наносит [[1d10]] единиц урона.</p><p><strong>Проверка управления</strong>: средняя (+0), если водитель получил попадание.</p>"
@@ -586,7 +586,7 @@
           "description": "<p>Попадание приходится по ногам машины. Скорость машины падает на одну ступень. Если при этом скорость упадёт ниже медленной, машина потеряет возможность двигаться, пока её не отремонтируют, а водитель должен пройти подходящую проверку Пилотирования. При провале шагоход валится набок, и поднять его можно будет действием машины — уже после починки.</p><p><strong>Проверка управления</strong>: трудная (−10)</p>"
         },
         "40yIDWfwiiKZaF7M": {
-          "description": "<p>Машина превращается в огненный шар и мгновенно гибнет. Все, кто находится внутри, получают [[1d10+10]] единиц урона в случайную зону попадания и состояние @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Горение}.</p>"
+          "description": "<p>Машина превращается в огненный шар и мгновенно гибнет. Все, кто находится внутри, получают [[1d10+10]] единиц урона в случайную зону попадания и состояние @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Горение}.</p>"
         }
       }
     },
@@ -615,7 +615,7 @@
           "description": "<p>Попадание приходится в колёса или двигательный отсек. Скорость машины падает на одну ступень. Если при этом скорость упадёт ниже медленной, машина потеряет возможность двигаться, пока её не отремонтируют.</p><p><strong>Проверка управления</strong>: трудная (−10)</p>"
         },
         "40yIDWfwiiKZaF7M": {
-          "description": "<p>Машина превращается в огненный шар и мгновенно гибнет. Все, кто находится внутри, получают [[1d10+10]] единиц урона в случайную зону попадания и состояние @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Горение}.</p>"
+          "description": "<p>Машина превращается в огненный шар и мгновенно гибнет. Все, кто находится внутри, получают [[1d10+10]] единиц урона в случайную зону попадания и состояние @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Горение}.</p>"
         }
       }
     },
@@ -644,7 +644,7 @@
           "description": "<p>Попадание приходится в гусеницы, колёса или двигатели. Скорость машины падает на одну ступень. Если при этом скорость упадёт ниже медленной, машина потеряет возможность двигаться, пока её не отремонтируют. Воздушная техника при этом падает на землю.</p><p><strong>Проверка управления</strong>: трудная (−10)</p>"
         },
         "40yIDWfwiiKZaF7M": {
-          "description": "<p>Машина превращается в огненный шар и мгновенно гибнет. Все, кто находится внутри, получают [[1d10+10]] единиц урона в случайную зону попадания и состояние @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Горение}.</p>"
+          "description": "<p>Машина превращается в огненный шар и мгновенно гибнет. Все, кто находится внутри, получают [[1d10+10]] единиц урона в случайную зону попадания и состояние @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Горение}.</p>"
         }
       }
     },
@@ -667,13 +667,13 @@
           "description": "<p>Попадание повреждает одно случайно выбранное орудие машины — оно не будет работать, пока его не отремонтируют. Если в это орудие приходится второе такое попадание, оно уничтожается. Если у машины нет вооружения или оно всё уже уничтожено, этот результат считается <strong>попаданием по экипажу/пассажирам</strong>.</p><p><strong>Проверка управления</strong>: рутинная (+20)</p>"
         },
         "mO4zB7nFN0R4Fw6Y": {
-          "description": "<p>Лобовая или бортовая броня машины (смотря куда пришлось попадание) понижается на [[/r 1d5]]. Если машина идёт в опасной среде — в ядовитой атмосфере или в пустоте, — этот пробой делает машину внутри @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#hazard]{слегка опасной}, пока пробой не заделают.</p><p><strong>Проверка управления</strong>: средняя (+0)</p>"
+          "description": "<p>Лобовая или бортовая броня машины (смотря куда пришлось попадание) понижается на [[/r 1d5]]. Если машина идёт в опасной среде — в ядовитой атмосфере или в пустоте, — этот пробой делает машину внутри @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#hazard]{слегка опасной}, пока пробой не заделают.</p><p><strong>Проверка управления</strong>: средняя (+0)</p>"
         },
         "GNrdfIZofm1KJBxh": {
           "description": "<p>Попадание приходится в крыло или двигатель. Скорость машины падает на одну ступень, а пилот получает −10 на любую проверку управления и на @UUID[JournalEntry.fpiV4F49v3gxmipn.JournalEntryPage.E6ehBMkpK3H21CpO#evasive-manoeuvres]{Хаотичное маневрирование}. Если при этом скорость упадёт ниже медленной, машина @UUID[JournalEntry.fpiV4F49v3gxmipn.JournalEntryPage.I4mFYORL990yUAjB#out-of-control]{теряет управляемость}.</p><p><strong>Проверка управления</strong>: трудная (−10)</p>"
         },
         "40yIDWfwiiKZaF7M": {
-          "description": "<p>Машина гибнет сразу и пылающим огненным шаром падает на землю. Все, кто находится внутри, получают [[/r 1d10 + 10 # Урон]] единиц урона в случайную зону попадания и состояние @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Горение}.</p>"
+          "description": "<p>Машина гибнет сразу и пылающим огненным шаром падает на землю. Все, кто находится внутри, получают [[/r 1d10 + 10 # Урон]] единиц урона в случайную зону попадания и состояние @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Горение}.</p>"
         }
       }
     },
@@ -908,7 +908,7 @@
           "description": "<p><strong>Пустотники главной палубы</strong>: Экипаж делает чёрную работу: таскает груз, снимает показания с манометров на трубопроводах и изредка передаёт вокс-сообщения в другие части корабля.</p>"
         },
         "bIJbFzqwHNddpGnF": {
-          "description": "<p><strong>Пилоты грузовиков</strong>: Трюм забит грузовыми контейнерами Департаменто Муниторум и @UUID[Compendium.navis-apexialis.navis-requisition-actors.Actor.SSqyPXq4qRxqxFFu]{лихтерами «Арв»}. Их пилоты делятся лхо-палочками и рекафом, наслаждаясь тишиной перед приходом в порт.</p>"
+          "description": "<p><strong>Пилоты грузовиков</strong>: Трюм забит грузовыми контейнерами Департаменто Муниторум и @UUID[Compendium.apex-imperialis.navis-requisition-actors.Actor.SSqyPXq4qRxqxFFu]{лихтерами «Арв»}. Их пилоты делятся лхо-палочками и рекафом, наслаждаясь тишиной перед приходом в порт.</p>"
         },
         "F3YWy67PYOJMmaPe": {
           "description": "<p><strong>Корабельная стража</strong>: В чистой флотской форме или в цветах капитана, они обходят палубы и обсуждают свой последний бой — кровавую оборону от вражеского абордажа.</p>"
@@ -952,7 +952,7 @@
           "description": "<p><strong>Слепящий варп-шторм</strong>: Варп кипит силой, и навигатор кричит, что не видит Астрономикона. Капитан приказывает срочно выходить в реальное пространство, и корабль всплывает неведомо где.</p>"
         },
         "MYreS6Ep87z9n8Zz": {
-          "description": "<p><strong>Явление демонов</strong>: Поле Геллера пробито, и по палубам хлещет искрящаяся психическая сила, что свивается и корёжится, обращаясь в @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.O9kga3ngGfFyIsze]{демонов}.</p>"
+          "description": "<p><strong>Явление демонов</strong>: Поле Геллера пробито, и по палубам хлещет искрящаяся психическая сила, что свивается и корёжится, обращаясь в @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.O9kga3ngGfFyIsze]{демонов}.</p>"
         },
         "T2Sf9dxF6kU4Pewo": {
           "description": "<p><strong>Одержимость экипажа</strong>: Волна демонической силы хлещет по кораблю, и демоны входят в умы кого-то из тех, кто на борту, обращая их тела в орудия исступлённого мятежа.</p>"
@@ -970,7 +970,7 @@
           "description": "<p><strong>Извивающийся ужас</strong>: Бесформенный ком из пастей и щупалец продавливается сквозь поле Геллера и присасывается к обшивке, лязгая по ней, пока поле медленно его убивает.</p>"
         },
         "sDJSGbLPpvdzKE1P": {
-          "description": "<p><strong>Психический всплеск</strong>: Поле Геллера трещит от всплеска психической силы: все псайкеры на борту должны пройти <strong>проверку Психического мастерства</strong> или бросить по таблице @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.9aSbu2mswOOI43J1]{«Психические феномены»}.</p>"
+          "description": "<p><strong>Психический всплеск</strong>: Поле Геллера трещит от всплеска психической силы: все псайкеры на борту должны пройти <strong>проверку Психического мастерства</strong> или бросить по таблице @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.9aSbu2mswOOI43J1]{«Психические феномены»}.</p>"
         },
         "bIJbFzqwHNddpGnF": {
           "description": "<p><strong>Скручивающаяся бесконечность</strong>: Ткань Варпа то сжимается, то вспучивается, укорачивая или растягивая путь: недельный переход укладывается в несколько часов или растягивается на месяцы.</p>"
@@ -1035,7 +1035,7 @@
           "description": "<p><strong>Пираты-люди</strong>: На сканерах появляются неопознанные суда. На запрос представиться отвечают ультиматумом: «Отдайте груз добром — или его возьмут силой».</p>"
         },
         "sDJSGbLPpvdzKE1P": {
-          "description": "<p><strong>Обитаемый мертвец</strong>: Дрейфующее повреждённое судно, хотя сканеры показывают внутри признаки жизни. В таких обычно гнездятся ксеносские ужасы вроде @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.KvLrPAQ0gmIWSvfX]{чистокровных генокрадов}.</p>"
+          "description": "<p><strong>Обитаемый мертвец</strong>: Дрейфующее повреждённое судно, хотя сканеры показывают внутри признаки жизни. В таких обычно гнездятся ксеносские ужасы вроде @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.KvLrPAQ0gmIWSvfX]{чистокровных генокрадов}.</p>"
         },
         "bIJbFzqwHNddpGnF": {
           "description": "<p><strong>Пост прослушивания</strong>: Небольшая пустотная станция следит за этим участком субсектора и за всем проходящим движением. Нежданные суда берут на абордаж и досматривают груз.</p>"

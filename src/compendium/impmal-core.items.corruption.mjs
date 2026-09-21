@@ -27,7 +27,7 @@ const REND = U(`${W}#rend-(rating)`, "Разрывающее (1)");
 const REACH = U(`${W}#reach`, "Длинное");
 const INFLICT_RESTRAINED = U(`${W}#inflict-(condition)`, "Состояние (Обездвиживание)");
 
-const I = "Compendium.navis-apexialis.navis-core-items.Item";
+const I = "Compendium.apex-imperialis.navis-core-items.Item";
 const PHOTO_VISORS = U(`${I}.NlduMbxJZrKejC9J`, "фотовизор");
 const PSYKER = U(`${I}.3GLGsYiH5LiKgYjE`, "Псайкер");
 const MINOR_POWER = U("JournalEntry.3mzwixuzgerGUpu1.JournalEntryPage.xoUemA7abdmB6DJ1#minor-psychic-powers", "малую психосилу");

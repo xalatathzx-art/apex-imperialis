@@ -18,7 +18,7 @@ import { enqueue } from "./mechanics/apply.js";
 import { WEAPON_TRAITS_WITH_VALUE, weaponDataFromProfile } from "./weapon-profile.js";
 import { IMPLANT_TYPE } from "./state.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 /**
  * A trait entry becomes {key} or {key, value} — the same mapping

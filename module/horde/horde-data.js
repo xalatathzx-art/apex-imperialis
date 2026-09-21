@@ -5,14 +5,14 @@
  * survive on NPCs that already exist in three paid compendia, and a flag is the
  * only store that needs nothing declared in the manifest and nothing migrated.
  *
- *   flags["navis-apexialis"].horde = { size, start }
+ *   flags["apex-imperialis"].horde = { size, start }
  *
  * `size` is the whole subsystem. `start` is shown on the sheet so the GM can see
  * how far a unit has been ground down; nothing reads it as a rule, because the
  * morale rule keys off the Tier falling, not off a fraction of the original.
  */
 
-export const MODULE_ID = "navis-apexialis";
+export const MODULE_ID = "apex-imperialis";
 export const FLAG = "horde";
 
 import { tierFor } from "./horde-rules.js";

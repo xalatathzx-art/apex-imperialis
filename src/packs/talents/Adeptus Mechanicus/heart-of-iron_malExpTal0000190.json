@@ -2,7 +2,7 @@
   "name": "Heart of Iron",
   "type": "talent",
   "_id": "malExpTal0000190",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">May use Intelligence for Social tests (instead Fellowship)</span></p><hr><p><span style=\"font-family: Arial\"><em>You may substitute your Intelligence Characteristic for any Social Test that would be based on Fellowship.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

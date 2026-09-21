@@ -2,7 +2,7 @@
   "name": "Ambassador Imperialis",
   "type": "talent",
   "_id": "malExpTal0000142",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">1/Encounter: reroll failed Social skill test with Xeno/Non-Imperials. Also reduce penalties of such interactions by 10</span></p><hr><p><span style=\"font-family: Arial\"><em>When you are making a Social Skill test when dealing with Xenos or other non-Imperial NPCs, reduce any penalty by 10. In addition, you may reroll a single failed Social Skill test per encounter when interacting with such an NPC.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

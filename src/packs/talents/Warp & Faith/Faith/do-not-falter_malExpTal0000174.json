@@ -2,7 +2,7 @@
   "name": "Do not Falter!",
   "type": "talent",
   "_id": "malExpTal0000174",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Test Presence (Leadership) to give allies within Medium range +2SL against Fear/Pinning/Mind-Altering Psychic Powers until end of your next turn</span></p><hr><p><span style=\"font-family: Arial\"><em>You may make a Presence (Leadership) Test to give allies within Medium Range an additional +2SL Bonus to Tests made to resist the effects of Fear, Pinning, and mind-altering psychic powers until the end of your next turn</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

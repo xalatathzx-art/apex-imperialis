@@ -26,16 +26,16 @@
    "ru": "Отыгрыш Ванда/ДеГуара"
   },
   "28": {
-   "en": "Having spent years moving in high and low circles in @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth}h, DeGuar has become a talented liar. He presents a facade of ignorance and subtle stupidity, letting his eagerness manifest in his demeanour as an indistinct ‘shakiness,' professing that he hasn’t been right since the explosion. At all times, he attempts to engender sympathy for his situation and tries to appear unthreatening to avoid suspicion.",
-   "ru": "Годами вращаясь и в высших, и в низших кругах @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{улья Рокарт}, ДеГуар стал искусным лжецом. Он изображает невежество и лёгкую недалёкость, а его нетерпение проявляется в неясной «дрожи» — мол, он сам не свой с того взрыва. Он всё время старается вызвать сочувствие к своему положению и выглядеть безобидным, чтобы не навлечь подозрений."
+   "en": "Having spent years moving in high and low circles in @UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth}h, DeGuar has become a talented liar. He presents a facade of ignorance and subtle stupidity, letting his eagerness manifest in his demeanour as an indistinct ‘shakiness,' professing that he hasn’t been right since the explosion. At all times, he attempts to engender sympathy for his situation and tries to appear unthreatening to avoid suspicion.",
+   "ru": "Годами вращаясь и в высших, и в низших кругах @UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{улья Рокарт}, ДеГуар стал искусным лжецом. Он изображает невежество и лёгкую недалёкость, а его нетерпение проявляется в неясной «дрожи» — мол, он сам не свой с того взрыва. Он всё время старается вызвать сочувствие к своему положению и выглядеть безобидным, чтобы не навлечь подозрений."
   },
   "34": {
    "en": "Kathor Navrak",
    "ru": "Катор Наврак"
   },
   "38": {
-   "en": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.kdhQ2SwO7Vm2rzUI description=top table=true style=width:70%;margin:auto;]{Kathor Navrak}",
-   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.kdhQ2SwO7Vm2rzUI description=top table=true style=width:70%;margin:auto;]{Катор Наврак}"
+   "en": "@Embed[Compendium.apex-imperialis.navis-voll-actors.Actor.kdhQ2SwO7Vm2rzUI description=top table=true style=width:70%;margin:auto;]{Kathor Navrak}",
+   "ru": "@Embed[Compendium.apex-imperialis.navis-voll-actors.Actor.kdhQ2SwO7Vm2rzUI description=top table=true style=width:70%;margin:auto;]{Катор Наврак}"
   },
   "44": {
    "en": "Roleplaying Kathor Navrak",
@@ -70,8 +70,8 @@
    "ru": "Силы скитариев"
   },
   "102": {
-   "en": "Pressured by the nobility of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth} to investigate the destruction of Manufactorum Vitus-II, while protecting the secrets of their rejuvenat formulas, the Magi of Forge Fane Incalcos-6 decided to deploy their maniple of Skitarii Vanguard to cut to the heart of the investigation. Efficient and cold, rather than overtly callous, the Vanguard, led by their Alpha, Landa-12, have never failed an operation they have been sent to resolve.",
-   "ru": "Под давлением знати @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта}, требующей расследовать гибель мануфакторума «Витус-II», и желая при этом сохранить тайны своих омолаживающих формул, магосы храма-кузни Инкалкос-6 решили бросить в дело свой манипул скитариев-авангардов, чтобы добраться до сути расследования. Расчётливые и холодные, но не показно жестокие, авангарды под началом своего альфы Ланды-12 ещё ни разу не провалили порученную им операцию."
+   "en": "Pressured by the nobility of @UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth} to investigate the destruction of Manufactorum Vitus-II, while protecting the secrets of their rejuvenat formulas, the Magi of Forge Fane Incalcos-6 decided to deploy their maniple of Skitarii Vanguard to cut to the heart of the investigation. Efficient and cold, rather than overtly callous, the Vanguard, led by their Alpha, Landa-12, have never failed an operation they have been sent to resolve.",
+   "ru": "Под давлением знати @UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта}, требующей расследовать гибель мануфакторума «Витус-II», и желая при этом сохранить тайны своих омолаживающих формул, магосы храма-кузни Инкалкос-6 решили бросить в дело свой манипул скитариев-авангардов, чтобы добраться до сути расследования. Расчётливые и холодные, но не показно жестокие, авангарды под началом своего альфы Ланды-12 ещё ни разу не провалили порученную им операцию."
   },
   "106": {
    "en": "Rarely deployed unless absolutely necessary, Skitarii Vanguard are infused with radiation, emitting a debilitating aura they themselves are inured to. This hardens them to fight in the most toxic war zones, including the destroyed Vitus-II, to defend the Forge Fane’s interests.",

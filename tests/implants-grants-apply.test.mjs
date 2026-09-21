@@ -89,7 +89,7 @@ test("a mounted weapon is equipped WITH force, or impmal un-equips it again", as
 test("the grant flag carries the implant id, the entry id and the content hash", async () => {
   sourceDocument = sourceWeapon([]);
   const data = await creationDataFor(implant, mount, []);
-  assert.equal(data.flags["navis-apexialis"].grantedBy, "imp1:e1:abc");
+  assert.equal(data.flags["apex-imperialis"].grantedBy, "imp1:e1:abc");
   assert.equal(data._id, undefined);
 });
 
@@ -102,7 +102,7 @@ test("a weapon grown into the limb is built from its profile, force-equipped too
   assert.equal(data.name, "Когти");
   assert.deepEqual(data.system.traits.list, [{ key: "rend", value: 2 }]);
   assert.deepEqual(data.system.equipped, { value: true, force: true });
-  assert.equal(data.flags["navis-apexialis"].grantedBy, "imp1:e2:def");
+  assert.equal(data.flags["apex-imperialis"].grantedBy, "imp1:e2:def");
 });
 
 test("a source that cannot be found builds nothing", async () => {

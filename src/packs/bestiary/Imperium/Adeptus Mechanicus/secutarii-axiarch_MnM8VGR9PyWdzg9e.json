@@ -3,7 +3,7 @@
   "name": "Secutarii Axiarch",
   "type": "npc",
   "_id": "MnM8VGR9PyWdzg9e",
-  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -205,7 +205,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+      "src": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -227,7 +227,7 @@
     "default": 0
   },
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }
@@ -245,7 +245,7 @@
       "name": "Heavily Augmented",
       "type": "trait",
       "_id": "UxpA6qF0wPYVxVUn",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -305,7 +305,7 @@
       "name": "Augmetic Heart",
       "type": "trait",
       "_id": "6D3jNujKF9Wc8p6f",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -365,7 +365,7 @@
       "name": "Augmetic Respiratory System",
       "type": "trait",
       "_id": "uBJAkN0BARqb9Imx",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -425,7 +425,7 @@
       "name": "Kyropatris Field Generator",
       "type": "trait",
       "_id": "G8mmMTipWnuC5JGy",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -485,7 +485,7 @@
       "name": "Titanguard",
       "type": "trait",
       "_id": "uaYW7csQp8zHNdtX",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -545,7 +545,7 @@
       "name": "Control Edicts",
       "type": "trait",
       "_id": "z6J3UcHhFQ1EToaA",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -605,7 +605,7 @@
       "name": "Noosphere Uplink",
       "type": "trait",
       "_id": "OZ7zTmBttVcjc8PC",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -665,7 +665,7 @@
       "name": "Radium Pistol",
       "type": "weapon",
       "_id": "C8DyUR9v73uMsmmz",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -742,7 +742,7 @@
       "name": "Power Sword",
       "type": "weapon",
       "_id": "Gb2VIcHCBGLJk7RF",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
       "system": {
         "notes": {
           "player": "",

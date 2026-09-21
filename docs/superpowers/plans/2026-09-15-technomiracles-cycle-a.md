@@ -4,7 +4,7 @@
 
 **Goal:** Build the machinery for DoomBC techno-miracles — a new item type, two Mechanicum resources, Processes with per-turn upkeep, a fully automated activation cycle, and a character-sheet tab that appears only when the actor carries one — shipping with no miracles in it.
 
-**Architecture:** The item is a module-declared sub-type (`navis-apexialis.technomiracle`), the pattern Species already uses. Damage and traits are not imitated but reused: the classes are lifted off `CONFIG.Item.dataModels.weapon` so a miracle's damage is literally a weapon's damage, and attacks resolve through impmal's own `WeaponTest`. Resources live in an actor flag because impmal's `character` schema cannot be extended without patching the system. The tab joins impmal's own conditional-tab mechanism rather than inventing one.
+**Architecture:** The item is a module-declared sub-type (`apex-imperialis.technomiracle`), the pattern Species already uses. Damage and traits are not imitated but reused: the classes are lifted off `CONFIG.Item.dataModels.weapon` so a miracle's damage is literally a weapon's damage, and attacks resolve through impmal's own `WeaponTest`. Resources live in an actor flag because impmal's `character` schema cannot be extended without patching the system. The tab joins impmal's own conditional-tab mechanism rather than inventing one.
 
 **Tech Stack:** Node 24 ESM (no dependencies, no package.json), Foundry v13, impmal 3.3.0, warhammer-lib, `node --test` for unit tests, the existing `tools/build.mjs` LevelDB pipeline.
 
@@ -12,7 +12,7 @@
 
 ## Global Constraints
 
-- **Module id** is `navis-apexialis`; all flags live under that key.
+- **Module id** is `apex-imperialis`; all flags live under that key.
 - **No version control.** This directory is not a git repository, so tasks end with a **Checkpoint** (run the tests and the checks) rather than a commit.
 - **No package.json and no dependencies.** Tests run on `node --test` with no argument — Node treats an explicit path as a module to load, so `node --test test/` fails. Do not add npm packages.
 - **Foundry must be closed** before running `tools/build.mjs` — LevelDB holds a lock on `packs/`.
@@ -20,7 +20,7 @@
 - **A change to `module.json` needs the world relaunched from Setup**, not a browser refresh. `documentTypes` is only read at world launch, so a sub-type registered mid-session exists for nothing.
 - **Sheet classes are registered at `ready`, never at `setup`.** Foundry fills `CONFIG.Item.sheetClasses` inside `initializeSheets()`, which runs after the setup hook.
 - **A schema field may not be called `source`.** warhammer-lib's base model defines `get source()` with no setter; a field of that name throws during model init and takes the whole item down.
-- **Every skin rule must be gated on `body.navis-skin`** — `tools/build-skin.mjs` fails the build otherwise — and the skin is a per-client setting, so nothing may be legible only with it on.
+- **Every skin rule must be gated on `body.apex-skin`** — `tools/build-skin.mjs` fails the build otherwise — and the skin is a per-client setting, so nothing may be legible only with it on.
 - **Skin layers are listed explicitly** in `tools/build-skin.mjs`; a new CSS file is silently ignored until it is named there.
 - **No miracles ship in this cycle.** The pack is registered and generated empty. Content is a later cycle.
 - **Damage and traits are impmal's own classes**, lifted at registration time from `CONFIG.Item.dataModels.weapon.schema.fields`.
@@ -235,7 +235,7 @@ Expected: PASS — these plus the tests already in `tests/`.
 **Interfaces:**
 - Consumes: nothing from Task 1.
 - Produces:
-  - `TECHNOMIRACLE_TYPE` — the string `"navis-apexialis.technomiracle"`
+  - `TECHNOMIRACLE_TYPE` — the string `"apex-imperialis.technomiracle"`
   - `defineTechnoMiracleModel() -> class|null`
 
 - [x] **Step 1: Write the model**
@@ -258,9 +258,9 @@ Create `module/technomiracles/model.js`:
  * puts on the global only once its own module has evaluated.
  */
 
-export const TECHNOMIRACLE_TYPE = "navis-apexialis.technomiracle";
+export const TECHNOMIRACLE_TYPE = "apex-imperialis.technomiracle";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 let TechnoMiracleModel = null;
 
@@ -507,7 +507,7 @@ import { fileURLToPath } from "node:url";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const SRC = path.join(ROOT, "src/packs/technomiracles");
-const TYPE = "navis-apexialis.technomiracle";
+const TYPE = "apex-imperialis.technomiracle";
 
 const problems = [];
 const fail = message => problems.push(message);
@@ -593,7 +593,7 @@ Expected: all pass.
 - Create: `module/technomiracles/sheet.js`
 - Create: `module/technomiracles/index.js`
 - Create: `templates/item/technomiracle.hbs`
-- Modify: `module/navis-apexialis.js` — import and call the two registrars
+- Modify: `module/apex-imperialis.js` — import and call the two registrars
 
 **Interfaces:**
 - Consumes: `TECHNOMIRACLE_TYPE`, `defineTechnoMiracleModel()` from Task 2.
@@ -620,7 +620,7 @@ Create `module/technomiracles/sheet.js`, built on impmal's own item sheet the wa
 
 import { TECHNOMIRACLE_TYPE } from "./model.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 const DETAILS_TEMPLATE = `modules/${MODULE_ID}/templates/item/technomiracle.hbs`;
 
 let sheet = null;
@@ -778,7 +778,7 @@ Create `module/technomiracles/index.js`:
 import { defineTechnoMiracleModel, TECHNOMIRACLE_TYPE } from "./model.js";
 import { defineTechnoMiracleSheet } from "./sheet.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 export { TECHNOMIRACLE_TYPE };
 
@@ -817,7 +817,7 @@ export function registerTechnoMiracleSheet() {
 function reportState() {
   if (!game.documentTypes?.Item?.includes(TECHNOMIRACLE_TYPE)) {
     const message =
-      "Navis Apexialis: the Techno-miracle item type is not registered with this world. Return to Setup and " +
+      "Apex Imperialis: the Techno-miracle item type is not registered with this world. Return to Setup and " +
       "launch the world again — enabling a module mid-session does not add its document types.";
     console.error(`${MODULE_ID} | ${message}`);
     ui.notifications.error(message, { permanent: true });
@@ -830,7 +830,7 @@ function reportState() {
 
 - [x] **Step 4: Call the registrars**
 
-In `module/navis-apexialis.js`, add the import beside the others:
+In `module/apex-imperialis.js`, add the import beside the others:
 
 ```js
 import { registerTechnoMiracleModel, registerTechnoMiracleSheet } from "./technomiracles/index.js";
@@ -930,7 +930,7 @@ Relaunch the world from Setup — `module.json` changed, and `documentTypes` is 
 In the console:
 
 ```js
-const item = await Item.create({ name: "проба", type: "navis-apexialis.technomiracle" });
+const item = await Item.create({ name: "проба", type: "apex-imperialis.technomiracle" });
 console.log(item.type, item.system.cost, item.system.damage);
 await item.sheet.render(true);
 ```
@@ -990,7 +990,7 @@ Create `module/technomiracles/resources.js`:
 
 import { canAfford, defaultCapacity, restoreCognition, spend } from "./rules.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 const FLAG = "mechanicum";
 
 /** The block as it should be read, seeded from the actor if it is not there yet. */
@@ -1052,7 +1052,7 @@ Create `src/skin/81-technomiracles.css`. The Cognition bar copies the constructi
    a list of numbers and buttons.
    ══════════════════════════════════════════════════════════════════════ */
 
-body.navis-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis-techno-pools {
+body.apex-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis-techno-pools {
   display: flex;
   align-items: center;
   gap: 8px;
@@ -1060,7 +1060,7 @@ body.navis-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis
 }
 
 /* The vessel. */
-body.navis-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis-techno-bar {
+body.apex-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis-techno-bar {
   position: relative;
   flex: 1;
   height: 26px;
@@ -1073,7 +1073,7 @@ body.navis-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis
 }
 
 /* The charge. */
-body.navis-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis-techno-bar > .fill {
+body.apex-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis-techno-bar > .fill {
   position: relative;
   height: 100%;
   max-width: 100%;
@@ -1089,7 +1089,7 @@ body.navis-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis
 }
 
 /* A sheen crossing the charge every few seconds. */
-body.navis-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis-techno-bar > .fill::before {
+body.apex-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis-techno-bar > .fill::before {
   content: "";
   position: absolute;
   top: 0;
@@ -1101,11 +1101,11 @@ body.navis-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis
   pointer-events: none;
 }
 
-body.navis-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis-techno-processes {
+body.apex-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis-techno-processes {
   margin: 8px 0 0;
 }
 
-body.navis-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis-techno-processes > li {
+body.apex-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis-techno-processes > li {
   display: flex;
   align-items: center;
   gap: 8px;
@@ -1114,8 +1114,8 @@ body.navis-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis
 }
 
 @media (prefers-reduced-motion: reduce) {
-  body.navis-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis-techno-bar > .fill,
-  body.navis-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis-techno-bar > .fill::before {
+  body.apex-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis-techno-bar > .fill,
+  body.apex-skin .application.impmal.actor .tab[data-tab="technomiracles"] .navis-techno-bar > .fill::before {
     animation: none !important;
   }
 }
@@ -1134,11 +1134,11 @@ The `navis-warp-flow` and `navis-warp-sheen` keyframes are declared in `75-dialo
 ```
 
 Run: `node tools/build-skin.mjs`
-Expected: it rebuilds `styles/navis-skin.css` with no ungated-rule errors, and `navis-techno-bar` appears in the output.
+Expected: it rebuilds `styles/apex-skin.css` with no ungated-rule errors, and `navis-techno-bar` appears in the output.
 
 - [x] **Step 4: Checkpoint**
 
-Run: `node --test && node tools/build-skin.mjs && grep -c "navis-techno-bar" styles/navis-skin.css`
+Run: `node --test && node tools/build-skin.mjs && grep -c "navis-techno-bar" styles/apex-skin.css`
 Expected: tests pass, the skin builds, and the grep reports at least 1.
 
 ---
@@ -1175,7 +1175,7 @@ Create `module/technomiracles/processes.js`:
 import { applyUpkeep, doctrineConflict } from "./rules.js";
 import { readBlock, restoreAtTurnStart, writeBlock } from "./resources.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 /** The compact record a Process keeps — enough to bill it and to show it. */
 const processOf = item => ({
@@ -1336,7 +1336,7 @@ import { canAfford, resolveCost } from "./rules.js";
 import { readBlock, spendFrom } from "./resources.js";
 import { addProcess } from "./processes.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 /** Ask for X when the book leaves the amount to the priest. */
 async function askForX(item) {
@@ -1471,7 +1471,7 @@ In the running game, on an actor:
 
 ```js
 const probe = await Item.create({
-  name: "проба атаки", type: "navis-apexialis.technomiracle",
+  name: "проба атаки", type: "apex-imperialis.technomiracle",
   system: { attackType: "ranged", penetration: 2, damage: { base: "5", characteristic: "int" } }
 }, { parent: actor });
 
@@ -1547,7 +1547,7 @@ import { readBlock } from "./resources.js";
 import { dropProcess } from "./processes.js";
 import { activateMiracle } from "./activate.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 const TAB = "technomiracles";
 const TEMPLATE = `modules/${MODULE_ID}/templates/actor/technomiracles.hbs`;
 
@@ -1767,18 +1767,18 @@ In the console. These are fixtures in the world, not pack content:
 const actor = await Actor.create({ name: "ТЕХНОЖРЕЦ ПРОБА", type: "character" });
 
 const sustained = await Item.create({
-  name: "Проба: Процесс", type: "navis-apexialis.technomiracle",
+  name: "Проба: Процесс", type: "apex-imperialis.technomiracle",
   system: { cost: { cognition: "1", energy: "0" }, process: { sustains: true, cognition: 1, unique: true },
             types: { doctrine: true }, test: { auto: true } }
 }, { parent: actor });
 
 const attacking = await Item.create({
-  name: "Проба: Атака", type: "navis-apexialis.technomiracle",
+  name: "Проба: Атака", type: "apex-imperialis.technomiracle",
   system: { cost: { cognition: "1", energy: "1" }, test: { auto: false, modifier: 0 },
             attackType: "ranged", penetration: 2, damage: { base: "5", characteristic: "int" } }
 }, { parent: actor });
 
-console.log(actor.itemTypes["navis-apexialis.technomiracle"].length);
+console.log(actor.itemTypes["apex-imperialis.technomiracle"].length);
 ```
 
 Expected: `2`.

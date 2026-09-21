@@ -3,7 +3,7 @@
   "name": "Skitarii Vanguard",
   "type": "npc",
   "_id": "KygWHyF8FYnGWq5N",
-  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -205,7 +205,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+      "src": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -227,7 +227,7 @@
     "default": 0
   },
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }
@@ -245,7 +245,7 @@
       "name": "Heavily Augmented",
       "type": "trait",
       "_id": "SsZp2sOw23A4VZoJ",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -305,7 +305,7 @@
       "name": "Augmetic Heart",
       "type": "trait",
       "_id": "xeYnICyVYM1C1Rr2",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -365,7 +365,7 @@
       "name": "Augmetic Respiratory System",
       "type": "trait",
       "_id": "kMm7s7Otc8qER9VR",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -425,7 +425,7 @@
       "name": "Rad Scourge",
       "type": "trait",
       "_id": "HGWZsUp9KUWrOtIO",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -485,7 +485,7 @@
       "name": "Radium Carbine",
       "type": "weapon",
       "_id": "1Gr47PJcHRmKF3Pz",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",

@@ -3,7 +3,7 @@
   "name": "Serberys Raider",
   "type": "npc",
   "_id": "91DwM4Ye8gR1vlKH",
-  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -205,7 +205,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+      "src": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -227,7 +227,7 @@
     "default": 0
   },
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }
@@ -245,7 +245,7 @@
       "name": "Heavily Augmented",
       "type": "trait",
       "_id": "rBmDckvpJsVangcP",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -305,7 +305,7 @@
       "name": "Augmetic Heart",
       "type": "trait",
       "_id": "4BLLCfdUh3RqfkGP",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -365,7 +365,7 @@
       "name": "Augmetic Respiratory System",
       "type": "trait",
       "_id": "8fHzJ4WVGSsxaEnT",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -425,7 +425,7 @@
       "name": "Mounted Warrior",
       "type": "trait",
       "_id": "itmTOu0SWn8CB8kj",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -485,7 +485,7 @@
       "name": "Galvanic Carbine",
       "type": "weapon",
       "_id": "TxStb0Twcy8w0hta",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -562,7 +562,7 @@
       "name": "Power Saber",
       "type": "weapon",
       "_id": "BJV1hAtlyvW9Nxdg",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
       "system": {
         "notes": {
           "player": "",

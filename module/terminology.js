@@ -34,7 +34,7 @@
 
 import { RU_TERMS } from "../lang/ru-terms.mjs";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 const SETTING = "bookTerminology";
 
 /** impmal's config as it was before anything localized it: values are i18n keys. */

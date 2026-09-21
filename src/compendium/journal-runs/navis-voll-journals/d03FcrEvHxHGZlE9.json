@@ -18,8 +18,8 @@
    "ru": "Засада Предвестника"
   },
   "20": {
-   "en": "As the weary characters make their way back towards the Maglev Nexus through the crowded habs and walkways of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth's} Lower Hive, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.47e5e8pz6cKrei1w]{the Harbinger} and a particularly fanatic group of his @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BNzIELnXHo5A5LGP]{Vertexis} followers attempt to end the characters’ sinful existences and stop their blasphemous investigation into their righteous activities via an ambush.",
-   "ru": "Пока усталые персонажи пробираются обратно к маглев-узлу через переполненные жилые блоки и переходы нижнего улья @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта}, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.47e5e8pz6cKrei1w]{Предвестник} и особо фанатичная группа его последователей из @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BNzIELnXHo5A5LGP]{Вертексиса} пытаются засадой оборвать греховное существование персонажей и остановить их богохульное расследование своей праведной деятельности."
+   "en": "As the weary characters make their way back towards the Maglev Nexus through the crowded habs and walkways of @UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth's} Lower Hive, @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.47e5e8pz6cKrei1w]{the Harbinger} and a particularly fanatic group of his @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.BNzIELnXHo5A5LGP]{Vertexis} followers attempt to end the characters’ sinful existences and stop their blasphemous investigation into their righteous activities via an ambush.",
+   "ru": "Пока усталые персонажи пробираются обратно к маглев-узлу через переполненные жилые блоки и переходы нижнего улья @UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта}, @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.47e5e8pz6cKrei1w]{Предвестник} и особо фанатичная группа его последователей из @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.BNzIELnXHo5A5LGP]{Вертексиса} пытаются засадой оборвать греховное существование персонажей и остановить их богохульное расследование своей праведной деятельности."
   },
   "24": {
    "en": "Describe the habway the characters are navigating along, noting the flowing crowds that all appear functionally identical, all dressed in almost the same grey and brown utilitarian garb. The drainage canal flows beside them, and the sharp calls of commissary vendors holding aloft metal sticks spiked with questionable meats from the risen areas above. There is a continual murmur of the horde and the scraping, gritty shuffle of countless muddy feet. The lumens flicker, and the shadows are long. ",
@@ -42,8 +42,8 @@
    "ru": "Чутья (Окружение)"
   },
   "36": {
-   "en": " Test to see if they notice the upcoming ambush and whether they are @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.YEIzXenjBxa3GlTQ#surprise]{Surprised}:",
-   "ru": ", чтобы узнать, заметят ли они надвигающуюся засаду и не будут ли @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.YEIzXenjBxa3GlTQ#surprise]{застигнуты врасплох}:"
+   "en": " Test to see if they notice the upcoming ambush and whether they are @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.YEIzXenjBxa3GlTQ#surprise]{Surprised}:",
+   "ru": ", чтобы узнать, заметят ли они надвигающуюся засаду и не будут ли @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.YEIzXenjBxa3GlTQ#surprise]{застигнуты врасплох}:"
   },
   "46": {
    "en": "Impressive Success or better (+3 or more SL)",
@@ -94,8 +94,8 @@
    "ru": " перед мрачной фигурой."
   },
   "100": {
-   "en": "There are a number of @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BNzIELnXHo5A5LGP]{Vertexis Cultists}, equal to the number of characters plus 2, in addition to the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.47e5e8pz6cKrei1w]{Harbinger}. If the characters failed badly in trying to learn more about the Vertexis, add two more ",
-   "ru": "Помимо @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.47e5e8pz6cKrei1w]{Предвестника}, здесь есть @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BNzIELnXHo5A5LGP]{культисты Вертексис} числом на 2 больше, чем персонажей. Если персонажи сильно провалили попытки больше узнать о Вертексисе, добавьте в стаю ещё двух "
+   "en": "There are a number of @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.BNzIELnXHo5A5LGP]{Vertexis Cultists}, equal to the number of characters plus 2, in addition to the @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.47e5e8pz6cKrei1w]{Harbinger}. If the characters failed badly in trying to learn more about the Vertexis, add two more ",
+   "ru": "Помимо @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.47e5e8pz6cKrei1w]{Предвестника}, здесь есть @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.BNzIELnXHo5A5LGP]{культисты Вертексис} числом на 2 больше, чем персонажей. Если персонажи сильно провалили попытки больше узнать о Вертексисе, добавьте в стаю ещё двух "
   },
   "102": {
    "en": "Vertexis Cultists",
@@ -218,8 +218,8 @@
    "ru": "Уловки и тактика"
   },
   "190": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Adeptus Ministorum} characters gain Advantage if they forcefully confront the Vertexis Cultists with a ",
-   "ru": "Персонажи из @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Адептус Министорум} получают преимущество, если решительно противостоят культистам Вертексис проверкой "
+   "en": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Adeptus Ministorum} characters gain Advantage if they forcefully confront the Vertexis Cultists with a ",
+   "ru": "Персонажи из @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Адептус Министорум} получают преимущество, если решительно противостоят культистам Вертексис проверкой "
   },
   "192": {
    "en": "Presence (Intimidation)",
@@ -254,8 +254,8 @@
    "ru": "силовики мясной гильдии"
   },
   "220": {
-   "en": " near to hand who surpass the odds (use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.gQxTENJSdTQTVfDM]{Enforcer} stat-block to represent them). If not, after one or more characters have gone down, the Mercator Carnem shows its hand, and their enforcers suddenly arrive to deal with the Harbinger. Morlay thanks the characters for their efforts in ‘",
-   "ru": ", способные переломить ход дела (используйте для них профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.gQxTENJSdTQTVfDM]{силовика}). Если нет, после того как один или несколько персонажей падут, Меркатор Карнем раскрывает карты, и её силовики внезапно прибывают, чтобы разобраться с Предвестником. Морлей благодарит персонажей за усилия по «"
+   "en": " near to hand who surpass the odds (use the @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.gQxTENJSdTQTVfDM]{Enforcer} stat-block to represent them). If not, after one or more characters have gone down, the Mercator Carnem shows its hand, and their enforcers suddenly arrive to deal with the Harbinger. Morlay thanks the characters for their efforts in ‘",
+   "ru": ", способные переломить ход дела (используйте для них профиль @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.gQxTENJSdTQTVfDM]{силовика}). Если нет, после того как один или несколько персонажей падут, Меркатор Карнем раскрывает карты, и её силовики внезапно прибывают, чтобы разобраться с Предвестником. Морлей благодарит персонажей за усилия по «"
   },
   "222": {
    "en": "routing out this mendacious scourge",

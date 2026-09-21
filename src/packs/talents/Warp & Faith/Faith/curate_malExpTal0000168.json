@@ -2,7 +2,7 @@
   "name": "Curate",
   "type": "talent",
   "_id": "malExpTal0000168",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">May pass on FP gained from Divine Vengeance to an ally within Medium range. Is lost if not used after combat</span></p><hr><p><span style=\"font-family: Arial\"><em>When you would gain a Fate Point from the Divine Vengeance talent, you may give it to any other ally (aside from yourself) within Medium Range. This temporary Fate Point may be spent as normal, but may not be burned. If it is not spent by the end of the encounter, it is lost. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

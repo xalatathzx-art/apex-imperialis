@@ -58,8 +58,8 @@
    "ru": "превосходства. Если\nон не встретит этого врага в такой"
   },
   "68": {
-   "en": "If the Test fails at −3 SL or more, the character’s informants are captured by a faction’s counter-intelligence operatives and interrogated until their paymaster is revealed. At the GM’s discretion, the character reduces their Influence by 1 with the relevant faction instead of increasing it, or the slip-up negatively affects their party’s @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Subtlety}.",
-   "ru": "срок, то немедленно\nполучитодноочко превосходства.Этотбонуспропадёт,\nесли враг приспособиться к тактике персонажа или\nсам герой утратит специальное снаряжение, на которое\nполагался.\nРазвитие агентурной сети\nВы расширяете сферу своего влияния, вербуя новых\nагентов и получая доклады от старых. Говорят, что у\nСвятых Ордосов везде есть глаза, но на деле\nинквизиторы не так всеведущи, какхотели бы, или как\nверят @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Subtlety}"
+   "en": "If the Test fails at −3 SL or more, the character’s informants are captured by a faction’s counter-intelligence operatives and interrogated until their paymaster is revealed. At the GM’s discretion, the character reduces their Influence by 1 with the relevant faction instead of increasing it, or the slip-up negatively affects their party’s @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Subtlety}.",
+   "ru": "срок, то немедленно\nполучитодноочко превосходства.Этотбонуспропадёт,\nесли враг приспособиться к тактике персонажа или\nсам герой утратит специальное снаряжение, на которое\nполагался.\nРазвитие агентурной сети\nВы расширяете сферу своего влияния, вербуя новых\nагентов и получая доклады от старых. Говорят, что у\nСвятых Ордосов везде есть глаза, но на деле\nинквизиторы не так всеведущи, какхотели бы, или как\nверят @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Subtlety}"
   },
   "72": {
    "en": "Erase Truth",
@@ -114,8 +114,8 @@
    "ru": "определяет, насколько суровыми будут\nпринятые им меры зашиты. За каждое очко, на которое\nперсонаж понизил максимум ран, он получает одну\nпопытку аннулировать воздействие на себя источника\nпорчи. При контакте с источником порчи он может\nпредпринять проверку Дисциплины (Самообладание)\nили Стойкости (Боль). В случае успеха скверна не\nсумеет пустить в нём корни. Сложность проверки\nзависит от"
   },
   "116": {
-   "en": "During this Endeavor, the character can change one of the Familiar’s Combat or Preservation @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.UHAAGHOTknUiUTUj.JournalEntryPage.YTjT0gYfJiYRSTIZ]{Instincts}. They may also choose one of their Familiars. If that Familiar is a Construct, they make a ",
-   "ru": "источника: малый источник требует средней\n(+0) проверки, средний источник – трудной (-10)\nпроверки, а серьёзный источник – очень сложной (-30)\nпроверки.\nУничтожение правды\nВы ликвидируете оставшиеся следы ереси, порчи и\nвмешательства Инквизиции, чтобы подданные\nИмператора и дальше @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.UHAAGHOTknUiUTUj.JournalEntryPage.YTjT0gYfJiYRSTIZ]{Instincts}"
+   "en": "During this Endeavor, the character can change one of the Familiar’s Combat or Preservation @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.UHAAGHOTknUiUTUj.JournalEntryPage.YTjT0gYfJiYRSTIZ]{Instincts}. They may also choose one of their Familiars. If that Familiar is a Construct, they make a ",
+   "ru": "источника: малый источник требует средней\n(+0) проверки, средний источник – трудной (-10)\nпроверки, а серьёзный источник – очень сложной (-30)\nпроверки.\nУничтожение правды\nВы ликвидируете оставшиеся следы ереси, порчи и\nвмешательства Инквизиции, чтобы подданные\nИмператора и дальше @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.UHAAGHOTknUiUTUj.JournalEntryPage.YTjT0gYfJiYRSTIZ]{Instincts}"
   },
   "118": {
    "en": "Challenging (+0) Tech (Augmetics)",
@@ -130,8 +130,8 @@
    "ru": "терпит\nсоперников своей"
   },
   "124": {
-   "en": " Test. For each SL Achieved, the Familiar gains 10 XP it can spend on Advances and Talents. For complete information on Familiars and how to use them, see @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.UHAAGHOTknUiUTUj.JournalEntryPage.BWMw4bzQxBwJjUIm]{Chapter VI: Familiars}.",
-   "ru": "власти. Никому во всём Империуме\nне открыто столько, сколько Святым Ордосам, да и\nсамо знание об этой организации опасно и запретно.\nЗакончив расследование, аколиты могут попытаться\nобезопасить себя и свой труд, уничтожив касающиеся\nих материалы, отредактировав @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.UHAAGHOTknUiUTUj.JournalEntryPage.BWMw4bzQxBwJjUIm]{Chapter VI: Familiars}"
+   "en": " Test. For each SL Achieved, the Familiar gains 10 XP it can spend on Advances and Talents. For complete information on Familiars and how to use them, see @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.UHAAGHOTknUiUTUj.JournalEntryPage.BWMw4bzQxBwJjUIm]{Chapter VI: Familiars}.",
+   "ru": "власти. Никому во всём Империуме\nне открыто столько, сколько Святым Ордосам, да и\nсамо знание об этой организации опасно и запретно.\nЗакончив расследование, аколиты могут попытаться\nобезопасить себя и свой труд, уничтожив касающиеся\nих материалы, отредактировав @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.UHAAGHOTknUiUTUj.JournalEntryPage.BWMw4bzQxBwJjUIm]{Chapter VI: Familiars}"
   },
   "128": {
    "en": "Fortify Sanctity",
@@ -206,8 +206,8 @@
    "ru": "срочные дела, и не\nпотерпят"
   },
   "182": {
-   "en": " Test, or any other the GM deems appropriate relating to aspects of the investigation. For each positive SL achieved, the GM confirms a link between two clues, highlights a clue the characters may have overlooked, or reveals a new clue they missed altogether. If multiple characters choose to undertake this Endeavour simultaneously, they can @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#help]{help} each other make the Test.",
-   "ru": "тех, кто отнимает его.\nЧтобы самому запросить и получить аудиенцию у\nинквизитора, потребуется средняя (+0) проверка\nВзаимопонимания (Сбор сведений). Для встречи с\nдознавателем или недружественным вам инквизитором\nпотребуется аналогичная сложная (-20) проверка. В\nслучае провала вас отчитывают за то, что вы без толку\nтратите время вышестоящих.\nПомните, что успех означает лишь то, что вы\nполучаете полезный, но краткий доступ к @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#help]{help}"
+   "en": " Test, or any other the GM deems appropriate relating to aspects of the investigation. For each positive SL achieved, the GM confirms a link between two clues, highlights a clue the characters may have overlooked, or reveals a new clue they missed altogether. If multiple characters choose to undertake this Endeavour simultaneously, they can @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#help]{help} each other make the Test.",
+   "ru": "тех, кто отнимает его.\nЧтобы самому запросить и получить аудиенцию у\nинквизитора, потребуется средняя (+0) проверка\nВзаимопонимания (Сбор сведений). Для встречи с\nдознавателем или недружественным вам инквизитором\nпотребуется аналогичная сложная (-20) проверка. В\nслучае провала вас отчитывают за то, что вы без толку\nтратите время вышестоящих.\nПомните, что успех означает лишь то, что вы\nполучаете полезный, но краткий доступ к @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#help]{help}"
   },
   "186": {
    "en": "Mental Sanitisation",
@@ -218,8 +218,8 @@
    "ru": "Инквизиции. Игрок, чей персонаж предаётся\nэтому занятию, может задать ведущему Х вопросов,\nгде Х – это его показатель влияния на Инквизицию.\nЕсли ведущий сочтёт, что собеседник может обладать\nнужным знанием, а у персонажа достаточно высокий\nдоступ, он выдаст те сведения, что считает уместными.\nОмоложение\nТребования: чтобы воспользоваться этим занятием,\nнеобходимо потратить 5000 соляров или обладать\nвлиянием +3 или выше на Инквизицию или иную\nподходящую службу.\nВы принимаете курс медицинских препаратов, что\nпродлевают срок жизни и вызывают кратковременный\nвсплеск жизненных сил. Если вы достаточно богаты\nили влиятельны, чтобы"
   },
   "194": {
-   "en": "The character removes 1 point of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.PuzopCeKzYgcYAwh]{Corruption}, then makes a ",
-   "ru": "позволить себе такое лечение,\nадепты-омолодители обеспечат вам несколько лишних\nдесятилетий или даже веков. Множество диковинных\nалхимических препаратов @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.PuzopCeKzYgcYAwh]{Corruption}"
+   "en": "The character removes 1 point of @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.PuzopCeKzYgcYAwh]{Corruption}, then makes a ",
+   "ru": "позволить себе такое лечение,\nадепты-омолодители обеспечат вам несколько лишних\nдесятилетий или даже веков. Множество диковинных\nалхимических препаратов @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.PuzopCeKzYgcYAwh]{Corruption}"
   },
   "196": {
    "en": "Challenging (+0) Fortitude (Pain)",

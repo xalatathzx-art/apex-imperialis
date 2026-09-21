@@ -19,7 +19,7 @@
  * есть свой тип документа, и правило велит брать именно его.
  */
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 const FROM_FLAG = "processEffect";
 
 /** Эффекты, которые это чудо надевает на время Процесса. */

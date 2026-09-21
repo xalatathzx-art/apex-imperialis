@@ -3,7 +3,7 @@
   "name": "Traitor Legionnaire",
   "type": "npc",
   "_id": "Ok1dZp5fP32sU8ke",
-  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+      "src": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -228,7 +228,7 @@
     "default": 0
   },
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }
@@ -246,7 +246,7 @@
       "name": "Betcher's Gland",
       "type": "trait",
       "_id": "kYKitX35VAymE5GK",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Catalapsean Node",
       "type": "trait",
       "_id": "h5VDAwyGuu3fnXqM",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Preomnor & Mucranoid",
       "type": "trait",
       "_id": "PN7MQjHNnBPhwIsw",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -426,7 +426,7 @@
       "name": "Larraman's Organ",
       "type": "trait",
       "_id": "4xjrBpCzqdNrIJzx",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -486,7 +486,7 @@
       "name": "Lyman's Ear",
       "type": "trait",
       "_id": "luaegOfRn6oi8B5S",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -546,7 +546,7 @@
       "name": "Multi-Lung",
       "type": "trait",
       "_id": "nrX0dbnxynfftOni",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -606,7 +606,7 @@
       "name": "Neuroglottis",
       "type": "trait",
       "_id": "ApsoemFjUfsVFwwZ",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -666,7 +666,7 @@
       "name": "Occulobe",
       "type": "trait",
       "_id": "cGI1HzTcUJP4q4wQ",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -726,7 +726,7 @@
       "name": "Oolitic Kidney",
       "type": "trait",
       "_id": "nGrBFUFLL4z4ytZs",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -786,7 +786,7 @@
       "name": "Sus-an Membrane",
       "type": "trait",
       "_id": "X6LqWzj1rmCpQrXI",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -846,7 +846,7 @@
       "name": "Slave to Darkness",
       "type": "trait",
       "_id": "Llbqoe8gIrB4sMUl",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -906,7 +906,7 @@
       "name": "Source of Corruption",
       "type": "trait",
       "_id": "24gICwfWnxW108JY",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -966,7 +966,7 @@
       "name": "Transhuman Dread",
       "type": "trait",
       "_id": "VziqbE3gERWXU3fX",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -1026,7 +1026,7 @@
       "name": "Boltgun",
       "type": "weapon",
       "_id": "28YyLQlepJ3yMUBE",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -1110,7 +1110,7 @@
       "name": "Bolt Pistol",
       "type": "weapon",
       "_id": "EISGwnclk21GNbwG",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -1193,7 +1193,7 @@
       "name": "Astartes Combat Knife",
       "type": "weapon",
       "_id": "ng5CELlOg53xZYas",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -1264,7 +1264,7 @@
       "name": "Might",
       "type": "specialisation",
       "_id": "FD1CBsBhkiRSqiHG",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -1293,7 +1293,7 @@
       "name": "Running",
       "type": "specialisation",
       "_id": "mbuVsAa0uTX7NSsH",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -1322,7 +1322,7 @@
       "name": "Smell",
       "type": "specialisation",
       "_id": "Nc3QLpyGgW1zRgdR",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -1351,7 +1351,7 @@
       "name": "Composure",
       "type": "specialisation",
       "_id": "MNFaFA5PGvRxYlSW",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -1380,7 +1380,7 @@
       "name": "Fear",
       "type": "specialisation",
       "_id": "78HUqCaMlQOD7Ymo",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -1409,7 +1409,7 @@
       "name": "Pain",
       "type": "specialisation",
       "_id": "YFSg7a06lPwsdwm7",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -1438,7 +1438,7 @@
       "name": "Endurance",
       "type": "specialisation",
       "_id": "oZqjoSRAIywcXNVE",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -1467,7 +1467,7 @@
       "name": "High Gothic",
       "type": "specialisation",
       "_id": "suLIz9NxMUtRXmez",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -1496,7 +1496,7 @@
       "name": "Forbidden - Astartes Battle Sign",
       "type": "specialisation",
       "_id": "rNeXNopxMxsw8Xyi",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -1525,7 +1525,7 @@
       "name": "Forbidden - Astartes",
       "type": "specialisation",
       "_id": "KABkV2D8mDsoWiKA",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -1554,7 +1554,7 @@
       "name": "Dodge",
       "type": "specialisation",
       "_id": "LsYnzLrCku9yeDHf",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

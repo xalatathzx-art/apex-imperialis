@@ -2,7 +2,7 @@
   "name": "Rad-Saturated",
   "type": "talent",
   "_id": "malExpTal0000194",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">When Engaged: enemy must test Fortitude (Encurance) -10 or suffer Irradicated</span></p><hr><p><span style=\"font-family: Arial\"><em>You have exposed yourself to semi-lethal quantities of radiation, sacrificing your lifespan to better serve as the Omnissiah’s deadly assailant. Whenever a creature enters Engagement with you or starts a turn Engaged with you, they must make a Difficult (-10) Fortitude (Endurance) Test or suffer the Irradiated Condition (Weapons of the Mechanicus pg. 2) </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

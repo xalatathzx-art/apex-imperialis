@@ -3,7 +3,7 @@
   "name": "Genestealer Patriarch",
   "type": "npc",
   "_id": "0PoMQDBqgH3v3F3a",
-  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+      "src": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -228,7 +228,7 @@
     "default": 0
   },
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }
@@ -246,7 +246,7 @@
       "name": "Ambush Predator",
       "type": "trait",
       "_id": "zeTrdggOF3rLxVk2",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Cosmic Horror",
       "type": "trait",
       "_id": "mG7T31nhH1sBMKuu",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Familiars",
       "type": "trait",
       "_id": "ljGYsVoDLDAKwoSU",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -426,7 +426,7 @@
       "name": "Genestealer Kiss",
       "type": "trait",
       "_id": "eFlMdraJpBqNbAEX",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -486,7 +486,7 @@
       "name": "Hive Mind",
       "type": "trait",
       "_id": "1OHncirUXssbJWWD",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -546,7 +546,7 @@
       "name": "Psychic Powers",
       "type": "trait",
       "_id": "4P0KQAo5JjtHfiqo",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -606,7 +606,7 @@
       "name": "Telepath",
       "type": "trait",
       "_id": "uO9yuuAcIYk7Xiib",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -666,7 +666,7 @@
       "name": "Warp Threshold",
       "type": "trait",
       "_id": "AfRE04ujcgOLKWgt",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -726,7 +726,7 @@
       "name": "Claws and Talons",
       "type": "weapon",
       "_id": "jZXv7uyEQc8ag4Wd",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",

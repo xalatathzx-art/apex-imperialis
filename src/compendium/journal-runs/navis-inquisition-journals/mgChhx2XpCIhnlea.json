@@ -50,7 +50,7 @@
    "ru": ""
   },
   "66": {
-   "en": "Stat-blocks related to each threat are included with their entry, in the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.sNyhdSHdHgyUGSgi]{Appendix}, or found in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ]{Bestiary}. Each Threat’s area of operations has been designed to be flexible, so you may move them to wherever you wish to suit your campaign simply by changing the named locations mentioned throughout their text.",
+   "en": "Stat-blocks related to each threat are included with their entry, in the @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.sNyhdSHdHgyUGSgi]{Appendix}, or found in the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ]{Bestiary}. Each Threat’s area of operations has been designed to be flexible, so you may move them to wherever you wish to suit your campaign simply by changing the named locations mentioned throughout their text.",
    "ru": ""
   },
   "72": {
@@ -126,15 +126,15 @@
    "ru": ""
   },
   "212": {
-   "en": "It is best to begin seeding rumours of these Threats into your ongoing adventures prior to their actual apperance, building their presence in the background. These rumours could be mentioned by the characters' @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.2TukBjlkS5RG5Qka.JournalEntryPage.cRcDNREGRQvZvuPl]{Contacts} or seeded during their downtime as background chatter. The Inquisition receives requests for aid and investigation from every corner of the Imperium, and rumours of these Threats may appear as part of this near-endless stream of data, attached to intelligence reports or merely mentioned in passing by other acolytes. Regardless, it will always be more satisfying for players to encounter a threat that has been seeded to some degree before they ultimately appear. This will also help to make your campaign feel smoother and more well-connected.",
+   "en": "It is best to begin seeding rumours of these Threats into your ongoing adventures prior to their actual apperance, building their presence in the background. These rumours could be mentioned by the characters' @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.2TukBjlkS5RG5Qka.JournalEntryPage.cRcDNREGRQvZvuPl]{Contacts} or seeded during their downtime as background chatter. The Inquisition receives requests for aid and investigation from every corner of the Imperium, and rumours of these Threats may appear as part of this near-endless stream of data, attached to intelligence reports or merely mentioned in passing by other acolytes. Regardless, it will always be more satisfying for players to encounter a threat that has been seeded to some degree before they ultimately appear. This will also help to make your campaign feel smoother and more well-connected.",
    "ru": ""
   },
   "216": {
-   "en": "When the time is right, you may reveal the Threat as directly as you wish. They may emerge as part of another adventure, a threat that complicates the primary investigation. Alternatively, the characters’ Patron may simply assign their acolytes to deal with the Threat. Threats can be used as a simple and direct setup for one-shot investigations, the next step in a more extensive planned campaign, or as exciting fuel for a Patron’s @UUID[Compendium.navis-apexialis.navis-core-items.Item.aKUb1Ces1eXXDUo3]{Sidereal Quests} Liability.",
+   "en": "When the time is right, you may reveal the Threat as directly as you wish. They may emerge as part of another adventure, a threat that complicates the primary investigation. Alternatively, the characters’ Patron may simply assign their acolytes to deal with the Threat. Threats can be used as a simple and direct setup for one-shot investigations, the next step in a more extensive planned campaign, or as exciting fuel for a Patron’s @UUID[Compendium.apex-imperialis.navis-core-items.Item.aKUb1Ces1eXXDUo3]{Sidereal Quests} Liability.",
    "ru": ""
   },
   "220": {
-   "en": "On a grander scale, you can weave any Threat into the fabric of your campaign. They could act as a Patron’s or characters' nemesis, showing up in person at crucial turning points to throw a spanner in the works — a literal option for a Patron’s @UUID[Compendium.navis-apexialis.navis-core-items.Item.Rg69Ap4KU3SM8jHK]{Nemesis} Liability. Consider why they might have crossed paths with the characters' Patron in the past and what enmity lies between them. Wait for the worst possible time for them to interfere in the Patron’s or characters' plans.",
+   "en": "On a grander scale, you can weave any Threat into the fabric of your campaign. They could act as a Patron’s or characters' nemesis, showing up in person at crucial turning points to throw a spanner in the works — a literal option for a Patron’s @UUID[Compendium.apex-imperialis.navis-core-items.Item.Rg69Ap4KU3SM8jHK]{Nemesis} Liability. Consider why they might have crossed paths with the characters' Patron in the past and what enmity lies between them. Wait for the worst possible time for them to interfere in the Patron’s or characters' plans.",
    "ru": ""
   },
   "224": {
@@ -166,7 +166,7 @@
    "ru": ""
   },
   "272": {
-   "en": "By no means are these Threats Inquisition-exclusive, though it might take an Inquisitor’s resources to root them out and defeat them. Characters bound to Patrons of other Factions can stumble upon these Threats in their own adventures, becoming a problem they might have to deal with without initial Inquisition support. If you need an Inquisitor (or characters from their retinue) to aid your Patron or characters in combatting the Threat, there is a roster of sample Patrons in @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.GgyUuP4mmxygpyOG]{ Roleplaying Inquisitors} to choose from.",
+   "en": "By no means are these Threats Inquisition-exclusive, though it might take an Inquisitor’s resources to root them out and defeat them. Characters bound to Patrons of other Factions can stumble upon these Threats in their own adventures, becoming a problem they might have to deal with without initial Inquisition support. If you need an Inquisitor (or characters from their retinue) to aid your Patron or characters in combatting the Threat, there is a roster of sample Patrons in @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.GgyUuP4mmxygpyOG]{ Roleplaying Inquisitors} to choose from.",
    "ru": ""
   }
  }

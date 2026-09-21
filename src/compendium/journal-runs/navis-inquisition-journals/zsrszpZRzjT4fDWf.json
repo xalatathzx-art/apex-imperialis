@@ -14,7 +14,7 @@
    "ru": ""
   },
   "10": {
-   "en": "The first step is determining the ‘core concept’ — a one-sentence description of the story. For instance, ‘The characters will investigate a Drukhari incursion in the sump of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.59y8WFXTbwKRwiRI]{Hive Voll}, only to find that the xenos are in league with an ambitious minor noble of @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#castyx]{House Castyx}’. From this, you can derive a story’s essential three acts: the beginning, middle, and end.",
+   "en": "The first step is determining the ‘core concept’ — a one-sentence description of the story. For instance, ‘The characters will investigate a Drukhari incursion in the sump of @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.59y8WFXTbwKRwiRI]{Hive Voll}, only to find that the xenos are in league with an ambitious minor noble of @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#castyx]{House Castyx}’. From this, you can derive a story’s essential three acts: the beginning, middle, and end.",
    "ru": ""
   },
   "20": {
@@ -50,7 +50,7 @@
    "ru": ""
   },
   "62": {
-   "en": "For example, if the characters have discovered a xenos weapon that requires analysis, they may consider taking it to the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus}. But if they have another clue suggesting that the Adeptus Mechanicus may be involved in the corresponding xenos plot, do they find another way to analyse the weapon, which may take more time and at a greater expense?",
+   "en": "For example, if the characters have discovered a xenos weapon that requires analysis, they may consider taking it to the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus}. But if they have another clue suggesting that the Adeptus Mechanicus may be involved in the corresponding xenos plot, do they find another way to analyse the weapon, which may take more time and at a greater expense?",
    "ru": ""
   },
   "66": {
@@ -58,7 +58,7 @@
    "ru": ""
   },
   "70": {
-   "en": "You should consider what resources you need for each story beat. NPCs, for instance, can be drawn from @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.2TukBjlkS5RG5Qka]{Contacts}, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.SJPyRkdBEOCtmD8R]{Sector Threats}, or the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ]{Bestiary}. However, if you require specific NPCs, such as unique villains, you will have to adapt one already existing or even create one from scratch. You may want to prepare ‘read aloud’ text so you can flavorfully present all of the information players need to be immersed in a scene and do it in a way that captures the mood they desire, be it creeping dread, visceral horror, bureaucratic tedium, or something else.",
+   "en": "You should consider what resources you need for each story beat. NPCs, for instance, can be drawn from @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.2TukBjlkS5RG5Qka]{Contacts}, @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.SJPyRkdBEOCtmD8R]{Sector Threats}, or the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ]{Bestiary}. However, if you require specific NPCs, such as unique villains, you will have to adapt one already existing or even create one from scratch. You may want to prepare ‘read aloud’ text so you can flavorfully present all of the information players need to be immersed in a scene and do it in a way that captures the mood they desire, be it creeping dread, visceral horror, bureaucratic tedium, or something else.",
    "ru": ""
   },
   "76": {
@@ -66,7 +66,7 @@
    "ru": ""
   },
   "80": {
-   "en": "NPCs should be distinctive and memorable. To assist with this, you can portray them with a particular voice and speech mannerisms suitable to their Faction and describe their appearance and dress in unique ways. The tables in @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.uJURMn2glWHhjqJk]{Imperium Maledictum} can assist with this. NPCs should also serve a purpose in the story. Being antagonists or allies is an obvious aspect, but tricky NPCs can also possess (and perhaps try to conceal) clues or other information that would be useful to the characters' investigation.",
+   "en": "NPCs should be distinctive and memorable. To assist with this, you can portray them with a particular voice and speech mannerisms suitable to their Faction and describe their appearance and dress in unique ways. The tables in @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.uJURMn2glWHhjqJk]{Imperium Maledictum} can assist with this. NPCs should also serve a purpose in the story. Being antagonists or allies is an obvious aspect, but tricky NPCs can also possess (and perhaps try to conceal) clues or other information that would be useful to the characters' investigation.",
    "ru": ""
   },
   "86": {
@@ -114,7 +114,7 @@
    "ru": ""
   },
   "130": {
-   "en": ": Likewise, consider which rules are likely to apply to the game in general and the upcoming session, and ensure you are conversant with them. Suppose you expect the session to see the characters buying, selling, and trading for new equipment. In that case, they should review @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y]{Armoury} of ",
+   "en": ": Likewise, consider which rules are likely to apply to the game in general and the upcoming session, and ensure you are conversant with them. Suppose you expect the session to see the characters buying, selling, and trading for new equipment. In that case, they should review @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y]{Armoury} of ",
    "ru": ""
   },
   "132": {
@@ -122,7 +122,7 @@
    "ru": ""
   },
   "134": {
-   "en": ", particularly the section on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.k5sND1C17nY9xB1G]{Trading Equipment}. Likewise, suppose you expect a session with a great deal of combat. In that case, they should ensure they have good knowledge of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf]{Rules} of ",
+   "en": ", particularly the section on @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.k5sND1C17nY9xB1G]{Trading Equipment}. Likewise, suppose you expect a session with a great deal of combat. In that case, they should ensure they have good knowledge of @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf]{Rules} of ",
    "ru": ""
   },
   "136": {
@@ -130,7 +130,7 @@
    "ru": ""
   },
   "138": {
-   "en": ", and particularly the sections on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.5wEY1d4xaZf5cEiq]{Combat}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE]{Damage, and Wounds}.",
+   "en": ", and particularly the sections on @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.5wEY1d4xaZf5cEiq]{Combat}, @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE]{Damage, and Wounds}.",
    "ru": ""
   },
   "144": {
@@ -210,7 +210,7 @@
    "ru": ""
   },
   "224": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.0vHms9BJQGOVa0dO]{Thorian} Patron",
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.0vHms9BJQGOVa0dO]{Thorian} Patron",
    "ru": ""
   },
   "226": {
@@ -222,11 +222,11 @@
    "ru": ""
   },
   "236": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.R7LueEsDUhrSYHNn]{Amalathian} Patron",
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.R7LueEsDUhrSYHNn]{Amalathian} Patron",
    "ru": ""
   },
   "238": {
-   "en": " is investigating the fall of several noble houses in the sector, discovering a series of Drukhari assassinations — unbeknownst to them, they are secretly at war with a @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.7Aqg1D2wSmKjmzWj]{Recongregator} Inquisitor, in league with the xenos, who seeks to tear down ruling houses they believe are false claimants to their authority",
+   "en": " is investigating the fall of several noble houses in the sector, discovering a series of Drukhari assassinations — unbeknownst to them, they are secretly at war with a @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.7Aqg1D2wSmKjmzWj]{Recongregator} Inquisitor, in league with the xenos, who seeks to tear down ruling houses they believe are false claimants to their authority",
    "ru": ""
   },
   "246": {
@@ -234,11 +234,11 @@
    "ru": ""
   },
   "248": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.UAWh0hEvWDwob6CT]{Isstvanian} Patron",
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.UAWh0hEvWDwob6CT]{Isstvanian} Patron",
    "ru": ""
   },
   "250": {
-   "en": " is working towards promoting war against xenos factions in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.UbH7oOtTYfjFlKRt]{Gallosque Nebula} but has garnered the unfortunate attention of an @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.R7LueEsDUhrSYHNn]{Amalathian} Inquisitor who does not wish to risk the status quo. A shadow war has broken out between the two Inquisitors. Can the characters' Patron simultaneously defeat their rival Inquisitor quietly whilst stoking the flames of war in the Nebula?",
+   "en": " is working towards promoting war against xenos factions in the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.UbH7oOtTYfjFlKRt]{Gallosque Nebula} but has garnered the unfortunate attention of an @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.R7LueEsDUhrSYHNn]{Amalathian} Inquisitor who does not wish to risk the status quo. A shadow war has broken out between the two Inquisitors. Can the characters' Patron simultaneously defeat their rival Inquisitor quietly whilst stoking the flames of war in the Nebula?",
    "ru": ""
   },
   "258": {
@@ -246,11 +246,11 @@
    "ru": ""
   },
   "260": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.DvP1i46KYTgkMN0W]{Philosophies}",
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.DvP1i46KYTgkMN0W]{Philosophies}",
    "ru": ""
   },
   "262": {
-   "en": " and the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.SJPyRkdBEOCtmD8R]{Threats} the Imperium faces; it is even better if your campaign can draw on both.",
+   "en": " and the @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.SJPyRkdBEOCtmD8R]{Threats} the Imperium faces; it is even better if your campaign can draw on both.",
    "ru": ""
   },
   "266": {
@@ -274,7 +274,7 @@
    "ru": ""
   },
   "278": {
-   "en": " aplenty: heretics, xenos, and daemons, but do not forget to include aspects of the Adeptus Terra, noble houses, Infractionist elements, or even opposing Inquisitors and their retinues within that category. Narratives are often more interesting when the lines are blurred between everyone involved. Introducing another Inquisitor to the mix halfway through the campaign can be a great ally or enemy, depending on how they relate to the Patron’s Philosophy or goals (see @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.FLhAj7NDZUgL1Nls#between-inquisitors]{Between Inquisitors}).",
+   "en": " aplenty: heretics, xenos, and daemons, but do not forget to include aspects of the Adeptus Terra, noble houses, Infractionist elements, or even opposing Inquisitors and their retinues within that category. Narratives are often more interesting when the lines are blurred between everyone involved. Introducing another Inquisitor to the mix halfway through the campaign can be a great ally or enemy, depending on how they relate to the Patron’s Philosophy or goals (see @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.FLhAj7NDZUgL1Nls#between-inquisitors]{Between Inquisitors}).",
    "ru": ""
   },
   "284": {
@@ -342,11 +342,11 @@
    "ru": ""
   },
   "354": {
-   "en": ", in both @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX]{Imperium Maledictum,} and the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq]{Inquisition Player’s Guide}), and grant them regular contact with their Patron through @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.1diRtTeN2hbZUhOY]{briefing and debriefing} sessions. Remember to hand out rewards as you go, as indicated in @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.f5PuitUGgp6jQz5K.JournalEntryPage.qsaLi310r4uyLu4R#rewarding-players]{Rewarding Players}.",
+   "en": ", in both @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX]{Imperium Maledictum,} and the @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq]{Inquisition Player’s Guide}), and grant them regular contact with their Patron through @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.1diRtTeN2hbZUhOY]{briefing and debriefing} sessions. Remember to hand out rewards as you go, as indicated in @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.f5PuitUGgp6jQz5K.JournalEntryPage.qsaLi310r4uyLu4R#rewarding-players]{Rewarding Players}.",
    "ru": ""
   },
   "358": {
-   "en": "Consider adding a @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W.JournalEntryPage.Y1wjtyi7JdgHxQiF]{Conclave to these between-mission segments}, or it can be a mission in and of itself. Have the characters and their Patron encountered such a sector-spanning foe that they should involve the Macharian Inquisition? Have they garnered enough evidence of heresy against a Radial Inquisitor to petition for a declaration of Excommunicate Traitoris from their peers?",
+   "en": "Consider adding a @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W.JournalEntryPage.Y1wjtyi7JdgHxQiF]{Conclave to these between-mission segments}, or it can be a mission in and of itself. Have the characters and their Patron encountered such a sector-spanning foe that they should involve the Macharian Inquisition? Have they garnered enough evidence of heresy against a Radial Inquisitor to petition for a declaration of Excommunicate Traitoris from their peers?",
    "ru": ""
   },
   "362": {

@@ -2,7 +2,7 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Add scene-bound, automated weather, temperature, gravity, radiation, and atmosphere rules to Navis Apexialis.
+**Goal:** Add scene-bound, automated weather, temperature, gravity, radiation, and atmosphere rules to Apex Imperialis.
 
 **Architecture:** Pure functions normalize data and calculate exposure independently of Foundry. A thin Foundry adapter stores Scene and Actor flags, schedules tests from world/combat time, and renders an ApplicationV2 editor plus compact HUD widget.
 
@@ -59,7 +59,7 @@
 - Create: `module/environment/environment-derived.js`
 - Create: `module/environment/index.js`
 - Create: `tests/environment-scheduler.test.mjs`
-- Modify: `module/navis-apexialis.js`
+- Modify: `module/apex-imperialis.js`
 
 **Interfaces:**
 - Consumes: pure rule outputs and actor/system APIs.

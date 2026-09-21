@@ -2,7 +2,7 @@
   "name": "Warp Shield",
   "type": "talent",
   "_id": "malExpTal0000217",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Test Psychic Mastery to create a Force Field with 1d10 protection rating. on 5+SL, the rating is 2d10</span></p><hr><p><span style=\"font-family: Arial\"><em>You can choose to sacrifice your psychic potential to form a barrier of protection around yourself. You may choose to make a Psychic Mastery Test, which if you succeed, you gain a Force Field with a protection rating of 1d10. If you succeed by +5SL, you instead have 2d10. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

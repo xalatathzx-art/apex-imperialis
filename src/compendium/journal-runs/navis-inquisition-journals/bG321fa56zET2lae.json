@@ -6,52 +6,52 @@
  "name": "Слабости",
  "runs": {
   "2": {
-   "en": "This section contains new Liabilities that Inquisitor Patrons can be granted to aid their Acolytes. As with Boons, not every Liability is suitable for any one Patron, depending on their Puritan or Radical stance and what Philosophy they believe in. Your group should consider the corresponding Boons and Liabilities Tables for a base set of options. The @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.z2s8dXrvTS7rx1J4]{Liabilities} in Imperium Maledictum are also available for selection during Patron creation.",
-   "ru": "В этом разделе приведены новые слабости, которые могут быть у покровителей-инквизиторов. Как и с возможностями, не каждая слабость подходит любому покровителю — в зависимости от его пуританской или радикальной позиции и от того, какой философии он придерживается. Вашей группе стоит обратиться к соответствующим таблицам возможностей и слабостей за базовым набором вариантов. При создании покровителя можно выбирать и @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.z2s8dXrvTS7rx1J4]{слабости} из книги Imperium Maledictum."
+   "en": "This section contains new Liabilities that Inquisitor Patrons can be granted to aid their Acolytes. As with Boons, not every Liability is suitable for any one Patron, depending on their Puritan or Radical stance and what Philosophy they believe in. Your group should consider the corresponding Boons and Liabilities Tables for a base set of options. The @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.z2s8dXrvTS7rx1J4]{Liabilities} in Imperium Maledictum are also available for selection during Patron creation.",
+   "ru": "В этом разделе приведены новые слабости, которые могут быть у покровителей-инквизиторов. Как и с возможностями, не каждая слабость подходит любому покровителю — в зависимости от его пуританской или радикальной позиции и от того, какой философии он придерживается. Вашей группе стоит обратиться к соответствующим таблицам возможностей и слабостей за базовым набором вариантов. При создании покровителя можно выбирать и @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.z2s8dXrvTS7rx1J4]{слабости} из книги Imperium Maledictum."
   },
   "6": {
    "en": "Some Liabilities reduce your Patron’s Influence with one or more Factions, representing the negative consequences to your Patron’s reputation caused by their past actions.",
    "ru": "Некоторые слабости снижают влияние покровителя у одной или нескольких фракций, отражая дурные последствия его прошлых поступков для его репутации."
   },
   "16": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.41xnk9hJVhc0555E]{Crisis of Faith}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.41xnk9hJVhc0555E]{Кризис веры}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.41xnk9hJVhc0555E]{Crisis of Faith}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.41xnk9hJVhc0555E]{Кризис веры}"
   },
   "20": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.sPEvdG4NWrSwN7xx]{Deadly Assignments}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.sPEvdG4NWrSwN7xx]{Смертельные задания}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.sPEvdG4NWrSwN7xx]{Deadly Assignments}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.sPEvdG4NWrSwN7xx]{Смертельные задания}"
   },
   "24": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ECZvrU6GcqZxSSsq]{Enemy Operatives}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ECZvrU6GcqZxSSsq]{Вражеские оперативники}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.ECZvrU6GcqZxSSsq]{Enemy Operatives}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.ECZvrU6GcqZxSSsq]{Вражеские оперативники}"
   },
   "28": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.id8cdcbMOMVLSMzN]{Heretek Connection}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.id8cdcbMOMVLSMzN]{Связь с еретехом}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.id8cdcbMOMVLSMzN]{Heretek Connection}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.id8cdcbMOMVLSMzN]{Связь с еретехом}"
   },
   "32": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.7fBCYT6juc6o2vI2]{Hidden Philosophy}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.7fBCYT6juc6o2vI2]{Скрытая философия}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.7fBCYT6juc6o2vI2]{Hidden Philosophy}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.7fBCYT6juc6o2vI2]{Скрытая философия}"
   },
   "42": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.mddYHlcLmbkOVaiO]{Lost and the Damned}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.mddYHlcLmbkOVaiO]{Потерянный и проклятый}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.mddYHlcLmbkOVaiO]{Lost and the Damned}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.mddYHlcLmbkOVaiO]{Потерянный и проклятый}"
   },
   "46": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.aYOpeeOkZDLmOTCp]{Obsessive Objective}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.aYOpeeOkZDLmOTCp]{Навязчивая цель}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.aYOpeeOkZDLmOTCp]{Obsessive Objective}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.aYOpeeOkZDLmOTCp]{Навязчивая цель}"
   },
   "50": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.oKdtATvr5hn5yXbn]{Sanction Denied}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.oKdtATvr5hn5yXbn]{В санкции отказано}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.oKdtATvr5hn5yXbn]{Sanction Denied}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.oKdtATvr5hn5yXbn]{В санкции отказано}"
   },
   "54": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.fjCQ7BvHdISNT5q8]{Sleeper Agent}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.fjCQ7BvHdISNT5q8]{Спящий агент}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.fjCQ7BvHdISNT5q8]{Sleeper Agent}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.fjCQ7BvHdISNT5q8]{Спящий агент}"
   },
   "58": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.jcbEhQkzpNfm5UZr]{Wheels Within Wheels}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.jcbEhQkzpNfm5UZr]{Колёса внутри колёс}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.jcbEhQkzpNfm5UZr]{Wheels Within Wheels}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.jcbEhQkzpNfm5UZr]{Колёса внутри колёс}"
   }
  }
 }

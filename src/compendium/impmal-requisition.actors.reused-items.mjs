@@ -50,7 +50,7 @@ export const entries = {
   "64Kjn4a9LLDNzHb5": {
     "items": {
       "Engineering": {
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Знания о конструкции, применении и ремонте технологических и механических устройств. Эта специализация позволяет и конструировать такие предметы, а также оружие и взрывчатку. В Империуме Адептус Механикус считают эту область знания исключительно своей епархией и карают самоучек. Помните, впрочем, что для того, чтобы собрать или починить устройство, пользуясь заученными ритуалами, эта специализация не требуется.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Знания о конструкции, применении и ремонте технологических и механических устройств. Эта специализация позволяет и конструировать такие предметы, а также оружие и взрывчатку. В Империуме Адептус Механикус считают эту область знания исключительно своей епархией и карают самоучек. Помните, впрочем, что для того, чтобы собрать или починить устройство, пользуясь заученными ритуалами, эта специализация не требуется.</p>"
       }
     }
   },
@@ -58,7 +58,7 @@ export const entries = {
     "items": {
       "Auspex/Scanner": {
         "name": "Ауспик или сканер",
-        "description": "<p>Это обычное снаряжение многих имперских воинов и агентов. Такой датчик может засекать движение, выбросы энергии, незримый человеческому глазу свет, признаки жизни и многое другое.</p><p>Потратив действие, с помощью ауспика или сканера можно обнаружить выбросы энергии, признаки жизни, движения и иные данные на средней дистанции, а также засечь @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#hide]{спрятавшихся} в засаде врагов. Ведущий может потребовать проверки Техники, чтобы отследить определённый феномен или пробиться через помехи.</p>"
+        "description": "<p>Это обычное снаряжение многих имперских воинов и агентов. Такой датчик может засекать движение, выбросы энергии, незримый человеческому глазу свет, признаки жизни и многое другое.</p><p>Потратив действие, с помощью ауспика или сканера можно обнаружить выбросы энергии, признаки жизни, движения и иные данные на средней дистанции, а также засечь @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#hide]{спрятавшихся} в засаде врагов. Ведущий может потребовать проверки Техники, чтобы отследить определённый феномен или пробиться через помехи.</p>"
       },
       "Chrono": {
         "name": "Хроно",
@@ -140,7 +140,7 @@ export const entries = {
       },
       "Tithe Inspection": {
         "name": "Десятинная инспекция",
-        "description": "<p>Ваш господин имеет право устраивать совершенно законные «проверки» мест и людей, чтобы убедиться, что Императорская десятина будет собрана. Один раз за задание вы можете попросить покровителя устроить такую инспекцию от лица своей службы. Ей будут заниматься @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.vds8HRa533wcv1Pq]{адептов Администратума}, смотрители и @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.gQxTENJSdTQTVfDM]{вигилов} или их коллеги из других организаций. Персонажи могут их сопровождать.</p>"
+        "description": "<p>Ваш господин имеет право устраивать совершенно законные «проверки» мест и людей, чтобы убедиться, что Императорская десятина будет собрана. Один раз за задание вы можете попросить покровителя устроить такую инспекцию от лица своей службы. Ей будут заниматься @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.vds8HRa533wcv1Pq]{адептов Администратума}, смотрители и @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.gQxTENJSdTQTVfDM]{вигилов} или их коллеги из других организаций. Персонажи могут их сопровождать.</p>"
       },
       "Known Meddler": {
         "name": "Известный интриган",
@@ -173,13 +173,13 @@ export const entries = {
   "YZDF8wJlLtiiSsGD": {
     "items": {
       "Aeronautica": {
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#piloting-(ag)]{Пилотирование}</p><p>Умение водить воздушную технику — от транспортных челноков до боевых самолётов. Эта специализация позволяет также поднять машину на орбиту планеты, но не совершать сложные манёвры вне атмосферы.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#piloting-(ag)]{Пилотирование}</p><p>Умение водить воздушную технику — от транспортных челноков до боевых самолётов. Эта специализация позволяет также поднять машину на орбиту планеты, но не совершать сложные манёвры вне атмосферы.</p>"
       },
       "Military": {
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#piloting-(ag)]{Пилотирование}</p><p>Умение водить танки и другую наземную военную технику. Обычно такому учат лишь наставники Астра Милитарум и лишь персонажей определённого статуса.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#piloting-(ag)]{Пилотирование}</p><p>Умение водить танки и другую наземную военную технику. Обычно такому учат лишь наставники Астра Милитарум и лишь персонажей определённого статуса.</p>"
       },
       "Civilian": {
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#piloting-(ag)]{Пилотирование}</p><p>Умение водить невоенную наземную технику, вроде грузовозов или личных авто.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#piloting-(ag)]{Пилотирование}</p><p>Умение водить невоенную наземную технику, вроде грузовозов или личных авто.</p>"
       },
       "Chrono": {
         "name": "Хроно",
@@ -210,7 +210,7 @@ export const entries = {
     "items": {
       "Krak Grenade": {
         "name": "Крак-граната",
-        "description": "<p>Не меньше противопехотных в имперских вооружённых силах распространены крак-гранаты и ракеты. Они предназначены для поражения бронированных целей и противодействия большинству видов личной защиты. Крак-снаряды прекрасно пробивают переборки, корпуса танков и стены, позволяя легко поражать укрывшихся внутри врагов.</p><p>Крак-боеприпасы наносят высокий урон и наделены свойством @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#penetrating-(rating)]{Бронебойное}, но их радиус поражения очень мал.</p>"
+        "description": "<p>Не меньше противопехотных в имперских вооружённых силах распространены крак-гранаты и ракеты. Они предназначены для поражения бронированных целей и противодействия большинству видов личной защиты. Крак-снаряды прекрасно пробивают переборки, корпуса танков и стены, позволяя легко поражать укрывшихся внутри врагов.</p><p>Крак-боеприпасы наносят высокий урон и наделены свойством @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#penetrating-(rating)]{Бронебойное}, но их радиус поражения очень мал.</p>"
       }
     }
   },

@@ -25,7 +25,7 @@ const variants = (...names) =>
 const cognomens = (...names) =>
   p("<em><strong>Когномены</strong>: ", names.join(", "), "</em>");
 
-const CORE = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
+const CORE = "Compendium.apex-imperialis.navis-core-journals.JournalEntry";
 const IMP = `${CORE}.GPqYZykonC12TJb1.JournalEntryPage`;
 
 const MILITARUM = U(`${IMP}.r6JYS3jOfrAEorvd`, "Астра Милитарум");
@@ -228,8 +228,8 @@ export const byName = {
         "секунды. Оружие это невероятно опасно и для своих — на его счету немало случаев, когда били ",
         "по собственным, — и обращаться с ним надо с полной выдержкой. В этом варианте инферно-пушка ",
         "в башне заменена на химпушку (тот же профиль, но накладывает отравление вместо горения), а ",
-        U("Compendium.navis-apexialis.navis-core-items.Item.rMIaVi1gx3wUghfU", "тяжёлый болтер"), " — на ",
-        U("Compendium.navis-apexialis.navis-requisition-items.Item.vvnNdQ9YtyiR4uXq", "мультимельту"), ".")
+        U("Compendium.apex-imperialis.navis-core-items.Item.rMIaVi1gx3wUghfU", "тяжёлый болтер"), " — на ",
+        U("Compendium.apex-imperialis.navis-requisition-items.Item.vvnNdQ9YtyiR4uXq", "мультимельту"), ".")
   },
 
   Sentinel: {
@@ -341,7 +341,7 @@ export const byName = {
         "предпочитают — и за тот страх, что внушают эти огненные ангелы, и за то, как хорошо они ",
         "держат толпы прихожан на расстоянии при посадке. Всякий персонаж, что окажется прямо по ",
         "бокам или позади работающего челнока, считается задетым ",
-        U("Compendium.navis-apexialis.navis-core-items.Item.GEtUumQVGsSNO7Kt", "ручным огнемётом"), ".")
+        U("Compendium.apex-imperialis.navis-core-items.Item.GEtUumQVGsSNO7Kt", "ручным огнемётом"), ".")
   },
 
   Valkyrie: {
@@ -364,9 +364,9 @@ export const byName = {
       p("Ходовая разновидность «Валькирии»: Небесный коготь возит и высаживает лёгкую бронетехнику и ",
         "даже тяжёлые грузовые капсулы. Десантный отсек «Валькирии» заменён на магнитные захваты, ",
         "которыми она берёт и поднимает машины — скажем, ",
-        U("Compendium.navis-apexialis.navis-requisition-actors.Actor.2P0FfNZnOheNRNpV", "«Таурокс»"),
+        U("Compendium.apex-imperialis.navis-requisition-actors.Actor.2P0FfNZnOheNRNpV", "«Таурокс»"),
         " или даже шагоходы ",
-        U("Compendium.navis-apexialis.navis-requisition-actors.Actor.rJSCTS54GK4zYXit", "«Часовой»"),
+        U("Compendium.apex-imperialis.navis-requisition-actors.Actor.rJSCTS54GK4zYXit", "«Часовой»"),
         ", — и ставит их на передовых позициях как подкрепление или для дерзкого штурма с высадки. ",
         "Единственный пилот может расчистить площадку носовым тяжёлым болтером или пустить ракеты ",
         "«Хеллстрайк» по чему-нибудь потяжелее, но Небесный коготь задуман так, чтобы высадить своё и ",
@@ -395,7 +395,7 @@ export const byName = {
         "баррикады звуковыми толчками, не поджигая прометий.") +
       p("Благодаря гусеницам проходческий модуль не замечает помех от <em>пересечённой местности</em>, ",
         "когда движется. Каким бы способом он ни работал, его проходческое орудие считается ",
-        U("Compendium.navis-apexialis.navis-core-items.Item.JqK0ohbnuujGTVTE", "лазерным резаком"), ".")
+        U("Compendium.apex-imperialis.navis-core-items.Item.JqK0ohbnuujGTVTE", "лазерным резаком"), ".")
   },
 
   "C.A.T Unit": {
@@ -409,10 +409,10 @@ export const byName = {
         "его трудной находкой для врага.") +
       p("Благодаря гусеницам модуль КАТ не замечает помех от <em>пересечённой местности</em>, когда ",
         "движется. В уставном образце стоит ",
-        U("Compendium.navis-apexialis.navis-core-items.Item.rgkUmSGkBrOKvo5p", "пикт-писец"),
+        U("Compendium.apex-imperialis.navis-core-items.Item.rgkUmSGkBrOKvo5p", "пикт-писец"),
         ", чтобы снимать увиденное и передавать хозяину. В образцах посложнее может стоять ",
-        U("Compendium.navis-apexialis.navis-core-items.Item.dO7XoDXD9QYTy6zZ", "ауспик"), " или ",
-        U("Compendium.navis-apexialis.navis-core-items.Item.NlduMbxJZrKejC9J", "фотовизор"),
+        U("Compendium.apex-imperialis.navis-core-items.Item.dO7XoDXD9QYTy6zZ", "ауспик"), " или ",
+        U("Compendium.apex-imperialis.navis-core-items.Item.NlduMbxJZrKejC9J", "фотовизор"),
         ", чтобы замечать то, чего не видит человеческий глаз.")
   },
 
@@ -433,7 +433,7 @@ export const byName = {
       p("Нунций-аквила парит наподобие сервочерепа и не замечает помех от <em>пересечённой ",
         "местности</em>, когда движется. Он сам следует за тем, у кого в руках его привязной ",
         "вокс-пульт. На нём стоит ",
-        U("Compendium.navis-apexialis.navis-requisition-actors.Actor.ktUPQsWbSxgxXW4k.Item.N5qmWLUBBPrObKMi", "громкоговоритель"),
+        U("Compendium.apex-imperialis.navis-requisition-actors.Actor.ktUPQsWbSxgxXW4k.Item.N5qmWLUBBPrObKMi", "громкоговоритель"),
         ", а сам он украшен знаками имперского закона. Нунций-аквила даёт своему хозяину +2 КУ в ",
         "проверках Командования (Запугивание), чтобы застращать толпу или горожан или взять их под ",
         "начало.")
@@ -490,7 +490,7 @@ export const byName = {
       p("<strong>Когномены</strong>: мученик-вестник, вокс-череп") +
       p("Череп-вестник — особый однозадачный сервочереп, который только и делает, что носит вести. В ",
         "самых простых стоят запись звука и вокс-воспроизведение, а самые чтимые благословлены ",
-        U("Compendium.navis-apexialis.navis-core-items.Item.rgkUmSGkBrOKvo5p", "пикт-писцами"),
+        U("Compendium.apex-imperialis.navis-core-items.Item.rgkUmSGkBrOKvo5p", "пикт-писцами"),
         " и небольшими гололитическими проекторами, чтобы показывать облик говорящего.") +
       p("Череп-вестник записывает послания длиной в часы, а в его когитаторе довольно ",
         "навигационных и биометрических данных, чтобы разыскать того, кому послание предназначено, в ",
@@ -551,7 +551,7 @@ export const byName = {
       p("Персонаж, заранее записанный черепу-гейсту в «свои», может потратить действие и приказать ",
         "ему включиться, назвав ясную и определённую цель на дальней дистанции. Череп-гейст двинется ",
         "к цели и подорвётся, оказавшись в непосредственной близости. Взрыв считается так же, как у ",
-        U("Compendium.navis-apexialis.navis-core-items.Item.LhciQZrfQDuk8k3W", "крак-гранаты"), ", но урон ",
+        U("Compendium.apex-imperialis.navis-core-items.Item.LhciQZrfQDuk8k3W", "крак-гранаты"), ", но урон ",
         "поднимается до 15.")
   },
 
@@ -566,12 +566,12 @@ export const byName = {
         "округе. Во многих случаях бродячий сервочереп и незаметнее, и неустаннее всякого живого ",
         "сторожа.") +
       p("На черепе с мотор-ауспиком стоит ",
-        U("Compendium.navis-apexialis.navis-requisition-items.Item.Hi84jUhxDeh5uQTq", "сторожевой ауспик"),
+        U("Compendium.apex-imperialis.navis-requisition-items.Item.Hi84jUhxDeh5uQTq", "сторожевой ауспик"),
         ". Его можно настроить на обход до четырёх соседних зон, переходя из зоны в зону каждые три ",
         "раунда. Персонаж может предпринять <strong>трудную (−10) проверку Техники ",
         "(Безопасность)</strong>, чтобы настроить сервочереп на определённых людей или на определённые ",
         "случаи. Ещё на нём стоит ",
-        U("Compendium.navis-apexialis.navis-core-items.Item.4CglrWXiksan6Wk0", "громкоговоритель"),
+        U("Compendium.apex-imperialis.navis-core-items.Item.4CglrWXiksan6Wk0", "громкоговоритель"),
         ", которым он может подать сигнал или произнести сообщение, если его на то настроить.")
   },
 
@@ -584,12 +584,12 @@ export const byName = {
         ". Нередко они служат походной кафедрой, с которой проповедник читает Писание или обличает ",
         "перед толпой еретиков. Годятся они и на то, чтобы носить записи для клерков ",
         U(`${IMP}.3TtxuCzt0nNV1ysj`, "Адептус Администратум"), " или списки Лекс Империалис для ",
-        "занятых ", U("Compendium.navis-apexialis.navis-core-actors.Actor.CsFqLJu3uHM45otd", "арбитров"),
+        "занятых ", U("Compendium.apex-imperialis.navis-core-actors.Actor.CsFqLJu3uHM45otd", "арбитров"),
         ". Обычные образцы просто держат книгу раскрытой на нужной странице и по голосовой команде ",
         "ищут определённые места. На иных стоят грубые вокс-модули, и они читают вслух из тех томов, ",
         "что несут.") +
       p("В особенно хороших могут стоять усиленные ",
-        U("Compendium.navis-apexialis.navis-core-items.Item.co63VYiRX0HauLYN", "вокс-вещатели"),
+        U("Compendium.apex-imperialis.navis-core-items.Item.co63VYiRX0HauLYN", "вокс-вещатели"),
         ", чтобы книгу слышала толпа в сотни человек, или память на несколько книг вместе с ",
         "когитаторами, что умеют сверять их между собой. Не диво, если череп-архив, приставленный к ",
         "видному священнику ", U(`${IMP}.5Bx7K8k9VgjOZmA4`, "Адептус Министорум"),
@@ -606,7 +606,7 @@ export const byName = {
       p("<strong>Когномены</strong>: канарейка, токсик-ауспик образца «Спасение» Mk IV, вилиссимский ",
         "токс-оберег") +
       p("Снаряжённый и нарочно сведённый со ",
-        U("Compendium.navis-apexialis.navis-requisition-items.Item.uOEU9v6wJhYLVKCj", "спасительным ауспиком"),
+        U("Compendium.apex-imperialis.navis-requisition-items.Item.uOEU9v6wJhYLVKCj", "спасительным ауспиком"),
         ", череп с токсик-ауспиком становится ценным подспорьем там, где надо идти через отраву и ",
         "радиацию. Настроен он тоньше, чем широкий разброс, что ловит обычный ауспик, и потому может ",
         "сопровождать рабочие артели, подёнщиков и мусорщиков через опасные места. Его можно настроить ",
@@ -618,7 +618,7 @@ export const byName = {
         "артель нередко первым делом вытаскивает череп с токсик-ауспиком, а уж потом думает, как ",
         "помочь своим.") +
       p("На черепе с токсик-ауспиком стоит ",
-        U("Compendium.navis-apexialis.navis-requisition-items.Item.uOEU9v6wJhYLVKCj", "спасительный ауспик"),
+        U("Compendium.apex-imperialis.navis-requisition-items.Item.uOEU9v6wJhYLVKCj", "спасительный ауспик"),
         ". Он чует в зоне ядовитые пары, газы, радиацию, утечки давления и прочие опасности окружения. ",
         "Его можно настроить так, чтобы он уходил вперёд хозяина в соседние зоны и предупреждал о том, ",
         "что там. Персонаж может предпринять <strong>рутинную (+20) проверку Техники (Инженерное ",

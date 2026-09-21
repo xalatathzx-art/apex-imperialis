@@ -2,7 +2,7 @@
   "name": "Abhorrence",
   "type": "trait",
   "_id": "navisSpTrait0014",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder003",
   "sort": 1400,
   "system": {
@@ -14,7 +14,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "DoomBC_Core",
       "generated": "tools/make-species.mjs"
     }

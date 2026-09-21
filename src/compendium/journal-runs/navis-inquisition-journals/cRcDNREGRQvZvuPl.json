@@ -10,7 +10,7 @@
    "ru": ""
   },
   "12": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#personal-influence]{Contacts} are valuable tools for players. They are often a more expedient, not to mention interesting, way to get what they want from a Faction without going through the front door. For GMs, Contacts can begin as simple NPCs, a means of conveying information about a specific mission, who can later evolve into significant characters who their players care about. Contacts like these can generate twists and turns in the plot, come to player characters with problems that honour demands they solve, and be a reliable source of drama. A Contact going underground or disappearing entirely is a clear plot point for characters to investigate around their missions. Some might have perished in a player’s service, but others might backstab them and become a new enemy.",
+   "en": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#personal-influence]{Contacts} are valuable tools for players. They are often a more expedient, not to mention interesting, way to get what they want from a Faction without going through the front door. For GMs, Contacts can begin as simple NPCs, a means of conveying information about a specific mission, who can later evolve into significant characters who their players care about. Contacts like these can generate twists and turns in the plot, come to player characters with problems that honour demands they solve, and be a reliable source of drama. A Contact going underground or disappearing entirely is a clear plot point for characters to investigate around their missions. Some might have perished in a player’s service, but others might backstab them and become a new enemy.",
    "ru": ""
   },
   "16": {
@@ -30,7 +30,7 @@
    "ru": ""
   },
   "44": {
-   "en": "Publicly interacting with the Faction could negatively affect the mission’s security or the party’s @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz]{Subtlety}.",
+   "en": "Publicly interacting with the Faction could negatively affect the mission’s security or the party’s @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz]{Subtlety}.",
    "ru": ""
   },
   "52": {
@@ -114,7 +114,7 @@
    "ru": ""
   },
   "156": {
-   "en": "Outside of a mission, characters can encounter Contacts using the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX.JournalEntryPage.AuM2Lzd784VPe32b#consult-savant]{Consult Savant}, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.z9PTik4AMrYlbVhR#cultivate-network]{Cultivate Network}, and @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.z9PTik4AMrYlbVhR#secure-information-network]{Secure Information Network} Endeavours or simply by spending time making the Tests described above.",
+   "en": "Outside of a mission, characters can encounter Contacts using the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX.JournalEntryPage.AuM2Lzd784VPe32b#consult-savant]{Consult Savant}, @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.z9PTik4AMrYlbVhR#cultivate-network]{Cultivate Network}, and @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.z9PTik4AMrYlbVhR#secure-information-network]{Secure Information Network} Endeavours or simply by spending time making the Tests described above.",
    "ru": ""
   },
   "160": {
@@ -134,7 +134,7 @@
    "ru": ""
   },
   "188": {
-   "en": "Characters who pursue the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX.JournalEntryPage.AuM2Lzd784VPe32b#consolidate-influence]{Consolidate Influence} Endeavour can negatively affect their Contact’s behaviour towards them. While their overall Influence with the related Faction improves, and any loss with their Contact’s personal Influence effectively balances out, the personal Influence decrease must be considered. The Contact may feel the characters have blatantly abused their Influence over them or unduly tied their reputation to any future actions the characters take — many believe Inquisition acolytes take foolish risks. The Contact may have witnessed this type of behaviour from the characters in the past.",
+   "en": "Characters who pursue the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX.JournalEntryPage.AuM2Lzd784VPe32b#consolidate-influence]{Consolidate Influence} Endeavour can negatively affect their Contact’s behaviour towards them. While their overall Influence with the related Faction improves, and any loss with their Contact’s personal Influence effectively balances out, the personal Influence decrease must be considered. The Contact may feel the characters have blatantly abused their Influence over them or unduly tied their reputation to any future actions the characters take — many believe Inquisition acolytes take foolish risks. The Contact may have witnessed this type of behaviour from the characters in the past.",
    "ru": ""
   },
   "192": {
@@ -150,7 +150,7 @@
    "ru": ""
   },
   "204": {
-   "en": "A Contact’s attitude towards the characters aligns with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa]{Influence Table}, from the viewpoint of ‘",
+   "en": "A Contact’s attitude towards the characters aligns with the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa]{Influence Table}, from the viewpoint of ‘",
    "ru": ""
   },
   "206": {
@@ -238,7 +238,7 @@
    "ru": ""
   },
   "352": {
-   "en": "While Contacts can arise out of existing or incidental NPCs, GMs can prepare a handful of Contacts before their sessions. Consider what Factions the players are likely to interact with and choose or create suitable Contacts that have ties to these Factions. For example, if they need to gain access to an @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Administratum} datavault to follow a lead, an Administratum scribe would be an ideal Contact to make. But you could also consider an @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus} Tech-Priest who regularly maintains aspects of the datavault or an @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionist} thief who claims to know of a secret or unsecured entranceway.",
+   "en": "While Contacts can arise out of existing or incidental NPCs, GMs can prepare a handful of Contacts before their sessions. Consider what Factions the players are likely to interact with and choose or create suitable Contacts that have ties to these Factions. For example, if they need to gain access to an @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Administratum} datavault to follow a lead, an Administratum scribe would be an ideal Contact to make. But you could also consider an @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus} Tech-Priest who regularly maintains aspects of the datavault or an @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionist} thief who claims to know of a secret or unsecured entranceway.",
    "ru": ""
   },
   "356": {

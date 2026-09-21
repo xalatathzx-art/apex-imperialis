@@ -3,7 +3,7 @@
   "name": "Guardian Defender",
   "type": "npc",
   "_id": "W1RA4cMNeuoNZmw8",
-  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+      "src": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -228,7 +228,7 @@
     "default": 0
   },
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }
@@ -246,7 +246,7 @@
       "name": "Defender of the Craftworld",
       "type": "trait",
       "_id": "8HSXyLFdbCZf1sB7",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Psychic Sensitivity",
       "type": "trait",
       "_id": "vjFRWPpSYb3VwLxA",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Shuriken Catapult",
       "type": "weapon",
       "_id": "leObnXm1MNJUjGiR",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -444,7 +444,7 @@
       "name": "Eldar Chainsword",
       "type": "weapon",
       "_id": "6qPVd86MDxMUxszA",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -518,7 +518,7 @@
       "name": "Psyniscience",
       "type": "specialisation",
       "_id": "Xxosa5uLrhIMc3nI",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -547,7 +547,7 @@
       "name": "Long Guns",
       "type": "specialisation",
       "_id": "KLxIlusx17rTSPlD",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

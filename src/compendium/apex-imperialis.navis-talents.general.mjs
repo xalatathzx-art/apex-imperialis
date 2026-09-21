@@ -1,5 +1,5 @@
 /**
- * Таланты «Maledictum Expanded», категория General (49): русский слой.
+ * Таланты, категория General (49): русский слой.
  *
  * Пак талантов написан по-английски (src/packs/talents) и переводится через
  * Babele, как пак видов. Описание каждого таланта — два блока: краткая сводка,
@@ -17,7 +17,7 @@
  * названия талантов: Mastery — «Мастерство», Talented — «Одарённость».
  */
 
-export const label = "Таланты (Maledictum Expanded)";
+export const label = "Таланты";
 
 const ARIAL = s => `<span style="font-family: Arial">${s}</span>`;
 /** Summary, rule, full text — the shape every talent in this pack uses. */

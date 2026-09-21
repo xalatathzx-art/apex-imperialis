@@ -2,7 +2,7 @@
   "name": "Spheres of Influence",
   "type": "talent",
   "_id": "malExpTal0000149",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">May spend FP to locate a nearby junior member of a Faction you have 2+ Influence and kick off a professional contact</span></p><hr><p><span style=\"font-family: Arial\"><em>Your privileged position affords you access to a myriad of contacts that may be able to aid you. At any time, you may spend a Fate Point and nominate a faction you have +2 Influence with. Subject to GM approval, you may detail a junior member of the Faction in your approximate vicinity. This individual does not work for you, but you have a professional relationship, and you know how to contact them. They may help you, if it is not too great an inconvenience or are provided with a powerful incentive. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

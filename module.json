@@ -1,22 +1,16 @@
 {
-  "id": "navis-apexialis",
-  "title": "Navis Apexialis",
-  "description": "<p>A global content module for <strong>Imperium Maledictum</strong>: playable species, expanded talents, a xenos and heretic bestiary, the mechanics that drive them, and a skin for the whole interface.</p><hr /><p>The Species compendium adds a real Species item type: drop a race onto a character and it applies the whole package — characteristics, skills, traits, size and gear — with a Subspecies slot beside it. The roster is the DoomBC line converted to impmal's own scale.</p><p>Talents and the bestiary come from <em>Maledictum Expanded</em> by Meins, re-catalogued into a colour-coded folder taxonomy and repaired against the impmal system enums and the official impmal-core compendium. See <code>docs/migration-report.md</code> for every change made to the source data.</p><p>The skin repaints sheets, chat, every window, the sidebar and the hotbar in plate, brass and rust. Players can switch it off in their own settings.</p><p>Credits for Imperium Maledictum go to Moxy.</p>",
-  "version": "0.2.0",
+  "id": "apex-imperialis",
+  "title": "Apex Imperialis",
+  "description": "<p>A global content module for <strong>Imperium Maledictum</strong>: playable species, expanded talents, a xenos and heretic bestiary, the mechanics that drive them, and a skin for the whole interface.</p><hr /><p>The Species compendium adds a real Species item type: drop a race onto a character and it applies the whole package — characteristics, skills, traits, size and gear — with a Subspecies slot beside it. The roster is the DoomBC line converted to impmal's own scale.</p><p>Talents and the bestiary are re-catalogued into a colour-coded folder taxonomy and repaired against the impmal system enums and the official impmal-core compendium. See <code>docs/migration-report.md</code> for every change made to the source data.</p><p>The skin repaints sheets, chat, every window, the sidebar and the hotbar in plate, brass and rust. Players can switch it off in their own settings.</p><p>Credits for Imperium Maledictum go to Moxy.</p>",
+  "version": "0.3.0",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
   },
   "authors": [
     {
-      "name": "Navis Apexialis",
+      "name": "Apex Imperialis",
       "flags": {}
-    },
-    {
-      "name": "Meins",
-      "flags": {
-        "role": "Maledictum Expanded, the source of this release's content"
-      }
     },
     {
       "name": "Moxy",
@@ -26,7 +20,7 @@
     }
   ],
   "esmodules": [
-    "module/navis-apexialis.js",
+    "module/apex-imperialis.js",
     "official/impmal-core.js",
     "official/inquisition-initialization.js",
     "official/familiar-model.js",
@@ -39,7 +33,7 @@
     "module/uuid-migration.js"
   ],
   "styles": [
-    "styles/navis-skin.css",
+    "styles/apex-skin.css",
     "styles/implants.css"
   ],
   "languages": [
@@ -63,24 +57,204 @@
     }
   },
   "packs": [
-    { "name": "navis-core-actors", "label": "Core — Персонажи", "path": "packs/navis-core-actors", "type": "Actor", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
-    { "name": "navis-core-items", "label": "Core — Предметы", "path": "packs/navis-core-items", "type": "Item", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
-    { "name": "navis-core-journals", "label": "Core — Журналы", "path": "packs/navis-core-journals", "type": "JournalEntry", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
-    { "name": "navis-core-tables", "label": "Core — Таблицы", "path": "packs/navis-core-tables", "type": "RollTable", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
-    { "name": "navis-core-scenes", "label": "Core — Сцены", "path": "packs/navis-core-scenes", "type": "Scene", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
-    { "name": "navis-inquisition-actors", "label": "Инквизиция — Персонажи", "path": "packs/navis-inquisition-actors", "type": "Actor", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
-    { "name": "navis-inquisition-items", "label": "Инквизиция — Предметы", "path": "packs/navis-inquisition-items", "type": "Item", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
-    { "name": "navis-inquisition-journals", "label": "Инквизиция — Журналы", "path": "packs/navis-inquisition-journals", "type": "JournalEntry", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
-    { "name": "navis-inquisition-tables", "label": "Инквизиция — Таблицы", "path": "packs/navis-inquisition-tables", "type": "RollTable", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
-    { "name": "navis-requisition-actors", "label": "Реквизиция — Персонажи", "path": "packs/navis-requisition-actors", "type": "Actor", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
-    { "name": "navis-requisition-items", "label": "Реквизиция — Предметы", "path": "packs/navis-requisition-items", "type": "Item", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
-    { "name": "navis-requisition-journals", "label": "Реквизиция — Журналы", "path": "packs/navis-requisition-journals", "type": "JournalEntry", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
-    { "name": "navis-requisition-tables", "label": "Реквизиция — Таблицы", "path": "packs/navis-requisition-tables", "type": "RollTable", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
-    { "name": "navis-voll-actors", "label": "Voll — Персонажи", "path": "packs/navis-voll-actors", "type": "Actor", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
-    { "name": "navis-voll-items", "label": "Voll — Предметы", "path": "packs/navis-voll-items", "type": "Item", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
-    { "name": "navis-voll-journals", "label": "Voll — Журналы", "path": "packs/navis-voll-journals", "type": "JournalEntry", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
-    { "name": "navis-voll-tables", "label": "Voll — Таблицы", "path": "packs/navis-voll-tables", "type": "RollTable", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
-    { "name": "navis-voll-scenes", "label": "Voll — Сцены", "path": "packs/navis-voll-scenes", "type": "Scene", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    {
+      "name": "navis-core-actors",
+      "label": "Core — Персонажи",
+      "path": "packs/navis-core-actors",
+      "type": "Actor",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-core-items",
+      "label": "Core — Предметы",
+      "path": "packs/navis-core-items",
+      "type": "Item",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-core-journals",
+      "label": "Core — Журналы",
+      "path": "packs/navis-core-journals",
+      "type": "JournalEntry",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-core-tables",
+      "label": "Core — Таблицы",
+      "path": "packs/navis-core-tables",
+      "type": "RollTable",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-core-scenes",
+      "label": "Core — Сцены",
+      "path": "packs/navis-core-scenes",
+      "type": "Scene",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-inquisition-actors",
+      "label": "Инквизиция — Персонажи",
+      "path": "packs/navis-inquisition-actors",
+      "type": "Actor",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-inquisition-items",
+      "label": "Инквизиция — Предметы",
+      "path": "packs/navis-inquisition-items",
+      "type": "Item",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-inquisition-journals",
+      "label": "Инквизиция — Журналы",
+      "path": "packs/navis-inquisition-journals",
+      "type": "JournalEntry",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-inquisition-tables",
+      "label": "Инквизиция — Таблицы",
+      "path": "packs/navis-inquisition-tables",
+      "type": "RollTable",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-requisition-actors",
+      "label": "Реквизиция — Персонажи",
+      "path": "packs/navis-requisition-actors",
+      "type": "Actor",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-requisition-items",
+      "label": "Реквизиция — Предметы",
+      "path": "packs/navis-requisition-items",
+      "type": "Item",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-requisition-journals",
+      "label": "Реквизиция — Журналы",
+      "path": "packs/navis-requisition-journals",
+      "type": "JournalEntry",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-requisition-tables",
+      "label": "Реквизиция — Таблицы",
+      "path": "packs/navis-requisition-tables",
+      "type": "RollTable",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-voll-actors",
+      "label": "Voll — Персонажи",
+      "path": "packs/navis-voll-actors",
+      "type": "Actor",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-voll-items",
+      "label": "Voll — Предметы",
+      "path": "packs/navis-voll-items",
+      "type": "Item",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-voll-journals",
+      "label": "Voll — Журналы",
+      "path": "packs/navis-voll-journals",
+      "type": "JournalEntry",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-voll-tables",
+      "label": "Voll — Таблицы",
+      "path": "packs/navis-voll-tables",
+      "type": "RollTable",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "navis-voll-scenes",
+      "label": "Voll — Сцены",
+      "path": "packs/navis-voll-scenes",
+      "type": "Scene",
+      "system": "impmal",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
     {
       "name": "navis-species",
       "label": "Виды",
@@ -185,7 +359,7 @@
       ]
     },
     {
-      "name": "Navis Apexialis",
+      "name": "Apex Imperialis",
       "sorting": "m",
       "color": "#b07a28",
       "packs": [
@@ -220,5 +394,8 @@
         "reason": "Carries the Russian names and rules text for the compendium documents themselves, which a language file cannot reach. Without it the interface is still Russian and the compendiums stay English."
       }
     ]
-  }
+  },
+  "url": "https://github.com/xalatathzx-art/apex-imperialis",
+  "manifest": "https://github.com/xalatathzx-art/apex-imperialis/releases/latest/download/module.json",
+  "download": "https://github.com/xalatathzx-art/apex-imperialis/releases/download/v0.3.0/module.zip"
 }

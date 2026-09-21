@@ -3,7 +3,7 @@
   "name": "Flayed One",
   "type": "npc",
   "_id": "WfXBpsGGwb1fmkGJ",
-  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -205,7 +205,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+      "src": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -227,7 +227,7 @@
     "default": 0
   },
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }
@@ -245,7 +245,7 @@
       "name": "Living Metal (3)",
       "type": "trait",
       "_id": "h0zAehP4k9VHqBd7",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -313,7 +313,7 @@
       "name": "Phase Out",
       "type": "trait",
       "_id": "VF4BVg68feyUaia7",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -373,7 +373,7 @@
       "name": "Reanimation Protocols (7+)",
       "type": "trait",
       "_id": "d0yc4X4D0sBCUixY",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -441,7 +441,7 @@
       "name": "Flensing Claws",
       "type": "trait",
       "_id": "ypaerBgQ2FacAR9U",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -501,7 +501,7 @@
       "name": "Terrifying Foes",
       "type": "trait",
       "_id": "SFiAi0SuuVFYIuH0",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -561,7 +561,7 @@
       "name": "Flayer Claws",
       "type": "weapon",
       "_id": "It282LF57ewc4E9j",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
       "system": {
         "notes": {
           "player": "",

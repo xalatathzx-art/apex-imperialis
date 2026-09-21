@@ -18,11 +18,11 @@ export const label = "Таблицы (Реквизиция)";
 
 const U = (uuid, label) => `@UUID[${uuid}]{${label}}`;
 
-const ITEM = "Compendium.navis-apexialis.navis-core-items.Item";
-const REQ_ITEM = "Compendium.navis-apexialis.navis-requisition-items.Item";
-const ACTOR = "Compendium.navis-apexialis.navis-core-actors.Actor";
-const REQ_ACTOR = "Compendium.navis-apexialis.navis-requisition-actors.Actor";
-const SERVICES = "Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.XXSPEv1YwIKDyQx4";
+const ITEM = "Compendium.apex-imperialis.navis-core-items.Item";
+const REQ_ITEM = "Compendium.apex-imperialis.navis-requisition-items.Item";
+const ACTOR = "Compendium.apex-imperialis.navis-core-actors.Actor";
+const REQ_ACTOR = "Compendium.apex-imperialis.navis-requisition-actors.Actor";
+const SERVICES = "Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.XXSPEv1YwIKDyQx4";
 
 /** Строка таблицы — у неё переводится только текст. */
 const row = text => ({ description: text });

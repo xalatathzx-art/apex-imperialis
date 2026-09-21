@@ -46,16 +46,16 @@
    "ru": "или секретов,\nкоторые открыты вашим"
   },
   "42": {
-   "en": "Anointed Weapons are holy relics and formidable tools against Chaos and its tainted servants. Countless stories and fables of ancient and apocryphal relics exist; their legends are well-documented within the @UUID[Compendium.navis-apexialis.navis-core-items.Item.PdQjDIH5C6kx3vAy]{Adeptus Ministorum}’s annals.",
-   "ru": "врагам или стали всеобщим\nдостоянием. Чтобы избегать утечек и появления\nдвойных агентов вы должны постоянно и незаметно\nизучать своих шпионов.\nПредаваясь этому занятию, персонаж выбирает до\nтрёх своих контактов в одной службе и совершает\nсреднюю (+0) проверку Взаимопонимания @UUID[Compendium.navis-apexialis.navis-core-items.Item.PdQjDIH5C6kx3vAy]{Adeptus Ministorum}"
+   "en": "Anointed Weapons are holy relics and formidable tools against Chaos and its tainted servants. Countless stories and fables of ancient and apocryphal relics exist; their legends are well-documented within the @UUID[Compendium.apex-imperialis.navis-core-items.Item.PdQjDIH5C6kx3vAy]{Adeptus Ministorum}’s annals.",
+   "ru": "врагам или стали всеобщим\nдостоянием. Чтобы избегать утечек и появления\nдвойных агентов вы должны постоянно и незаметно\nизучать своих шпионов.\nПредаваясь этому занятию, персонаж выбирает до\nтрёх своих контактов в одной службе и совершает\nсреднюю (+0) проверку Взаимопонимания @UUID[Compendium.apex-imperialis.navis-core-items.Item.PdQjDIH5C6kx3vAy]{Adeptus Ministorum}"
   },
   "46": {
    "en": "Crafting an Anointed Weapon takes considerable time. To even consider crafting an Anointed Weapon, the acolytes involved must have a Corruption Score equal to, or lower than, their Willpower Bonus (WilB). Then, follow the rules for the",
    "ru": "(Сбор\nсведений), Командования(Запугивания), Скрытности\n(Маскировки) или Техники(Безопасность). За каждые\n-2успехаодинвыбранныйперсонажемконтактзамечает\nслежку и влияние персонажа на него падает на 1. В\nслучае успеха"
   },
   "50": {
-   "en": "or @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX.JournalEntryPage.AuM2Lzd784VPe32b#crafting]{Crafting} Endeavours. The character can decide to anoint one of their existing weapons. In this case, the modifications required are so extensive that the effort required is the same as following the Crafting Endeavour. Multiple characters can work together in crafting a single weapon; if they do, they each roll and the highest result is used at each stage.",
-   "ru": "персонаж узнает каким самым высоким\nпоказателем влияния обладает каждый контакт, а за\nкаждый успех после первого он узнаёт ещё один\nпоказатель влияния каждого контакта и может оценить,\nкому на самом деле принадлежит их верность.\n\nVIII МЕЖДУ ЗАДАНИЯМИ\nСоздание оружия Веры\nТребования:участие Ордо Еретикус или Ордо Маллеус.\nОружие Веры – это священные реликвии и настоящий\nбич прислужников Хаоса. О таких древних клинках и\nболтерах ходят легенды, которые @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX.JournalEntryPage.AuM2Lzd784VPe32b#crafting]{Crafting}"
+   "en": "or @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX.JournalEntryPage.AuM2Lzd784VPe32b#crafting]{Crafting} Endeavours. The character can decide to anoint one of their existing weapons. In this case, the modifications required are so extensive that the effort required is the same as following the Crafting Endeavour. Multiple characters can work together in crafting a single weapon; if they do, they each roll and the highest result is used at each stage.",
+   "ru": "персонаж узнает каким самым высоким\nпоказателем влияния обладает каждый контакт, а за\nкаждый успех после первого он узнаёт ещё один\nпоказатель влияния каждого контакта и может оценить,\nкому на самом деле принадлежит их верность.\n\nVIII МЕЖДУ ЗАДАНИЯМИ\nСоздание оружия Веры\nТребования:участие Ордо Еретикус или Ордо Маллеус.\nОружие Веры – это священные реликвии и настоящий\nбич прислужников Хаоса. О таких древних клинках и\nболтерах ходят легенды, которые @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX.JournalEntryPage.AuM2Lzd784VPe32b#crafting]{Crafting}"
   },
   "54": {
    "en": "Once completed, the characters make an additional ",
@@ -86,8 +86,8 @@
    "ru": "ниже или равным\nсвоему бонусу Силы воли. Следуйте правилам занятия\nЗаказ снаряжения или Ремесло (стр. 232 книги правил).\nПерсонаж может решить сделать оружием Веры уже\nимеющееся у него оружие. Требуемые в таком случае\nмодификации столь обширны и требуют таких усилий,\nчто это также требует занятия Ремесло. Несколько\nперсонажей могут совместно работать над одним\nоружием – в таком случае бросок"
   },
   "70": {
-   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.gk5lzqNOFByEQLwo]{Effect}",
-   "ru": "совершает каждый,\nно применяется только наивысший результат.\nКогда дело будет сделано, @TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.gk5lzqNOFByEQLwo]{Effect}"
+   "en": "@TableHTML[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.gk5lzqNOFByEQLwo]{Effect}",
+   "ru": "совершает каждый,\nно применяется только наивысший результат.\nКогда дело будет сделано, @TableHTML[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.gk5lzqNOFByEQLwo]{Effect}"
   },
   "76": {
    "en": "Attracting Puritan Attention",
@@ -122,8 +122,8 @@
    "ru": "(+3 КУ или выше) они могут\nвыбрать один вариант безо всяких @UUID[.56xpJ7ADckt2kxHB#prepare-a-ritual-of-binding]{Prepare a Ritual of Binding}"
   },
   "104": {
-   "en": "Depending on which Inquisitors, acolytes, and informants are operating in your area and how aware they are of your plans, they may seek to investigate you directly or work towards stopping your activities. Having a high level of @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Subtlety} may offer some protection from their purview — but in the same vein, any failed Tests within these Endeavours may affect your Subtlety negatively.",
-   "ru": "бросков.\nПУРИТАН\nНекоторые занятия по своей сути заходят на\nтерриторию радикализма – таковы попытки\nобуздать силу демонов, связать их или\nзаключить союз с ксеносами. Подобные\nпроекты могут привести к тому, что член\nИнквизиции получит клеймо отлучённого\nпредателя.\nПеречисленные ниже долгосрочные занятия\nмогут привлечь внимание инквизитороуритан и их аколитов: Создание демонического\nклинка, Переговоры с ксеносами, Поиски\nистинного имени и Подготовка @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Subtlety}"
+   "en": "Depending on which Inquisitors, acolytes, and informants are operating in your area and how aware they are of your plans, they may seek to investigate you directly or work towards stopping your activities. Having a high level of @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Subtlety} may offer some protection from their purview — but in the same vein, any failed Tests within these Endeavours may affect your Subtlety negatively.",
+   "ru": "бросков.\nПУРИТАН\nНекоторые занятия по своей сути заходят на\nтерриторию радикализма – таковы попытки\nобуздать силу демонов, связать их или\nзаключить союз с ксеносами. Подобные\nпроекты могут привести к тому, что член\nИнквизиции получит клеймо отлучённого\nпредателя.\nПеречисленные ниже долгосрочные занятия\nмогут привлечь внимание инквизитороуритан и их аколитов: Создание демонического\nклинка, Переговоры с ксеносами, Поиски\nистинного имени и Подготовка @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Subtlety}"
   },
   "110": {
    "en": "Craft Daemonblade",
@@ -146,8 +146,8 @@
    "ru": "секретность.\nОРУЖИЕ ВЕРЫ\nк100 Эффект\n01–20 Неостановимое: это оружие получает свойство Бронебойное (+2) против демонов.\n21–40\nСвятое: это оружие приносит обладателю преимущество на все проверки Защиты\nили Уклонения против атак демонов.\n41–60 Проклинающее: это оружие получает свойство Разрывающее (+2) против демонов.\n61–80 Очищающее: это оружие получает свойство Состояние (Горение) против демонов.\n81–00 @UUID[.56xpJ7ADckt2kxHB#prepare-a-ritual-of-binding]{Prepare a Ritual of Binding}"
   },
   "130": {
-   "en": "A specially wrought weapon is required to contain the daemon. The weapon requires runes and sigils of daemonic command and summoning, wards for the wielder, and an array of occult paraphernalia that is sure to get an unwary acolyte immediately executed. Follow the rules for the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX.JournalEntryPage.AuM2Lzd784VPe32b#crafting]{Crafting} Endeavour, set at ",
-   "ru": "Освящённое: это оружие +Х урона демонам. Х равен бонусу Силы воли носителя.\n\nVIII МЕЖДУ ЗАДАНИЯМИ\nПосле того как будет предпринята последняя проверка,\nдемонический клинок будет создан (стр. 80), а каждый\nучаствовавший персонаж получает два очка порчи.\nИгроки могут выбрать особенность и черту из таблицы\nсо стр. 80. Если в ходе создания произошло три или\nбольше провала, ведущий выбирает (или @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX.JournalEntryPage.AuM2Lzd784VPe32b#crafting]{Crafting}"
+   "en": "A specially wrought weapon is required to contain the daemon. The weapon requires runes and sigils of daemonic command and summoning, wards for the wielder, and an array of occult paraphernalia that is sure to get an unwary acolyte immediately executed. Follow the rules for the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX.JournalEntryPage.AuM2Lzd784VPe32b#crafting]{Crafting} Endeavour, set at ",
+   "ru": "Освящённое: это оружие +Х урона демонам. Х равен бонусу Силы воли носителя.\n\nVIII МЕЖДУ ЗАДАНИЯМИ\nПосле того как будет предпринята последняя проверка,\nдемонический клинок будет создан (стр. 80), а каждый\nучаствовавший персонаж получает два очка порчи.\nИгроки могут выбрать особенность и черту из таблицы\nсо стр. 80. Если в ходе создания произошло три или\nбольше провала, ведущий выбирает (или @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX.JournalEntryPage.AuM2Lzd784VPe32b#crafting]{Crafting}"
   },
   "132": {
    "en": "Very Hard (−30)",
@@ -158,16 +158,16 @@
    "ru": "костей) один пункт из таблицы недостатков\nдемонического оружия.\nПерсонажи могут продолжить работу, взявшись за\nПоиски истинного имени (чтобы узнать истинное имя\nзаточённоговмече)или Подготовкуобрядазаключения,\nчтобы навсегда запечатать демона внутри клинка.\nЗавершение одного из этих занятий снимет все\nнедостатки оружия и придаст ему новую особенность\nиз таблицы по стр. 80.\nВнедрение в культ\nИногда самый простой способ получить сведения о\nкульте – это добыть их"
   },
   "138": {
-   "en": "After making the final Crafting Test, the characters involved gain 2 Corruption points each, and the @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ucp7Z81P4kMxGcMN]{Daemonblade} is created. They can choose a @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.t5Da1EFHdmn5gFVv]{Feature} and a Quirk. If more than three failures occur during crafting, the GM chooses or randomly rolls on the Daemonblade Flaws Table and grants the weapon that drawback.",
-   "ru": "изнутри. Это опасная задача;\nвнедрённые аколиты должны крайне убедительно\nиграть свою роль. Они должны выглядеть такими же\nеретиками, как те, чьим доверием пытаются\nзаручится, и делать то, что требует секта, чтобы\nказаться искренними. Однако возможная выгода\nстоит риска осквернения. Чтобы войти во внутренний\nкруг культа могут потребоваться годы, но тайны,\nотданные добровольно, часто бывают ценнее тех, что\nвырваны под пытками, а секта, не @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ucp7Z81P4kMxGcMN]{Daemonblade} @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.t5Da1EFHdmn5gFVv]{Feature}"
+   "en": "After making the final Crafting Test, the characters involved gain 2 Corruption points each, and the @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.ucp7Z81P4kMxGcMN]{Daemonblade} is created. They can choose a @UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.t5Da1EFHdmn5gFVv]{Feature} and a Quirk. If more than three failures occur during crafting, the GM chooses or randomly rolls on the Daemonblade Flaws Table and grants the weapon that drawback.",
+   "ru": "изнутри. Это опасная задача;\nвнедрённые аколиты должны крайне убедительно\nиграть свою роль. Они должны выглядеть такими же\nеретиками, как те, чьим доверием пытаются\nзаручится, и делать то, что требует секта, чтобы\nказаться искренними. Однако возможная выгода\nстоит риска осквернения. Чтобы войти во внутренний\nкруг культа могут потребоваться годы, но тайны,\nотданные добровольно, часто бывают ценнее тех, что\nвырваны под пытками, а секта, не @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.ucp7Z81P4kMxGcMN]{Daemonblade} @UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.t5Da1EFHdmn5gFVv]{Feature}"
   },
   "142": {
-   "en": "The characters can choose to work further on the Daemonblade by completing the @UUID[.56xpJ7ADckt2kxHB#learn-a-true-name]{Learn a True Name} Long-Term Endeavour to learn the True Name of the daemon bound to the blade or the @UUID[.56xpJ7ADckt2kxHB#prepare-a-ritual-of-binding]{Prepare a Ritual of Binding} Long-Term Endeavour to bind the daemon within the blade fully. Completing either of these Long-Term Endeavours removes any Flaws the Deamonblade has, and grants it an additional Feature from the @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.t5Da1EFHdmn5gFVv]{Daemonblade Features} Table.",
-   "ru": "потревоженная\nпрямым вмешательством, может быть уязвимой, как\nдремлющий зверь.\nЭтому занятию может предаваться несколько\nперсонажей. Если так, выберите тех, кто будет\nнепосредственно внедряться в культ (хотя бы одного).\nКаждый промежуток между заданиями все участники\nэтого занятия бросают проверку подходящего умения,\nвроде Чутья (Люди), Командования (Лидерства) или\nВзаимопонимания (Обман). Эти проверки будут\nсложными (-20).\nклинка\nТребования: участие Ордо Маллеус\nОдна мысль о подобном достаточно еретична, чтобы\nстать приговором даже полноправному инквизитору.\nТем не @UUID[.56xpJ7ADckt2kxHB#learn-a-true-name]{Learn a True Name} @UUID[.56xpJ7ADckt2kxHB#prepare-a-ritual-of-binding]{Prepare a Ritual of Binding} @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.t5Da1EFHdmn5gFVv]{Daemonblade Features}"
+   "en": "The characters can choose to work further on the Daemonblade by completing the @UUID[.56xpJ7ADckt2kxHB#learn-a-true-name]{Learn a True Name} Long-Term Endeavour to learn the True Name of the daemon bound to the blade or the @UUID[.56xpJ7ADckt2kxHB#prepare-a-ritual-of-binding]{Prepare a Ritual of Binding} Long-Term Endeavour to bind the daemon within the blade fully. Completing either of these Long-Term Endeavours removes any Flaws the Deamonblade has, and grants it an additional Feature from the @UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.t5Da1EFHdmn5gFVv]{Daemonblade Features} Table.",
+   "ru": "потревоженная\nпрямым вмешательством, может быть уязвимой, как\nдремлющий зверь.\nЭтому занятию может предаваться несколько\nперсонажей. Если так, выберите тех, кто будет\nнепосредственно внедряться в культ (хотя бы одного).\nКаждый промежуток между заданиями все участники\nэтого занятия бросают проверку подходящего умения,\nвроде Чутья (Люди), Командования (Лидерства) или\nВзаимопонимания (Обман). Эти проверки будут\nсложными (-20).\nклинка\nТребования: участие Ордо Маллеус\nОдна мысль о подобном достаточно еретична, чтобы\nстать приговором даже полноправному инквизитору.\nТем не @UUID[.56xpJ7ADckt2kxHB#learn-a-true-name]{Learn a True Name} @UUID[.56xpJ7ADckt2kxHB#prepare-a-ritual-of-binding]{Prepare a Ritual of Binding} @UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.t5Da1EFHdmn5gFVv]{Daemonblade Features}"
   },
   "146": {
-   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.QOcHAy8SBplgs81N]{Drawback}",
-   "ru": "менее дерзкие радикалы и их аколиты нередко\nсчитают, что на службе высшей силе можно браться @TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.QOcHAy8SBplgs81N]{Drawback}"
+   "en": "@TableHTML[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.QOcHAy8SBplgs81N]{Drawback}",
+   "ru": "менее дерзкие радикалы и их аколиты нередко\nсчитают, что на службе высшей силе можно браться @TableHTML[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.QOcHAy8SBplgs81N]{Drawback}"
   },
   "150": {
    "en": "Infiltrate a Cult",
@@ -254,24 +254,24 @@
    "ru": "силу врага.\nВсякий раз, когда персонажи добиваются успеха в этом\nзанятии, они совершают один шаг (см. ниже). Награду\nза шаг можно получить только один раз. При этом\nперсонажи всё глубже постигают истинное имя демона.\n0 Шаг 1: этот демон не может вызвать у персонажей\nсостояние Страх.\n0 Шаг 2: персонажи получают +1 успех на успешные\nвстречные проверки против этого демона.\n0 Шаг 3: персонажи получают преимущество на\nвстречные проверки против этого демона.\n0 Шаг4:персонажиполностьюпостигаютистинноеимя\nдемона. Они получают +3 успеха на все проверки,\nсвязанные с попытками связать, изгнать или\nсразить демона (включая те, что предпринимаются\nпри Подготовке"
   },
   "242": {
-   "en": "Multiple characters can work together in this Endeavour; if they do, they roll, and the highest result is used at each stage. But for all involved, each failed Test during this Endeavour causes the character to gain 1 Corruption, with no possible Test to resist — such are the consequences of willfully seeking out daemonic lore! Additionally, GMs are encouraged to increase the Difficulty of the Endeavour’s Test, depending on the perceived power of the daemon they seek. @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.dZFX8HOdsFDpI7l0#troops]{Troop}-tier daemons are ",
-   "ru": "обряда заключения). Это бонус\nскладывается с теми, которые перечислены выше.\nБросок совершает каждый, но применяется только\nнаивысший результат. В ходе одного промежутка,\nперсонаж может предпринять только одну проверку.\nВсе, кто провалили бросок, получают преимущество\nна следующий бросок в рамках этого занятия – это\nотражает их способность учиться на ошибках. Кроме\nтого, персонажи, что непосредственно внедряются в\nкульт, получают одно очко порчи за провал проверки.\nВсякий раз, когда персонажи добиваются успеха в\nэтом занятии, они совершают один шаг (см. ниже).\nНаграду за шаг @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.dZFX8HOdsFDpI7l0#troops]{Troop}"
+   "en": "Multiple characters can work together in this Endeavour; if they do, they roll, and the highest result is used at each stage. But for all involved, each failed Test during this Endeavour causes the character to gain 1 Corruption, with no possible Test to resist — such are the consequences of willfully seeking out daemonic lore! Additionally, GMs are encouraged to increase the Difficulty of the Endeavour’s Test, depending on the perceived power of the daemon they seek. @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.dZFX8HOdsFDpI7l0#troops]{Troop}-tier daemons are ",
+   "ru": "обряда заключения). Это бонус\nскладывается с теми, которые перечислены выше.\nБросок совершает каждый, но применяется только\nнаивысший результат. В ходе одного промежутка,\nперсонаж может предпринять только одну проверку.\nВсе, кто провалили бросок, получают преимущество\nна следующий бросок в рамках этого занятия – это\nотражает их способность учиться на ошибках. Кроме\nтого, персонажи, что непосредственно внедряются в\nкульт, получают одно очко порчи за провал проверки.\nВсякий раз, когда персонажи добиваются успеха в\nэтом занятии, они совершают один шаг (см. ниже).\nНаграду за шаг @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.dZFX8HOdsFDpI7l0#troops]{Troop}"
   },
   "244": {
    "en": "Challenging (+0)",
    "ru": "можно получить"
   },
   "246": {
-   "en": ", @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.dZFX8HOdsFDpI7l0#elites]{Elite}-tier daemons are ",
-   "ru": "только один раз. При\nэтом непосредственно внедряющиеся в культ получают\nболее полный допуск к его тайнам. Если все персонажи\nпровалили свои @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.dZFX8HOdsFDpI7l0#elites]{Elite}"
+   "en": ", @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.dZFX8HOdsFDpI7l0#elites]{Elite}-tier daemons are ",
+   "ru": "только один раз. При\nэтом непосредственно внедряющиеся в культ получают\nболее полный допуск к его тайнам. Если все персонажи\nпровалили свои @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.dZFX8HOdsFDpI7l0#elites]{Elite}"
   },
   "248": {
    "en": "Difficult (−10)",
    "ru": "проверки, они"
   },
   "250": {
-   "en": ", and @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.dZFX8HOdsFDpI7l0#leaders]{Leader}-tier daemons are ",
-   "ru": "делают шаг назад, и\nгруппа теряет последнее полученное преимущество.\nКроме того, внедряющиеся в культ @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.dZFX8HOdsFDpI7l0#leaders]{Leader}"
+   "en": ", and @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.dZFX8HOdsFDpI7l0#leaders]{Leader}-tier daemons are ",
+   "ru": "делают шаг назад, и\nгруппа теряет последнее полученное преимущество.\nКроме того, внедряющиеся в культ @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.dZFX8HOdsFDpI7l0#leaders]{Leader}"
   },
   "252": {
    "en": "Hard (−20)",
@@ -290,8 +290,8 @@
    "ru": "это были"
   },
   "270": {
-   "en": ": The characters cannot become @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Frightened} by the daemon in question.",
-   "ru": "их\nобычные контакты. Группа получает +1 к\nпревосходству, когда имеет дело с культом.\n0 Шаг 2: внедряющиеся в культ добиваются доверия\nкультистов средней руки (НИП-элиты) и могут\nполучить @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Frightened}"
+   "en": ": The characters cannot become @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Frightened} by the daemon in question.",
+   "ru": "их\nобычные контакты. Группа получает +1 к\nпревосходству, когда имеет дело с культом.\n0 Шаг 2: внедряющиеся в культ добиваются доверия\nкультистов средней руки (НИП-элиты) и могут\nполучить @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Frightened}"
   },
   "280": {
    "en": "Stage 2",

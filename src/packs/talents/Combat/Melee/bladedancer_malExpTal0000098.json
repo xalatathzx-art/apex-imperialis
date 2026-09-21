@@ -2,7 +2,7 @@
   "name": "Bladedancer",
   "type": "talent",
   "_id": "malExpTal0000098",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">+1 SL to both attacks made while two-weapon fighting with two melee weapons</span></p><hr><p><span style=\"font-family: Arial\"><em>You have brought your ability to wield two melee weapons at once to an exceptional level of skill. When armed with two one-handed melee weapons, you gain +1SL to both attacks you made as part of two-weapon fighting. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

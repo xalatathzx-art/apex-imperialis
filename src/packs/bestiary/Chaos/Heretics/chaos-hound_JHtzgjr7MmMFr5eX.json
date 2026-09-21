@@ -2,7 +2,7 @@
   "name": "Chaos Hound",
   "type": "npc",
   "_id": "JHtzgjr7MmMFr5eX",
-  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -261,7 +261,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+      "src": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -353,7 +353,7 @@
       "folder": "RK7ZH8sQLg4GKQWP",
       "name": "Dodge",
       "type": "specialisation",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -384,7 +384,7 @@
       "name": "Bite",
       "type": "weapon",
       "_id": "Xj3VdNDmyYHlSkAv",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -458,7 +458,7 @@
       "type": "trait",
       "name": "Fetch Me Their Souls",
       "_id": "rpGmBLeI5Pkehx2D",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -539,7 +539,7 @@
     "hR2OnBexveFmPbTt": 3
   },
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

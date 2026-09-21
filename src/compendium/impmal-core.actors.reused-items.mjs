@@ -20,11 +20,11 @@ export const entries = {
       },
       "Entrenching Tool": {
         "name": "Шанцевый инструмент",
-        "description": "<p>Должно быть, это самая простая часть снаряжения солдат @UUID[JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум}. Обычно это широкая лопатка для рытья окопов, ям или переноски земли и песка. Как правило, гвардейские лопатки складываются, чтобы не мешать на марше или в бою.</p><p>Также шанцевый инструмент можно использовать как @UUID[Compendium.navis-apexialis.navis-core-items.Item.lwPymw5Hah0H8Ey5]{импровизированное одноручное} холодное оружие. Хорошо заточенная лопатка в бою будет считаться @UUID[Compendium.navis-apexialis.navis-core-items.Item.cnbaSByME7caQohv]{топором}.</p>"
+        "description": "<p>Должно быть, это самая простая часть снаряжения солдат @UUID[JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум}. Обычно это широкая лопатка для рытья окопов, ям или переноски земли и песка. Как правило, гвардейские лопатки складываются, чтобы не мешать на марше или в бою.</p><p>Также шанцевый инструмент можно использовать как @UUID[Compendium.apex-imperialis.navis-core-items.Item.lwPymw5Hah0H8Ey5]{импровизированное одноручное} холодное оружие. Хорошо заточенная лопатка в бою будет считаться @UUID[Compendium.apex-imperialis.navis-core-items.Item.cnbaSByME7caQohv]{топором}.</p>"
       },
       "Respirator/Gas Mask": {
         "name": "Противогаз или респиратор",
-        "description": "<p>Противогазы и респираторы — основное средство защиты в долгих экспедициях в ядовитой атмосфере. Они закрывают почти всё лицо и помогают гораздо больше @UUID[Compendium.navis-apexialis.navis-core-items.Item.OdTP4DEK3oGAjMWZ]{фильтров-затычек}, хотя довольно тяжелы и затрудняют обзор.</p><p>Нося респиратор, вы автоматически проходите любые проверки, предпринятые, чтобы воспротивиться действию летучих патогенов, но получаете помеху в проверках Бдительности (Зрение).</p>"
+        "description": "<p>Противогазы и респираторы — основное средство защиты в долгих экспедициях в ядовитой атмосфере. Они закрывают почти всё лицо и помогают гораздо больше @UUID[Compendium.apex-imperialis.navis-core-items.Item.OdTP4DEK3oGAjMWZ]{фильтров-затычек}, хотя довольно тяжелы и затрудняют обзор.</p><p>Нося респиратор, вы автоматически проходите любые проверки, предпринятые, чтобы воспротивиться действию летучих патогенов, но получаете помеху в проверках Бдительности (Зрение).</p>"
       },
       "Survival Gear": {
         "name": "Снаряжение выживальщика",
@@ -65,11 +65,11 @@ export const entries = {
       },
       "Entrenching Tool": {
         "name": "Шанцевый инструмент",
-        "description": "<p>Должно быть, это самая простая часть снаряжения солдат @UUID[JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум}. Обычно это широкая лопатка для рытья окопов, ям или переноски земли и песка. Как правило, гвардейские лопатки складываются, чтобы не мешать на марше или в бою.</p><p>Также шанцевый инструмент можно использовать как @UUID[Compendium.navis-apexialis.navis-core-items.Item.lwPymw5Hah0H8Ey5]{импровизированное одноручное} холодное оружие. Хорошо заточенная лопатка в бою будет считаться @UUID[Compendium.navis-apexialis.navis-core-items.Item.cnbaSByME7caQohv]{топором}.</p>"
+        "description": "<p>Должно быть, это самая простая часть снаряжения солдат @UUID[JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум}. Обычно это широкая лопатка для рытья окопов, ям или переноски земли и песка. Как правило, гвардейские лопатки складываются, чтобы не мешать на марше или в бою.</p><p>Также шанцевый инструмент можно использовать как @UUID[Compendium.apex-imperialis.navis-core-items.Item.lwPymw5Hah0H8Ey5]{импровизированное одноручное} холодное оружие. Хорошо заточенная лопатка в бою будет считаться @UUID[Compendium.apex-imperialis.navis-core-items.Item.cnbaSByME7caQohv]{топором}.</p>"
       },
       "Respirator/Gas Mask": {
         "name": "Противогаз или респиратор",
-        "description": "<p>Противогазы и респираторы — основное средство защиты в долгих экспедициях в ядовитой атмосфере. Они закрывают почти всё лицо и помогают гораздо больше @UUID[Compendium.navis-apexialis.navis-core-items.Item.OdTP4DEK3oGAjMWZ]{фильтров-затычек}, хотя довольно тяжелы и затрудняют обзор.</p><p>Нося респиратор, вы автоматически проходите любые проверки, предпринятые, чтобы воспротивиться действию летучих патогенов, но получаете помеху в проверках Бдительности (Зрение).</p>"
+        "description": "<p>Противогазы и респираторы — основное средство защиты в долгих экспедициях в ядовитой атмосфере. Они закрывают почти всё лицо и помогают гораздо больше @UUID[Compendium.apex-imperialis.navis-core-items.Item.OdTP4DEK3oGAjMWZ]{фильтров-затычек}, хотя довольно тяжелы и затрудняют обзор.</p><p>Нося респиратор, вы автоматически проходите любые проверки, предпринятые, чтобы воспротивиться действию летучих патогенов, но получаете помеху в проверках Бдительности (Зрение).</p>"
       },
       "Survival Gear": {
         "name": "Снаряжение выживальщика",
@@ -88,7 +88,7 @@ export const entries = {
       },
       "Chirurgeon's Kit (5 uses)": {
         "name": "Инструменты хирургеона (5 прим.)",
-        "description": "<p>Это небольшой переносной набор автоскальпелей, кровоостанавливающих средств, печатей на раны, перевязочного материала и иных предметов, что помогут провести операцию вне настоящего госпиталя.</p><p>Инструменты хирургеона нужны, чтобы лечить многие @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE#critical-wounds]{критические раны} и некоторые @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE#injuries]{увечья}. Также набор необходим, чтобы пользоваться преимуществами таланта @UUID[Compendium.navis-apexialis.navis-core-items.Item.au8V1ieKIHkTeA8l]{Хирургеон}.</p><p>Инструменты можно применить пять раз — после этого набор нужно пополнить, потратив сумму, равную половине цены инструментов, основанной на их @UUID[JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.k5sND1C17nY9xB1G#availability]{доступности}. Вы можете потратить одно применение, чтобы остановить @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#bleeding]{Кровотечение}, полученное не от критической раны, если пройдёте <strong>простую (+40) проверку Медики</strong>. Применение инструментов для того, чтобы исцелить рану, увечье или снять состояние @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#poisoned]{Отравление}, также требует <strong>средней (+0) проверки Медики</strong>, если не указано иного. В случае провала применение инструментов всё равно засчитывается.</p>"
+        "description": "<p>Это небольшой переносной набор автоскальпелей, кровоостанавливающих средств, печатей на раны, перевязочного материала и иных предметов, что помогут провести операцию вне настоящего госпиталя.</p><p>Инструменты хирургеона нужны, чтобы лечить многие @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE#critical-wounds]{критические раны} и некоторые @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE#injuries]{увечья}. Также набор необходим, чтобы пользоваться преимуществами таланта @UUID[Compendium.apex-imperialis.navis-core-items.Item.au8V1ieKIHkTeA8l]{Хирургеон}.</p><p>Инструменты можно применить пять раз — после этого набор нужно пополнить, потратив сумму, равную половине цены инструментов, основанной на их @UUID[JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.k5sND1C17nY9xB1G#availability]{доступности}. Вы можете потратить одно применение, чтобы остановить @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#bleeding]{Кровотечение}, полученное не от критической раны, если пройдёте <strong>простую (+40) проверку Медики</strong>. Применение инструментов для того, чтобы исцелить рану, увечье или снять состояние @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#poisoned]{Отравление}, также требует <strong>средней (+0) проверки Медики</strong>, если не указано иного. В случае провала применение инструментов всё равно засчитывается.</p>"
       }
     }
   },
@@ -96,7 +96,7 @@ export const entries = {
     "items": {
       "Psyniscience": {
         "name": "Психическое чутьё",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.navis-apexialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.apex-imperialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
       },
       "Psychic": {
         "name": "Психосилы",
@@ -162,7 +162,7 @@ export const entries = {
     "items": {
       "People": {
         "name": "Люди",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#intuition-(per)]{Чутьё}</p><p>Понимание закономерностей человеческого поведения, что позволяет распознавать ложь, скрытность и странное поведение. Это умение часто используется против @UUID[Compendium.navis-apexialis.navis-core-items.Item.nhW5AN4gHrWvmfyz]{Взаимопонимания (Обман)}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#intuition-(per)]{Чутьё}</p><p>Понимание закономерностей человеческого поведения, что позволяет распознавать ложь, скрытность и странное поведение. Это умение часто используется против @UUID[Compendium.apex-imperialis.navis-core-items.Item.nhW5AN4gHrWvmfyz]{Взаимопонимания (Обман)}.</p>"
       },
       "Investigation": {
         "name": "Следствие",
@@ -174,7 +174,7 @@ export const entries = {
       },
       "Inquiry": {
         "name": "Сбор сведений",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#rapport-(fel)]{Взаимопонимание}</p><p>Природный навык или подготовка позволяют персонажу выуживать нужные данные из сплетен и дружеских разговоров, а также задавать верные вопросы. Как правило, этому умению противостоит @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)} или @UUID[Compendium.navis-apexialis.navis-core-items.Item.i5ycJHAR6vodK1sM]{Командование (Запугивание)}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#rapport-(fel)]{Взаимопонимание}</p><p>Природный навык или подготовка позволяют персонажу выуживать нужные данные из сплетен и дружеских разговоров, а также задавать верные вопросы. Как правило, этому умению противостоит @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)} или @UUID[Compendium.apex-imperialis.navis-core-items.Item.i5ycJHAR6vodK1sM]{Командование (Запугивание)}.</p>"
       },
       "Chainsword": {
         "name": "Цепной меч"
@@ -233,7 +233,7 @@ export const entries = {
     "items": {
       "Theology": {
         "name": "Богословие",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Знания}</p><p>Понимание Имперской веры, её изводов и толкований, кое-какие сведения о культе Механикус, а также поверхностные знания о еретических сектах, но никогда — о запретных культах. Богословие требует хотя бы одного улучшения @UUID[Compendium.navis-apexialis.navis-core-items.Item.uIycnZ1DuUJFFO0c]{Языков (Высокий готический)}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Знания}</p><p>Понимание Имперской веры, её изводов и толкований, кое-какие сведения о культе Механикус, а также поверхностные знания о еретических сектах, но никогда — о запретных культах. Богословие требует хотя бы одного улучшения @UUID[Compendium.apex-imperialis.navis-core-items.Item.uIycnZ1DuUJFFO0c]{Языков (Высокий готический)}.</p>"
       },
       "One-handed": {
         "name": "Одноручное оружие",
@@ -269,7 +269,7 @@ export const entries = {
       },
       "Theology": {
         "name": "Богословие",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Знания}</p><p>Понимание Имперской веры, её изводов и толкований, кое-какие сведения о культе Механикус, а также поверхностные знания о еретических сектах, но никогда — о запретных культах. Богословие требует хотя бы одного улучшения @UUID[Compendium.navis-apexialis.navis-core-items.Item.uIycnZ1DuUJFFO0c]{Языков (Высокий готический)}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Знания}</p><p>Понимание Имперской веры, её изводов и толкований, кое-какие сведения о культе Механикус, а также поверхностные знания о еретических сектах, но никогда — о запретных культах. Богословие требует хотя бы одного улучшения @UUID[Compendium.apex-imperialis.navis-core-items.Item.uIycnZ1DuUJFFO0c]{Языков (Высокий готический)}.</p>"
       },
       "Holy Icon": {
         "name": "Священный символ",
@@ -289,7 +289,7 @@ export const entries = {
       },
       "Intimidation": {
         "name": "Запугивание",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять завуалированные или недвусмысленные угрозы (физической расправой или иными ужасными карами), чтобы заставить цель сделать или рассказать что-либо. Жертва противостоит запугиванию при помощи @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}. Если одна сторона такого разговора превосходит другую @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#size]{размером}, то она получает преимущество в проверке.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять завуалированные или недвусмысленные угрозы (физической расправой или иными ужасными карами), чтобы заставить цель сделать или рассказать что-либо. Жертва противостоит запугиванию при помощи @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}. Если одна сторона такого разговора превосходит другую @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#size]{размером}, то она получает преимущество в проверке.</p>"
       },
       "Pistols": {
         "name": "Пистолеты",
@@ -301,7 +301,7 @@ export const entries = {
       },
       "Inquiry": {
         "name": "Сбор сведений",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#rapport-(fel)]{Взаимопонимание}</p><p>Природный навык или подготовка позволяют персонажу выуживать нужные данные из сплетен и дружеских разговоров, а также задавать верные вопросы. Как правило, этому умению противостоит @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)} или @UUID[Compendium.navis-apexialis.navis-core-items.Item.i5ycJHAR6vodK1sM]{Командование (Запугивание)}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#rapport-(fel)]{Взаимопонимание}</p><p>Природный навык или подготовка позволяют персонажу выуживать нужные данные из сплетен и дружеских разговоров, а также задавать верные вопросы. Как правило, этому умению противостоит @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)} или @UUID[Compendium.apex-imperialis.navis-core-items.Item.i5ycJHAR6vodK1sM]{Командование (Запугивание)}.</p>"
       },
       "Shock Maul": {
         "name": "Шоковая булава"
@@ -381,7 +381,7 @@ export const entries = {
       },
       "Theology": {
         "name": "Богословие",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Знания}</p><p>Понимание Имперской веры, её изводов и толкований, кое-какие сведения о культе Механикус, а также поверхностные знания о еретических сектах, но никогда — о запретных культах. Богословие требует хотя бы одного улучшения @UUID[Compendium.navis-apexialis.navis-core-items.Item.uIycnZ1DuUJFFO0c]{Языков (Высокий готический)}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Знания}</p><p>Понимание Имперской веры, её изводов и толкований, кое-какие сведения о культе Механикус, а также поверхностные знания о еретических сектах, но никогда — о запретных культах. Богословие требует хотя бы одного улучшения @UUID[Compendium.apex-imperialis.navis-core-items.Item.uIycnZ1DuUJFFO0c]{Языков (Высокий готический)}.</p>"
       },
       "Leadership": {
         "name": "Лидерство",
@@ -462,11 +462,11 @@ export const entries = {
       },
       "Interrogation": {
         "name": "Допрос",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять множество методов получать ответы. Умелый дознаватель может оказывать давление самыми разными приёмами — скрытными и явными, — чтобы вытянуть сведения из допрашиваемого, даже если тот готов сотрудничать. Речь не о пытках, хотя долгий допрос может быть очень выматывающим. Броскам дознавателя цель противопоставляет @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)} или @UUID[Compendium.navis-apexialis.navis-core-items.Item.hu6z7RnzzKS830Av]{Стойкость (Боль)}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять множество методов получать ответы. Умелый дознаватель может оказывать давление самыми разными приёмами — скрытными и явными, — чтобы вытянуть сведения из допрашиваемого, даже если тот готов сотрудничать. Речь не о пытках, хотя долгий допрос может быть очень выматывающим. Броскам дознавателя цель противопоставляет @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)} или @UUID[Compendium.apex-imperialis.navis-core-items.Item.hu6z7RnzzKS830Av]{Стойкость (Боль)}.</p>"
       },
       "Intimidation": {
         "name": "Запугивание",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять завуалированные или недвусмысленные угрозы (физической расправой или иными ужасными карами), чтобы заставить цель сделать или рассказать что-либо. Жертва противостоит запугиванию при помощи @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}. Если одна сторона такого разговора превосходит другую @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#size]{размером}, то она получает преимущество в проверке.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять завуалированные или недвусмысленные угрозы (физической расправой или иными ужасными карами), чтобы заставить цель сделать или рассказать что-либо. Жертва противостоит запугиванию при помощи @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}. Если одна сторона такого разговора превосходит другую @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#size]{размером}, то она получает преимущество в проверке.</p>"
       },
       "Long Guns": {
         "name": "Лёгкое оружие",
@@ -518,7 +518,7 @@ export const entries = {
       },
       "Haggle": {
         "name": "Торг",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#rapport-(fel)]{Взаимопонимание}</p><p>Мастер древнего искусства торга всегда заключит лучшую сделку. Как правило, этому умению противостоит @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)} или @UUID[Compendium.navis-apexialis.navis-core-items.Item.t3d39VvFsvgeu0bW]{Логика (Оценка)}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#rapport-(fel)]{Взаимопонимание}</p><p>Мастер древнего искусства торга всегда заключит лучшую сделку. Как правило, этому умению противостоит @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)} или @UUID[Compendium.apex-imperialis.navis-core-items.Item.t3d39VvFsvgeu0bW]{Логика (Оценка)}.</p>"
       },
       "Stub Revolver": {
         "name": "Стаб-револьвер"
@@ -545,7 +545,7 @@ export const entries = {
       },
       "Interrogation": {
         "name": "Допрос",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять множество методов получать ответы. Умелый дознаватель может оказывать давление самыми разными приёмами — скрытными и явными, — чтобы вытянуть сведения из допрашиваемого, даже если тот готов сотрудничать. Речь не о пытках, хотя долгий допрос может быть очень выматывающим. Броскам дознавателя цель противопоставляет @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)} или @UUID[Compendium.navis-apexialis.navis-core-items.Item.hu6z7RnzzKS830Av]{Стойкость (Боль)}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять множество методов получать ответы. Умелый дознаватель может оказывать давление самыми разными приёмами — скрытными и явными, — чтобы вытянуть сведения из допрашиваемого, даже если тот готов сотрудничать. Речь не о пытках, хотя долгий допрос может быть очень выматывающим. Броскам дознавателя цель противопоставляет @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)} или @UUID[Compendium.apex-imperialis.navis-core-items.Item.hu6z7RnzzKS830Av]{Стойкость (Боль)}.</p>"
       },
       "Needle Pistol": {
         "name": "Игольный пистолет"
@@ -586,7 +586,7 @@ export const entries = {
       },
       "Chirurgeon's Kit (5 uses)": {
         "name": "Инструменты хирургеона (5 прим.)",
-        "description": "<p>Это небольшой переносной набор автоскальпелей, кровоостанавливающих средств, печатей на раны, перевязочного материала и иных предметов, что помогут провести операцию вне настоящего госпиталя.</p><p>Инструменты хирургеона нужны, чтобы лечить многие @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE#critical-wounds]{критические раны} и некоторые @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE#injuries]{увечья}. Также набор необходим, чтобы пользоваться преимуществами таланта @UUID[Compendium.navis-apexialis.navis-core-items.Item.au8V1ieKIHkTeA8l]{Хирургеон}.</p><p>Инструменты можно применить пять раз — после этого набор нужно пополнить, потратив сумму, равную половине цены инструментов, основанной на их @UUID[JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.k5sND1C17nY9xB1G#availability]{доступности}. Вы можете потратить одно применение, чтобы остановить @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#bleeding]{Кровотечение}, полученное не от критической раны, если пройдёте <strong>простую (+40) проверку Медики</strong>. Применение инструментов для того, чтобы исцелить рану, увечье или снять состояние @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#poisoned]{Отравление}, также требует <strong>средней (+0) проверки Медики</strong>, если не указано иного. В случае провала применение инструментов всё равно засчитывается.</p>"
+        "description": "<p>Это небольшой переносной набор автоскальпелей, кровоостанавливающих средств, печатей на раны, перевязочного материала и иных предметов, что помогут провести операцию вне настоящего госпиталя.</p><p>Инструменты хирургеона нужны, чтобы лечить многие @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE#critical-wounds]{критические раны} и некоторые @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE#injuries]{увечья}. Также набор необходим, чтобы пользоваться преимуществами таланта @UUID[Compendium.apex-imperialis.navis-core-items.Item.au8V1ieKIHkTeA8l]{Хирургеон}.</p><p>Инструменты можно применить пять раз — после этого набор нужно пополнить, потратив сумму, равную половине цены инструментов, основанной на их @UUID[JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.k5sND1C17nY9xB1G#availability]{доступности}. Вы можете потратить одно применение, чтобы остановить @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#bleeding]{Кровотечение}, полученное не от критической раны, если пройдёте <strong>простую (+40) проверку Медики</strong>. Применение инструментов для того, чтобы исцелить рану, увечье или снять состояние @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#poisoned]{Отравление}, также требует <strong>средней (+0) проверки Медики</strong>, если не указано иного. В случае провала применение инструментов всё равно засчитывается.</p>"
       },
       "Backpack/Slings": {
         "name": "Рюкзак или сумка",
@@ -601,7 +601,7 @@ export const entries = {
       },
       "Respirator/Gas Mask": {
         "name": "Противогаз или респиратор",
-        "description": "<p>Противогазы и респираторы — основное средство защиты в долгих экспедициях в ядовитой атмосфере. Они закрывают почти всё лицо и помогают гораздо больше @UUID[Compendium.navis-apexialis.navis-core-items.Item.OdTP4DEK3oGAjMWZ]{фильтров-затычек}, хотя довольно тяжелы и затрудняют обзор.</p><p>Нося респиратор, вы автоматически проходите любые проверки, предпринятые, чтобы воспротивиться действию летучих патогенов, но получаете помеху в проверках Бдительности (Зрение).</p>"
+        "description": "<p>Противогазы и респираторы — основное средство защиты в долгих экспедициях в ядовитой атмосфере. Они закрывают почти всё лицо и помогают гораздо больше @UUID[Compendium.apex-imperialis.navis-core-items.Item.OdTP4DEK3oGAjMWZ]{фильтров-затычек}, хотя довольно тяжелы и затрудняют обзор.</p><p>Нося респиратор, вы автоматически проходите любые проверки, предпринятые, чтобы воспротивиться действию летучих патогенов, но получаете помеху в проверках Бдительности (Зрение).</p>"
       },
       "Photo-Visors/Contacts": {
         "name": "Фотовизор или фотолинзы",
@@ -625,7 +625,7 @@ export const entries = {
     "items": {
       "Psyniscience": {
         "name": "Психическое чутьё",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.navis-apexialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.apex-imperialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
       },
       "Psychic": {
         "name": "Психосилы",
@@ -636,7 +636,7 @@ export const entries = {
       },
       "Pyromancer": {
         "name": "Пиромант",
-        "description": "<p>Пиромант-примарис знает следующие психосилы дисциплины «Пиромантия»: @UUID[Compendium.navis-apexialis.navis-core-items.Item.9irgirlcPgyDaPzw]{Огненная буря}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.dd8KipWb9j7FmYH7]{Инферно}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.twQADlfZ6PHF1DXO]{Плавящий луч}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.gZWa7JyP91MiigzA]{Плазменный факел}.</p>"
+        "description": "<p>Пиромант-примарис знает следующие психосилы дисциплины «Пиромантия»: @UUID[Compendium.apex-imperialis.navis-core-items.Item.9irgirlcPgyDaPzw]{Огненная буря}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.dd8KipWb9j7FmYH7]{Инферно}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.twQADlfZ6PHF1DXO]{Плавящий луч}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.gZWa7JyP91MiigzA]{Плазменный факел}.</p>"
       },
       "Force Staff": {
         "name": "Психосиловой посох"
@@ -712,11 +712,11 @@ export const entries = {
       },
       "Entrenching Tool": {
         "name": "Шанцевый инструмент",
-        "description": "<p>Должно быть, это самая простая часть снаряжения солдат @UUID[JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум}. Обычно это широкая лопатка для рытья окопов, ям или переноски земли и песка. Как правило, гвардейские лопатки складываются, чтобы не мешать на марше или в бою.</p><p>Также шанцевый инструмент можно использовать как @UUID[Compendium.navis-apexialis.navis-core-items.Item.lwPymw5Hah0H8Ey5]{импровизированное одноручное} холодное оружие. Хорошо заточенная лопатка в бою будет считаться @UUID[Compendium.navis-apexialis.navis-core-items.Item.cnbaSByME7caQohv]{топором}.</p>"
+        "description": "<p>Должно быть, это самая простая часть снаряжения солдат @UUID[JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум}. Обычно это широкая лопатка для рытья окопов, ям или переноски земли и песка. Как правило, гвардейские лопатки складываются, чтобы не мешать на марше или в бою.</p><p>Также шанцевый инструмент можно использовать как @UUID[Compendium.apex-imperialis.navis-core-items.Item.lwPymw5Hah0H8Ey5]{импровизированное одноручное} холодное оружие. Хорошо заточенная лопатка в бою будет считаться @UUID[Compendium.apex-imperialis.navis-core-items.Item.cnbaSByME7caQohv]{топором}.</p>"
       },
       "Respirator/Gas Mask": {
         "name": "Противогаз или респиратор",
-        "description": "<p>Противогазы и респираторы — основное средство защиты в долгих экспедициях в ядовитой атмосфере. Они закрывают почти всё лицо и помогают гораздо больше @UUID[Compendium.navis-apexialis.navis-core-items.Item.OdTP4DEK3oGAjMWZ]{фильтров-затычек}, хотя довольно тяжелы и затрудняют обзор.</p><p>Нося респиратор, вы автоматически проходите любые проверки, предпринятые, чтобы воспротивиться действию летучих патогенов, но получаете помеху в проверках Бдительности (Зрение).</p>"
+        "description": "<p>Противогазы и респираторы — основное средство защиты в долгих экспедициях в ядовитой атмосфере. Они закрывают почти всё лицо и помогают гораздо больше @UUID[Compendium.apex-imperialis.navis-core-items.Item.OdTP4DEK3oGAjMWZ]{фильтров-затычек}, хотя довольно тяжелы и затрудняют обзор.</p><p>Нося респиратор, вы автоматически проходите любые проверки, предпринятые, чтобы воспротивиться действию летучих патогенов, но получаете помеху в проверках Бдительности (Зрение).</p>"
       },
       "Survival Gear": {
         "name": "Снаряжение выживальщика",
@@ -780,7 +780,7 @@ export const entries = {
     "items": {
       "Psyniscience": {
         "name": "Психическое чутьё",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.navis-apexialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.apex-imperialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
       },
       "Psychic": {
         "name": "Психосилы",
@@ -806,7 +806,7 @@ export const entries = {
       },
       "Pyromancer": {
         "name": "Пиромант",
-        "description": "<p>Пиромант-примарис знает следующие психосилы дисциплины «Пиромантия»: @UUID[Compendium.navis-apexialis.navis-core-items.Item.9irgirlcPgyDaPzw]{Огненная буря}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.dd8KipWb9j7FmYH7]{Инферно}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.twQADlfZ6PHF1DXO]{Плавящий луч}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.gZWa7JyP91MiigzA]{Плазменный факел}.</p>"
+        "description": "<p>Пиромант-примарис знает следующие психосилы дисциплины «Пиромантия»: @UUID[Compendium.apex-imperialis.navis-core-items.Item.9irgirlcPgyDaPzw]{Огненная буря}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.dd8KipWb9j7FmYH7]{Инферно}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.twQADlfZ6PHF1DXO]{Плавящий луч}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.gZWa7JyP91MiigzA]{Плазменный факел}.</p>"
       },
       "Force Staff": {
         "name": "Психосиловой посох"
@@ -863,11 +863,11 @@ export const entries = {
       },
       "Entrenching Tool": {
         "name": "Шанцевый инструмент",
-        "description": "<p>Должно быть, это самая простая часть снаряжения солдат @UUID[JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум}. Обычно это широкая лопатка для рытья окопов, ям или переноски земли и песка. Как правило, гвардейские лопатки складываются, чтобы не мешать на марше или в бою.</p><p>Также шанцевый инструмент можно использовать как @UUID[Compendium.navis-apexialis.navis-core-items.Item.lwPymw5Hah0H8Ey5]{импровизированное одноручное} холодное оружие. Хорошо заточенная лопатка в бою будет считаться @UUID[Compendium.navis-apexialis.navis-core-items.Item.cnbaSByME7caQohv]{топором}.</p>"
+        "description": "<p>Должно быть, это самая простая часть снаряжения солдат @UUID[JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум}. Обычно это широкая лопатка для рытья окопов, ям или переноски земли и песка. Как правило, гвардейские лопатки складываются, чтобы не мешать на марше или в бою.</p><p>Также шанцевый инструмент можно использовать как @UUID[Compendium.apex-imperialis.navis-core-items.Item.lwPymw5Hah0H8Ey5]{импровизированное одноручное} холодное оружие. Хорошо заточенная лопатка в бою будет считаться @UUID[Compendium.apex-imperialis.navis-core-items.Item.cnbaSByME7caQohv]{топором}.</p>"
       },
       "Respirator/Gas Mask": {
         "name": "Противогаз или респиратор",
-        "description": "<p>Противогазы и респираторы — основное средство защиты в долгих экспедициях в ядовитой атмосфере. Они закрывают почти всё лицо и помогают гораздо больше @UUID[Compendium.navis-apexialis.navis-core-items.Item.OdTP4DEK3oGAjMWZ]{фильтров-затычек}, хотя довольно тяжелы и затрудняют обзор.</p><p>Нося респиратор, вы автоматически проходите любые проверки, предпринятые, чтобы воспротивиться действию летучих патогенов, но получаете помеху в проверках Бдительности (Зрение).</p>"
+        "description": "<p>Противогазы и респираторы — основное средство защиты в долгих экспедициях в ядовитой атмосфере. Они закрывают почти всё лицо и помогают гораздо больше @UUID[Compendium.apex-imperialis.navis-core-items.Item.OdTP4DEK3oGAjMWZ]{фильтров-затычек}, хотя довольно тяжелы и затрудняют обзор.</p><p>Нося респиратор, вы автоматически проходите любые проверки, предпринятые, чтобы воспротивиться действию летучих патогенов, но получаете помеху в проверках Бдительности (Зрение).</p>"
       },
       "Survival Gear": {
         "name": "Снаряжение выживальщика",
@@ -908,7 +908,7 @@ export const entries = {
       },
       "Interrogation": {
         "name": "Допрос",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять множество методов получать ответы. Умелый дознаватель может оказывать давление самыми разными приёмами — скрытными и явными, — чтобы вытянуть сведения из допрашиваемого, даже если тот готов сотрудничать. Речь не о пытках, хотя долгий допрос может быть очень выматывающим. Броскам дознавателя цель противопоставляет @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)} или @UUID[Compendium.navis-apexialis.navis-core-items.Item.hu6z7RnzzKS830Av]{Стойкость (Боль)}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять множество методов получать ответы. Умелый дознаватель может оказывать давление самыми разными приёмами — скрытными и явными, — чтобы вытянуть сведения из допрашиваемого, даже если тот готов сотрудничать. Речь не о пытках, хотя долгий допрос может быть очень выматывающим. Броскам дознавателя цель противопоставляет @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)} или @UUID[Compendium.apex-imperialis.navis-core-items.Item.hu6z7RnzzKS830Av]{Стойкость (Боль)}.</p>"
       },
       "Deception": {
         "name": "Обман",
@@ -965,7 +965,7 @@ export const entries = {
       },
       "Chirurgeon's Kit (5 uses)": {
         "name": "Инструменты хирургеона (5 прим.)",
-        "description": "<p>Это небольшой переносной набор автоскальпелей, кровоостанавливающих средств, печатей на раны, перевязочного материала и иных предметов, что помогут провести операцию вне настоящего госпиталя.</p><p>Инструменты хирургеона нужны, чтобы лечить многие @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE#critical-wounds]{критические раны} и некоторые @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE#injuries]{увечья}. Также набор необходим, чтобы пользоваться преимуществами таланта @UUID[Compendium.navis-apexialis.navis-core-items.Item.au8V1ieKIHkTeA8l]{Хирургеон}.</p><p>Инструменты можно применить пять раз — после этого набор нужно пополнить, потратив сумму, равную половине цены инструментов, основанной на их @UUID[JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.k5sND1C17nY9xB1G#availability]{доступности}. Вы можете потратить одно применение, чтобы остановить @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#bleeding]{Кровотечение}, полученное не от критической раны, если пройдёте <strong>простую (+40) проверку Медики</strong>. Применение инструментов для того, чтобы исцелить рану, увечье или снять состояние @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#poisoned]{Отравление}, также требует <strong>средней (+0) проверки Медики</strong>, если не указано иного. В случае провала применение инструментов всё равно засчитывается.</p>"
+        "description": "<p>Это небольшой переносной набор автоскальпелей, кровоостанавливающих средств, печатей на раны, перевязочного материала и иных предметов, что помогут провести операцию вне настоящего госпиталя.</p><p>Инструменты хирургеона нужны, чтобы лечить многие @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE#critical-wounds]{критические раны} и некоторые @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE#injuries]{увечья}. Также набор необходим, чтобы пользоваться преимуществами таланта @UUID[Compendium.apex-imperialis.navis-core-items.Item.au8V1ieKIHkTeA8l]{Хирургеон}.</p><p>Инструменты можно применить пять раз — после этого набор нужно пополнить, потратив сумму, равную половине цены инструментов, основанной на их @UUID[JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.k5sND1C17nY9xB1G#availability]{доступности}. Вы можете потратить одно применение, чтобы остановить @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#bleeding]{Кровотечение}, полученное не от критической раны, если пройдёте <strong>простую (+40) проверку Медики</strong>. Применение инструментов для того, чтобы исцелить рану, увечье или снять состояние @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#poisoned]{Отравление}, также требует <strong>средней (+0) проверки Медики</strong>, если не указано иного. В случае провала применение инструментов всё равно засчитывается.</p>"
       },
       "Magnoculars": {
         "name": "Магнокль",
@@ -997,7 +997,7 @@ export const entries = {
       },
       "Theology": {
         "name": "Богословие",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Знания}</p><p>Понимание Имперской веры, её изводов и толкований, кое-какие сведения о культе Механикус, а также поверхностные знания о еретических сектах, но никогда — о запретных культах. Богословие требует хотя бы одного улучшения @UUID[Compendium.navis-apexialis.navis-core-items.Item.uIycnZ1DuUJFFO0c]{Языков (Высокий готический)}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Знания}</p><p>Понимание Имперской веры, её изводов и толкований, кое-какие сведения о культе Механикус, а также поверхностные знания о еретических сектах, но никогда — о запретных культах. Богословие требует хотя бы одного улучшения @UUID[Compendium.apex-imperialis.navis-core-items.Item.uIycnZ1DuUJFFO0c]{Языков (Высокий готический)}.</p>"
       },
       "Human": {
         "name": "Люди",
@@ -1031,11 +1031,11 @@ export const entries = {
     "items": {
       "Interrogation": {
         "name": "Допрос",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять множество методов получать ответы. Умелый дознаватель может оказывать давление самыми разными приёмами — скрытными и явными, — чтобы вытянуть сведения из допрашиваемого, даже если тот готов сотрудничать. Речь не о пытках, хотя долгий допрос может быть очень выматывающим. Броскам дознавателя цель противопоставляет @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)} или @UUID[Compendium.navis-apexialis.navis-core-items.Item.hu6z7RnzzKS830Av]{Стойкость (Боль)}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять множество методов получать ответы. Умелый дознаватель может оказывать давление самыми разными приёмами — скрытными и явными, — чтобы вытянуть сведения из допрашиваемого, даже если тот готов сотрудничать. Речь не о пытках, хотя долгий допрос может быть очень выматывающим. Броскам дознавателя цель противопоставляет @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)} или @UUID[Compendium.apex-imperialis.navis-core-items.Item.hu6z7RnzzKS830Av]{Стойкость (Боль)}.</p>"
       },
       "Intimidation": {
         "name": "Запугивание",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять завуалированные или недвусмысленные угрозы (физической расправой или иными ужасными карами), чтобы заставить цель сделать или рассказать что-либо. Жертва противостоит запугиванию при помощи @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}. Если одна сторона такого разговора превосходит другую @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#size]{размером}, то она получает преимущество в проверке.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять завуалированные или недвусмысленные угрозы (физической расправой или иными ужасными карами), чтобы заставить цель сделать или рассказать что-либо. Жертва противостоит запугиванию при помощи @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}. Если одна сторона такого разговора превосходит другую @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#size]{размером}, то она получает преимущество в проверке.</p>"
       },
       "Shock Maul": {
         "name": "Шоковая булава"
@@ -1244,7 +1244,7 @@ export const entries = {
       },
       "Intimidation": {
         "name": "Запугивание",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять завуалированные или недвусмысленные угрозы (физической расправой или иными ужасными карами), чтобы заставить цель сделать или рассказать что-либо. Жертва противостоит запугиванию при помощи @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}. Если одна сторона такого разговора превосходит другую @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#size]{размером}, то она получает преимущество в проверке.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять завуалированные или недвусмысленные угрозы (физической расправой или иными ужасными карами), чтобы заставить цель сделать или рассказать что-либо. Жертва противостоит запугиванию при помощи @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}. Если одна сторона такого разговора превосходит другую @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#size]{размером}, то она получает преимущество в проверке.</p>"
       },
       "Leadership": {
         "name": "Лидерство",
@@ -1268,7 +1268,7 @@ export const entries = {
       },
       "z3pFUwFlp4BJf1oJ": {
         "name": "Запретное",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Языки}</p><p>Обладатели этой специализации владеют узко распространённым или запрещённым в Империуме языком. Знать наречия ксеносов почти всегда считается ересью — впрочем, сёстры орденов Диалогус нередко получают от Адептус Министорум специальное разрешение на их изучение. На некоторых чужацких наречиях — например, круутском — человек вообще неспособен говорить, не получив аугментаций. Также, кроме еретических языков, существуют и слишком священные для простолюдинов — например, такова техножреческая лингва технис, запретная для всех, не принадлежащих к их культу, ибо основана на двоичном машинном коде, и говорить на ней могут лишь обладатели нужных имплантатов да немногочисленные гении. Другой пример — мыслежесты сестёр Безмолвия, почти неизвестные посторонним. Каждый запретный язык требует соответствующего таланта @UUID[Compendium.navis-apexialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Запретные тайны}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Языки}</p><p>Обладатели этой специализации владеют узко распространённым или запрещённым в Империуме языком. Знать наречия ксеносов почти всегда считается ересью — впрочем, сёстры орденов Диалогус нередко получают от Адептус Министорум специальное разрешение на их изучение. На некоторых чужацких наречиях — например, круутском — человек вообще неспособен говорить, не получив аугментаций. Также, кроме еретических языков, существуют и слишком священные для простолюдинов — например, такова техножреческая лингва технис, запретная для всех, не принадлежащих к их культу, ибо основана на двоичном машинном коде, и говорить на ней могут лишь обладатели нужных имплантатов да немногочисленные гении. Другой пример — мыслежесты сестёр Безмолвия, почти неизвестные посторонним. Каждый запретный язык требует соответствующего таланта @UUID[Compendium.apex-imperialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Запретные тайны}.</p>"
       },
       "Holy Icon": {
         "name": "Священный символ",
@@ -1336,7 +1336,7 @@ export const entries = {
       },
       "z3pFUwFlp4BJf1oJ": {
         "name": "Запретное",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Языки}</p><p>Обладатели этой специализации владеют узко распространённым или запрещённым в Империуме языком. Знать наречия ксеносов почти всегда считается ересью — впрочем, сёстры орденов Диалогус нередко получают от Адептус Министорум специальное разрешение на их изучение. На некоторых чужацких наречиях — например, круутском — человек вообще неспособен говорить, не получив аугментаций. Также, кроме еретических языков, существуют и слишком священные для простолюдинов — например, такова техножреческая лингва технис, запретная для всех, не принадлежащих к их культу, ибо основана на двоичном машинном коде, и говорить на ней могут лишь обладатели нужных имплантатов да немногочисленные гении. Другой пример — мыслежесты сестёр Безмолвия, почти неизвестные посторонним. Каждый запретный язык требует соответствующего таланта @UUID[Compendium.navis-apexialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Запретные тайны}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Языки}</p><p>Обладатели этой специализации владеют узко распространённым или запрещённым в Империуме языком. Знать наречия ксеносов почти всегда считается ересью — впрочем, сёстры орденов Диалогус нередко получают от Адептус Министорум специальное разрешение на их изучение. На некоторых чужацких наречиях — например, круутском — человек вообще неспособен говорить, не получив аугментаций. Также, кроме еретических языков, существуют и слишком священные для простолюдинов — например, такова техножреческая лингва технис, запретная для всех, не принадлежащих к их культу, ибо основана на двоичном машинном коде, и говорить на ней могут лишь обладатели нужных имплантатов да немногочисленные гении. Другой пример — мыслежесты сестёр Безмолвия, почти неизвестные посторонним. Каждый запретный язык требует соответствующего таланта @UUID[Compendium.apex-imperialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Запретные тайны}.</p>"
       },
       "Robes/Light Leathers": {
         "name": "Одеяние, лёгкий кожаный доспех"
@@ -1430,11 +1430,11 @@ export const entries = {
       },
       "Entrenching Tool": {
         "name": "Шанцевый инструмент",
-        "description": "<p>Должно быть, это самая простая часть снаряжения солдат @UUID[JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум}. Обычно это широкая лопатка для рытья окопов, ям или переноски земли и песка. Как правило, гвардейские лопатки складываются, чтобы не мешать на марше или в бою.</p><p>Также шанцевый инструмент можно использовать как @UUID[Compendium.navis-apexialis.navis-core-items.Item.lwPymw5Hah0H8Ey5]{импровизированное одноручное} холодное оружие. Хорошо заточенная лопатка в бою будет считаться @UUID[Compendium.navis-apexialis.navis-core-items.Item.cnbaSByME7caQohv]{топором}.</p>"
+        "description": "<p>Должно быть, это самая простая часть снаряжения солдат @UUID[JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум}. Обычно это широкая лопатка для рытья окопов, ям или переноски земли и песка. Как правило, гвардейские лопатки складываются, чтобы не мешать на марше или в бою.</p><p>Также шанцевый инструмент можно использовать как @UUID[Compendium.apex-imperialis.navis-core-items.Item.lwPymw5Hah0H8Ey5]{импровизированное одноручное} холодное оружие. Хорошо заточенная лопатка в бою будет считаться @UUID[Compendium.apex-imperialis.navis-core-items.Item.cnbaSByME7caQohv]{топором}.</p>"
       },
       "Respirator/Gas Mask": {
         "name": "Противогаз или респиратор",
-        "description": "<p>Противогазы и респираторы — основное средство защиты в долгих экспедициях в ядовитой атмосфере. Они закрывают почти всё лицо и помогают гораздо больше @UUID[Compendium.navis-apexialis.navis-core-items.Item.OdTP4DEK3oGAjMWZ]{фильтров-затычек}, хотя довольно тяжелы и затрудняют обзор.</p><p>Нося респиратор, вы автоматически проходите любые проверки, предпринятые, чтобы воспротивиться действию летучих патогенов, но получаете помеху в проверках Бдительности (Зрение).</p>"
+        "description": "<p>Противогазы и респираторы — основное средство защиты в долгих экспедициях в ядовитой атмосфере. Они закрывают почти всё лицо и помогают гораздо больше @UUID[Compendium.apex-imperialis.navis-core-items.Item.OdTP4DEK3oGAjMWZ]{фильтров-затычек}, хотя довольно тяжелы и затрудняют обзор.</p><p>Нося респиратор, вы автоматически проходите любые проверки, предпринятые, чтобы воспротивиться действию летучих патогенов, но получаете помеху в проверках Бдительности (Зрение).</p>"
       },
       "Survival Gear": {
         "name": "Снаряжение выживальщика",
@@ -1453,7 +1453,7 @@ export const entries = {
     "items": {
       "Brawling": {
         "name": "Кулачный бой",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#melee-(ws)]{Бой}</p><p>Владение жестоким искусством драться голыми руками. Оно поможет расправляться с врагами при помощи рук, кастетов или даже могучих @UUID[Compendium.navis-apexialis.navis-core-items.Item.Tm38HWpxtnkcrmKl]{силовых кулаков}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#melee-(ws)]{Бой}</p><p>Владение жестоким искусством драться голыми руками. Оно поможет расправляться с врагами при помощи рук, кастетов или даже могучих @UUID[Compendium.apex-imperialis.navis-core-items.Item.Tm38HWpxtnkcrmKl]{силовых кулаков}.</p>"
       },
       "pLgpnwHLE2kyLx9k": {
         "name": "Когти Варпа"
@@ -1473,7 +1473,7 @@ export const entries = {
       },
       "z3pFUwFlp4BJf1oJ": {
         "name": "Запретное",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Языки}</p><p>Обладатели этой специализации владеют узко распространённым или запрещённым в Империуме языком. Знать наречия ксеносов почти всегда считается ересью — впрочем, сёстры орденов Диалогус нередко получают от Адептус Министорум специальное разрешение на их изучение. На некоторых чужацких наречиях — например, круутском — человек вообще неспособен говорить, не получив аугментаций. Также, кроме еретических языков, существуют и слишком священные для простолюдинов — например, такова техножреческая лингва технис, запретная для всех, не принадлежащих к их культу, ибо основана на двоичном машинном коде, и говорить на ней могут лишь обладатели нужных имплантатов да немногочисленные гении. Другой пример — мыслежесты сестёр Безмолвия, почти неизвестные посторонним. Каждый запретный язык требует соответствующего таланта @UUID[Compendium.navis-apexialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Запретные тайны}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Языки}</p><p>Обладатели этой специализации владеют узко распространённым или запрещённым в Империуме языком. Знать наречия ксеносов почти всегда считается ересью — впрочем, сёстры орденов Диалогус нередко получают от Адептус Министорум специальное разрешение на их изучение. На некоторых чужацких наречиях — например, круутском — человек вообще неспособен говорить, не получив аугментаций. Также, кроме еретических языков, существуют и слишком священные для простолюдинов — например, такова техножреческая лингва технис, запретная для всех, не принадлежащих к их культу, ибо основана на двоичном машинном коде, и говорить на ней могут лишь обладатели нужных имплантатов да немногочисленные гении. Другой пример — мыслежесты сестёр Безмолвия, почти неизвестные посторонним. Каждый запретный язык требует соответствующего таланта @UUID[Compendium.apex-imperialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Запретные тайны}.</p>"
       }
     }
   },
@@ -1481,7 +1481,7 @@ export const entries = {
     "items": {
       "Psyniscience": {
         "name": "Психическое чутьё",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.navis-apexialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.apex-imperialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
       },
       "Psychic": {
         "name": "Психосилы",
@@ -1554,7 +1554,7 @@ export const entries = {
     "items": {
       "People": {
         "name": "Люди",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#intuition-(per)]{Чутьё}</p><p>Понимание закономерностей человеческого поведения, что позволяет распознавать ложь, скрытность и странное поведение. Это умение часто используется против @UUID[Compendium.navis-apexialis.navis-core-items.Item.nhW5AN4gHrWvmfyz]{Взаимопонимания (Обман)}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#intuition-(per)]{Чутьё}</p><p>Понимание закономерностей человеческого поведения, что позволяет распознавать ложь, скрытность и странное поведение. Это умение часто используется против @UUID[Compendium.apex-imperialis.navis-core-items.Item.nhW5AN4gHrWvmfyz]{Взаимопонимания (Обман)}.</p>"
       },
       "Data Delver": {
         "name": "Инфоархеолог"
@@ -1572,7 +1572,7 @@ export const entries = {
     "items": {
       "Psyniscience": {
         "name": "Психическое чутьё",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.navis-apexialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.apex-imperialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
       },
       "Laspistol": {
         "name": "Лазпистолет"
@@ -1677,7 +1677,7 @@ export const entries = {
       },
       "z3pFUwFlp4BJf1oJ": {
         "name": "Запретное",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Языки}</p><p>Обладатели этой специализации владеют узко распространённым или запрещённым в Империуме языком. Знать наречия ксеносов почти всегда считается ересью — впрочем, сёстры орденов Диалогус нередко получают от Адептус Министорум специальное разрешение на их изучение. На некоторых чужацких наречиях — например, круутском — человек вообще неспособен говорить, не получив аугментаций. Также, кроме еретических языков, существуют и слишком священные для простолюдинов — например, такова техножреческая лингва технис, запретная для всех, не принадлежащих к их культу, ибо основана на двоичном машинном коде, и говорить на ней могут лишь обладатели нужных имплантатов да немногочисленные гении. Другой пример — мыслежесты сестёр Безмолвия, почти неизвестные посторонним. Каждый запретный язык требует соответствующего таланта @UUID[Compendium.navis-apexialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Запретные тайны}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Языки}</p><p>Обладатели этой специализации владеют узко распространённым или запрещённым в Империуме языком. Знать наречия ксеносов почти всегда считается ересью — впрочем, сёстры орденов Диалогус нередко получают от Адептус Министорум специальное разрешение на их изучение. На некоторых чужацких наречиях — например, круутском — человек вообще неспособен говорить, не получив аугментаций. Также, кроме еретических языков, существуют и слишком священные для простолюдинов — например, такова техножреческая лингва технис, запретная для всех, не принадлежащих к их культу, ибо основана на двоичном машинном коде, и говорить на ней могут лишь обладатели нужных имплантатов да немногочисленные гении. Другой пример — мыслежесты сестёр Безмолвия, почти неизвестные посторонним. Каждый запретный язык требует соответствующего таланта @UUID[Compendium.apex-imperialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Запретные тайны}.</p>"
       }
     }
   },
@@ -1697,7 +1697,7 @@ export const entries = {
       },
       "Intimidation": {
         "name": "Запугивание",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять завуалированные или недвусмысленные угрозы (физической расправой или иными ужасными карами), чтобы заставить цель сделать или рассказать что-либо. Жертва противостоит запугиванию при помощи @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}. Если одна сторона такого разговора превосходит другую @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#size]{размером}, то она получает преимущество в проверке.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять завуалированные или недвусмысленные угрозы (физической расправой или иными ужасными карами), чтобы заставить цель сделать или рассказать что-либо. Жертва противостоит запугиванию при помощи @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}. Если одна сторона такого разговора превосходит другую @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#size]{размером}, то она получает преимущество в проверке.</p>"
       },
       "Leadership": {
         "name": "Лидерство",
@@ -1730,7 +1730,7 @@ export const entries = {
       },
       "Intimidation": {
         "name": "Запугивание",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять завуалированные или недвусмысленные угрозы (физической расправой или иными ужасными карами), чтобы заставить цель сделать или рассказать что-либо. Жертва противостоит запугиванию при помощи @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}. Если одна сторона такого разговора превосходит другую @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#size]{размером}, то она получает преимущество в проверке.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять завуалированные или недвусмысленные угрозы (физической расправой или иными ужасными карами), чтобы заставить цель сделать или рассказать что-либо. Жертва противостоит запугиванию при помощи @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}. Если одна сторона такого разговора превосходит другую @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#size]{размером}, то она получает преимущество в проверке.</p>"
       },
       "Leadership": {
         "name": "Лидерство",
@@ -1760,7 +1760,7 @@ export const entries = {
       },
       "Psyniscience": {
         "name": "Психическое чутьё",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.navis-apexialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.apex-imperialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
       },
       "Surface": {
         "name": "Поверхность",
@@ -1803,15 +1803,15 @@ export const entries = {
       },
       "Forbidden": {
         "name": "Запретное",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#psychic-mastery-(wil)]{Психическое мастерство}</p><p>В галактике существуют и иные психические дисциплины — тайные или даже запретные для имперских санкционированных псайкеров. Некоторые появятся в будущих дополнениях, а чтобы их изучить, скорее всего, потребуется соответствующий талант @UUID[Compendium.navis-apexialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Запретные тайны}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#psychic-mastery-(wil)]{Психическое мастерство}</p><p>В галактике существуют и иные психические дисциплины — тайные или даже запретные для имперских санкционированных псайкеров. Некоторые появятся в будущих дополнениях, а чтобы их изучить, скорее всего, потребуется соответствующий талант @UUID[Compendium.apex-imperialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Запретные тайны}.</p>"
       },
       "Brawling": {
         "name": "Кулачный бой",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#melee-(ws)]{Бой}</p><p>Владение жестоким искусством драться голыми руками. Оно поможет расправляться с врагами при помощи рук, кастетов или даже могучих @UUID[Compendium.navis-apexialis.navis-core-items.Item.Tm38HWpxtnkcrmKl]{силовых кулаков}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#melee-(ws)]{Бой}</p><p>Владение жестоким искусством драться голыми руками. Оно поможет расправляться с врагами при помощи рук, кастетов или даже могучих @UUID[Compendium.apex-imperialis.navis-core-items.Item.Tm38HWpxtnkcrmKl]{силовых кулаков}.</p>"
       },
       "Charm": {
         "name": "Обаяние",
-        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#rapport-(fel)]{Взаимопонимание}</p><p>Персонаж умеет быть очень приятным собеседником, что помогает ему просить новых друзей об одолжениях. Как правило, этому умению противостоит @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}.</p>"
+        "description": "<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#rapport-(fel)]{Взаимопонимание}</p><p>Персонаж умеет быть очень приятным собеседником, что помогает ему просить новых друзей об одолжениях. Как правило, этому умению противостоит @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}.</p>"
       },
       "Deception": {
         "name": "Обман",

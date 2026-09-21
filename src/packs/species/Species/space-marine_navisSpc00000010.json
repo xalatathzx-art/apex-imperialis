@@ -1,8 +1,8 @@
 {
   "name": "Space Marine",
-  "type": "navis-apexialis.species",
+  "type": "apex-imperialis.species",
   "_id": "navisSpc00000010",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder001",
   "sort": 1000,
   "system": {
@@ -66,13 +66,13 @@
     "grantedTraits": {
       "list": [
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0001",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0001",
           "id": "navisSpTrait0001",
           "name": "Gene-Seed",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0002",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0002",
           "id": "navisSpTrait0002",
           "name": "Black Carapace",
           "diff": {}
@@ -82,13 +82,13 @@
     "talents": {
       "list": [
         {
-          "uuid": "Compendium.navis-apexialis.navis-talents.Item.malExpTal0000061",
+          "uuid": "Compendium.apex-imperialis.navis-talents.Item.malExpTal0000061",
           "id": "malExpTal0000061",
           "name": "Nerves of Steel",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-talents.Item.malExpTal0000113",
+          "uuid": "Compendium.apex-imperialis.navis-talents.Item.malExpTal0000113",
           "id": "malExpTal0000113",
           "name": "Unarmed Warrior",
           "diff": {}
@@ -101,19 +101,19 @@
     "equipment": {
       "list": [
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpGear00005",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpGear00005",
           "id": "navisSpGear00005",
           "name": "Astartes Power Armour",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpGear00003",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpGear00003",
           "id": "navisSpGear00003",
           "name": "Astartes Pattern Boltgun",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpGear00004",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpGear00004",
           "id": "navisSpGear00004",
           "name": "Astartes Combat Knife",
           "diff": {}
@@ -125,7 +125,7 @@
     {
       "_id": "navisSpFx0000010",
       "name": "Space Marine — physiology",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "changes": [
         {
           "key": "system.combat.wounds.max",
@@ -147,7 +147,7 @@
       "description": "",
       "statuses": [],
       "flags": {
-        "navis-apexialis": {
+        "apex-imperialis": {
           "source": "DoomBC_Core",
           "generated": "tools/make-species.mjs"
         }
@@ -163,7 +163,7 @@
     }
   ],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "DoomBC_Core",
       "generated": "tools/make-species.mjs"
     }

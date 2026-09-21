@@ -1474,7 +1474,7 @@ export const RU_TERMS = {
   "NAVIS.Techno.AttackRanged": "Дальняя",
   "NAVIS.Techno.AttackMelee": "Ближняя",
   "NAVIS.Techno.OpposedDodge": "Уклонение должно сравняться по КУ",
-  "NAVIS.Techno.RelaunchNeeded": "Navis Apexialis: тип предмета «Техночудо» не зарегистрирован в этом мире. Вернитесь в Setup и запустите мир заново — включение модуля посреди сессии не добавляет его типов документов.",
+  "NAVIS.Techno.RelaunchNeeded": "Apex Imperialis: тип предмета «Техночудо» не зарегистрирован в этом мире. Вернитесь в Setup и запустите мир заново — включение модуля посреди сессии не добавляет его типов документов.",
   "NAVIS.Sheet.PreservationShort": "Сохранение",
   "NAVIS.Sheet.CombatShort": "Бой",
   "NAVIS.Implant.Type": "Имплант",

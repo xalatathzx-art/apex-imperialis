@@ -32,7 +32,7 @@ import { talentBonuses } from "./test-mods.js";
 import { extractImplant, fitImplant } from "./surgery.js";
 import { implantLocation, implantTint, BODY_ORGAN_LAYERS, BODY_SCAN_LAYERS } from "../biomonitor/biomonitor-body.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 const Base = globalThis.foundry?.applications?.api?.HandlebarsApplicationMixin?.(globalThis.foundry.applications.api.ApplicationV2) ?? class {};
 

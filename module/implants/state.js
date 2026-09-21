@@ -17,7 +17,7 @@
 
 import { capState } from "./rules.js";
 
-export const IMPLANT_TYPE = "navis-apexialis.implant";
+export const IMPLANT_TYPE = "apex-imperialis.implant";
 
 /** Fitted — surgically installed. Damaged implants are still fitted: they still occupy the socket. */
 export function isImplantFitted(item) {

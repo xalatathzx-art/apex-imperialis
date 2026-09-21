@@ -33,12 +33,12 @@ const tableHead = (title, ...cols) =>
 const itemRow = (uuid, name, ...cells) =>
   `<tr><td>${U(uuid, name)}</td>${cells.map(c => `<td>${c}</td>`).join("")}</tr>`;
 
-const CORE = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
+const CORE = "Compendium.apex-imperialis.navis-core-journals.JournalEntry";
 const IMP = `${CORE}.GPqYZykonC12TJb1.JournalEntryPage`;
 const ARMOURY = `${CORE}.wqlquQ8Njtd5fb4Y.JournalEntryPage`;
-const REQ_ITEM = "Compendium.navis-apexialis.navis-requisition-items.Item";
-const REQ_ACTOR = "Compendium.navis-apexialis.navis-requisition-actors.Actor";
-const REQ_TABLE = "Compendium.navis-apexialis.navis-requisition-tables.RollTable";
+const REQ_ITEM = "Compendium.apex-imperialis.navis-requisition-items.Item";
+const REQ_ACTOR = "Compendium.apex-imperialis.navis-requisition-actors.Actor";
+const REQ_TABLE = "Compendium.apex-imperialis.navis-requisition-tables.RollTable";
 const SECTOR = `${CORE}.B7MZBBT3bNew9N96.JournalEntryPage`;
 
 const MUNITORUM = U("JournalEntry.pka613e3ABLetFDP.JournalEntryPage.nlbzni9ir6wWkX0U#the-departmento-munitorum",
@@ -51,7 +51,7 @@ export const byName = {
       Equipment: {
         name: "Снаряжение",
         text:
-          `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-requisition/images/banner-equipment.webp" /></div>` +
+          `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-requisition/images/banner-equipment.webp" /></div>` +
           blue("Нами получено сводное прошение Ордена Госпитальерок, подкреплённое тысячами " +
             "донесений от полевых хирургеонов по всему сектору; все они свидетельствуют о " +
             "непристойном числе самоувечий из-за дурно подогнанных штыков. Настоящим и немедленно " +
@@ -75,7 +75,7 @@ export const byName = {
               "). Персонаж может обменять всю ту россыпь вещей, что ему причиталась, на один ",
               "цельный <em>набор снаряжения</em>.") +
             p("Вместо исходной ",
-              U("Compendium.navis-apexialis.navis-core-tables.RollTable.o3wbgwFvTGN5aEan", "таблицы безделушек"),
+              U("Compendium.apex-imperialis.navis-core-tables.RollTable.o3wbgwFvTGN5aEan", "таблицы безделушек"),
               " игроки могут взять расширенную ",
               U("RollTable.FGPwxW3ZBPlI4xz0", "таблицу безделушек"),
               ". Всё это мелочи, что почти ничего не стоят в солярах, но могут быть дороги персонажу ",
@@ -90,7 +90,7 @@ export const byName = {
               "как НИП теребит вещицу, которая ему дорога.")) +
           "<p></p>" +
           E(`${REQ_TABLE}.FGPwxW3ZBPlI4xz0`, "", "Безделушка") +
-          `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-requisition/misc/spot-servo3.webp" /></div>`
+          `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-requisition/misc/spot-servo3.webp" /></div>`
       },
 
       "Origin Items Table": {
@@ -100,7 +100,7 @@ export const byName = {
             "GO8H53Nl1ZdHIhcL", "ZF7aIkpTtNJYkPeN", "otkiWIOeADLXOYOH", "h9DHBITQxIIEqmD1",
             "aPVptc7S3iR4Zyo3", "jkGsUmdLHedZGazg", "iYeoXi4DcYlXr8Ih", "vDPC2xKBiWkDHgDn"
           ].map(id => E(`${REQ_TABLE}.${id}`, " noCenter=true", "Вещь происхождения") + "<p></p>").join("") +
-          `<div class="journal-image fit flip"><img src="modules/navis-apexialis/assets/impmal-requisition/images/hive-street.webp" /></div>`
+          `<div class="journal-image fit flip"><img src="modules/apex-imperialis/assets/impmal-requisition/images/hive-street.webp" /></div>`
       },
 
       Augmetics: {
@@ -121,20 +121,20 @@ export const byName = {
           itemRow(`${REQ_ITEM}.Rm5qg30z5kmLCJVs`, "Подкожный имплантат", "500", "Редкая") +
           itemRow(`${REQ_ITEM}.pFT4YCAh7eJzqMcS`, "Токсифаг", "5000", "Редкая") +
           `</tbody></table>` +
-          `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-requisition/misc/spot-augmetic-arm.webp" /></div>`
+          `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-requisition/misc/spot-augmetic-arm.webp" /></div>`
       },
 
       Books: {
         name: "Книги",
         text:
-          `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-requisition/misc/strip-bookshelf.webp" /></div>` +
+          `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-requisition/misc/strip-bookshelf.webp" /></div>` +
           p("Книги в Империуме бывают всякие: от тяжёлых пергаменных томов Имперского Кредо, что ",
             "стоят в библиотеках ", U(`${IMP}.5Bx7K8k9VgjOZmA4`, "Экклезиархии"),
             ", до истрёпанных личных списков учебных наставлений, что боец носит в нагрудном кармане. ",
             "Десятки миллиардов книг о машинах, о военной выучке и о снабжении смазывают шестерни ",
             "промышленной военной машины размером с галактику: они доносят нужное знание до нужных ",
             "людей.") +
-          `<div class="journal-image float-right flip"><img height="200" src="modules/navis-apexialis/assets/impmal-requisition/actors/servo-familiar.webp" /></div>` +
+          `<div class="journal-image float-right flip"><img height="200" src="modules/apex-imperialis/assets/impmal-requisition/actors/servo-familiar.webp" /></div>` +
           p("В личных собраниях знати могут стоять и редкие сочинения — и правдивые, и вымышленные, ",
             "написанные и читаемые ради удовольствия. Попадают на эти полки и труды имперских ",
             "эрудитов, что залезают в запретное, хотя по всем правилам им место лишь в библиотеках ",
@@ -154,7 +154,7 @@ export const byName = {
             U(`${ARMOURY}.ZR29g4RP1E8y9twS#ornamental`, "Красивый"),
             ". У книг диковинной доступности есть оба. Вдобавок книгу редкой или диковинной ",
             "доступности на подходящую тему можно, опять же по усмотрению ведущего, использовать как ",
-            U("Compendium.navis-apexialis.navis-core-items.Item.oaY0wS7LewD6DXK6", "священный символ"), ".") +
+            U("Compendium.apex-imperialis.navis-core-items.Item.oaY0wS7LewD6DXK6", "священный символ"), ".") +
           box("ЗАНЯТИЕ «ИЗУЧЕНИЕ КНИГИ»",
             p("Невежество, конечно, добродетель, но иной раз стоит разузнать неведомое и расширить ",
               "свои умения тем знанием, что записали до тебя.") +
@@ -198,7 +198,7 @@ export const byName = {
               U(`${SECTOR}.59y8WFXTbwKRwiRI`, "Волле"), ", чтобы расположить народ к его якобы ",
               "защитникам (и замять их бесчисленные бесчинства). У такого тома могли бы быть ",
               "связанные умения <em>Знания (Волл), Логика (Следствие) и Командование (Допрос)</em>.")) +
-          `<div class="journal-image centered"><img height="300" src="modules/navis-apexialis/assets/impmal-core/images/spot-book.webp" /></div>`
+          `<div class="journal-image centered"><img height="300" src="modules/apex-imperialis/assets/impmal-core/images/spot-book.webp" /></div>`
       },
 
       "Equipment Packs": {
@@ -232,7 +232,7 @@ export const byName = {
           `</tbody></table>` +
 
           h(3, "adeptus-administratum-clerks-pack", "Набор клерка Адептус Администратум") +
-          `<div class="journal-image float-right flip"><img src="modules/navis-apexialis/assets/impmal-requisition/actors/trooper9.webp" width="250" /></div>` +
+          `<div class="journal-image float-right flip"><img src="modules/apex-imperialis/assets/impmal-requisition/actors/trooper9.webp" width="250" /></div>` +
           p("Этот полевой набор выдают клеркам, писцам, ординатам и прочим чинам того же уровня из ",
             U(`${IMP}.3TtxuCzt0nNV1ysj`, "Адептус Администратум"),
             ", которых посылают с поручениями поближе к войне или на миры вдали от их конторы. Его ",
@@ -261,7 +261,7 @@ export const byName = {
             "покой со всей возможной жестокостью.") +
 
           h(3, "infantrymans-pack", "Набор пехотинца") +
-          `<div class="journal-image float-right flip"><img src="modules/navis-apexialis/assets/impmal-requisition/actors/trooper1.webp" width="250" /></div>` +
+          `<div class="journal-image float-right flip"><img src="modules/apex-imperialis/assets/impmal-requisition/actors/trooper1.webp" width="250" /></div>` +
           p("Такие наборы выдают по всему Империуму миллиардам бойцов, из которых складывается ",
             "основная сила ", U(`${IMP}.r6JYS3jOfrAEorvd`, "Астра Милитарум"), ". Оружие, броня и ",
             "снаряжение в нём годятся и в бою, и для житья в долгом походе. Пехотный набор дёшев в ",
@@ -293,7 +293,7 @@ export const byName = {
       Clothing: {
         name: "Одежда",
         text:
-          `<div class="journal-image float-right flip"><img height="100" src="modules/navis-apexialis/assets/impmal-requisition/misc/spot-tags.webp" /></div>` +
+          `<div class="journal-image float-right flip"><img height="100" src="modules/apex-imperialis/assets/impmal-requisition/misc/spot-tags.webp" /></div>` +
           p(MUNITORUM, " знает: в каждом владении Империума найдутся опасные места, к которым ",
             "человеческое тело само по себе не приспособлено, а приспосабливающая аугметика слишком ",
             "дорога. Он учитывает это и поставляет одежду под всякую возможную среду — и скромному ",
@@ -312,7 +312,7 @@ export const byName = {
           itemRow(".IkX9okCTXdIvhVnz#holsters-and-slings", "Кобуры и ремни", "Разная", "Разная") +
           itemRow(".IkX9okCTXdIvhVnz#void-suits", "Пустотные костюмы", "Разная", "Разная") +
           `</tbody></table>` +
-          `<div class="gallery"><div class="journal-image"><img src="modules/navis-apexialis/assets/impmal-requisition/actors/trooper11.webp" width="170" /></div><div class="journal-image"><img src="modules/navis-apexialis/assets/impmal-requisition/actors/trooper7.webp" width="200" /></div></div>` +
+          `<div class="gallery"><div class="journal-image"><img src="modules/apex-imperialis/assets/impmal-requisition/actors/trooper11.webp" width="170" /></div><div class="journal-image"><img src="modules/apex-imperialis/assets/impmal-requisition/actors/trooper7.webp" width="200" /></div></div>` +
 
           h(3, "macharian-clothing", "Одежда сектора Махарий") +
           p("Не привлекать к себе лишнего внимания — обычно первая забота имперского слуги в поле. ",
@@ -357,14 +357,14 @@ export const byName = {
             "драгоценное одеяние передают следующему в очереди из тех, кто достаточно важен, чтобы ",
             "оно ему понадобилось, — а вместе с ним и всю историю зазубрин, царапин и украшений. ",
             "Уставной имперский ",
-            U("Compendium.navis-apexialis.navis-core-items.Item.YKdnnpcXv14ITvE5", "пустотный костюм"),
+            U("Compendium.apex-imperialis.navis-core-items.Item.YKdnnpcXv14ITvE5", "пустотный костюм"),
             " есть в «Империуме Маледиктум». Приведённые ниже разновидности дают кое-что сверх:") +
           tableHead("Пустотные костюмы", "Разновидность", "Цена", "Дост.") +
           itemRow(`${REQ_ITEM}.YKdnnpcXv14ITvE5`, "Скрытный образец «Эгида Умбраль»", "4000", "Редкая") +
           itemRow(`${REQ_ITEM}.wVv3tGhHOGSe2q2r`, "Харьюсский образец", "2500", "Редкая") +
           itemRow(`${REQ_ITEM}.NGgWRcJRch8x1c2c`, "Образец Йикс «Неведение»", "3500", "Редкая") +
           `</tbody></table>` +
-          `<div class="journal-image fit flip"><img src="modules/navis-apexialis/assets/impmal-requisition/images/into-the-dark.webp" /></div>`
+          `<div class="journal-image fit flip"><img src="modules/apex-imperialis/assets/impmal-requisition/images/into-the-dark.webp" /></div>`
       },
 
       "Medicae Equipment": {
@@ -373,12 +373,12 @@ export const byName = {
           blue("«Прошу дополнить уставной медицинский набор Милитарум Mk 28-B: 1 (один) полностью " +
             "заряженный лазпистолет для прижигания ран под огнём противника».") +
           attrib("— прошение сержанта Исаака «Морта» Врееля") +
-          `<div class="journal-image float-right"><img height="100" src="modules/navis-apexialis/assets/impmal-requisition/misc/spot-frezene-injector.webp" /></div>` +
+          `<div class="journal-image float-right"><img height="100" src="modules/apex-imperialis/assets/impmal-requisition/misc/spot-frezene-injector.webp" /></div>` +
           p("Хирургеоны знают: всякий обученный боец, которого они вытащили, снова пойдёт в бой во имя ",
             "Бога-Императора. Нет лучшей выучки для тела и души, чем страдание и спасение, — раненый ",
             "боец вряд ли позволит ранить себя тем же способом дважды.") +
           p("Заметьте, что многое из этого врачебного снаряжения годится как дополнение к ",
-            U("Compendium.navis-apexialis.navis-core-items.Item.qjjlckQ3WvF4KLxO", "набору хирургеона"),
+            U("Compendium.apex-imperialis.navis-core-items.Item.qjjlckQ3WvF4KLxO", "набору хирургеона"),
             " и кладётся прямо в него.") +
           tableHead("Врачебное снаряжение", "Снаряжение", "Цена", "Дост.") +
           itemRow(`${REQ_ITEM}.NCprSc5o5wtQFLOi`, "Автокоагулянтный инъектор", "75", "Обычная") +
@@ -406,9 +406,9 @@ export const byName = {
             "госпитальерок и, увы, у торговцев с чёрного рынка из числа ",
             U(`${IMP}.5jO3tXI5hSEBAC4s`, "одиночек"), ". Почти все рассчитаны на быстрое действие: ",
             "жидкие составы обычно вводят ",
-            U("Compendium.navis-apexialis.navis-core-items.Item.lYL4lXBggaVoxsNP", "инъектором"),
+            U("Compendium.apex-imperialis.navis-core-items.Item.lYL4lXBggaVoxsNP", "инъектором"),
             ", а иные годятся как газ или взвесь и подаются ",
-            U("Compendium.navis-apexialis.navis-core-items.Item.lYL4lXBggaVoxsNP", "ингалятором"),
+            U("Compendium.apex-imperialis.navis-core-items.Item.lYL4lXBggaVoxsNP", "ингалятором"),
             ". В инъектор или ингалятор заряжают одно из перечисленных ниже снадобий. Чтобы ",
             "применить их, нужна <strong>лёгкая (+40) проверка Медики (Люди)</strong>; при успехе ",
             "на персонажа действует то снадобье, что было заряжено. Цены даны за одну дозу.") +
@@ -507,13 +507,13 @@ export const byName = {
             "для тостов у многих офицеров ", U(`${IMP}.r6JYS3jOfrAEorvd`, "Астра Милитарум"),
             " старой закалки родом с ", U(`${SECTOR}.qLLaIGWiU6Lf6Rjy`, "Персеполя"), ".") +
           `</section>` +
-          `<div class="journal-image centered"><img width="250" src="modules/navis-apexialis/assets/impmal-core/images/spot-skull4.webp" /></div>`
+          `<div class="journal-image centered"><img width="250" src="modules/apex-imperialis/assets/impmal-core/images/spot-skull4.webp" /></div>`
       },
 
       "Mechanical Servants": {
         name: "Механические слуги",
         text:
-          `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-requisition/misc/strip-tech.webp" /></div>` +
+          `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-requisition/misc/strip-tech.webp" /></div>` +
           p("Всякому подданному Империума положено знать: мыслящие машины, они же мерзостные ",
             "разумы, существовать прямо запрещено. И всё же многие службы по всему Империуму ",
             "полагаются на машины, способные на ограниченные самостоятельные действия, — на слуг с ",
@@ -553,13 +553,13 @@ export const byName = {
             "черепа, а их способности перекладывают на одну-единственную задачу. Дарованная ",
             "нежизнь сервочерепа — одно из величайших благословений, какие Бог-Император и Его ",
             "техножречество могут даровать подданному") +
-          `<div class="journal-image centered flip"><img width="250" src="modules/navis-apexialis/assets/impmal-requisition/misc/spot-servo1.webp" /></div>`
+          `<div class="journal-image centered flip"><img width="250" src="modules/apex-imperialis/assets/impmal-requisition/misc/spot-servo1.webp" /></div>`
       },
 
       "Equipment Miscellanea": {
         name: "Разное снаряжение",
         text:
-          `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-requisition/misc/strip-defence.webp" /></div>` +
+          `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-requisition/misc/strip-defence.webp" /></div>` +
           p(MUNITORUM, " ежедневно получает подшивки бумаг и чертежей на новое и обновлённое ",
             "снаряжение. Пока всё это не пройдёт положенную проверку и не ляжет в нужную папку, оно ",
             "числится «разным» — до рассмотрения. Иные мудрёные вещи болтаются в этой очереди уже ",
@@ -584,7 +584,7 @@ export const byName = {
           itemRow(`${REQ_ITEM}.TLoTR5nqfVzdDjy6`, "Набор для заделки пробоин", "250", "Обычная", "1") +
           itemRow(`${REQ_ITEM}.oEkEPoVKNxLBOqv1`, "Набор для ухода за оружием", "50", "Обычная", "1") +
           `</tbody></table>` +
-          `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-requisition/images/cadia.webp" /></div>`
+          `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-requisition/images/cadia.webp" /></div>`
       }
     }
   }

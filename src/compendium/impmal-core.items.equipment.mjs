@@ -38,7 +38,7 @@ const EXPOSURE = U(`${W}#exposure`, "воздействию погоды");
 const AVAILABILITY = U("JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.k5sND1C17nY9xB1G#availability", "доступности");
 const ASTRA_MILITARUM = U("JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd", "Астра Милитарум");
 
-const I = "Compendium.navis-apexialis.navis-core-items.Item";
+const I = "Compendium.apex-imperialis.navis-core-items.Item";
 const CHIRURGEON = U(`${I}.au8V1ieKIHkTeA8l`, "Хирургеон");
 const AUTO_QUILL = U(`${I}.wazqwH6rG3lKCQUR`, "автопера");
 const CLIMBING_HARNESS = U(`${I}.mPC8f9qwwscyRQNs`, "снаряжение скалолаза");
@@ -51,7 +51,7 @@ const AUSPEX = U(`${I}.dO7XoDXD9QYTy6zZ`, "ауспиком");
 const COMBI_TOOL = U(`${I}.xQ2vhqZTWMBZ3Jxi`, "комбиинструментом");
 const IMPROVISED_ONE = U(`${I}.lwPymw5Hah0H8Ey5`, "импровизированное одноручное");
 const AXE = U(`${I}.cnbaSByME7caQohv`, "топором");
-const SERVO_SKULLS = U("Compendium.navis-apexialis.navis-core-actors.Actor.Y6oJff3F4qo2Xhlx", "Сервочерепа");
+const SERVO_SKULLS = U("Compendium.apex-imperialis.navis-core-actors.Actor.Y6oJff3F4qo2Xhlx", "Сервочерепа");
 
 export const byName = {
   /* ── Одежда и носимое снаряжение (стр. 143–145) ──────────────────────── */

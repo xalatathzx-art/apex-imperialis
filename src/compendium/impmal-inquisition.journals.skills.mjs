@@ -22,11 +22,11 @@ const U = (uuid, label) => `@UUID[${uuid}]{${label}}`;
 const p = (...parts) => `<p>${parts.join("")}</p>`;
 const h = (level, text) => `<h${level}>${text}</h${level}>`;
 
-const CORE_J = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
+const CORE_J = "Compendium.apex-imperialis.navis-core-journals.JournalEntry";
 const SKILLS_J = `${CORE_J}.J8NVn5iNgM57cKmw.JournalEntryPage`;
-const INQ_ITEM = "Compendium.navis-apexialis.navis-inquisition-items.Item";
-const INQ_ACTOR = "Compendium.navis-apexialis.navis-inquisition-actors.Actor";
-const ORDOS = "Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq.JournalEntryPage.AyQTdRJpdVm3zqdF";
+const INQ_ITEM = "Compendium.apex-imperialis.navis-inquisition-items.Item";
+const INQ_ACTOR = "Compendium.apex-imperialis.navis-inquisition-actors.Actor";
+const ORDOS = "Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq.JournalEntryPage.AyQTdRJpdVm3zqdF";
 
 const BOOK = "<em><strong>Imperium Maledictum</strong></em>";
 const SKILLS = U(`${SKILLS_J}.2MqLlcSMDCxkumCk`, "Умениям");
@@ -52,7 +52,7 @@ export const byName = {
     pages: {
       "Skills, Talents & Psychic Powers": {
         name: "Умения, таланты и психосилы",
-        text: figure("fit", "", "modules/navis-apexialis/assets/impmal-inquisition/images/skills.webp")
+        text: figure("fit", "", "modules/apex-imperialis/assets/impmal-inquisition/images/skills.webp")
           + p("Аколиты Инквизиции должны быть умелы и даровиты, иначе им не выследить и не выжечь ",
             "врагов Империума. Одни показывают себя ещё до того, как попадают в Инквизицию, — их ",
             "и берут за незаурядные способности. Другие оттачивают дарования уже на службе, ",
@@ -105,7 +105,7 @@ export const byName = {
             ["FnfUU6qBo5idLaKl", "Ученик амалатианцев"],
             ["kAwBXaop0MNMqqC1", "Апостол Лекса"]
           ])
-          + figure("float-right", 'width="250" ', "modules/navis-apexialis/assets/impmal-core/images/spot-iron-aquila.webp")
+          + figure("float-right", 'width="250" ', "modules/apex-imperialis/assets/impmal-core/images/spot-iron-aquila.webp")
           + items([
             ["Wgi3zNI6egxLYydq", "Баллистическая экспертиза"],
             ["yArd1QW5l5mDssVs", "Авторитет грубой силы"],
@@ -115,7 +115,7 @@ export const byName = {
             ["bPEos4SZ1xIiTF34", "Шифровальщик"],
             ["bKmzN9rjDaOIL7Uo", "Связь с фамильяром"]
           ])
-          + figure("float-right", 'width="250" ', "modules/navis-apexialis/assets/impmal-inquisition/misc/spot-trinkets.webp")
+          + figure("float-right", 'width="250" ', "modules/apex-imperialis/assets/impmal-inquisition/misc/spot-trinkets.webp")
           + items([
             ["F3sICRDFcUgn8ZI6", "Чутьё нутром"],
             ["jhsb9rdD9cuh8XvI", "Закалённая подозрительность"],
@@ -163,7 +163,7 @@ export const byName = {
             "проходы в адский Варп, и даже самый выдержанный из них никогда не бывает далёк от порчи ",
             "Губительных Сил.")
           + h(3, "Малые психосилы")
-          + figure("float-right", 'height="120" ', "modules/navis-apexialis/assets/impmal-core/icons/powers/minor-power.webp")
+          + figure("float-right", 'height="120" ', "modules/apex-imperialis/assets/impmal-core/icons/powers/minor-power.webp")
           + p("Эти Малые силы доступны всем псайкерам: их легче выучить и применять, и для проявления ",
             "им нужно меньше соприкосновения с Варпом.")
           + items([
@@ -174,7 +174,7 @@ export const byName = {
             ["uBPAW8YXqpt3mCHP", "Метка"]
           ])
           + h(3, "Биомантия")
-          + figure("float-right", 'height="120" ', "modules/navis-apexialis/assets/impmal-core/icons/powers/biomancy-power.webp")
+          + figure("float-right", 'height="120" ', "modules/apex-imperialis/assets/impmal-core/icons/powers/biomancy-power.webp")
           + p("Силы биомантии нацелены на живую плоть и вещество: они выворачивают их на иной лад или ",
             "исцеляют повреждённое.")
           + items([
@@ -183,7 +183,7 @@ export const byName = {
             ["GM0mn9SGaBz0SutU", "Стимулирующий разряд"]
           ])
           + h(3, "Прорицание")
-          + figure("float-right", 'height="120" ', "modules/navis-apexialis/assets/impmal-core/icons/powers/divination-power.webp")
+          + figure("float-right", 'height="120" ', "modules/apex-imperialis/assets/impmal-core/icons/powers/divination-power.webp")
           + p("Силы прорицания пользуются тем, что время в Варпе течёт не по разуму, и позволяют ",
             "заглянуть в сокрытую правду и в то, что могло бы случиться иначе.")
           + items([
@@ -207,7 +207,7 @@ export const byName = {
             "позволять его стоит куда чаще, чем обходить.")
           + "</section>"
           + h(3, "Пиромантия")
-          + figure("float-right", 'height="120" ', "modules/navis-apexialis/assets/impmal-core/icons/powers/pyromancy-power.webp")
+          + figure("float-right", 'height="120" ', "modules/apex-imperialis/assets/impmal-core/icons/powers/pyromancy-power.webp")
           + p("Силы пиромантии переносят разрушительную суть Варпа в реальное пространство, обращая ",
             "её в пламя того или иного вида и подчиняя себе.")
           + items([
@@ -216,7 +216,7 @@ export const byName = {
             ["CezDbiBQXFqCos7z", "Пройти сквозь огонь"]
           ])
           + h(3, "Телекинез")
-          + figure("float-right", 'height="120" ', "modules/navis-apexialis/assets/impmal-core/icons/powers/telekinesis-power.webp")
+          + figure("float-right", 'height="120" ', "modules/apex-imperialis/assets/impmal-core/icons/powers/telekinesis-power.webp")
           + p("Силы телекинеза черпают из Варпа, чтобы менять законы движения: одной волей укреплять ",
             "или направлять действующие силы.")
           + items([
@@ -225,7 +225,7 @@ export const byName = {
             ["U9vq2WdyHwgFKiDy", "Привязь"]
           ])
           + h(3, "Телепатия")
-          + figure("float-right", 'height="120" ', "modules/navis-apexialis/assets/impmal-core/icons/powers/telepathy-power.webp")
+          + figure("float-right", 'height="120" ', "modules/apex-imperialis/assets/impmal-core/icons/powers/telepathy-power.webp")
           + p("Силы телепатии пользуются той тонкой нитью, что связывает почти всё живое с Варпом, и ",
             "действуют на разум, память или само чувство свободной воли.")
           + items([
@@ -234,7 +234,7 @@ export const byName = {
             ["yK2Duc8PShFrnxNu", "Умиротворение"]
           ])
           + "<p></p><p></p>"
-          + figure("fit", "", "modules/navis-apexialis/assets/impmal-core/images/faction-telepathica.webp")
+          + figure("fit", "", "modules/apex-imperialis/assets/impmal-core/images/faction-telepathica.webp")
       }
     }
   },

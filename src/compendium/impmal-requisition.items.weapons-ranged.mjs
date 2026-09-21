@@ -19,10 +19,10 @@ const p = (...parts) => `<p>${parts.join("")}</p>`;
 const designations = (...names) =>
   p("<em><strong>Обозначения</strong>: ", names.join(", "), "</em>");
 
-const CORE = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
+const CORE = "Compendium.apex-imperialis.navis-core-journals.JournalEntry";
 const IMP = `${CORE}.GPqYZykonC12TJb1.JournalEntryPage`;
 const SECTOR = `${CORE}.B7MZBBT3bNew9N96.JournalEntryPage`;
-const ITEM = "Compendium.navis-apexialis.navis-core-items.Item";
+const ITEM = "Compendium.apex-imperialis.navis-core-items.Item";
 
 const MILITARUM = U(`${IMP}.r6JYS3jOfrAEorvd`, "Астра Милитарум");
 const INFRACTIONIST = U(`${IMP}.5jO3tXI5hSEBAC4s`, "одиночек");

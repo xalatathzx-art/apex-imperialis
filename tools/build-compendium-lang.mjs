@@ -24,7 +24,7 @@
  *
  *   const out = {};
  *   for (const pack of game.packs) {
- *     if (!["impmal-core","impmal-inquisition","impmal-requisition","navis-apexialis"]
+ *     if (!["impmal-core","impmal-inquisition","impmal-requisition","apex-imperialis"]
  *          .includes(pack.metadata.packageName)) continue;
  *     const docs = await pack.getDocuments();
  *     out[pack.collection] = { label: …, documentName: …, entries: … };
@@ -51,7 +51,7 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const SRC = path.join(ROOT, "src/compendium");
 const OUT = path.join(ROOT, "compendium");
 const INDEX = path.join(SRC, "packs-index.json");
-const MODULE_PACKS = "navis-apexialis";
+const MODULE_PACKS = "apex-imperialis";
 
 /**
  * The fields a translation entry may carry, mirroring compendium/mappings.json.
@@ -292,10 +292,10 @@ for (const [collection, files] of byCollection) {
         "impmal-requisition": "navis-requisition",
         "impmal-voll": "navis-voll"
       }[refModule];
-      // The consolidated packs are written as navis-apexialis.<pack>.json. An
+      // The consolidated packs are written as apex-imperialis.<pack>.json. An
       // unprefixed name here once read a stale copy from an earlier layout,
       // which worked only as long as nobody cleaned the directory.
-      if (refPrefix) refPack = `navis-apexialis.${refPrefix}-${refName}`;
+      if (refPrefix) refPack = `apex-imperialis.${refPrefix}-${refName}`;
       const target = path.join(OUT, `${refPack}.json`);
       if (!fs.existsSync(target)) return null;
       referenced[refPack] ??= JSON.parse(fs.readFileSync(target, "utf8")).entries;
@@ -433,7 +433,7 @@ for (const [collection, files] of byCollection) {
     "impmal-requisition": "navis-requisition",
     "impmal-voll": "navis-voll"
   }[moduleId];
-  const outputCollection = migratedModule ? `navis-apexialis.${migratedModule}-${packName}` : collection;
+  const outputCollection = migratedModule ? `apex-imperialis.${migratedModule}-${packName}` : collection;
   const target = path.join(OUT, `${outputCollection}.json`);
   fs.writeFileSync(target, `${JSON.stringify({ label: source.label ?? pack.label, entries: out }, null, 2)}\n`);
 

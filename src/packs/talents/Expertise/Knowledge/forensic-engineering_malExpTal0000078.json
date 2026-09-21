@@ -2,7 +2,7 @@
   "name": "Forensic Engineering",
   "type": "talent",
   "_id": "malExpTal0000078",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Grants the bonus of Forensic Expert to Tech(Engineering)</span></p><hr><p><span style=\"font-family: Arial\"><em>Relating to investigating the analysis of structures, typically relating to causes of failure or damage. This field grants bonuses to Tech (Engineering) tests as appropriate.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

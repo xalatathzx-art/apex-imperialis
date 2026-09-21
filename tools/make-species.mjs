@@ -26,7 +26,7 @@ import { fileURLToPath } from "node:url";
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const OUT = path.join(ROOT, "src/packs/species");
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 const SPECIES_TYPE = `${MODULE_ID}.species`;
 const SUBSPECIES_TYPE = `${MODULE_ID}.subspecies`;
 

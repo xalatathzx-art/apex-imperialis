@@ -3,7 +3,7 @@
   "name": "Lychguard",
   "type": "npc",
   "_id": "uqKuHCSeZu4gcEGS",
-  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -205,7 +205,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+      "src": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -227,7 +227,7 @@
     "default": 0
   },
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }
@@ -245,7 +245,7 @@
       "name": "Living Metal (4)",
       "type": "trait",
       "_id": "UB4Hj6cbuQSQo5lS",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -313,7 +313,7 @@
       "name": "Phase Out",
       "type": "trait",
       "_id": "8nDTxFd65j65MtV2",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -373,7 +373,7 @@
       "name": "Reanimation Protocols (7+)",
       "type": "trait",
       "_id": "SVPRlLQUZBpfhHMq",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -441,7 +441,7 @@
       "name": "Ultimate Bodyguard",
       "type": "trait",
       "_id": "3X1iIPH1W2eUO4zH",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -501,7 +501,7 @@
       "name": "Hyperphase Sword",
       "type": "weapon",
       "_id": "WgH9RVyANOtaZgs8",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -572,7 +572,7 @@
       "name": "Warscythe",
       "type": "weapon",
       "_id": "GrBSdwqrHaTGnNQe",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
       "system": {
         "notes": {
           "player": "",

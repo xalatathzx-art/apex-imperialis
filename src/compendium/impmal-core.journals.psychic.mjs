@@ -30,13 +30,13 @@ const example = text =>
   `<details><summary><strong>Пример</strong></summary><p><em>${text}</em></p></details>`;
 const image = (src, attrs) => `<div class="journal-image float-right"><img ${attrs} src="${src}" /></div>`;
 
-const ITEM = "Compendium.navis-apexialis.navis-core-items.Item";
+const ITEM = "Compendium.apex-imperialis.navis-core-items.Item";
 const MILITARUM = U("JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd", "Астра Милитарум");
 const SECTOR = U("JournalEntry.B7MZBBT3bNew9N96", "секторе Махарий");
 const PSYKER_TALENT = U(`${ITEM}.3GLGsYiH5LiKgYjE`, "Псайкер");
 const SANCTIONED = U(`${ITEM}.6fGIyNI86dmgxwGG`, "Санкционированный псайкер");
 const PSYNISCIENCE = U(`${ITEM}.lBzdm76EnuuoGfMq`, "Психического чутья");
-const ROGUE_PSYKER = U("Compendium.navis-apexialis.navis-core-actors.Actor.vvgA1lyNkcTDw1xP", "нечистым псайкером");
+const ROGUE_PSYKER = U("Compendium.apex-imperialis.navis-core-actors.Actor.vvgA1lyNkcTDw1xP", "нечистым псайкером");
 const WARP_CHARGE = U(".buydA5mPJln97Qk5", "варп-заряде");
 const PERILS = U(".buydA5mPJln97Qk5#perils-of-the-warp", "прорыв Варпа");
 const PERILS_N = U(".buydA5mPJln97Qk5#perils-of-the-warp", "прорывов Варпа");
@@ -67,7 +67,7 @@ const powerList =
   ) +
 
   h(3, "minor-psychic-powers", "Малые психосилы") +
-  image("modules/navis-apexialis/assets/impmal-core/images/discipline-minor.webp", 'width="200"') +
+  image("modules/apex-imperialis/assets/impmal-core/images/discipline-minor.webp", 'width="200"') +
   p("Малыми называются психосилы, которые может выучить любой псайкер безо всякой подготовки. ",
     "Как правило, они требуют меньше усилий для овладения и меньшего контакта с Варпом для ",
     "сотворения. Независимо ни от чего, все псайкеры знают психосилу ",
@@ -87,7 +87,7 @@ const powerList =
   ) +
 
   h(3, "biomancy", "Биомантия") +
-  image("modules/navis-apexialis/assets/impmal-core/images/discipline-biomancy.webp", 'width="200"') +
+  image("modules/apex-imperialis/assets/impmal-core/images/discipline-biomancy.webp", 'width="200"') +
   p("В Варпе обитают существа, что наслаждаются, изменяя и уродуя живую плоть. Биоманты ",
     "наделены теми же способностями и применяют их, чтобы преобразовывать тела или ",
     "биологические процессы в соратниках и врагах, усиливая друзей или превращая недругов в ",
@@ -102,7 +102,7 @@ const powerList =
   ) +
 
   h(3, "divination", "Прорицания") +
-  image("modules/navis-apexialis/assets/impmal-core/images/discipline-divination.webp", 'width="250"') +
+  image("modules/apex-imperialis/assets/impmal-core/images/discipline-divination.webp", 'width="250"') +
   p("В реальном мире время движется линейно, но в Варпе оно иррационально искривляется, ",
     "обращается вспять или тонет в море невероятностей. Прорицания — это психическая ",
     "дисциплина, что полагается на характерную для Варпа неоднозначность понятий «время» и ",
@@ -118,7 +118,7 @@ const powerList =
   ) +
 
   h(3, "pyromancy", "Пиромантия") +
-  image("modules/navis-apexialis/assets/impmal-core/images/discipline-pyromancy.webp", 'width="200"') +
+  image("modules/apex-imperialis/assets/impmal-core/images/discipline-pyromancy.webp", 'width="200"') +
   p("Пироманты переносят разрушительную мощь Варпа в тварный мир в обличие пламени. Их приёмы, ",
     "как и самый настоящий огонь, — это очень полезный инструмент, но в правильных руках они ",
     "превращаются в грозное оружие. Пироманты никогда не забывают о разрушительности своих сил, ",
@@ -133,7 +133,7 @@ const powerList =
   ) +
 
   h(3, "telekinesis", "Телекинез") +
-  image("modules/navis-apexialis/assets/impmal-core/images/discipline-telekinesis.webp", 'width="200"') +
+  image("modules/apex-imperialis/assets/impmal-core/images/discipline-telekinesis.webp", 'width="200"') +
   p("Телекинез — свидетельство того, как Имматериум смеётся над законами тварного мира. Он ",
     "позволяет превращать энергию Варпа в кинетическую и двигать предметы силой мысли. Искусный ",
     "телекинетик не боится ни болтера, ни клинка, потому что способен отвести их от себя одним ",
@@ -149,7 +149,7 @@ const powerList =
   ) +
 
   h(3, "telepathy", "Телепатия") +
-  image("modules/navis-apexialis/assets/impmal-core/images/discipline-telepathy.webp", 'width="200"') +
+  image("modules/apex-imperialis/assets/impmal-core/images/discipline-telepathy.webp", 'width="200"') +
   p("Сознание каждого живого существа — не считая горстки отвратительных мутантов — имеет связь ",
     "с Варпом. Одни телепаты способны использовать эти связи и прикасаться к чужим умам, чтобы ",
     "говорить с ними, а их более зловещие коллеги умеют вырывать мысли из чужих голов, играть с ",
@@ -162,7 +162,7 @@ const powerList =
     ["LdGZY6wVVLmqUs0z", "Психическая стойкость"], ["61LtbSXGELhbGC6c", "Психический вопль*"],
     ["23AM9iBKKeWZKZNj", "Телепатическая связь"], ["U4GZLrdv7mLbK6bz", "Кошмарные видения"]
   ) +
-  `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-core/images/palace.webp" /></div>`;
+  `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-core/images/palace.webp" /></div>`;
 
 export const byName = {
   "Psychic Powers": {
@@ -174,7 +174,7 @@ export const byName = {
         name: "Психосилы",
         text:
           `<div class="journal-image float-right flip">` +
-          `<img src="modules/navis-apexialis/assets/impmal-core/images/ch5.webp" height="660" /></div>` +
+          `<img src="modules/apex-imperialis/assets/impmal-core/images/ch5.webp" height="660" /></div>` +
           p("За пределами тварного мира лежит иное царство, что пронизывает всё сущее, но ",
             "остаётся благословенно неведомым большинству. Это безвременное пространство ",
             "клубящихся энергий, бездонный океан невозможности и безбрежного потенциала. ",
@@ -285,7 +285,7 @@ export const byName = {
       "Psychic Discipline": {
         name: "Психические дисциплины",
         text:
-          image("modules/navis-apexialis/assets/impmal-core/actors/primaris-psyker.webp", 'style="margin:-20px" width="300"') +
+          image("modules/apex-imperialis/assets/impmal-core/actors/primaris-psyker.webp", 'style="margin:-20px" width="300"') +
           p("Хотя в Имматериуме кроется бездна энергии, необходимость направлять таковую через ",
             "живой разум несколько ограничивает её природу и делит псайкеров на типы. Помимо ",
             "малых психосил, которыми владеют даже необученные псайкеры, схоласты выделяют ",

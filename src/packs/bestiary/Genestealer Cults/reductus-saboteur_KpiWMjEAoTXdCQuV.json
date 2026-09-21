@@ -3,7 +3,7 @@
   "name": "Reductus Saboteur",
   "type": "npc",
   "_id": "KpiWMjEAoTXdCQuV",
-  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+      "src": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -228,7 +228,7 @@
     "default": 0
   },
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }
@@ -246,7 +246,7 @@
       "name": "Genestealer Mutation",
       "type": "trait",
       "_id": "5woEoKico7iwQgHR",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Multi-Limbed",
       "type": "trait",
       "_id": "9bEPkjbqwoLbFeMJ",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Primed and Ready",
       "type": "trait",
       "_id": "4hn9FDzjQb4Fs7Dg",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -426,7 +426,7 @@
       "name": "Three Big Booms",
       "type": "trait",
       "_id": "zEluJkqBIPGlOgCA",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -486,7 +486,7 @@
       "name": "Autopistol",
       "type": "weapon",
       "_id": "Hh1gpXHWDqE19e4N",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -563,7 +563,7 @@
       "name": "Knife",
       "type": "weapon",
       "_id": "IL1hNTdoSdImBgPl",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -637,7 +637,7 @@
       "name": "Defusing",
       "type": "specialisation",
       "_id": "ujRgKzQdb7hocjRk",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -666,7 +666,7 @@
       "name": "Conceal",
       "type": "specialisation",
       "_id": "cRZucGI6zZ2ZuP3m",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -695,7 +695,7 @@
       "name": "Engineering",
       "type": "specialisation",
       "_id": "MtR61ctXYgpkfyku",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -724,7 +724,7 @@
       "name": "Security",
       "type": "specialisation",
       "_id": "besrdMg0tzto1NsB",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

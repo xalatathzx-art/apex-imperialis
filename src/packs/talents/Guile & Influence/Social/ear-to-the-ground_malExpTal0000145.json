@@ -2,7 +2,7 @@
   "name": "Ear to the Ground",
   "type": "talent",
   "_id": "malExpTal0000145",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Advantage to Trade/Sell illicit goods, +1SL to avoid or deflect notice about this</span></p><hr><p><span style=\"font-family: Arial\"><em>You gain Advantage on tests related to Trading or Selling illicit goods. Furthermore, you learned to avoid the attention of the authorities, and gain +1SL on Rapport (Deception) Tests to avoid or deflect notice about these dealings.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

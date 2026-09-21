@@ -63,7 +63,7 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const SRC = path.join(ROOT, "src/packs/items");
 const TALENTS = path.join(ROOT, "src/packs/talents");
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 /** impmal's own four, plus the empty string it allows and this pack never uses. */
 const AVAILABILITY = new Set(["common", "scarce", "rare", "exotic"]);

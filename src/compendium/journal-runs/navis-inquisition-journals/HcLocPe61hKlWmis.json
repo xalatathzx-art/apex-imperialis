@@ -14,15 +14,15 @@
    "ru": ""
   },
   "28": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Jerithin Hammer} is a retired gunslinger who runs a small network of informants and enforcers who scuttle through the reaches of the lower levels of Hive Oberyl on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.JbRBjmzRfWtxIo40]{Leonova}. He spent his youth protecting nobles and hunting down outlaws, making a name for his efficiency with a pistol and deadly accuracy. Now he leans on his substantial roster of former contacts to drive his enterprise.",
+   "en": "@UUID[Compendium.apex-imperialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Jerithin Hammer} is a retired gunslinger who runs a small network of informants and enforcers who scuttle through the reaches of the lower levels of Hive Oberyl on @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.JbRBjmzRfWtxIo40]{Leonova}. He spent his youth protecting nobles and hunting down outlaws, making a name for his efficiency with a pistol and deadly accuracy. Now he leans on his substantial roster of former contacts to drive his enterprise.",
    "ru": ""
   },
   "32": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Jerithin} appears to be in his mid-forties, with rugged, well-worn features and short dark hair. He shows some signs of having rejuvenat treatments — his life experiences certainly cover more than one ordinary lifespan. He wears a long coat and always has a las pistol holstered on his thigh. Outwardly, he appears to spend his days drinking and gambling. From his corner seat in local watering holes, where he deals in games of chance all day long, he meets with contacts, peddles information between them, and wiles away his boredom with risky bets and watered-down drinks. It is where he has become comfortable doing business, down in the muck with his agents, and never too far from a full glass of amasec.",
+   "en": "@UUID[Compendium.apex-imperialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Jerithin} appears to be in his mid-forties, with rugged, well-worn features and short dark hair. He shows some signs of having rejuvenat treatments — his life experiences certainly cover more than one ordinary lifespan. He wears a long coat and always has a las pistol holstered on his thigh. Outwardly, he appears to spend his days drinking and gambling. From his corner seat in local watering holes, where he deals in games of chance all day long, he meets with contacts, peddles information between them, and wiles away his boredom with risky bets and watered-down drinks. It is where he has become comfortable doing business, down in the muck with his agents, and never too far from a full glass of amasec.",
    "ru": ""
   },
   "36": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Hammer} began his career as a decorated @UUID[Compendium.impmal-starter-set.actors.Actor.O49jTi2TzoFQH5GT]{Macharian Vigilite}. When he became embroiled in an @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-hereticus]{Ordo Hereticus} Inquisitor’s investigation and informed on several of his former comrades, Hammer quickly left their ranks and fell to the underbelly of the hive. There, Hammer turned a hand at bounty hunting and protector for hire, which went hand in hand with a new lifestyle of drinking, gambling, and gossip-mongering. From time to time, the Inquisitor’s agents still call upon him for information or to act as a local guide — Jerithin knows he cannot refuse their call. Otherwise, he wishes to survive as long as possible and keep doing what he deems honourable.",
+   "en": "@UUID[Compendium.apex-imperialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Hammer} began his career as a decorated @UUID[Compendium.impmal-starter-set.actors.Actor.O49jTi2TzoFQH5GT]{Macharian Vigilite}. When he became embroiled in an @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-hereticus]{Ordo Hereticus} Inquisitor’s investigation and informed on several of his former comrades, Hammer quickly left their ranks and fell to the underbelly of the hive. There, Hammer turned a hand at bounty hunting and protector for hire, which went hand in hand with a new lifestyle of drinking, gambling, and gossip-mongering. From time to time, the Inquisitor’s agents still call upon him for information or to act as a local guide — Jerithin knows he cannot refuse their call. Otherwise, he wishes to survive as long as possible and keep doing what he deems honourable.",
    "ru": ""
   },
   "40": {
@@ -30,7 +30,7 @@
    "ru": ""
   },
   "44": {
-   "en": "Use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{Ganger} and @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZUWBWGM4eH7xFZ8P]{Dreg} stat-blocks to represent his network of informants and runners. @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Jerithin} can be placed in any hive city or relatively large Imperial settlement with a history of Infractionist activity.",
+   "en": "Use the @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{Ganger} and @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.ZUWBWGM4eH7xFZ8P]{Dreg} stat-blocks to represent his network of informants and runners. @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Jerithin} can be placed in any hive city or relatively large Imperial settlement with a history of Infractionist activity.",
    "ru": ""
   },
   "48": {
@@ -38,15 +38,15 @@
    "ru": ""
   },
   "56": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Hammer} needs a local gang ousted from one of his favourite watering holes. There are just too many of them for him to deal with alone, and he is not as fast as he once was. They should think he is not involved.",
+   "en": "@UUID[Compendium.apex-imperialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Hammer} needs a local gang ousted from one of his favourite watering holes. There are just too many of them for him to deal with alone, and he is not as fast as he once was. They should think he is not involved.",
    "ru": ""
   },
   "64": {
-   "en": "A former employer of @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Hammer}, a noblewoman from the hive spires, has been accused of heresy by someone in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Ministorum}. Hammer knows this is false and wants the characters to look into it, thinking someone is framing her for political gain.",
+   "en": "A former employer of @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Hammer}, a noblewoman from the hive spires, has been accused of heresy by someone in the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Ministorum}. Hammer knows this is false and wants the characters to look into it, thinking someone is framing her for political gain.",
    "ru": ""
   },
   "72": {
-   "en": "An outlaw @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Hammer} brought to justice long ago, thought dead, has resurfaced in the hive. Hammer is paranoid that this man will seek revenge upon him. He fears using his agents might draw undue attention to himself. He requests that the characters investigate on his behalf.",
+   "en": "An outlaw @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Hammer} brought to justice long ago, thought dead, has resurfaced in the hive. Hammer is paranoid that this man will seek revenge upon him. He fears using his agents might draw undue attention to himself. He requests that the characters investigate on his behalf.",
    "ru": ""
   },
   "80": {
@@ -54,11 +54,11 @@
    "ru": ""
   },
   "94": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Hammer} prefers to reward people with information, or if something needs investigating, he can deploy members of his network to dig it up. His contacts include local dealers and low-hive artisans, who can source equipment for the characters under the table.",
+   "en": "@UUID[Compendium.apex-imperialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Hammer} prefers to reward people with information, or if something needs investigating, he can deploy members of his network to dig it up. His contacts include local dealers and low-hive artisans, who can source equipment for the characters under the table.",
    "ru": ""
   },
   "102": {
-   "en": "Though it has been a long time since he put a hole in someone, @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Hammer} would serve those he truly trusts by personally following them into battle, convincing those within his enterprise to join him.",
+   "en": "Though it has been a long time since he put a hole in someone, @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Hammer} would serve those he truly trusts by personally following them into battle, convincing those within his enterprise to join him.",
    "ru": ""
   }
  }

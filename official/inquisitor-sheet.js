@@ -5,7 +5,7 @@ class InquisitorPatronSheet extends PatronSheet
     }
 
     static PARTS = {
-        header : {scrollable: [""], classes : ["sheet-header"], template : 'modules/navis-apexialis/assets/impmal-inquisition/templates/inquisitor-header.hbs' },
+        header : {scrollable: [""], classes : ["sheet-header"], template : 'modules/apex-imperialis/assets/impmal-inquisition/templates/inquisitor-header.hbs' },
         tabs: { scrollable: [""], template: 'templates/generic/tab-navigation.hbs' },
         main: { scrollable: [""], template: 'systems/impmal/templates/actor/patron/patron-main.hbs' },
         effects: { scrollable: [""], template: 'systems/impmal/templates/actor/patron/patron-effects.hbs' },

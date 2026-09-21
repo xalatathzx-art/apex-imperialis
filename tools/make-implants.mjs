@@ -1,6 +1,6 @@
 /**
  * Generate the Navis Items source tree — DoomBC's implants, as
- * `navis-apexialis.implant` documents.
+ * `apex-imperialis.implant` documents.
  *
  * Replaces tools/make-augmetics.mjs, which wrote impmal's own `augmetic` type
  * and had nowhere to put a slot, a quality ladder or a mechanics group. The
@@ -56,8 +56,8 @@ import { MECHANICUM } from "./data/implants-mechanicum.mjs";
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const OUT = path.join(ROOT, "src/packs/items");
 
-const MODULE_ID = "navis-apexialis";
-const IMPLANT_TYPE = "navis-apexialis.implant";
+const MODULE_ID = "apex-imperialis";
+const IMPLANT_TYPE = "apex-imperialis.implant";
 const ICON = "modules/impmal-core/assets/icons/generic.webp";
 
 /**

@@ -2,7 +2,7 @@
   "name": "Mastery (Reflexes)",
   "type": "talent",
   "_id": "malExpTal0000025",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Spend FP to auto-succeed on selected Reflexes, scored SL = associated stat bonus</span></p><hr><p><span style=\"font-family: Arial\"><em>You must have 4 Advances in Reflexes and the Talented(Reflexes) on. You can spend a Fate Point to automatically pass a Reflexes Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

@@ -3,7 +3,7 @@
   "name": "Psychomancer",
   "type": "npc",
   "_id": "m44KOj2QIkBk0zSh",
-  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -217,7 +217,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+      "src": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -239,7 +239,7 @@
     "default": 0
   },
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }
@@ -257,7 +257,7 @@
       "name": "Living Metal (4)",
       "type": "trait",
       "_id": "O6hJZJA8iA4j1XkA",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -325,7 +325,7 @@
       "name": "Phase Out",
       "type": "trait",
       "_id": "A8zFdkhAWaSALxGz",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -385,7 +385,7 @@
       "name": "Reanimation Protocols (7+)",
       "type": "trait",
       "_id": "xmegU2heNrLBWHf8",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -453,7 +453,7 @@
       "name": "Harbinger of Despair",
       "type": "trait",
       "_id": "EkeileHodbE7Ht84",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -513,7 +513,7 @@
       "name": "Nightmare Shroud",
       "type": "trait",
       "_id": "HIxenuAgXjroUc3k",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -573,7 +573,7 @@
       "name": "Veil of Darkness",
       "type": "trait",
       "_id": "Hr5HCyedDv0BBrGG",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -633,7 +633,7 @@
       "name": "Abyssal Lance (Ranged)",
       "type": "weapon",
       "_id": "gyFEXAaAGYDMFVs4",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -706,7 +706,7 @@
       "name": "Abyssal Lance (Melee)",
       "type": "weapon",
       "_id": "PbJkiVrtRzDnY5eB",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
       "system": {
         "notes": {
           "player": "",

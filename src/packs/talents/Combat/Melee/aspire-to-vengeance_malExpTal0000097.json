@@ -2,7 +2,7 @@
   "name": "Aspire to Vengeance",
   "type": "talent",
   "_id": "malExpTal0000097",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">After ally dies within Medium range: +3 Critical Wounds inflicted in melee (until end of combat)</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever a Player Character, Follower, or Ally within Medium Range is slain by an enemy, you enter a hateful fury. Until the end of the encounter, you increase any Critical Damage that you inflict in melee from Critical Hits by +3.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

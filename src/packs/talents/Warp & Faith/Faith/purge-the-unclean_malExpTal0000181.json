@@ -2,7 +2,7 @@
   "name": "Purge the Unclean",
   "type": "talent",
   "_id": "malExpTal0000181",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Exorcise a possessed target or repell a warp entity: opposed Lore(Theology) vs Discipline. on success: entity must leave host and cannot repossess for WpBx2h. Roaming entities are repelled WpB/2 zones and cannot approach further for 2d5 rounds</span></p><hr><p><span style=\"font-family: Arial\"><em>As an action, you may spend a Fate Point to intone holy words to repel a warp entity. Make an Opposed Challenging (+0) Lore (Theology) Test against the warp entity’s Discipline. If the test succeeds, the Warp Entity is repelled a number of zones away equal to half your Willpower Bonus (rounded up). It cannot approach closer than this distance for 2d5 rounds. You may also spend a Fate Point to speak the rites of Exorcism and force out a possessing warp entity from its host. The same test as before, if you succeed, the Warp Entity is driven out of whatever or whoever it possessed and manifests in the same Zone as its former host. It may not possess the same host again for a number of hours equal to twice your character’s Willpower Bonus.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

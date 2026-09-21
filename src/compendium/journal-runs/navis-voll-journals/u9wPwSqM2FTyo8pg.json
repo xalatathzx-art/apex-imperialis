@@ -26,16 +26,16 @@
    "ru": "«Нескончаемой преданности»"
   },
   "14": {
-   "en": " is crewed by a mix of menials (@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{Manufactorum Labourers}), @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.px7pplClKR01chqM]{Servitors}, @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.vds8HRa533wcv1Pq]{Administratum Adepts}, and @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZIodTiyH9W5QBRU9]{Astra Militarum Troopers}.",
-   "ru": " составляют чернорабочие (@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{рабочие с мануфакторума}), @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.px7pplClKR01chqM]{сервиторы}, @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.vds8HRa533wcv1Pq]{адепты Администратума} и @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZIodTiyH9W5QBRU9]{солдаты Астра Милитарум}."
+   "en": " is crewed by a mix of menials (@UUID[Compendium.apex-imperialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{Manufactorum Labourers}), @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.px7pplClKR01chqM]{Servitors}, @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.vds8HRa533wcv1Pq]{Administratum Adepts}, and @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.ZIodTiyH9W5QBRU9]{Astra Militarum Troopers}.",
+   "ru": " составляют чернорабочие (@UUID[Compendium.apex-imperialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{рабочие с мануфакторума}), @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.px7pplClKR01chqM]{сервиторы}, @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.vds8HRa533wcv1Pq]{адепты Администратума} и @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.ZIodTiyH9W5QBRU9]{солдаты Астра Милитарум}."
   },
   "18": {
    "en": "Curator Varness",
    "ru": "Куратор Варнесс"
   },
   "22": {
-   "en": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.Dhe0z7z8c9ZFDeM0 description=top table=true style=width:70%;margin:auto;]{Curator Varness}",
-   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.Dhe0z7z8c9ZFDeM0 description=top table=true style=width:70%;margin:auto;]{Куратор Варнесс}"
+   "en": "@Embed[Compendium.apex-imperialis.navis-voll-actors.Actor.Dhe0z7z8c9ZFDeM0 description=top table=true style=width:70%;margin:auto;]{Curator Varness}",
+   "ru": "@Embed[Compendium.apex-imperialis.navis-voll-actors.Actor.Dhe0z7z8c9ZFDeM0 description=top table=true style=width:70%;margin:auto;]{Куратор Варнесс}"
   },
   "26": {
    "en": "Roleplaying the Curator ",
@@ -46,8 +46,8 @@
    "ru": "Это её первая высокая должность, и куратор стремится проявить себя, изображая властность и невозмутимое руководство. Однако она боится, что взялась за дело себе не по силам. Поначалу она резка и говорит по существу: сообщает отряду лишь необходимое и выдаёт запрошенное, тратя как можно меньше слов. По мере развития приключения и роста напряжения маска даёт трещины. Она всё чаще срывается на крик, отдавая приказы, и путается в словах."
   },
   "34": {
-   "en": "The Curator takes to plying herself with amasec, resulting in an acrid smell that follows her like a cloud. She harbours an incredible fear of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.41XgDdxnZ76elnvr]{Inquisition}, heightened due to the effects of @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré}’s @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{chemical communion}. If the party’s Patron is an Inquisitor, and Varness becomes aware of this fact, she aims to avoid speaking to the party, making it evident that she is hiding something. If pressed, she swiftly cracks and provides the clue below.",
-   "ru": "Куратор начинает накачиваться амасеком, и за ней, словно облако, тянется едкий запах. Она испытывает невероятный страх перед @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.41XgDdxnZ76elnvr]{Инквизицией}, усиленный действием @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химического причастия} @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерика Нетекаре}. Если покровитель отряда — инквизитор и Варнесс узнаёт об этом, она старается избегать разговоров с персонажами, и становится очевидно, что она что-то скрывает. Если на неё надавить, она быстро ломается и выдаёт зацепку ниже."
+   "en": "The Curator takes to plying herself with amasec, resulting in an acrid smell that follows her like a cloud. She harbours an incredible fear of the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.41XgDdxnZ76elnvr]{Inquisition}, heightened due to the effects of @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré}’s @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{chemical communion}. If the party’s Patron is an Inquisitor, and Varness becomes aware of this fact, she aims to avoid speaking to the party, making it evident that she is hiding something. If pressed, she swiftly cracks and provides the clue below.",
+   "ru": "Куратор начинает накачиваться амасеком, и за ней, словно облако, тянется едкий запах. Она испытывает невероятный страх перед @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.41XgDdxnZ76elnvr]{Инквизицией}, усиленный действием @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химического причастия} @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерика Нетекаре}. Если покровитель отряда — инквизитор и Варнесс узнаёт об этом, она старается избегать разговоров с персонажами, и становится очевидно, что она что-то скрывает. Если на неё надавить, она быстро ломается и выдаёт зацепку ниже."
   },
   "40": {
    "en": "CLUE",
@@ -62,16 +62,16 @@
    "ru": "Мальтус-49"
   },
   "54": {
-   "en": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.rilaQaBPslIRzGco description=top table=true style=width:70%;margin:auto;]{Curator Varness}",
-   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.rilaQaBPslIRzGco description=top table=true style=width:70%;margin:auto;]{Мальтус-49}"
+   "en": "@Embed[Compendium.apex-imperialis.navis-voll-actors.Actor.rilaQaBPslIRzGco description=top table=true style=width:70%;margin:auto;]{Curator Varness}",
+   "ru": "@Embed[Compendium.apex-imperialis.navis-voll-actors.Actor.rilaQaBPslIRzGco description=top table=true style=width:70%;margin:auto;]{Мальтус-49}"
   },
   "58": {
    "en": "Medicae Roderick",
    "ru": "Медикус Родерик"
   },
   "62": {
-   "en": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.ncXwqNsh38L8CyRo description=top table=true style=width:70%;margin:auto;]{Medicae Roderick}",
-   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.ncXwqNsh38L8CyRo description=top table=true style=width:70%;margin:auto;]{Медикус Родерик}"
+   "en": "@Embed[Compendium.apex-imperialis.navis-voll-actors.Actor.ncXwqNsh38L8CyRo description=top table=true style=width:70%;margin:auto;]{Medicae Roderick}",
+   "ru": "@Embed[Compendium.apex-imperialis.navis-voll-actors.Actor.ncXwqNsh38L8CyRo description=top table=true style=width:70%;margin:auto;]{Медикус Родерик}"
   },
   "66": {
    "en": "Roleplaying Medicae Roderick",
@@ -114,16 +114,16 @@
    "ru": "Чернорабочий Борис"
   },
   "102": {
-   "en": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.XfuOWlQ5fvUgtElU description=top table=true style=width:70%;margin:auto;]{Menial Boris}",
-   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.XfuOWlQ5fvUgtElU description=top table=true style=width:70%;margin:auto;]{Чернорабочий Борис}"
+   "en": "@Embed[Compendium.apex-imperialis.navis-voll-actors.Actor.XfuOWlQ5fvUgtElU description=top table=true style=width:70%;margin:auto;]{Menial Boris}",
+   "ru": "@Embed[Compendium.apex-imperialis.navis-voll-actors.Actor.XfuOWlQ5fvUgtElU description=top table=true style=width:70%;margin:auto;]{Чернорабочий Борис}"
   },
   "106": {
    "en": "Old Hinji",
    "ru": "Старый Хинджи"
   },
   "110": {
-   "en": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.qBvBctGcZoWcW7Tz description=top table=true style=width:70%;margin:auto;]{Old Hinji}",
-   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.qBvBctGcZoWcW7Tz description=top table=true style=width:70%;margin:auto;]{Старый Хинджи}"
+   "en": "@Embed[Compendium.apex-imperialis.navis-voll-actors.Actor.qBvBctGcZoWcW7Tz description=top table=true style=width:70%;margin:auto;]{Old Hinji}",
+   "ru": "@Embed[Compendium.apex-imperialis.navis-voll-actors.Actor.qBvBctGcZoWcW7Tz description=top table=true style=width:70%;margin:auto;]{Старый Хинджи}"
   },
   "114": {
    "en": "Roleplaying Old Hinji",
@@ -134,8 +134,8 @@
    "ru": "Несмотря на свои увечья, Старый Хинджи — весёлый и живой малый, любитель поболтать, всегда ищущий свободные уши. Он охотно коротает часы, обсуждая почти что угодно с кем угодно, особенно если ему предложат выпить чего покрепче. Кроме того, он печально известный игрок — единственный член экипажа, ни разу не проигравший в «Счёт кинжалов» в @UUID[.vC2n6yi7x19C9HvR#b2.-the-mess]{столовой}."
   },
   "122": {
-   "en": "Most write off the old man’s attachment to @UUID[.vC2n6yi7x19C9HvR#b2.-the-mess]{the Mess} to his love of drinking and gambling; however, Old Hinji sticks close to the Mess because he fears being alone. Though unaware of his psychic potential, due to the effects of the @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{chemical communion}, he believes that a strange @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi }presence is calling out to him. Immersing himself in the chatter of the Mess drones out the worst of it. Yet many of these delusions persist and spinning them into tales is the only way he can manage to cope.",
-   "ru": "Большинство списывают привязанность старика к @UUID[.vC2n6yi7x19C9HvR#b2.-the-mess]{столовой} на его любовь к выпивке и азартным играм, однако Старый Хинджи держится поближе к столовой потому, что боится одиночества. Он не подозревает о своём психическом потенциале, но из-за действия @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химического причастия} верит, что его зовёт странное присутствие @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади}. Погружаясь в гомон столовой, он заглушает худшее. Но многие из этих бредней не отступают, и единственный способ с ними справиться — сплетать из них байки."
+   "en": "Most write off the old man’s attachment to @UUID[.vC2n6yi7x19C9HvR#b2.-the-mess]{the Mess} to his love of drinking and gambling; however, Old Hinji sticks close to the Mess because he fears being alone. Though unaware of his psychic potential, due to the effects of the @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{chemical communion}, he believes that a strange @UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi }presence is calling out to him. Immersing himself in the chatter of the Mess drones out the worst of it. Yet many of these delusions persist and spinning them into tales is the only way he can manage to cope.",
+   "ru": "Большинство списывают привязанность старика к @UUID[.vC2n6yi7x19C9HvR#b2.-the-mess]{столовой} на его любовь к выпивке и азартным играм, однако Старый Хинджи держится поближе к столовой потому, что боится одиночества. Он не подозревает о своём психическом потенциале, но из-за действия @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химического причастия} верит, что его зовёт странное присутствие @UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади}. Погружаясь в гомон столовой, он заглушает худшее. Но многие из этих бредней не отступают, и единственный способ с ними справиться — сплетать из них байки."
   },
   "126": {
    "en": "Spending any significant time with Old Hinji, he tells the characters the following tale. ",
@@ -154,16 +154,16 @@
    "ru": "Писарь Хесс"
   },
   "146": {
-   "en": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.vds8HRa533wcv1Pq description=top table=true style=width:70%;margin:auto;]{Scribe Hess}",
-   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.vds8HRa533wcv1Pq description=top table=true style=width:70%;margin:auto;]{Писарь Хесс}"
+   "en": "@Embed[Compendium.apex-imperialis.navis-voll-actors.Actor.vds8HRa533wcv1Pq description=top table=true style=width:70%;margin:auto;]{Scribe Hess}",
+   "ru": "@Embed[Compendium.apex-imperialis.navis-voll-actors.Actor.vds8HRa533wcv1Pq description=top table=true style=width:70%;margin:auto;]{Писарь Хесс}"
   },
   "150": {
    "en": "Sergeant Drukos",
    "ru": "Сержант Друкос"
   },
   "154": {
-   "en": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.wyyOOGQNpAYh5Txm description=top table=true style=width:70%;margin:auto;]{Sergeant Drukos}",
-   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.wyyOOGQNpAYh5Txm description=top table=true style=width:70%;margin:auto;]{Сержант Друкос}"
+   "en": "@Embed[Compendium.apex-imperialis.navis-voll-actors.Actor.wyyOOGQNpAYh5Txm description=top table=true style=width:70%;margin:auto;]{Sergeant Drukos}",
+   "ru": "@Embed[Compendium.apex-imperialis.navis-voll-actors.Actor.wyyOOGQNpAYh5Txm description=top table=true style=width:70%;margin:auto;]{Сержант Друкос}"
   },
   "158": {
    "en": "Roleplaying Sergeant Drukos",
@@ -174,8 +174,8 @@
    "ru": "Такой выгодный контракт для него и его людей, в глуши и почти без риска, кажется слишком хорошим, чтобы быть правдой. Поэтому Друкос относится к своему сержантскому званию очень серьёзно: он стремится поскорее выполнить задание, насладиться заработком и обеспечить себе будущие заказы. "
   },
   "172": {
-   "en": "Yet all of this fine luck is not enough to lift his spirits. The threat of his past lingers like a ghost in the back of his mind. He’s paranoid that one day he will be discovered by the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Astra Militarum} for desertion. then it will be his skull getting the last las-round. Drukos will not easily give up the information about his shady past unless persuaded with a ",
-   "ru": "Однако вся эта удача не может поднять ему настроение. Угроза из прошлого, словно призрак, не отпускает его. Он боится, что однажды @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум} разоблачит его как дезертира, и тогда последний лаз-заряд достанется уже его черепу. Друкос не выдаст сведений о своём тёмном прошлом, если его не убедить "
+   "en": "Yet all of this fine luck is not enough to lift his spirits. The threat of his past lingers like a ghost in the back of his mind. He’s paranoid that one day he will be discovered by the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Astra Militarum} for desertion. then it will be his skull getting the last las-round. Drukos will not easily give up the information about his shady past unless persuaded with a ",
+   "ru": "Однако вся эта удача не может поднять ему настроение. Угроза из прошлого, словно призрак, не отпускает его. Он боится, что однажды @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум} разоблачит его как дезертира, и тогда последний лаз-заряд достанется уже его черепу. Друкос не выдаст сведений о своём тёмном прошлом, если его не убедить "
   },
   "174": {
    "en": "Hard (−20) Rapport (Charm)",

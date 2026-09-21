@@ -1,8 +1,8 @@
 {
   "name": "Harpy",
-  "type": "navis-apexialis.species",
+  "type": "apex-imperialis.species",
   "_id": "navisSpc00000006",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder001",
   "sort": 600,
   "system": {
@@ -61,13 +61,13 @@
     "grantedTraits": {
       "list": [
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0016",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0016",
           "id": "navisSpTrait0016",
           "name": "Flyer",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0017",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0017",
           "id": "navisSpTrait0017",
           "name": "Hollow Bones",
           "diff": {}
@@ -77,7 +77,7 @@
     "talents": {
       "list": [
         {
-          "uuid": "Compendium.navis-apexialis.navis-talents.Item.malExpTal0000116",
+          "uuid": "Compendium.apex-imperialis.navis-talents.Item.malExpTal0000116",
           "id": "malExpTal0000116",
           "name": "Cat Fall",
           "diff": {}
@@ -95,7 +95,7 @@
     {
       "_id": "navisSpFx0000006",
       "name": "Harpy — physiology",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "changes": [
         {
           "key": "system.combat.wounds.max",
@@ -111,7 +111,7 @@
       "description": "",
       "statuses": [],
       "flags": {
-        "navis-apexialis": {
+        "apex-imperialis": {
           "source": "DoomBC_Core",
           "generated": "tools/make-species.mjs"
         }
@@ -127,7 +127,7 @@
     }
   ],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "DoomBC_Core",
       "generated": "tools/make-species.mjs"
     }

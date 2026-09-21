@@ -2,7 +2,7 @@
   "name": "Logis Implant",
   "type": "talent",
   "_id": "malExpTal0000191",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">May re-roll a Ranged or Meele test as reaction but become Fatigued</span></p><hr><p><span style=\"font-family: Arial\"><em>You may spend your Reaction to re-roll a failed Ranged or Melee Test. However, you become Fatigued.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

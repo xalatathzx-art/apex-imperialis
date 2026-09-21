@@ -2,7 +2,7 @@
   "name": "Psychic Locus",
   "type": "talent",
   "_id": "malExpTal0000211",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Perils of the Warp effects within Medium range target you instead of the source, powers afffecting other characters as well as powers with a range are centered on you</span></p><hr><p><span style=\"font-family: Arial\"><em>You are the point of focus for baleful energies of the Immaterium. If another character must roll on the Perils of the Warp table and is within Medium Range of you, then you will be the affected target of the result instead. Effects that would normally affect other characters instead affect you, and any effect with a range is centered on you. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

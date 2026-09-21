@@ -1,8 +1,8 @@
 {
   "name": "Khorngor",
-  "type": "navis-apexialis.subspecies",
+  "type": "apex-imperialis.subspecies",
   "_id": "navisSpSub000009",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder002",
   "sort": 900,
   "system": {
@@ -41,13 +41,13 @@
     "grantedTraits": {
       "list": [
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0044",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0044",
           "id": "navisSpTrait0044",
           "name": "Brutal Charge",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0045",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0045",
           "id": "navisSpTrait0045",
           "name": "Blood Rage",
           "diff": {}
@@ -67,7 +67,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "DoomBC_Core",
       "generated": "tools/make-species.mjs"
     }

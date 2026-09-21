@@ -2,7 +2,7 @@
   "name": "Ogryn-Sized Slab Club",
   "type": "weapon",
   "_id": "navisSpGear00001",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
   "folder": "navisSpFolder004",
   "sort": 100,
   "system": {
@@ -61,7 +61,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "DoomBC_Core",
       "generated": "tools/make-species.mjs"
     }

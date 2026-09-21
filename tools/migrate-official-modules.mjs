@@ -1,12 +1,12 @@
 #!/usr/bin/env node
 /**
- * Consolidate the official Imperium Maledictum content packs into Navis Apexialis.
+ * Consolidate the official Imperium Maledictum content packs into Apex Imperialis.
  *
  * This command is intentionally fail-closed: Foundry must be closed because
  * classic-level creates LOCK files while a pack is open. Source modules are
  * never modified or deleted. Run from the modules directory after closing
  * Foundry:
- *   node navis-apexialis/tools/migrate-official-modules.mjs
+ *   node apex-imperialis/tools/migrate-official-modules.mjs
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -28,7 +28,7 @@ function buildMap() {
     const manifest = JSON.parse(fs.readFileSync(path.join(modulesRoot, moduleId, "module.json"), "utf8"));
     for (const pack of manifest.packs ?? []) {
       const name = pack.name;
-      rename.set(`Compendium.${moduleId}.${name}`, `Compendium.navis-apexialis.${targetName(moduleId, name)}`);
+      rename.set(`Compendium.${moduleId}.${name}`, `Compendium.apex-imperialis.${targetName(moduleId, name)}`);
     }
   }
 }
@@ -41,13 +41,13 @@ function rewrite(value) {
       out = out.split(from.toLowerCase()).join(to);
     }
     return out
-      .replaceAll("modules/impmal-core/assets/", "modules/navis-apexialis/assets/impmal-core/")
-      .replaceAll("modules/impmal-inquisition/assets/", "modules/navis-apexialis/assets/impmal-inquisition/")
-      .replaceAll("modules/impmal-requisition/assets/", "modules/navis-apexialis/assets/impmal-requisition/")
-      .replaceAll("modules/impmal-voll/assets/", "modules/navis-apexialis/assets/impmal-voll/")
-      .replaceAll("modules/impmal-inquisition/templates/", "modules/navis-apexialis/templates/")
-      .replaceAll("modules/navis-apexialis/assets/impmal-core/assets/", "modules/navis-apexialis/assets/impmal-core/")
-      .replaceAll("modules/navis-apexialis/assets/impmal-inquisition/assets/", "modules/navis-apexialis/assets/impmal-inquisition/");
+      .replaceAll("modules/impmal-core/assets/", "modules/apex-imperialis/assets/impmal-core/")
+      .replaceAll("modules/impmal-inquisition/assets/", "modules/apex-imperialis/assets/impmal-inquisition/")
+      .replaceAll("modules/impmal-requisition/assets/", "modules/apex-imperialis/assets/impmal-requisition/")
+      .replaceAll("modules/impmal-voll/assets/", "modules/apex-imperialis/assets/impmal-voll/")
+      .replaceAll("modules/impmal-inquisition/templates/", "modules/apex-imperialis/templates/")
+      .replaceAll("modules/apex-imperialis/assets/impmal-core/assets/", "modules/apex-imperialis/assets/impmal-core/")
+      .replaceAll("modules/apex-imperialis/assets/impmal-inquisition/assets/", "modules/apex-imperialis/assets/impmal-inquisition/");
   }
   if (Array.isArray(value)) return value.map(rewrite);
   if (value && typeof value === "object") {

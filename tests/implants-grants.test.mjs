@@ -2,7 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import { GRANT_FLAG, grantKey, plannedGrants, diffGrants, weaponTraitEntries } from "../module/implants/grants.js";
 
-const IMPLANT = "navis-apexialis.implant";
+const IMPLANT = "apex-imperialis.implant";
 const implant = (entries, { installed = true, disabled = false, active = true, id = "imp1" } = {}) => ({
   id, type: IMPLANT,
   system: { installed, disabled, active, quality: 2, chosenEffects: {},

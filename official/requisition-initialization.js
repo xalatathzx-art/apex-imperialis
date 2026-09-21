@@ -1,7 +1,7 @@
 Hooks.on("init", () => {
 	game.impmal.config.factions["departmento-munitorum"] = "IMPMAL.FactionDepartmentoMunitorum"
 	game.impmal.config.vehicleActions.crush.description = `<div class="journal-image float-right flip">
-    <img height="350" src="modules/navis-apexialis/assets/impmal-requisition/assets/actors/wolfquad.webp">
+    <img height="350" src="modules/apex-imperialis/assets/impmal-requisition/assets/actors/wolfquad.webp">
 </div>
 <p><strong>Difficulty</strong>: Difficult (−10), opposed by the target’s <em>Piloting</em> or <em>Reflexes (Dodge)</em>.</p>
 <p><strong>Restriction</strong>: Tracked vehicle or Walker</p>

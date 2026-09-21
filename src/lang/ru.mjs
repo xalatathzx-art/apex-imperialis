@@ -1574,7 +1574,7 @@ export const OURS = {
   "NAVIS.Techno.AttackRanged": "Дальняя",
   "NAVIS.Techno.AttackMelee": "Ближняя",
   "NAVIS.Techno.OpposedDodge": "Уклонение должно сравняться по КУ",
-  "NAVIS.Techno.RelaunchNeeded": "Navis Apexialis: тип предмета «Техночудо» не зарегистрирован в этом мире. Вернитесь в Setup и запустите мир заново — включение модуля посреди сессии не добавляет его типов документов.",
+  "NAVIS.Techno.RelaunchNeeded": "Apex Imperialis: тип предмета «Техночудо» не зарегистрирован в этом мире. Вернитесь в Setup и запустите мир заново — включение модуля посреди сессии не добавляет его типов документов.",
 
   // Implant interface. These were written straight into lang/ru.json, which
   // tools/build-lang.mjs regenerates — one build would have erased them.

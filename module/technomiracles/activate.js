@@ -16,7 +16,7 @@ import { resolveCost } from "./rules.js";
 import { spendFrom } from "./resources.js";
 import { addProcess } from "./processes.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 /** Спросить X, когда книга оставляет размер вклада жрецу. */
 async function askForX(item) {

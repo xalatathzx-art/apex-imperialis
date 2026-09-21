@@ -2,7 +2,7 @@
   "name": "Street Fighting",
   "type": "talent",
   "_id": "malExpTal0000111",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">+WsB/2 critical damage when fighting with knifes or bare handed</span></p><hr><p><span style=\"font-family: Arial\"><em>When armed with a knife (powered, chain, throwing, or otherwise) or a similarly small weapon, or just your bare hands, you add half your Weapons Skill bonus to any Critical Damage you inflict.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

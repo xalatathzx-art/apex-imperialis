@@ -2,7 +2,7 @@
   "name": "Master Chirurgeon",
   "type": "talent",
   "_id": "malExpTal0000093",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">+2SL on all Medicae checks (replacing bonus of Superior Chirurgen). Restore double the critical wounds on success</span></p><hr><p><span style=\"font-family: Arial\"><em>You gain a +2SL Bonus on all Medicae Tests (this is not cumulative with the bonus from Superior Chirurgeon, it replaces it). If treating a Critically Wounded patient, a successful Test heals twice the amount of Wounds. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

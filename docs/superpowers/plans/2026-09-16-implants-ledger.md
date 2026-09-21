@@ -8,7 +8,7 @@ Branch: `implants-cycle-a`, cut from `bf85975` on `main`.
 **Ruling: branch in place, no git worktree — cost if wrong: the working tree is
 shared with the running game, so a bad commit is visible to Foundry immediately.**
 Tasks 6, 9 and 11 are verified by launching the live world, and Foundry only
-loads a module from `Data/modules/navis-apexialis`. A worktree elsewhere would
+loads a module from `Data/modules/apex-imperialis`. A worktree elsewhere would
 not be loaded at all, making those verification steps impossible. A branch gives
 the isolation that matters (main is untouched, revert is one command) at the only
 path Foundry will read.
@@ -40,7 +40,7 @@ checkpoints add up: 9+13+8+12+10 = 52 at T5, 8+13 = 21 at T8.
 
 Plan assumption verified before dispatch: T6 Step 4 says to extend an existing
 `Hooks.once("ready")` block calling `registerSpeciesSheet` — it exists at
-`module/navis-apexialis.js:85-89`.
+`module/apex-imperialis.js:85-89`.
 
 ### Rulings on the scan
 

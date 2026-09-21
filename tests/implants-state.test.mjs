@@ -8,7 +8,7 @@ const implant = (installed, disabled, active) => ({
 });
 
 test("the type id is the one declared in module.json", () => {
-  assert.equal(IMPLANT_TYPE, "navis-apexialis.implant");
+  assert.equal(IMPLANT_TYPE, "apex-imperialis.implant");
 });
 
 test("an implant acts only when fitted, undamaged and switched on", () => {

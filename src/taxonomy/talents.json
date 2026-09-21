@@ -1,7 +1,7 @@
 {
   "pack": "navis-talents",
   "documentType": "Item",
-  "note": "Folder tree for the Talents compendium. 'key' is the source folder name in impmal-malexp; documents are routed by it. Colours follow the Navis Apexialis palette (see src/taxonomy/palette.json).",
+  "note": "Folder tree for the Talents compendium. 'key' is the source folder name in impmal-malexp; documents are routed by it. Colours follow the Apex Imperialis palette (see src/taxonomy/palette.json).",
   "folders": [
     {
       "name": "Combat",

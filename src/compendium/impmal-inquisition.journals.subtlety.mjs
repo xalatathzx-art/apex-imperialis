@@ -38,14 +38,14 @@ const effects = (good, goodList, bad, badList) =>
   `<section class="box-text"><p><strong>${good}</strong>:</p>${li(goodList)}`
   + `<p><strong>${bad}:</strong></p>${li(badList)}</section>`;
 
-const CORE_J = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
+const CORE_J = "Compendium.apex-imperialis.navis-core-journals.JournalEntry";
 const POWERS = `${CORE_J}.3mzwixuzgerGUpu1.JournalEntryPage`;
 const SUPERIORITY = U(`${CORE_J}.hdElQAwiBr5AyoRf.JournalEntryPage.3j1kargHBeCTssE7`, "Превосходство");
 const OVERT_POWER = U(`${POWERS}.T3pf1AmXi3Qnm6ev#overt-powers`, "Явную психосилу");
 const PHENOMENA = U(`${POWERS}.buydA5mPJln97Qk5#psychic-phenomena`, "варп-явление");
 const PERILS = U(`${POWERS}.buydA5mPJln97Qk5#perils-of-the-warp`, "Прорывы Варпа");
 const ROSETTE = U(
-  "Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq.JournalEntryPage.8VTOoxqcL2uC3eZm#the-inquisitorial-rosette",
+  "Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq.JournalEntryPage.8VTOoxqcL2uC3eZm#the-inquisitorial-rosette",
   "инквизиторскую розетту"
 );
 
@@ -69,7 +69,7 @@ export const byName = {
     pages: {
       Subtlety: {
         name: "Скрытность операции",
-        text: figure("fit", "", "modules/navis-apexialis/assets/impmal-inquisition/images/subtlety.webp")
+        text: figure("fit", "", "modules/apex-imperialis/assets/impmal-inquisition/images/subtlety.webp")
           + p("Теневая война, которую ведёт Инквизиция, чаще всего держится на уловках и тайне. "
             + "Инквизиция — незримый клинок, бьющий из темноты, что находит в кощунственной плоти "
             + "врагов Бога-Императора самые слабые места и внезапностью да хитростью обходит их "
@@ -163,7 +163,7 @@ export const byName = {
 
       "Measuring Subtlety": {
         name: "Как измеряется скрытность",
-        text: figure("float-right flip", 'width="300" ', "modules/navis-apexialis/assets/impmal-core/images/imperial-agent-side.webp")
+        text: figure("float-right flip", 'width="300" ', "modules/apex-imperialis/assets/impmal-core/images/imperial-agent-side.webp")
           + p("По этим правилам у отряда всегда есть значение скрытности от 1 до 10. Значение "
             + "определяет уровень скрытности, а каждый уровень по-своему сказывается на "
             + "расследовании. Исходное значение ведущий ставит в начале задания, исходя из того, "
@@ -415,12 +415,12 @@ export const byName = {
             + "ложные сведения просто от ужаса перед тем, что сведений у них нет. Другие "
             + "подсунут отряду снасти, негодные для дела, лишь бы не оставить Инквизицию ни с "
             + "чем. Сейчас как никогда отряду надо быть начеку с каждым, с кем он имеет дело.")
-          + figure("centered", 'width="300" ', "modules/navis-apexialis/assets/impmal-inquisition/misc/rosette-scraps.webp")
+          + figure("centered", 'width="300" ', "modules/apex-imperialis/assets/impmal-inquisition/misc/rosette-scraps.webp")
       },
 
       "Changing Subtlety": {
         name: "Отчего скрытность меняется",
-        text: figure("fit", "", "modules/navis-apexialis/assets/impmal-inquisition/images/witch-hunters.webp")
+        text: figure("fit", "", "modules/apex-imperialis/assets/impmal-inquisition/images/witch-hunters.webp")
           + p("Хотя задание начинается с назначенного значения скрытности, выбор и дела отряда по "
             + "ходу его повышают её или понижают. Накопившись, изменения переводят скрытность на "
             + "новый уровень — обычно в худшую сторону, — и это меняет и ход рассказа, и правила "

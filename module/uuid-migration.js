@@ -10,8 +10,10 @@ function rewriteNavisUuid(value) {
   if (typeof value !== "string") return value;
   let out = value;
   for (const [from, to] of Object.entries(NAVIS_UUID_MAP)) {
-    out = out.replaceAll(`Compendium.${from}.`, `Compendium.navis-apexialis.${to}-`);
+    out = out.replaceAll(`Compendium.${from}.`, `Compendium.apex-imperialis.${to}-`);
   }
+  // Documents written while the module was still `navis-apexialis`.
+  out = out.replaceAll("Compendium.navis-apexialis.", "Compendium.apex-imperialis.");
   return out;
 }
 
@@ -23,7 +25,7 @@ function rewriteDeep(value) {
 }
 
 Hooks.once("ready", async () => {
-  if (!game.user?.isGM || game.settings.get("navis-apexialis", "uuidMigrationComplete")) return;
+  if (!game.user?.isGM || game.settings.get("apex-imperialis", "uuidMigrationComplete")) return;
   const collections = [game.actors, game.items, game.journal, game.tables, game.scenes].filter(Boolean);
   let updated = 0;
   for (const collection of collections) {
@@ -37,6 +39,6 @@ Hooks.once("ready", async () => {
       updated += 1;
     }
   }
-  await game.settings.set("navis-apexialis", "uuidMigrationComplete", true);
-  console.info(`Navis Apexialis: migrated ${updated} world documents to consolidated compendiums.`);
+  await game.settings.set("apex-imperialis", "uuidMigrationComplete", true);
+  console.info(`Apex Imperialis: migrated ${updated} world documents to consolidated compendiums.`);
 });

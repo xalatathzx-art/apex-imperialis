@@ -24,7 +24,7 @@ import { QUALITY_LEVELS, ORDINARY_QUALITY } from "./rules.js";
 import { HIT_LOCATIONS, mechanicsContext } from "./mechanics/constructor.js";
 import * as mech from "./mechanics/constructor.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 const IMPLANT_TEMPLATE = `modules/${MODULE_ID}/templates/item/implant.hbs`;
 const MECHANICS_TEMPLATE = `modules/${MODULE_ID}/templates/item/implant-mechanics.hbs`;

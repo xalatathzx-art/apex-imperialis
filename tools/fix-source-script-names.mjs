@@ -1,7 +1,7 @@
 /**
  * Point talent requirement scripts at names that exist.
  *
- * The Maledictum Expanded talents gate themselves with scripts such as
+ * The imported talents gate themselves with scripts such as
  *   this.actor.itemTypes["talent"].find(i => i.name == "Talented(Athletics)")
  * but the talent is called "Talented (Athletics)" — so the check fails in any
  * language and the talent can never be added. Babele translation makes no

@@ -1,25 +1,36 @@
 // Keep the original Imperium Maledictum collection names resolvable after the
-// official packs have been consolidated into Navis Apexialis.
+// official packs have been consolidated into Apex Imperialis.
 const ALIASES = {
-  "impmal-core.actors": "navis-apexialis.navis-core-actors",
-  "impmal-core.items": "navis-apexialis.navis-core-items",
-  "impmal-core.journals": "navis-apexialis.navis-core-journals",
-  "impmal-core.tables": "navis-apexialis.navis-core-tables",
-  "impmal-core.scenes": "navis-apexialis.navis-core-scenes",
-  "impmal-inquisition.actors": "navis-apexialis.navis-inquisition-actors",
-  "impmal-inquisition.items": "navis-apexialis.navis-inquisition-items",
-  "impmal-inquisition.journals": "navis-apexialis.navis-inquisition-journals",
-  "impmal-inquisition.tables": "navis-apexialis.navis-inquisition-tables",
-  "impmal-requisition.actors": "navis-apexialis.navis-requisition-actors",
-  "impmal-requisition.items": "navis-apexialis.navis-requisition-items",
-  "impmal-requisition.journals": "navis-apexialis.navis-requisition-journals",
-  "impmal-requisition.tables": "navis-apexialis.navis-requisition-tables",
-  "impmal-voll.actors": "navis-apexialis.navis-voll-actors",
-  "impmal-voll.items": "navis-apexialis.navis-voll-items",
-  "impmal-voll.journals": "navis-apexialis.navis-voll-journals",
-  "impmal-voll.tables": "navis-apexialis.navis-voll-tables",
-  "impmal-voll.scenes": "navis-apexialis.navis-voll-scenes"
+  "impmal-core.actors": "apex-imperialis.navis-core-actors",
+  "impmal-core.items": "apex-imperialis.navis-core-items",
+  "impmal-core.journals": "apex-imperialis.navis-core-journals",
+  "impmal-core.tables": "apex-imperialis.navis-core-tables",
+  "impmal-core.scenes": "apex-imperialis.navis-core-scenes",
+  "impmal-inquisition.actors": "apex-imperialis.navis-inquisition-actors",
+  "impmal-inquisition.items": "apex-imperialis.navis-inquisition-items",
+  "impmal-inquisition.journals": "apex-imperialis.navis-inquisition-journals",
+  "impmal-inquisition.tables": "apex-imperialis.navis-inquisition-tables",
+  "impmal-requisition.actors": "apex-imperialis.navis-requisition-actors",
+  "impmal-requisition.items": "apex-imperialis.navis-requisition-items",
+  "impmal-requisition.journals": "apex-imperialis.navis-requisition-journals",
+  "impmal-requisition.tables": "apex-imperialis.navis-requisition-tables",
+  "impmal-voll.actors": "apex-imperialis.navis-voll-actors",
+  "impmal-voll.items": "apex-imperialis.navis-voll-items",
+  "impmal-voll.journals": "apex-imperialis.navis-voll-journals",
+  "impmal-voll.tables": "apex-imperialis.navis-voll-tables",
+  "impmal-voll.scenes": "apex-imperialis.navis-voll-scenes"
 };
+
+// The module was published as `navis-apexialis` up to 0.2.0. Worlds built then
+// still hold Compendium.navis-apexialis.* UUIDs, so every pack answers to its
+// old module id as well.
+for (const pack of [
+  "navis-core-actors", "navis-core-items", "navis-core-journals", "navis-core-tables", "navis-core-scenes",
+  "navis-inquisition-actors", "navis-inquisition-items", "navis-inquisition-journals", "navis-inquisition-tables",
+  "navis-requisition-actors", "navis-requisition-items", "navis-requisition-journals", "navis-requisition-tables",
+  "navis-voll-actors", "navis-voll-items", "navis-voll-journals", "navis-voll-tables", "navis-voll-scenes",
+  "navis-species", "navis-items", "navis-talents", "navis-bestiary", "navis-rules"
+]) ALIASES[`navis-apexialis.${pack}`] = `apex-imperialis.${pack}`;
 
 // game.packs only exists once Foundry has built the compendium collections,
 // which happens between the init and setup hooks.
@@ -41,5 +52,5 @@ Hooks.once("setup", () => {
   };
   aliased.navisAliased = true;
   game.packs.get = aliased;
-  console.info(`navis-apexialis | ${Object.keys(ALIASES).length} legacy compendium aliases enabled`);
+  console.info(`apex-imperialis | ${Object.keys(ALIASES).length} legacy compendium aliases enabled`);
 });

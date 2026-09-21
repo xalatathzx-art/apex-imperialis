@@ -1,7 +1,7 @@
 /**
- * Таланты «Maledictum Expanded»: Defense, Melee, Ranged, Movement (55).
+ * Таланты: Defense, Melee, Ranged, Movement (55).
  *
- * Формат описания и таблица умений — из navis-apexialis.navis-talents.general.mjs.
+ * Формат описания и таблица умений — из apex-imperialis.navis-talents.general.mjs.
  *
  * Термины книги: Натиск (Charge), Выход из боя (Disengage), Точечная атака
  * (Target a Location, стр. 210), Уклонение, Пересечённая местность, укрытие
@@ -15,9 +15,9 @@
  * Jump Pack — «прыжковый ранец».
  */
 
-import { talent, CATEGORY } from "./navis-apexialis.navis-talents.general.mjs";
+import { talent, CATEGORY } from "./apex-imperialis.navis-talents.general.mjs";
 
-export const label = "Таланты (Maledictum Expanded)";
+export const label = "Таланты";
 
 const DEFENSE = CATEGORY("Защита");
 const MELEE = CATEGORY("Ближний бой");

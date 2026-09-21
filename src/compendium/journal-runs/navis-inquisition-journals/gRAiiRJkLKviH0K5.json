@@ -14,7 +14,7 @@
    "ru": ""
   },
   "18": {
-   "en": ": @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-xenos]{Xenos}",
+   "en": ": @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-xenos]{Xenos}",
    "ru": ""
   },
   "22": {
@@ -22,7 +22,7 @@
    "ru": ""
   },
   "24": {
-   "en": ": @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.yds9IfgKQlwxLqq6]{Monodominant}",
+   "en": ": @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.yds9IfgKQlwxLqq6]{Monodominant}",
    "ru": ""
   },
   "28": {
@@ -38,7 +38,7 @@
    "ru": ""
   },
   "36": {
-   "en": ": @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.4LYxCIJ2ansZ5wFk]{Andosk Subsector}",
+   "en": ": @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.4LYxCIJ2ansZ5wFk]{Andosk Subsector}",
    "ru": ""
   },
   "40": {
@@ -58,19 +58,19 @@
    "ru": ""
   },
   "78": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.1tBL8qTxUkWlvoDX]{Serranus} is a hard line firebrand of the Monodominant philosophy, a staunch absolutist who believes wholeheartedly in eradicating xenos, seeing their corruption as if it were a literal disease. Serranus is infamous for cutting off his own hand when it came into bare-fleshed contact with a piece of @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#aeldari]{Aeldari }technology, and he has executed many acolytes for similar ‘crimes’ that taint the purity of their Humanity.",
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.1tBL8qTxUkWlvoDX]{Serranus} is a hard line firebrand of the Monodominant philosophy, a staunch absolutist who believes wholeheartedly in eradicating xenos, seeing their corruption as if it were a literal disease. Serranus is infamous for cutting off his own hand when it came into bare-fleshed contact with a piece of @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#aeldari]{Aeldari }technology, and he has executed many acolytes for similar ‘crimes’ that taint the purity of their Humanity.",
    "ru": ""
   },
   "82": {
-   "en": "Of the Inquisitors operating in the Macharian Sector, Inquisitor @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.1tBL8qTxUkWlvoDX]{Serranus} is one of the most active in the field, for how else can one ensure the destruction of the loathsome xenos than by personally overseeing its obliteration? Serranus possesses a short temper kept in check by his fervent faith, a strength he presses upon his acolytes to ensure their motivation and loyalty.",
+   "en": "Of the Inquisitors operating in the Macharian Sector, Inquisitor @UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.1tBL8qTxUkWlvoDX]{Serranus} is one of the most active in the field, for how else can one ensure the destruction of the loathsome xenos than by personally overseeing its obliteration? Serranus possesses a short temper kept in check by his fervent faith, a strength he presses upon his acolytes to ensure their motivation and loyalty.",
    "ru": ""
   },
   "86": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.1tBL8qTxUkWlvoDX]{Serranus}’ upbringing in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.4LYxCIJ2ansZ5wFk]{Andosk Subsector} ensured that he would carry the flame of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.rwTMhBwRA6wCOgIA]{Arrian’s piety}, kept burning by generations of devout who formed their faith in the wake of the zealous master of Saint Macharius’ Sixth Army. Serranus’s beliefs were solidified long before his ascension to Inquisitor. In his youth, Konstan was a rare survivor of an Ork assault that the mighty @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#the-deathwatch]{Deathwatch} quelled before his eyes.",
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.1tBL8qTxUkWlvoDX]{Serranus}’ upbringing in the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.4LYxCIJ2ansZ5wFk]{Andosk Subsector} ensured that he would carry the flame of @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.rwTMhBwRA6wCOgIA]{Arrian’s piety}, kept burning by generations of devout who formed their faith in the wake of the zealous master of Saint Macharius’ Sixth Army. Serranus’s beliefs were solidified long before his ascension to Inquisitor. In his youth, Konstan was a rare survivor of an Ork assault that the mighty @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#the-deathwatch]{Deathwatch} quelled before his eyes.",
    "ru": ""
   },
   "90": {
-   "en": "Most acolytes under Serranus’s command are heavily augmented, as their flesh and former prosthetics are frequently replaced to prevent xenos contamination. He is unwavering in his beliefs that even to witness heresy is to foster corruption, ensuring that the eyes of long-serving acolytes are replaced with augmetics. His personal guard of former @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum} troopers who accompany him in the field could be mistaken for warriors of the Machine God for the breadth of augmetics they bear. Serranus also heavily uses expendable servitors and has established a staunch alliance with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus} of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.bdYvHMokSJTHhbCx]{Forkas-63} and @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.EfRX41lj9XqAOfxa]{Ibal Primus}. Dealings between the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-xenos]{Ordo Xenos} Inquisitor and the Magos of the Machine Cult are often tense, but in return, Serranus is dogged in his pursuit of hereteks meddling with xenos tech on their behalf.",
+   "en": "Most acolytes under Serranus’s command are heavily augmented, as their flesh and former prosthetics are frequently replaced to prevent xenos contamination. He is unwavering in his beliefs that even to witness heresy is to foster corruption, ensuring that the eyes of long-serving acolytes are replaced with augmetics. His personal guard of former @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum} troopers who accompany him in the field could be mistaken for warriors of the Machine God for the breadth of augmetics they bear. Serranus also heavily uses expendable servitors and has established a staunch alliance with the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus} of @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.bdYvHMokSJTHhbCx]{Forkas-63} and @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.EfRX41lj9XqAOfxa]{Ibal Primus}. Dealings between the @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-xenos]{Ordo Xenos} Inquisitor and the Magos of the Machine Cult are often tense, but in return, Serranus is dogged in his pursuit of hereteks meddling with xenos tech on their behalf.",
    "ru": ""
   },
   "94": {
@@ -86,11 +86,11 @@
    "ru": ""
   },
   "108": {
-   "en": " for consorting with the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#aeldari]{Aeldari}, a xenos species for which Serranus still holds a highly personal disgust. Allegedly, Gandash went so far as to incorporate their blasphemous technologies into his own flesh. Serranus sees this as the ultimate perversion of pure human flesh, and has sworn to find Agrippa himself. Reluctantly, Serranus recently accepted the aid of specialist Valerius Nabopalassar. Nabopalassar's knowledge of the Aeldari has already aided in this hunt, but in fact the 'specialist' is more than he seems, and has already marked the intractable Serranus as a threat to his own agenda.",
+   "en": " for consorting with the @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#aeldari]{Aeldari}, a xenos species for which Serranus still holds a highly personal disgust. Allegedly, Gandash went so far as to incorporate their blasphemous technologies into his own flesh. Serranus sees this as the ultimate perversion of pure human flesh, and has sworn to find Agrippa himself. Reluctantly, Serranus recently accepted the aid of specialist Valerius Nabopalassar. Nabopalassar's knowledge of the Aeldari has already aided in this hunt, but in fact the 'specialist' is more than he seems, and has already marked the intractable Serranus as a threat to his own agenda.",
    "ru": ""
   },
   "112": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.1tBL8qTxUkWlvoDX]{Serranus} is so consumed by his Monodominant beliefs that he is not even above his own suspicions — his long service to the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-xenos]{Ordo Xenos} has irredeemably exposed him to the loathsome alien. He knows that his mind is the last bastion of their corruption within him. Secretly, he has subjected himself to mind-wiping procedures to erase specifically haunting memories and expunged the Inquisition’s matching records. To his own detriment, Konstan is unaware that he is perhaps the sector’s foremost expert on @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#necrons]{Necron} activities.",
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.1tBL8qTxUkWlvoDX]{Serranus} is so consumed by his Monodominant beliefs that he is not even above his own suspicions — his long service to the @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-xenos]{Ordo Xenos} has irredeemably exposed him to the loathsome alien. He knows that his mind is the last bastion of their corruption within him. Secretly, he has subjected himself to mind-wiping procedures to erase specifically haunting memories and expunged the Inquisition’s matching records. To his own detriment, Konstan is unaware that he is perhaps the sector’s foremost expert on @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#necrons]{Necron} activities.",
    "ru": ""
   }
  }

@@ -1,7 +1,7 @@
 /**
- * Таланты «Maledictum Expanded»: Faith, Mechanicus, Psyker, Untouchables (67).
+ * Таланты: Faith, Mechanicus, Psyker, Untouchables (67).
  *
- * Формат описания — из navis-apexialis.navis-talents.general.mjs.
+ * Формат описания — из apex-imperialis.navis-talents.general.mjs.
  *
  * Термины книги: Набожность (Faithful), Пустой (Blank), Неистовство (Frenzy),
  * Санкционированный псайкер, Отвержение ведьмовства, Форсирование (Push,
@@ -14,9 +14,9 @@
  * Императора».
  */
 
-import { talent, CATEGORY } from "./navis-apexialis.navis-talents.general.mjs";
+import { talent, CATEGORY } from "./apex-imperialis.navis-talents.general.mjs";
 
-export const label = "Таланты (Maledictum Expanded)";
+export const label = "Таланты";
 
 const FAITH = CATEGORY("Вера");
 const MECHANICUS = CATEGORY("Механикус");

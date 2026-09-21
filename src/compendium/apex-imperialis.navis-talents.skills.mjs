@@ -1,8 +1,8 @@
 /**
- * Таланты «Maledictum Expanded»: Knowledge, Leadership, Medicae, Piloting,
+ * Таланты: Knowledge, Leadership, Medicae, Piloting,
  * Social, Tech, Stealth (50).
  *
- * Формат описания — из navis-apexialis.navis-talents.general.mjs.
+ * Формат описания — из apex-imperialis.navis-talents.general.mjs.
  *
  * Таланты-предпосылки — названиями книги: Инфоархеолог (Data Delver),
  * Идеальная память (Eidetic Memory), Вдохновляющее присутствие (Inspiring
@@ -13,9 +13,9 @@
  * (+10)», по образцу её шкалы. Degrees of Failure — «ступени провала».
  */
 
-import { talent, CATEGORY } from "./navis-apexialis.navis-talents.general.mjs";
+import { talent, CATEGORY } from "./apex-imperialis.navis-talents.general.mjs";
 
-export const label = "Таланты (Maledictum Expanded)";
+export const label = "Таланты";
 
 const KNOWLEDGE = CATEGORY("Знания");
 const LEADERSHIP = CATEGORY("Лидерство");

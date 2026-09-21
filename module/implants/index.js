@@ -17,7 +17,7 @@ import { defineImplantSheet } from "./sheet.js";
 import { registerSurgeonHooks } from "./surgeon-app.js";
 import { IMPLANT_TYPE } from "./state.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 export { IMPLANT_TYPE };
 

@@ -2,7 +2,7 @@
   "name": "Rite of Shroudpsalm",
   "type": "talent",
   "_id": "malExpTal0000199",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Free action (de-)activate: you do not register on scanning/recording equipment. Any gear/equipment providing boni to Awareness do not work on you</span></p><hr><p><span style=\"font-family: Arial\"><em>You are implanted with noospheric negators, electromagnetic disrupters, and stealth screen projectors, all designed to interfere with enemy surveillance equipment. You may activate or deactivate the effects of this talent as a Free Action. While active, you do not register on auspices, pict-thieves, monoscopes, or other forms of scanning or recording equipment. Anyone attempting to identify your presence use their unmodified Awareness, without bonuses for gear or equipment. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

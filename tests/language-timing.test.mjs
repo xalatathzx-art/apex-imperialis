@@ -93,7 +93,7 @@ function installFoundry({ serverLanguage = "en" } = {}) {
 
   const modules = new Collection();
   modules.set("babele", { id: "babele", active: true, languages: [] });
-  modules.set("navis-apexialis", { id: "navis-apexialis", active: true, languages: [{ lang: "ru" }] });
+  modules.set("apex-imperialis", { id: "apex-imperialis", active: true, languages: [{ lang: "ru" }] });
   // A second Russian translation, which is what the book-terminology pass exists for.
   modules.set("ru-ru", { id: "ru-ru", active: true, languages: [{ lang: "ru" }] });
 
@@ -142,13 +142,13 @@ function boot({ babele, clientLanguage = "ru" }) {
 /* ------------------------------------------------------------------ tests ---- */
 
 const state = installFoundry({ serverLanguage: "en" });
-await import("../module/navis-apexialis.js");
+await import("../module/apex-imperialis.js");
 const { RU_TERMS } = await import("../lang/ru-terms.mjs");
 boot({ babele: state.babele });
 
 test("the compendium translations reach Babele on an English-default server", () => {
   assert.deepEqual(state.registered, [
-    { module: "navis-apexialis", lang: "ru", dir: "compendium" },
+    { module: "apex-imperialis", lang: "ru", dir: "compendium" },
   ]);
 });
 

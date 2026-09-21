@@ -23,13 +23,13 @@ const e = (name, text) => row(`<strong>${name}</strong>: ${text}`);
 /** Строка карточки: поле и значение, каждое своим абзацем. */
 const card = pairs => row(pairs.map(([k, v]) => `<p><strong>${k}</strong>: ${v}</p>`).join(" "));
 
-const ITEM = "Compendium.navis-apexialis.navis-core-items.Item";
-const QUALITIES = "Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.ZR29g4RP1E8y9twS";
-const TERRAIN = "Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain";
+const ITEM = "Compendium.apex-imperialis.navis-core-items.Item";
+const QUALITIES = "Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.ZR29g4RP1E8y9twS";
+const TERRAIN = "Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain";
 
 const WHEELS = U(`${ITEM}.AKyR6gu2VqFCimHq`, "Аугметические колёса или гусеницы");
 const DIFFICULT_TERRAIN = U(TERRAIN, "Труднопроходимая местность");
-const FACTION_TABLE = U("Compendium.navis-apexialis.navis-core-tables.RollTable.vl9saE1Hpu48qsLd", "Служба покровителя");
+const FACTION_TABLE = U("Compendium.apex-imperialis.navis-core-tables.RollTable.vl9saE1Hpu48qsLd", "Служба покровителя");
 
 export const byName = {
   "Familiar Size": {

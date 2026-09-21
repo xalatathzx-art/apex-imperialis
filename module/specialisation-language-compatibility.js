@@ -1,6 +1,6 @@
 import { ownedSpecialisation } from "./skill-specialisations.js";
 
-const PATCHED = Symbol.for("navis-apexialis.specialisation-language-compatibility");
+const PATCHED = Symbol.for("apex-imperialis.specialisation-language-compatibility");
 
 function patchSkillTests() {
   const actor = game.actors?.contents?.[0];

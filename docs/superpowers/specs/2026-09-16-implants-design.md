@@ -47,7 +47,7 @@ not content — it is the four layers.
 - State lives in schema fields, not document flags. `warhammer-dbc` uses flags
   (`flags.warhammer-dbc.installed`); here the type is ours, and a data model is
   what fields are for. The biomonitor's existing
-  `flags.navis-apexialis.location` reader stays as-is for native augmetics.
+  `flags.apex-imperialis.location` reader stays as-is for native augmetics.
 - Mechanics belong to the item, never to a lookup table keyed by name. This is
   the reference system's own hard-won lesson (`wdbc-9bzv`: renaming an implant
   in the pack silently zeroed its mechanics; `wdbc-cy2`: the same bonus living
@@ -93,7 +93,7 @@ number; cycle A stores it so cycle B does not have to re-derive it.
 
 ```
 module/implants/
-  model.js          ImplantModel — the navis-apexialis.implant schema
+  model.js          ImplantModel — the apex-imperialis.implant schema
   sheet.js          item sheet: Description / Quality / Mechanics tabs
   rules.js          pure: limits, ½T.b, over-cap penalty, quality→number resolution
   state.js          the gate: installed/disabled/active, effect synchronisation
@@ -125,7 +125,7 @@ world — because types declared in the manifest only reach a world at launch.
 ## The item type
 
 Declared in `module.json` under `documentTypes.Item.implant`, joining the
-existing `species` and `subspecies`. The type id is `navis-apexialis.implant`.
+existing `species` and `subspecies`. The type id is `apex-imperialis.implant`.
 
 ```js
 {
@@ -279,7 +279,7 @@ Motive Banks (+5 capacity), Electoo inductors (refill), Actuator Banks (+1 from
 the Skitarii War Plate) and the techno-miracles that spend the same pool. The
 `energy` entry kind is the general form of what would have been a special case.
 
-Заряд stays where it is, in `flags.navis-apexialis.mechanicum.energy`, and stays
+Заряд stays where it is, in `flags.apex-imperialis.mechanicum.energy`, and stays
 the single pool — implants do not get a second counter meaning the same thing.
 What changes is that its capacity becomes derived: base Toughness bonus plus the
 sum of `energy` entries from active implants. Because it is a flag, an Active

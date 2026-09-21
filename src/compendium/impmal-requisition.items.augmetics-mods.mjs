@@ -18,8 +18,8 @@ const p = (...parts) => `<p>${parts.join("")}</p>`;
 const cognomens = (...names) =>
   p("<strong>Когномены</strong>: ", names.join(", "), ".");
 
-const CORE = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
-const ITEM = "Compendium.navis-apexialis.navis-core-items.Item";
+const CORE = "Compendium.apex-imperialis.navis-core-journals.JournalEntry";
+const ITEM = "Compendium.apex-imperialis.navis-core-items.Item";
 const SECTOR = `${CORE}.B7MZBBT3bNew9N96.JournalEntryPage`;
 const IMP = `${CORE}.GPqYZykonC12TJb1.JournalEntryPage`;
 

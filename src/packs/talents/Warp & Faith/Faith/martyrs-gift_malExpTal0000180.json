@@ -2,7 +2,7 @@
   "name": "Martyr's Gift",
   "type": "talent",
   "_id": "malExpTal0000180",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Anytime-Free action: spend FP to gain WpB/2 extra armor until your next turn</span></p><hr><p><span style=\"font-family: Arial\"><em>As an any-time Free Action, you may spend a Fate Point to gain additional Armor Points on all locations equal to half your Willpower Bonus (rounding up) until the start of your next turn. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

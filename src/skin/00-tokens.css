@@ -1,7 +1,7 @@
 /* ══════════════════════════════════════════════════════════════════════════
    NAVIS APEXIALIS SKIN — 00 TOKENS
 
-   Everything is gated on body.navis-skin, which module/skin.js sets from a
+   Everything is gated on body.apex-skin, which module/skin.js sets from a
    client setting. The class is ours, not impmal's body.impmal-theme: that one
    follows a per-player setting the player can switch off, and a skin hung on it
    would silently vanish for them.
@@ -10,7 +10,7 @@
    decides what every other rule's var() resolves to.
    ══════════════════════════════════════════════════════════════════════ */
 
-body.navis-skin {
+body.apex-skin {
   /* ── Surfaces, by depth ──────────────────────────────────────────────────
      Fields sit DARKER than the panel holding them. That is what keeps the
      accent the only bright thing on screen, so brightness always means
@@ -139,8 +139,8 @@ body.navis-skin {
    Foundry declares these on body.theme-* AND on any .themed element, so an
    application forced to a light theme would re-declare them on itself and
    ignore ours on body. Declaring on both closes that gap. */
-body.navis-skin,
-body.navis-skin .themed {
+body.apex-skin,
+body.apex-skin .themed {
   --color-scheme: dark;
   --color-text-emphatic:  var(--navis-ink-emphatic);
   --color-text-primary:   var(--navis-ink);

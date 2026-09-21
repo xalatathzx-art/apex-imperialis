@@ -2,7 +2,7 @@
   "name": "Aegis of the Emperor",
   "type": "talent",
   "_id": "malExpTal0000158",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">1/Encounter, spend FP, target ally within Short range: target cannot be affected by Psychic Powers for 1h</span></p><hr><p><span style=\"font-family: Arial\"><em>It is said that among the oldest invocations of the Emperor’s strength are the three words, “The Emperor Protects.” Once per encounter, you may spend a Fate Point on an ally within Short Range. This ally cannot be targeted by Psychic Powers for 1 Hour.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

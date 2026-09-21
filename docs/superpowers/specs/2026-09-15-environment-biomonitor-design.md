@@ -1,13 +1,13 @@
 # Environment and Biomonitor Design
 
 **Date:** 2026-09-15  
-**Module:** Navis Apexialis  
+**Module:** Apex Imperialis  
 **System:** Imperium Maledictum 3.1+ on Foundry VTT 13  
 **Status:** Approved in chat; awaiting review of this written specification
 
 ## Purpose
 
-Add two connected subsystems to Navis Apexialis:
+Add two connected subsystems to Apex Imperialis:
 
 1. a scene environment that models weather, temperature, gravity, radiation, and atmosphere; and
 2. a character biomonitor under Influence on the Main tab that presents wounds, critical damage, conditions, armour damage, augmetics, and environmental exposure in one place.
@@ -50,7 +50,7 @@ The entry point registers data and settings at `init`, safe system adapters at `
 Environment is stored at:
 
 ```js
-flags["navis-apexialis"].environment = {
+flags["apex-imperialis"].environment = {
   weather: {
     preset: "clear",
     severity: 0,
@@ -171,7 +171,7 @@ Gravity compensation reduces only gravity above 1G for the actor's tests, effect
 The Scene has intensity 0–10. Each character stores lasting dose at:
 
 ```js
-flags["navis-apexialis"].exposure.radiationDose
+flags["apex-imperialis"].exposure.radiationDose
 ```
 
 Radiation protection reduces intensity before frequency and difficulty are selected. Protection stacks and the result is clamped at zero. Default protection values are: closed protection or chemical suit -1, void/radiation suit -2, sealed power armour -3, augmetics as configured, and a proper radiation shelter immunity.

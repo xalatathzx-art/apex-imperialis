@@ -2,7 +2,7 @@
   "name": "Low Profile",
   "type": "talent",
   "_id": "malExpTal0000060",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">+2 Cover Armor</span></p><hr><p><span style=\"font-family: Arial\"><em>Effective city-fighting requires relearning how to move – not just keeping your head down, but making every piece of environmental protection work as hard as possible for you. You increase the effective armor of any cover you occupy by +2.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

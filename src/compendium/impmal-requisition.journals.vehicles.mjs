@@ -36,9 +36,9 @@ const embed = (id, desc = "top") =>
 const price = (id, name, cost, avail) =>
   `<tr><td>${U(`${REQ_ACTOR}.${id}`, name)}</td><td>${cost}</td><td>${avail}</td></tr>`;
 
-const CORE = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
+const CORE = "Compendium.apex-imperialis.navis-core-journals.JournalEntry";
 const IMP = `${CORE}.GPqYZykonC12TJb1.JournalEntryPage`;
-const REQ_ACTOR = "Compendium.navis-apexialis.navis-requisition-actors.Actor";
+const REQ_ACTOR = "Compendium.apex-imperialis.navis-requisition-actors.Actor";
 
 const MILITARUM = U(`${IMP}.r6JYS3jOfrAEorvd`, "Астра Милитарум");
 const ADMINISTRATUM = U(`${IMP}.3TtxuCzt0nNV1ysj`, "Адептус Администратум");
@@ -84,7 +84,7 @@ export const byName = {
             "Тяга выставлена. Просадка будет резкой, так что надеюсь, все готовы. К взлёту готов. " +
             "Задирать нос и набирать высоту будем как обычно, постепенно. Шасси убрать, полетели».") +
           attrib("— сержант эскадрильи «Валькирий» «Ястреб» Соннен, высадка на берег") +
-          `<div class="journal-image float-right flip"><img height="660" src="modules/navis-apexialis/assets/impmal-requisition/images/banner-vehicles.webp" /></div>` +
+          `<div class="journal-image float-right flip"><img height="660" src="modules/apex-imperialis/assets/impmal-requisition/images/banner-vehicles.webp" /></div>` +
           p("Почти все подданные Империума ходят пешком или ездят набитыми в общественный транспорт, ",
             "как груз. На другом конце — те немногие счастливцы, у кого есть собственная машина, а ",
             "это обычно знак положения или богатства. Ваши персонажи чаще всего где-то посередине: ",
@@ -117,7 +117,7 @@ export const byName = {
       "Vehicle Rules": {
         name: "Правила для техники",
         text:
-          `<div class="journal-image float-right"><img height="500" src="modules/navis-apexialis/assets/impmal-requisition/images/aquila-lander.webp" /></div>` +
+          `<div class="journal-image float-right"><img height="500" src="modules/apex-imperialis/assets/impmal-requisition/images/aquila-lander.webp" /></div>` +
           p("По большей части управление машиной сводится к тому, что персонаж за рычагами совершает ",
             "<strong>проверки Пилотирования</strong> там, где возникает опасность или помеха. Но в ",
             "этой главе есть и особые правила, и собственные действия машин, о которых стоит знать ",
@@ -213,7 +213,7 @@ export const byName = {
               "скажите игрокам прямо: «Валькирия» сейчас взорвётся. Дайте персонажам возможность ",
               "выпрыгнуть: несколько ходов на <strong>проверки Рефлексов (Равновесие)</strong>, ",
               "чтобы безопасно перебраться по машине, найти ",
-              U("Compendium.navis-apexialis.navis-requisition-items.Item.E0kzTvRKN90TxPIN", "грав-парашют"),
+              U("Compendium.apex-imperialis.navis-requisition-items.Item.E0kzTvRKN90TxPIN", "грав-парашют"),
               " и прыгнуть. Вы не отменили гибель «Валькирии» — она всё равно случится, — но обменяли ",
               "нечестную смерть персонажей на новые трудности и на изрядные мучения. Не приземлятся ",
               "ли они на грав-парашютах во вражеском тылу? Не привлечёт ли разбитая «Валькирия» ",
@@ -243,7 +243,7 @@ export const byName = {
               "проверки машина коснётся земли, она получает критическое попадание.")) +
 
           h(4, "crush", "Раздавить") +
-          `<div class="journal-image float-right flip"><img height="350" src="modules/navis-apexialis/assets/impmal-requisition/actors/wolfquad.webp" /></div>` +
+          `<div class="journal-image float-right flip"><img height="350" src="modules/apex-imperialis/assets/impmal-requisition/actors/wolfquad.webp" /></div>` +
           p("<strong>Сложность</strong>: трудная (−10), встречно — <em>Пилотирование</em> цели или её ",
             "<em>Рефлексы (Уклонение)</em>.") +
           p("<strong>Ограничение</strong>: гусеничная или шагающая техника") +
@@ -439,7 +439,7 @@ export const byName = {
       Aircraft: {
         name: "Воздушная техника",
         text:
-          `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-requisition/images/valkyrie.webp" /></div>` +
+          `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-requisition/images/valkyrie.webp" /></div>` +
           p("Имперские машины в небе над передовой ", MILITARUM,
             " — зрелище, от которого у бойца и сердце поднимается, и грудь дрожит. Поддержка с ",
             "воздуха нужна Астра Милитарум во множестве дел: она быстро перебрасывает войска и даёт ",
@@ -467,7 +467,7 @@ export const byName = {
       "Orbital Void Craft": {
         name: "Орбитальные пустотные суда",
         text:
-          `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-requisition/images/arvus-lighter.webp" /></div>` +
+          `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-requisition/images/arvus-lighter.webp" /></div>` +
           p("Проверенных временем образцов орбитальных пустотных судов в Империуме немного: СШК на ",
             "них, как правило, мудрёные и редкие, и даже там, где есть и знание, и средства делать ",
             "свои разновидности, обычно держатся известного рабочего образца. ",
@@ -489,14 +489,14 @@ export const byName = {
             "боевые кони Астра Милитарум — и целые, и обглоданные остовы, что разбросаны по сектору ",
             "Махарий вечным напоминанием о том, как далеко тянется рука Империума и как он силён.") +
           h(3, "chimera", "Химера") +
-          `<div class="journal-image float-right"><img height="400" src="modules/navis-apexialis/assets/impmal-requisition/images/chimera.webp" /><p></p></div>` +
+          `<div class="journal-image float-right"><img height="400" src="modules/apex-imperialis/assets/impmal-requisition/images/chimera.webp" /><p></p></div>` +
           embed("ESSSyk2PNGHwRxja") +
           h(3, "crassus", "Крассус") + embed("7UTuFbf0lNcNiVLj") +
           h(3, "hellhound", "Адский пёс") +
-          `<div class="journal-image float-right flip"><img height="400" src="modules/navis-apexialis/assets/impmal-requisition/images/hellhound.webp" /><p></p></div>` +
+          `<div class="journal-image float-right flip"><img height="400" src="modules/apex-imperialis/assets/impmal-requisition/images/hellhound.webp" /><p></p></div>` +
           embed("X6FANDT7QopkiYrz") +
           h(3, "taurox", "Таурокс") + embed("2P0FfNZnOheNRNpV") +
-          `<div class="journal-image centered"><img width="250" src="modules/navis-apexialis/assets/impmal-requisition/misc/spot-gastank.webp" /></div>`
+          `<div class="journal-image centered"><img width="250" src="modules/apex-imperialis/assets/impmal-requisition/misc/spot-gastank.webp" /></div>`
       },
 
       Walkers: {
@@ -510,10 +510,10 @@ export const byName = {
             "сектору пускают против бунтов: лишний рост и установленное орудие хорошо напоминают ",
             "заблудшим подданным, как глупо отступать от законов Императора.") +
           h(3, "strider", "Ходок") +
-          `<div class="journal-image float-right"><img height="400" src="modules/navis-apexialis/assets/impmal-requisition/actors/industrial-walker.webp" /><p></p></div>` +
+          `<div class="journal-image float-right"><img height="400" src="modules/apex-imperialis/assets/impmal-requisition/actors/industrial-walker.webp" /><p></p></div>` +
           embed("PBcyq520buCt7qmx", "true") +
           h(3, "sentinel", "Часовой") +
-          `<div class="journal-image float-right"><img height="400" src="modules/navis-apexialis/assets/impmal-requisition/actors/sentinel.webp" /><p></p></div>` +
+          `<div class="journal-image float-right"><img height="400" src="modules/apex-imperialis/assets/impmal-requisition/actors/sentinel.webp" /><p></p></div>` +
           embed("rJSCTS54GK4zYXit", "true")
       },
 
@@ -526,15 +526,15 @@ export const byName = {
             "впрочем, то же можно сказать и о мятежных еретиках и об ", INFRACTIONIST,
             ", которые на принудительных работах проводят с этими машинами уйму времени.") +
           p("Заметьте, что профили обычных ",
-            U("Compendium.navis-apexialis.navis-core-actors.Actor.iGIlE8TZfBgJ2bhY", "грузовоза"), " и ",
-            U("Compendium.navis-apexialis.navis-core-actors.Actor.ZvPDNhZqkfASxN0f", "мотоцикла"), " есть в ",
+            U("Compendium.apex-imperialis.navis-core-actors.Actor.iGIlE8TZfBgJ2bhY", "грузовоза"), " и ",
+            U("Compendium.apex-imperialis.navis-core-actors.Actor.ZvPDNhZqkfASxN0f", "мотоцикла"), " есть в ",
             U(`${CORE}.hdElQAwiBr5AyoRf.JournalEntryPage.wUO8fTXkJHluyMWJ`, "«Технике»")) +
           h(3, "cargo-8", "Карго-8") +
-          `<div class="journal-image float-right"><img height="200" src="modules/navis-apexialis/assets/impmal-requisition/misc/spot-treads.webp" /><p></p></div>` +
+          `<div class="journal-image float-right"><img height="200" src="modules/apex-imperialis/assets/impmal-requisition/misc/spot-treads.webp" /><p></p></div>` +
           embed("IfL7M9sq7tgeRlYx") +
           h(3, "goliath-truck", "Грузовик «Голиаф»") + embed("0TCOVIOQdbZdg6Nz") +
           h(3, "ground-car", "Легковая машина") + embed("ud4QOtJXoGOwSU6T") +
-          `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-requisition/actors/groundcar.webp" /></div>` +
+          `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-requisition/actors/groundcar.webp" /></div>` +
           h(3, "quadbike", "Квадроцикл") + embed("JJnKxmaMHinoSmy0") +
           h(3, "ridgerunner", "Скалоход") + embed("j9fwp3VYnAhehxb2")
       }

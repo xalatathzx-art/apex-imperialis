@@ -3,7 +3,7 @@
  *
  * Чудо, поднимающее щит, помечено флагом `shield` со своей ёмкостью:
  *
- *     flags["navis-apexialis"].shield = { perCharge: 10 }
+ *     flags["apex-imperialis"].shield = { perCharge: 10 }
  *
  * Пока Процесс работает, у актёра лежит предмет `forceField`, помеченный тем же
  * флагом. Это даёт даром всё, что у полей уже есть: покрытие всех областей
@@ -28,7 +28,7 @@
 
 import { readBlock, spendFrom } from "./resources.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 const SHIELD_FLAG = "shield";
 
 /** Порог перегрузки, до которого не дотянется никакой урон: щит не перегорает. */

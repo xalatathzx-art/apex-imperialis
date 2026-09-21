@@ -9,7 +9,7 @@
    tooltip, which costs no height at all.
    ══════════════════════════════════════════════════════════════════════ */
 
-body.navis-skin .navis-horde {
+body.apex-skin .navis-horde {
   /* The Effects tab is a column flex container, so a percentage basis would be
      read against its height and stretch the block down the whole tab. */
   flex: 0 0 auto;
@@ -24,7 +24,7 @@ body.navis-skin .navis-horde {
   border-left: 3px solid var(--navis-brass-dim);
 }
 
-body.navis-skin .navis-horde .navis-horde-label {
+body.apex-skin .navis-horde .navis-horde-label {
   margin: 0;
   font-family: var(--navis-font-stencil);
   font-size: 11px;
@@ -35,14 +35,14 @@ body.navis-skin .navis-horde .navis-horde-label {
 }
 
 /* Pushed right so the number sits on the edge, the way an attribute box reads. */
-body.navis-skin .navis-horde .navis-horde-caption {
+body.apex-skin .navis-horde .navis-horde-caption {
   margin-left: auto;
   font-size: 11px;
   letter-spacing: 0.4px;
   color: var(--navis-ink-faint);
 }
 
-body.navis-skin .navis-horde input[name="navis-horde-size"] {
+body.apex-skin .navis-horde input[name="navis-horde-size"] {
   flex: 0 0 auto;
   width: 4.5ch;
   height: 20px;
@@ -59,13 +59,13 @@ body.navis-skin .navis-horde input[name="navis-horde-size"] {
   border-radius: 0;
 }
 
-body.navis-skin .navis-horde input[name="navis-horde-size"]:focus {
+body.apex-skin .navis-horde input[name="navis-horde-size"]:focus {
   outline: none;
   border-color: var(--navis-brass);
 }
 
 /* ── The horde's casualty line on an applied-damage chat card ──────────── */
-body.navis-skin .navis-horde-casualties {
+body.apex-skin .navis-horde-casualties {
   display: block;
   margin-bottom: 2px;
   font-weight: 700;
@@ -73,7 +73,7 @@ body.navis-skin .navis-horde-casualties {
   color: var(--navis-brass);
 }
 
-body.navis-skin .navis-horde-casualties.destroyed {
+body.apex-skin .navis-horde-casualties.destroyed {
   color: var(--navis-danger);
   text-transform: uppercase;
 }

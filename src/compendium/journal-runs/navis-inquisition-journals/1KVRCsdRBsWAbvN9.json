@@ -14,8 +14,8 @@
    "ru": "Процедура удаляет или заменяет почти все органические части фамильяра. Большую часть мозга сохраняют, чтобы сохранить поведение, способности и характер фамильяра и избежать богохульства создания Мерзкого Интеллекта. Кровеносная система может послужить образцом для новой транспортной системы, качающей топливо к механизмам и питательные вещества к оставшейся органике. Грубые органы чувств можно заменить благословенными пикт-линзами и ауспиками. Нервы соединяют с вживлёнными в мозг когитаторами и набором поршней, микросервоприводов и гиростабилизаторов, что даёт существу такой же или даже больший диапазон движений, чем мышцы и кости."
   },
   "16": {
-   "en": "To upgrade an existing Familiar to a Cyber-Familiar, a Character must first have the required level of @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.bKmzN9rjDaOIL7Uo]{Familiar Bonded} Talent. The Master must pay Solars equal to the Familiar’s base cost for the procedure. Then make the following changes:",
-   "ru": "Чтобы улучшить имеющегося фамильяра до киберфамильяра, персонаж должен сначала иметь необходимый уровень таланта @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.bKmzN9rjDaOIL7Uo]{«Связь с фамильяром»}. За процедуру хозяин должен заплатить соляры в размере базовой стоимости фамильяра. Затем внесите следующие изменения:"
+   "en": "To upgrade an existing Familiar to a Cyber-Familiar, a Character must first have the required level of @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.bKmzN9rjDaOIL7Uo]{Familiar Bonded} Talent. The Master must pay Solars equal to the Familiar’s base cost for the procedure. Then make the following changes:",
+   "ru": "Чтобы улучшить имеющегося фамильяра до киберфамильяра, персонаж должен сначала иметь необходимый уровень таланта @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.bKmzN9rjDaOIL7Uo]{«Связь с фамильяром»}. За процедуру хозяин должен заплатить соляры в размере базовой стоимости фамильяра. Затем внесите следующие изменения:"
   },
   "24": {
    "en": "The Familiar gains 1 point of Armour. Toughness maximum increases by +20. Toughness increases by +5. The Master chooses a separate Characteristic to increase by +5.",
@@ -26,12 +26,12 @@
    "ru": "Фамильяр получает по 1 улучшению в следующих умениях (или специализациях, если умение у него уже есть): Стойкость (Неустанность), Техника (Аугметика)."
   },
   "40": {
-   "en": "The Familiar gains 2 @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.jsw5d0omkWXaurDM#augmetic-replacements]{Augmetic Replacements}. Note: These do not count towards the usual limit of the Familiar’s Toughness Bonus (TghB). Further Augmetic Replacements can be purchased now or later, counted against the usual limit.",
-   "ru": "Фамильяр получает 2 @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.jsw5d0omkWXaurDM#augmetic-replacements]{аугметические замены}. Примечание: они не учитываются в обычном пределе, равном бонусу Выносливости фамильяра (бВын). Дополнительные аугметические замены можно купить сейчас или позже, и они учитываются в обычном пределе."
+   "en": "The Familiar gains 2 @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.jsw5d0omkWXaurDM#augmetic-replacements]{Augmetic Replacements}. Note: These do not count towards the usual limit of the Familiar’s Toughness Bonus (TghB). Further Augmetic Replacements can be purchased now or later, counted against the usual limit.",
+   "ru": "Фамильяр получает 2 @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.jsw5d0omkWXaurDM#augmetic-replacements]{аугметические замены}. Примечание: они не учитываются в обычном пределе, равном бонусу Выносливости фамильяра (бВын). Дополнительные аугметические замены можно купить сейчас или позже, и они учитываются в обычном пределе."
   },
   "48": {
-   "en": "Damage and Critical Wounds to the Cyber-Familiar’s augmetic locations are treated with Tech (Engineering) instead of Medicae. See @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.jsw5d0omkWXaurDM#augmetic-replacements]{Imperium Maledictum} for full details on repairing augmetics.",
-   "ru": "Урон и критические раны в аугметических частях киберфамильяра лечат Техникой (Инженерное дело) вместо Медики. Подробности о ремонте аугметики см. в книге @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.jsw5d0omkWXaurDM#augmetic-replacements]{Imperium Maledictum}."
+   "en": "Damage and Critical Wounds to the Cyber-Familiar’s augmetic locations are treated with Tech (Engineering) instead of Medicae. See @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.jsw5d0omkWXaurDM#augmetic-replacements]{Imperium Maledictum} for full details on repairing augmetics.",
+   "ru": "Урон и критические раны в аугметических частях киберфамильяра лечат Техникой (Инженерное дело) вместо Медики. Подробности о ремонте аугметики см. в книге @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.jsw5d0omkWXaurDM#augmetic-replacements]{Imperium Maledictum}."
   },
   "56": {
    "en": "Cyber-Familiar Augmetics",
@@ -42,48 +42,48 @@
    "ru": "Следующая аугметика доступна только киберфамильярам. Каждая учитывается в максимальном пределе фамильяра, определяемом его бонусом Выносливости (бВын). У каждой есть цена в солярах, покрывающая детали и услуги по имплантации. Аугметику киберфамильяра можно удалять одновременно с получением новой, но соляры и опыт за неё не возвращаются."
   },
   "70": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.qaINpZO8Ee6oXOJO]{Auto-Medicae Suite}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.qaINpZO8Ee6oXOJO]{Автомедицинский комплекс}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.qaINpZO8Ee6oXOJO]{Auto-Medicae Suite}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.qaINpZO8Ee6oXOJO]{Автомедицинский комплекс}"
   },
   "74": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.61T0xixnoTzx4q37]{Auxilary Behavioural Cogitator}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.61T0xixnoTzx4q37]{Вспомогательный поведенческий когитатор}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.61T0xixnoTzx4q37]{Auxilary Behavioural Cogitator}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.61T0xixnoTzx4q37]{Вспомогательный поведенческий когитатор}"
   },
   "78": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.0FCDQsLXAEBwRGHR]{Chain-Maw}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.0FCDQsLXAEBwRGHR]{Цепная пасть}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.0FCDQsLXAEBwRGHR]{Chain-Maw}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.0FCDQsLXAEBwRGHR]{Цепная пасть}"
   },
   "82": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.h5mB4DKBSzkJSp9W]{Data Archive}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.h5mB4DKBSzkJSp9W]{Архив данных}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.h5mB4DKBSzkJSp9W]{Data Archive}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.h5mB4DKBSzkJSp9W]{Архив данных}"
   },
   "86": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.XdFB11jt1uoQSrWK]{Discreet Storage}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.XdFB11jt1uoQSrWK]{Скрытое хранилище}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.XdFB11jt1uoQSrWK]{Discreet Storage}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.XdFB11jt1uoQSrWK]{Скрытое хранилище}"
   },
   "90": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.b4i39k6AUArjPwUf]{Mounted Weapon}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.b4i39k6AUArjPwUf]{Установленное оружие}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.b4i39k6AUArjPwUf]{Mounted Weapon}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.b4i39k6AUArjPwUf]{Установленное оружие}"
   },
   "94": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.xIGetBGuFLMEB5mL]{Pheromone Tracer}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.xIGetBGuFLMEB5mL]{Феромонный следопыт}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.xIGetBGuFLMEB5mL]{Pheromone Tracer}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.xIGetBGuFLMEB5mL]{Феромонный следопыт}"
   },
   "98": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Hxt0tZ01q1WiST9H]{Rite Of Quickening}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Hxt0tZ01q1WiST9H]{Обряд ускорения}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Hxt0tZ01q1WiST9H]{Rite Of Quickening}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Hxt0tZ01q1WiST9H]{Обряд ускорения}"
   },
   "102": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.hAM19QDozbpeuZg7]{Rite Of Solar Nourishment}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.hAM19QDozbpeuZg7]{Обряд солнечного питания}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.hAM19QDozbpeuZg7]{Rite Of Solar Nourishment}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.hAM19QDozbpeuZg7]{Обряд солнечного питания}"
   },
   "106": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.u2Vq8l7mm7s6ZLlo]{Silent Running}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.u2Vq8l7mm7s6ZLlo]{Бесшумный ход}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.u2Vq8l7mm7s6ZLlo]{Silent Running}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.u2Vq8l7mm7s6ZLlo]{Бесшумный ход}"
   },
   "110": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Vjj7d8Cg5idYDj3i]{Surveillance Auspex}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Vjj7d8Cg5idYDj3i]{Ауспекс наблюдения}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Vjj7d8Cg5idYDj3i]{Surveillance Auspex}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Vjj7d8Cg5idYDj3i]{Ауспекс наблюдения}"
   }
  }
 }

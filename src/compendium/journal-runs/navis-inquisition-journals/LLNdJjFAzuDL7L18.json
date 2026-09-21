@@ -42,7 +42,7 @@
    "ru": ""
   },
   "70": {
-   "en": "People drawn to the Storm’s Eye are led to believe they are joining a splinter cult of the Imperial Creed. Their leadership proclaims they will raise hard-working Imperial citizens and offer the downtrodden a place to fit in, work hard, and recognise their accomplishments. Simultaneously, they claim to shelter citizens from an impending doom — a resurgence of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#silence-and-darkness]{Noctis Aeterna} they claim will happen in the coming years. Their fearmongering easily attracts the lowborn, downtrodden of society. Before their recruits know what is happening, they unwittingly participate in darker and darker rituals. This same act also works on bored nobles and curious intellectuals, anyone who thinks they could do a better job than those in power of running society. They quickly fall sway to the whispers of the Storm’s Eye and their promises of more.",
+   "en": "People drawn to the Storm’s Eye are led to believe they are joining a splinter cult of the Imperial Creed. Their leadership proclaims they will raise hard-working Imperial citizens and offer the downtrodden a place to fit in, work hard, and recognise their accomplishments. Simultaneously, they claim to shelter citizens from an impending doom — a resurgence of the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#silence-and-darkness]{Noctis Aeterna} they claim will happen in the coming years. Their fearmongering easily attracts the lowborn, downtrodden of society. Before their recruits know what is happening, they unwittingly participate in darker and darker rituals. This same act also works on bored nobles and curious intellectuals, anyone who thinks they could do a better job than those in power of running society. They quickly fall sway to the whispers of the Storm’s Eye and their promises of more.",
    "ru": ""
   },
   "74": {
@@ -82,15 +82,15 @@
    "ru": ""
   },
   "112": {
-   "en": "Use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ppicZvgr0bEuhWeh]{Cultist} stat-block to represent average Storm’s Eye members.",
+   "en": "Use the @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.ppicZvgr0bEuhWeh]{Cultist} stat-block to represent average Storm’s Eye members.",
    "ru": ""
   },
   "120": {
-   "en": "Each cell has around a dozen @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.utelXH1DahFI5iHt]{Accursed Cultists}, with a @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.vvgA1lyNkcTDw1xP]{Rogue Psyker} or two among them.",
+   "en": "Each cell has around a dozen @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.utelXH1DahFI5iHt]{Accursed Cultists}, with a @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.vvgA1lyNkcTDw1xP]{Rogue Psyker} or two among them.",
    "ru": ""
   },
   "128": {
-   "en": "Use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.pGE97yqMKNMkyzgL]{Cult Leader} stat-block to represent ",
+   "en": "Use the @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.pGE97yqMKNMkyzgL]{Cult Leader} stat-block to represent ",
    "ru": ""
   },
   "130": {
@@ -98,7 +98,7 @@
    "ru": ""
   },
   "140": {
-   "en": "Use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.7GvkaaVAd69ORno0]{Chaos Spawn} stat-block to represent ",
+   "en": "Use the @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.7GvkaaVAd69ORno0]{Chaos Spawn} stat-block to represent ",
    "ru": ""
   },
   "142": {
@@ -110,7 +110,7 @@
    "ru": ""
   },
   "164": {
-   "en": "The cult’s primary resource is its reach and capability to hide. It has cells hidden in every aspect of Imperial society, from groups of dilettantes in hive spires to organised dregs working in the system’s manufactorums. They have loyal members among voidship crews and local merchants who see that the cult remains agile. Among the local Adeptus Terra is a cell within the local @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Ministorum} and @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Administratum} that doctor papers and strikes the cult's existence from public record.",
+   "en": "The cult’s primary resource is its reach and capability to hide. It has cells hidden in every aspect of Imperial society, from groups of dilettantes in hive spires to organised dregs working in the system’s manufactorums. They have loyal members among voidship crews and local merchants who see that the cult remains agile. Among the local Adeptus Terra is a cell within the local @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Ministorum} and @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Administratum} that doctor papers and strikes the cult's existence from public record.",
    "ru": ""
   },
   "168": {
@@ -122,11 +122,11 @@
    "ru": ""
   },
   "176": {
-   "en": "The Storm’s Eye is interested in subtle changes and spreading its influence slowly over time. They favour exploiting any societal weakness they can find. They foment sedition, insurrection, anarchy, criminal activity, and rebellion wherever they find it. Generally, they like to get others to do their work for them. Why fight @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.CsFqLJu3uHM45otd]{Arbites} when you can get a gang war started that will pull the Arbites into conflict? Why get involved in noble politics if you can instead set them against each other with a careful reveal of the truth at an inopportune time?",
+   "en": "The Storm’s Eye is interested in subtle changes and spreading its influence slowly over time. They favour exploiting any societal weakness they can find. They foment sedition, insurrection, anarchy, criminal activity, and rebellion wherever they find it. Generally, they like to get others to do their work for them. Why fight @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.CsFqLJu3uHM45otd]{Arbites} when you can get a gang war started that will pull the Arbites into conflict? Why get involved in noble politics if you can instead set them against each other with a careful reveal of the truth at an inopportune time?",
    "ru": ""
   },
   "180": {
-   "en": "Through information gathering from cells, the dark commune learns many secrets, secrets they use to ensure their members’ safety or gain leverage on those around them. Officers with secret dalliances, officials on the take, and corrupt @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Ministorum} officials are all assets within the Storm's Eyes network.",
+   "en": "Through information gathering from cells, the dark commune learns many secrets, secrets they use to ensure their members’ safety or gain leverage on those around them. Officers with secret dalliances, officials on the take, and corrupt @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Ministorum} officials are all assets within the Storm's Eyes network.",
    "ru": ""
   },
   "184": {
@@ -158,7 +158,7 @@
    "ru": ""
   },
   "204": {
-   "en": "Long ago, Inquisitorial agents infiltrated one of the cells closest to the dark commune. However, they failed to reach the cult’s leadership before the cell they were investigating sacrificed itself to keep the commune from being discovered. The Inquisitor’s notes from the investigation are archived on @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W.JournalEntryPage.Y1wjtyi7JdgHxQiF#mare-cinis]{Mare Cinis}. While the discovered cyphers they once used to communicate are long out of date, they might serve as a starting point for any investigators picking up the trail.",
+   "en": "Long ago, Inquisitorial agents infiltrated one of the cells closest to the dark commune. However, they failed to reach the cult’s leadership before the cell they were investigating sacrificed itself to keep the commune from being discovered. The Inquisitor’s notes from the investigation are archived on @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W.JournalEntryPage.Y1wjtyi7JdgHxQiF#mare-cinis]{Mare Cinis}. While the discovered cyphers they once used to communicate are long out of date, they might serve as a starting point for any investigators picking up the trail.",
    "ru": ""
   }
  }

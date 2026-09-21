@@ -2,7 +2,7 @@
   "name": "Telecryptographer",
   "type": "talent",
   "_id": "malExpTal0000156",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">+2SL to jam/intercept/decode, may spend action to encrypt allied channels requiring enemies to bypass with SL higher than your IntB</span></p><hr><p><span style=\"font-family: Arial\"><em>You are a student of informational warfare, as fluent at intercepting enemy communications as guarding your own. You gain +2SL on Tech (Security) tests to jam, intercept, or decode enemy vox traffic (or equivalent). You may also spend an action encrypting allied communications to prevent unauthorized access, which can only be bypassed by the enemy if they score a number of SLs equal to your intelligence bonus.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

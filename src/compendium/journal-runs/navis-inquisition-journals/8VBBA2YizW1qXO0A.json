@@ -30,24 +30,24 @@
    "ru": "Возможность обязанностей"
   },
   "40": {
-   "en": ": All Inquisitors have the Duty Boon: @UUID[Compendium.navis-apexialis.navis-core-items.Item.3M9o35qxoxiQRzP5]{Limitless Authority}.",
-   "ru": ": у всех инквизиторов есть возможность обязанностей @UUID[Compendium.navis-apexialis.navis-core-items.Item.3M9o35qxoxiQRzP5]{Безграничная власть}."
+   "en": ": All Inquisitors have the Duty Boon: @UUID[Compendium.apex-imperialis.navis-core-items.Item.3M9o35qxoxiQRzP5]{Limitless Authority}.",
+   "ru": ": у всех инквизиторов есть возможность обязанностей @UUID[Compendium.apex-imperialis.navis-core-items.Item.3M9o35qxoxiQRzP5]{Безграничная власть}."
   },
   "44": {
-   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.7uL4Z2vM6lfwAlqr]{Puritan}",
-   "ru": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.7uL4Z2vM6lfwAlqr]{Пуританин}"
+   "en": "@TableHTML[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.7uL4Z2vM6lfwAlqr]{Puritan}",
+   "ru": "@TableHTML[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.7uL4Z2vM6lfwAlqr]{Пуританин}"
   },
   "48": {
-   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.2HSuqibzUKBgpOlc]{Radical}",
-   "ru": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.2HSuqibzUKBgpOlc]{Радикал}"
+   "en": "@TableHTML[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.2HSuqibzUKBgpOlc]{Radical}",
+   "ru": "@TableHTML[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.2HSuqibzUKBgpOlc]{Радикал}"
   },
   "52": {
-   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.1XQ61LnxurvHZ3Pe]{Puritan}",
-   "ru": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.1XQ61LnxurvHZ3Pe]{Пуританин}"
+   "en": "@TableHTML[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.1XQ61LnxurvHZ3Pe]{Puritan}",
+   "ru": "@TableHTML[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.1XQ61LnxurvHZ3Pe]{Пуританин}"
   },
   "56": {
-   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.nH0TKf8tJsOg03NV]{Radical}",
-   "ru": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.nH0TKf8tJsOg03NV]{Радикал}"
+   "en": "@TableHTML[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.nH0TKf8tJsOg03NV]{Radical}",
+   "ru": "@TableHTML[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.nH0TKf8tJsOg03NV]{Радикал}"
   }
  }
 }

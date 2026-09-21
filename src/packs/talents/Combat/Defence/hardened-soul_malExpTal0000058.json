@@ -2,7 +2,7 @@
   "name": "Hardened Soul",
   "type": "talent",
   "_id": "malExpTal0000058",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">When gain Corruption: gain half. Checks to hold corruption +1SL</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever you would gain Corruption Points, you may reduce the amount by half (rounded up). Additionally, when you make a test to resist to hold off your corruption, you gain +1 SL on the test.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

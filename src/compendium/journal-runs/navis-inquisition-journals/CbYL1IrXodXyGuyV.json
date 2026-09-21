@@ -14,7 +14,7 @@
    "ru": ""
   },
   "18": {
-   "en": ": @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-hereticus]{Hereticus}",
+   "en": ": @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-hereticus]{Hereticus}",
    "ru": ""
   },
   "22": {
@@ -22,7 +22,7 @@
    "ru": ""
   },
   "24": {
-   "en": ": @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.R7LueEsDUhrSYHNn]{Amalathian}",
+   "en": ": @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.R7LueEsDUhrSYHNn]{Amalathian}",
    "ru": ""
   },
   "28": {
@@ -38,7 +38,7 @@
    "ru": ""
   },
   "36": {
-   "en": ": @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.UbH7oOtTYfjFlKRt]{Gallosque Nebula}",
+   "en": ": @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.UbH7oOtTYfjFlKRt]{Gallosque Nebula}",
    "ru": ""
   },
   "40": {
@@ -50,23 +50,23 @@
    "ru": ""
   },
   "58": {
-   "en": "Discover the truth of what happened to former Inquisitor Lord Hieronymo Drake, and understand the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W.JournalEntryPage.jt0zc7az5xNehcIZ#the-kryptman-protocol]{Kryptman Protocol}.",
+   "en": "Discover the truth of what happened to former Inquisitor Lord Hieronymo Drake, and understand the @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W.JournalEntryPage.jt0zc7az5xNehcIZ#the-kryptman-protocol]{Kryptman Protocol}.",
    "ru": ""
   },
   "66": {
-   "en": "Become the new Inquisitor Lord of the Macharian Sector, or find a suitable candidate to elevate (see @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W]{The Heresies Macharia}).",
+   "en": "Become the new Inquisitor Lord of the Macharian Sector, or find a suitable candidate to elevate (see @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W]{The Heresies Macharia}).",
    "ru": ""
   },
   "78": {
-   "en": "As an Amalathian, @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.aVVwuxbGv4b1Lcnm]{Horst} believes that the Emperor’s grand plan for the Macharian Sector, the Imperium, and the entire galaxy is progressing precisely as His perfect mind has foreseen, and any deviation from the status quo is a form of heresy.",
+   "en": "As an Amalathian, @UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.aVVwuxbGv4b1Lcnm]{Horst} believes that the Emperor’s grand plan for the Macharian Sector, the Imperium, and the entire galaxy is progressing precisely as His perfect mind has foreseen, and any deviation from the status quo is a form of heresy.",
    "ru": ""
   },
   "82": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.aVVwuxbGv4b1Lcnm]{Horst} grew up in and around the shrines of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.0g60Fj0fRMDfzYGB]{Macharia}, among the Sororitas Order Dialogus of the Solar Quill, before joining the Inquisition at Inquisitor Lord Hieronymo Drake’s request. She was tasked with investigating the upper echelons of Imperial society for heresy, seeking out those who would threaten the status quo. Her success and proliferation of assets under her control elevated her to the rank of Interrogator. Her public piety has helped to cement the Sisters Famulous as a contact network among Highborn houses throughout the Gallosque Nebula, granting her access to generations worth of records kept by these families under the Sororitas’ watch.",
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.aVVwuxbGv4b1Lcnm]{Horst} grew up in and around the shrines of @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.0g60Fj0fRMDfzYGB]{Macharia}, among the Sororitas Order Dialogus of the Solar Quill, before joining the Inquisition at Inquisitor Lord Hieronymo Drake’s request. She was tasked with investigating the upper echelons of Imperial society for heresy, seeking out those who would threaten the status quo. Her success and proliferation of assets under her control elevated her to the rank of Interrogator. Her public piety has helped to cement the Sisters Famulous as a contact network among Highborn houses throughout the Gallosque Nebula, granting her access to generations worth of records kept by these families under the Sororitas’ watch.",
    "ru": ""
   },
   "86": {
-   "en": "Among other Inquisitors, she is known for sending her supplicants on hazardous missions, often bordering on suicidal — @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.aVVwuxbGv4b1Lcnm]{Horst} believes that such crushing hardships are some necessary part of His divine plan.",
+   "en": "Among other Inquisitors, she is known for sending her supplicants on hazardous missions, often bordering on suicidal — @UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.aVVwuxbGv4b1Lcnm]{Horst} believes that such crushing hardships are some necessary part of His divine plan.",
    "ru": ""
   },
   "90": {
@@ -78,15 +78,15 @@
    "ru": ""
   },
   "104": {
-   "en": "The brutal standard to which @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.aVVwuxbGv4b1Lcnm]{Horst} holds her operatives is not without drawbacks. Horst lost contact with a group of her acolytes several years ago while they were engaged in heavy fighting in the bowels of the city-vessel Cassian on the oceans of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.wHl3ZP7wM7OQvSLC]{Jotungarth}. Horst has since received troubling reports from her other operatives that a covert group bearing arms and equipment that mirrors their own is attempting to sabotage her ongoing investigations.",
+   "en": "The brutal standard to which @UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.aVVwuxbGv4b1Lcnm]{Horst} holds her operatives is not without drawbacks. Horst lost contact with a group of her acolytes several years ago while they were engaged in heavy fighting in the bowels of the city-vessel Cassian on the oceans of @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.wHl3ZP7wM7OQvSLC]{Jotungarth}. Horst has since received troubling reports from her other operatives that a covert group bearing arms and equipment that mirrors their own is attempting to sabotage her ongoing investigations.",
    "ru": ""
   },
   "108": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.aVVwuxbGv4b1Lcnm]{Horst} remains unaware that these operatives have served as mercenaries to @UUID[.W50MW8gfyrDts9g3]{Inquisitor Halikarn} on several occasions. It is less the case that their attacks have been to counteract Horst’s goals but somewhat further Halikarn’s broader @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.7Aqg1D2wSmKjmzWj]{Recongregator} goals, naturally opposed to Horst’s @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.R7LueEsDUhrSYHNn]{Amalathian} beliefs.",
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.aVVwuxbGv4b1Lcnm]{Horst} remains unaware that these operatives have served as mercenaries to @UUID[.W50MW8gfyrDts9g3]{Inquisitor Halikarn} on several occasions. It is less the case that their attacks have been to counteract Horst’s goals but somewhat further Halikarn’s broader @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.7Aqg1D2wSmKjmzWj]{Recongregator} goals, naturally opposed to Horst’s @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.R7LueEsDUhrSYHNn]{Amalathian} beliefs.",
    "ru": ""
   },
   "112": {
-   "en": "Despite outward appearances and theatrics, @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.aVVwuxbGv4b1Lcnm]{Horst} was woefully involved in the death of her mentor, Inquisitor Lord Hieronymo Drake. She is shaken that her mentor was a secret heretic, and puzzled by his mysterious ‘@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W.JournalEntryPage.jt0zc7az5xNehcIZ#the-kryptman-protocol]{Kryptman Protocol}’ (the evidence of which is uncovered in @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W]{The Heresies Macharia}) and is worried that his taint will reflect poorly on her and her legitimacy as an Inquisitor.",
+   "en": "Despite outward appearances and theatrics, @UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.aVVwuxbGv4b1Lcnm]{Horst} was woefully involved in the death of her mentor, Inquisitor Lord Hieronymo Drake. She is shaken that her mentor was a secret heretic, and puzzled by his mysterious ‘@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W.JournalEntryPage.jt0zc7az5xNehcIZ#the-kryptman-protocol]{Kryptman Protocol}’ (the evidence of which is uncovered in @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W]{The Heresies Macharia}) and is worried that his taint will reflect poorly on her and her legitimacy as an Inquisitor.",
    "ru": ""
   }
  }

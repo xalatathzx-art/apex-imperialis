@@ -1,40 +1,40 @@
 Hooks.on("init", () => {
 
-    CONFIG.Combat.fallbackTurnMarker = "modules/navis-apexialis/assets/impmal-core/ui/turn-marker.webp"
+    CONFIG.Combat.fallbackTurnMarker = "modules/apex-imperialis/assets/impmal-core/ui/turn-marker.webp"
 
 
-    CONFIG.Actor.compendiumBanner = "modules/navis-apexialis/assets/impmal-core/banners/xenos.webp";
-    CONFIG.Item.compendiumBanner = "modules/navis-apexialis/assets/impmal-core/banners/faction-mechanicus.webp";
-    CONFIG.JournalEntry.compendiumBanner = "modules/navis-apexialis/assets/impmal-core/banners/faction-administratum.webp";
-    CONFIG.RollTable.compendiumBanner = "modules/navis-apexialis/assets/impmal-core/banners/hive-shootout.webp";
-    CONFIG.Scene.compendiumBanner = "modules/navis-apexialis/assets/impmal-core/banners/palace.webp";
-    CONFIG.Macro.compendiumBanner = "modules/navis-apexialis/assets/impmal-core/banners/rokarth.webp";
-    CONFIG.Playlist.compendiumBanner = "modules/navis-apexialis/assets/impmal-core/banners/sisters-of-battle.webp";
-    CONFIG.Adventure.compendiumBanner = "modules/navis-apexialis/assets/impmal-core/banners/macharius.webp";
-    CONFIG.Cards.compendiumBanner = "modules/navis-apexialis/assets/impmal-core/banners/faction-rogue-trader.webp";
+    CONFIG.Actor.compendiumBanner = "modules/apex-imperialis/assets/impmal-core/banners/xenos.webp";
+    CONFIG.Item.compendiumBanner = "modules/apex-imperialis/assets/impmal-core/banners/faction-mechanicus.webp";
+    CONFIG.JournalEntry.compendiumBanner = "modules/apex-imperialis/assets/impmal-core/banners/faction-administratum.webp";
+    CONFIG.RollTable.compendiumBanner = "modules/apex-imperialis/assets/impmal-core/banners/hive-shootout.webp";
+    CONFIG.Scene.compendiumBanner = "modules/apex-imperialis/assets/impmal-core/banners/palace.webp";
+    CONFIG.Macro.compendiumBanner = "modules/apex-imperialis/assets/impmal-core/banners/rokarth.webp";
+    CONFIG.Playlist.compendiumBanner = "modules/apex-imperialis/assets/impmal-core/banners/sisters-of-battle.webp";
+    CONFIG.Adventure.compendiumBanner = "modules/apex-imperialis/assets/impmal-core/banners/macharius.webp";
+    CONFIG.Cards.compendiumBanner = "modules/apex-imperialis/assets/impmal-core/banners/faction-rogue-trader.webp";
 
     CONFIG.JournalEntry.noteIcons = foundry.utils.mergeObject(CONFIG.JournalEntry.noteIcons, {
-        "Agri World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/agri.webp",
-        "Cemetary World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/cemetary.webp",
-        "Dead World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/dead.webp",
-        "Death World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/death.webp",
-        "Feral World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/feral.webp",
-        "Feudal World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/feudal.webp",
-        "Forbidden World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/forbidden.webp",
-        "Forge World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/forge.webp",
-        "Frontier World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/frontier.webp",
-        "Hive World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/hive.webp",
-        "Knight World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/knight.webp",
-        "Mining World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/mining.webp",
-        "Naval World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/naval.webp",
-        "Ocean World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/ocean.webp",
-        "Penal World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/penal.webp",
-        "Quarantined World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/quarantined.webp",
-        "Reclaimed World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/reclaimed.webp",
-        "Shrine World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/shrine.webp",
-        "Special World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/special.webp",
-        "Unclassified World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/unclassified.webp",
-        "War World" : "modules/navis-apexialis/assets/impmal-core/icons/notes/war.webp"
+        "Agri World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/agri.webp",
+        "Cemetary World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/cemetary.webp",
+        "Dead World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/dead.webp",
+        "Death World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/death.webp",
+        "Feral World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/feral.webp",
+        "Feudal World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/feudal.webp",
+        "Forbidden World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/forbidden.webp",
+        "Forge World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/forge.webp",
+        "Frontier World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/frontier.webp",
+        "Hive World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/hive.webp",
+        "Knight World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/knight.webp",
+        "Mining World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/mining.webp",
+        "Naval World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/naval.webp",
+        "Ocean World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/ocean.webp",
+        "Penal World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/penal.webp",
+        "Quarantined World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/quarantined.webp",
+        "Reclaimed World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/reclaimed.webp",
+        "Shrine World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/shrine.webp",
+        "Special World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/special.webp",
+        "Unclassified World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/unclassified.webp",
+        "War World" : "modules/apex-imperialis/assets/impmal-core/icons/notes/war.webp"
     })
 
     CONFIG.fontDefinitions.CarolGothic = {editor : true, fonts : []};
@@ -263,40 +263,40 @@ Hooks.on("init", () => {
 
 Hooks.on("preCreateItem", (item, data) => {
     if (!data.img) {
-        let img = "modules/navis-apexialis/assets/impmal-core/icons/blank.webp"
+        let img = "modules/apex-imperialis/assets/impmal-core/icons/blank.webp"
         if (item.type == "protection")
-            img = "modules/navis-apexialis/assets/impmal-core/icons/protection/armour.webp"
+            img = "modules/apex-imperialis/assets/impmal-core/icons/protection/armour.webp"
         if (item.type == "forceField")
-            img = "modules/navis-apexialis/assets/impmal-core/icons/protection/field.webp"
+            img = "modules/apex-imperialis/assets/impmal-core/icons/protection/field.webp"
         else if (item.type == "equipment")
-            img = "modules/navis-apexialis/assets/impmal-core/icons/equipment/equipment.webp"
+            img = "modules/apex-imperialis/assets/impmal-core/icons/equipment/equipment.webp"
         else if (item.type == "power")
-            img = "modules/navis-apexialis/assets/impmal-core/icons/powers/minor-power.webp"
+            img = "modules/apex-imperialis/assets/impmal-core/icons/powers/minor-power.webp"
         else if (item.type == "weapon")
-            img = "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp"
+            img = "modules/apex-imperialis/assets/impmal-core/icons/weapons/melee-weapon.webp"
         else if (item.type == "talent")
-            img = "modules/navis-apexialis/assets/impmal-core/icons/generic.webp"
+            img = "modules/apex-imperialis/assets/impmal-core/icons/generic.webp"
         else if (item.type == "boonLiability")
-            img = "modules/navis-apexialis/assets/impmal-core/icons/generic.webp"
+            img = "modules/apex-imperialis/assets/impmal-core/icons/generic.webp"
         else if (item.type == "specialisation")
-            img = "modules/navis-apexialis/assets/impmal-core/icons/generic.webp"
+            img = "modules/apex-imperialis/assets/impmal-core/icons/generic.webp"
         else if (item.type == "augmetic")
-            img = "modules/navis-apexialis/assets/impmal-core/icons/augmetics/augmetic.webp"
+            img = "modules/apex-imperialis/assets/impmal-core/icons/augmetics/augmetic.webp"
         else if (item.type == "ammo")
-            img = "modules/navis-apexialis/assets/impmal-core/icons/ammo/ammo.webp"
+            img = "modules/apex-imperialis/assets/impmal-core/icons/ammo/ammo.webp"
         else if (item.type == "modification")
-            img = "modules/navis-apexialis/assets/impmal-core/icons/modification/modification.webp"
+            img = "modules/apex-imperialis/assets/impmal-core/icons/modification/modification.webp"
         else if (item.type == "corruption")
-            img = "modules/navis-apexialis/assets/impmal-core/icons/corruption/corruption.webp"
+            img = "modules/apex-imperialis/assets/impmal-core/icons/corruption/corruption.webp"
         else if (item.type == "injury")
-            img = "modules/navis-apexialis/assets/impmal-core/icons/injuries/broken-bone.webp"
+            img = "modules/apex-imperialis/assets/impmal-core/icons/injuries/broken-bone.webp"
         item.updateSource({ "img": img })
     }
 })
 
 Hooks.on("preCreateActor", (actor, data) => {
     if (!data.img) {
-        let img = `modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp`
+        let img = `modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp`
         actor.updateSource({ "img": img, "prototypeToken.texture.src": img })
     }
 })

@@ -1,10 +1,10 @@
-# Navis Apexialis Module Consolidation Implementation Plan
+# Apex Imperialis Module Consolidation Implementation Plan
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:executing-plans to implement this plan task-by-task.
 
-**Goal:** Consolidate the adjacent Imperium Maledictum content modules into `navis-apexialis` while preserving pack UUIDs, Babele translations, assets, and Foundry loading behavior.
+**Goal:** Consolidate the adjacent Imperium Maledictum content modules into `apex-imperialis` while preserving pack UUIDs, Babele translations, assets, and Foundry loading behavior.
 
-**Architecture:** Treat `navis-apexialis` as the sole distributable module. Copy each source module's packs/assets into namespaced locations where collisions exist, merge manifests and translation registration explicitly, and keep the original modules untouched as rollback copies until runtime verification succeeds.
+**Architecture:** Treat `apex-imperialis` as the sole distributable module. Copy each source module's packs/assets into namespaced locations where collisions exist, merge manifests and translation registration explicitly, and keep the original modules untouched as rollback copies until runtime verification succeeds.
 
 **Tech Stack:** Foundry VTT module manifests, LevelDB compendium packs, JavaScript ES modules, Babele JSON translation packs, PowerShell copy/inspection, Node build scripts.
 
@@ -23,7 +23,7 @@
 ### Task 1: Inventory and collision report
 
 **Files:**
-- Read: `impmal-core/module.json`, `impmal-inquisition/module.json`, `impmal-requisition/module.json`, `impmal-voll/module.json`, `impmal-malexp/module.json`, `navis-apexialis/module.json`
+- Read: `impmal-core/module.json`, `impmal-inquisition/module.json`, `impmal-requisition/module.json`, `impmal-voll/module.json`, `impmal-malexp/module.json`, `apex-imperialis/module.json`
 - Create: `docs/superpowers/plans/module-consolidation-inventory.json`
 
 - [ ] Enumerate every pack, asset root, script, style, and translation file in the six modules.
@@ -33,7 +33,7 @@
 ### Task 2: Copy immutable content with namespaces
 
 **Files:**
-- Create/modify: `navis-apexialis/packs/**`, `navis-apexialis/assets/**`, `navis-apexialis/content/**`
+- Create/modify: `apex-imperialis/packs/**`, `apex-imperialis/assets/**`, `apex-imperialis/content/**`
 
 - [ ] Copy pack directories byte-for-byte, excluding lock files and temporary LevelDB files that are not part of a distributable pack.
 - [ ] Use collection names based on the original package id when collisions occur.
@@ -43,8 +43,8 @@
 ### Task 3: Merge manifest and runtime registration
 
 **Files:**
-- Modify: `navis-apexialis/module.json`
-- Modify/create: `navis-apexialis/module/*.js`, `navis-apexialis/scripts/*.js`, `navis-apexialis/styles/*.css`
+- Modify: `apex-imperialis/module.json`
+- Modify/create: `apex-imperialis/module/*.js`, `apex-imperialis/scripts/*.js`, `apex-imperialis/styles/*.css`
 
 - [ ] Merge pack declarations into one manifest with unique collection names.
 - [ ] Merge compatible hooks and imports without duplicate registration.
@@ -54,9 +54,9 @@
 ### Task 4: Translation and source index migration
 
 **Files:**
-- Modify: `navis-apexialis/src/compendium/packs-index.json`
-- Modify: `navis-apexialis/src/compendium/*.mjs`
-- Modify: `navis-apexialis/tools/build-compendium-lang.mjs`
+- Modify: `apex-imperialis/src/compendium/packs-index.json`
+- Modify: `apex-imperialis/src/compendium/*.mjs`
+- Modify: `apex-imperialis/tools/build-compendium-lang.mjs`
 
 - [ ] Add the consolidated packs to the source index with original package/collection identities.
 - [ ] Ensure existing Russian translations continue to resolve by original document ID.
@@ -65,7 +65,7 @@
 ### Task 5: Verification and rollback checkpoint
 
 **Files:**
-- Test: `navis-apexialis/tests/**`
+- Test: `apex-imperialis/tests/**`
 - Read-only compare: all source module pack inventories
 
 - [ ] Parse the merged manifest and validate every declared pack path exists.

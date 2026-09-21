@@ -2,7 +2,7 @@
   "name": "Last Man Standing",
   "type": "talent",
   "_id": "malExpTal0000059",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Immune to pinning from Pistol/Long Guns, +1 Armor cover</span></p><hr><p><span style=\"font-family: Arial\"><em>You are immune to getting Pinned by Pistols and Long Guns, and add +1 Armor to any cover protecting you from ranged attacks.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

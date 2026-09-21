@@ -23,9 +23,9 @@ const li = (...items) => `<ul>${items.map(i => `<li><p>${i}</p></li>`).join("")}
 /** Список ссылок, каждая своим абзацем — так свёрстано в оригинале. */
 const list = pairs => pairs.map(([id, name]) => p(U(`${REQ_ITEM}.${id}`, name))).join("");
 
-const CORE = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
+const CORE = "Compendium.apex-imperialis.navis-core-journals.JournalEntry";
 const IMP = `${CORE}.GPqYZykonC12TJb1.JournalEntryPage`;
-const REQ_ITEM = "Compendium.navis-apexialis.navis-requisition-items.Item";
+const REQ_ITEM = "Compendium.apex-imperialis.navis-requisition-items.Item";
 
 const ADMINISTRATUM = U(`${IMP}.3TtxuCzt0nNV1ysj`, "Адептус Администратум");
 const BOOK = "Imperium Maledictum";
@@ -44,7 +44,7 @@ export const byName = {
       Boons: {
         name: "Возможности",
         text:
-          `<div class="journal-image float-right flip"><img height="400" src="modules/navis-apexialis/assets/impmal-core/images/imperial-agent.webp" /></div>` +
+          `<div class="journal-image float-right flip"><img height="400" src="modules/apex-imperialis/assets/impmal-core/images/imperial-agent.webp" /></div>` +
           p("Эти возможности можно выбрать при создании покровителя вдобавок к тем, что приведены в ",
             U(`${CORE}.QrGsY2UZDirxvDaB.JournalEntryPage.JiJ2Z5aXJoIhESRX`, BOOK),
             ", либо даровать покровителю в награду за важный поворот в вашей истории.") +
@@ -62,13 +62,13 @@ export const byName = {
             ["Gc6RpKjyUCzMkc3P", "Пустотный снабженец"]
           ]) +
           "<p><br /></p>" +
-          `<div class="journal-image centered"><img width="250" src="modules/navis-apexialis/assets/impmal-core/images/spot-iron-aquila.webp" /></div>`
+          `<div class="journal-image centered"><img width="250" src="modules/apex-imperialis/assets/impmal-core/images/spot-iron-aquila.webp" /></div>`
       },
 
       Liabilities: {
         name: "Слабости",
         text:
-          `<div class="journal-image float-right"><img height="400" src="modules/navis-apexialis/assets/impmal-requisition/images/commissar-shooting.webp" /></div>` +
+          `<div class="journal-image float-right"><img height="400" src="modules/apex-imperialis/assets/impmal-requisition/images/commissar-shooting.webp" /></div>` +
           p("Эти слабости можно выбрать при создании покровителя вдобавок к тем, что приведены в ",
             U(`${CORE}.QrGsY2UZDirxvDaB.JournalEntryPage.z2s8dXrvTS7rx1J4`, BOOK),
             ", либо навесить на покровителя после по-настоящему сокрушительных поворотов в вашей ",

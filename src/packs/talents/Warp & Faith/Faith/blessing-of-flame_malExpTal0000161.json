@@ -2,7 +2,7 @@
   "name": "Blessing of Flame",
   "type": "talent",
   "_id": "malExpTal0000161",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Action to bless a weapon: Lore (Theology)+0 untile end of combat (or Mag is depleted). Weapon gains Inflict(Ablaze) & Sanctified. Ablazes demons on hit even without damage</span></p><hr><p><span style=\"font-family: Arial\"><em>As an Action, you may make a Challenging (+0) Lore (Theology) Test to bless a single weapon with the Inflict (Ablaze), and Sanctified Qualities. A weapon so blessed sets Daemons Ablaze when it strikes them, even without dealing damage, and retains these Qualities until the end of Combat or until its Mag is depleted (if it has one). </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

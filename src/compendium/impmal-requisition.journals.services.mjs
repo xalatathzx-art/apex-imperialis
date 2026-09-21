@@ -38,9 +38,9 @@ const attrib = text => `<p class="blue" style="text-align:right"><strong>${text}
 const passage = (roll, type, gloss, mod) =>
   `<tr><td>${roll}</td><td><strong>${type}</strong> — ${gloss}</td><td>${mod}</td></tr>`;
 
-const CORE = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
+const CORE = "Compendium.apex-imperialis.navis-core-journals.JournalEntry";
 const IMP = `${CORE}.GPqYZykonC12TJb1.JournalEntryPage`;
-const REQ_ACTOR = "Compendium.navis-apexialis.navis-requisition-actors.Actor";
+const REQ_ACTOR = "Compendium.apex-imperialis.navis-requisition-actors.Actor";
 const ARMOURY = `${CORE}.wqlquQ8Njtd5fb4Y.JournalEntryPage`;
 
 const ADMINISTRATUM = U(`${IMP}.3TtxuCzt0nNV1ysj`, "Адептус Администратум");
@@ -49,7 +49,7 @@ const MINISTORUM = U(`${IMP}.5Bx7K8k9VgjOZmA4`, "Адептус Министор
 const MILITARUM = U(`${IMP}.r6JYS3jOfrAEorvd`, "Астра Милитарум");
 const FLEET = U(`${IMP}.HlxK2pbpx2Uio6bU`, "Имперских флотилий");
 const SECTOR = `${CORE}.B7MZBBT3bNew9N96.JournalEntryPage`;
-const REQ_TABLE = "Compendium.navis-apexialis.navis-requisition-tables.RollTable";
+const REQ_TABLE = "Compendium.apex-imperialis.navis-requisition-tables.RollTable";
 const INQUISITION = U(`${IMP}.41XgDdxnZ76elnvr`, "Инквизиции");
 const INFRACTIONIST = U(`${IMP}.5jO3tXI5hSEBAC4s`, "одиночки");
 const INFRACTIONIST_ACC = U(`${IMP}.5jO3tXI5hSEBAC4s`, "одиночек");
@@ -79,7 +79,7 @@ export const byName = {
       Services: {
         name: "Услуги",
         text:
-          `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-requisition/images/banner-services.webp" /></div>` +
+          `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-requisition/images/banner-services.webp" /></div>` +
           p("Даже до зубов вооружённым слугам нередко нужна поддержка, чтобы выполнить задание и ",
             "дожить до следующего. От мира к миру доступные услуги разнятся до крайности. На ",
             "захолустных мирах выбор куда беднее, чем на мирах-ульях, — зато в ульях свои напасти: ",
@@ -97,7 +97,7 @@ export const byName = {
             U(`${ARMOURY}.XXSPEv1YwIKDyQx4`, "Imperium Maledictum"), ". В этой главе речь пойдёт ",
             "подробнее о перевозке и врачевании, о наёмных работниках, а ещё об услугах по ",
             "разысканиям и связи по всему Империуму.") +
-          `<div class="journal-image centered"><img width="400" src="modules/navis-apexialis/assets/impmal-requisition/misc/dataslate.webp" /></div>`
+          `<div class="journal-image centered"><img width="400" src="modules/apex-imperialis/assets/impmal-requisition/misc/dataslate.webp" /></div>`
       },
 
       "Research Services": {
@@ -145,7 +145,7 @@ export const byName = {
             "за них, пока они сами ведут поиски и дознания в другом месте.") +
           p("Персонажам, которым не с чем подступиться к разысканиям, стоит нанять ",
             U(`${REQ_ACTOR}.T9M28RzrLmEzDuh5`, "учёного"), " или найти себе в помощь ",
-            U("Compendium.navis-apexialis.navis-core-actors.Actor.vds8HRa533wcv1Pq", "писца"), " из ",
+            U("Compendium.apex-imperialis.navis-core-actors.Actor.vds8HRa533wcv1Pq", "писца"), " из ",
             ADMINISTRATUM, ". Но не забывайте учитывать, сколько всего персонаж запросил: чем ",
             "больше адептов брошено на задачу, тем меньше времени она должна занять.") +
           `<section class="box-text"><p class="box-header">Сколько это займёт?</p>` +
@@ -165,7 +165,7 @@ export const byName = {
         text:
           blue("«Император — владыка галактики, но капитан — владыка своего корабля»") +
           attrib("— расхожая присказка Имперских флотилий") +
-          `<div class="journal-image float-right flip"><img height="700" src="modules/navis-apexialis/assets/impmal-core/images/ch9.webp" /></div>` +
+          `<div class="journal-image float-right flip"><img height="700" src="modules/apex-imperialis/assets/impmal-core/images/ch9.webp" /></div>` +
           p("Мало кому из подданных за всю жизнь выпадает пройти на пустотном корабле. Почти все, ",
             "кому выпало, — это призывники ", MILITARUM, ", удачливые паломники или взятые по ",
             "десятине работники, набитые за переборкой и почитаемые немногим лучше человеческого ",
@@ -196,7 +196,7 @@ export const byName = {
             "разыскания персонажей по пути.") +
           p("Если встреч не считать, это время можно отыгрывать как свободное. Персонажи могут ",
             "браться за любые занятия, какие уместны в тесноте корабля (см. ",
-            U("Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.zt3agZuaQd99PTyc",
+            U("Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.zt3agZuaQd99PTyc",
               "«Inquisition Player’s Guide»"), " или ",
             U(`${CORE}.eUFS6mIQy2oiz6IX.JournalEntryPage.AuM2Lzd784VPe32b`, "Imperium Maledictum"),
             "). Скажем, они по-прежнему могут заводить контакты среди экипажа или среди попутчиков, ",
@@ -205,7 +205,7 @@ export const byName = {
             "персонажам, скорее всего, надо будет лишь выпросить разрешение у соответствующих НИП.") +
 
           h(3, "voidship-passage-rules", "Правила проезда на пустотном корабле") +
-          `<div class="journal-image float-right flip"><img height="200" src="modules/navis-apexialis/assets/impmal-requisition/misc/spot-medals.webp" /></div>` +
+          `<div class="journal-image float-right flip"><img height="200" src="modules/apex-imperialis/assets/impmal-requisition/misc/spot-medals.webp" /></div>` +
           p("Чтобы выправить проезд, пусть всякий в команде, кто его ищет, предпримет ",
             "<strong>сложную (−20) проверку Взаимопонимания (Сбор сведений)</strong>, а затем ",
             "бросьте по ", U("RollTable.xXRZURR6R3OILsC8", "таблице проезда на пустотном корабле"),
@@ -223,7 +223,7 @@ export const byName = {
             "(Торг)</strong>, если они хотят сбить цену. Персонажи или их покровитель могут выправить ",
             "проезд и влиянием, и иными окольными способами, какие придумают игроки, — например, ",
             "пробраться зайцем или выдать себя за членов экипажа.") +
-          `<div class="journal-image float-right flip"><img height="200" src="modules/navis-apexialis/assets/impmal-core/images/spot-battle-honours.webp" /></div>` +
+          `<div class="journal-image float-right flip"><img height="200" src="modules/apex-imperialis/assets/impmal-core/images/spot-battle-honours.webp" /></div>` +
           p("Когда проезд выправлен, бросьте или выберите по строке из таблиц встреч на каждого ",
             "игрока (", U("RollTable.40vn1FhUbXQcmzK4", "встречи на борту"), ", ",
             U("RollTable.rbmCkt7lQ0oK3IMh", "встречи в пустоте"), " и ",
@@ -285,15 +285,15 @@ export const byName = {
           "<p></p>" +
           p(`@Embed[${REQ_TABLE}.40vn1FhUbXQcmzK4 noCenter=true]{Строка}`) + "<p></p>" +
           p(`@Embed[${REQ_TABLE}.rbmCkt7lQ0oK3IMh noCenter=true]{Строка}`) +
-          `<div class="journal-image centered"><img width="250" src="modules/navis-apexialis/assets/impmal-requisition/misc/compass.webp" /></div>` +
+          `<div class="journal-image centered"><img width="250" src="modules/apex-imperialis/assets/impmal-requisition/misc/compass.webp" /></div>` +
           p(`@Embed[${REQ_TABLE}.dAiKbA0EKMtz9Ozl noCenter=true]{Строка}`) +
-          `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-requisition/images/voidship.webp" /></div>`
+          `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-requisition/images/voidship.webp" /></div>`
       },
 
       "World Transport": {
         name: "Перевозка по мирам",
         text:
-          `<div class="journal-image float-right flip"><img height="250" src="modules/navis-apexialis/assets/impmal-requisition/misc/spot-servo.webp" /></div>` +
+          `<div class="journal-image float-right flip"><img height="250" src="modules/apex-imperialis/assets/impmal-requisition/misc/spot-servo.webp" /></div>` +
           p("Чем добираться по поверхности имперского мира — разнится так же, как разнятся его ",
             "земли и природа. Быстрота и толк здесь всегда важнее удобства. Какая техника пойдёт в ",
             "дело, решает среда. Непригодный для дыхания воздух требует ездить в запечатанном ",
@@ -405,7 +405,7 @@ export const byName = {
             "можно меньше времени.") +
 
           h(4, "feudal-worlds", "Феодальные миры") +
-          `<div class="journal-image float-right flip"><img height="300" src="modules/navis-apexialis/assets/impmal-requisition/images/feudal.webp" /></div>` +
+          `<div class="journal-image float-right flip"><img height="300" src="modules/apex-imperialis/assets/impmal-requisition/images/feudal.webp" /></div>` +
           p("Отставшая техника феодального мира сказывается и на том, как по нему передвигаются. Как ",
             "и на дикий мир, прилететь сюда из пустоты нетрудно, но главная ценность таких миров — ",
             "людская десятина, что отдают ", MILITARUM, ". Своих средств передвижения здесь немного: ",
@@ -429,7 +429,7 @@ export const byName = {
             "встречают появление передовой техники у куда менее передового народа.") +
 
           h(4, "forge-worlds", "Миры-кузницы") +
-          `<div class="journal-image float-right"><img height="350" src="modules/navis-apexialis/assets/impmal-requisition/images/forge-world.webp" /></div>` +
+          `<div class="journal-image float-right"><img height="350" src="modules/apex-imperialis/assets/impmal-requisition/images/forge-world.webp" /></div>` +
           p("То, как легко попасть на мир-кузницу грузовым кораблём — был бы нужный допуск, — ничего ",
             "не говорит о том, как сложно передвигаться, когда уже сел. Промышленность кузниц требует ",
             "непрерывного движения, и людей возят как ещё одну шестерню в этих планетарных сетях ",
@@ -475,7 +475,7 @@ export const byName = {
             "соприкосновения.") +
 
           h(4, "shrine-worlds", "Миры-храмы") +
-          `<div class="journal-image float-right flip"><img height="400" src="modules/navis-apexialis/assets/impmal-requisition/images/shrine-world.webp" /></div>` +
+          `<div class="journal-image float-right flip"><img height="400" src="modules/apex-imperialis/assets/impmal-requisition/images/shrine-world.webp" /></div>` +
           p("Паломничества на миры-храмы, посвящённые имперской вере, гонят сквозь пустоту ровную ",
             "реку душ. Рождённые из какого-то одного события — будто бы явленного чуда или ",
             "восхождения святого, — миры-храмы возносят огромные храмы и укреплённые базилики, и те ",
@@ -595,7 +595,7 @@ export const byName = {
               "Он увидел, что персонажи или их покровитель поступают против его совести (−2)")) +
 
           h(4, "astropath", "Астропат") +
-          p(U("Compendium.navis-apexialis.navis-core-actors.Actor.4neMMGpoX4oC0yOt", "Астропаты"),
+          p(U("Compendium.apex-imperialis.navis-core-actors.Actor.4neMMGpoX4oC0yOt", "Астропаты"),
             " прежде всего отвечают за дальнюю связь Империума: они шлют зашифрованные психические ",
             "послания сквозь Варп куда быстрее света. За терранские десятилетия мучительного ",
             "обучения в ", U(`${IMP}.OjmVcVX5lv76LsvL`, "Адептус Астра Телепатика"),
@@ -604,7 +604,7 @@ export const byName = {
             "психические сигналы собратьев-астропатов.") +
           p("Они обучаются так называемому сокрытию: оно шифрует послание и оберегает его от тварей ",
             "и сил Варпа, что иначе поглотили бы передачу. ",
-            U("Compendium.navis-apexialis.navis-core-actors.Actor.4neMMGpoX4oC0yOt", "Астропаты"),
+            U("Compendium.apex-imperialis.navis-core-actors.Actor.4neMMGpoX4oC0yOt", "Астропаты"),
             " так же искусны и в том, чтобы расшифровывать такие передачи и восстанавливать и ",
             "понимать те, что исказились по дороге сквозь Варп. Послания эти — мешанина из голых ",
             "мыслей, мысленных образов, знаков, слов и звуков, что складывается в жуткие ",
@@ -613,16 +613,16 @@ export const byName = {
             "на постах прослушивания и пустотных станциях, заодно обеспечивая им связь.") +
 
           h(4, "fence", "Барыга") +
-          `<div class="journal-image float-right flip"><img height="300" src="modules/navis-apexialis/assets/impmal-requisition/actors/hireling3.webp" /></div>` +
+          `<div class="journal-image float-right flip"><img height="300" src="modules/apex-imperialis/assets/impmal-requisition/actors/hireling3.webp" /></div>` +
           embed("TVRxO7VBqb0BkMGw") +
           h(4, "hired-muscle", "Наёмный громила") +
-          `<div class="journal-image float-right flip"><img height="300" src="modules/navis-apexialis/assets/impmal-requisition/actors/hireling2.webp" /></div>` +
+          `<div class="journal-image float-right flip"><img height="300" src="modules/apex-imperialis/assets/impmal-requisition/actors/hireling2.webp" /></div>` +
           "<p></p>" + embed("1JQcMRl8qSFjSMGp") +
           h(4, "infiltrator", "Лазутчик") + embed("vahec9gj6v0yPQ27") +
           h(4, "local-guide", "Местный проводник") + embed("A7PA3m73YUGi8Idj") +
           h(4, "medicae-professional", "Врачеватель") + embed("UpiRgm3beISGvgY2") +
           h(4, "pilot", "Пилот") +
-          `<div class="journal-image float-right flip"><img height="300" src="modules/navis-apexialis/assets/impmal-requisition/actors/hireling1.webp" /><p></p></div>` +
+          `<div class="journal-image float-right flip"><img height="300" src="modules/apex-imperialis/assets/impmal-requisition/actors/hireling1.webp" /><p></p></div>` +
           embed("YZDF8wJlLtiiSsGD") +
           h(4, "sanctioned-psyker", "Санкционированный псайкер") + embed("ccWkhavWKveCES8U") +
           h(4, "scholar", "Учёный") + embed("T9M28RzrLmEzDuh5")
@@ -641,7 +641,7 @@ export const byName = {
             "расстояние стоит немалых усилий. Личные средства связи достаются редко, чаще всего ",
             "слугам Инквизиции; почти всем придётся искать возможности внутри своей службы или ",
             "полагаться на ",
-            U("Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.2TukBjlkS5RG5Qka.JournalEntryPage.cRcDNREGRQvZvuPl", "контактов"),
+            U("Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.2TukBjlkS5RG5Qka.JournalEntryPage.cRcDNREGRQvZvuPl", "контактов"),
             ", ", U(".grkmFJA5F8hK2g9x", "наёмных работников"), " или на возможности покровителя.") +
 
           h(3, "messages-across-planets", "Вести по планете") +
@@ -683,7 +683,7 @@ export const byName = {
           h(3, "messages-between-systems", "Вести между системами") +
           p("Слать вести через немыслимые расстояния между секторами и системами можно лишь двумя ",
             "способами: доверить весть кораблю или воспользоваться акроаматическим даром ",
-            U("Compendium.navis-apexialis.navis-core-actors.Actor.4neMMGpoX4oC0yOt", "астропата"), ".") +
+            U("Compendium.apex-imperialis.navis-core-actors.Actor.4neMMGpoX4oC0yOt", "астропата"), ".") +
           p("Корабли везут письма так же охотно, как и груз, — дело лишь за тем, чтобы найти тот, ",
             "чей путь ведёт в нужную систему; для этого персонажи роются в портовых списках и ",
             "хартиях. Вещественное послание можно за плату доверить купеческому судну и его экипажу, ",
@@ -693,7 +693,7 @@ export const byName = {
             "этих способов — капризы Варпа: корабли попадают под растяжение времени, искажения ",
             "выносят их не туда, и бессчётны случаи, когда они гибнут вовсе.") +
           p("Куда быстрее обычно бывает воспользоваться даром личного ",
-            U("Compendium.navis-apexialis.navis-core-actors.Actor.4neMMGpoX4oC0yOt", "астропата"),
+            U("Compendium.apex-imperialis.navis-core-actors.Actor.4neMMGpoX4oC0yOt", "астропата"),
             " или астропатического хора и послать весть сквозь Варп напрямую. Их диковинные и тёмные ",
             "мыслеобразы принимает на том конце такой же, как они. Личные астропаты — люди до ",
             "крайности редкие и умелые, и чаще всего они в услужении у планетарных губернаторов, ",
@@ -714,16 +714,16 @@ export const byName = {
             U(`${IMP}.OjmVcVX5lv76LsvL`, "Адептус Астра Телепатика"),
             ", — и персонажам, что у неё на плохом счету, могут быть и вовсе недоступны. Тут же ",
             "вступают в дело и капризы Варпа. Разум ",
-            U("Compendium.navis-apexialis.navis-core-actors.Actor.4neMMGpoX4oC0yOt", "астропата"),
+            U("Compendium.apex-imperialis.navis-core-actors.Actor.4neMMGpoX4oC0yOt", "астропата"),
             ", соединённый с Варпом, — лёгкая добыча для непостижимых тварей, что там таятся: они же ",
             "могут (смотря по тому, насколько силён астропат) и разорвать послание в клочья. Так что ",
             "уверенности, что весть через Варп дойдёт, не бывает никогда.") +
           p("На задание персонажи могут нанять личного ",
-            U("Compendium.navis-apexialis.navis-core-actors.Actor.4neMMGpoX4oC0yOt", "астропата"),
+            U("Compendium.apex-imperialis.navis-core-actors.Actor.4neMMGpoX4oC0yOt", "астропата"),
             ", а у их покровителя может быть возможность ",
-            U("Compendium.navis-apexialis.navis-core-items.Item.niqxBVj5cdI03Woj", "«Астропатическая связь»"),
+            U("Compendium.apex-imperialis.navis-core-items.Item.niqxBVj5cdI03Woj", "«Астропатическая связь»"),
             ". Доставку кораблём облегчит возможность ",
-            U("Compendium.navis-apexialis.navis-core-items.Item.oXyZ2hmINFVN3EPT", "«Пустотный корабль»"),
+            U("Compendium.apex-imperialis.navis-core-items.Item.oXyZ2hmINFVN3EPT", "«Пустотный корабль»"),
             ": в дело пойдут вокс-операторы этого судна.") +
           p("Таблица <strong>услуг связи</strong> собирает все эти способы вместе и называет ту ",
             "службу, у которой прежде всего есть нужная техника и нужные люди. Заметьте, что ",
@@ -750,7 +750,7 @@ export const byName = {
       "Medicae Services": {
         name: "Услуги врачевателей",
         text:
-          `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-requisition/images/vocations.webp" /></div>` +
+          `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-requisition/images/vocations.webp" /></div>` +
           p("Когда врачеватель нужен, он нужен немедленно. Готовясь к заданию, осмотрительные ",
             "персонажи разведают, куда бежать, ещё до того, как полетят пули: сговорятся с местной ",
             "конторой хирургеона, с лечебницей или с домом Ордена Госпитальерок. Но для тех, кому ",

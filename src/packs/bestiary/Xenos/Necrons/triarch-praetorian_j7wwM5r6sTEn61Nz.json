@@ -3,7 +3,7 @@
   "name": "Triarch Praetorian",
   "type": "npc",
   "_id": "j7wwM5r6sTEn61Nz",
-  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -217,7 +217,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+      "src": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -239,7 +239,7 @@
     "default": 0
   },
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }
@@ -257,7 +257,7 @@
       "name": "Living Metal (4)",
       "type": "trait",
       "_id": "g1hkTiiaIYIcMFib",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -325,7 +325,7 @@
       "name": "Phase Out",
       "type": "trait",
       "_id": "SRsqahW8urKdIIQi",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -385,7 +385,7 @@
       "name": "Reanimation Protocols (7+)",
       "type": "trait",
       "_id": "legFSGhzF4LYe7Ei",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -453,7 +453,7 @@
       "name": "Unshakeable Purpose",
       "type": "trait",
       "_id": "2VALWVjHDHDdRCQ1",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -513,7 +513,7 @@
       "name": "Rod of Covenant (Melee)",
       "type": "weapon",
       "_id": "bDdAvvxU7rvzONvy",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -584,7 +584,7 @@
       "name": "Rod of Covenant (Ranged)",
       "type": "weapon",
       "_id": "Fny924jIHjjXrwvv",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",

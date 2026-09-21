@@ -13,11 +13,11 @@ export const entries = {
       },
       "Augmetics Bay": {
         "name": "Мастерская аугметики",
-        "description": "<p>Ваш господин предоставляет вам штаб-квартиру в комплексе по установке аугметики. Вам не нужно проходить проверки @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.k5sND1C17nY9xB1G#availability]{доступности}, чтобы получить @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.jsw5d0omkWXaurDM]{аугметику}. Покровитель может устроить для вас бесплатные операции по установке аугметики и позаботится о том, чтобы установленные вам имплантаты имели одно достоинство.</p>"
+        "description": "<p>Ваш господин предоставляет вам штаб-квартиру в комплексе по установке аугметики. Вам не нужно проходить проверки @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.k5sND1C17nY9xB1G#availability]{доступности}, чтобы получить @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.jsw5d0omkWXaurDM]{аугметику}. Покровитель может устроить для вас бесплатные операции по установке аугметики и позаботится о том, чтобы установленные вам имплантаты имели одно достоинство.</p>"
       },
       "Servitor Clade": {
         "name": "Клада сервиторов",
-        "description": "<p class=\"green\"><em>Влияние покровителя на Адептус Механикус увеличивается на +1.</em></p><p>Ваш покровитель может отправить вам на помощь группу монозадачных сервиторов. Один раз за задание господин на один день может переподчинить каждому агенту одного обычного @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.px7pplClKR01chqM]{сервитора}. Особенно могущественный или богатый покровитель может послать орудийного или медицинского сервитора.</p>"
+        "description": "<p class=\"green\"><em>Влияние покровителя на Адептус Механикус увеличивается на +1.</em></p><p>Ваш покровитель может отправить вам на помощь группу монозадачных сервиторов. Один раз за задание господин на один день может переподчинить каждому агенту одного обычного @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.px7pplClKR01chqM]{сервитора}. Особенно могущественный или богатый покровитель может послать орудийного или медицинского сервитора.</p>"
       },
       "Dogmatic": {
         "name": "Догматик",
@@ -33,11 +33,11 @@ export const entries = {
     "items": {
       "Psyniscience": {
         "name": "Психическое чутьё",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.navis-apexialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.apex-imperialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
       },
       "Psychic": {
         "name": "Психосилы",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#discipline-(wil)]{Дисциплина}</p><p>Дополнительная подготовка, позволяющая сопротивляться различным психосилам, что влияют на разум или подчиняют его.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#discipline-(wil)]{Дисциплина}</p><p>Дополнительная подготовка, позволяющая сопротивляться различным психосилам, что влияют на разум или подчиняют его.</p>"
       },
       "Divination": {
         "name": "Прорицания"
@@ -48,7 +48,7 @@ export const entries = {
       },
       "Blind": {
         "name": "Слепец",
-        "description": "<p>Астропат слеп, отчего автоматически проваливает проверки Бдительности (Зрение). Тем не менее, он способен ощущать мир и взаимодействовать с окружением благодаря психическому чутью. Состояние @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#blinded]{Слепота} никак не действует на астропата.</p>"
+        "description": "<p>Астропат слеп, отчего автоматически проваливает проверки Бдительности (Зрение). Тем не менее, он способен ощущать мир и взаимодействовать с окружением благодаря психическому чутью. Состояние @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#blinded]{Слепота} никак не действует на астропата.</p>"
       },
       "Sanctioned Psyker": {
         "name": "Санкционированный псайкер"
@@ -79,7 +79,7 @@ export const entries = {
       },
       "Telepath": {
         "name": "Прорицатель",
-        "description": "<p>Астропат знает следующие психосилы из дисциплины «Прорицания»: @UUID[Compendium.navis-apexialis.navis-core-items.Item.qWQd7R5F8FqYiX9J]{Лозоходец}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.tb7ntikXWkv1mDLd]{Предупреждение}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.a8LvONbMdLRtynKS]{Боевое предвиденье}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.3vquTkVELDNBVsZL]{Психометрия}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.JD8KXpaybkhEvnUm]{Ясновиденье}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.4bbAQA6kvRtfUna1]{Охота на охотника}.</p>"
+        "description": "<p>Астропат знает следующие психосилы из дисциплины «Прорицания»: @UUID[Compendium.apex-imperialis.navis-core-items.Item.qWQd7R5F8FqYiX9J]{Лозоходец}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.tb7ntikXWkv1mDLd]{Предупреждение}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.a8LvONbMdLRtynKS]{Боевое предвиденье}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.3vquTkVELDNBVsZL]{Психометрия}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.JD8KXpaybkhEvnUm]{Ясновиденье}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.4bbAQA6kvRtfUna1]{Охота на охотника}.</p>"
       },
       "Laspistol": {
         "name": "Лазпистолет"
@@ -130,19 +130,19 @@ export const entries = {
     "items": {
       "People": {
         "name": "Люди",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#intuition-(per)]{Чутьё}</p><p>Понимание закономерностей человеческого поведения, что позволяет распознавать ложь, скрытность и странное поведение. Это умение часто используется против @UUID[Compendium.navis-apexialis.navis-core-items.Item.nhW5AN4gHrWvmfyz]{Взаимопонимания (Обман)}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#intuition-(per)]{Чутьё}</p><p>Понимание закономерностей человеческого поведения, что позволяет распознавать ложь, скрытность и странное поведение. Это умение часто используется против @UUID[Compendium.apex-imperialis.navis-core-items.Item.nhW5AN4gHrWvmfyz]{Взаимопонимания (Обман)}.</p>"
       },
       "Investigation": {
         "name": "Следствие",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#logic-(int)]{Логика}</p><p>Умение замечать улики на месте преступления, изучать тела, выстраивать картину произошедшего и связывать её с вовлечёнными сторонами. Также включает познания в судебной экспертизе — например, умелый следователь может по брызгам крови опознать орудие убийства, направление удара и время, когда было совершено преступление.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#logic-(int)]{Логика}</p><p>Умение замечать улики на месте преступления, изучать тела, выстраивать картину произошедшего и связывать её с вовлечёнными сторонами. Также включает познания в судебной экспертизе — например, умелый следователь может по брызгам крови опознать орудие убийства, направление удара и время, когда было совершено преступление.</p>"
       },
       "Tracking": {
         "name": "Следы",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#navigation-(int)]{Ориентирование}</p><p>Умение не только брать след и идти по нему, но и понимать, скольких жертв преследуешь, налегке ли они путешествуют, спешат ли и т. д.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#navigation-(int)]{Ориентирование}</p><p>Умение не только брать след и идти по нему, но и понимать, скольких жертв преследуешь, налегке ли они путешествуют, спешат ли и т. д.</p>"
       },
       "Inquiry": {
         "name": "Сбор сведений",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#rapport-(fel)]{Взаимопонимание}</p><p>Природный навык или подготовка позволяют персонажу выуживать нужные данные из сплетен и дружеских разговоров, а также задавать верные вопросы. Как правило, этому умению противостоит @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)} или @UUID[Compendium.navis-apexialis.navis-core-items.Item.i5ycJHAR6vodK1sM]{Командование (Запугивание)}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#rapport-(fel)]{Взаимопонимание}</p><p>Природный навык или подготовка позволяют персонажу выуживать нужные данные из сплетен и дружеских разговоров, а также задавать верные вопросы. Как правило, этому умению противостоит @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)} или @UUID[Compendium.apex-imperialis.navis-core-items.Item.i5ycJHAR6vodK1sM]{Командование (Запугивание)}.</p>"
       },
       "Ambusher": {
         "name": "Засада",
@@ -212,31 +212,31 @@ export const entries = {
     "items": {
       "Climbing": {
         "name": "Лазанье",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#athletics-(str)]{Атлетика}</p><p>Атлет оттачивает умение быстро и безопасно подниматься по вертикальным поверхностям — очень полезно на диких мирах и в ульях. Это ценная способность в бою, если вам нужно взобраться на верх сервогрузовика, чтобы сбросить вниз еретического демагога.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#athletics-(str)]{Атлетика}</p><p>Атлет оттачивает умение быстро и безопасно подниматься по вертикальным поверхностям — очень полезно на диких мирах и в ульях. Это ценная способность в бою, если вам нужно взобраться на верх сервогрузовика, чтобы сбросить вниз еретического демагога.</p>"
       },
       "Defuse": {
         "name": "Разминирование",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#dexterity-(ag)]{Ловкость рук}</p><p>Заучивание приёмов и молитв, необходимых, чтобы обезвредить взрывное устройство или разрядить ловушку. Обезвреживание требует хотя бы одного улучшения @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техники}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#dexterity-(ag)]{Ловкость рук}</p><p>Заучивание приёмов и молитв, необходимых, чтобы обезвредить взрывное устройство или разрядить ловушку. Обезвреживание требует хотя бы одного улучшения @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техники}.</p>"
       },
       "Evaluation": {
         "name": "Оценка",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#logic-(int)]{Логика}</p><p>Способность примерно определять ценность вещей, исходя из их видимых качеств. Очень полезно при покупке или продаже оружия или снаряжения либо оценке прочности здания или устройства.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#logic-(int)]{Логика}</p><p>Способность примерно определять ценность вещей, исходя из их видимых качеств. Очень полезно при покупке или продаже оружия или снаряжения либо оценке прочности здания или устройства.</p>"
       },
       "Pistols": {
         "name": "Пистолеты",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#ranged-(bs)]{Стрельба}</p><p>Обширная подготовка по применению лазпистолетов, болт-пистолетов, стаб-револьверов, автопистолетов и им подобного оружия.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#ranged-(bs)]{Стрельба}</p><p>Обширная подготовка по применению лазпистолетов, болт-пистолетов, стаб-револьверов, автопистолетов и им подобного оружия.</p>"
       },
       "Augmetics": {
         "name": "Аугметика",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Умение применять и чинить разные типы имплантатов. Зачастую аугметика — это механические и электрические протезы, что заменяют части тела, иногда превосходя органические «оригиналы», а иногда открывая совершенно новые возможности. Чтобы приобрести эту специализацию, персонаж должен иметь хотя бы одно улучшение @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#medicae-(int)]{Медики}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Умение применять и чинить разные типы имплантатов. Зачастую аугметика — это механические и электрические протезы, что заменяют части тела, иногда превосходя органические «оригиналы», а иногда открывая совершенно новые возможности. Чтобы приобрести эту специализацию, персонаж должен иметь хотя бы одно улучшение @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#medicae-(int)]{Медики}.</p>"
       },
       "Engineering": {
         "name": "Инженерное дело",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Знания о конструкции, применении и ремонте технологических и механических устройств. Эта специализация позволяет и конструировать такие предметы, а также оружие и взрывчатку. В Империуме Адептус Механикус считают эту область знания исключительно своей епархией и карают самоучек. Помните, впрочем, что для того, чтобы собрать или починить устройство, пользуясь заученными ритуалами, эта специализация не требуется.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Знания о конструкции, применении и ремонте технологических и механических устройств. Эта специализация позволяет и конструировать такие предметы, а также оружие и взрывчатку. В Империуме Адептус Механикус считают эту область знания исключительно своей епархией и карают самоучек. Помните, впрочем, что для того, чтобы собрать или починить устройство, пользуясь заученными ритуалами, эта специализация не требуется.</p>"
       },
       "Security": {
         "name": "Безопасность",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Умение общаться с машинными духами, что управляют системами доступа, дверьми, терморегуляторами, орудиями и тому подобными устройствами, и приказывать им, искусно применяя древний и современный двоичный код, а также всевозможные способы извлечения сведений из защищённых инфохранилищ. Мало кто за пределами @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.uJURMn2glWHhjqJk.JournalEntryPage.1oKZw1hTM7Gx5cqB]{Адептус Механикус} владеет таким искусством.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Умение общаться с машинными духами, что управляют системами доступа, дверьми, терморегуляторами, орудиями и тому подобными устройствами, и приказывать им, искусно применяя древний и современный двоичный код, а также всевозможные способы извлечения сведений из защищённых инфохранилищ. Мало кто за пределами @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.uJURMn2glWHhjqJk.JournalEntryPage.1oKZw1hTM7Gx5cqB]{Адептус Механикус} владеет таким искусством.</p>"
       }
     }
   },
@@ -244,11 +244,11 @@ export const entries = {
     "items": {
       "Pain": {
         "name": "Боль",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#fortitude-(tgh)]{Стойкость}</p><p>Развитая способность переносить пытки и исполнять свой долг, несмотря на ранения, развитая болезненными упражнениями.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#fortitude-(tgh)]{Стойкость}</p><p>Развитая способность переносить пытки и исполнять свой долг, несмотря на ранения, развитая болезненными упражнениями.</p>"
       },
       "Theology": {
         "name": "Богословие",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Знания}</p><p>Понимание Имперской веры, её изводов и толкований, кое-какие сведения о культе Механикус, а также поверхностные знания о еретических сектах, но никогда — о запретных культах. Богословие требует хотя бы одного улучшения @UUID[Compendium.navis-apexialis.navis-core-items.Item.uIycnZ1DuUJFFO0c]{Языков (Высокий готический)}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Знания}</p><p>Понимание Имперской веры, её изводов и толкований, кое-какие сведения о культе Механикус, а также поверхностные знания о еретических сектах, но никогда — о запретных культах. Богословие требует хотя бы одного улучшения @UUID[Compendium.apex-imperialis.navis-core-items.Item.uIycnZ1DuUJFFO0c]{Языков (Высокий готический)}.</p>"
       },
       "True Faith": {
         "name": "Истинная вера",
@@ -318,19 +318,19 @@ export const entries = {
     "items": {
       "Human": {
         "name": "Люди",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#medicae-(int)]{Медика}</p><p>Расширенный курс по лечению людей. Такие знания позволят оказать первую помощь, остановить кровь или не дать тяжёлым ранам свести пациента в могилу. Несмотря на слово «Люди», эта специализация работает и на недолюдей, вроде огринов, ратлингов и выходцев из Лиг Вотанна.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#medicae-(int)]{Медика}</p><p>Расширенный курс по лечению людей. Такие знания позволят оказать первую помощь, остановить кровь или не дать тяжёлым ранам свести пациента в могилу. Несмотря на слово «Люди», эта специализация работает и на недолюдей, вроде огринов, ратлингов и выходцев из Лиг Вотанна.</p>"
       },
       "High Gothic": {
         "name": "Высокий готический",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Языки}</p><p>Владение церемониальным языком Империума, что применяется лишь в высших кругах общества — имперских службах, благородных домах или Адептус Механикус. Самые древние исторические документы и самые древние тайны зачастую хранятся в инфохранилищах на высоком готическом.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Языки}</p><p>Владение церемониальным языком Империума, что применяется лишь в высших кругах общества — имперских службах, благородных домах или Адептус Механикус. Самые древние исторические документы и самые древние тайны зачастую хранятся в инфохранилищах на высоком готическом.</p>"
       },
       "Theology": {
         "name": "Богословие",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Знания}</p><p>Понимание Имперской веры, её изводов и толкований, кое-какие сведения о культе Механикус, а также поверхностные знания о еретических сектах, но никогда — о запретных культах. Богословие требует хотя бы одного улучшения @UUID[Compendium.navis-apexialis.navis-core-items.Item.uIycnZ1DuUJFFO0c]{Языков (Высокий готический)}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Знания}</p><p>Понимание Имперской веры, её изводов и толкований, кое-какие сведения о культе Механикус, а также поверхностные знания о еретических сектах, но никогда — о запретных культах. Богословие требует хотя бы одного улучшения @UUID[Compendium.apex-imperialis.navis-core-items.Item.uIycnZ1DuUJFFO0c]{Языков (Высокий готический)}.</p>"
       },
       "Leadership": {
         "name": "Лидерство",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Подготовка, позволяющая добиваться от подчинённых работы с полной отдачей. Его можно применять, чтобы убедить горстку клерков закончить длинный отчёт в нужный срок или вселить в отряд отчаявшихся солдат отвагу и повести на штурм укреплений.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Подготовка, позволяющая добиваться от подчинённых работы с полной отдачей. Его можно применять, чтобы убедить горстку клерков закончить длинный отчёт в нужный срок или вселить в отряд отчаявшихся солдат отвагу и повести на штурм укреплений.</p>"
       },
       "True Faith": {
         "name": "Истинная вера",
@@ -403,15 +403,15 @@ export const entries = {
     "items": {
       "Composure": {
         "name": "Самообладание",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#discipline-(wil)]{Дисциплина}</p><p>Обладатели этого умения не теряют голову от чужого обаяния, не боятся угроз и давления. Никакие искушения не заставят их потерять себя.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#discipline-(wil)]{Дисциплина}</p><p>Обладатели этого умения не теряют голову от чужого обаяния, не боятся угроз и давления. Никакие искушения не заставят их потерять себя.</p>"
       },
       "Evaluation": {
         "name": "Оценка",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#logic-(int)]{Логика}</p><p>Способность примерно определять ценность вещей, исходя из их видимых качеств. Очень полезно при покупке или продаже оружия или снаряжения либо оценке прочности здания или устройства.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#logic-(int)]{Логика}</p><p>Способность примерно определять ценность вещей, исходя из их видимых качеств. Очень полезно при покупке или продаже оружия или снаряжения либо оценке прочности здания или устройства.</p>"
       },
       "Haggle": {
         "name": "Торг",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#rapport-(fel)]{Взаимопонимание}</p><p>Мастер древнего искусства торга всегда заключит лучшую сделку. Как правило, этому умению противостоит @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)} или @UUID[Compendium.navis-apexialis.navis-core-items.Item.t3d39VvFsvgeu0bW]{Логика (Оценка)}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#rapport-(fel)]{Взаимопонимание}</p><p>Мастер древнего искусства торга всегда заключит лучшую сделку. Как правило, этому умению противостоит @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)} или @UUID[Compendium.apex-imperialis.navis-core-items.Item.t3d39VvFsvgeu0bW]{Логика (Оценка)}.</p>"
       },
       "Argent Tongue": {
         "name": "Красноречие",
@@ -447,7 +447,7 @@ export const entries = {
       },
       "Engineering": {
         "name": "Инженерное дело",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Знания о конструкции, применении и ремонте технологических и механических устройств. Эта специализация позволяет и конструировать такие предметы, а также оружие и взрывчатку. В Империуме Адептус Механикус считают эту область знания исключительно своей епархией и карают самоучек. Помните, впрочем, что для того, чтобы собрать или починить устройство, пользуясь заученными ритуалами, эта специализация не требуется.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Знания о конструкции, применении и ремонте технологических и механических устройств. Эта специализация позволяет и конструировать такие предметы, а также оружие и взрывчатку. В Империуме Адептус Механикус считают эту область знания исключительно своей епархией и карают самоучек. Помните, впрочем, что для того, чтобы собрать или починить устройство, пользуясь заученными ритуалами, эта специализация не требуется.</p>"
       }
     }
   },
@@ -462,23 +462,23 @@ export const entries = {
     "items": {
       "Sight": {
         "name": "Зрение",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Умение лучше замечать детали и кажущиеся неважными особенности.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Умение лучше замечать детали и кажущиеся неважными особенности.</p>"
       },
       "Brawling": {
         "name": "Кулачный бой",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#melee-(ws)]{Бой}</p><p>Владение жестоким искусством драться голыми руками. Оно поможет расправляться с врагами при помощи рук, кастетов или даже могучих @UUID[Compendium.navis-apexialis.navis-core-items.Item.Tm38HWpxtnkcrmKl]{силовых кулаков}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#melee-(ws)]{Бой}</p><p>Владение жестоким искусством драться голыми руками. Оно поможет расправляться с врагами при помощи рук, кастетов или даже могучих @UUID[Compendium.apex-imperialis.navis-core-items.Item.Tm38HWpxtnkcrmKl]{силовых кулаков}.</p>"
       },
       "Tracking": {
         "name": "Следы",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#navigation-(int)]{Ориентирование}</p><p>Умение не только брать след и идти по нему, но и понимать, скольких жертв преследуешь, налегке ли они путешествуют, спешат ли и т. д.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#navigation-(int)]{Ориентирование}</p><p>Умение не только брать след и идти по нему, но и понимать, скольких жертв преследуешь, налегке ли они путешествуют, спешат ли и т. д.</p>"
       },
       "Intimidation": {
         "name": "Запугивание",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять завуалированные или недвусмысленные угрозы (физической расправой или иными ужасными карами), чтобы заставить цель сделать или рассказать что-либо. Жертва противостоит запугиванию при помощи @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}. Если одна сторона такого разговора превосходит другую @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#size]{размером}, то она получает преимущество в проверке.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять завуалированные или недвусмысленные угрозы (физической расправой или иными ужасными карами), чтобы заставить цель сделать или рассказать что-либо. Жертва противостоит запугиванию при помощи @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}. Если одна сторона такого разговора превосходит другую @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#size]{размером}, то она получает преимущество в проверке.</p>"
       },
       "Move Silently": {
         "name": "Бесшумное движение",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#stealth-(ag)]{Скрытность}</p><p>Персонаж учился двигаться, не издавая шума и не привлекая внимания. Обычно применяется против @UUID[Compendium.navis-apexialis.navis-core-items.Item.w8inHqYAM5sSUmg8]{Бдительности (Слух)}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#stealth-(ag)]{Скрытность}</p><p>Персонаж учился двигаться, не издавая шума и не привлекая внимания. Обычно применяется против @UUID[Compendium.apex-imperialis.navis-core-items.Item.w8inHqYAM5sSUmg8]{Бдительности (Слух)}.</p>"
       }
     }
   },
@@ -645,7 +645,7 @@ export const entries = {
       },
       "Fearsome Reputation": {
         "name": "Грозная слава",
-        "description": "<p>Одно лишь имя вашего господина вселяет ужас в сердца врагов. Когда вы взываете к имени покровителя, вы можете потребовать от того, кто знает о его репутации, пройти <strong>сложную (−20) проверку Дисциплины (Страх)</strong> или получить состояние @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Страх}. Не сомневайтесь — все состоящие на службе там же, где покровитель, знают о нём. Насколько будут осведомлены все остальные — решать ведущему.</p>"
+        "description": "<p>Одно лишь имя вашего господина вселяет ужас в сердца врагов. Когда вы взываете к имени покровителя, вы можете потребовать от того, кто знает о его репутации, пройти <strong>сложную (−20) проверку Дисциплины (Страх)</strong> или получить состояние @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Страх}. Не сомневайтесь — все состоящие на службе там же, где покровитель, знают о нём. Насколько будут осведомлены все остальные — решать ведущему.</p>"
       },
       "Sanctum Obscurus": {
         "name": "Санктум Обскурус",
@@ -668,14 +668,14 @@ export const entries = {
     "items": {
       "Endurance": {
         "name": "Неустанность",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#fortitude-(tgh)]{Стойкость}</p><p>Умение подолгу не спать и справляться с усталостью.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#fortitude-(tgh)]{Стойкость}</p><p>Умение подолгу не спать и справляться с усталостью.</p>"
       },
       "Lingua-Technis": {
         "name": "Лингва-технис"
       },
       "Dodge": {
         "name": "Уклонение",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#reflexes-(ag)]{Рефлексы}</p><p>Умение избегать ранений и несчастных случаев, уворачиваясь от опасностей. Эту специализацию можно применять, чтобы защищаться от стрелковых атак и атак в ближнем бою. Конечно, неаугментированный человек не сумеет ускользнуть от пули, но может быстро убраться с линии огня.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#reflexes-(ag)]{Рефлексы}</p><p>Умение избегать ранений и несчастных случаев, уворачиваясь от опасностей. Эту специализацию можно применять, чтобы защищаться от стрелковых атак и атак в ближнем бою. Конечно, неаугментированный человек не сумеет ускользнуть от пули, но может быстро убраться с линии огня.</p>"
       }
     }
   },
@@ -701,18 +701,18 @@ export const entries = {
     "items": {
       "Might": {
         "name": "Мощь",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#athletics-(str)]{Атлетика}</p><p>Эта специализация позволяет поднимать больший вес, ломать предметы и подолгу нести груз. В уместных обстоятельствах Атлетика (Мощь) может применяться вместо Командования (Запугивание).</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#athletics-(str)]{Атлетика}</p><p>Эта специализация позволяет поднимать больший вес, ломать предметы и подолгу нести груз. В уместных обстоятельствах Атлетика (Мощь) может применяться вместо Командования (Запугивание).</p>"
       },
       "Endurance": {
         "name": "Неустанность",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#fortitude-(tgh)]{Стойкость}</p><p>Умение подолгу не спать и справляться с усталостью.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#fortitude-(tgh)]{Стойкость}</p><p>Умение подолгу не спать и справляться с усталостью.</p>"
       },
       "Lingua-Technis": {
         "name": "Лингва-технис"
       },
       "Augmetics": {
         "name": "Аугметика",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Умение применять и чинить разные типы имплантатов. Зачастую аугметика — это механические и электрические протезы, что заменяют части тела, иногда превосходя органические «оригиналы», а иногда открывая совершенно новые возможности. Чтобы приобрести эту специализацию, персонаж должен иметь хотя бы одно улучшение @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#medicae-(int)]{Медики}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Умение применять и чинить разные типы имплантатов. Зачастую аугметика — это механические и электрические протезы, что заменяют части тела, иногда превосходя органические «оригиналы», а иногда открывая совершенно новые возможности. Чтобы приобрести эту специализацию, персонаж должен иметь хотя бы одно улучшение @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#medicae-(int)]{Медики}.</p>"
       }
     }
   },
@@ -780,35 +780,35 @@ export const entries = {
     "items": {
       "Taste": {
         "name": "Вкус",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Превосходное умение распознавать вкусы — в том числе почувствовать яд или наркотик.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Превосходное умение распознавать вкусы — в том числе почувствовать яд или наркотик.</p>"
       },
       "Psyniscience": {
         "name": "Психическое чутьё",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.navis-apexialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.apex-imperialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
       },
       "Psychic": {
         "name": "Психосилы",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#discipline-(wil)]{Дисциплина}</p><p>Дополнительная подготовка, позволяющая сопротивляться различным психосилам, что влияют на разум или подчиняют его.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#discipline-(wil)]{Дисциплина}</p><p>Дополнительная подготовка, позволяющая сопротивляться различным психосилам, что влияют на разум или подчиняют его.</p>"
       },
       "Brawling": {
         "name": "Кулачный бой",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#melee-(ws)]{Бой}</p><p>Владение жестоким искусством драться голыми руками. Оно поможет расправляться с врагами при помощи рук, кастетов или даже могучих @UUID[Compendium.navis-apexialis.navis-core-items.Item.Tm38HWpxtnkcrmKl]{силовых кулаков}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#melee-(ws)]{Бой}</p><p>Владение жестоким искусством драться голыми руками. Оно поможет расправляться с врагами при помощи рук, кастетов или даже могучих @UUID[Compendium.apex-imperialis.navis-core-items.Item.Tm38HWpxtnkcrmKl]{силовых кулаков}.</p>"
       },
       "Tracking": {
         "name": "Следы",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#navigation-(int)]{Ориентирование}</p><p>Умение не только брать след и идти по нему, но и понимать, скольких жертв преследуешь, налегке ли они путешествуют, спешат ли и т. д.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#navigation-(int)]{Ориентирование}</p><p>Умение не только брать след и идти по нему, но и понимать, скольких жертв преследуешь, налегке ли они путешествуют, спешат ли и т. д.</p>"
       },
       "Warp": {
         "name": "Варп",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#navigation-(int)]{Ориентирование}</p><p>Способность прокладывать курс через варповороты и течения Имматериума. Это умение основано на чутье не меньше, чем на знании, ведь невозможно ориентироваться в Варпе, не видя его. Такая специализация доступна лишь навигаторам из Навис Нобилите. Чтобы применять это умение, необходим талант @UUID[Compendium.navis-apexialis.navis-core-items.Item.6HjP77WbIfwGbhs5]{Наследник (Навис Нобилите)}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#navigation-(int)]{Ориентирование}</p><p>Способность прокладывать курс через варповороты и течения Имматериума. Это умение основано на чутье не меньше, чем на знании, ведь невозможно ориентироваться в Варпе, не видя его. Такая специализация доступна лишь навигаторам из Навис Нобилите. Чтобы применять это умение, необходим талант @UUID[Compendium.apex-imperialis.navis-core-items.Item.6HjP77WbIfwGbhs5]{Наследник (Навис Нобилите)}.</p>"
       },
       "Intimidation": {
         "name": "Запугивание",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять завуалированные или недвусмысленные угрозы (физической расправой или иными ужасными карами), чтобы заставить цель сделать или рассказать что-либо. Жертва противостоит запугиванию при помощи @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}. Если одна сторона такого разговора превосходит другую @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#size]{размером}, то она получает преимущество в проверке.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять завуалированные или недвусмысленные угрозы (физической расправой или иными ужасными карами), чтобы заставить цель сделать или рассказать что-либо. Жертва противостоит запугиванию при помощи @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}. Если одна сторона такого разговора превосходит другую @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#size]{размером}, то она получает преимущество в проверке.</p>"
       },
       "Move Silently": {
         "name": "Бесшумное движение",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#stealth-(ag)]{Скрытность}</p><p>Персонаж учился двигаться, не издавая шума и не привлекая внимания. Обычно применяется против @UUID[Compendium.navis-apexialis.navis-core-items.Item.w8inHqYAM5sSUmg8]{Бдительности (Слух)}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#stealth-(ag)]{Скрытность}</p><p>Персонаж учился двигаться, не издавая шума и не привлекая внимания. Обычно применяется против @UUID[Compendium.apex-imperialis.navis-core-items.Item.w8inHqYAM5sSUmg8]{Бдительности (Слух)}.</p>"
       }
     }
   },
@@ -863,7 +863,7 @@ export const entries = {
       },
       "lLAAIw8My0veh9vy": {
         "name": "Призыв вредителей",
-        "description": "<p>Вы призываете всевозможную мелкую живность и можете ей управлять. До начала вашего следующего хода вы получаете власть над вредителями в указанной области (зрительный контакт не требуется) и собираете их в стаю, что заполняет одну зону в пределах средней дистанции. Если это ползучие твари, зона получает свойство @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Пересечённая местность}. Если это летающие существа, зона получает свойство @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#obscured]{Лёгкое марево}. В свой ход в качестве свободного действия вы можете приказать стае перейти в соседнюю зону в пределах дальней дистанции от вас.</p><p>Вместо этого вы можете призывать (и получить под контроль) одно существо в пределах средней дистанции. В таком случае один раз за ход в качестве свободного действия вы можете направить его выполнить одну простую задачу — например, принести ключ-карту или перегрызть путы.</p><p>Если вас отделяет от существа дистанция, превышающая среднюю, вы теряете над ним власть. Эта психосила не позволяет вам общаться с существами — только командовать ими.</p><p>В проверке сотворения используется специализация Телепатия.</p>"
+        "description": "<p>Вы призываете всевозможную мелкую живность и можете ей управлять. До начала вашего следующего хода вы получаете власть над вредителями в указанной области (зрительный контакт не требуется) и собираете их в стаю, что заполняет одну зону в пределах средней дистанции. Если это ползучие твари, зона получает свойство @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Пересечённая местность}. Если это летающие существа, зона получает свойство @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#obscured]{Лёгкое марево}. В свой ход в качестве свободного действия вы можете приказать стае перейти в соседнюю зону в пределах дальней дистанции от вас.</p><p>Вместо этого вы можете призывать (и получить под контроль) одно существо в пределах средней дистанции. В таком случае один раз за ход в качестве свободного действия вы можете направить его выполнить одну простую задачу — например, принести ключ-карту или перегрызть путы.</p><p>Если вас отделяет от существа дистанция, превышающая среднюю, вы теряете над ним власть. Эта психосила не позволяет вам общаться с существами — только командовать ими.</p><p>В проверке сотворения используется специализация Телепатия.</p>"
       },
       "Beacon": {
         "name": "Маяк",
@@ -911,19 +911,19 @@ export const entries = {
       },
       "U6CQ9GkVCI1oq4B5": {
         "name": "Призыв вредителей",
-        "description": "<p>Вы призываете всевозможную мелкую живность и можете ей управлять. До начала вашего следующего хода вы получаете власть над вредителями в указанной области (зрительный контакт не требуется) и собираете их в стаю, что заполняет одну зону в пределах средней дистанции. Если это ползучие твари, зона получает свойство @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Пересечённая местность}. Если это летающие существа, зона получает свойство @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#obscured]{Лёгкое марево}. В свой ход в качестве свободного действия вы можете приказать стае перейти в соседнюю зону в пределах дальней дистанции от вас.</p><p>Вместо этого вы можете призывать (и получить под контроль) одно существо в пределах средней дистанции. В таком случае один раз за ход в качестве свободного действия вы можете направить его выполнить одну простую задачу — например, принести ключ-карту или перегрызть путы.</p><p>Если вас отделяет от существа дистанция, превышающая среднюю, вы теряете над ним власть. Эта психосила не позволяет вам общаться с существами — только командовать ими.</p><p>В проверке сотворения используется специализация Телепатия.</p>"
+        "description": "<p>Вы призываете всевозможную мелкую живность и можете ей управлять. До начала вашего следующего хода вы получаете власть над вредителями в указанной области (зрительный контакт не требуется) и собираете их в стаю, что заполняет одну зону в пределах средней дистанции. Если это ползучие твари, зона получает свойство @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Пересечённая местность}. Если это летающие существа, зона получает свойство @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#obscured]{Лёгкое марево}. В свой ход в качестве свободного действия вы можете приказать стае перейти в соседнюю зону в пределах дальней дистанции от вас.</p><p>Вместо этого вы можете призывать (и получить под контроль) одно существо в пределах средней дистанции. В таком случае один раз за ход в качестве свободного действия вы можете направить его выполнить одну простую задачу — например, принести ключ-карту или перегрызть путы.</p><p>Если вас отделяет от существа дистанция, превышающая среднюю, вы теряете над ним власть. Эта психосила не позволяет вам общаться с существами — только командовать ими.</p><p>В проверке сотворения используется специализация Телепатия.</p>"
       },
       "z3JaRwcJKSc288Yw": {
         "name": "Призыв вредителей",
-        "description": "<p>Вы призываете всевозможную мелкую живность и можете ей управлять. До начала вашего следующего хода вы получаете власть над вредителями в указанной области (зрительный контакт не требуется) и собираете их в стаю, что заполняет одну зону в пределах средней дистанции. Если это ползучие твари, зона получает свойство @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Пересечённая местность}. Если это летающие существа, зона получает свойство @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#obscured]{Лёгкое марево}. В свой ход в качестве свободного действия вы можете приказать стае перейти в соседнюю зону в пределах дальней дистанции от вас.</p><p>Вместо этого вы можете призывать (и получить под контроль) одно существо в пределах средней дистанции. В таком случае один раз за ход в качестве свободного действия вы можете направить его выполнить одну простую задачу — например, принести ключ-карту или перегрызть путы.</p><p>Если вас отделяет от существа дистанция, превышающая среднюю, вы теряете над ним власть. Эта психосила не позволяет вам общаться с существами — только командовать ими.</p><p>В проверке сотворения используется специализация Телепатия.</p>"
+        "description": "<p>Вы призываете всевозможную мелкую живность и можете ей управлять. До начала вашего следующего хода вы получаете власть над вредителями в указанной области (зрительный контакт не требуется) и собираете их в стаю, что заполняет одну зону в пределах средней дистанции. Если это ползучие твари, зона получает свойство @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Пересечённая местность}. Если это летающие существа, зона получает свойство @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#obscured]{Лёгкое марево}. В свой ход в качестве свободного действия вы можете приказать стае перейти в соседнюю зону в пределах дальней дистанции от вас.</p><p>Вместо этого вы можете призывать (и получить под контроль) одно существо в пределах средней дистанции. В таком случае один раз за ход в качестве свободного действия вы можете направить его выполнить одну простую задачу — например, принести ключ-карту или перегрызть путы.</p><p>Если вас отделяет от существа дистанция, превышающая среднюю, вы теряете над ним власть. Эта психосила не позволяет вам общаться с существами — только командовать ими.</p><p>В проверке сотворения используется специализация Телепатия.</p>"
       },
       "GRteTL8SIIJVg5zy": {
         "name": "Призыв вредителей",
-        "description": "<p>Вы призываете всевозможную мелкую живность и можете ей управлять. До начала вашего следующего хода вы получаете власть над вредителями в указанной области (зрительный контакт не требуется) и собираете их в стаю, что заполняет одну зону в пределах средней дистанции. Если это ползучие твари, зона получает свойство @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Пересечённая местность}. Если это летающие существа, зона получает свойство @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#obscured]{Лёгкое марево}. В свой ход в качестве свободного действия вы можете приказать стае перейти в соседнюю зону в пределах дальней дистанции от вас.</p><p>Вместо этого вы можете призывать (и получить под контроль) одно существо в пределах средней дистанции. В таком случае один раз за ход в качестве свободного действия вы можете направить его выполнить одну простую задачу — например, принести ключ-карту или перегрызть путы.</p><p>Если вас отделяет от существа дистанция, превышающая среднюю, вы теряете над ним власть. Эта психосила не позволяет вам общаться с существами — только командовать ими.</p><p>В проверке сотворения используется специализация Телепатия.</p>"
+        "description": "<p>Вы призываете всевозможную мелкую живность и можете ей управлять. До начала вашего следующего хода вы получаете власть над вредителями в указанной области (зрительный контакт не требуется) и собираете их в стаю, что заполняет одну зону в пределах средней дистанции. Если это ползучие твари, зона получает свойство @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Пересечённая местность}. Если это летающие существа, зона получает свойство @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#obscured]{Лёгкое марево}. В свой ход в качестве свободного действия вы можете приказать стае перейти в соседнюю зону в пределах дальней дистанции от вас.</p><p>Вместо этого вы можете призывать (и получить под контроль) одно существо в пределах средней дистанции. В таком случае один раз за ход в качестве свободного действия вы можете направить его выполнить одну простую задачу — например, принести ключ-карту или перегрызть путы.</p><p>Если вас отделяет от существа дистанция, превышающая среднюю, вы теряете над ним власть. Эта психосила не позволяет вам общаться с существами — только командовать ими.</p><p>В проверке сотворения используется специализация Телепатия.</p>"
       },
       "OJGOJWPPaCtMUxxe": {
         "name": "Призыв вредителей",
-        "description": "<p>Вы призываете всевозможную мелкую живность и можете ей управлять. До начала вашего следующего хода вы получаете власть над вредителями в указанной области (зрительный контакт не требуется) и собираете их в стаю, что заполняет одну зону в пределах средней дистанции. Если это ползучие твари, зона получает свойство @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Пересечённая местность}. Если это летающие существа, зона получает свойство @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#obscured]{Лёгкое марево}. В свой ход в качестве свободного действия вы можете приказать стае перейти в соседнюю зону в пределах дальней дистанции от вас.</p><p>Вместо этого вы можете призывать (и получить под контроль) одно существо в пределах средней дистанции. В таком случае один раз за ход в качестве свободного действия вы можете направить его выполнить одну простую задачу — например, принести ключ-карту или перегрызть путы.</p><p>Если вас отделяет от существа дистанция, превышающая среднюю, вы теряете над ним власть. Эта психосила не позволяет вам общаться с существами — только командовать ими.</p><p>В проверке сотворения используется специализация Телепатия.</p>"
+        "description": "<p>Вы призываете всевозможную мелкую живность и можете ей управлять. До начала вашего следующего хода вы получаете власть над вредителями в указанной области (зрительный контакт не требуется) и собираете их в стаю, что заполняет одну зону в пределах средней дистанции. Если это ползучие твари, зона получает свойство @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Пересечённая местность}. Если это летающие существа, зона получает свойство @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#obscured]{Лёгкое марево}. В свой ход в качестве свободного действия вы можете приказать стае перейти в соседнюю зону в пределах дальней дистанции от вас.</p><p>Вместо этого вы можете призывать (и получить под контроль) одно существо в пределах средней дистанции. В таком случае один раз за ход в качестве свободного действия вы можете направить его выполнить одну простую задачу — например, принести ключ-карту или перегрызть путы.</p><p>Если вас отделяет от существа дистанция, превышающая среднюю, вы теряете над ним власть. Эта психосила не позволяет вам общаться с существами — только командовать ими.</p><p>В проверке сотворения используется специализация Телепатия.</p>"
       }
     }
   },
@@ -940,7 +940,7 @@ export const entries = {
       },
       "Entrenching Tool": {
         "name": "Шанцевый инструмент",
-        "description": "<p>Должно быть, это самая простая часть снаряжения солдат @UUID[JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум}. Обычно это широкая лопатка для рытья окопов, ям или переноски земли и песка. Как правило, гвардейские лопатки складываются, чтобы не мешать на марше или в бою.</p><p>Также шанцевый инструмент можно использовать как @UUID[Compendium.navis-apexialis.navis-core-items.Item.lwPymw5Hah0H8Ey5]{импровизированное одноручное} холодное оружие. Хорошо заточенная лопатка в бою будет считаться @UUID[Compendium.navis-apexialis.navis-core-items.Item.cnbaSByME7caQohv]{топором}.</p>"
+        "description": "<p>Должно быть, это самая простая часть снаряжения солдат @UUID[JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум}. Обычно это широкая лопатка для рытья окопов, ям или переноски земли и песка. Как правило, гвардейские лопатки складываются, чтобы не мешать на марше или в бою.</p><p>Также шанцевый инструмент можно использовать как @UUID[Compendium.apex-imperialis.navis-core-items.Item.lwPymw5Hah0H8Ey5]{импровизированное одноручное} холодное оружие. Хорошо заточенная лопатка в бою будет считаться @UUID[Compendium.apex-imperialis.navis-core-items.Item.cnbaSByME7caQohv]{топором}.</p>"
       },
       "Survival Gear": {
         "name": "Снаряжение выживальщика",
@@ -952,7 +952,7 @@ export const entries = {
     "items": {
       "Tracking": {
         "name": "Следы",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#navigation-(int)]{Ориентирование}</p><p>Умение не только брать след и идти по нему, но и понимать, скольких жертв преследуешь, налегке ли они путешествуют, спешат ли и т. д.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#navigation-(int)]{Ориентирование}</p><p>Умение не только брать след и идти по нему, но и понимать, скольких жертв преследуешь, налегке ли они путешествуют, спешат ли и т. д.</p>"
       }
     }
   },
@@ -969,7 +969,7 @@ export const entries = {
       },
       "Entrenching Tool": {
         "name": "Шанцевый инструмент",
-        "description": "<p>Должно быть, это самая простая часть снаряжения солдат @UUID[JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум}. Обычно это широкая лопатка для рытья окопов, ям или переноски земли и песка. Как правило, гвардейские лопатки складываются, чтобы не мешать на марше или в бою.</p><p>Также шанцевый инструмент можно использовать как @UUID[Compendium.navis-apexialis.navis-core-items.Item.lwPymw5Hah0H8Ey5]{импровизированное одноручное} холодное оружие. Хорошо заточенная лопатка в бою будет считаться @UUID[Compendium.navis-apexialis.navis-core-items.Item.cnbaSByME7caQohv]{топором}.</p>"
+        "description": "<p>Должно быть, это самая простая часть снаряжения солдат @UUID[JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум}. Обычно это широкая лопатка для рытья окопов, ям или переноски земли и песка. Как правило, гвардейские лопатки складываются, чтобы не мешать на марше или в бою.</p><p>Также шанцевый инструмент можно использовать как @UUID[Compendium.apex-imperialis.navis-core-items.Item.lwPymw5Hah0H8Ey5]{импровизированное одноручное} холодное оружие. Хорошо заточенная лопатка в бою будет считаться @UUID[Compendium.apex-imperialis.navis-core-items.Item.cnbaSByME7caQohv]{топором}.</p>"
       },
       "Survival Gear": {
         "name": "Снаряжение выживальщика",
@@ -981,11 +981,11 @@ export const entries = {
     "items": {
       "Smell": {
         "name": "Обоняние",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Склонность определять выделяющиеся или необычные запахи. Некоторые редкие аугментации или генетические улучшения позволяют даже выслеживать жертв по запаху.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Склонность определять выделяющиеся или необычные запахи. Некоторые редкие аугментации или генетические улучшения позволяют даже выслеживать жертв по запаху.</p>"
       },
       "Augmetics": {
         "name": "Аугметика",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Умение применять и чинить разные типы имплантатов. Зачастую аугметика — это механические и электрические протезы, что заменяют части тела, иногда превосходя органические «оригиналы», а иногда открывая совершенно новые возможности. Чтобы приобрести эту специализацию, персонаж должен иметь хотя бы одно улучшение @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#medicae-(int)]{Медики}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Умение применять и чинить разные типы имплантатов. Зачастую аугметика — это механические и электрические протезы, что заменяют части тела, иногда превосходя органические «оригиналы», а иногда открывая совершенно новые возможности. Чтобы приобрести эту специализацию, персонаж должен иметь хотя бы одно улучшение @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#medicae-(int)]{Медики}.</p>"
       }
     }
   },
@@ -993,7 +993,7 @@ export const entries = {
     "items": {
       "Composure": {
         "name": "Самообладание",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#discipline-(wil)]{Дисциплина}</p><p>Обладатели этого умения не теряют голову от чужого обаяния, не боятся угроз и давления. Никакие искушения не заставят их потерять себя.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#discipline-(wil)]{Дисциплина}</p><p>Обладатели этого умения не теряют голову от чужого обаяния, не боятся угроз и давления. Никакие искушения не заставят их потерять себя.</p>"
       },
       "Argent Tongue": {
         "name": "Красноречие",
@@ -1040,7 +1040,7 @@ export const entries = {
       },
       "Evaluation": {
         "name": "Оценка",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#logic-(int)]{Логика}</p><p>Способность примерно определять ценность вещей, исходя из их видимых качеств. Очень полезно при покупке или продаже оружия или снаряжения либо оценке прочности здания или устройства.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#logic-(int)]{Логика}</p><p>Способность примерно определять ценность вещей, исходя из их видимых качеств. Очень полезно при покупке или продаже оружия или снаряжения либо оценке прочности здания или устройства.</p>"
       },
       "Micro-Bead/Vox Bead": {
         "name": "Вокс-бусина (она же микробусина)",
@@ -1073,19 +1073,19 @@ export const entries = {
       },
       "Augmetics": {
         "name": "Аугметика",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Умение применять и чинить разные типы имплантатов. Зачастую аугметика — это механические и электрические протезы, что заменяют части тела, иногда превосходя органические «оригиналы», а иногда открывая совершенно новые возможности. Чтобы приобрести эту специализацию, персонаж должен иметь хотя бы одно улучшение @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#medicae-(int)]{Медики}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Умение применять и чинить разные типы имплантатов. Зачастую аугметика — это механические и электрические протезы, что заменяют части тела, иногда превосходя органические «оригиналы», а иногда открывая совершенно новые возможности. Чтобы приобрести эту специализацию, персонаж должен иметь хотя бы одно улучшение @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#medicae-(int)]{Медики}.</p>"
       },
       "Engineering": {
         "name": "Инженерное дело",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Знания о конструкции, применении и ремонте технологических и механических устройств. Эта специализация позволяет и конструировать такие предметы, а также оружие и взрывчатку. В Империуме Адептус Механикус считают эту область знания исключительно своей епархией и карают самоучек. Помните, впрочем, что для того, чтобы собрать или починить устройство, пользуясь заученными ритуалами, эта специализация не требуется.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Знания о конструкции, применении и ремонте технологических и механических устройств. Эта специализация позволяет и конструировать такие предметы, а также оружие и взрывчатку. В Империуме Адептус Механикус считают эту область знания исключительно своей епархией и карают самоучек. Помните, впрочем, что для того, чтобы собрать или починить устройство, пользуясь заученными ритуалами, эта специализация не требуется.</p>"
       },
       "Heavily Augmented": {
         "name": "Глубокая аугментация",
-        "description": "<p>У техножреца установлены @UUID[Compendium.navis-apexialis.navis-core-items.Item.zK3ii7HUPfnQGKtg]{аугметические руки}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.PS24p896oNkNxwc4]{аугметические ноги}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.6VeObvauzrXSw5nO]{аугметическое сердце}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.gMiilnjEIZawYcfG]{аугметическая дыхательная система} и @UUID[Compendium.navis-apexialis.navis-core-items.Item.HkhEg8qCUV0oZxOt]{аугметические органы чувств}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.DN4ZI8z7SqJjsney]{ремесленный механодендрит}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.2SkHTUxjqUxiyW6b]{оптический механодендрит} и @UUID[Compendium.navis-apexialis.navis-core-items.Item.wRIE5K6YuMtymmm0]{биомеханический канал связи}. Преимущества аугметики уже включены в профиль.</p>"
+        "description": "<p>У техножреца установлены @UUID[Compendium.apex-imperialis.navis-core-items.Item.zK3ii7HUPfnQGKtg]{аугметические руки}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.PS24p896oNkNxwc4]{аугметические ноги}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.6VeObvauzrXSw5nO]{аугметическое сердце}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.gMiilnjEIZawYcfG]{аугметическая дыхательная система} и @UUID[Compendium.apex-imperialis.navis-core-items.Item.HkhEg8qCUV0oZxOt]{аугметические органы чувств}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.DN4ZI8z7SqJjsney]{ремесленный механодендрит}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.2SkHTUxjqUxiyW6b]{оптический механодендрит} и @UUID[Compendium.apex-imperialis.navis-core-items.Item.wRIE5K6YuMtymmm0]{биомеханический канал связи}. Преимущества аугметики уже включены в профиль.</p>"
       },
       "Augmetic Heart": {
         "name": "Аугметическое сердце",
-        "description": "<p>Потратив действие, техножрец проходит <strong>среднюю (+0) проверку Стойкости</strong>. В случае успеха он снимает с себя состояние @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#bleeding]{Кровотечение}.</p>"
+        "description": "<p>Потратив действие, техножрец проходит <strong>среднюю (+0) проверку Стойкости</strong>. В случае успеха он снимает с себя состояние @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#bleeding]{Кровотечение}.</p>"
       },
       "Augmetic Respiratory System": {
         "name": "Аугметическая дыхательная система",
@@ -1134,18 +1134,18 @@ export const entries = {
     "items": {
       "Might": {
         "name": "Мощь",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#athletics-(str)]{Атлетика}</p><p>Эта специализация позволяет поднимать больший вес, ломать предметы и подолгу нести груз. В уместных обстоятельствах Атлетика (Мощь) может применяться вместо Командования (Запугивание).</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#athletics-(str)]{Атлетика}</p><p>Эта специализация позволяет поднимать больший вес, ломать предметы и подолгу нести груз. В уместных обстоятельствах Атлетика (Мощь) может применяться вместо Командования (Запугивание).</p>"
       },
       "Endurance": {
         "name": "Неустанность",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#fortitude-(tgh)]{Стойкость}</p><p>Умение подолгу не спать и справляться с усталостью.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#fortitude-(tgh)]{Стойкость}</p><p>Умение подолгу не спать и справляться с усталостью.</p>"
       },
       "Autopistol": {
         "name": "Автопистолет"
       },
       "Augmetics": {
         "name": "Аугметика",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Умение применять и чинить разные типы имплантатов. Зачастую аугметика — это механические и электрические протезы, что заменяют части тела, иногда превосходя органические «оригиналы», а иногда открывая совершенно новые возможности. Чтобы приобрести эту специализацию, персонаж должен иметь хотя бы одно улучшение @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#medicae-(int)]{Медики}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Техника}</p><p>Умение применять и чинить разные типы имплантатов. Зачастую аугметика — это механические и электрические протезы, что заменяют части тела, иногда превосходя органические «оригиналы», а иногда открывая совершенно новые возможности. Чтобы приобрести эту специализацию, персонаж должен иметь хотя бы одно улучшение @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#medicae-(int)]{Медики}.</p>"
       },
       "Lingua-Technis": {
         "name": "Лингва-технис"
@@ -1179,15 +1179,15 @@ export const entries = {
       },
       "Cipher": {
         "name": "Шифры",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Языки}</p><p>Умение определять, взламывать и применять письменные коды. Некоторые шифрованные послания не скрывают своей природы, и для их чтения нужен только ключ; другие тщательно замаскированы под обычные письма.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Языки}</p><p>Умение определять, взламывать и применять письменные коды. Некоторые шифрованные послания не скрывают своей природы, и для их чтения нужен только ключ; другие тщательно замаскированы под обычные письма.</p>"
       },
       "Forbidden (Various)": {
         "name": "Запретное (Разное)",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Знания}</p><p>Познания в теме, которая в Империуме считается недозволенной. Обладание сведениями о чужаках и псайкерах без особого разрешения могущественного человека или группы может вызвать серьёзные проблемы. Истинные знания о демонах — уже причина для казни. Любые факты об Адептус Астартес или Имматериуме, не считая расхожих баек, также не для всех. Каждое запретное знание требует соответствующего таланта @UUID[Compendium.navis-apexialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Запретные тайны}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Знания}</p><p>Познания в теме, которая в Империуме считается недозволенной. Обладание сведениями о чужаках и псайкерах без особого разрешения могущественного человека или группы может вызвать серьёзные проблемы. Истинные знания о демонах — уже причина для казни. Любые факты об Адептус Астартес или Имматериуме, не считая расхожих баек, также не для всех. Каждое запретное знание требует соответствующего таланта @UUID[Compendium.apex-imperialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Запретные тайны}.</p>"
       },
       "Adeptus Terra": {
         "name": "Адептус Терра",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Знания}</p><p>Это знания не только о самом Адептус Терра, но и о множестве иных столпов Империума. Это не значит, что обладатель такой специализации поимённо знает всех чиновников определённой службы, но позволяет понимать роль и ответственность каждого Адептус, их положение в Империуме и их самых известных представителей.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Знания}</p><p>Это знания не только о самом Адептус Терра, но и о множестве иных столпов Империума. Это не значит, что обладатель такой специализации поимённо знает всех чиновников определённой службы, но позволяет понимать роль и ответственность каждого Адептус, их положение в Империуме и их самых известных представителей.</p>"
       }
     }
   },
@@ -1195,11 +1195,11 @@ export const entries = {
     "items": {
       "Psyniscience": {
         "name": "Психическое чутьё",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.navis-apexialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.apex-imperialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
       },
       "Malefic Psyker": {
         "name": "Псайкер-малефик",
-        "description": "<p>Нечистый псайкер владеет следующими психосилами:</p><p><strong>Малые психосилы</strong>: @UUID[Compendium.navis-apexialis.navis-core-items.Item.iF1qxYZdS6GKxaVk]{Призыв вредителей}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.I6NTqen3Srp90dyW]{Аура ужаса}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.6piNqY3oQ4WVndT0]{Полёт}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.8Y2GkGqdRW4fgtt2]{Дурное знамение}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.dbY2lsnqcGTU9ySA]{Сглаз}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.4PwcP3ziykhvMnEr]{Нова}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.iHemd2KVEYx2olv7]{Психический удар}.</p><p><strong>Биомантия</strong>: @UUID[Compendium.navis-apexialis.navis-core-items.Item.Z1iAai8os7wLhSD8]{Недуг}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.eYVRPE01hIztBgtI]{Биомолния}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.mfnf7gC27VsppIsN]{Кровоизлияние}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.a9DufcxlzYqbOVo7]{Пиявка}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.NEv8PYXJe0scDiL3]{Увядание}.</p><p><strong>Прорицания</strong>: @UUID[Compendium.navis-apexialis.navis-core-items.Item.xfNouLz2vwT0L7Gr]{Вопрос Варпу}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.JD8KXpaybkhEvnUm]{Ясновиденье}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.CR3c7PVCtTdAEF1W]{Поворот судьбы}.</p><p><strong>Телекинез</strong>: @UUID[Compendium.navis-apexialis.navis-core-items.Item.Q9XWNAmAzaLRgQ89]{Врата вечности}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.IoFNznc46ljGmm9H]{Погибельный вихрь}.</p><p><strong>Телепатия</strong>: @UUID[Compendium.navis-apexialis.navis-core-items.Item.XnKX6A6hVzeXsGld]{Приказ}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.FlK5TFyjJNmgnExw]{Господство}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.sZluux2xrMuK4w1H]{Пси-допрос}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.61LtbSXGELhbGC6c]{Психический вопль}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.U4GZLrdv7mLbK6bz]{Кошмарные видения}.</p>"
+        "description": "<p>Нечистый псайкер владеет следующими психосилами:</p><p><strong>Малые психосилы</strong>: @UUID[Compendium.apex-imperialis.navis-core-items.Item.iF1qxYZdS6GKxaVk]{Призыв вредителей}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.I6NTqen3Srp90dyW]{Аура ужаса}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.6piNqY3oQ4WVndT0]{Полёт}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.8Y2GkGqdRW4fgtt2]{Дурное знамение}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.dbY2lsnqcGTU9ySA]{Сглаз}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.4PwcP3ziykhvMnEr]{Нова}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.iHemd2KVEYx2olv7]{Психический удар}.</p><p><strong>Биомантия</strong>: @UUID[Compendium.apex-imperialis.navis-core-items.Item.Z1iAai8os7wLhSD8]{Недуг}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.eYVRPE01hIztBgtI]{Биомолния}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.mfnf7gC27VsppIsN]{Кровоизлияние}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.a9DufcxlzYqbOVo7]{Пиявка}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.NEv8PYXJe0scDiL3]{Увядание}.</p><p><strong>Прорицания</strong>: @UUID[Compendium.apex-imperialis.navis-core-items.Item.xfNouLz2vwT0L7Gr]{Вопрос Варпу}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.JD8KXpaybkhEvnUm]{Ясновиденье}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.CR3c7PVCtTdAEF1W]{Поворот судьбы}.</p><p><strong>Телекинез</strong>: @UUID[Compendium.apex-imperialis.navis-core-items.Item.Q9XWNAmAzaLRgQ89]{Врата вечности}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.IoFNznc46ljGmm9H]{Погибельный вихрь}.</p><p><strong>Телепатия</strong>: @UUID[Compendium.apex-imperialis.navis-core-items.Item.XnKX6A6hVzeXsGld]{Приказ}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.FlK5TFyjJNmgnExw]{Господство}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.sZluux2xrMuK4w1H]{Пси-допрос}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.61LtbSXGELhbGC6c]{Психический вопль}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.U4GZLrdv7mLbK6bz]{Кошмарные видения}.</p>"
       },
       "Source of Corruption": {
         "name": "Источник порчи",
@@ -1313,7 +1313,7 @@ export const entries = {
       },
       "z3pFUwFlp4BJf1oJ": {
         "name": "Запретное",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Языки}</p><p>Обладатели этой специализации владеют узко распространённым или запрещённым в Империуме языком. Знать наречия ксеносов почти всегда считается ересью — впрочем, сёстры орденов Диалогус нередко получают от Адептус Министорум специальное разрешение на их изучение. На некоторых чужацких наречиях — например, круутском — человек вообще неспособен говорить, не получив аугментаций. Также, кроме еретических языков, существуют и слишком священные для простолюдинов — например, такова техножреческая лингва технис, запретная для всех, не принадлежащих к их культу, ибо основана на двоичном машинном коде, и говорить на ней могут лишь обладатели нужных имплантатов да немногочисленные гении. Другой пример — мыслежесты сестёр Безмолвия, почти неизвестные посторонним. Каждый запретный язык требует соответствующего таланта @UUID[Compendium.navis-apexialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Запретные тайны}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Языки}</p><p>Обладатели этой специализации владеют узко распространённым или запрещённым в Империуме языком. Знать наречия ксеносов почти всегда считается ересью — впрочем, сёстры орденов Диалогус нередко получают от Адептус Министорум специальное разрешение на их изучение. На некоторых чужацких наречиях — например, круутском — человек вообще неспособен говорить, не получив аугментаций. Также, кроме еретических языков, существуют и слишком священные для простолюдинов — например, такова техножреческая лингва технис, запретная для всех, не принадлежащих к их культу, ибо основана на двоичном машинном коде, и говорить на ней могут лишь обладатели нужных имплантатов да немногочисленные гении. Другой пример — мыслежесты сестёр Безмолвия, почти неизвестные посторонним. Каждый запретный язык требует соответствующего таланта @UUID[Compendium.apex-imperialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Запретные тайны}.</p>"
       }
     }
   },
@@ -1321,27 +1321,27 @@ export const entries = {
     "items": {
       "Fear": {
         "name": "Страх",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#discipline-(wil)]{Дисциплина}</p><p>Умение справляться с ужасом, что вызывают еретические и осквернённые существа. Как правило, эта специализация помогает бороться с состоянием @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Страх}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#discipline-(wil)]{Дисциплина}</p><p>Умение справляться с ужасом, что вызывают еретические и осквернённые существа. Как правило, эта специализация помогает бороться с состоянием @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Страх}.</p>"
       },
       "Human": {
         "name": "Люди",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#medicae-(int)]{Медика}</p><p>Расширенный курс по лечению людей. Такие знания позволят оказать первую помощь, остановить кровь или не дать тяжёлым ранам свести пациента в могилу. Несмотря на слово «Люди», эта специализация работает и на недолюдей, вроде огринов, ратлингов и выходцев из Лиг Вотанна.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#medicae-(int)]{Медика}</p><p>Расширенный курс по лечению людей. Такие знания позволят оказать первую помощь, остановить кровь или не дать тяжёлым ранам свести пациента в могилу. Несмотря на слово «Люди», эта специализация работает и на недолюдей, вроде огринов, ратлингов и выходцев из Лиг Вотанна.</p>"
       },
       "One-handed": {
         "name": "Одноручное оружие",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#melee-(ws)]{Бой}</p><p>Владение мечами, топорами, булавами и другим холодным оружием, что можно удерживать одной рукой.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#melee-(ws)]{Бой}</p><p>Владение мечами, топорами, булавами и другим холодным оружием, что можно удерживать одной рукой.</p>"
       },
       "Intimidation": {
         "name": "Запугивание",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять завуалированные или недвусмысленные угрозы (физической расправой или иными ужасными карами), чтобы заставить цель сделать или рассказать что-либо. Жертва противостоит запугиванию при помощи @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}. Если одна сторона такого разговора превосходит другую @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#size]{размером}, то она получает преимущество в проверке.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Умение применять завуалированные или недвусмысленные угрозы (физической расправой или иными ужасными карами), чтобы заставить цель сделать или рассказать что-либо. Жертва противостоит запугиванию при помощи @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}. Если одна сторона такого разговора превосходит другую @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#size]{размером}, то она получает преимущество в проверке.</p>"
       },
       "Leadership": {
         "name": "Лидерство",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Подготовка, позволяющая добиваться от подчинённых работы с полной отдачей. Его можно применять, чтобы убедить горстку клерков закончить длинный отчёт в нужный срок или вселить в отряд отчаявшихся солдат отвагу и повести на штурм укреплений.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Командование}</p><p>Подготовка, позволяющая добиваться от подчинённых работы с полной отдачей. Его можно применять, чтобы убедить горстку клерков закончить длинный отчёт в нужный срок или вселить в отряд отчаявшихся солдат отвагу и повести на штурм укреплений.</p>"
       },
       "Pistols": {
         "name": "Пистолеты",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#ranged-(bs)]{Стрельба}</p><p>Обширная подготовка по применению лазпистолетов, болт-пистолетов, стаб-револьверов, автопистолетов и им подобного оружия.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#ranged-(bs)]{Стрельба}</p><p>Обширная подготовка по применению лазпистолетов, болт-пистолетов, стаб-револьверов, автопистолетов и им подобного оружия.</p>"
       },
       "Aura of Discipline": {
         "name": "Аура дисциплины",
@@ -1349,7 +1349,7 @@ export const entries = {
       },
       "Stalwart": {
         "name": "Стойкий",
-        "description": "<p>Комиссар получает преимущество в проверках, предпринятых, чтобы сопротивляться состоянию @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Страх} или прекратить его воздействие.</p>"
+        "description": "<p>Комиссар получает преимущество в проверках, предпринятых, чтобы сопротивляться состоянию @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Страх} или прекратить его воздействие.</p>"
       },
       "Bolt Pistol": {
         "name": "Болт-пистолет"
@@ -1382,35 +1382,35 @@ export const entries = {
     "items": {
       "Climbing": {
         "name": "Лазанье",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#athletics-(str)]{Атлетика}</p><p>Атлет оттачивает умение быстро и безопасно подниматься по вертикальным поверхностям — очень полезно на диких мирах и в ульях. Это ценная способность в бою, если вам нужно взобраться на верх сервогрузовика, чтобы сбросить вниз еретического демагога.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#athletics-(str)]{Атлетика}</p><p>Атлет оттачивает умение быстро и безопасно подниматься по вертикальным поверхностям — очень полезно на диких мирах и в ульях. Это ценная способность в бою, если вам нужно взобраться на верх сервогрузовика, чтобы сбросить вниз еретического демагога.</p>"
       },
       "Running": {
         "name": "Бег",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#athletics-(str)]{Атлетика}</p><p>Эта специализация позволяет быстро передвигаться на большие расстояния — полезно, чтобы поймать убегающего врага или самому сбежать от тех, кто оказался не по зубам.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#athletics-(str)]{Атлетика}</p><p>Эта специализация позволяет быстро передвигаться на большие расстояния — полезно, чтобы поймать убегающего врага или самому сбежать от тех, кто оказался не по зубам.</p>"
       },
       "Psyniscience": {
         "name": "Психическое чутьё",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.navis-apexialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Бдительность}</p><p>Псайкеры могут использовать свою связь с Имматериумом, чтобы обнаруживать его воздействие на тварный мир. Это позволяет им отслеживать появление сущностей Варпа или даже вычислять других псайкеров, если те применяют свои способности и черпают силу из Эмпиреев. Чтобы приобрести такую специализацию, персонаж должен иметь талант @UUID[Compendium.apex-imperialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер}. Впрочем, долгое воздействие на персонажа варп-феноменов — хороший повод позволить игроку по решению ведущего приобрести одно улучшение Психического чутья.</p>"
       },
       "Psychic": {
         "name": "Психосилы",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#discipline-(wil)]{Дисциплина}</p><p>Дополнительная подготовка, позволяющая сопротивляться различным психосилам, что влияют на разум или подчиняют его.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#discipline-(wil)]{Дисциплина}</p><p>Дополнительная подготовка, позволяющая сопротивляться различным психосилам, что влияют на разум или подчиняют его.</p>"
       },
       "Warp": {
         "name": "Варп",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#navigation-(int)]{Ориентирование}</p><p>Способность прокладывать курс через варповороты и течения Имматериума. Это умение основано на чутье не меньше, чем на знании, ведь невозможно ориентироваться в Варпе, не видя его. Такая специализация доступна лишь навигаторам из Навис Нобилите. Чтобы применять это умение, необходим талант @UUID[Compendium.navis-apexialis.navis-core-items.Item.6HjP77WbIfwGbhs5]{Наследник (Навис Нобилите)}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#navigation-(int)]{Ориентирование}</p><p>Способность прокладывать курс через варповороты и течения Имматериума. Это умение основано на чутье не меньше, чем на знании, ведь невозможно ориентироваться в Варпе, не видя его. Такая специализация доступна лишь навигаторам из Навис Нобилите. Чтобы применять это умение, необходим талант @UUID[Compendium.apex-imperialis.navis-core-items.Item.6HjP77WbIfwGbhs5]{Наследник (Навис Нобилите)}.</p>"
       },
       "Charm": {
         "name": "Обаяние",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#rapport-(fel)]{Взаимопонимание}</p><p>Персонаж умеет быть очень приятным собеседником, что помогает ему просить новых друзей об одолжениях. Как правило, этому умению противостоит @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#rapport-(fel)]{Взаимопонимание}</p><p>Персонаж умеет быть очень приятным собеседником, что помогает ему просить новых друзей об одолжениях. Как правило, этому умению противостоит @UUID[Compendium.apex-imperialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Дисциплина (Самообладание)}.</p>"
       },
       "Balance": {
         "name": "Равновесие",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#reflexes-(ag)]{Рефлексы}</p><p>Умение всегда держаться на ногах, будь под ними неровная земля, лужа скользкого масла или коварная тропинка.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#reflexes-(ag)]{Рефлексы}</p><p>Умение всегда держаться на ногах, будь под ними неровная земля, лужа скользкого масла или коварная тропинка.</p>"
       },
       "Move Silently": {
         "name": "Бесшумное движение",
-        "description": "<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#stealth-(ag)]{Скрытность}</p><p>Персонаж учился двигаться, не издавая шума и не привлекая внимания. Обычно применяется против @UUID[Compendium.navis-apexialis.navis-core-items.Item.w8inHqYAM5sSUmg8]{Бдительности (Слух)}.</p>"
+        "description": "<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#stealth-(ag)]{Скрытность}</p><p>Персонаж учился двигаться, не издавая шума и не привлекая внимания. Обычно применяется против @UUID[Compendium.apex-imperialis.navis-core-items.Item.w8inHqYAM5sSUmg8]{Бдительности (Слух)}.</p>"
       }
     }
   }

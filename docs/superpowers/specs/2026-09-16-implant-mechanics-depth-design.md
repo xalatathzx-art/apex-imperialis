@@ -186,7 +186,7 @@ difference is only where the profile comes from.
 A new module in `module/implants/grants.js`:
 
 - On the gate opening, every grant entry creates its document on the actor with
-  `flags.navis-apexialis.grantedBy` naming the implant's id and the entry's id.
+  `flags.apex-imperialis.grantedBy` naming the implant's id and the entry's id.
 - On the gate closing or the implant leaving, everything carrying that flag for
   that implant is removed.
 - The sync is idempotent and queued per implant id, reusing the promise-chain

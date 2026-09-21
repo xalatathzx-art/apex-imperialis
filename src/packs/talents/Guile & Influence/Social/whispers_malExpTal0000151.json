@@ -2,7 +2,7 @@
   "name": "Whispers",
   "type": "talent",
   "_id": "malExpTal0000151",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">+1SL on Rapport (Inquiry) after a week working in an area or with a Personal Contact</span></p><hr><p><span style=\"font-family: Arial\"><em>If you spend a week living in a locale, or having a Personal Contact (pg. 193) that operates in the area, you gain +1SL on Rapport (Inquiry) Tests. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

@@ -2,7 +2,7 @@
   "name": "Ceaseless Crusader",
   "type": "talent",
   "_id": "malExpTal0000165",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">May spend FP as free anytime action to remove Fatigue from self and all allies within Medium range. You are immune to it until end of combat</span></p><hr><p><span style=\"font-family: Arial\"><em>As an any-time Free Action, you may spend a Fate Point to ignore the effects of Fatigue until the end of the encounter. When you do so, each other friendly character within Medium Range removes the Fatigued condition as well if they had it. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

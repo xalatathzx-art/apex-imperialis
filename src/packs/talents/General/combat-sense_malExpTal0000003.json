@@ -2,7 +2,7 @@
   "name": "Combat Sense",
   "type": "talent",
   "_id": "malExpTal0000003",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">May calculate initiative as follows: 2 x PerB</span></p><hr><p><span style=\"font-family: Arial\"><em>You have the ability to consciously recognize the prodding of your subconscious as it reacts to your preternaturally sharp senses, giving you an edge that mere speed cannot match. You may use 2x Perception Bonus instead of Perception Bonus + Agility Bonus when determining your initiative</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

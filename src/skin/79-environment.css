@@ -1,7 +1,7 @@
 /* 79 ENVIRONMENT — scene readout and GM cogitator. */
 /* Виджет среды — приборная панель: подпись сверху, значение снизу, ячейки
    разделены тонкими линиями. Плавающая, заголовок служит ручкой. */
-body.navis-skin #navis-environment-widget {
+body.apex-skin #navis-environment-widget {
   position: fixed; z-index: 70; max-width: 78vw;
   display: flex; flex-direction: column; align-items: stretch;
   color: var(--navis-ink);
@@ -10,15 +10,15 @@ body.navis-skin #navis-environment-widget {
   box-shadow: 0 6px 20px #000a, inset 0 1px 0 #ffffff0a;
   clip-path: var(--navis-plate-sm, none);
 }
-body.navis-skin #navis-environment-widget.danger { border-left-color: var(--navis-danger); }
-body.navis-skin #navis-environment-widget .env-head {
+body.apex-skin #navis-environment-widget.danger { border-left-color: var(--navis-danger); }
+body.apex-skin #navis-environment-widget .env-head {
   display: flex; align-items: stretch; min-height: 38px;
   font-variant-numeric: tabular-nums; cursor: grab; user-select: none;
 }
-body.navis-skin #navis-environment-widget .env-head:active { cursor: grabbing; }
+body.apex-skin #navis-environment-widget .env-head:active { cursor: grabbing; }
 
 /* Название погоды — акцент слева. */
-body.navis-skin #navis-environment-widget .env-name {
+body.apex-skin #navis-environment-widget .env-name {
   display: flex; align-items: center; padding: 0 14px;
   color: var(--tone, var(--navis-brass));
   font: 600 13px var(--navis-font-stencil); letter-spacing: .1em; text-transform: uppercase;
@@ -26,61 +26,61 @@ body.navis-skin #navis-environment-widget .env-name {
 }
 
 /* Ячейки показателей. */
-body.navis-skin #navis-environment-widget .reading {
+body.apex-skin #navis-environment-widget .reading {
   display: flex; flex-direction: column; justify-content: center; gap: 1px;
   padding: 4px 12px; border-left: 1px solid #ffffff0f; white-space: nowrap;
 }
-body.navis-skin #navis-environment-widget .reading i {
+body.apex-skin #navis-environment-widget .reading i {
   color: #8a7f6d; font: 400 8px var(--navis-font-text);
   letter-spacing: .14em; text-transform: uppercase; font-style: normal;
 }
-body.navis-skin #navis-environment-widget .reading b {
+body.apex-skin #navis-environment-widget .reading b {
   color: var(--tone, #d8cdb9); font: 600 13px/1 var(--navis-font-text);
   text-shadow: 0 0 8px color-mix(in srgb, var(--tone, transparent) 35%, transparent);
 }
-body.navis-skin #navis-environment-widget .reading.idle b { color: #9a8f7c; font-weight: 400; text-shadow: none; }
-body.navis-skin #navis-environment-widget .reading.idle i { color: #6f6656; }
+body.apex-skin #navis-environment-widget .reading.idle b { color: #9a8f7c; font-weight: 400; text-shadow: none; }
+body.apex-skin #navis-environment-widget .reading.idle i { color: #6f6656; }
 
-body.navis-skin .navis-environment-app .window-content { background: var(--navis-panel); color: var(--navis-ink); }
-body.navis-skin .navis-env-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; padding: 12px; }
-body.navis-skin .navis-env-grid fieldset { border: 1px solid var(--navis-line); background: var(--navis-raised); }
-body.navis-skin .navis-env-grid legend { font-family: var(--navis-font-stencil); color: var(--navis-brass); text-transform: uppercase; }
-body.navis-skin .navis-env-grid label { display: grid; grid-template-columns: 1fr minmax(90px, 1.2fr); align-items: center; gap: 8px; margin: 5px 0; }
+body.apex-skin .navis-environment-app .window-content { background: var(--navis-panel); color: var(--navis-ink); }
+body.apex-skin .navis-env-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; padding: 12px; }
+body.apex-skin .navis-env-grid fieldset { border: 1px solid var(--navis-line); background: var(--navis-raised); }
+body.apex-skin .navis-env-grid legend { font-family: var(--navis-font-stencil); color: var(--navis-brass); text-transform: uppercase; }
+body.apex-skin .navis-env-grid label { display: grid; grid-template-columns: 1fr minmax(90px, 1.2fr); align-items: center; gap: 8px; margin: 5px 0; }
 
 /* Пояснение под полем: цветная планка тона и название зоны. Механики за ним
    нет — тон приходит инлайном из environment-readout.js. */
-body.navis-skin .navis-env-explain { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; margin: -2px 0 8px; padding: 5px 8px; background: #00000030; border-left: 3px solid var(--tone, var(--navis-brass)); font-size: 11px; line-height: 1.35; color: #a89c88; }
-body.navis-skin .navis-env-explain b { color: var(--tone, var(--navis-brass)); font-family: var(--navis-font-stencil); letter-spacing: .04em; }
-body.navis-skin .navis-env-explain em { color: #e06a5c; font-style: normal; font-weight: 600; }
-body.navis-skin .navis-env-explain.idle { opacity: .72; }
-body.navis-skin .navis-env-field { margin: 5px 0; }
-body.navis-skin .navis-env-inline { grid-template-columns: 18px 1fr !important; }
+body.apex-skin .navis-env-explain { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; margin: -2px 0 8px; padding: 5px 8px; background: #00000030; border-left: 3px solid var(--tone, var(--navis-brass)); font-size: 11px; line-height: 1.35; color: #a89c88; }
+body.apex-skin .navis-env-explain b { color: var(--tone, var(--navis-brass)); font-family: var(--navis-font-stencil); letter-spacing: .04em; }
+body.apex-skin .navis-env-explain em { color: #e06a5c; font-style: normal; font-weight: 600; }
+body.apex-skin .navis-env-explain.idle { opacity: .72; }
+body.apex-skin .navis-env-field { margin: 5px 0; }
+body.apex-skin .navis-env-inline { grid-template-columns: 18px 1fr !important; }
 
-body.navis-skin #navis-environment-widget .reading { color: var(--tone, #d8cdb9); font-weight: 600; white-space: nowrap; }
-body.navis-skin #navis-environment-widget .reading.idle { color: #9f927e; font-weight: 400; }
-body.navis-skin #navis-environment-widget b.void { color: #b477ff; }
+body.apex-skin #navis-environment-widget .reading { color: var(--tone, #d8cdb9); font-weight: 600; white-space: nowrap; }
+body.apex-skin #navis-environment-widget .reading.idle { color: #9f927e; font-weight: 400; }
+body.apex-skin #navis-environment-widget b.void { color: #b477ff; }
 
 /* Плавающие панели: заголовок — ручка перетаскивания, тело сворачивается. */
 
 /* Что погода делает с бросками: автоматическое и то, что применяет ведущий. */
-body.navis-skin .navis-env-auto { margin-top: 8px; padding: 7px 9px; background: #00000030; border-top: 1px solid var(--navis-line); }
-body.navis-skin .navis-env-auto h4 { margin: 0 0 5px; color: #b98a34; font: 600 10px var(--navis-font-stencil); letter-spacing: .08em; text-transform: uppercase; }
-body.navis-skin .navis-env-auto ul { margin: 0; padding: 0; list-style: none; }
-body.navis-skin .navis-env-auto li { position: relative; margin: 3px 0; padding-left: 14px; color: #a89c88; font-size: 11px; line-height: 1.35; }
-body.navis-skin .navis-env-auto li::before { content: ""; position: absolute; left: 2px; top: 6px; width: 5px; height: 5px; rotate: 45deg; background: #c47131; }
-body.navis-skin .navis-env-auto li.advantage::before { background: #8fe0b0; }
-body.navis-skin .navis-env-auto .weight { margin: 0 0 6px; padding-bottom: 5px; border-bottom: 1px solid #ffffff0d; color: #d5ad56; font-size: 11px; }
-body.navis-skin .navis-env-auto li.manual { color: #8d8272; }
-body.navis-skin .navis-env-auto li.manual::before { background: none; border: 1px solid #6d5528; }
+body.apex-skin .navis-env-auto { margin-top: 8px; padding: 7px 9px; background: #00000030; border-top: 1px solid var(--navis-line); }
+body.apex-skin .navis-env-auto h4 { margin: 0 0 5px; color: #b98a34; font: 600 10px var(--navis-font-stencil); letter-spacing: .08em; text-transform: uppercase; }
+body.apex-skin .navis-env-auto ul { margin: 0; padding: 0; list-style: none; }
+body.apex-skin .navis-env-auto li { position: relative; margin: 3px 0; padding-left: 14px; color: #a89c88; font-size: 11px; line-height: 1.35; }
+body.apex-skin .navis-env-auto li::before { content: ""; position: absolute; left: 2px; top: 6px; width: 5px; height: 5px; rotate: 45deg; background: #c47131; }
+body.apex-skin .navis-env-auto li.advantage::before { background: #8fe0b0; }
+body.apex-skin .navis-env-auto .weight { margin: 0 0 6px; padding-bottom: 5px; border-bottom: 1px solid #ffffff0d; color: #d5ad56; font-size: 11px; }
+body.apex-skin .navis-env-auto li.manual { color: #8d8272; }
+body.apex-skin .navis-env-auto li.manual::before { background: none; border: 1px solid #6d5528; }
 
 /* Подпись под заголовком правой колонки: показатели — ручные. */
-body.navis-skin .navis-env-hint { margin: 0 0 8px; color: #82786a; font-size: 10px; line-height: 1.35; }
-body.navis-skin .navis-env-auto .idle { margin: 0; color: #82786a; font-size: 11px; }
-body.navis-skin .navis-env-note { grid-template-columns: 1fr !important; }
-body.navis-skin .navis-env-note textarea { width: 100%; min-height: 54px; resize: vertical; }
+body.apex-skin .navis-env-hint { margin: 0 0 8px; color: #82786a; font-size: 10px; line-height: 1.35; }
+body.apex-skin .navis-env-auto .idle { margin: 0; color: #82786a; font-size: 11px; }
+body.apex-skin .navis-env-note { grid-template-columns: 1fr !important; }
+body.apex-skin .navis-env-note textarea { width: 100%; min-height: 54px; resize: vertical; }
 /* Колонки выравниваются по верху, а не растягиваются друг под друга. */
-body.navis-skin .navis-env-grid { align-items: start; }
-body.navis-skin .navis-env-block { display: flex; flex-direction: column; padding: 4px 10px 10px; }
+body.apex-skin .navis-env-grid { align-items: start; }
+body.apex-skin .navis-env-block { display: flex; flex-direction: column; padding: 4px 10px 10px; }
 
 
 /* ── Полоса нагрузки ───────────────────────────────────────────────────────
@@ -88,83 +88,83 @@ body.navis-skin .navis-env-block { display: flex; flex-direction: column; paddin
    (0,5,0) и тематическое правило риски `body.impmal-theme … .threshold`
    (0,7,0). Поэтому селекторы повторяют системные целиком, а у риски класс
    продублирован — иначе тема перевешивает и треугольник остаётся. */
-body.navis-skin .application.impmal.actor .tab[data-tab=equipment] .bar-section {
+body.apex-skin .application.impmal.actor .tab[data-tab=equipment] .bar-section {
   display: flex; align-items: center;
 }
-body.navis-skin .application.impmal.actor .tab[data-tab=equipment] .bar-section .bar-container {
+body.apex-skin .application.impmal.actor .tab[data-tab=equipment] .bar-section .bar-container {
   position: relative; width: 100%; height: 22px; margin: 0;
   background: #0c0a08; border: 1px solid var(--navis-line);
   border-radius: 0; overflow: hidden;
 }
-body.navis-skin .application.impmal.actor .tab[data-tab=equipment] .bar-section .bar-container .bar {
+body.apex-skin .application.impmal.actor .tab[data-tab=equipment] .bar-section .bar-container .bar {
   height: 100%; border-radius: 0; opacity: .5;
 }
 /* Риска порога вместо торчащего наружу треугольника. */
-body.navis-skin .application.impmal.actor .bar-section .bar-container .threshold.threshold {
+body.apex-skin .application.impmal.actor .bar-section .bar-container .threshold.threshold {
   position: absolute; z-index: 1; top: 0; bottom: 0; width: 0; height: auto;
   margin: 0; border: 0; border-left: 1px dashed #ffffff66;
 }
-body.navis-skin .navis-bar-readout {
+body.apex-skin .navis-bar-readout {
   position: absolute; z-index: 2; inset: 0; display: flex; align-items: center;
   padding: 0 9px; font-variant-numeric: tabular-nums;
   text-shadow: 0 1px 2px #000, 0 0 6px #000;
 }
-body.navis-skin .navis-bar-readout b { color: #f2e6cc; font: 600 12px/1 var(--navis-font-text); }
-body.navis-skin .navis-bar-readout.state1 b { color: #ffd9b8; }
-body.navis-skin .navis-bar-readout.state2 b { color: #ffc8c0; }
+body.apex-skin .navis-bar-readout b { color: #f2e6cc; font: 600 12px/1 var(--navis-font-text); }
+body.apex-skin .navis-bar-readout.state1 b { color: #ffd9b8; }
+body.apex-skin .navis-bar-readout.state2 b { color: #ffc8c0; }
 
 /* ── Заряд варпа ───────────────────────────────────────────────────────────
    `.application.impmal.actor .tab[data-tab=powers] .warp-charge .attribute-box`
    даёт блоку `flex: 0 0 8rem` и полную высоту поля. Повторяем селектор
    целиком, иначе он перевешивает и строка остаётся высокой. */
-body.navis-skin .application.impmal.actor .tab[data-tab=powers] .warp-charge {
+body.apex-skin .application.impmal.actor .tab[data-tab=powers] .warp-charge {
   gap: 10px; align-items: center;
 }
-body.navis-skin .application.impmal.actor .tab[data-tab=powers] .warp-charge .attribute-box {
+body.apex-skin .application.impmal.actor .tab[data-tab=powers] .warp-charge .attribute-box {
   flex: 0 0 auto; display: flex; flex-wrap: nowrap; align-items: center; gap: 8px;
   width: auto; height: 30px; min-height: 0; padding: 0 10px;
 }
 /* Подпись растягивалась на всю ширину и при flex-wrap:wrap выдавливала поля
    на вторую строку — отсюда высокий блок. */
-body.navis-skin .application.impmal.actor .tab[data-tab=powers] .warp-charge .attribute-box .label {
+body.apex-skin .application.impmal.actor .tab[data-tab=powers] .warp-charge .attribute-box .label {
   flex: 0 0 auto; width: auto;
 }
-body.navis-skin .application.impmal.actor .tab[data-tab=powers] .warp-charge .attribute-box .field {
+body.apex-skin .application.impmal.actor .tab[data-tab=powers] .warp-charge .attribute-box .field {
   flex: 0 0 auto; width: auto;
 }
-body.navis-skin .application.impmal.actor .tab[data-tab=powers] .warp-charge .attribute-box > div {
+body.apex-skin .application.impmal.actor .tab[data-tab=powers] .warp-charge .attribute-box > div {
   grid-column: auto !important;
 }
-body.navis-skin .application.impmal.actor .tab[data-tab=powers] .warp-charge .attribute-box .label label {
+body.apex-skin .application.impmal.actor .tab[data-tab=powers] .warp-charge .attribute-box .label label {
   margin: 0; font-size: 9px; letter-spacing: .1em; white-space: nowrap;
 }
-body.navis-skin .application.impmal.actor .tab[data-tab=powers] .warp-charge .attribute-box .field input {
+body.apex-skin .application.impmal.actor .tab[data-tab=powers] .warp-charge .attribute-box .field input {
   width: 34px; height: 20px; min-height: 0; padding: 0 3px; font-size: 12px; text-align: center;
 }
-body.navis-skin .application.impmal.actor .tab[data-tab=powers] .warp-charge .bar-container {
+body.apex-skin .application.impmal.actor .tab[data-tab=powers] .warp-charge .bar-container {
   height: 30px; border-radius: 0;
 }
-body.navis-skin .application.impmal.actor .tab[data-tab=powers] .warp-charge .bar-container .perils {
+body.apex-skin .application.impmal.actor .tab[data-tab=powers] .warp-charge .bar-container .perils {
   top: 7px; font-size: 11px;
 }
 
 /* Бой двумя оружиями без подходящей пары: место в ряду занято, кнопка глухая. */
-body.navis-skin .application.impmal.actor .action-list .navis-twf-off {
+body.apex-skin .application.impmal.actor .action-list .navis-twf-off {
   opacity: .38; cursor: not-allowed; filter: grayscale(.6);
 }
-body.navis-skin .application.impmal.actor .action-list .navis-twf-off:hover {
+body.apex-skin .application.impmal.actor .action-list .navis-twf-off:hover {
   box-shadow: none; border-color: var(--navis-line);
 }
 
 /* Некупленные специализации: та же строка, что у своих, только приглушённая —
    чтобы лист читался одинаково, а разница всё же была видна. */
-body.navis-skin .application.impmal.actor .row-content.specialisation.navis-spec-pick {
+body.apex-skin .application.impmal.actor .row-content.specialisation.navis-spec-pick {
   opacity: .62; cursor: pointer;
 }
-body.navis-skin .application.impmal.actor .row-content.specialisation.navis-spec-pick:hover {
+body.apex-skin .application.impmal.actor .row-content.specialisation.navis-spec-pick:hover {
   opacity: 1; background: #ffffff08;
 }
-body.navis-skin .application.impmal.actor .row-content.specialisation.navis-spec-pick .list-name {
+body.apex-skin .application.impmal.actor .row-content.specialisation.navis-spec-pick .list-name {
   font-style: italic;
 }
 
@@ -179,7 +179,7 @@ body.navis-skin .application.impmal.actor .row-content.specialisation.navis-spec
    безслойные объявления сильнее любого слоя, каким бы тяжёлым ни был селектор.
    Зато для `!important` порядок слоёв переворачивается, и объявление из слоя
    перебивает безслойное. Проверено в живом листе. */
-body.navis-skin .application.impmal.actor nav.sheet-tabs {
+body.apex-skin .application.impmal.actor nav.sheet-tabs {
   display: flex !important; flex-wrap: wrap; justify-content: center;
   gap: 2px; padding: 4px 0 !important;
   border-bottom: 0 !important;   /* полоса под названиями не нужна */
@@ -189,27 +189,27 @@ body.navis-skin .application.impmal.actor nav.sheet-tabs {
    целиком, а перенос случается только когда текст правда не помещается.
    Кегль подобран так, чтобы восемь вкладок с полными названиями легли в одну
    строку на листе шириной 613px; девятая переносится, не обрезаясь. */
-body.navis-skin .application.impmal.actor nav.sheet-tabs > a {
+body.apex-skin .application.impmal.actor nav.sheet-tabs > a {
   flex: 1 1 0 !important; min-width: max-content !important; max-width: 34%;
   padding: 3px 4px !important; text-align: center; white-space: nowrap;
   color: #9a8f7c; background: #15120d;
   border: 1px solid #2b2418 !important; border-radius: 0 !important;
   font-size: .84em; transition: color .12s, border-color .12s, background .12s;
 }
-body.navis-skin .application.impmal.actor nav.sheet-tabs > a:hover {
+body.apex-skin .application.impmal.actor nav.sheet-tabs > a:hover {
   color: #ffe9b0; background: #1f1a11; border-color: #8a6b31 !important;
 }
-body.navis-skin .application.impmal.actor nav.sheet-tabs > a.active {
+body.apex-skin .application.impmal.actor nav.sheet-tabs > a.active {
   color: var(--navis-brass); background: #1d1810;
   border-color: var(--navis-brass) !important;
 }
 /* Подчёркивание активной вкладки ядро рисует псевдоэлементом — оно лишнее. */
-body.navis-skin .application.impmal.actor nav.sheet-tabs > a::before,
-body.navis-skin .application.impmal.actor nav.sheet-tabs > a::after {
+body.apex-skin .application.impmal.actor nav.sheet-tabs > a::before,
+body.apex-skin .application.impmal.actor nav.sheet-tabs > a::after {
   display: none !important;
 }
 
 /* Затенённый БДО стоит в ряду атаки — ужимаем как остальные кнопки ряда. */
-body.navis-skin .application.impmal.actor .navis-action-row .navis-twf-off {
+body.apex-skin .application.impmal.actor .navis-action-row .navis-twf-off {
   opacity: .38; cursor: not-allowed; filter: grayscale(.6);
 }

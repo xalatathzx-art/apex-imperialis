@@ -15,30 +15,30 @@
    ══════════════════════════════════════════════════════════════════════ */
 
 /* impmal-core: `body { background: url(background.webp) }` */
-body.navis-skin {
+body.apex-skin {
   background: var(--navis-ground);
 }
 
 /* impmal-core: `body.impmal-theme .sidebar-tab { background-image: sidebar.webp }` */
-body.navis-skin .sidebar-tab.sidebar-tab {
+body.apex-skin .sidebar-tab.sidebar-tab {
   background-image: none;
   background-color: rgba(10, 10, 11, 0.94);
 }
 
 /* impmal-core: `body.impmal-theme .sheet.journal-entry .journal-sidebar` */
-body.navis-skin .sheet.journal-entry .journal-sidebar.journal-sidebar {
+body.apex-skin .sheet.journal-entry .journal-sidebar.journal-sidebar {
   background-image: none;
   background-color: var(--navis-surface);
   border-right: 1px solid var(--navis-line);
 }
 
 /* impmal-core: `body.impmal-theme #pause` — a teal band in Novarese. */
-body.navis-skin #pause#pause {
+body.apex-skin #pause#pause {
   background: linear-gradient(to right, transparent 0%, rgba(10, 10, 11, 0.88) 35%, rgba(10, 10, 11, 0.88) 65%, transparent 100%);
   border-top: 1px solid var(--navis-brass-dim);
   border-bottom: 1px solid var(--navis-brass-dim);
 }
-body.navis-skin #pause#pause figcaption {
+body.apex-skin #pause#pause figcaption {
   font-family: var(--navis-font-stencil);
   text-transform: uppercase;
   letter-spacing: 6px;

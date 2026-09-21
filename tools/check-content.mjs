@@ -54,7 +54,7 @@ const systemKeys = systemTraitKeys();
 /**
  * Trait keys this module deliberately leaves unregistered.
  *
- * Maledictum Expanded's forty trait names were removed from config/glossary.js;
+ * The imported forty trait names were removed from config/glossary.js;
  * these nine are still written on ported bestiary weapons, so they render as a
  * blank chip. That is the accepted cost of dropping the layer — Gauss, Phase and
  * Tesla keep their mechanics regardless, because those hang off

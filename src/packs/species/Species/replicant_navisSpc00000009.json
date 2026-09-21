@@ -1,8 +1,8 @@
 {
   "name": "Replicant",
-  "type": "navis-apexialis.species",
+  "type": "apex-imperialis.species",
   "_id": "navisSpc00000009",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder001",
   "sort": 900,
   "system": {
@@ -60,19 +60,19 @@
     "grantedTraits": {
       "list": [
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0024",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0024",
           "id": "navisSpTrait0024",
           "name": "Serum Hook",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0025",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0025",
           "id": "navisSpTrait0025",
           "name": "Expiration Date",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0026",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0026",
           "id": "navisSpTrait0026",
           "name": "Hypno-Scars",
           "diff": {}
@@ -82,7 +82,7 @@
     "talents": {
       "list": [
         {
-          "uuid": "Compendium.navis-apexialis.navis-talents.Item.malExpTal0000055",
+          "uuid": "Compendium.apex-imperialis.navis-talents.Item.malExpTal0000055",
           "id": "malExpTal0000055",
           "name": "Die Hard",
           "diff": {}
@@ -100,7 +100,7 @@
     {
       "_id": "navisSpFx0000009",
       "name": "Replicant — physiology",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "changes": [
         {
           "key": "system.combat.wounds.max",
@@ -122,7 +122,7 @@
       "description": "",
       "statuses": [],
       "flags": {
-        "navis-apexialis": {
+        "apex-imperialis": {
           "source": "DoomBC_Core",
           "generated": "tools/make-species.mjs"
         }
@@ -138,7 +138,7 @@
     }
   ],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "DoomBC_Core",
       "generated": "tools/make-species.mjs"
     }

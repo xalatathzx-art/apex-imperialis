@@ -2,7 +2,7 @@
   "name": "Astartes Power Armour",
   "type": "protection",
   "_id": "navisSpGear00005",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder004",
   "sort": 500,
   "system": {
@@ -53,7 +53,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "DoomBC_Core",
       "generated": "tools/make-species.mjs"
     }

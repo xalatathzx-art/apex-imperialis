@@ -6,16 +6,16 @@
  "name": "Оружие ближнего боя",
  "runs": {
   "8": {
-   "en": "The Inquisition has a unique arsenal of Melee Weapons; each forged to fight the specific enemies of each Major Ordo or draw upon their enemy’s powers in unique ways to turn the tide. General rules for wielding @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.novkkBnSD2XC7Lgh]{Melee Weapons} are outlined in ",
-   "ru": "У Инквизиции особый арсенал оружия ближнего боя; каждое выковано для борьбы с особыми врагами одного из Великих ордосов или по-своему черпает силы врага, чтобы переломить ход битвы. Общие правила использования @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.novkkBnSD2XC7Lgh]{оружия ближнего боя} изложены в книге "
+   "en": "The Inquisition has a unique arsenal of Melee Weapons; each forged to fight the specific enemies of each Major Ordo or draw upon their enemy’s powers in unique ways to turn the tide. General rules for wielding @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.novkkBnSD2XC7Lgh]{Melee Weapons} are outlined in ",
+   "ru": "У Инквизиции особый арсенал оружия ближнего боя; каждое выковано для борьбы с особыми врагами одного из Великих ордосов или по-своему черпает силы врага, чтобы переломить ход битвы. Общие правила использования @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.novkkBnSD2XC7Lgh]{оружия ближнего боя} изложены в книге "
   },
   "12": {
    "en": "Imperium Maledictum",
    "ru": "Imperium Maledictum"
   },
   "16": {
-   "en": ", along with related @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#weapons-and-armour-traits]{Weapon and Armour Traits} and related @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.novkkBnSD2XC7Lgh#melee-weapon-types]{Melee Weapon Types}.",
-   "ru": " вместе с соответствующими @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#weapons-and-armour-traits]{свойствами оружия и брони} и @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.novkkBnSD2XC7Lgh#melee-weapon-types]{типами оружия ближнего боя}."
+   "en": ", along with related @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#weapons-and-armour-traits]{Weapon and Armour Traits} and related @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.novkkBnSD2XC7Lgh#melee-weapon-types]{Melee Weapon Types}.",
+   "ru": " вместе с соответствующими @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#weapons-and-armour-traits]{свойствами оружия и брони} и @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.novkkBnSD2XC7Lgh#melee-weapon-types]{типами оружия ближнего боя}."
   },
   "20": {
    "en": "Exotic Melee Weapons",
@@ -30,8 +30,8 @@
    "ru": "Обыденное оружие"
   },
   "32": {
-   "en": "These weapons often predate the Imperium. They were simple tools once made of metal and wood, derived from primal Human designs. @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.novkkBnSD2XC7Lgh#mundane-weapons]{Mundane Weapons} typically have only a few simple Traits.",
-   "ru": "Такое оружие часто древнее самого Империума. Когда-то это были простые орудия из металла и дерева, восходящие к первобытным человеческим образцам. У @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.novkkBnSD2XC7Lgh#mundane-weapons]{обыденного оружия} обычно лишь несколько простых свойств."
+   "en": "These weapons often predate the Imperium. They were simple tools once made of metal and wood, derived from primal Human designs. @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.novkkBnSD2XC7Lgh#mundane-weapons]{Mundane Weapons} typically have only a few simple Traits.",
+   "ru": "Такое оружие часто древнее самого Империума. Когда-то это были простые орудия из металла и дерева, восходящие к первобытным человеческим образцам. У @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.novkkBnSD2XC7Lgh#mundane-weapons]{обыденного оружия} обычно лишь несколько простых свойств."
   },
   "36": {
    "en": "Daemonbane Weapons",
@@ -50,24 +50,24 @@
    "ru": "Тайной ковки оружия «Немезида», если она вообще ещё известна, владеет лишь горстка инквизиторов Ордо Маллеус. Известно, что цена за это высока, — и так и должно быть, иначе столь действенное оружие наверняка встречалось бы чаще."
   },
   "54": {
-   "en": "The Inquisitor Vespar Draal of the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq.JournalEntryPage.AyQTdRJpdVm3zqdF#ordo-hereticus]{Ordo Hereticus} is known to have set out to learn the means of forging such a weapon centuries ago, for he suspected his compatriots in the Ordo Malleus of corruption most foul. Though it is said he was successful, the endeavour would ultimately claim his life. His belongings are held within Vault of Follies on Suluk. These amount to a handful of his surviving written records, alongisde a great hammer of a dark metal. His grimoire is said to contain, among other things, the most accurate account of the death of Lord Solar Macharius, and the true name of a Greater Daemon.",
-   "ru": "Известно, что инквизитор Веспар Драал из @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq.JournalEntryPage.AyQTdRJpdVm3zqdF#ordo-hereticus]{Ордо Еретикус} века назад задался целью узнать способ ковки такого оружия, ибо подозревал своих соратников из Ордо Маллеус в мерзейшей порче. Говорят, он преуспел, но в итоге это начинание стоило ему жизни. Его вещи хранятся в Хранилище Безумств на Сулуке. Это горстка уцелевших записей и огромный молот из тёмного металла. Говорят, в его гримуаре, помимо прочего, содержится точнейший рассказ о смерти лорда-командующего Махария и истинное имя Великого демона."
+   "en": "The Inquisitor Vespar Draal of the @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq.JournalEntryPage.AyQTdRJpdVm3zqdF#ordo-hereticus]{Ordo Hereticus} is known to have set out to learn the means of forging such a weapon centuries ago, for he suspected his compatriots in the Ordo Malleus of corruption most foul. Though it is said he was successful, the endeavour would ultimately claim his life. His belongings are held within Vault of Follies on Suluk. These amount to a handful of his surviving written records, alongisde a great hammer of a dark metal. His grimoire is said to contain, among other things, the most accurate account of the death of Lord Solar Macharius, and the true name of a Greater Daemon.",
+   "ru": "Известно, что инквизитор Веспар Драал из @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq.JournalEntryPage.AyQTdRJpdVm3zqdF#ordo-hereticus]{Ордо Еретикус} века назад задался целью узнать способ ковки такого оружия, ибо подозревал своих соратников из Ордо Маллеус в мерзейшей порче. Говорят, он преуспел, но в итоге это начинание стоило ему жизни. Его вещи хранятся в Хранилище Безумств на Сулуке. Это горстка уцелевших записей и огромный молот из тёмного металла. Говорят, в его гримуаре, помимо прочего, содержится точнейший рассказ о смерти лорда-командующего Махария и истинное имя Великого демона."
   },
   "64": {
    "en": "Null",
    "ru": "Нулевое"
   },
   "74": {
-   "en": "Null weapons are crafted to syphon away psychic energies, weakening daemonic entities and robbing rogue psykers of their power. Tests made to Manifest a psychic power that targets the Zone of the wielder, any individual within that zone, or made within Short Range of a wielder of a Null weapon, suffers from Disadvantage. Additionally, daemons treat the Zone of a wielder with a Null weapon as a @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#hazard]{Minor Hazard}.",
-   "ru": "Нулевое оружие создано, чтобы вытягивать психическую энергию, ослабляя демонические сущности и лишая сил псайкеров-отступников. Проверки проявления психической силы, нацеленной на зону владельца нулевого оружия, на любого в этой зоне или проходящие на ближней дистанции от владельца нулевого оружия, проходят с помехой. Кроме того, для демонов зона владельца нулевого оружия считается @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#hazard]{слегка опасной местностью}."
+   "en": "Null weapons are crafted to syphon away psychic energies, weakening daemonic entities and robbing rogue psykers of their power. Tests made to Manifest a psychic power that targets the Zone of the wielder, any individual within that zone, or made within Short Range of a wielder of a Null weapon, suffers from Disadvantage. Additionally, daemons treat the Zone of a wielder with a Null weapon as a @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#hazard]{Minor Hazard}.",
+   "ru": "Нулевое оружие создано, чтобы вытягивать психическую энергию, ослабляя демонические сущности и лишая сил псайкеров-отступников. Проверки проявления психической силы, нацеленной на зону владельца нулевого оружия, на любого в этой зоне или проходящие на ближней дистанции от владельца нулевого оружия, проходят с помехой. Кроме того, для демонов зона владельца нулевого оружия считается @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#hazard]{слегка опасной местностью}."
   },
   "78": {
    "en": "Power Weapons",
    "ru": "Силовое оружие"
   },
   "82": {
-   "en": "Typically reserved for the exceptionally wealthy, well-connected, or higher-ranking members of the Imperium’s military. They are deadly close combat weapons that, by using little-understood technology, generate a disruption energy field that amplifies their lethality. Power weapons often deal high Damage and have the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#penetrating-(rating)]{Penetrating} Trait while active. The following weapons have additional abilities, noted at the end of their entries.",
-   "ru": "Обычно доступно лишь исключительно богатым, хорошо связанным или высокопоставленным военным Империума. Это смертоносное оружие ближнего боя, которое с помощью малопонятной технологии создаёт разрушающее энергетическое поле, усиливающее его смертоносность. Силовое оружие обычно наносит большой урон и, пока активно, обладает свойством @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#penetrating-(rating)]{«Бронебойное»}. У следующего оружия есть дополнительные способности, указанные в конце их описаний."
+   "en": "Typically reserved for the exceptionally wealthy, well-connected, or higher-ranking members of the Imperium’s military. They are deadly close combat weapons that, by using little-understood technology, generate a disruption energy field that amplifies their lethality. Power weapons often deal high Damage and have the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#penetrating-(rating)]{Penetrating} Trait while active. The following weapons have additional abilities, noted at the end of their entries.",
+   "ru": "Обычно доступно лишь исключительно богатым, хорошо связанным или высокопоставленным военным Империума. Это смертоносное оружие ближнего боя, которое с помощью малопонятной технологии создаёт разрушающее энергетическое поле, усиливающее его смертоносность. Силовое оружие обычно наносит большой урон и, пока активно, обладает свойством @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#penetrating-(rating)]{«Бронебойное»}. У следующего оружия есть дополнительные способности, указанные в конце их описаний."
   },
   "86": {
    "en": "Tainted Weapons",
@@ -102,8 +102,8 @@
    "ru": "Диковинное оружие ближнего боя"
   },
   "160": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.afJLuzjnptJUfead]{Blink-Blade}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.afJLuzjnptJUfead]{Мерцающий клинок}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.afJLuzjnptJUfead]{Blink-Blade}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.afJLuzjnptJUfead]{Мерцающий клинок}"
   },
   "166": {
    "en": "One Handed",
@@ -118,8 +118,8 @@
    "ru": "Диковинная"
   },
   "184": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.qhWOJgRnsrcmfo1s]{Scythian Venom Talon}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.qhWOJgRnsrcmfo1s]{Ядовитый коготь Скифии}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.qhWOJgRnsrcmfo1s]{Scythian Venom Talon}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.qhWOJgRnsrcmfo1s]{Ядовитый коготь Скифии}"
   },
   "190": {
    "en": "One Handed",
@@ -138,8 +138,8 @@
    "ru": "Обыденное оружие"
   },
   "216": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.P4QWuSrzvsxZkpjy]{Duelling Glaive}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.P4QWuSrzvsxZkpjy]{Дуэльная глефа}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.P4QWuSrzvsxZkpjy]{Duelling Glaive}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.P4QWuSrzvsxZkpjy]{Дуэльная глефа}"
   },
   "220": {
    "en": "Two Handed",
@@ -158,8 +158,8 @@
    "ru": "Оружие «Немезида»"
   },
   "244": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ra4EI3fMN7L9fVLt]{Daemonhammer}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ra4EI3fMN7L9fVLt]{Одноручный демон-молот}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.ra4EI3fMN7L9fVLt]{Daemonhammer}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.ra4EI3fMN7L9fVLt]{Одноручный демон-молот}"
   },
   "248": {
    "en": "One Handed",
@@ -174,8 +174,8 @@
    "ru": "Диковинная"
   },
   "264": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ra4EI3fMN7L9fVLt]{Daemonhammer}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ra4EI3fMN7L9fVLt]{Одноручный демон-молот}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.ra4EI3fMN7L9fVLt]{Daemonhammer}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.ra4EI3fMN7L9fVLt]{Одноручный демон-молот}"
   },
   "268": {
    "en": "Two Handed",
@@ -190,8 +190,8 @@
    "ru": "Диковинная"
   },
   "284": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.W2LpU3JDTLmslpe0]{Nemesis Daemonhammer}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.W2LpU3JDTLmslpe0]{Одноручный демон-молот «Немезида»}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.W2LpU3JDTLmslpe0]{Nemesis Daemonhammer}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.W2LpU3JDTLmslpe0]{Одноручный демон-молот «Немезида»}"
   },
   "288": {
    "en": "One Handed",
@@ -206,8 +206,8 @@
    "ru": "Диковинная"
   },
   "304": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.W2LpU3JDTLmslpe0]{Nemesis Daemonhammer}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.W2LpU3JDTLmslpe0]{Одноручный демон-молот «Немезида»}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.W2LpU3JDTLmslpe0]{Nemesis Daemonhammer}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.W2LpU3JDTLmslpe0]{Одноручный демон-молот «Немезида»}"
   },
   "308": {
    "en": "Two Handed",
@@ -222,8 +222,8 @@
    "ru": "Диковинная"
   },
   "324": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.vk2cj2VV3IZYcT9K]{Truename Staff}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.vk2cj2VV3IZYcT9K]{Посох истинного имени}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.vk2cj2VV3IZYcT9K]{Truename Staff}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.vk2cj2VV3IZYcT9K]{Посох истинного имени}"
   },
   "328": {
    "en": "Two Handed",
@@ -242,8 +242,8 @@
    "ru": "Нулевое оружие"
   },
   "352": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.orOXlTrGQbiPEGfC]{Null Rod}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.orOXlTrGQbiPEGfC]{Нуль-жезл}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.orOXlTrGQbiPEGfC]{Null Rod}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.orOXlTrGQbiPEGfC]{Нуль-жезл}"
   },
   "356": {
    "en": "Two Handed",
@@ -262,8 +262,8 @@
    "ru": "Силовое оружие"
   },
   "380": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.C8R9eFDZWtkLI9Oa]{Aeldari Power Sword}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.C8R9eFDZWtkLI9Oa]{Силовой меч аэльдари}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.C8R9eFDZWtkLI9Oa]{Aeldari Power Sword}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.C8R9eFDZWtkLI9Oa]{Силовой меч аэльдари}"
   },
   "384": {
    "en": "One Handed",
@@ -278,8 +278,8 @@
    "ru": "Диковинная"
   },
   "400": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.aMTMi6CfZIo46S6v]{Executioner Greatblade}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.aMTMi6CfZIo46S6v]{Двуручный клинок палача}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.aMTMi6CfZIo46S6v]{Executioner Greatblade}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.aMTMi6CfZIo46S6v]{Двуручный клинок палача}"
   },
   "404": {
    "en": "Two Handed",
@@ -294,8 +294,8 @@
    "ru": "Диковинная"
   },
   "420": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ez30hpgFYrPj3gqI]{Power Stake}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ez30hpgFYrPj3gqI]{Силовой кол}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.ez30hpgFYrPj3gqI]{Power Stake}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.ez30hpgFYrPj3gqI]{Силовой кол}"
   },
   "424": {
    "en": "Two Handed",
@@ -310,8 +310,8 @@
    "ru": "Редкая"
   },
   "440": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.mYqlFOVZAInHnQbe]{Xenophase Blade}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.mYqlFOVZAInHnQbe]{Ксенофазный клинок}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.mYqlFOVZAInHnQbe]{Xenophase Blade}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.mYqlFOVZAInHnQbe]{Ксенофазный клинок}"
   },
   "444": {
    "en": "One Handed",
@@ -330,8 +330,8 @@
    "ru": "Осквернённое оружие"
   },
   "468": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ucp7Z81P4kMxGcMN]{Daemonblade}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ucp7Z81P4kMxGcMN]{Демон-клинок}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.ucp7Z81P4kMxGcMN]{Daemonblade}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.ucp7Z81P4kMxGcMN]{Демон-клинок}"
   },
   "472": {
    "en": "Two Handed",
@@ -346,8 +346,8 @@
    "ru": "Диковинная"
   },
   "488": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Z9w5Zceh9qvjOvoY]{Tainted Blade}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Z9w5Zceh9qvjOvoY]{Осквернённый клинок}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Z9w5Zceh9qvjOvoY]{Tainted Blade}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Z9w5Zceh9qvjOvoY]{Осквернённый клинок}"
   },
   "492": {
    "en": "One Handed",

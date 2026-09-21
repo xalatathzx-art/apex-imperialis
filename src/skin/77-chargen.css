@@ -20,7 +20,7 @@
 
 /* ── Both windows ────────────────────────────────────────────────────────── */
 
-body.navis-skin .window-app:is(.chargen, .chargen-stage) {
+body.apex-skin .window-app:is(.chargen, .chargen-stage) {
   background: var(--navis-window);
   min-width: 470px;
   border: 1px solid var(--navis-line);
@@ -31,7 +31,7 @@ body.navis-skin .window-app:is(.chargen, .chargen-stage) {
   font-family: var(--navis-font-text);
 }
 
-body.navis-skin .window-app:is(.chargen, .chargen-stage) .window-header {
+body.apex-skin .window-app:is(.chargen, .chargen-stage) .window-header {
   background: var(--navis-surface);
   border-bottom: 1px solid var(--navis-brass-dim);
   border-radius: 0;
@@ -43,19 +43,19 @@ body.navis-skin .window-app:is(.chargen, .chargen-stage) .window-header {
   color: var(--navis-brass);
 }
 
-body.navis-skin .window-app:is(.chargen, .chargen-stage) .window-content {
+body.apex-skin .window-app:is(.chargen, .chargen-stage) .window-content {
   background: var(--navis-window);
   color: var(--navis-ink);
   padding: 12px;
 }
 
 /* impmal's own note about the window being unstyled. We have answered it. */
-body.navis-skin .window-app.chargen p.note.warn {
+body.apex-skin .window-app.chargen p.note.warn {
   display: none;
 }
 
 /* Headings shared by every stage. */
-body.navis-skin .window-app:is(.chargen, .chargen-stage) :is(h3, h4) {
+body.apex-skin .window-app:is(.chargen, .chargen-stage) :is(h3, h4) {
   margin: 0;
   border: 0;
   font-family: var(--navis-font-stencil);
@@ -64,15 +64,15 @@ body.navis-skin .window-app:is(.chargen, .chargen-stage) :is(h3, h4) {
   text-transform: uppercase;
   color: var(--navis-brass);
 }
-body.navis-skin .window-app:is(.chargen, .chargen-stage) h3 {
+body.apex-skin .window-app:is(.chargen, .chargen-stage) h3 {
   font-size: 15px;
 }
-body.navis-skin .window-app:is(.chargen, .chargen-stage) h4 {
+body.apex-skin .window-app:is(.chargen, .chargen-stage) h4 {
   font-size: 12px;
 }
 
 /* Buttons: the same plate as the rest of the skin. */
-body.navis-skin .window-app:is(.chargen, .chargen-stage) button {
+body.apex-skin .window-app:is(.chargen, .chargen-stage) button {
   height: 28px;
   background: var(--navis-raised);
   border: 1px solid var(--navis-line);
@@ -86,38 +86,38 @@ body.navis-skin .window-app:is(.chargen, .chargen-stage) button {
   color: var(--navis-ink-muted);
   transition: color var(--navis-transition), border-color var(--navis-transition);
 }
-body.navis-skin .window-app:is(.chargen, .chargen-stage) button:hover:not(:disabled) {
+body.apex-skin .window-app:is(.chargen, .chargen-stage) button:hover:not(:disabled) {
   background: var(--navis-raised);
   border-color: var(--navis-brass-dim);
   color: var(--navis-brass-lit);
   box-shadow: none;
   text-shadow: none;
 }
-body.navis-skin .window-app:is(.chargen, .chargen-stage) button:disabled {
+body.apex-skin .window-app:is(.chargen, .chargen-stage) button:disabled {
   opacity: 0.4;
 }
 
 /* The confirm button is the one thing that commits, so it reads as the accent. */
-body.navis-skin .window-app:is(.chargen, .chargen-stage) .controls {
+body.apex-skin .window-app:is(.chargen, .chargen-stage) .controls {
   margin-top: 12px;
   padding-top: 10px;
   border-top: 1px solid var(--navis-line);
 }
-body.navis-skin .window-app:is(.chargen, .chargen-stage) .controls button[type="submit"] {
+body.apex-skin .window-app:is(.chargen, .chargen-stage) .controls button[type="submit"] {
   width: 100%;
   height: 32px;
   background: var(--navis-accent-dim);
   border-color: var(--navis-accent);
   color: var(--navis-ink);
 }
-body.navis-skin .window-app:is(.chargen, .chargen-stage) .controls button[type="submit"]:hover {
+body.apex-skin .window-app:is(.chargen, .chargen-stage) .controls button[type="submit"]:hover {
   background: var(--navis-accent);
   border-color: var(--navis-accent-lit);
   color: var(--navis-ground);
 }
 
 /* Fields, wherever a stage asks for one. */
-body.navis-skin .window-app:is(.chargen, .chargen-stage) :is(input, select) {
+body.apex-skin .window-app:is(.chargen, .chargen-stage) :is(input, select) {
   height: 26px;
   background: var(--navis-field);
   border: 1px solid var(--navis-line);
@@ -126,7 +126,7 @@ body.navis-skin .window-app:is(.chargen, .chargen-stage) :is(input, select) {
   font-size: var(--navis-size-body);
   color: var(--navis-ink);
 }
-body.navis-skin .window-app:is(.chargen, .chargen-stage) :is(input, select):focus {
+body.apex-skin .window-app:is(.chargen, .chargen-stage) :is(input, select):focus {
   background: var(--navis-field-focus);
   border-color: var(--navis-brass-dim);
   box-shadow: none;
@@ -136,14 +136,14 @@ body.navis-skin .window-app:is(.chargen, .chargen-stage) :is(input, select):focu
 /* ── The summary window ──────────────────────────────────────────────────── */
 
 /* Stages down the left, the character down the right. */
-body.navis-skin .window-app.chargen .chargen-content {
+body.apex-skin .window-app.chargen .chargen-content {
   display: grid;
   grid-template-columns: 170px minmax(0, 1fr);
   gap: 14px;
   align-items: start;
 }
 
-body.navis-skin .window-app.chargen .stage-buttons {
+body.apex-skin .window-app.chargen .stage-buttons {
   display: flex;
   flex-direction: column;
   gap: 6px;
@@ -153,7 +153,7 @@ body.navis-skin .window-app.chargen .stage-buttons {
   border-left: 3px solid var(--navis-brass-dim);
   clip-path: var(--navis-plate);
 }
-body.navis-skin .window-app.chargen .stage-buttons .stage-title p {
+body.apex-skin .window-app.chargen .stage-buttons .stage-title p {
   margin: 0 0 2px;
   font-family: var(--navis-font-stencil);
   font-size: var(--navis-size-caption);
@@ -162,7 +162,7 @@ body.navis-skin .window-app.chargen .stage-buttons .stage-title p {
   text-transform: uppercase;
   color: var(--navis-brass);
 }
-body.navis-skin .window-app.chargen button.chargen-button {
+body.apex-skin .window-app.chargen button.chargen-button {
   width: 100%;
   justify-content: flex-start;
   padding-left: 10px;
@@ -170,22 +170,22 @@ body.navis-skin .window-app.chargen button.chargen-button {
 }
 
 /* A stage that has been completed is settled; the rest are still to do. */
-body.navis-skin .window-app.chargen button.chargen-button.navis-done {
+body.apex-skin .window-app.chargen button.chargen-button.navis-done {
   border-left: 3px solid var(--navis-success);
   color: var(--navis-ink);
 }
-body.navis-skin .window-app.chargen button.chargen-button.navis-blocked {
+body.apex-skin .window-app.chargen button.chargen-button.navis-blocked {
   opacity: 0.45;
 }
 
 /* The summary itself. */
-body.navis-skin .window-app.chargen .chargen-data {
+body.apex-skin .window-app.chargen .chargen-data {
   display: flex;
   flex-direction: column;
   gap: 10px;
   min-width: 0;
 }
-body.navis-skin .window-app.chargen .chargen-data > .group {
+body.apex-skin .window-app.chargen .chargen-data > .group {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
   gap: 6px;
@@ -196,23 +196,23 @@ body.navis-skin .window-app.chargen .chargen-data > .group {
   border-left: 3px solid var(--navis-brass-dim);
   clip-path: var(--navis-plate-sm);
 }
-body.navis-skin .window-app.chargen .chargen-data > .group:empty,
-body.navis-skin .window-app.chargen .chargen-data > .group.extra:not(:has(*)) {
+body.apex-skin .window-app.chargen .chargen-data > .group:empty,
+body.apex-skin .window-app.chargen .chargen-data > .group.extra:not(:has(*)) {
   display: none;
 }
 
 /* One field: caption above, value below. The inputs are disabled — they are a
    readout, not a form — so they lose their chrome and read as text. */
-body.navis-skin .window-app.chargen .details {
+body.apex-skin .window-app.chargen .details {
   display: flex;
   flex-direction: column;
   gap: 1px;
   min-width: 0;
 }
-body.navis-skin .window-app.chargen .details.long {
+body.apex-skin .window-app.chargen .details.long {
   grid-column: 1 / -1;
 }
-body.navis-skin .window-app.chargen .details > label {
+body.apex-skin .window-app.chargen .details > label {
   margin: 0;
   font-family: var(--navis-font-stencil);
   font-size: var(--navis-size-caption);
@@ -223,7 +223,7 @@ body.navis-skin .window-app.chargen .details > label {
   color: var(--navis-ink-faint);
   white-space: nowrap;
 }
-body.navis-skin .window-app.chargen .details > input[disabled] {
+body.apex-skin .window-app.chargen .details > input[disabled] {
   height: auto;
   padding: 0;
   background: none;
@@ -235,13 +235,13 @@ body.navis-skin .window-app.chargen .details > input[disabled] {
   color: var(--navis-ink);
   opacity: 1;
 }
-body.navis-skin .window-app.chargen .details > input[disabled]:placeholder-shown,
-body.navis-skin .window-app.chargen .details > input[disabled][value=""] {
+body.apex-skin .window-app.chargen .details > input[disabled]:placeholder-shown,
+body.apex-skin .window-app.chargen .details > input[disabled][value=""] {
   color: var(--navis-ink-faint);
 }
 
 /* Characteristics: the same readout as the character sheet's own grid. */
-body.navis-skin .window-app.chargen table {
+body.apex-skin .window-app.chargen table {
   width: 100%;
   margin: 0;
   background: var(--navis-surface);
@@ -250,17 +250,17 @@ body.navis-skin .window-app.chargen table {
   border-collapse: collapse;
   clip-path: var(--navis-plate-sm);
 }
-body.navis-skin .window-app.chargen table :is(th, td) {
+body.apex-skin .window-app.chargen table :is(th, td) {
   padding: 4px 2px;
   border: 0;
   border-right: 1px solid var(--navis-line);
   text-align: center;
   font-variant-numeric: tabular-nums;
 }
-body.navis-skin .window-app.chargen table :is(th, td):last-child {
+body.apex-skin .window-app.chargen table :is(th, td):last-child {
   border-right: 0;
 }
-body.navis-skin .window-app.chargen table th {
+body.apex-skin .window-app.chargen table th {
   font-family: var(--navis-font-stencil);
   font-size: var(--navis-size-caption);
   font-weight: 600;
@@ -268,16 +268,16 @@ body.navis-skin .window-app.chargen table th {
   text-transform: uppercase;
   color: var(--navis-brass);
 }
-body.navis-skin .window-app.chargen table tr:first-child {
+body.apex-skin .window-app.chargen table tr:first-child {
   border-bottom: 1px solid var(--navis-brass-dim);
 }
-body.navis-skin .window-app.chargen table td {
+body.apex-skin .window-app.chargen table td {
   font-family: var(--navis-font-data);
   font-size: var(--navis-size-body);
   color: var(--navis-ink-muted);
 }
 /* The row caption, and the totals row, which is the one that matters. */
-body.navis-skin .window-app.chargen table td:first-child {
+body.apex-skin .window-app.chargen table td:first-child {
   padding-left: 8px;
   text-align: left;
   font-family: var(--navis-font-stencil);
@@ -287,7 +287,7 @@ body.navis-skin .window-app.chargen table td:first-child {
   color: var(--navis-ink-faint);
   white-space: nowrap;
 }
-body.navis-skin .window-app.chargen table tr:last-child td:not(:first-child) {
+body.apex-skin .window-app.chargen table tr:last-child td:not(:first-child) {
   font-size: var(--navis-size-label);
   font-weight: 600;
   color: var(--navis-brass-lit);
@@ -297,50 +297,50 @@ body.navis-skin .window-app.chargen table tr:last-child td:not(:first-child) {
 
 /* The form flows at its natural height and the window scrolls it. Pinning it
    to 100% squeezed the stage body, and its paragraphs spilled over the footer. */
-body.navis-skin .window-app.chargen-stage form {
+body.apex-skin .window-app.chargen-stage form {
   display: flex;
   flex-direction: column;
   gap: 10px;
 }
-body.navis-skin .window-app.chargen-stage .stage-title {
+body.apex-skin .window-app.chargen-stage .stage-title {
   padding-bottom: 8px;
   border-bottom: 1px solid var(--navis-brass-dim);
   text-align: center;
 }
-body.navis-skin .window-app.chargen-stage .stage-details {
+body.apex-skin .window-app.chargen-stage .stage-details {
   display: flex;
   flex-direction: column;
   gap: 10px;
 }
 
 /* The note under a stage's buttons explaining what each choice costs. */
-body.navis-skin .window-app.chargen-stage p.centered {
+body.apex-skin .window-app.chargen-stage p.centered {
   margin: 0;
   font-size: var(--navis-size-secondary);
   line-height: 1.45;
   color: var(--navis-ink-muted);
   text-align: center;
 }
-body.navis-skin .window-app.chargen-stage .buttons {
+body.apex-skin .window-app.chargen-stage .buttons {
   display: flex;
   gap: 6px;
   justify-content: center;
 }
 /* Three buttons share the row rather than each demanding a fixed width. */
-body.navis-skin .window-app.chargen-stage .buttons button {
+body.apex-skin .window-app.chargen-stage .buttons button {
   flex: 1 1 0;
   min-width: 0;
   padding-inline: 4px;
 }
 
 /* What the stage rolled, and what it will cost in experience. */
-body.navis-skin .window-app.chargen-stage .result {
+body.apex-skin .window-app.chargen-stage .result {
   display: flex;
   flex-direction: column;
   gap: 8px;
 }
-body.navis-skin .window-app.chargen-stage .xp,
-body.navis-skin .window-app.chargen-stage .result .xp {
+body.apex-skin .window-app.chargen-stage .xp,
+body.apex-skin .window-app.chargen-stage .result .xp {
   align-self: flex-end;
   font-family: var(--navis-font-stencil);
   font-size: var(--navis-size-caption);
@@ -351,7 +351,7 @@ body.navis-skin .window-app.chargen-stage .result .xp {
 }
 
 /* The rolled origin or faction, with its artwork. */
-body.navis-skin .window-app.chargen-stage .rolled-item {
+body.apex-skin .window-app.chargen-stage .rolled-item {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -362,7 +362,7 @@ body.navis-skin .window-app.chargen-stage .rolled-item {
   border-left: 3px solid var(--navis-brass-dim);
   clip-path: var(--navis-plate-sm);
 }
-body.navis-skin .window-app.chargen-stage .rolled-item img.item-image {
+body.apex-skin .window-app.chargen-stage .rolled-item img.item-image {
   width: 64px;
   height: 64px;
   border: 1px solid var(--navis-brass-dim);
@@ -370,30 +370,30 @@ body.navis-skin .window-app.chargen-stage .rolled-item img.item-image {
   object-fit: cover;
 }
 
-body.navis-skin .window-app.chargen-stage .choice-section {
+body.apex-skin .window-app.chargen-stage .choice-section {
   padding: 8px 10px;
   background: var(--navis-surface);
   border: 1px solid var(--navis-line);
   clip-path: var(--navis-plate-sm);
 }
-body.navis-skin .window-app.chargen-stage .choice-section p {
+body.apex-skin .window-app.chargen-stage .choice-section p {
   margin: 2px 0 6px;
   font-size: var(--navis-size-secondary);
   color: var(--navis-ink-muted);
 }
-body.navis-skin .window-app.chargen-stage .choices {
+body.apex-skin .window-app.chargen-stage .choices {
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
 }
 
 /* The characteristics stage: nine rows of roll, swap and allocate. */
-body.navis-skin .window-app.chargen-stage .ch-rolls {
+body.apex-skin .window-app.chargen-stage .ch-rolls {
   display: flex;
   flex-direction: column;
   gap: 2px;
 }
-body.navis-skin .window-app.chargen-stage .ch-rolls > .flexrow {
+body.apex-skin .window-app.chargen-stage .ch-rolls > .flexrow {
   display: grid;
   grid-template-columns: minmax(0, 1.5fr) minmax(66px, 0.9fr) repeat(3, minmax(0, 0.7fr));
   gap: 6px;
@@ -401,17 +401,17 @@ body.navis-skin .window-app.chargen-stage .ch-rolls > .flexrow {
   padding: 3px 6px;
 }
 /* Every row prints the same formula; it is context, not a value to read. */
-body.navis-skin .window-app.chargen-stage .ch-rolls > .flexrow > :nth-child(2) {
+body.apex-skin .window-app.chargen-stage .ch-rolls > .flexrow > :nth-child(2) {
   font-size: var(--navis-size-caption);
   color: var(--navis-ink-faint);
 }
-body.navis-skin .window-app.chargen-stage .ch-rolls > .flexrow > * {
+body.apex-skin .window-app.chargen-stage .ch-rolls > .flexrow > * {
   white-space: nowrap;
 }
-body.navis-skin .window-app.chargen-stage .ch-rolls > .flexrow:first-child {
+body.apex-skin .window-app.chargen-stage .ch-rolls > .flexrow:first-child {
   border-bottom: 1px solid var(--navis-brass-dim);
 }
-body.navis-skin .window-app.chargen-stage .ch-rolls strong {
+body.apex-skin .window-app.chargen-stage .ch-rolls strong {
   font-family: var(--navis-font-stencil);
   font-size: var(--navis-size-caption);
   font-weight: 600;
@@ -420,21 +420,21 @@ body.navis-skin .window-app.chargen-stage .ch-rolls strong {
   color: var(--navis-brass);
   text-align: center;
 }
-body.navis-skin .window-app.chargen-stage .ch-rolls .ch-name {
+body.apex-skin .window-app.chargen-stage .ch-rolls .ch-name {
   text-align: left;
   color: var(--navis-ink);
 }
-body.navis-skin .window-app.chargen-stage .ch-rolls span {
+body.apex-skin .window-app.chargen-stage .ch-rolls span {
   text-align: center;
   font-family: var(--navis-font-data);
   font-size: var(--navis-size-body);
   color: var(--navis-ink-muted);
 }
-body.navis-skin .window-app.chargen-stage .ch-rolls .ch-allocate {
+body.apex-skin .window-app.chargen-stage .ch-rolls .ch-allocate {
   width: 100%;
   text-align: center;
 }
-body.navis-skin .window-app.chargen-stage .ch-rolls .ch-roll {
+body.apex-skin .window-app.chargen-stage .ch-rolls .ch-roll {
   text-align: center;
   font-family: var(--navis-font-data);
   font-size: var(--navis-size-label);
@@ -444,7 +444,7 @@ body.navis-skin .window-app.chargen-stage .ch-rolls .ch-roll {
 }
 
 /* The details stage is a plain form. */
-body.navis-skin .window-app.chargen-stage .form-group {
+body.apex-skin .window-app.chargen-stage .form-group {
   display: grid;
   grid-template-columns: 120px minmax(0, 1fr);
   gap: 8px;
@@ -453,7 +453,7 @@ body.navis-skin .window-app.chargen-stage .form-group {
   padding: 3px 0;
   border: 0;
 }
-body.navis-skin .window-app.chargen-stage .form-group > label {
+body.apex-skin .window-app.chargen-stage .form-group > label {
   margin: 0;
   font-family: var(--navis-font-stencil);
   font-size: var(--navis-size-caption);
@@ -462,34 +462,34 @@ body.navis-skin .window-app.chargen-stage .form-group > label {
   text-transform: uppercase;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .window-app.chargen-stage .form-group .form-fields {
+body.apex-skin .window-app.chargen-stage .form-group .form-fields {
   display: flex;
   gap: 6px;
   align-items: center;
 }
-body.navis-skin .window-app.chargen-stage .form-group .roll-details {
+body.apex-skin .window-app.chargen-stage .form-group .roll-details {
   flex: none;
   color: var(--navis-brass);
 }
-body.navis-skin .window-app.chargen-stage .form-group .roll-details:hover {
+body.apex-skin .window-app.chargen-stage .form-group .roll-details:hover {
   color: var(--navis-brass-lit);
   text-shadow: none;
 }
 
 /* The two goals sit side by side, so their labels have half the width the rest
    of the form gets. They stack instead of squeezing into a 120px column. */
-body.navis-skin .window-app.chargen-stage .goals {
+body.apex-skin .window-app.chargen-stage .goals {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 10px;
 }
-body.navis-skin .window-app.chargen-stage .goals .form-group {
+body.apex-skin .window-app.chargen-stage .goals .form-group {
   display: flex;
   flex-direction: column;
   gap: 2px;
   align-items: stretch;
 }
-body.navis-skin .window-app.chargen-stage .goals textarea {
+body.apex-skin .window-app.chargen-stage .goals textarea {
   min-height: 52px;
   padding: 4px 6px;
   background: var(--navis-field);
@@ -500,7 +500,7 @@ body.navis-skin .window-app.chargen-stage .goals textarea {
   color: var(--navis-ink);
   resize: vertical;
 }
-body.navis-skin .window-app.chargen-stage .goals textarea:focus {
+body.apex-skin .window-app.chargen-stage .goals textarea:focus {
   background: var(--navis-field-focus);
   border-color: var(--navis-brass-dim);
   box-shadow: none;
@@ -514,24 +514,24 @@ body.navis-skin .window-app.chargen-stage .goals textarea:focus {
    piece of starting gear a faction lists is one.
    ══════════════════════════════════════════════════════════════════════ */
 
-body.navis-skin .window-app:is(.chargen, .chargen-stage) a.content-link {
+body.apex-skin .window-app:is(.chargen, .chargen-stage) a.content-link {
   background: var(--navis-raised);
   border: 1px solid var(--navis-line);
   border-radius: 0;
   color: var(--navis-brass-lit);
 }
-body.navis-skin .window-app:is(.chargen, .chargen-stage) a.content-link:hover {
+body.apex-skin .window-app:is(.chargen, .chargen-stage) a.content-link:hover {
   border-color: var(--navis-brass-dim);
   color: var(--navis-brass-lit);
   text-shadow: none;
 }
-body.navis-skin .window-app:is(.chargen, .chargen-stage) a.content-link i {
+body.apex-skin .window-app:is(.chargen, .chargen-stage) a.content-link i {
   color: var(--navis-ink-faint);
 }
 
 /* "Choose equipment" is a whole row, not a chip: it is the one thing to press
    in that section. */
-body.navis-skin .window-app.chargen-stage a.choose.choice-menu {
+body.apex-skin .window-app.chargen-stage a.choose.choice-menu {
   display: flex;
   justify-content: center;
   gap: 6px;
@@ -542,11 +542,11 @@ body.navis-skin .window-app.chargen-stage a.choose.choice-menu {
   clip-path: var(--navis-plate-sm);
   color: var(--navis-accent-lit);
 }
-body.navis-skin .window-app.chargen-stage a.choose.choice-menu:hover {
+body.apex-skin .window-app.chargen-stage a.choose.choice-menu:hover {
   border-color: var(--navis-accent);
   color: var(--navis-accent-lit);
 }
-body.navis-skin .window-app.chargen-stage a.choice-reset {
+body.apex-skin .window-app.chargen-stage a.choice-reset {
   color: var(--navis-ink-faint);
 }
 
@@ -555,7 +555,7 @@ body.navis-skin .window-app.chargen-stage a.choice-reset {
    grid each one keeps its column whatever the name length.
    ══════════════════════════════════════════════════════════════════════ */
 
-body.navis-skin .window-app.chargen-stage .choices.skills {
+body.apex-skin .window-app.chargen-stage .choices.skills {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(112px, 1fr));
   gap: 8px;
@@ -563,14 +563,14 @@ body.navis-skin .window-app.chargen-stage .choices.skills {
 
 /* The name sits above its box rather than beside it: set side by side, a
    stencilled "Взаимопонимание" has nowhere to go but the ellipsis. */
-body.navis-skin .window-app.chargen-stage .choices .choice-group {
+body.apex-skin .window-app.chargen-stage .choices .choice-group {
   display: flex;
   flex-direction: column;
   gap: 2px;
   align-items: stretch;
   min-width: 0;
 }
-body.navis-skin .window-app.chargen-stage .choices .choice-group label {
+body.apex-skin .window-app.chargen-stage .choices .choice-group label {
   overflow: hidden;
   margin: 0;
   font-family: var(--navis-font-text);
@@ -583,13 +583,13 @@ body.navis-skin .window-app.chargen-stage .choices .choice-group label {
   text-overflow: ellipsis;
   white-space: nowrap;
 }
-body.navis-skin .window-app.chargen-stage .choices .choice-group input {
+body.apex-skin .window-app.chargen-stage .choices .choice-group input {
   width: 100%;
   text-align: center;
 }
 
 /* The characteristic choice row, with its "unchosen" warning. */
-body.navis-skin .window-app.chargen-stage .choice-section .choices > select {
+body.apex-skin .window-app.chargen-stage .choice-section .choices > select {
   flex: 1 1 0;
   min-width: 0;
 }

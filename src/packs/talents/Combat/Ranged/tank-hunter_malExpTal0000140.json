@@ -2,7 +2,7 @@
   "name": "Tank Hunter",
   "type": "talent",
   "_id": "malExpTal0000140",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Add BS-B to Penetrating trait against vehicles</span></p><hr><p><span style=\"font-family: Arial\"><em>When you make a Ranged Attack against a vehicle with a weapon with the Penetrating quality, you add your Ballistic Skill Bonus to the Penetration value of the weapon. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

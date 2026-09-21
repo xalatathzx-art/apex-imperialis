@@ -2,7 +2,7 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Add a complete Russian Babele translation for every translatable document in `impmal-voll`, using the established Imperium Maledictum terminology of Navis Apexialis.
+**Goal:** Add a complete Russian Babele translation for every translatable document in `impmal-voll`, using the established Imperium Maledictum terminology of Apex Imperialis.
 
 **Architecture:** Keep the paid source module untouched. Read copied LevelDB packs into a reproducible source index, translate and edit every passage manually under `src/compendium`, and compile Babele JSON with the existing guarded builder. Preserve document IDs, HTML structure, Foundry UUIDs, inline rolls, active-effect scripts, and automation syntax exactly. Machine translation services and local translation engines are forbidden.
 
@@ -16,7 +16,7 @@
 - Translate all 46 actors, 2 items, 7 journals with 48 embedded pages, 10 roll tables with 78 rows, and the single scene where it contains user-facing text.
 - Preserve every document and embedded-document ID.
 - Preserve HTML tags, UUID targets, inline rolls, rewards, formulas, scripts, and automation markup.
-- Prefer the Russian Core Rulebook v1.01 terminology already captured by Navis Apexialis.
+- Prefer the Russian Core Rulebook v1.01 terminology already captured by Apex Imperialis.
 - Build must fail on missing IDs, stale English source names, untranslated required entries, or damaged protected markup.
 
 ---

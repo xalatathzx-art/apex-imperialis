@@ -1,8 +1,8 @@
 {
   "name": "Ogryn",
-  "type": "navis-apexialis.species",
+  "type": "apex-imperialis.species",
   "_id": "navisSpc00000002",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder001",
   "sort": 200,
   "system": {
@@ -60,19 +60,19 @@
     "grantedTraits": {
       "list": [
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0003",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0003",
           "id": "navisSpTrait0003",
           "name": "Brute Physiology",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0004",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0004",
           "id": "navisSpTrait0004",
           "name": "Bone-'ead",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0005",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0005",
           "id": "navisSpTrait0005",
           "name": "Ogryn-Sized",
           "diff": {}
@@ -88,13 +88,13 @@
     "equipment": {
       "list": [
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpGear00001",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpGear00001",
           "id": "navisSpGear00001",
           "name": "Ogryn-Sized Slab Club",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpGear00002",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpGear00002",
           "id": "navisSpGear00002",
           "name": "Ripper Gun",
           "diff": {}
@@ -106,7 +106,7 @@
     {
       "_id": "navisSpFx0000002",
       "name": "Ogryn — physiology",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "changes": [
         {
           "key": "system.combat.wounds.max",
@@ -134,7 +134,7 @@
       "description": "",
       "statuses": [],
       "flags": {
-        "navis-apexialis": {
+        "apex-imperialis": {
           "source": "DoomBC_Core",
           "generated": "tools/make-species.mjs"
         }
@@ -150,7 +150,7 @@
     }
   ],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "DoomBC_Core",
       "generated": "tools/make-species.mjs"
     }

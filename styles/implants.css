@@ -6,7 +6,7 @@
  * class is built on, and not another module's.
  *
  * The vocabulary is the module's own, borrowed from the biomonitor block in
- * styles/navis-skin.css: a plate on `--navis-surface`, hairline `--navis-line`
+ * styles/apex-skin.css: a plate on `--navis-surface`, hairline `--navis-line`
  * borders, a brass left edge to mark a block, small uppercase captions in
  * `--navis-font-text`. Every custom property carries a fallback, because a
  * player may have the skin switched off in their own settings and the sheet
@@ -607,8 +607,8 @@
 /*
  * Scoped under `.navis-surgeon`, the class the window puts on itself.
  *
- * The figure is styled here rather than borrowed from styles/navis-skin.css:
- * every rule there sits behind `body.navis-skin`, and the skin is a per-client
+ * The figure is styled here rather than borrowed from styles/apex-skin.css:
+ * every rule there sits behind `body.apex-skin`, and the skin is a per-client
  * setting a player may have switched off. A window whose only content is an
  * invisible silhouette is not an acceptable failure mode, so the mask layers
  * carry their own rules and take the skin's tokens only as improvements.

@@ -22,14 +22,14 @@ test("Inquisition Guide journal inventory includes every embedded page", () => {
 
 test("Inquisition Guide item translation covers every official document ID", () => {
   const official = Object.keys(index["impmal-inquisition.items"].entries).sort();
-  const translated = Object.keys(JSON.parse(fs.readFileSync(new URL("../compendium/navis-apexialis.navis-inquisition-items.json", import.meta.url), "utf8")).entries).sort();
+  const translated = Object.keys(JSON.parse(fs.readFileSync(new URL("../compendium/apex-imperialis.navis-inquisition-items.json", import.meta.url), "utf8")).entries).sort();
   assert.equal(official.length, 227);
   assert.deepEqual(translated, official);
 });
 
 test("Inquisition Guide table translation covers every official document ID", () => {
   const official = Object.keys(index["impmal-inquisition.tables"].entries).sort();
-  const translated = Object.keys(JSON.parse(fs.readFileSync(new URL("../compendium/navis-apexialis.navis-inquisition-tables.json", import.meta.url), "utf8")).entries).sort();
+  const translated = Object.keys(JSON.parse(fs.readFileSync(new URL("../compendium/apex-imperialis.navis-inquisition-tables.json", import.meta.url), "utf8")).entries).sort();
   assert.equal(official.length, 41);
   assert.deepEqual(translated, official);
 });
@@ -41,7 +41,7 @@ test("Inquisition Guide table translation covers every official document ID", ()
  * so the count is pinned here.
  */
 test("referenced Inquisition table rows are named from the items translation", () => {
-  const tables = JSON.parse(fs.readFileSync(new URL("../compendium/navis-apexialis.navis-inquisition-tables.json", import.meta.url), "utf8")).entries;
+  const tables = JSON.parse(fs.readFileSync(new URL("../compendium/apex-imperialis.navis-inquisition-tables.json", import.meta.url), "utf8")).entries;
   const named = Object.values(tables).reduce(
     (count, table) => count + Object.keys(table.results ?? {}).length, 0);
   assert.ok(named >= 191, `only ${named} rows carry a translation`);

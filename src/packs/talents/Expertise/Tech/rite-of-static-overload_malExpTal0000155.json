@@ -2,7 +2,7 @@
   "name": "Rite of Static Overload",
   "type": "talent",
   "_id": "malExpTal0000155",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Action: Tech (Augmentics)+0 to give one cybernetic the Inflict (Stunned) quality for IntB rounds, on -4SL or once it ends: cybernetic shuts down and must be repaired Tech(Augmetics)+20</span></p><hr><p><span style=\"font-family: Arial\"><em>You may make a Challenging (+0) Tech (Augmetics) Test as an Action to channel the energies within one of your cybernetic limbs outwards. If you succeed, for a number of rounds equal to your Intelligence Bonus, your attacks with these limbs (be they unarmed attacks, attacks with an inbuilt weapon, or with a Mechadendrite) gain the Inflict (Stunned) Quality. Once the number of rounds that had been determined are over, or if you had failed the test by -4SL or worse, your cybernetic limbs shut down until you can dedicate several minutes to fixing it with a Routine (+20) Tech (Augmetics) Test.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

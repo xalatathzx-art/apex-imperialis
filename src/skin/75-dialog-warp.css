@@ -11,13 +11,13 @@
    normal brass, disadvantage red.
    Markup: systems/impmal/templates/apps/test-dialog/dialog-state.hbs */
 
-body.navis-skin .application.roll-dialog-v2 .adv-dis {
+body.apex-skin .application.roll-dialog-v2 .adv-dis {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 6px;
   margin: 10px 0 2px;
 }
-body.navis-skin .application.roll-dialog-v2 .adv-dis > div {
+body.apex-skin .application.roll-dialog-v2 .adv-dis > div {
   --st: var(--navis-brass);
   container-type: inline-size;
   display: block;
@@ -25,10 +25,10 @@ body.navis-skin .application.roll-dialog-v2 .adv-dis > div {
   min-width: 0;
   margin: 0;
 }
-body.navis-skin .application.roll-dialog-v2 .adv-dis > div:has(> input[value="adv"]) { --st: var(--navis-success); }
-body.navis-skin .application.roll-dialog-v2 .adv-dis > div:has(> input[value="dis"]) { --st: var(--navis-danger); }
+body.apex-skin .application.roll-dialog-v2 .adv-dis > div:has(> input[value="adv"]) { --st: var(--navis-success); }
+body.apex-skin .application.roll-dialog-v2 .adv-dis > div:has(> input[value="dis"]) { --st: var(--navis-danger); }
 
-body.navis-skin .application.roll-dialog-v2 .adv-dis > div > input[type="radio"] {
+body.apex-skin .application.roll-dialog-v2 .adv-dis > div > input[type="radio"] {
   appearance: none;
   position: absolute;
   inset: 0;
@@ -41,7 +41,7 @@ body.navis-skin .application.roll-dialog-v2 .adv-dis > div > input[type="radio"]
 }
 /* Child combinators throughout: the Normal option's label also carries the
    class state-label, and must not become a plate inside the plate. */
-body.navis-skin .application.roll-dialog-v2 .adv-dis > div > .state-label {
+body.apex-skin .application.roll-dialog-v2 .adv-dis > div > .state-label {
   position: relative;
   display: flex;
   align-items: center;
@@ -55,7 +55,7 @@ body.navis-skin .application.roll-dialog-v2 .adv-dis > div > .state-label {
   border-bottom: 2px solid var(--navis-line);
   transition: background-color var(--navis-transition), border-color var(--navis-transition), box-shadow var(--navis-transition);
 }
-body.navis-skin .application.roll-dialog-v2 .adv-dis > div > .state-label > label {
+body.apex-skin .application.roll-dialog-v2 .adv-dis > div > .state-label > label {
   height: auto;
   margin: 0;
   padding: 0;
@@ -75,7 +75,7 @@ body.navis-skin .application.roll-dialog-v2 .adv-dis > div > .state-label > labe
 }
 /* The count of sources rides in the corner, so the label keeps the whole width
    of a narrow dialog column. */
-body.navis-skin .application.roll-dialog-v2 .adv-dis > div > .state-label > .state-value {
+body.apex-skin .application.roll-dialog-v2 .adv-dis > div > .state-label > .state-value {
   position: absolute;
   top: -7px;
   right: -4px;
@@ -99,34 +99,34 @@ body.navis-skin .application.roll-dialog-v2 .adv-dis > div > .state-label > .sta
 /* impmal's dialog puts these plates in a column about a third of the window
    wide; there "Disadvantage" only fits a size down. */
 @container (max-width: 120px) {
-  body.navis-skin .application.roll-dialog-v2 .adv-dis > div > .state-label > label {
+  body.apex-skin .application.roll-dialog-v2 .adv-dis > div > .state-label > label {
     font-size: 12px;
     letter-spacing: 0.4px;
   }
 }
 
-body.navis-skin .application.roll-dialog-v2 .adv-dis > div:hover > .state-label {
+body.apex-skin .application.roll-dialog-v2 .adv-dis > div:hover > .state-label {
   background: var(--navis-raised);
 }
-body.navis-skin .application.roll-dialog-v2 .adv-dis > div:hover > .state-label > label {
+body.apex-skin .application.roll-dialog-v2 .adv-dis > div:hover > .state-label > label {
   color: var(--navis-ink);
 }
 
 /* Chosen. */
-body.navis-skin .application.roll-dialog-v2 .adv-dis > div > input:checked + .state-label {
+body.apex-skin .application.roll-dialog-v2 .adv-dis > div > input:checked + .state-label {
   background: var(--navis-raised);
   border-bottom-color: var(--st);
   box-shadow: inset 0 -14px 16px -16px var(--st);
 }
-body.navis-skin .application.roll-dialog-v2 .adv-dis > div > input:checked + .state-label > label {
+body.apex-skin .application.roll-dialog-v2 .adv-dis > div > input:checked + .state-label > label {
   color: var(--st);
 }
-body.navis-skin .application.roll-dialog-v2 .adv-dis > div > input:checked + .state-label > .state-value {
+body.apex-skin .application.roll-dialog-v2 .adv-dis > div > input:checked + .state-label > .state-value {
   background: var(--st);
   border-color: var(--st);
   color: var(--navis-field);
 }
-body.navis-skin .application.roll-dialog-v2 .adv-dis > div > input:focus-visible + .state-label {
+body.apex-skin .application.roll-dialog-v2 .adv-dis > div > input:focus-visible + .state-label {
   outline: 2px solid var(--navis-accent-lit);
   outline-offset: 1px;
 }
@@ -175,13 +175,13 @@ body.navis-skin .application.roll-dialog-v2 .adv-dis > div > input:focus-visible
   53%      { opacity: 0; }
 }
 
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge {
   display: flex;
   align-items: stretch;
   gap: 8px;
   white-space: nowrap;
 }
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box {
   flex: 0 0 8rem;
   display: flex;
   flex-wrap: wrap;
@@ -195,13 +195,13 @@ body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .
   border-top: 2px solid #4a3470;
   clip-path: none;
 }
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box > .label {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box > .label {
   flex: 1 0 100%;
   display: flex;
   justify-content: flex-start;
   height: auto;
 }
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box > .label label {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box > .label label {
   margin: 0;
   text-align: left;
   font-family: var(--navis-font-stencil);
@@ -211,14 +211,14 @@ body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .
   text-transform: uppercase;
   color: #a98bd6;
 }
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box > .field {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box > .field {
   flex: 0 0 auto;
   display: flex;
   align-items: baseline;
   width: auto;
   height: auto;
 }
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box > .field input {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box > .field input {
   field-sizing: content;
   min-width: 2ch;
   width: auto;
@@ -233,19 +233,19 @@ body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .
   line-height: 1.1;
   color: var(--navis-ink);
 }
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box > .field + .field::before {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box > .field + .field::before {
   content: "/";
   margin-right: 4px;
   font-size: 12px;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box > .field + .field input {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box > .field + .field input {
   font-size: 12px;
   font-weight: 500;
   color: var(--navis-ink-faint);
 }
 
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section {
   flex: 1;
   display: flex;
   align-items: center;
@@ -254,7 +254,7 @@ body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .
 }
 
 /* The vessel. */
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container {
   position: relative;
   flex: 1;
   height: 26px;
@@ -269,7 +269,7 @@ body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .
 }
 
 /* The charge. */
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container .bar {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container .bar {
   position: relative;
   height: 100%;
   max-width: 100%;
@@ -288,7 +288,7 @@ body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .
   box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.55);
 }
 /* A sheen crossing the charge every few seconds. */
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container .bar::before {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container .bar::before {
   content: "";
   position: absolute;
   top: 0;
@@ -300,7 +300,7 @@ body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .
   pointer-events: none;
 }
 /* The leading edge breathes, brighter the fuller it is. */
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container .bar::after {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container .bar::after {
   content: "";
   position: absolute;
   top: 1px;
@@ -316,10 +316,10 @@ body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .
 }
 
 /* Over the threshold: hotter, faster, an alert edge. */
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state1 {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state1 {
   border-left-color: var(--navis-alert);
 }
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state1 .bar {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state1 .bar {
   background-image:
     linear-gradient(90deg, #24103a 0%, #58278a 50%, #a553d6 100%),
     repeating-linear-gradient(115deg, transparent 0 12px, rgba(140, 230, 220, 0.17) 12px 14px, transparent 14px 30px),
@@ -329,11 +329,11 @@ body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .
 }
 
 /* Perils owed: red, and tearing. */
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state2 {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state2 {
   border-color: #4a1a22;
   border-left-color: var(--navis-danger);
 }
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state2 .bar {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state2 .bar {
   background-image:
     linear-gradient(90deg, #2a0a1a 0%, #6e1840 50%, #d0305f 100%),
     repeating-linear-gradient(115deg, transparent 0 10px, rgba(255, 170, 200, 0.18) 10px 12px, transparent 12px 24px),
@@ -343,13 +343,13 @@ body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .
   background-repeat: repeat;
   --navis-warp-flow: 3.5s;
 }
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state2 .bar::before {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state2 .bar::before {
   left: 0;
   width: 100%;
   background: repeating-linear-gradient(90deg, transparent 0 9px, rgba(255, 230, 240, 0.35) 9px 10px, transparent 10px 23px);
   animation: navis-warp-tear 1.7s steps(1) infinite;
 }
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state2 .bar::after {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state2 .bar::after {
   background: #ffd1dc;
   box-shadow: 0 0 8px 3px rgba(210, 48, 95, 0.8), -10px 0 16px 3px rgba(160, 30, 70, 0.6);
   animation-duration: 0.9s;
@@ -358,15 +358,15 @@ body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .
 /* The surge. Declared after every state and with a class more than any of
    them, so a state can never swap it out; the flow keeps whatever duration
    the state chose. */
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container .bar.navis-warp-surge,
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container:is(.state1, .state2) .bar.navis-warp-surge {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container .bar.navis-warp-surge,
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container:is(.state1, .state2) .bar.navis-warp-surge {
   animation:
     navis-warp-surge 1100ms cubic-bezier(0.2, 0.8, 0.2, 1) both,
     navis-warp-flow var(--navis-warp-flow) linear infinite;
 }
 
 /* The test prompt laid over the bar. */
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container .perils {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container .perils {
   position: absolute;
   inset: 0;
   z-index: 2;
@@ -376,7 +376,7 @@ body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .
   width: 100%;
   pointer-events: none;
 }
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container .perils a {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container .perils a {
   pointer-events: auto;
   display: inline-flex;
   align-items: center;
@@ -393,13 +393,13 @@ body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .
   color: var(--navis-ink);
   text-shadow: 0 0 6px rgba(0, 0, 0, 0.9);
 }
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state2 .perils a {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state2 .perils a {
   border-color: rgba(210, 102, 88, 0.7);
   color: #ffd1dc;
 }
 
 /* Purge is an action, so a rust-edged field. */
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .purge {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .purge {
   flex: none;
   display: inline-flex;
   align-items: center;
@@ -417,16 +417,16 @@ body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .
   color: var(--navis-accent-lit);
   transition: background-color var(--navis-transition);
 }
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .purge:hover {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .purge:hover {
   background: var(--navis-raised);
 }
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .purge.inactive {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .purge.inactive {
   border-left-color: var(--navis-line);
   color: var(--navis-ink-faint);
 }
 
 /* Sustained powers: a plate with its caption. */
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .sustaining {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .sustaining {
   margin-bottom: 8px;
   padding: 6px 10px 8px;
   background: var(--navis-surface);
@@ -434,7 +434,7 @@ body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .sustaining {
   border-left: 3px solid #4a3470;
   clip-path: var(--navis-plate);
 }
-body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .sustaining > label {
+body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .sustaining > label {
   display: block;
   text-align: left;
   font-family: var(--navis-font-stencil);
@@ -446,9 +446,9 @@ body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .sustaining > 
 }
 
 @media (prefers-reduced-motion: reduce) {
-  body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-container .bar,
-  body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-container .bar::before,
-  body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-container .bar::after {
+  body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-container .bar,
+  body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-container .bar::before,
+  body.apex-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-container .bar::after {
     animation: none !important;
   }
 }

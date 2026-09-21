@@ -35,7 +35,7 @@ const whispers = () => h(5, "whispers", "Слухи");
 
 /* ── Сектор Махарий (вводная), стр. 249 ─────────────────────────────────*/
 const sectorPage =
-  `<div class="journal-image float-right flip"><img src="modules/navis-apexialis/assets/impmal-core/images/ch9.webp" height="660" /></div>` +
+  `<div class="journal-image float-right flip"><img src="modules/apex-imperialis/assets/impmal-core/images/ch9.webp" height="660" /></div>` +
   p("На галактическом западе от Терры, в сегментуме Пацификус, лежит сектор Махарий — ",
     "густонаселённый край со множеством развитых миров, названный в честь одного из величайших ",
     "полководцев в имперской истории, лорда-соляра Махария. Завоевания легендарного Махария были ",
@@ -175,7 +175,7 @@ const yixPage =
     "не так давно начала там горные работы. Дерзкие и отчаянные вольные торговцы всё равно ",
     "стекаются сюда благодаря коридору Халласа — единственному хоть как-то картографированному ",
     "маршруту ко множеству ничейных систем, что якобы лежат в центробежных регионах за Иссом.") +
-  `<div class="journal-image centered"><img src="modules/navis-apexialis/assets/impmal-core/images/spot-shields.webp" width="300" /></div>`;
+  `<div class="journal-image centered"><img src="modules/apex-imperialis/assets/impmal-core/images/spot-shields.webp" width="300" /></div>`;
 
 /* ── Эйтлер, стр. 286 ───────────────────────────────────────────────────*/
 const eythlaerPage =
@@ -347,7 +347,7 @@ const eskutchaxPage =
     "Матиасом. Хотя техножрецы в восторге от своих союзников из Квестор Механикус и глубоко ",
     "благодарны Адептус Астартес, они боятся того, что известные фанатизмом храмовники могут ",
     "сделать с миром, когда осознают, какая скверна Хаоса рыщет среди кузней-храмов Эскутчакса.") +
-  `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/actors/tech-priest-dominus.webp" width="300" style="margin:-10px -20px" /></div>` +
+  `<div class="journal-image float-right"><img src="modules/apex-imperialis/assets/impmal-core/actors/tech-priest-dominus.webp" width="300" style="margin:-10px -20px" /></div>` +
 
   persons("personalities-of-eskutchax", "Важные персоны Эскутчакса") +
   p("Кузницей управляет дуэт техножрецов-консулов, что вместе обладают властью ",
@@ -623,7 +623,7 @@ const asterionPage =
 
 /* ── Крульт, стр. 267–268 ───────────────────────────────────────────────*/
 const crultusPage =
-  `<div class="journal-image float-right flip"><img src="modules/navis-apexialis/assets/impmal-core/images/crultus.webp" width="300" /></div>` +
+  `<div class="journal-image float-right flip"><img src="modules/apex-imperialis/assets/impmal-core/images/crultus.webp" width="300" /></div>` +
   system("Геминакс") +
   p("Сельскохозяйственный Крульт стал агромиром из-за яркой звезды и сильного наклона оси, что ",
     "позволяло жителям северного полушария снимать урожаи круглый год. В попытке ещё больше ",
@@ -775,7 +775,7 @@ const daoTeyrasPage =
     "поиски, но отложила погоню за знаниями, чтобы содействовать наведению порядка на планете. ",
     "Говорят, что она служила путеводной звездой фон Фолхаберу и другим адептам во время долгой ",
     "тьмы, а резкая отповедь её ",
-    U("Compendium.navis-apexialis.navis-core-items.Item.j3izHTzJJq7qKwc1", "болт-пистолета"),
+    U("Compendium.apex-imperialis.navis-core-items.Item.j3izHTzJJq7qKwc1", "болт-пистолета"),
     " нередко раздавалась в городе-санктуме во время Ноктис Этерна, ставя точку в очередном ",
     "суровом допросе.") +
 
@@ -1157,7 +1157,7 @@ const varkassaPage =
     "шпионством и диверсиями. Пока что Грахту удаётся получать огромные деньги, торгуя сведениями ",
     "на обе стороны. Он пытается расширить масштабы войны как можно больше, чтобы его план ",
     "обогащения продолжал действовать.") +
-  `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-core/images/rokarth.webp" /></div>` +
+  `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-core/images/rokarth.webp" /></div>` +
 
   powers("the-powers-of-varkassa", "Власть имущие Варкассы") +
   p("Варкасский Бомбардирский корпус и Экклезиархия этого горно-сельскохозяйственного мира ",
@@ -1383,7 +1383,7 @@ const somrotPage =
 
 /* ── Вирида, стр. 284–286 ───────────────────────────────────────────────*/
 const viridaPage =
-  `<div class="journal-image float-right flip"><img src="modules/navis-apexialis/assets/impmal-core/images/virida.webp" width="300" /></div>` +
+  `<div class="journal-image float-right flip"><img src="modules/apex-imperialis/assets/impmal-core/images/virida.webp" width="300" /></div>` +
   system("Карцерида") +
   p("Открытие Вириды обрадовало разведчиков ",
     U(".X5EFP7IgIUx6CaBW#the-macharian-conquests", "Махариева похода"),
@@ -1602,7 +1602,7 @@ const resVilissimaPage =
     "большой выгодой для себя. Взамен аристократы отправляют «вниз» провиант и воду по пустотным ",
     "лифтам и гордо утверждают, что никто из благородных не ступал на поверхность Рес Вилиссимы со ",
     "времён Звездопада.") +
-  `<div class="journal-image centered"><img src="modules/navis-apexialis/assets/impmal-core/images/spot-bolt-relic.webp" width="300" /></div>` +
+  `<div class="journal-image centered"><img src="modules/apex-imperialis/assets/impmal-core/images/spot-bolt-relic.webp" width="300" /></div>` +
 
   h(4, "the-three-moons", "Три луны") +
   system("Вилиссия") +
@@ -1710,7 +1710,7 @@ const tarangPage =
     "конца бури, считая, что огромный запас ценных ресурсов, которые нельзя пустить в дело прямо ",
     "сейчас, — это мелкое неудобство в титанической и вечной империи. Другие же — например, ",
     "капитан Амман Таркс из Виридиевых Ястребов — подозревают, что происходит нечто зловещее.") +
-  `<div class="journal-image centered"><img src="modules/navis-apexialis/assets/impmal-core/images/spot-iron-aquila.webp" width="300" /></div>` +
+  `<div class="journal-image centered"><img src="modules/apex-imperialis/assets/impmal-core/images/spot-iron-aquila.webp" width="300" /></div>` +
 
   persons("personalities-of-tharsis-song", "Важные персоны Фарсиды") +
   p("Сейчас синдикатом Руфус-Пакт управляют ординат Администратума Август Вален и ",
@@ -1751,7 +1751,7 @@ const tarangPage =
     "действовали в безупречно прибыльной гармонии, изоляция и постоянные налёты создали ",
     "напряжение, а адепты Администратума истерично пересказывают друг другу суеверия о ",
     "«шестерёнках».") +
-  `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-core/images/faction-ministorum.webp" /></div>`;
+  `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-core/images/faction-ministorum.webp" /></div>`;
 
 /* ── Гнев Арриана, стр. 293–294 ─────────────────────────────────────────*/
 const arriansWrathPage =
@@ -2040,7 +2040,7 @@ const mahaganPage =
   p("За всем этим надзирает Администратум из санктумов своих пустотных оффициев, и вместе с ",
     "губернатором-милитантом Коваленко чиновники пытаются сохранить единство в кольце крошечных ",
     "миров. Почти все высшие чины местных служб — выпускники «Наставления Сеяна», ",
-    U("Compendium.navis-apexialis.navis-core-items.Item.7E0Gkel1gSaxTgVu", "Схолы Прогениум"),
+    U("Compendium.apex-imperialis.navis-core-items.Item.7E0Gkel1gSaxTgVu", "Схолы Прогениум"),
     " с пустотного храма «Благочестие Сеяна», единственного управляемого церковью астероида в ",
     "Махагане, что был мастерски превращён в орбитальный собор исполинских размеров.") +
 
@@ -2139,7 +2139,7 @@ const xenophonPage =
 
 /* ── Йотунгард, стр. 299–300 ────────────────────────────────────────────*/
 const jotungarthPage =
-  `<div class="journal-image float-right flip"><img style="margin-top:-50px" src="modules/navis-apexialis/assets/impmal-core/images/jotungarth.webp" width="300" /></div>` +
+  `<div class="journal-image float-right flip"><img style="margin-top:-50px" src="modules/apex-imperialis/assets/impmal-core/images/jotungarth.webp" width="300" /></div>` +
   system("Аскрхейм") +
   p("В секторе Махарий найдётся не так много мест более гиблых, чем ледяные океаны Йотунгарда. ",
     "Этот мир получил название во время ",
@@ -2566,7 +2566,7 @@ const risePage =
     "лорд-соляр удалился в свои покои и напился до потери сознания. После трёх дней уединённых ",
     "размышлений Махарий вернулся и приказал всем группам армий возвращаться в Империум, объявив ",
     "конец похода.") +
-  `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-core/images/macharius.webp" /></div>` +
+  `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-core/images/macharius.webp" /></div>` +
 
   h(3, "the-death-of-macharius", "Смерть Махария") +
   p("Лорд-соляр скончался на обратном пути в имперский космос в 400.М41. Официальная история ",
@@ -2804,7 +2804,7 @@ const risePage =
     "приходах и уходах. Гвардейцы, которым довелось видеть такое, с благоговением говорят, что ",
     "тот, кто хоть раз слышал воющий спуск десантной капсулы Виридиевых Ястребов, не забудет его ",
     "никогда.") +
-  `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/images/emperor-of-mankind.webp" width="300" /></div>` +
+  `<div class="journal-image float-right"><img src="modules/apex-imperialis/assets/impmal-core/images/emperor-of-mankind.webp" width="300" /></div>` +
 
   h(4, "faith", "Вера") +
   p("Махария — одно из самых легендарных мест паломничества во всём Империуме, ибо истории о ",

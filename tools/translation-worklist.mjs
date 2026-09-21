@@ -16,7 +16,7 @@
 import fs from "node:fs"; import path from "node:path"; import os from "node:os";
 import { readPack, partition } from "./lib/level.mjs";
 const read = async name => { const d = fs.mkdtempSync(path.join(os.tmpdir(), "wl-")); fs.cpSync(`packs/${name}`, d, { recursive: true, filter: s => !s.endsWith("LOCK") }); return partition(await readPack(d)); };
-const tr = n => { const f = `compendium/navis-apexialis.${n}.json`; return fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, "utf8")).entries : {}; };
+const tr = n => { const f = `compendium/apex-imperialis.${n}.json`; return fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, "utf8")).entries : {}; };
 const CYR = /[А-Яа-яЁё]/;
 const plain = h => String(h ?? "").replace(/<[^>]*>/g, " ").replace(/@\w+\[[^\]]*\](\{[^}]*\})?/g, " ").replace(/\s+/g, " ").trim();
 const en = h => { const t = plain(h); return t.length > 2 && !CYR.test(t) && /[A-Za-z]{3,}/.test(t); };

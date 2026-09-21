@@ -18,7 +18,7 @@ const row = text => ({ description: `<p>${text}</p>` });
 /** Строка таблицы: название причуды или изъяна, потом что она делает. */
 const e = (name, text) => row(`<strong>${name}</strong>: ${text}`);
 
-const FUMBLE = U("Compendium.navis-apexialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9", "Фиаско");
+const FUMBLE = U("Compendium.apex-imperialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9", "Фиаско");
 const VEH = "JournalEntry.fpiV4F49v3gxmipn.JournalEntryPage.E6ehBMkpK3H21CpO";
 const EVASIVE = U(`${VEH}#evasive-manoeuvres`, "Хаотичное маневрирование");
 

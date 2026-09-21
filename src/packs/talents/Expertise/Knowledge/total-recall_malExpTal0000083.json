@@ -2,7 +2,7 @@
   "name": "Total Recall",
   "type": "talent",
   "_id": "malExpTal0000083",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Automatically remember trivial facts, complex/difficult facts may require Intelligence test. Combines well with Eidetic Memory</span></p><hr><p><span style=\"font-family: Arial\"><em>You automatically remember trivial facts or pieces of information you may have feasibly picked up in the past. When dealing with more detailed, complex, or obscure facts, such as the exact layout of a defense network, the GM may require you to make a successful Intelligence Test to recall the information. Together with Eidetic Memory, your character can be considered to have “perfect memory.“ </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

@@ -7,7 +7,7 @@ class FamiliarSheet extends NPCSheet
 
       
       static PARTS = {
-        header : {scrollable: [""], classes : ["npc-header"], template : 'modules/navis-apexialis/assets/impmal-inquisition/templates/familiar-header.hbs' },
+        header : {scrollable: [""], classes : ["npc-header"], template : 'modules/apex-imperialis/assets/impmal-inquisition/templates/familiar-header.hbs' },
         tabs: { scrollable: [""], template: 'templates/generic/tab-navigation.hbs' },
         main: { scrollable: [""], template: 'systems/impmal/templates/actor/npc/npc-main.hbs' },
         skills: { scrollable: [".sheet-list.skills .list-content"], template: 'systems/impmal/templates/actor/tabs/actor-skills.hbs' },

@@ -10,9 +10,9 @@ const pack = await readPack(out);
 let docs = 0, images = [], missing = [], ids = [];
 const walk = value => {
   if (typeof value === "string") {
-    if (/^modules\/navis-apexialis\/.+\.(webp|png|jpg|jpeg)$/i.test(value)) {
+    if (/^modules\/apex-imperialis\/.+\.(webp|png|jpg|jpeg)$/i.test(value)) {
       images.push(value);
-      const local = path.join("navis-apexialis", value.slice("modules/navis-apexialis/".length));
+      const local = path.join("apex-imperialis", value.slice("modules/apex-imperialis/".length));
       if (!fs.existsSync(local)) missing.push(value);
     }
     return;

@@ -24,10 +24,10 @@ const U = (uuid, label) => `@UUID[${uuid}]{${label}}`;
 const p = (...parts) => `<p>${parts.join("")}</p>`;
 const green = text => `<p class="green"><em>${text}</em></p>`;
 
-const CORE = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
+const CORE = "Compendium.apex-imperialis.navis-core-journals.JournalEntry";
 const ARMOURY = `${CORE}.wqlquQ8Njtd5fb4Y.JournalEntryPage`;
 const IMP = `${CORE}.GPqYZykonC12TJb1.JournalEntryPage`;
-const REQ_ACTOR = "Compendium.navis-apexialis.navis-requisition-actors.Actor";
+const REQ_ACTOR = "Compendium.apex-imperialis.navis-requisition-actors.Actor";
 
 const MECHANICUS = U(`${IMP}.nYfLVXh10BKR47Kj`, "Адептус Механикус");
 const ADMINISTRATUM = U(`${IMP}.3TtxuCzt0nNV1ysj`, "Адептус Администратум");

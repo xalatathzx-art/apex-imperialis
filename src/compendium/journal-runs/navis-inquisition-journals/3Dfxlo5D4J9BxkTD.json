@@ -6,52 +6,52 @@
  "name": "Дистанционное оружие",
  "runs": {
   "8": {
-   "en": "Inquisitors and their acolytes have a diverse selection of ranged weaponry available to them, depending on whatever covert conditions their mission requires. Often they must go outside the Imperium’s knowledge to acquire these armaments through xenos trade or syphoning energies from the very Warp. General rules for wielding @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.luQOhxIEeYF6tMgt]{Ranged Weapons} are outlined in ",
-   "ru": "Инквизиторам и их аколитам доступен разнообразный выбор дистанционного оружия — в зависимости от того, каких тайных условий требует задание. Нередко им приходится выходить за пределы ведомого Империуму, чтобы раздобыть такое вооружение через торговлю с ксеносами или вытягивая энергию из самого варпа. Общие правила использования @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.luQOhxIEeYF6tMgt]{дистанционного оружия} изложены в книге "
+   "en": "Inquisitors and their acolytes have a diverse selection of ranged weaponry available to them, depending on whatever covert conditions their mission requires. Often they must go outside the Imperium’s knowledge to acquire these armaments through xenos trade or syphoning energies from the very Warp. General rules for wielding @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.luQOhxIEeYF6tMgt]{Ranged Weapons} are outlined in ",
+   "ru": "Инквизиторам и их аколитам доступен разнообразный выбор дистанционного оружия — в зависимости от того, каких тайных условий требует задание. Нередко им приходится выходить за пределы ведомого Империуму, чтобы раздобыть такое вооружение через торговлю с ксеносами или вытягивая энергию из самого варпа. Общие правила использования @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.luQOhxIEeYF6tMgt]{дистанционного оружия} изложены в книге "
   },
   "12": {
    "en": "Imperium Maledictum",
    "ru": "Imperium Maledictum"
   },
   "16": {
-   "en": ", along with related @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#weapons-and-armour-traits]{Weapon and Armour Traits} and related @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.luQOhxIEeYF6tMgt#ranged-weapon-types]{Ranged Weapon Types}.",
-   "ru": " вместе с соответствующими @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#weapons-and-armour-traits]{свойствами оружия и брони} и @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.luQOhxIEeYF6tMgt#ranged-weapon-types]{типами дистанционного оружия}."
+   "en": ", along with related @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#weapons-and-armour-traits]{Weapon and Armour Traits} and related @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.luQOhxIEeYF6tMgt#ranged-weapon-types]{Ranged Weapon Types}.",
+   "ru": " вместе с соответствующими @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#weapons-and-armour-traits]{свойствами оружия и брони} и @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.luQOhxIEeYF6tMgt#ranged-weapon-types]{типами дистанционного оружия}."
   },
   "20": {
    "en": "Bolt Weapons",
    "ru": "Болтерное оружие"
   },
   "24": {
-   "en": "Standing alongside the Lasgun, Bolt weapons are the Imperium’s most iconic firearms, especially within the arsenal of its higher-echelon warriors. A Bolter’s rapid rounds of explosive death can tear most enemies apart in seconds, a much-needed trait against the enemies of Ordo Malleus Inquisitors. When loaded with standard Bolt ammunition, Bolt weapons have the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#penetrating-(rating)]{Penetrating} and @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#spread]{Spread} Traits.",
-   "ru": "Наряду с лазганом болтерное оружие — самое узнаваемое огнестрельное оружие Империума, особенно в арсенале его воинов высших эшелонов. Скорострельные разрывные заряды болтера способны за секунды разорвать большинство врагов — качество, крайне нужное против врагов инквизиторов Ордо Маллеус. При стрельбе стандартными болтерными зарядами болтерное оружие обладает свойствами @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#penetrating-(rating)]{«Бронебойное»} и @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#spread]{«Разлёт»}."
+   "en": "Standing alongside the Lasgun, Bolt weapons are the Imperium’s most iconic firearms, especially within the arsenal of its higher-echelon warriors. A Bolter’s rapid rounds of explosive death can tear most enemies apart in seconds, a much-needed trait against the enemies of Ordo Malleus Inquisitors. When loaded with standard Bolt ammunition, Bolt weapons have the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#penetrating-(rating)]{Penetrating} and @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#spread]{Spread} Traits.",
+   "ru": "Наряду с лазганом болтерное оружие — самое узнаваемое огнестрельное оружие Империума, особенно в арсенале его воинов высших эшелонов. Скорострельные разрывные заряды болтера способны за секунды разорвать большинство врагов — качество, крайне нужное против врагов инквизиторов Ордо Маллеус. При стрельбе стандартными болтерными зарядами болтерное оружие обладает свойствами @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#penetrating-(rating)]{«Бронебойное»} и @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#spread]{«Разлёт»}."
   },
   "28": {
    "en": "Crossbow Weapons",
    "ru": "Арбалетное оружие"
   },
   "32": {
-   "en": "The low-tech Crossbow is rarely seen on the battlefields of the 41st Millennium, only on some feral or feudal worlds. However, more specialised crossbows are still in use and have become iconic implements among some Ordo Hereticus retinues. Though often cumbersome, their boon comes from the specialist ammunition they can fire. Crossbow Weapons typically have the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#penetrating-(rating)]{Penetration} Trait.",
-   "ru": "Примитивный арбалет редко встретишь на полях сражений 41-го тысячелетия — лишь на некоторых диких или феодальных мирах. Однако более специализированные арбалеты по-прежнему в ходу и стали знаковым оружием некоторых свит Ордо Еретикус. Хотя они часто громоздки, их преимущество — особые боеприпасы, которыми они могут стрелять. Арбалетное оружие обычно обладает свойством @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#penetrating-(rating)]{«Бронебойное»}."
+   "en": "The low-tech Crossbow is rarely seen on the battlefields of the 41st Millennium, only on some feral or feudal worlds. However, more specialised crossbows are still in use and have become iconic implements among some Ordo Hereticus retinues. Though often cumbersome, their boon comes from the specialist ammunition they can fire. Crossbow Weapons typically have the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#penetrating-(rating)]{Penetration} Trait.",
+   "ru": "Примитивный арбалет редко встретишь на полях сражений 41-го тысячелетия — лишь на некоторых диких или феодальных мирах. Однако более специализированные арбалеты по-прежнему в ходу и стали знаковым оружием некоторых свит Ордо Еретикус. Хотя они часто громоздки, их преимущество — особые боеприпасы, которыми они могут стрелять. Арбалетное оружие обычно обладает свойством @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#penetrating-(rating)]{«Бронебойное»}."
   },
   "36": {
    "en": "Flame Weapons",
    "ru": "Огнемётное оружие"
   },
   "40": {
-   "en": "Despite their differences, the Imperium and their most foul enemies stand together in recognising the potency of wielding liquid flame upon the battlefield, a terrifying combination of destruction and purity. Flame weapons always have the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#flamer]{Flamer} and @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#inflict-(condition)]{Inflict} (@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Ablaze}) Trait, and often have limited magazines.",
-   "ru": "Несмотря на все различия, Империум и его гнуснейшие враги единодушно признают силу жидкого пламени на поле боя — устрашающего сочетания разрушения и очищения. Огнемётное оружие всегда обладает свойствами @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#flamer]{«Огнемёт»} и @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#inflict-(condition)]{«Состояние»} (@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Горение}) и часто имеет небольшой магазин."
+   "en": "Despite their differences, the Imperium and their most foul enemies stand together in recognising the potency of wielding liquid flame upon the battlefield, a terrifying combination of destruction and purity. Flame weapons always have the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#flamer]{Flamer} and @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#inflict-(condition)]{Inflict} (@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Ablaze}) Trait, and often have limited magazines.",
+   "ru": "Несмотря на все различия, Империум и его гнуснейшие враги единодушно признают силу жидкого пламени на поле боя — устрашающего сочетания разрушения и очищения. Огнемётное оружие всегда обладает свойствами @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#flamer]{«Огнемёт»} и @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#inflict-(condition)]{«Состояние»} (@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Горение}) и часто имеет небольшой магазин."
   },
   "44": {
    "en": "Graviton Weapons",
    "ru": "Гравитонное оружие"
   },
   "54": {
-   "en": "Graviton weapons date back to the Dark Age of Technology. They are extremely rare and jealously guarded by members of the @UUID[Compendium.navis-apexialis.navis-core-items.Item.XFPir4cg9PIHWNkc]{Adeptus Mechanicus}. The weapons are believed to fire exotic particles that affect the gravitational field within a small area. While the lowest power setting might knock a creature prone, the higher settings can crumple armour, rupture organs, and breach bulkheads.",
-   "ru": "Гравитонное оружие восходит к Тёмной эре технологий. Оно чрезвычайно редко, и члены @UUID[Compendium.navis-apexialis.navis-core-items.Item.XFPir4cg9PIHWNkc]{Адептус Механикус} ревностно его охраняют. Считается, что оно стреляет экзотическими частицами, воздействующими на гравитационное поле на небольшом участке. Если самая слабая мощность может сбить существо с ног, то на более высоких настройках оно сминает броню, разрывает органы и пробивает переборки."
+   "en": "Graviton weapons date back to the Dark Age of Technology. They are extremely rare and jealously guarded by members of the @UUID[Compendium.apex-imperialis.navis-core-items.Item.XFPir4cg9PIHWNkc]{Adeptus Mechanicus}. The weapons are believed to fire exotic particles that affect the gravitational field within a small area. While the lowest power setting might knock a creature prone, the higher settings can crumple armour, rupture organs, and breach bulkheads.",
+   "ru": "Гравитонное оружие восходит к Тёмной эре технологий. Оно чрезвычайно редко, и члены @UUID[Compendium.apex-imperialis.navis-core-items.Item.XFPir4cg9PIHWNkc]{Адептус Механикус} ревностно его охраняют. Считается, что оно стреляет экзотическими частицами, воздействующими на гравитационное поле на небольшом участке. Если самая слабая мощность может сбить существо с ног, то на более высоких настройках оно сминает броню, разрывает органы и пробивает переборки."
   },
   "58": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.OKRR6Tvq5nG6C7i7]{Graviton Pistols} are a pistol version of the larger Graviton Gun. Though the pistol version has a smaller magazine and slightly lower damage potential, they remain just as potent and exotic a weapon.",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.OKRR6Tvq5nG6C7i7]{Гравитонные пистолеты} — пистолетная версия более крупной гравитонной пушки. Хотя у пистолета меньше магазин и чуть ниже урон, он остаётся столь же мощным и экзотическим оружием."
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.OKRR6Tvq5nG6C7i7]{Graviton Pistols} are a pistol version of the larger Graviton Gun. Though the pistol version has a smaller magazine and slightly lower damage potential, they remain just as potent and exotic a weapon.",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.OKRR6Tvq5nG6C7i7]{Гравитонные пистолеты} — пистолетная версия более крупной гравитонной пушки. Хотя у пистолета меньше магазин и чуть ниже урон, он остаётся столь же мощным и экзотическим оружием."
   },
   "62": {
    "en": "Graviton weapons deal additional Damage to a creature equal to their Armour. Any creature that takes damage from a Graviton weapon must make a ",
@@ -62,8 +62,8 @@
    "ru": "Среднюю (+0) проверку Неустанности"
   },
   "66": {
-   "en": " Test or be rendered Prone. Targets wearing armour have −1 SL to this test, and armour with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#heavy-(rating)]{Heavy} Trait grants −2 SL instead.",
-   "ru": ", иначе получает состояние «Сбит с ног». Цели в броне получают −1 КУ к этой проверке, а броня со свойством @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#heavy-(rating)]{«Тяжёлое»} даёт вместо этого −2 КУ."
+   "en": " Test or be rendered Prone. Targets wearing armour have −1 SL to this test, and armour with the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#heavy-(rating)]{Heavy} Trait grants −2 SL instead.",
+   "ru": ", иначе получает состояние «Сбит с ног». Цели в броне получают −1 КУ к этой проверке, а броня со свойством @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#heavy-(rating)]{«Тяжёлое»} даёт вместо этого −2 КУ."
   },
   "70": {
    "en": "Kroot Weapons",
@@ -74,12 +74,12 @@
    "ru": "Обманчиво грубый облик круутов скрывает мощь и действенность их арсенала — особенно после их союза с Империей Тау. Такое оружие может попасть в руки Ордо Ксенос."
   },
   "78": {
-   "en": "The most common and iconic weapon of the xenos species is the @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.sKSZINM2ReZUzaHi]{Kroot Rifle}. Modelled after their ancestor’s fighting staffs, the rifle was once a slug-thrower that used a chemical propellant. T'au ingenuity has adapted the weapon to fire charged pulse rounds of significant stopping power. Despite this, the Kroot continue to affix blades to the muzzle and the stock of the Kroot Rifle, making it a surprisingly effective melee weapon. When used as a Melee Weapon, it counts as a Mundane @UUID[Compendium.navis-apexialis.navis-core-items.Item.bS4Uy21y8pkp7I7P]{Sword} (2 + StrB Damage) using the Two-handed specialisation, with @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#two-handed]{Two-Handed} and @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#defensive]{Defensive} Traits.",
-   "ru": "Самое распространённое и знаковое оружие этого вида ксеносов — @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.sKSZINM2ReZUzaHi]{крутская винтовка}. Созданная по образцу боевых посохов их предков, винтовка когда-то была пулевым оружием на химическом метательном заряде. Изобретательность тау приспособила её для стрельбы заряженными импульсными снарядами немалой останавливающей силы. Несмотря на это, крууты по-прежнему крепят клинки к дулу и прикладу крутской винтовки, делая её удивительно действенным оружием ближнего боя. При использовании в ближнем бою она считается обыденным @UUID[Compendium.navis-apexialis.navis-core-items.Item.bS4Uy21y8pkp7I7P]{мечом} (урон 2 + бСил) со специализацией «Двуручное» и свойствами @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#two-handed]{«Двуручное»} и @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#defensive]{«Оборонительное»}."
+   "en": "The most common and iconic weapon of the xenos species is the @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.sKSZINM2ReZUzaHi]{Kroot Rifle}. Modelled after their ancestor’s fighting staffs, the rifle was once a slug-thrower that used a chemical propellant. T'au ingenuity has adapted the weapon to fire charged pulse rounds of significant stopping power. Despite this, the Kroot continue to affix blades to the muzzle and the stock of the Kroot Rifle, making it a surprisingly effective melee weapon. When used as a Melee Weapon, it counts as a Mundane @UUID[Compendium.apex-imperialis.navis-core-items.Item.bS4Uy21y8pkp7I7P]{Sword} (2 + StrB Damage) using the Two-handed specialisation, with @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#two-handed]{Two-Handed} and @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#defensive]{Defensive} Traits.",
+   "ru": "Самое распространённое и знаковое оружие этого вида ксеносов — @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.sKSZINM2ReZUzaHi]{крутская винтовка}. Созданная по образцу боевых посохов их предков, винтовка когда-то была пулевым оружием на химическом метательном заряде. Изобретательность тау приспособила её для стрельбы заряженными импульсными снарядами немалой останавливающей силы. Несмотря на это, крууты по-прежнему крепят клинки к дулу и прикладу крутской винтовки, делая её удивительно действенным оружием ближнего боя. При использовании в ближнем бою она считается обыденным @UUID[Compendium.apex-imperialis.navis-core-items.Item.bS4Uy21y8pkp7I7P]{мечом} (урон 2 + бСил) со специализацией «Двуручное» и свойствами @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#two-handed]{«Двуручное»} и @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#defensive]{«Оборонительное»}."
   },
   "82": {
-   "en": "Kroot also utilise a longer range, sniper variant of their iconic rifles, bereft of the blades to preserve the weapon’s balance. Other variations include the @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Uf7UNIPc8MQ5CcSC]{Kroot Gun}, a heavy weapon commonly seen mounted upon lumbering warbeats, and @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.aeVZFr1efspD3Ffq]{Kroot Pistols}, often paired with deadly hunting knives for furious close-quarters combat.",
-   "ru": "Крууты также используют дальнобойную снайперскую разновидность своих знаменитых винтовок — без клинков, чтобы сохранить баланс оружия. Среди других разновидностей — @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Uf7UNIPc8MQ5CcSC]{крутская пушка}, тяжёлое оружие, которое обычно устанавливают на неуклюжих боевых зверей, и @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.aeVZFr1efspD3Ffq]{крутские пистолеты}, часто в паре со смертоносными охотничьими ножами для яростного ближнего боя."
+   "en": "Kroot also utilise a longer range, sniper variant of their iconic rifles, bereft of the blades to preserve the weapon’s balance. Other variations include the @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Uf7UNIPc8MQ5CcSC]{Kroot Gun}, a heavy weapon commonly seen mounted upon lumbering warbeats, and @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.aeVZFr1efspD3Ffq]{Kroot Pistols}, often paired with deadly hunting knives for furious close-quarters combat.",
+   "ru": "Крууты также используют дальнобойную снайперскую разновидность своих знаменитых винтовок — без клинков, чтобы сохранить баланс оружия. Среди других разновидностей — @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Uf7UNIPc8MQ5CcSC]{крутская пушка}, тяжёлое оружие, которое обычно устанавливают на неуклюжих боевых зверей, и @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.aeVZFr1efspD3Ffq]{крутские пистолеты}, часто в паре со смертоносными охотничьими ножами для яростного ближнего боя."
   },
   "86": {
    "en": "Malefic Weapons",
@@ -106,8 +106,8 @@
    "ru": "Сюрикенным оружием почти исключительно владеют загадочные альдари. Каждое такое оружие, созданное из призрачной кости, независимо от размера разгоняет гравитационными ускорителями острые как бритва диски из пластикристаллического материала. Залп таких дисков легко кромсает живую плоть, пробивает металл и даже пласталевую броню."
   },
   "116": {
-   "en": "While @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.NRYzJX3bg1t8qNbZ]{Shuriken Pistols} are a common and reliable sidearm among various Aeldari elements, the larger @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.2n5DOXPtBbCLMv1T]{Shuriken Rifle} is more commonly used among its citizen soldiers, corsairs, and pirates. Sometimes such weapons are gifted, in the rare and exceptional times when the perfidious Aeldari and the Holy Inquisition find their goals aligned. Even so, these weapons are rarely seen among the Ordo Xenos and avoided by more puritanical Inquisitors.",
-   "ru": "Если @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.NRYzJX3bg1t8qNbZ]{сюрикенные пистолеты} — распространённое и надёжное личное оружие у разных альдари, то более крупная @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.2n5DOXPtBbCLMv1T]{сюрикенная винтовка} чаще используется их гражданскими ополченцами, корсарами и пиратами. Порой такое оружие дарят — в те редкие и исключительные времена, когда цели вероломных альдари и Святой Инквизиции совпадают. Даже так в Ордо Ксенос это оружие встречается редко, а более пуританские инквизиторы его избегают."
+   "en": "While @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.NRYzJX3bg1t8qNbZ]{Shuriken Pistols} are a common and reliable sidearm among various Aeldari elements, the larger @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.2n5DOXPtBbCLMv1T]{Shuriken Rifle} is more commonly used among its citizen soldiers, corsairs, and pirates. Sometimes such weapons are gifted, in the rare and exceptional times when the perfidious Aeldari and the Holy Inquisition find their goals aligned. Even so, these weapons are rarely seen among the Ordo Xenos and avoided by more puritanical Inquisitors.",
+   "ru": "Если @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.NRYzJX3bg1t8qNbZ]{сюрикенные пистолеты} — распространённое и надёжное личное оружие у разных альдари, то более крупная @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.2n5DOXPtBbCLMv1T]{сюрикенная винтовка} чаще используется их гражданскими ополченцами, корсарами и пиратами. Порой такое оружие дарят — в те редкие и исключительные времена, когда цели вероломных альдари и Святой Инквизиции совпадают. Даже так в Ордо Ксенос это оружие встречается редко, а более пуританские инквизиторы его избегают."
   },
   "120": {
    "en": "When attacking, Shuriken weapons gain +1 SL.",
@@ -118,16 +118,16 @@
    "ru": "Пулевое оружие"
   },
   "128": {
-   "en": "The Inquisition maintain close ties to the Adeptus Arbites when operating within Imperial population centres. Through a legacy of joint operations, their specialised STC designs of the humble shotgun have repeatedly been requisitioned into many an Inquisitor’s arsenal. Solid projectile weapons vary wildly in their statistics and Traits and tend to accept a wider variety of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.luQOhxIEeYF6tMgt#ammunition]{Custom Ammunition}.",
-   "ru": "Действуя в населённых центрах Империума, Инквизиция поддерживает тесные связи с Адептус Арбитрес. Благодаря долгой истории совместных операций их особые СШК-образцы скромного дробовика снова и снова попадают в арсенал инквизиторов. Характеристики и свойства пулевого оружия сильно различаются, и оно, как правило, принимает больше видов @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.luQOhxIEeYF6tMgt#ammunition]{особых боеприпасов}."
+   "en": "The Inquisition maintain close ties to the Adeptus Arbites when operating within Imperial population centres. Through a legacy of joint operations, their specialised STC designs of the humble shotgun have repeatedly been requisitioned into many an Inquisitor’s arsenal. Solid projectile weapons vary wildly in their statistics and Traits and tend to accept a wider variety of @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.luQOhxIEeYF6tMgt#ammunition]{Custom Ammunition}.",
+   "ru": "Действуя в населённых центрах Империума, Инквизиция поддерживает тесные связи с Адептус Арбитрес. Благодаря долгой истории совместных операций их особые СШК-образцы скромного дробовика снова и снова попадают в арсенал инквизиторов. Характеристики и свойства пулевого оружия сильно различаются, и оно, как правило, принимает больше видов @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.luQOhxIEeYF6tMgt#ammunition]{особых боеприпасов}."
   },
   "132": {
    "en": "Specialised Ranged Weapons",
    "ru": "Специализированное дистанционное оружие"
   },
   "136": {
-   "en": "Extreme rarities even among an Inquisitor’s arsenal, Specialised Ranged Weapons defy standard categorisation. Most require an esteemed weaponsmith to craft or maintain, especially when such weapons hail from xenos origins. Specialised Ranged Weapons always come with a unique combination of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#weapons-and-armour-traits]{Traits}.",
-   "ru": "Крайняя редкость даже в арсенале инквизитора, специализированное дистанционное оружие не поддаётся стандартной классификации. Чтобы изготовить или обслуживать большую его часть, нужен уважаемый оружейник, особенно если это оружие ксеносского происхождения. У специализированного дистанционного оружия всегда уникальное сочетание @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#weapons-and-armour-traits]{свойств}."
+   "en": "Extreme rarities even among an Inquisitor’s arsenal, Specialised Ranged Weapons defy standard categorisation. Most require an esteemed weaponsmith to craft or maintain, especially when such weapons hail from xenos origins. Specialised Ranged Weapons always come with a unique combination of @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#weapons-and-armour-traits]{Traits}.",
+   "ru": "Крайняя редкость даже в арсенале инквизитора, специализированное дистанционное оружие не поддаётся стандартной классификации. Чтобы изготовить или обслуживать большую его часть, нужен уважаемый оружейник, особенно если это оружие ксеносского происхождения. У специализированного дистанционного оружия всегда уникальное сочетание @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#weapons-and-armour-traits]{свойств}."
   },
   "140": {
    "en": "Splinter Weapons",
@@ -138,12 +138,12 @@
    "ru": "Осколочным называют разное оружие, которым пользуются воины друкхари — ксеносов, печально известных набегами на миры и корабли. Это оружие магноэлектрическими импульсами раскалывает кристаллизованные нейротоксины и разгоняет их по стволу-ускорителю до сверхзвуковых скоростей. Хотя это оружие не всегда надёжно пробивает тяжёлую броню, осколки и иглы, которыми оно стреляет, способны обездвижить и убить даже одной царапиной."
   },
   "154": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.7rzrR5VhG6YQyaAY]{Splinter Rifles} are the mainstay weapon for the Drukhari. They are lightweight and have a considerably large ammunition chamber. @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.S7VPXYNKbpqjGsnh]{Splinter Pistols} are lightweight sidearms, and though they have a shorter effective range, the shots fired are no less toxic or virulent.",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.7rzrR5VhG6YQyaAY]{Осколочные винтовки} — основное оружие друкхари. Они лёгкие и имеют весьма вместительный магазин. @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.S7VPXYNKbpqjGsnh]{Осколочные пистолеты} — лёгкое личное оружие, и хотя их действенная дальность меньше, выстрелы ничуть не менее ядовиты и губительны."
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.7rzrR5VhG6YQyaAY]{Splinter Rifles} are the mainstay weapon for the Drukhari. They are lightweight and have a considerably large ammunition chamber. @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.S7VPXYNKbpqjGsnh]{Splinter Pistols} are lightweight sidearms, and though they have a shorter effective range, the shots fired are no less toxic or virulent.",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.7rzrR5VhG6YQyaAY]{Осколочные винтовки} — основное оружие друкхари. Они лёгкие и имеют весьма вместительный магазин. @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.S7VPXYNKbpqjGsnh]{Осколочные пистолеты} — лёгкое личное оружие, и хотя их действенная дальность меньше, выстрелы ничуть не менее ядовиты и губительны."
   },
   "158": {
-   "en": "Some Splinter Weapons come with monomolecular blades affixed, whether to aid in close-quarters boarding actions or sadistic melee combat. These Splinter Rifles and Splinter Pistols count as having the @UUID[Compendium.navis-apexialis.navis-core-items.Item.bme7IUpsgm3NzL83]{Melee Attachment} weapon modification, which are further improved with the @UUID[Compendium.navis-apexialis.navis-core-items.Item.rD6BtFSjpfupZss1]{Mono-edge} weapon modification. Increase the listed price of these weapons by 300 Solars.",
-   "ru": "Некоторое осколочное оружие оснащено мономолекулярными клинками — то ли для абордажных схваток в тесноте, то ли для садистского ближнего боя. Такие осколочные винтовки и пистолеты считаются имеющими модификацию @UUID[Compendium.navis-apexialis.navis-core-items.Item.bme7IUpsgm3NzL83]{«Штык»}, дополнительно улучшенную модификацией @UUID[Compendium.navis-apexialis.navis-core-items.Item.rD6BtFSjpfupZss1]{«Моноклинок»}. Увеличьте указанную цену такого оружия на 300 соляров."
+   "en": "Some Splinter Weapons come with monomolecular blades affixed, whether to aid in close-quarters boarding actions or sadistic melee combat. These Splinter Rifles and Splinter Pistols count as having the @UUID[Compendium.apex-imperialis.navis-core-items.Item.bme7IUpsgm3NzL83]{Melee Attachment} weapon modification, which are further improved with the @UUID[Compendium.apex-imperialis.navis-core-items.Item.rD6BtFSjpfupZss1]{Mono-edge} weapon modification. Increase the listed price of these weapons by 300 Solars.",
+   "ru": "Некоторое осколочное оружие оснащено мономолекулярными клинками — то ли для абордажных схваток в тесноте, то ли для садистского ближнего боя. Такие осколочные винтовки и пистолеты считаются имеющими модификацию @UUID[Compendium.apex-imperialis.navis-core-items.Item.bme7IUpsgm3NzL83]{«Штык»}, дополнительно улучшенную модификацией @UUID[Compendium.apex-imperialis.navis-core-items.Item.rD6BtFSjpfupZss1]{«Моноклинок»}. Увеличьте указанную цену такого оружия на 300 соляров."
   },
   "170": {
    "en": "Ranged Weapons",
@@ -170,8 +170,8 @@
    "ru": "Болтерное оружие"
   },
   "228": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.0rri4O1JZQQdY9xn]{Psycannon}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.0rri4O1JZQQdY9xn]{Псипушка}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.0rri4O1JZQQdY9xn]{Psycannon}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.0rri4O1JZQQdY9xn]{Псипушка}"
   },
   "232": {
    "en": "Ordnance",
@@ -186,8 +186,8 @@
    "ru": "Диковинная"
   },
   "248": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.5a899PR0BaCU81vh]{Condemnor Boltgun}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.5a899PR0BaCU81vh]{Болтер «Осуждающий»}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.5a899PR0BaCU81vh]{Condemnor Boltgun}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.5a899PR0BaCU81vh]{Болтер «Осуждающий»}"
   },
   "252": {
    "en": "Long Gun",
@@ -202,8 +202,8 @@
    "ru": "Диковинная"
   },
   "268": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.L3Z9woTZoeh62iG7]{Condemnor Boltgun (Stake)}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.L3Z9woTZoeh62iG7]{Болтер «Осуждающий» (кол)}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.L3Z9woTZoeh62iG7]{Condemnor Boltgun (Stake)}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.L3Z9woTZoeh62iG7]{Болтер «Осуждающий» (кол)}"
   },
   "272": {
    "en": "Long Gun",
@@ -222,8 +222,8 @@
    "ru": "Арбалетное оружие"
   },
   "296": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.wPmP5lOzSasuTtbs]{Handbow}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.wPmP5lOzSasuTtbs]{Ручной арбалет}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.wPmP5lOzSasuTtbs]{Handbow}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.wPmP5lOzSasuTtbs]{Ручной арбалет}"
   },
   "300": {
    "en": "Pistol",
@@ -238,8 +238,8 @@
    "ru": "Редкая"
   },
   "316": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.1dRwi7JTiuXS0vOm]{Purgatus Crossbow}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.1dRwi7JTiuXS0vOm]{Арбалет «Пургатус»}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.1dRwi7JTiuXS0vOm]{Purgatus Crossbow}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.1dRwi7JTiuXS0vOm]{Арбалет «Пургатус»}"
   },
   "320": {
    "en": "Long Gun",
@@ -254,8 +254,8 @@
    "ru": "Диковинная"
   },
   "336": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.JRagAPYG81JabKRb]{Stake Crossbow}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.JRagAPYG81JabKRb]{Кольевой арбалет}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.JRagAPYG81JabKRb]{Stake Crossbow}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.JRagAPYG81JabKRb]{Кольевой арбалет}"
   },
   "340": {
    "en": "Long Gun",
@@ -274,8 +274,8 @@
    "ru": "Огнемётное оружие"
   },
   "364": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.bOY1LvM2Fplk26u9]{Incinerator}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.bOY1LvM2Fplk26u9]{Инсинератор}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.bOY1LvM2Fplk26u9]{Incinerator}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.bOY1LvM2Fplk26u9]{Инсинератор}"
   },
   "368": {
    "en": "Long Gun",
@@ -294,8 +294,8 @@
    "ru": "Гравитонное оружие"
   },
   "392": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.OKRR6Tvq5nG6C7i7]{Graviton Pistol}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.OKRR6Tvq5nG6C7i7]{Гравитонный пистолет}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.OKRR6Tvq5nG6C7i7]{Graviton Pistol}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.OKRR6Tvq5nG6C7i7]{Гравитонный пистолет}"
   },
   "396": {
    "en": "Pistol",
@@ -310,8 +310,8 @@
    "ru": "Диковинная"
   },
   "412": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.eJDlk0sddZue0E1f]{Graviton Gun}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.eJDlk0sddZue0E1f]{Гравитонное ружьё}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.eJDlk0sddZue0E1f]{Graviton Gun}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.eJDlk0sddZue0E1f]{Гравитонное ружьё}"
   },
   "416": {
    "en": "Long Gun",
@@ -330,8 +330,8 @@
    "ru": "Крутское оружие"
   },
   "440": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Uf7UNIPc8MQ5CcSC]{Kroot Gun}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Uf7UNIPc8MQ5CcSC]{Ружьё круутов}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Uf7UNIPc8MQ5CcSC]{Kroot Gun}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Uf7UNIPc8MQ5CcSC]{Ружьё круутов}"
   },
   "444": {
    "en": "Ordnance",
@@ -346,8 +346,8 @@
    "ru": "Диковинная"
   },
   "460": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.aeVZFr1efspD3Ffq]{Kroot Pistol}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.aeVZFr1efspD3Ffq]{Пистолет круутов}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.aeVZFr1efspD3Ffq]{Kroot Pistol}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.aeVZFr1efspD3Ffq]{Пистолет круутов}"
   },
   "464": {
    "en": "Pistol",
@@ -362,8 +362,8 @@
    "ru": "Диковинная"
   },
   "480": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.sKSZINM2ReZUzaHi]{Kroot Rifle}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.sKSZINM2ReZUzaHi]{Винтовка круутов}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.sKSZINM2ReZUzaHi]{Kroot Rifle}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.sKSZINM2ReZUzaHi]{Винтовка круутов}"
   },
   "484": {
    "en": "Long Gun",
@@ -378,8 +378,8 @@
    "ru": "Диковинная"
   },
   "500": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.YobSuB8sZq86Cqc8]{Kroot Sniper Rifle}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.YobSuB8sZq86Cqc8]{Снайперская винтовка круутов}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.YobSuB8sZq86Cqc8]{Kroot Sniper Rifle}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.YobSuB8sZq86Cqc8]{Снайперская винтовка круутов}"
   },
   "504": {
    "en": "Long Gun",
@@ -398,8 +398,8 @@
    "ru": "Малефическое оружие"
   },
   "528": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.LQFJhWr1FAOEb11v]{Hell Rifle}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.LQFJhWr1FAOEb11v]{Адская винтовка}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.LQFJhWr1FAOEb11v]{Hell Rifle}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.LQFJhWr1FAOEb11v]{Адская винтовка}"
   },
   "532": {
    "en": "Long Gun",
@@ -418,8 +418,8 @@
    "ru": "Импульсное оружие"
   },
   "556": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.UM5sQFGhu5wTx21c]{Pulse Pistol}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.UM5sQFGhu5wTx21c]{Импульсный пистолет}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.UM5sQFGhu5wTx21c]{Pulse Pistol}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.UM5sQFGhu5wTx21c]{Импульсный пистолет}"
   },
   "560": {
    "en": "Pistol",
@@ -434,8 +434,8 @@
    "ru": "Диковинная"
   },
   "576": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.YLVCfXpROpZyLyFa]{Pulse Carbine}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.YLVCfXpROpZyLyFa]{Импульсный карабин}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.YLVCfXpROpZyLyFa]{Pulse Carbine}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.YLVCfXpROpZyLyFa]{Импульсный карабин}"
   },
   "580": {
    "en": "Long Gun",
@@ -450,8 +450,8 @@
    "ru": "Диковинная"
   },
   "596": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.k1votgvknxBYlt8c]{Pulse Rifle}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.k1votgvknxBYlt8c]{Импульсная винтовка}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.k1votgvknxBYlt8c]{Pulse Rifle}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.k1votgvknxBYlt8c]{Импульсная винтовка}"
   },
   "600": {
    "en": "Long Gun",
@@ -470,8 +470,8 @@
    "ru": "Сюрикенное оружие"
   },
   "624": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.NRYzJX3bg1t8qNbZ]{Shuriken Pistol}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.NRYzJX3bg1t8qNbZ]{Сюрикеновый пистолет}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.NRYzJX3bg1t8qNbZ]{Shuriken Pistol}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.NRYzJX3bg1t8qNbZ]{Сюрикеновый пистолет}"
   },
   "628": {
    "en": "Pistol",
@@ -486,8 +486,8 @@
    "ru": "Диковинная"
   },
   "644": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.2n5DOXPtBbCLMv1T]{Shuriken Rifle}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.2n5DOXPtBbCLMv1T]{Сюрикеновая винтовка}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.2n5DOXPtBbCLMv1T]{Shuriken Rifle}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.2n5DOXPtBbCLMv1T]{Сюрикеновая винтовка}"
   },
   "648": {
    "en": "Long Gun",
@@ -506,8 +506,8 @@
    "ru": "Пулевое оружие"
   },
   "672": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Xx5pV2PSO4gqwOJi]{Arbites Shotgun}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Xx5pV2PSO4gqwOJi]{Дробовик Арбитрес}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Xx5pV2PSO4gqwOJi]{Arbites Shotgun}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Xx5pV2PSO4gqwOJi]{Дробовик Арбитрес}"
   },
   "676": {
    "en": "Long Gun",
@@ -522,8 +522,8 @@
    "ru": "Редкая"
   },
   "692": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.pmzwts3g5aosWnMr]{Shotpistol}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.pmzwts3g5aosWnMr]{Дробовой пистолет}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.pmzwts3g5aosWnMr]{Shotpistol}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.pmzwts3g5aosWnMr]{Дробовой пистолет}"
   },
   "696": {
    "en": "Pistol",
@@ -542,8 +542,8 @@
    "ru": "Специализированное оружие"
   },
   "720": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.wp2OLGGLQJnFbUTa]{Digital Weapons}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.wp2OLGGLQJnFbUTa]{Цифровое оружие}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.wp2OLGGLQJnFbUTa]{Digital Weapons}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.wp2OLGGLQJnFbUTa]{Цифровое оружие}"
   },
   "724": {
    "en": "Pistol",
@@ -558,8 +558,8 @@
    "ru": "Диковинная"
   },
   "740": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.XKjw2z9uXpIV0moH]{Neuro Disruptor}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.XKjw2z9uXpIV0moH]{Нейродезинтегратор}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.XKjw2z9uXpIV0moH]{Neuro Disruptor}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.XKjw2z9uXpIV0moH]{Нейродезинтегратор}"
   },
   "744": {
    "en": "Pistol",
@@ -578,8 +578,8 @@
    "ru": "Осколочное оружие"
   },
   "768": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.S7VPXYNKbpqjGsnh]{Splinter Pistol}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.S7VPXYNKbpqjGsnh]{Осколочный пистолет}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.S7VPXYNKbpqjGsnh]{Splinter Pistol}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.S7VPXYNKbpqjGsnh]{Осколочный пистолет}"
   },
   "772": {
    "en": "Pistol",
@@ -594,8 +594,8 @@
    "ru": "Диковинная"
   },
   "788": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.7rzrR5VhG6YQyaAY]{Splinter Rifle}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.7rzrR5VhG6YQyaAY]{Осколочная винтовка}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.7rzrR5VhG6YQyaAY]{Splinter Rifle}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.7rzrR5VhG6YQyaAY]{Осколочная винтовка}"
   },
   "792": {
    "en": "Long Gun",

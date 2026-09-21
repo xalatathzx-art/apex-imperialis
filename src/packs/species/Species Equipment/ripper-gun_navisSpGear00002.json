@@ -2,7 +2,7 @@
   "name": "Ripper Gun",
   "type": "weapon",
   "_id": "navisSpGear00002",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
   "folder": "navisSpFolder004",
   "sort": 200,
   "system": {
@@ -66,7 +66,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "DoomBC_Core",
       "generated": "tools/make-species.mjs"
     }

@@ -2,7 +2,7 @@
   "name": "Strength of the Creed",
   "type": "talent",
   "_id": "malExpTal0000183",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On spend FP to gain SL: gain 2SL total (instead 1)</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever you spend a Fate Point to gain +1SL, you gain an additional SL instead (for +2SL total). </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

@@ -3,7 +3,7 @@
   "name": "Chronomancer",
   "type": "npc",
   "_id": "6j6BmJAbNYCZiTJk",
-  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -217,7 +217,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+      "src": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -239,7 +239,7 @@
     "default": 0
   },
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }
@@ -257,7 +257,7 @@
       "name": "Living Metal (4)",
       "type": "trait",
       "_id": "jEulZvw8nAImMKJX",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -325,7 +325,7 @@
       "name": "Phase Out",
       "type": "trait",
       "_id": "ztmlDgd4Boz0gP2C",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -385,7 +385,7 @@
       "name": "Reanimation Protocols (7+)",
       "type": "trait",
       "_id": "8kDtY3iAEJXCMzPb",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -453,7 +453,7 @@
       "name": "Chronometron",
       "type": "trait",
       "_id": "4cVeGhCOWL05H7az",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -513,7 +513,7 @@
       "name": "Harbinger of Eternity",
       "type": "trait",
       "_id": "QP5WHk0nFK2QlTkz",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -573,7 +573,7 @@
       "name": "Timesplinter Cloak",
       "type": "trait",
       "_id": "smm4rviMzH9WdpCK",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -633,7 +633,7 @@
       "name": "Aeonstave (Ranged)",
       "type": "weapon",
       "_id": "IZ3GjyFjZQ0GgXO8",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -703,7 +703,7 @@
       "name": "Aeonstave (Melee)",
       "type": "weapon",
       "_id": "5JlGwRoXF9hoADsM",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -773,7 +773,7 @@
       "name": "Chronotendrils",
       "type": "weapon",
       "_id": "N4Vxj9bnwX6T7EtT",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
       "system": {
         "notes": {
           "player": "",

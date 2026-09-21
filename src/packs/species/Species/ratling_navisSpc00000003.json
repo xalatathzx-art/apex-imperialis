@@ -1,8 +1,8 @@
 {
   "name": "Ratling",
-  "type": "navis-apexialis.species",
+  "type": "apex-imperialis.species",
   "_id": "navisSpc00000003",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder001",
   "sort": 300,
   "system": {
@@ -63,13 +63,13 @@
     "grantedTraits": {
       "list": [
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0006",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0006",
           "id": "navisSpTrait0006",
           "name": "Barefoot",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0007",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0007",
           "id": "navisSpTrait0007",
           "name": "Runt",
           "diff": {}
@@ -79,7 +79,7 @@
     "talents": {
       "list": [
         {
-          "uuid": "Compendium.navis-apexialis.navis-talents.Item.malExpTal0000003",
+          "uuid": "Compendium.apex-imperialis.navis-talents.Item.malExpTal0000003",
           "id": "malExpTal0000003",
           "name": "Combat Sense",
           "diff": {}
@@ -97,7 +97,7 @@
     {
       "_id": "navisSpFx0000003",
       "name": "Ratling — physiology",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "changes": [
         {
           "key": "system.combat.wounds.max",
@@ -113,7 +113,7 @@
       "description": "",
       "statuses": [],
       "flags": {
-        "navis-apexialis": {
+        "apex-imperialis": {
           "source": "DoomBC_Core",
           "generated": "tools/make-species.mjs"
         }
@@ -129,7 +129,7 @@
     }
   ],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "DoomBC_Core",
       "generated": "tools/make-species.mjs"
     }

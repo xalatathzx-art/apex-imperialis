@@ -1,8 +1,8 @@
 /**
- * Build the Navis Apexialis skin stylesheet.
+ * Build the Apex Imperialis skin stylesheet.
  *
  * Concatenates the hand-written layers in src/skin/*.css and generates the
- * impmal overrides from src/skin/mirrors.mjs, writing styles/navis-skin.css.
+ * impmal overrides from src/skin/mirrors.mjs, writing styles/apex-skin.css.
  *
  * Fails, and writes nothing, when:
  *   - a mirror names an impmal rule that no longer exists
@@ -23,10 +23,10 @@ import { mirrors, ignored } from "../src/skin/mirrors.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const IMPMAL_CSS = "D:/Foundry/DoomCrusade/Data/systems/impmal/impmal.css";
-const OUT = path.join(ROOT, "styles/navis-skin.css");
+const OUT = path.join(ROOT, "styles/apex-skin.css");
 
 const THEME = "body.impmal-theme";
-const OURS = "body.navis-skin";
+const OURS = "body.apex-skin";
 
 /** Literal paint that impmal's tokens cannot reach. */
 const LITERAL = /(#[0-9a-fA-F]{3,8}\b|rgba?\(|url\(|gradient\(|box-shadow|text-shadow|border-radius|\bwhite\b|\bblack\b|darkred|animation|filter)/;
@@ -169,7 +169,7 @@ const output = [
   "/* ══════════════════════════════════════════════════════════════════════════",
   "   50 IMPMAL MIRRORS — generated from src/skin/mirrors.mjs.",
   "   Each rule carries impmal's exact selector list with body.impmal-theme",
-  "   swapped for body.navis-skin: identical specificity, later in the cascade.",
+  "   swapped for body.apex-skin: identical specificity, later in the cascade.",
   "   ══════════════════════════════════════════════════════════════════════ */",
   "",
   generated.join("\n\n"),
@@ -211,11 +211,11 @@ parsed.walkRules(rule => {
   ruleCount++;
   for (const s of rule.selectors) {
     if (s.includes("impmal-theme")) throw new Error(`Output selector still hangs on impmal's theme class: ${s}`);
-    if (!s.includes("navis-skin")) ungated.push(s);
+    if (!s.includes("apex-skin")) ungated.push(s);
   }
 });
 if (ungated.length) {
-  throw new Error(`Every rule must be gated on body.navis-skin. Ungated:\n  ${ungated.join("\n  ")}`);
+  throw new Error(`Every rule must be gated on body.apex-skin. Ungated:\n  ${ungated.join("\n  ")}`);
 }
 
 fs.mkdirSync(path.dirname(OUT), { recursive: true });
@@ -225,4 +225,4 @@ const decided = literalRules.length;
 const mirroredRules = literalRules.filter(r => coveredRules.has(r)).length;
 console.log(`impmal themed rules painting with literals: ${decided}, all with a decision (${mirroredRules} covered)`);
 console.log(`mirrors: ${mirrors.length}, ignored with a reason: ${ignored.length}`);
-console.log(`output: ${path.relative(ROOT, OUT)} — ${ruleCount} rules, ${(output.length / 1024).toFixed(1)} KB, parses cleanly, every rule gated on body.navis-skin`);
+console.log(`output: ${path.relative(ROOT, OUT)} — ${ruleCount} rules, ${(output.length / 1024).toFixed(1)} KB, parses cleanly, every rule gated on body.apex-skin`);

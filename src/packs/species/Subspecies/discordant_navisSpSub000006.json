@@ -1,8 +1,8 @@
 {
   "name": "Discordant",
-  "type": "navis-apexialis.subspecies",
+  "type": "apex-imperialis.subspecies",
   "_id": "navisSpSub000006",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder002",
   "sort": 600,
   "system": {
@@ -43,13 +43,13 @@
     "grantedTraits": {
       "list": [
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0036",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0036",
           "id": "navisSpTrait0036",
           "name": "Aura of Technological Contempt",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0037",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0037",
           "id": "navisSpTrait0037",
           "name": "Hunted by the Machine",
           "diff": {}
@@ -69,7 +69,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "DoomBC_Core",
       "generated": "tools/make-species.mjs"
     }

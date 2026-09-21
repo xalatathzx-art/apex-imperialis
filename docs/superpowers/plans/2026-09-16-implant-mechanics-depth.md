@@ -499,7 +499,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import { GRANT_FLAG, grantKey, plannedGrants, diffGrants } from "../module/implants/grants.js";
 
-const IMPLANT = "navis-apexialis.implant";
+const IMPLANT = "apex-imperialis.implant";
 const implant = (entries, { installed = true, disabled = false, active = true, id = "imp1" } = {}) => ({
   id, type: IMPLANT,
   system: { installed, disabled, active, quality: 2, chosenEffects: {},
@@ -833,13 +833,13 @@ Run: `node --test tests/*.test.mjs` — one failure, the Voll one. Commit.
 
 Create `module/implants/grants-apply.js`. It must:
 
-- Read the implant's existing grants off the actor: items whose `flags.navis-apexialis.grantedBy` starts with this implant's id.
+- Read the implant's existing grants off the actor: items whose `flags.apex-imperialis.grantedBy` starts with this implant's id.
 - Build `plannedGrants(item)`, then `diffGrants(planned, existing, item.id)`.
 - For each entry `p` in `create` — note `plannedGrants` returns `{ entryId, kind, data }`, so the original entry is `p.data`, not `p`:
   - `p.kind === "weapon"` → `weaponDataFromProfile(p.data.profile, weaponTraitEntries)` where `weaponTraitEntries` are this implant's resolved `weaponTrait` entries.
   - `p.kind === "weaponMount"` → `await fromUuid(p.data.sourceUuid)`, `toObject()`, delete `_id`, force `system.equipped.value = true`, and apply the same trait entries.
   - `p.kind === "trait"` / `"talent"` → `await fromUuid(p.data.sourceUuid)`, `toObject()`, delete `_id`.
-  - Set `flags.navis-apexialis.grantedBy` to `grantKey(item.id, p.entryId)` on every one.
+  - Set `flags.apex-imperialis.grantedBy` to `grantKey(item.id, p.entryId)` on every one.
 
 The queue, whose shape `apply.js` already has — copy it rather than inventing a second one:
 
@@ -852,7 +852,7 @@ function queueGrantSync(item) {
   // `work` as BOTH handlers: a rejected sync must not wedge this implant's chain.
   const next = (grantQueues.get(item.id) ?? Promise.resolve()).then(work, work);
   grantQueues.set(item.id, next);
-  return next.catch(err => console.error("navis-apexialis | grant sync failed", err));
+  return next.catch(err => console.error("apex-imperialis | grant sync failed", err));
 }
 ```
 - Delete the ids in `remove`.

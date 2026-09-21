@@ -1,8 +1,8 @@
 {
   "name": "Beastman",
-  "type": "navis-apexialis.species",
+  "type": "apex-imperialis.species",
   "_id": "navisSpc00000005",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder001",
   "sort": 500,
   "system": {
@@ -62,25 +62,25 @@
     "grantedTraits": {
       "list": [
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0012",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0012",
           "id": "navisSpTrait0012",
           "name": "Cloven",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0013",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0013",
           "id": "navisSpTrait0013",
           "name": "Aversion to Order",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0014",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0014",
           "id": "navisSpTrait0014",
           "name": "Abhorrence",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0015",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0015",
           "id": "navisSpTrait0015",
           "name": "Horns and Hooves",
           "diff": {}
@@ -99,7 +99,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "DoomBC_Core",
       "generated": "tools/make-species.mjs"
     }

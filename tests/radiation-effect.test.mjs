@@ -53,5 +53,5 @@ test("the dose is read off the actor flag the biomonitor writes", () => {
 
 test("the effect names its dose so the sheet shows why stats dropped", () => {
   assert.match(buildRadiationEffect(6).name, /6$/);
-  assert.equal(buildRadiationEffect(6).flags["navis-apexialis"].radiationEffect.dose, 6);
+  assert.equal(buildRadiationEffect(6).flags["apex-imperialis"].radiationEffect.dose, 6);
 });

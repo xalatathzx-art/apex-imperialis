@@ -11,7 +11,7 @@
 
 import { SPECIES_TYPE, SUBSPECIES_TYPE } from "./species-model.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 const DETAILS_TEMPLATE = `modules/${MODULE_ID}/templates/item/species.hbs`;
 

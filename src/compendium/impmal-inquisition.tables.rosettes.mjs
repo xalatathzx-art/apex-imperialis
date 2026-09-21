@@ -16,8 +16,8 @@ export const label = "Таблицы (Руководство Инквизици�
 const U = (uuid, label) => `@UUID[${uuid}]{${label}}`;
 const row = text => ({ description: `<p>${text}</p>` });
 
-const ITEM = "Compendium.navis-apexialis.navis-core-items.Item";
-const INQ_ITEM = "Compendium.navis-apexialis.navis-inquisition-items.Item";
+const ITEM = "Compendium.apex-imperialis.navis-core-items.Item";
+const INQ_ITEM = "Compendium.apex-imperialis.navis-inquisition-items.Item";
 
 const MELTA = U(`${ITEM}.99dVOsy85KLNtGTj`, "Мельта-бомба");
 const SMOKE = U(`${ITEM}.kw9N0gOOA3YVqN4i`, "Дымовая граната");

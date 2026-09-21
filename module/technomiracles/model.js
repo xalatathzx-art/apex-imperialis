@@ -28,9 +28,9 @@
  * после того, как система вычислится.
  */
 
-export const TECHNOMIRACLE_TYPE = "navis-apexialis.technomiracle";
+export const TECHNOMIRACLE_TYPE = "apex-imperialis.technomiracle";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 let TechnoMiracleModel = null;
 

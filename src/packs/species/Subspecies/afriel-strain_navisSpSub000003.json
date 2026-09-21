@@ -1,8 +1,8 @@
 {
   "name": "Afriel Strain",
-  "type": "navis-apexialis.subspecies",
+  "type": "apex-imperialis.subspecies",
   "_id": "navisSpSub000003",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder002",
   "sort": 300,
   "system": {
@@ -43,13 +43,13 @@
     "grantedTraits": {
       "list": [
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0029",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0029",
           "id": "navisSpTrait0029",
           "name": "Engineered Talent",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0030",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0030",
           "id": "navisSpTrait0030",
           "name": "Cursed Luck",
           "diff": {}
@@ -69,7 +69,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "DoomBC_Core",
       "generated": "tools/make-species.mjs"
     }

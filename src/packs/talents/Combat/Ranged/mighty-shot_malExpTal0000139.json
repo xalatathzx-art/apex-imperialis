@@ -2,7 +2,7 @@
   "name": "Mighty Shot",
   "type": "talent",
   "_id": "malExpTal0000139",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Add BS-B/2 damage to any Ranged damage</span></p><hr><p><span style=\"font-family: Arial\"><em>You know the weak points in every type of armor and material, and have the skill to ensure that your shots land exactly where they can do the most damage. You add half your Ballistic Skill bonus (rounded up) to damage you inflict with Ranged Weapons. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

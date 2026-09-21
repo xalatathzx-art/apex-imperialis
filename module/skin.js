@@ -1,8 +1,8 @@
 /**
- * Navis Apexialis skin — runtime.
+ * Apex Imperialis skin — runtime.
  *
- * The stylesheet (styles/navis-skin.css) does the painting; everything in it is
- * gated on body.navis-skin. This file owns that class, and the refit passes in
+ * The stylesheet (styles/apex-skin.css) does the painting; everything in it is
+ * gated on body.apex-skin. This file owns that class, and the refit passes in
  * refit.js and refit-character.js that give chat cards, NPC sheets and player
  * character sheets the structure the stylesheet lays out.
  */
@@ -17,9 +17,9 @@ import { SPECIES_TYPE, SUBSPECIES_TYPE } from "./species/index.js";
 /** Last warp bar width per actor, so a re-render can animate from it. */
 const warpMemory = new Map();
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 const SETTING = "skin";
-const BODY_CLASS = "navis-skin";
+const BODY_CLASS = "apex-skin";
 
 let enabled = false;
 
@@ -31,7 +31,7 @@ export function registerSkin() {
   // render. Turning the skin off live would leave that structure behind with
   // no stylesheet to lay it out, so the change takes effect on reload.
   game.settings.register(MODULE_ID, SETTING, {
-    name: "Navis Apexialis skin",
+    name: "Apex Imperialis skin",
     hint: "Repaints the Imperium Maledictum interface — sheets, chat, windows, sidebar and hotbar — in plate, brass and rust, and lays out roll cards and NPC sheets as readouts. Works whether or not the system's own theme is enabled.",
     scope: "client",
     config: true,
@@ -282,7 +282,7 @@ function speciesData(actor) {
   const subspecies = actor.items.find(item => item.type === SUBSPECIES_TYPE);
   const items = [species, subspecies].filter(item => item);
   const granted = actor.items.filter(
-    item => item.type === "trait" && items.some(s => item.getFlag("navis-apexialis", "grantedBy") === s.id)
+    item => item.type === "trait" && items.some(s => item.getFlag("apex-imperialis", "grantedBy") === s.id)
   );
 
   // A subspecies moves the size only when it states one; otherwise the species

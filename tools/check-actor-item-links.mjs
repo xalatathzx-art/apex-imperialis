@@ -26,7 +26,7 @@ for (const book of ["core", "inquisition", "requisition", "voll"]) {
   fs.cpSync(path.join(ROOT, "packs", `navis-${book}-actors`), copy, { recursive: true, filter: s => !s.endsWith("LOCK") });
   const { primary, embedded } = partition(await readPack(copy));
   const byId = new Map(Object.values(embedded).map(doc => [doc._id, doc]));
-  const tr = JSON.parse(fs.readFileSync(path.join(ROOT, "compendium", `navis-apexialis.navis-${book}-actors.json`), "utf8")).entries;
+  const tr = JSON.parse(fs.readFileSync(path.join(ROOT, "compendium", `apex-imperialis.navis-${book}-actors.json`), "utf8")).entries;
 
   for (const actor of primary) {
     for (const id of actor.items ?? []) {

@@ -19,7 +19,7 @@
 export const label = "Предметы (Основная книга)";
 
 const SKILLS = "JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9";
-const ITEMS = "Compendium.navis-apexialis.navis-core-items.Item";
+const ITEMS = "Compendium.apex-imperialis.navis-core-items.Item";
 
 /** The heading link every specialisation opens with. */
 const skill = (anchor, label) => `<p>@UUID[${SKILLS}#${anchor}]{${label}}</p>`;

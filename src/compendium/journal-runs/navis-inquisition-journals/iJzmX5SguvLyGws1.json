@@ -6,7 +6,7 @@
  "name": "",
  "runs": {
   "2": {
-   "en": "‘@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.KN6hJOFxExaZ7fYL#witch-marks-and-other-heresies]{Witch-marks}’ and ‘Marks of Chaos’ are a generic term for things that reveal, or at least hint at, heretical actions on the part of the bearer}. The most obvious are the horrific mutations of Chaos, but there are other types of marks. They may be literal marks, such as tattoos, brands, or similar things inscribed into a heretic’s flesh. Marks of Heresy can also include items worn on the person, such as jewellery or clothing, items of xenos technology, or even implants and augmetics.",
+   "en": "‘@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.KN6hJOFxExaZ7fYL#witch-marks-and-other-heresies]{Witch-marks}’ and ‘Marks of Chaos’ are a generic term for things that reveal, or at least hint at, heretical actions on the part of the bearer}. The most obvious are the horrific mutations of Chaos, but there are other types of marks. They may be literal marks, such as tattoos, brands, or similar things inscribed into a heretic’s flesh. Marks of Heresy can also include items worn on the person, such as jewellery or clothing, items of xenos technology, or even implants and augmetics.",
    "ru": ""
   },
   "6": {
@@ -54,7 +54,7 @@
    "ru": ""
   },
   "40": {
-   "en": " if the mark draws in larger aspects, such as hidden within architecture or particular engineering. See @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.uzQAAUFfkNu8TZOi]{Radical Methods} for further guidance.",
+   "en": " if the mark draws in larger aspects, such as hidden within architecture or particular engineering. See @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.uzQAAUFfkNu8TZOi]{Radical Methods} for further guidance.",
    "ru": ""
   },
   "44": {
@@ -62,7 +62,7 @@
    "ru": ""
   },
   "48": {
-   "en": "Each of the four Chaos Gods is represented by a distinctive mark, a unique glyph whose origins and peculiarities of design are entirely cryptic. A fifth Mark, a glyph representing the undivided ideology of Chaos itself, also exists — the form of an eight-pointed star, thought to represent Chaos’s many paths and possibilities. Given the endlessly jealous acrimony among the Chaos Gods, this Mark is profoundly rare and extremely powerful, as it combines the effects of all four of the other @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.KN6hJOFxExaZ7fYL#witch-marks-and-other-heresies]{Marks}. You should reserve this particular Mark for extraordinary and particularly powerful villains!",
+   "en": "Each of the four Chaos Gods is represented by a distinctive mark, a unique glyph whose origins and peculiarities of design are entirely cryptic. A fifth Mark, a glyph representing the undivided ideology of Chaos itself, also exists — the form of an eight-pointed star, thought to represent Chaos’s many paths and possibilities. Given the endlessly jealous acrimony among the Chaos Gods, this Mark is profoundly rare and extremely powerful, as it combines the effects of all four of the other @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.KN6hJOFxExaZ7fYL#witch-marks-and-other-heresies]{Marks}. You should reserve this particular Mark for extraordinary and particularly powerful villains!",
    "ru": ""
   },
   "52": {
@@ -198,7 +198,7 @@
    "ru": ""
   },
   "364": {
-   "en": "In addition to the @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.aHz4wSCM8ogTVOhT]{Mutations} and @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.AJC7cYdzY3rIHZWm]{Malignancies} Tables in ",
+   "en": "In addition to the @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.aHz4wSCM8ogTVOhT]{Mutations} and @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.AJC7cYdzY3rIHZWm]{Malignancies} Tables in ",
    "ru": ""
   },
   "366": {
@@ -210,7 +210,7 @@
    "ru": ""
   },
   "372": {
-   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.2eoGwiPLLyZU1YLe]{Effect}",
+   "en": "@TableHTML[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.2eoGwiPLLyZU1YLe]{Effect}",
    "ru": ""
   }
  }

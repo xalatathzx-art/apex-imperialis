@@ -2,7 +2,7 @@
   "name": "Professional Marksman",
   "type": "talent",
   "_id": "malExpTal0000135",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On target hit Location: take no penalty</span></p><hr><p><span style=\"font-family: Arial\"><em>When you Target Location (pg. 210), you make such a test at no additional penalty instead of Disadvantage or the -20 Penalty from Sharpshooter.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

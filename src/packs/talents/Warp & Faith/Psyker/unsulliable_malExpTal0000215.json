@@ -2,7 +2,7 @@
   "name": "Unsulliable",
   "type": "talent",
   "_id": "malExpTal0000215",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Daemons consider your zone as a Minor Hazard</span></p><hr><p><span style=\"font-family: Arial\"><em>Your purity sends the Daemonic reeling, cleansing the space around you of all its chaotic influences. Daemons consider the zone you are in as a Minor Hazard (pg. 206). </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

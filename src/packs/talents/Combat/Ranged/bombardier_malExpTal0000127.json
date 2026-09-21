@@ -2,7 +2,7 @@
   "name": "Bombardier",
   "type": "talent",
   "_id": "malExpTal0000127",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Advantage to fire Launcher/Artillery weapons at obscured zone or a zone outside LoS</span></p><hr><p><span style=\"font-family: Arial\"><em>Due to many years of training, you are an expert with explosive weapons and have uncanny control over where projectiles land. When firing a Launcher or Artillery Weapon at a partially obscured zone or a zone with no line of sight, you have Advantage. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

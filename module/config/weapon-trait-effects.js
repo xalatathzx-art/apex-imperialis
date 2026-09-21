@@ -3,7 +3,7 @@
  *
  * impmal looks these up as `game.impmal.config.weaponTraitEffects[trait.key]`,
  * by the key stored on the weapon and never by its display name — which is why
- * these still run after Maledictum Expanded's trait names were removed from
+ * these still run after the imported trait names were removed from
  * config/glossary.js.
  *
  * Only the three that something in the packs actually carries are kept; Accurate,

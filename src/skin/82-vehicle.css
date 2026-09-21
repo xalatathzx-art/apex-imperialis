@@ -12,25 +12,25 @@
    ══════════════════════════════════════════════════════════════════════ */
 
 /* Вкладка держит блоки тем же ритмом, что и вкладки персонажа. */
-body.navis-skin .application.actor.impmal.vehicle section.tab.active[data-navis-refit="vehicle"] {
+body.apex-skin .application.actor.impmal.vehicle section.tab.active[data-navis-refit="vehicle"] {
   display: flex;
   flex-direction: column;
   gap: 12px;
 }
-body.navis-skin .application.actor.impmal.vehicle section.tab[data-navis-refit="vehicle"] > * {
+body.apex-skin .application.actor.impmal.vehicle section.tab[data-navis-refit="vehicle"] > * {
   margin: 0;
 }
 
 /* ── Шапка ────────────────────────────────────────────────────────────────
    Портрет, название и полоса показателей. */
-body.navis-skin .application.actor.impmal.vehicle .navis-vehicle-header {
+body.apex-skin .application.actor.impmal.vehicle .navis-vehicle-header {
   display: flex;
   flex-direction: column;
   gap: 10px;
   padding: 0 0 10px;
   border-bottom: 1px solid var(--navis-brass-dim);
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-nameplate {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-nameplate {
   display: flex;
   align-items: center;
   gap: 12px;
@@ -39,7 +39,7 @@ body.navis-skin .application.actor.impmal.vehicle .navis-veh-nameplate {
   background: none;
   border: 0;
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-nameplate img.profile {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-nameplate img.profile {
   flex: none;
   width: 72px;
   height: 72px;
@@ -49,11 +49,11 @@ body.navis-skin .application.actor.impmal.vehicle .navis-veh-nameplate img.profi
   object-fit: cover;
   clip-path: var(--navis-plate-sm);
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-nameplate .header-details {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-nameplate .header-details {
   flex: 1;
   min-width: 0;
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-nameplate .details-row.name input {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-nameplate .details-row.name input {
   width: 100%;
   height: auto;
   padding: 2px 0;
@@ -66,7 +66,7 @@ body.navis-skin .application.actor.impmal.vehicle .navis-veh-nameplate .details-
   text-transform: uppercase;
   color: var(--navis-brass-lit);
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-nameplate .details-row.name input:focus {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-nameplate .details-row.name input:focus {
   background: var(--navis-field-focus);
   border-bottom-color: var(--navis-brass);
   box-shadow: none;
@@ -80,13 +80,13 @@ body.navis-skin .application.actor.impmal.vehicle .navis-veh-nameplate .details-
 
    Колонки с выбором (категория, скорость, размер) шире числовых: в них лежит
    слово, а не цифра. Поэтому доли, а не равные части. */
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-stats {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-stats {
   display: grid;
   grid-template-columns: 1.6fr 0.7fr 0.8fr 1.2fr 0.85fr 1.15fr 1.15fr;
   background: var(--navis-surface);
   border: 1px solid var(--navis-line);
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-stat {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-stat {
   display: flex;
   flex-direction: column;
   gap: 2px;
@@ -94,10 +94,10 @@ body.navis-skin .application.actor.impmal.vehicle .navis-veh-stat {
   padding: 5px 8px;
   border-right: 1px solid var(--navis-line);
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-stat:last-child {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-stat:last-child {
   border-right: 0;
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-cap {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-cap {
   display: flex;
   align-items: center;
   gap: 4px;
@@ -113,19 +113,19 @@ body.navis-skin .application.actor.impmal.vehicle .navis-veh-cap {
   text-overflow: ellipsis;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-cap a {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-cap a {
   flex: none;
   font-size: 10px;
   color: var(--navis-ink-faint);
   transition: color var(--navis-transition);
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-cap a:hover {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-cap a:hover {
   color: var(--navis-accent-lit);
 }
 
 /* Значения читаются как текст, пока в них не встали редактировать — тем же
    приёмом, что и показатели персонажа. */
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-stat :is(input, select) {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-stat :is(input, select) {
   width: 100%;
   height: auto !important;
   min-height: 0 !important;
@@ -141,17 +141,17 @@ body.navis-skin .application.actor.impmal.vehicle .navis-veh-stat :is(input, sel
   line-height: 1.2 !important;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-stat select {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-stat select {
   font-size: 13px;
   font-weight: 400;
   text-overflow: ellipsis;
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-stat :is(input, select):focus {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-stat :is(input, select):focus {
   background: var(--navis-field-focus);
   outline: none;
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-stat input[type="number"]::-webkit-inner-spin-button,
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-stat input[type="number"]::-webkit-outer-spin-button {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-stat input[type="number"]::-webkit-inner-spin-button,
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-stat input[type="number"]::-webkit-outer-spin-button {
   appearance: none;
   margin: 0;
 }
@@ -159,14 +159,14 @@ body.navis-skin .application.actor.impmal.vehicle .navis-veh-stat input[type="nu
 /* ── Действия ─────────────────────────────────────────────────────────────
    Плоский ряд плашек: разбивки по назначению у действий техники нет, и
    выдумывать её значило бы решать за ведущего, что здесь манёвр, а что атака. */
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-actions {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-actions {
   display: flex;
   flex-wrap: wrap;
   gap: 4px;
   margin: 0;
   padding: 0;
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-actions > button.action {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-actions > button.action {
   flex: 1 1 auto;
   width: auto;
   min-width: 96px;
@@ -187,7 +187,7 @@ body.navis-skin .application.actor.impmal.vehicle .navis-veh-actions > button.ac
   color: var(--navis-ink-muted);
   transition: color var(--navis-transition), background-color var(--navis-transition);
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-actions > button.action:hover {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-actions > button.action:hover {
   background: var(--navis-surface);
   border-color: var(--navis-brass-dim);
   color: var(--navis-accent-lit);
@@ -195,8 +195,8 @@ body.navis-skin .application.actor.impmal.vehicle .navis-veh-actions > button.ac
 
 /* Правило действия приходит готовым HTML с таблицей внутри. Подсказке Foundry
    узко для таблицы, поэтому ей разрешается развернуться. */
-body.navis-skin #tooltip.navis-rule-tip,
-body.navis-skin .locked-tooltip.navis-rule-tip {
+body.apex-skin #tooltip.navis-rule-tip,
+body.apex-skin .locked-tooltip.navis-rule-tip {
   max-width: 460px;
   padding: 8px 10px;
   text-align: left;
@@ -204,23 +204,23 @@ body.navis-skin .locked-tooltip.navis-rule-tip {
   font-size: 12px;
   line-height: 1.4;
 }
-body.navis-skin :is(#tooltip, .locked-tooltip).navis-rule-tip p {
+body.apex-skin :is(#tooltip, .locked-tooltip).navis-rule-tip p {
   margin: 0 0 6px;
 }
-body.navis-skin :is(#tooltip, .locked-tooltip).navis-rule-tip p:last-child {
+body.apex-skin :is(#tooltip, .locked-tooltip).navis-rule-tip p:last-child {
   margin-bottom: 0;
 }
-body.navis-skin :is(#tooltip, .locked-tooltip).navis-rule-tip table {
+body.apex-skin :is(#tooltip, .locked-tooltip).navis-rule-tip table {
   width: 100%;
   margin: 6px 0 0;
   border-collapse: collapse;
   font-size: 11px;
 }
-body.navis-skin :is(#tooltip, .locked-tooltip).navis-rule-tip :is(td, th) {
+body.apex-skin :is(#tooltip, .locked-tooltip).navis-rule-tip :is(td, th) {
   padding: 2px 6px;
   border: 1px solid var(--navis-line);
 }
-body.navis-skin :is(#tooltip, .locked-tooltip).navis-rule-tip tr.title td {
+body.apex-skin :is(#tooltip, .locked-tooltip).navis-rule-tip tr.title td {
   font-family: var(--navis-font-stencil);
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -229,17 +229,17 @@ body.navis-skin :is(#tooltip, .locked-tooltip).navis-rule-tip tr.title td {
 /* Книжная иллюстрация в подсказке «Раздавить» — в полтора раза выше самой
    подсказки. Ужимаем по ширине, вместо того чтобы прятать: картинка там по
    делу, она показывает, о какой машине речь. */
-body.navis-skin :is(#tooltip, .locked-tooltip).navis-rule-tip .journal-image {
+body.apex-skin :is(#tooltip, .locked-tooltip).navis-rule-tip .journal-image {
   float: none;
   margin: 0 0 6px;
 }
-body.navis-skin :is(#tooltip, .locked-tooltip).navis-rule-tip .journal-image img {
+body.apex-skin :is(#tooltip, .locked-tooltip).navis-rule-tip .journal-image img {
   width: 100%;
   height: auto;
 }
 
 /* ── Экипаж, пассажиры, черты ────────────────────────────────────────────── */
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster {
   margin: 0;
   padding: 0;
   background: var(--navis-surface);
@@ -249,23 +249,23 @@ body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster {
   clip-path: var(--navis-plate);
   opacity: 1;
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster .list-header {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster .list-header {
   margin: 0;
   padding: 5px 10px;
   background: none;
   border: 0;
   border-bottom: 1px solid var(--navis-brass-dim);
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-header {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-header {
   display: flex;
   align-items: center;
   gap: 8px;
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-header > .list-name {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-header > .list-name {
   flex: 1;
   min-width: 0;
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-header > :not(.list-name) {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-header > :not(.list-name) {
   flex: none;
   font-family: var(--navis-font-stencil);
   font-size: 10px;
@@ -274,10 +274,10 @@ body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-head
   white-space: nowrap;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-header > .large:empty {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-header > .large:empty {
   display: none;
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster .list-header .list-name {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster .list-header .list-name {
   font-family: var(--navis-font-stencil);
   font-size: 12px;
   font-weight: 600;
@@ -287,22 +287,22 @@ body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster .list-header
 }
 /* Подзаголовок «Оружие» внутри реестра тише самого реестра: он делит один
    список, а не открывает новый. */
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster .navis-veh-subhead {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster .navis-veh-subhead {
   padding: 4px 10px 2px;
   border-bottom: 0;
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster .navis-veh-subhead .list-name {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster .navis-veh-subhead .list-name {
   font-size: 10px;
   letter-spacing: 1.2px;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster .list-row {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster .list-row {
   margin: 0;
   padding: 0;
   background: none;
   border: 0;
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-content:not(.weapons) > .list-row > .row-content {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-content:not(.weapons) > .list-row > .row-content {
   display: flex;
   align-items: center;
   gap: 8px;
@@ -310,10 +310,10 @@ body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-cont
   padding: 2px 8px;
   transition: background-color .12s linear;
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-content:not(.weapons) > .list-row > .row-content:hover {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-content:not(.weapons) > .list-row > .row-content:hover {
   background: #ffffff0a;
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-content:not(.weapons) .list-name img {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-content:not(.weapons) .list-name img {
   flex: none;
   width: 26px;
   height: 26px;
@@ -321,14 +321,14 @@ body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-cont
   border-radius: 0;
   object-fit: contain;
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-content:not(.weapons) .list-name {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-content:not(.weapons) .list-name {
   display: flex;
   align-items: center;
   gap: 7px;
   min-width: 0;
   flex: 1;
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-content:not(.weapons) .list-name a.label {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-content:not(.weapons) .list-name a.label {
   min-width: 0;
   font-family: var(--navis-font-stencil);
   font-size: 14px;
@@ -342,21 +342,21 @@ body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster > .list-cont
 }
 
 /* Метка водителя: колесо горит латунью, пустой кружок молчит. */
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster a[data-action="toggleDriver"] {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster a[data-action="toggleDriver"] {
   color: var(--navis-ink-faint);
   transition: color var(--navis-transition);
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster a[data-action="toggleDriver"]:hover {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster a[data-action="toggleDriver"]:hover {
   color: var(--navis-accent-lit);
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster a[data-action="toggleDriver"] .fa-dharmachakra {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster a[data-action="toggleDriver"] .fa-dharmachakra {
   color: var(--navis-brass-lit);
 }
 
 /* Место для перетаскивания — пунктир, а не ещё одна плашка: это приглашение,
    а не кнопка. */
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster > .droppable,
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster .list-content > .droppable {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster > .droppable,
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster .list-content > .droppable {
   display: grid;
   place-items: center;
   margin: 4px 8px 6px;
@@ -367,7 +367,7 @@ body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster .list-conten
   color: var(--navis-ink-faint);
   transition: color var(--navis-transition), border-color var(--navis-transition);
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster :is(> .droppable, .list-content > .droppable):hover {
+body.apex-skin .application.actor.impmal.vehicle .navis-veh-roster :is(> .droppable, .list-content > .droppable):hover {
   border-color: var(--navis-brass-dim);
   color: var(--navis-accent-lit);
 }
@@ -378,17 +378,17 @@ body.navis-skin .application.actor.impmal.vehicle .navis-veh-roster :is(> .dropp
    машины есть пятая ячейка — крестик удаления, которого нет у оружия в руках
    персонажа. Сетке нужна колонка под него, иначе крестик встал бы автоматически
    и сдвинул урон с дальностью на одну клетку влево. */
-body.navis-skin .application.actor.impmal.vehicle .navis-armament {
+body.apex-skin .application.actor.impmal.vehicle .navis-armament {
   --navis-arm-ctl: 18px;
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-armament .navis-arm-row {
+body.apex-skin .application.actor.impmal.vehicle .navis-armament .navis-arm-row {
   grid-template-columns:
     minmax(0, 1fr) var(--navis-arm-dmg) var(--navis-arm-rng) var(--navis-arm-skill) var(--navis-arm-ctl);
   grid-template-areas:
     "name dmg rng roll ctl"
     "mag  mag mag mag  mag";
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-armament .navis-arm-row > .list-controls {
+body.apex-skin .application.actor.impmal.vehicle .navis-armament .navis-arm-row > .list-controls {
   grid-area: ctl;
   display: flex;
   justify-content: flex-end;
@@ -396,19 +396,19 @@ body.navis-skin .application.actor.impmal.vehicle .navis-armament .navis-arm-row
   opacity: 0;
   transition: opacity var(--navis-transition);
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-armament .navis-arm-row:hover > .list-controls {
+body.apex-skin .application.actor.impmal.vehicle .navis-armament .navis-arm-row:hover > .list-controls {
   opacity: 1;
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-armament .navis-arm-row > .list-controls a {
+body.apex-skin .application.actor.impmal.vehicle .navis-armament .navis-arm-row > .list-controls a {
   color: var(--navis-ink-faint);
   transition: color var(--navis-transition);
 }
-body.navis-skin .application.actor.impmal.vehicle .navis-armament .navis-arm-row > .list-controls a:hover {
+body.apex-skin .application.actor.impmal.vehicle .navis-armament .navis-arm-row > .list-controls a:hover {
   color: var(--navis-danger);
 }
 
 /* Разделитель между стволами: у персонажа его даёт `.navis-arm-list`, которого
    здесь нет — стволы лежат в общем списке вместе с экипажем. */
-body.navis-skin .application.actor.impmal.vehicle .navis-armament > .list-row + .list-row .navis-arm-row {
+body.apex-skin .application.actor.impmal.vehicle .navis-armament > .list-row + .list-row .navis-arm-row {
   border-top: 1px solid #ffffff0d;
 }

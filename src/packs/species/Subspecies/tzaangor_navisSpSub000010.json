@@ -1,8 +1,8 @@
 {
   "name": "Tzaangor",
-  "type": "navis-apexialis.subspecies",
+  "type": "apex-imperialis.subspecies",
   "_id": "navisSpSub000010",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder002",
   "sort": 1000,
   "system": {
@@ -46,7 +46,7 @@
     "grantedTraits": {
       "list": [
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0046",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0046",
           "id": "navisSpTrait0046",
           "name": "Schemer",
           "diff": {}
@@ -66,7 +66,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "DoomBC_Core",
       "generated": "tools/make-species.mjs"
     }

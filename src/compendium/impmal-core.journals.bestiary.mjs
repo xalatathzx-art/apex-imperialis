@@ -38,8 +38,8 @@ const lightBox = (header, ...paragraphs) =>
 const quote = (text, source) =>
   p(`<em>${text}</em>`) + `<p style="text-align:right">— ${source}</p>`;
 
-const ACTOR = "Compendium.navis-apexialis.navis-core-actors.Actor";
-const ITEM = "Compendium.navis-apexialis.navis-core-items.Item";
+const ACTOR = "Compendium.apex-imperialis.navis-core-actors.Actor";
+const ITEM = "Compendium.apex-imperialis.navis-core-items.Item";
 const IMP = "JournalEntry.GPqYZykonC12TJb1.JournalEntryPage";
 const RULES = "JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage";
 const GM = "JournalEntry.f5PuitUGgp6jQz5K.JournalEntryPage.qsaLi310r4uyLu4R";
@@ -55,7 +55,7 @@ const sheetPlain = (id, name) =>
 
 /* ── Бестиарий (вводная), стр. 315 ──────────────────────────────────────*/
 const bestiaryPage =
-  `<div class="journal-image float-right flip"><img src="modules/navis-apexialis/assets/impmal-core/images/ch11.webp" height="660" /></div>` +
+  `<div class="journal-image float-right flip"><img src="modules/apex-imperialis/assets/impmal-core/images/ch11.webp" height="660" /></div>` +
   p("Если верить словам, что раздаются из вокс-вещателей в шпилях Персеполя, то в секторе Махарий ",
     "царит мир, а его обитатели избавлены от ужасов, что отравляют Империум Нигилус. Свет ",
     "Императора вновь воссиял среди звёзд, а варп-путешествия опять связали миры и народы. ",
@@ -83,7 +83,7 @@ const npcsPage =
     "Кашевар Красс, лицензированный охотник за головами") +
   p("Эта глава описывает всевозможных соратников и врагов, что вы можете повстречать в своих ",
     "приключениях. В будущих книгах появятся и новые профили.") +
-  `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/actors/ganger.webp" width="200" /></div>` +
+  `<div class="journal-image float-right"><img src="modules/apex-imperialis/assets/impmal-core/actors/ganger.webp" width="200" /></div>` +
 
   h(4, "npc-roles", "Роли неигровых персонажей") +
   p("В «<strong>Империуме Маледиктум</strong>» все враги делятся на три типа — рядовые, элита и ",
@@ -141,7 +141,7 @@ const npcsPage =
     " героев выше, чем решимость их врагов, ведущий должен подумать, не попытается ли противник ",
     "сдаться, сбежать или иным образом прекратить сопротивление. Если у врагов есть явный ",
     "командир, они все будут использовать его показатель решимости вместо своих.") +
-  `<div class="journal-image float-right flip"><img src="modules/navis-apexialis/assets/impmal-core/actors/ebon-chalice.webp" width="300" /></div>` +
+  `<div class="journal-image float-right flip"><img src="modules/apex-imperialis/assets/impmal-core/actors/ebon-chalice.webp" width="300" /></div>` +
   p("Чтобы определить, сдастся ли враг в бою, нет чётких правил или проверок. Но немало сюжетных ",
     "обстоятельств могут увеличить или уменьшить его решимость. К примеру, неигровые персонажи ",
     "могут получить +1 или больше к решимости, если:") +
@@ -249,7 +249,7 @@ const mechanicusPage =
     "Машинного бога собственные тела — заменяя плоть пласталью, кровь — благословенными маслами и ",
     "даже извлекая мозги и устанавливая вместо них сложные когитаторы. Постороннему сложно ",
     "поверить, что эти механические скелеты когда-то были людьми.") +
-  `<div class="journal-image float-right flip"><img src="modules/navis-apexialis/assets/impmal-core/images/mechanicus.webp" width="290" /></div>` +
+  `<div class="journal-image float-right flip"><img src="modules/apex-imperialis/assets/impmal-core/images/mechanicus.webp" width="290" /></div>` +
 
   h(4, "using-them-in-your-game", "Использование в играх") +
   p("Если где-то в Империуме есть сложные машины, значит там есть и ",
@@ -322,7 +322,7 @@ const militarumPage =
     "Милитарум, для которой существует только война.") +
 
   h(4, "using-them-in-your-game", "Использование в играх") +
-  `<div class="journal-image float-right flip"><img src="modules/navis-apexialis/assets/impmal-core/actors/cadian.webp" width="300" /></div>` +
+  `<div class="journal-image float-right flip"><img src="modules/apex-imperialis/assets/impmal-core/actors/cadian.webp" width="300" /></div>` +
   p("Как правило, членов ", U(`${IMP}.r6JYS3jOfrAEorvd`, "Астра Милитарум"),
     " можно встретить на передовой, где они ведут бесконечные битвы в бесчисленных войнах с ",
     "несметными врагами Империума. Если ваша игра проходит на планете, что переживает осаду или ",
@@ -357,7 +357,7 @@ const ministorumPage =
   sheetPlain("5fAQrj0KDjAXkHRY", "Праведник") +
   sheetPlain("9kYI2Oshwn0wqWUo", "Священник Министорума") +
   sheetPlain("fR4lfJVppXfiiYea", "Боевая сестра") +
-  `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-core/images/sisters-of-battle.webp" /></div>`;
+  `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-core/images/sisters-of-battle.webp" /></div>`;
 
 /* ── Инквизиция, стр. 333–335 ───────────────────────────────────────────*/
 const ordoBlock = (name, what) =>
@@ -379,7 +379,7 @@ const inquisitionPage =
     "расправу над всеми жителями Империума, кроме самого Императора.") +
 
   h(4, "using-them-in-your-game", "Использование в играх") +
-  `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/images/spot-crusader-crux.webp" width="150" /></div>` +
+  `<div class="journal-image float-right"><img src="modules/apex-imperialis/assets/impmal-core/images/spot-crusader-crux.webp" width="150" /></div>` +
   p("Инквизиция, состоящая из тайных групп искусных агентов, действующих на любых уровнях ",
     "имперского общества, — это фантастический участник любых детективных приключений. Хотя сами ",
     "инквизиторы нечасто выходят в бой лично, они регулярно организуют целые ячейки агентов, что ",
@@ -417,7 +417,7 @@ const navisPage =
     "Навис Империалис, флотах боевых и транспортных кораблей, что ведут войны в пустоте, а также у ",
     "вольных торговцев — эксцентричных межзвёздных дельцов, чьи патенты позволяют им действовать ",
     "за пределами имперского космоса.") +
-  `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/images/rogue-traders.webp" width="290" /></div>` +
+  `<div class="journal-image float-right"><img src="modules/apex-imperialis/assets/impmal-core/images/rogue-traders.webp" width="290" /></div>` +
 
   h(4, "using-them-in-your-game", "Использование в играх") +
   p("Всякий раз, когда вашим игрокам понадобится попасть на другую планету, они будут ",
@@ -477,7 +477,7 @@ const citizensPage =
     `сработает так, будто в зоне взорвалась ${U(`${ITEM}.JU4aGpoaxZLY7eIO`, "огненная бомба")}, и ` +
     `сделает зону ${U(`${RULES}.zQYkbNcsJmGintdL#hazard`, "слегка опасной")}. Срабатывание ` +
     "необнаруженной заранее ловушки понижает превосходство на 1.") +
-  `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-core/images/nihilus.webp" width="300" /></div>`;
+  `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-core/images/nihilus.webp" width="300" /></div>`;
 
 /* ── Еретики, стр. 343–346 ──────────────────────────────────────────────*/
 const hereticsPage =
@@ -497,7 +497,7 @@ const hereticsPage =
     "Хаоса или ксеносов, а потому должна быть истреблена, дабы Империум выжил.") +
 
   h(4, "using-them-in-your-game", "Использование в играх") +
-  `<div class="journal-image float-right flip"><img src="modules/navis-apexialis/assets/impmal-core/images/spot-cherub3.webp" width="120" /></div>` +
+  `<div class="journal-image float-right flip"><img src="modules/apex-imperialis/assets/impmal-core/images/spot-cherub3.webp" width="120" /></div>` +
   p("Еретики — один из самых частых и разнообразных врагов в «<strong>Империуме ",
     "Маледиктум</strong>». Их можно встретить почти на любой имперской планете, в любом сословии ",
     "— еретиками бывают и последние нищие, и вельможи. Во многих кампаниях главной целью будет ",
@@ -568,7 +568,7 @@ const xenosPage =
     "тысячами световых лет. Это позволяет альдарам перемещаться между рукотворными мирами и " +
     "планетами, а их кораблям — между звёздными системами. В Паутине же располагается сердце " +
     "общества друкхари — ужасная Комморра, — а также множество мелких царств и владений.") +
-  `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-core/images/xenos.webp" /></div>`;
+  `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-core/images/xenos.webp" /></div>`;
 
 /* ── Демоны, стр. 350–354 ───────────────────────────────────────────────*/
 const daemonsPage =
@@ -600,7 +600,7 @@ const daemonsPage =
   sheetPlain("CAvzgSBWrbnHu8zi", "Розовый ужас") +
   sheetPlain("Boq9jjqKp2eDcVe8", "Голубой ужас") +
   sheetPlain("jPEYTvQIqOBwHU6q", "Серный ужас") +
-  `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/images/daemons.webp" /></div>`;
+  `<div class="journal-image float-right"><img src="modules/apex-imperialis/assets/impmal-core/images/daemons.webp" /></div>`;
 
 export const byName = {
   Bestiary: {

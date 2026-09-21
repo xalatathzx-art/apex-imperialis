@@ -2,7 +2,7 @@
   "name": "Skilled Rider",
   "type": "talent",
   "_id": "malExpTal0000126",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On thrown off vehicle/mount: Check Agility+10, on success remain seated or land savely on your feet@ground. May test Reflexes(Dodge)+10 to avoid taking damage from ciritcal hits on mount/vehicle</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever you would be thrown from your vehicle or mount, you may make an Ordinary (+10) Agility Test. If you succeed, you land safely on your feet or retain your position in the vehicle/mount.  If you would be subject to damage from any other effects from a vehicle or mount suffering Critical Damage, you may make an Ordinary (+10) Reflexes (Dodge) Test to avoid the consequences of it before any other tests to avoid it. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

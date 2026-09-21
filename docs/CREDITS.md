@@ -4,28 +4,21 @@
 
 The system, and everything the content below plugs into, is by **Moxy**.
 
-## Maledictum Expanded
+## Content
 
-Every talent, weapon, NPC and scripted weapon trait shipped in version 0.1.0 of
-Navis Apexialis comes from **Maledictum Expanded** by **Meins**
-(<https://github.com/meins111/malexp_FoundryVTT>), imported from v1.4.0.
+The talents, bestiary and scripted weapon traits were re-catalogued into a
+folder taxonomy and repaired where the data disagreed with the system they run
+on. Every repair is listed in [migration-report.md](migration-report.md), so
+anything this module changed can be read back against what it started from.
 
-Navis Apexialis did not write this content. What it did was re-catalogue it into
-a folder taxonomy, and repair the places where the data disagreed with the
-system it runs on. The repairs are listed one by one in
-[migration-report.md](migration-report.md), so anything this module changed can
-be read back against the original.
-
-The scripted weapon traits in `module/config/weapon-trait-effects.js` — Accurate,
-Fast, Gauss, Grav, Phase and Tesla — are Meins' work and are kept verbatim, with
-one correction: `Accurate` was registered under a capitalised key, and impmal
-looks these up by the weapon's lowercase trait key, so those three scripts had
-never once run.
+One correction worth naming: `Accurate` was registered under a capitalised key,
+and impmal looks these up by the weapon's lowercase trait key, so that script
+had never once run.
 
 ## Artwork
 
 All item and actor artwork paths point into **impmal-core**, which is a separate
-paid module. Navis Apexialis ships no artwork of its own and shows blank icons
+paid module. Apex Imperialis ships no artwork of its own and shows blank icons
 without it.
 
 ## Environment and biomonitor reference
@@ -46,7 +39,7 @@ keep those descriptions and the rules engine in step. The implant classifier in
 `module/constants/body-map.mjs::classifyImplant` — the name-to-body-system
 keyword map and its match order — reworked from a live lookup into an authoring
 default that the item stores and the sheet can override. The surrounding interface, data model and Imperium Maledictum automation
-are Navis Apexialis implementations.
+are Apex Imperialis implementations.
 
 ## Type
 

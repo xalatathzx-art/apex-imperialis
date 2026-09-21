@@ -1,4 +1,4 @@
-export const MODULE_ID = "navis-apexialis";
+export const MODULE_ID = "apex-imperialis";
 export const ENVIRONMENT_FLAG = "environment";
 export const EXPOSURE_FLAG = "exposure";
 

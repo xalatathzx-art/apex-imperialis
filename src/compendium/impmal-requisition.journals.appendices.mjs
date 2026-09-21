@@ -27,11 +27,11 @@ const li = (...items) => `<ul>${items.map(i => `<li><p>${i}</p></li>`).join("")}
 const plainLi = (...items) => `<ul>${items.map(i => `<li>${i}</li>`).join("")}</ul>`;
 const blue = text => `<p class="blue"><em>${text}</em></p>`;
 
-const CORE = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
+const CORE = "Compendium.apex-imperialis.navis-core-journals.JournalEntry";
 const IMP = `${CORE}.GPqYZykonC12TJb1.JournalEntryPage`;
 const SECTOR = `${CORE}.B7MZBBT3bNew9N96.JournalEntryPage`;
-const REQ_ACTOR = "Compendium.navis-apexialis.navis-requisition-actors.Actor";
-const REQ_TABLE = "Compendium.navis-apexialis.navis-requisition-tables.RollTable";
+const REQ_ACTOR = "Compendium.apex-imperialis.navis-requisition-actors.Actor";
+const REQ_TABLE = "Compendium.apex-imperialis.navis-requisition-tables.RollTable";
 
 const MILITARUM = U(`${IMP}.r6JYS3jOfrAEorvd`, "Астра Милитарум");
 const ADMINISTRATUM = U(`${IMP}.3TtxuCzt0nNV1ysj`, "Адептус Администратум");
@@ -135,14 +135,14 @@ export const byName = {
       "Legality & Law of Markets": {
         name: "Законность и право рынков",
         text:
-          `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-requisition/images/acolytes-investigating.webp" /></div>` +
+          `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-requisition/images/acolytes-investigating.webp" /></div>` +
           blue("ЛЕКС ИМПЕРИАЛИС — ЕДИНСТВЕННАЯ ИСТИНА. <br />ЛЕКС ИМПЕРИАЛИС — ПРАВЕДНОСТЬ В ЧИСТОМ ВИДЕ. <br />ЛЕКС ИМПЕРИАЛИС — НЕРУШИМОЕ ПИСАНИЕ. <br />ЛЕКС ИМПЕРИАЛИС — ТВОЯ СОВЕСТЬ. <br />ЛЕКС ИМПЕРИАЛИС — ТВОЯ ЖЕЛЕЗНАЯ ВОЛЯ. <br />ЛЕКС ИМПЕРИАЛИС НИКОГДА НЕ ОШИБАЕТСЯ. <br />ЛЕКС ИМПЕРИАЛИС ДОЛЖЕН СОБЛЮДАТЬСЯ ВСЕГДА. <br />ЛЕКС ИМПЕРИАЛИС НЕ ЗНАЕТ МИЛОСЕРДИЯ. <br />ЛЕКС ИМПЕРИАЛИС НЕ ЗНАЕТ НЕВИНОВНЫХ.") +
           `<p class="blue" style="text-align:right"><strong>— Адептус Арбитес, «Катехизисы единоличной правоты»</strong></p>` +
           p("Лекс Империалис — нерушимый закон Империума, свод указов, которые надлежит соблюдать ",
             "повсюду. Говорят, это слово и воля самого Бога-Императора. Лекс занимается лишь ",
             "преступлениями против Империума в целом: ересью, мятежом и неисполнением тягостных ",
             "десятин, которых Терра требует без устали.") +
-          `<div class="journal-image float-right"><img width="250" src="modules/navis-apexialis/assets/impmal-requisition/misc/shackles.webp" /></div>` +
+          `<div class="journal-image float-right"><img width="250" src="modules/apex-imperialis/assets/impmal-requisition/misc/shackles.webp" /></div>` +
           p("В остальном мирам оставлена немалая свобода вводить и блюсти собственные своды законов. ",
             "Их пишут планетарные губернаторы или правящие чины Адептус Терра, и охватывают они ",
             "множество людских преступлений — побои, убийство, воровство, — а с ними и бессчётные ",
@@ -162,9 +162,9 @@ export const byName = {
             "отбиться от расспросов и отстоять свои права. Точно так же можно опереться на влияние ",
             "покровителя. Слуги ", INQUISITION, ", например, могут обойти почти любой закон, ",
             "опираясь на возможность своего господина ",
-            U("Compendium.navis-apexialis.navis-core-items.Item.3M9o35qxoxiQRzP5", "«Безграничная власть»"),
+            U("Compendium.apex-imperialis.navis-core-items.Item.3M9o35qxoxiQRzP5", "«Безграничная власть»"),
             ", — если только понимают, чем это обернётся: гневом покровителя или ударом по их ",
-            U("Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz", "незаметности"),
+            U("Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz", "незаметности"),
             ".") +
           h(3, "enforcement-and-punishment", "Надзор и наказание") +
           p("Смотря по тому, чья это подведомственность, за преступлениями следят и наказания ",
@@ -195,7 +195,7 @@ export const byName = {
             "шею от скорого и справедливого разгрома господской конторы — а можно и сгинуть вместе ",
             "с бывшим хозяином.") +
           h(3, "controlled-and-banned-goods", "Подконтрольные и запрещённые товары") +
-          `<div class="journal-image float-right flip"><img height="400" src="modules/navis-apexialis/assets/impmal-requisition/actors/macharian-vigilite.webp" /></div>` +
+          `<div class="journal-image float-right flip"><img height="400" src="modules/apex-imperialis/assets/impmal-requisition/actors/macharian-vigilite.webp" /></div>` +
           p("Достать вещь законным путём обычно означает так или иначе иметь дело с адептами ",
             ADMINISTRATUM, " или ", MUNITORUM, ": подавать заполненные бланки через конторы ",
             "Администратума или договариваться напрямую с интендантами ", MILITARUM,
@@ -300,7 +300,7 @@ export const byName = {
             "проверяющего на руках предписание от ближнего круга лорда-сектора. Для большинства он ",
             "просто очередной дотошный писец. От него будут пытаться избавиться — с грамотой или ",
             "без. Отыграть аудитора Апсилона Декантуса можно по профилю ",
-            U("Compendium.navis-apexialis.navis-core-actors.Actor.vds8HRa533wcv1Pq", "адепта Администратума"), ".") +
+            U("Compendium.apex-imperialis.navis-core-actors.Actor.vds8HRa533wcv1Pq", "адепта Администратума"), ".") +
           h(3, "decantuss-secrets", "Тайны Декантуса") +
           p("У ", DECANTUS, " нет тайн. Те немногие, кто копался в его прошлом — в основном ",
             "уязвлённые сослуживцы и раздосадованные смотрители, — не нашли ничего, что можно было ",

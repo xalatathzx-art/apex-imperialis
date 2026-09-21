@@ -8,7 +8,7 @@ export const BODY_ZONES = Object.freeze([
 
 // Абсолютный путь — как в warhammer-dbc (constants/body-map.mjs, bodyDir()).
 // Относительный резолвится от base URL документа и зависит от route prefix.
-const BODY_ASSET_ROOT = "/modules/navis-apexialis/assets/biomonitor";
+const BODY_ASSET_ROOT = "/modules/apex-imperialis/assets/biomonitor";
 export const BODY_SCAN_LAYERS = Object.freeze([
   { zone: "leftLeg", src: `${BODY_ASSET_ROOT}/left-leg.png` },
   { zone: "rightLeg", src: `${BODY_ASSET_ROOT}/right-leg.png` },
@@ -58,7 +58,7 @@ export function augmeticLocation(item) {
       if (["system.location.value", "system.slot"].includes(change.key) && valid(change.value)) return change.value;
     }
   }
-  return valid(item?.flags?.["navis-apexialis"]?.location) ?? "internal";
+  return valid(item?.flags?.["apex-imperialis"]?.location) ?? "internal";
 }
 
 /**

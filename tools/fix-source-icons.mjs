@@ -4,7 +4,7 @@
  * tools/build.mjs rebuilds packs/ from src/packs/ from scratch, so repairing the
  * built packs alone is undone by the next build. This applies the same rewrite
  * to the JSON sources: modules/impmal-core/assets/… → the vendored copy under
- * modules/navis-apexialis/assets/impmal-core/…, plus the three strays that have
+ * modules/apex-imperialis/assets/impmal-core/…, plus the three strays that have
  * no source of their own.
  *
  *   node tools/fix-source-icons.mjs [--write]
@@ -15,7 +15,7 @@ import path from "node:path";
 const ROOT = path.resolve(import.meta.dirname, "..");
 const DATA = path.resolve(ROOT, "..", "..");
 const WRITE = process.argv.includes("--write");
-const VENDORED = "modules/navis-apexialis/assets/impmal-core/";
+const VENDORED = "modules/apex-imperialis/assets/impmal-core/";
 const PLACEHOLDER = `${VENDORED}tokens/unknown.webp`;
 const EXACT = {
   [`${VENDORED}icons/talent.webp`]: `${VENDORED}icons/generic.webp`,

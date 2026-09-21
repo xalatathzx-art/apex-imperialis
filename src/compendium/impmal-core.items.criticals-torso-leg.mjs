@@ -24,7 +24,7 @@ const STUNNED = U(`${C}#stunned`, "Оглушение");
 
 const SPEED = U("JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#speed", "скорость");
 
-const I = "Compendium.navis-apexialis.navis-core-items.Item";
+const I = "Compendium.apex-imperialis.navis-core-items.Item";
 const BONE_MINOR = U(`${I}.BUjBUUB42vTh3aKD`, "Перелом (Малый)");
 const BONE_MAJOR = U(`${I}.b2oWmRETjNtrzEij`, "Перелом (Серьёзный)");
 const CHIRURGEON = U(`${I}.au8V1ieKIHkTeA8l`, "Хирургеон");

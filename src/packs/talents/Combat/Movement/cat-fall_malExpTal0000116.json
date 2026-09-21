@@ -2,7 +2,7 @@
   "name": "Cat Fall",
   "type": "talent",
   "_id": "malExpTal0000116",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Add AgiB to the distance you can savely fall before taking damage. +20 to checks to jump</span></p><hr><p><span style=\"font-family: Arial\"><em>When calculating how far you must fall to take damage, you add a number of meters equal to your Agility Bonus, ignoring this distance as if it did not exist. You also gain a +20 Bonus to Athletics Tests to Jump (pg. 203)</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

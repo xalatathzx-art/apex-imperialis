@@ -17,7 +17,7 @@
 
 export const label = "Предметы (Основная книга)";
 
-const ITEMS = "Compendium.navis-apexialis.navis-core-items.Item";
+const ITEMS = "Compendium.apex-imperialis.navis-core-items.Item";
 const RULES = "JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage";
 const TRAITS = "JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te";
 const CONDITIONS = "JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe";

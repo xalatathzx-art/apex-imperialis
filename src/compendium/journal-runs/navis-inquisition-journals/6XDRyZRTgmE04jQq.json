@@ -6,8 +6,8 @@
  "name": "Возможности",
  "runs": {
   "2": {
-   "en": "This section contains new Boons that Inquisitor Patrons can be granted to aid their Acolytes. Not every Boon is suitable for any one Patron, depending on their Puritan or Radical stance and what @UUID[.lFT1A8eGYjmaOne2]{Philosophy} they believe in. Your group should consider the corresponding Boons and Liabilities Tables for a base set of options. The @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.JiJ2Z5aXJoIhESRX]{Boons} in Imperium Maledictum are also available for selection during Patron creation.",
-   "ru": "В этом разделе приведены новые возможности, которые могут получить покровители-инквизиторы в помощь своим аколитам. Не каждая возможность подходит любому покровителю — в зависимости от его пуританской или радикальной позиции и от того, какой @UUID[.lFT1A8eGYjmaOne2]{философии} он придерживается. Вашей группе стоит обратиться к соответствующим таблицам возможностей и слабостей за базовым набором вариантов. При создании покровителя можно выбирать и @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.JiJ2Z5aXJoIhESRX]{возможности} из книги Imperium Maledictum."
+   "en": "This section contains new Boons that Inquisitor Patrons can be granted to aid their Acolytes. Not every Boon is suitable for any one Patron, depending on their Puritan or Radical stance and what @UUID[.lFT1A8eGYjmaOne2]{Philosophy} they believe in. Your group should consider the corresponding Boons and Liabilities Tables for a base set of options. The @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.JiJ2Z5aXJoIhESRX]{Boons} in Imperium Maledictum are also available for selection during Patron creation.",
+   "ru": "В этом разделе приведены новые возможности, которые могут получить покровители-инквизиторы в помощь своим аколитам. Не каждая возможность подходит любому покровителю — в зависимости от его пуританской или радикальной позиции и от того, какой @UUID[.lFT1A8eGYjmaOne2]{философии} он придерживается. Вашей группе стоит обратиться к соответствующим таблицам возможностей и слабостей за базовым набором вариантов. При создании покровителя можно выбирать и @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.JiJ2Z5aXJoIhESRX]{возможности} из книги Imperium Maledictum."
   },
   "6": {
    "en": "Some Boons award Influence with a Faction and a factional effect during play, representing alliances your Patron has made through their illustrious (or infamous) career. Though not all Boons award Influence in this way, the Gamemaster might like to use these Boons as inspiration for modifying the Patron’s future Influence gains.",
@@ -18,96 +18,96 @@
    "ru": "Узы, что связывают"
   },
   "16": {
-   "en": "Similar to the @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.5UadOpX9ykwmnH0Z]{Adeptus Arbites Ties} Boon, and other Boons in this chapter, if a Patron has access to any of the following Boons from Imperium Maledictum, they can deploy a larger detachment of troops from that force. They may wish to assert control over larger Imperial populations, assault significant targets, or conduct a widespread infiltration of their organisation. They can do this once per campaign, with the additional cost of the party losing between 1 and 3 @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Subtlety}, depending on the size of the deployment, and how airtight the characters’ alibi or reasoning is for the force’s sudden presence.",
-   "ru": "Подобно возможности @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.5UadOpX9ykwmnH0Z]{«Связи с Адептус Арбитрес»} и другим возможностям этой главы, если у покровителя есть доступ к любой из следующих возможностей из книги Imperium Maledictum, он может развернуть более крупный отряд этих сил. Он может захотеть установить контроль над крупными имперскими населёнными пунктами, штурмовать важные цели или провести масштабное проникновение в их организацию. Он может сделать это раз за кампанию ценой того, что отряд теряет от 1 до 3 @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{скрытности операции} — в зависимости от размера развёртывания и того, насколько убедительно алиби или объяснение персонажей для внезапного появления этих сил."
+   "en": "Similar to the @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.5UadOpX9ykwmnH0Z]{Adeptus Arbites Ties} Boon, and other Boons in this chapter, if a Patron has access to any of the following Boons from Imperium Maledictum, they can deploy a larger detachment of troops from that force. They may wish to assert control over larger Imperial populations, assault significant targets, or conduct a widespread infiltration of their organisation. They can do this once per campaign, with the additional cost of the party losing between 1 and 3 @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Subtlety}, depending on the size of the deployment, and how airtight the characters’ alibi or reasoning is for the force’s sudden presence.",
+   "ru": "Подобно возможности @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.5UadOpX9ykwmnH0Z]{«Связи с Адептус Арбитрес»} и другим возможностям этой главы, если у покровителя есть доступ к любой из следующих возможностей из книги Imperium Maledictum, он может развернуть более крупный отряд этих сил. Он может захотеть установить контроль над крупными имперскими населёнными пунктами, штурмовать важные цели или провести масштабное проникновение в их организацию. Он может сделать это раз за кампанию ценой того, что отряд теряет от 1 до 3 @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{скрытности операции} — в зависимости от размера развёртывания и того, насколько убедительно алиби или объяснение персонажей для внезапного появления этих сил."
   },
   "24": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.pZ6zHYkCIWPBWdRQ]{Deploy Devout}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.pZ6zHYkCIWPBWdRQ]{Фанатики}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.pZ6zHYkCIWPBWdRQ]{Deploy Devout}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.pZ6zHYkCIWPBWdRQ]{Фанатики}"
   },
   "32": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.ZN4rNe3T5dbmtwkk]{Drop Squad}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.ZN4rNe3T5dbmtwkk]{Флотский десант}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.ZN4rNe3T5dbmtwkk]{Drop Squad}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.ZN4rNe3T5dbmtwkk]{Флотский десант}"
   },
   "40": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.TlHiHOx0U3w5coz2]{Psyker Support}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.TlHiHOx0U3w5coz2]{Поддержка псайкера}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.TlHiHOx0U3w5coz2]{Psyker Support}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.TlHiHOx0U3w5coz2]{Поддержка псайкера}"
   },
   "48": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.jVqhxWe0o7nWz3Qj]{Seconded Troopers}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.jVqhxWe0o7nWz3Qj]{Прикомандированные войска}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.jVqhxWe0o7nWz3Qj]{Seconded Troopers}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.jVqhxWe0o7nWz3Qj]{Прикомандированные войска}"
   },
   "58": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.5UadOpX9ykwmnH0Z]{Adeptus Arbites Ties}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.5UadOpX9ykwmnH0Z]{Связи с Адептус Арбитрес}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.5UadOpX9ykwmnH0Z]{Adeptus Arbites Ties}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.5UadOpX9ykwmnH0Z]{Связи с Адептус Арбитрес}"
   },
   "62": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.S56anxusJpE26v03]{Arms of the Alien}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.S56anxusJpE26v03]{Оружие чужаков}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.S56anxusJpE26v03]{Arms of the Alien}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.S56anxusJpE26v03]{Оружие чужаков}"
   },
   "66": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.XHNjYyGrhYKKwXrj]{Beacon of Judgement}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.XHNjYyGrhYKKwXrj]{Маяк правосудия}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.XHNjYyGrhYKKwXrj]{Beacon of Judgement}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.XHNjYyGrhYKKwXrj]{Маяк правосудия}"
   },
   "70": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.GHtgEv8jHcThlVWK]{Chapter Ties}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.GHtgEv8jHcThlVWK]{Связи с орденом}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.GHtgEv8jHcThlVWK]{Chapter Ties}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.GHtgEv8jHcThlVWK]{Связи с орденом}"
   },
   "74": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Fg5RUOiTXkLjhOZw]{Daemonshield}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Fg5RUOiTXkLjhOZw]{Демон-щит}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Fg5RUOiTXkLjhOZw]{Daemonshield}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Fg5RUOiTXkLjhOZw]{Демон-щит}"
   },
   "78": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.0AGD77i2srXGE78M]{Death Cult Agents}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.0AGD77i2srXGE78M]{Агенты культа смерти}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.0AGD77i2srXGE78M]{Death Cult Agents}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.0AGD77i2srXGE78M]{Агенты культа смерти}"
   },
   "82": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Bty6tbImg8hG8sxu]{Deathwatch Sanction}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Bty6tbImg8hG8sxu]{Санкция Караула Смерти}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Bty6tbImg8hG8sxu]{Deathwatch Sanction}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Bty6tbImg8hG8sxu]{Санкция Караула Смерти}"
   },
   "86": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.fXL1xdBMORqze5rK]{Dubious Allies}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.fXL1xdBMORqze5rK]{Сомнительные союзники}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.fXL1xdBMORqze5rK]{Dubious Allies}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.fXL1xdBMORqze5rK]{Сомнительные союзники}"
   },
   "90": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.0UpwAa5KuteQ4L4c]{Grey Knights Sanction}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.0UpwAa5KuteQ4L4c]{Санкция Серых Рыцарей}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.0UpwAa5KuteQ4L4c]{Grey Knights Sanction}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.0UpwAa5KuteQ4L4c]{Санкция Серых Рыцарей}"
   },
   "94": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.mBNw59ZcxjYBIxPt]{Hunting Hounds}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.mBNw59ZcxjYBIxPt]{Охотничьи гончие}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.mBNw59ZcxjYBIxPt]{Hunting Hounds}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.mBNw59ZcxjYBIxPt]{Охотничьи гончие}"
   },
   "98": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.cLbXUVzpsCmizKoP]{Jokaero Technician}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.cLbXUVzpsCmizKoP]{Техник-жокаэро}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.cLbXUVzpsCmizKoP]{Jokaero Technician}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.cLbXUVzpsCmizKoP]{Техник-жокаэро}"
   },
   "102": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.4VePlkjTkcjUeuN6]{Officio Assassinorum Ties}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.4VePlkjTkcjUeuN6]{Связи с Официо Ассасинорум}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.4VePlkjTkcjUeuN6]{Officio Assassinorum Ties}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.4VePlkjTkcjUeuN6]{Связи с Официо Ассасинорум}"
   },
   "106": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.OeIcMZpeI2CFBlT1]{Ordo Tempestus Ties}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.OeIcMZpeI2CFBlT1]{Связи с Ордо Темпестус}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.OeIcMZpeI2CFBlT1]{Ordo Tempestus Ties}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.OeIcMZpeI2CFBlT1]{Связи с Ордо Темпестус}"
   },
   "110": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.F5PPX1r6UMQKcyH6]{Pall in the Warp}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.F5PPX1r6UMQKcyH6]{Пелена в Варпе}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.F5PPX1r6UMQKcyH6]{Pall in the Warp}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.F5PPX1r6UMQKcyH6]{Пелена в Варпе}"
   },
   "114": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.qNcqBfKR07ujbHnx]{Psychic Instruction}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.qNcqBfKR07ujbHnx]{Психическое наставничество}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.qNcqBfKR07ujbHnx]{Psychic Instruction}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.qNcqBfKR07ujbHnx]{Психическое наставничество}"
   },
   "118": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.oIuxCadYmWVnAdxL]{Psyker Prep}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.oIuxCadYmWVnAdxL]{Подготовка псайкеров}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.oIuxCadYmWVnAdxL]{Psyker Prep}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.oIuxCadYmWVnAdxL]{Подготовка псайкеров}"
   },
   "122": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.VSAgSVxN4oGzRNfj]{Silent Trader}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.VSAgSVxN4oGzRNfj]{Безмолвный торговец}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.VSAgSVxN4oGzRNfj]{Silent Trader}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.VSAgSVxN4oGzRNfj]{Безмолвный торговец}"
   },
   "126": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.xtKRw8pLAQlqsoEg]{Sororitas Sanction}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.xtKRw8pLAQlqsoEg]{Санкция Сороритас}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.xtKRw8pLAQlqsoEg]{Sororitas Sanction}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.xtKRw8pLAQlqsoEg]{Санкция Сороритас}"
   }
  }
 }

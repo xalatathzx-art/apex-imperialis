@@ -114,7 +114,7 @@ export const byName = {
       "Extra Eye": {
         name: "Лишний глаз",
         description:
-          "<p>На конце одного из щупалец у проклятого культиста растёт глаз. Когда он смотрит этим глазом, то считается имеющим @UUID[Compendium.navis-apexialis.navis-core-items.Item.NlduMbxJZrKejC9J]{фотовизор}.</p>"
+          "<p>На конце одного из щупалец у проклятого культиста растёт глаз. Когда он смотрит этим глазом, то считается имеющим @UUID[Compendium.apex-imperialis.navis-core-items.Item.NlduMbxJZrKejC9J]{фотовизор}.</p>"
       },
       "Lashing Tentacle": {
         name: "Хлёсткие щупальца",

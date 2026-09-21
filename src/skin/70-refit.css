@@ -22,12 +22,12 @@
    its heaviest argument — two ids — so every rule here outweighs all three of
    impmal's chat variants at once. */
 
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message {
   padding: 8px 10px 10px;
 }
 
 /* ── Header: portrait · speaker · time ──────────────────────────────────── */
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header {
   display: grid;
   grid-template-columns: auto minmax(0, 1fr) auto;
   align-items: center;
@@ -35,7 +35,7 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   margin-bottom: 8px;
   color: var(--navis-ink-faint);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .message-token {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .message-token {
   grid-column: 1;
   grid-row: 1;
   flex: none;
@@ -43,7 +43,7 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   width: 26px;
   height: 26px;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .message-token img {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .message-token img {
   width: 26px;
   height: 26px;
   object-fit: cover;
@@ -51,7 +51,7 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   border-radius: 0;
   clip-path: var(--navis-plate-sm);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .message-sender {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .message-sender {
   grid-column: 2;
   grid-row: 1;
   margin: 0;
@@ -66,12 +66,12 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   overflow: hidden;
   text-overflow: ellipsis;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .message-sender .whisper-to {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .message-sender .whisper-to {
   margin-left: 6px;
   letter-spacing: 0.6px;
   color: var(--navis-ink-faint);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .message-metadata {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .message-metadata {
   grid-column: 3;
   grid-row: 1;
   display: flex;
@@ -85,11 +85,11 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   letter-spacing: 0.6px;
   color: var(--navis-ink-faint);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .message-metadata a {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .message-metadata a {
   color: var(--navis-ink-faint);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .flavor-text,
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header > .whisper-to {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .flavor-text,
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header > .whisper-to {
   grid-column: 1 / -1;
   font-family: var(--navis-font-text);
   font-size: 13px;
@@ -97,7 +97,7 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
 }
 
 /* ── Buttons in a message: a recessed field with a rust edge ────────────── */
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .message-content button:not(.icon) {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .message-content button:not(.icon) {
   min-height: 30px;
   display: inline-flex;
   align-items: center;
@@ -111,7 +111,7 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
 }
 
 /* ── The test card ──────────────────────────────────────────────────────── */
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] {
   --oc: var(--navis-brass-dim);
   --oc-text: var(--navis-ink);
   --oc-dim: var(--navis-raised);
@@ -121,23 +121,23 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
 }
 /* Same prefix as the base rule above: it sets the defaults on the same element
    with two ids of weight, and a lighter selector here would never apply. */
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit][data-navis-outcome="success"] {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit][data-navis-outcome="success"] {
   --oc: var(--navis-success);
   --oc-text: var(--navis-success);
   --oc-dim: var(--navis-success-dim);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit][data-navis-outcome="failure"] {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit][data-navis-outcome="failure"] {
   --oc: var(--navis-danger);
   --oc-text: var(--navis-danger);
   --oc-dim: var(--navis-danger-dim);
 }
 
 /* Title: the test name, qualifiers quieter after a middle dot. */
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] > .title {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] > .title {
   margin: 0;
   text-align: left;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] > .title p {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] > .title p {
   margin: 0;
   font-family: var(--navis-font-stencil);
   font-size: 16px;
@@ -147,19 +147,19 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   text-transform: uppercase;
   color: var(--navis-ink);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] > .title .navis-qualifier {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] > .title .navis-qualifier {
   font-weight: 500;
   color: var(--navis-ink-faint);
 }
 
 /* Readout: SL plate left, evidence right. */
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-readout {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-readout {
   display: grid;
   grid-template-columns: 64px minmax(0, 1fr);
   gap: 10px;
   align-items: stretch;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-readout > .sl {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-readout > .sl {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -173,11 +173,11 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
 }
 /* A passed or failed test fills its SL plate, so the result reads before the
    numbers do. */
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit][data-navis-outcome] .navis-readout > .sl {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit][data-navis-outcome] .navis-readout > .sl {
   background: var(--oc-dim);
   border-color: var(--oc);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-readout > .sl > div {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-readout > .sl > div {
   width: auto;
   height: auto;
   margin: 0;
@@ -194,11 +194,11 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   font-weight: 700;
   color: var(--oc-text);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-readout > .sl > div::before,
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-readout > .sl > div::after {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-readout > .sl > div::before,
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-readout > .sl > div::after {
   display: none;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-sl-caption {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-sl-caption {
   font-style: normal;
   font-family: var(--navis-font-stencil);
   font-size: 10px;
@@ -207,7 +207,7 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   color: var(--navis-ink-faint);
 }
 
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -216,7 +216,7 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
 }
 
 /* Numbers: "ROLL 69 … TARGET 60". */
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .comparison {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .comparison {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
@@ -226,21 +226,21 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   font-size: 15px;
   text-align: left;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .comparison > * {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .comparison > * {
   flex: none;
   margin: 0;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .comparison .vs {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .comparison .vs {
   display: none;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .comparison :is(.roll, .target) {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .comparison :is(.roll, .target) {
   display: flex;
   align-items: baseline;
   gap: 4px;
   font-weight: 600;
   color: var(--navis-ink);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .comparison :is(.roll, .target)::before {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .comparison :is(.roll, .target)::before {
   content: attr(data-navis-label);
   font-family: var(--navis-font-stencil);
   font-size: 12px;
@@ -249,7 +249,7 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   text-transform: uppercase;
   color: var(--navis-ink-faint);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .comparison .test-breakdown {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .comparison .test-breakdown {
   margin-left: 4px;
   font-size: 12px;
   color: var(--navis-ink-faint);
@@ -258,20 +258,20 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
 
 /* The 0–100 track: the filled zone is what would have passed, the tick is
    where the die landed. */
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-track {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-track {
   position: relative;
   height: 8px;
   background: var(--navis-field);
   border: 1px solid var(--navis-line);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-track .navis-zone {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-track .navis-zone {
   display: block;
   position: absolute;
   inset: 0 auto 0 0;
   width: var(--navis-target);
   background: var(--oc-dim);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-track .navis-zone::after {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-track .navis-zone::after {
   content: "";
   position: absolute;
   right: -1px;
@@ -280,7 +280,7 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   width: 2px;
   background: var(--navis-ink-muted);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-track .navis-mark {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-track .navis-mark {
   display: block;
   position: absolute;
   top: -5px;
@@ -292,14 +292,14 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
 }
 
 /* Tier: one pip per point of SL, then the word. */
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .outcome {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .outcome {
   display: flex;
   align-items: center;
   gap: 8px;
   margin: 0;
   text-align: left;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .outcome strong {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .outcome strong {
   font-family: var(--navis-font-stencil);
   font-size: 13px;
   font-weight: 600;
@@ -308,34 +308,34 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   white-space: nowrap;
   color: var(--oc-text);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-pips {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-pips {
   display: flex;
   gap: 2px;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-pips s {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-pips s {
   display: block;
   width: 10px;
   height: 6px;
   background: var(--navis-line);
   text-decoration: none;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-pips s.on {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-pips s.on {
   background: var(--oc);
 }
 
 /* Tags: brass labels, left-aligned; a critical is hatched danger. */
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .test-details {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .test-details {
   margin: 0;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .tags {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .tags {
   justify-content: flex-start;
   gap: 4px;
   margin: 0;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .tags:empty {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .tags:empty {
   display: none;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .tags > * {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .tags > * {
   padding: 0 6px;
   line-height: 17px;
   background: transparent;
@@ -349,18 +349,18 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   text-transform: uppercase;
   color: var(--navis-brass);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .tags > .navis-crit {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .tags > .navis-crit {
   color: var(--navis-field);
   background-color: var(--navis-danger);
   background-image: var(--navis-hatch);
   border-color: var(--navis-danger);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .tags > .navis-crit a {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .tags > .navis-crit a {
   color: inherit;
 }
 
 /* ── Item posts ─────────────────────────────────────────────────────────── */
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post {
   display: grid;
   grid-template-columns: 34px minmax(0, 1fr);
   column-gap: 10px;
@@ -372,10 +372,10 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   border: 1px solid var(--navis-line);
   border-radius: 0;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post > .post-header {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post > .post-header {
   display: contents;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post > .post-header img {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post > .post-header img {
   width: 34px;
   height: 34px;
   margin: 0;
@@ -383,13 +383,13 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   border: 1px solid var(--navis-brass-dim);
   clip-path: var(--navis-plate-sm);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post .navis-post-titles {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post .navis-post-titles {
   display: flex;
   flex-direction: column;
   justify-content: center;
   min-width: 0;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post .navis-post-type {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post .navis-post-type {
   font-family: var(--navis-font-stencil);
   font-size: 11px;
   letter-spacing: 1.2px;
@@ -397,7 +397,7 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   text-transform: uppercase;
   color: var(--navis-brass);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post h4 {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post h4 {
   margin: 0;
   padding: 0;
   border: 0;
@@ -410,14 +410,14 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   text-transform: uppercase;
   color: var(--navis-ink);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post > :not(.post-header) {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post > :not(.post-header) {
   grid-column: 1 / -1;
   font-family: var(--navis-font-text);
   font-size: 13px;
   line-height: 1.5;
   color: var(--navis-ink-muted);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post a.content-link {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post a.content-link {
   padding: 0;
   background: none;
   border: 0;
@@ -431,7 +431,7 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
    result it belongs to. Here it reads as a caption to the readout: a small
    plated icon, the name in the stencil face, and a chevron that says the
    description opens on click (impmal's expandItem, unchanged). */
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use {
   margin: 0;
   padding: 0;
   background: var(--navis-raised);
@@ -439,7 +439,7 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   border-left: 3px solid var(--navis-brass-dim);
   border-radius: 0;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .item-header {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .item-header {
   display: flex;
   align-items: center;
   gap: 8px;
@@ -447,10 +447,10 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   padding: 5px 8px;
   transition: background-color var(--navis-transition);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .item-header:hover {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .item-header:hover {
   background: var(--navis-surface);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .item-header img {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .item-header img {
   flex: none;
   width: 28px;
   height: 28px;
@@ -460,7 +460,7 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   border-radius: 0;
   clip-path: var(--navis-plate-sm);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .item-header p {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .item-header p {
   flex: 1;
   min-width: 0;
   margin: 0;
@@ -475,7 +475,7 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   text-transform: uppercase;
   color: var(--navis-ink);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .item-header::after {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .item-header::after {
   content: "\f078";
   flex: none;
   font-family: var(--font-awesome, "Font Awesome 6 Pro");
@@ -484,28 +484,28 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
   color: var(--navis-ink-faint);
   transition: transform var(--navis-transition), color var(--navis-transition);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .item-header:hover::after {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .item-header:hover::after {
   color: var(--navis-accent-lit);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use:has(> .description.expanded) .item-header::after {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use:has(> .description.expanded) .item-header::after {
   transform: rotate(180deg);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .description.expanded {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .description.expanded {
   border-top: 1px solid var(--navis-line);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .description .description-expander {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .description .description-expander {
   font-family: var(--navis-font-text);
   font-size: 13px;
   line-height: 1.5;
   color: var(--navis-ink-muted);
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .description.expanded .description-expander {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .description.expanded .description-expander {
   padding: 6px 8px 8px;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .description .description-expander p {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .description .description-expander p {
   margin: 0 0 6px;
 }
-body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .description .description-expander p:last-child {
+body.apex-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .description .description-expander p:last-child {
   margin-bottom: 0;
 }
 
@@ -525,7 +525,7 @@ body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message
    `.label` claims `min-width: max-content` below — as a plain `flex: 1 0 100%`
    item its min-content contribution is zero, which is why `auto` tracks were
    no use here: the caption simply overflowed a squeezed track. */
-body.navis-skin .application.actor.impmal.npc .npc-header {
+body.apex-skin .application.actor.impmal.npc .npc-header {
   display: grid;
   grid-template-columns:
     minmax(min-content, 1.00fr)   /* Armour   — one figure, and a config link */
@@ -538,24 +538,24 @@ body.navis-skin .application.actor.impmal.npc .npc-header {
 }
 /* Makes the min-content floor above real: without it the caption's percentage
    basis reports zero and the track is free to squeeze it out of the box. */
-body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .label {
+body.apex-skin .application.actor.impmal.npc .npc-header .attribute-box > .label {
   min-width: max-content;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header > .sheet-header,
-body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table {
+body.apex-skin .application.actor.impmal.npc .npc-header > .sheet-header,
+body.apex-skin .application.actor.impmal.npc .npc-header > .characteristic-table {
   grid-column: 1 / -1;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header > .attribute-row {
+body.apex-skin .application.actor.impmal.npc .npc-header > .attribute-row {
   display: contents;
 }
 
-body.navis-skin .application.actor.impmal.npc .npc-header > .sheet-header {
+body.apex-skin .application.actor.impmal.npc .npc-header > .sheet-header {
   display: grid;
   grid-template-columns: 76px minmax(0, 1fr);
   gap: 12px;
   align-items: start;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header > .sheet-header img.profile {
+body.apex-skin .application.actor.impmal.npc .npc-header > .sheet-header img.profile {
   flex: none;
   width: 76px;
   height: 76px;
@@ -566,16 +566,16 @@ body.navis-skin .application.actor.impmal.npc .npc-header > .sheet-header img.pr
   border-radius: 0;
   clip-path: var(--navis-plate);
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .header-details {
+body.apex-skin .application.actor.impmal.npc .npc-header .header-details {
   display: flex;
   flex-direction: column;
   gap: 6px;
   min-width: 0;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .header-details .details-row.name {
+body.apex-skin .application.actor.impmal.npc .npc-header .header-details .details-row.name {
   padding: 0 10px;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .header-details .details-row.name input {
+body.apex-skin .application.actor.impmal.npc .npc-header .header-details .details-row.name input {
   height: 36px;
   line-height: 36px;
   padding: 0;
@@ -589,19 +589,19 @@ body.navis-skin .application.actor.impmal.npc .npc-header .header-details .detai
   text-transform: uppercase;
   color: var(--navis-brass-lit);
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .header-details .details-row:not(.name) {
+body.apex-skin .application.actor.impmal.npc .npc-header .header-details .details-row:not(.name) {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 6px;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .header-details .detail-group {
+body.apex-skin .application.actor.impmal.npc .npc-header .header-details .detail-group {
   display: flex;
   flex-direction: column-reverse;
   justify-content: flex-end;
   gap: 1px;
   min-width: 0;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .header-details .detail-group > label {
+body.apex-skin .application.actor.impmal.npc .npc-header .header-details .detail-group > label {
   margin: 0;
   line-height: 1.3;
   text-align: left;
@@ -612,7 +612,7 @@ body.navis-skin .application.actor.impmal.npc .npc-header .header-details .detai
   text-transform: uppercase;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .header-details .detail-group .input-group {
+body.apex-skin .application.actor.impmal.npc .npc-header .header-details .detail-group .input-group {
   min-height: 0;
   padding: 0 0 2px;
   background: transparent;
@@ -620,7 +620,7 @@ body.navis-skin .application.actor.impmal.npc .npc-header .header-details .detai
   border-bottom: 1px solid var(--navis-line);
   border-radius: 0;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .header-details .detail-group .input-group > :is(input, select, .singleton-item) {
+body.apex-skin .application.actor.impmal.npc .npc-header .header-details .detail-group .input-group > :is(input, select, .singleton-item) {
   width: 100%;
   height: 22px;
   padding: 0;
@@ -636,23 +636,23 @@ body.navis-skin .application.actor.impmal.npc .npc-header .header-details .detai
   overflow: hidden;
   text-overflow: ellipsis;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .header-details .detail-group select {
+body.apex-skin .application.actor.impmal.npc .npc-header .header-details .detail-group select {
   appearance: none;
   cursor: pointer;
 }
 
 /* Characteristics: nine cells, caption over figure. */
-body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table {
+body.apex-skin .application.actor.impmal.npc .npc-header > .characteristic-table {
   display: grid;
   grid-template-columns: repeat(9, minmax(0, 1fr));
   margin: 0;
   background: var(--navis-surface);
   border: 1px solid var(--navis-line);
 }
-body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table :is(tbody, tr) {
+body.apex-skin .application.actor.impmal.npc .npc-header > .characteristic-table :is(tbody, tr) {
   display: contents;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table td {
+body.apex-skin .application.actor.impmal.npc .npc-header > .characteristic-table td {
   height: auto;
   padding: 0;
   text-align: center;
@@ -660,13 +660,13 @@ body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-tabl
   border: 0;
   border-right: 1px solid var(--navis-line);
 }
-body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table td:nth-child(9) {
+body.apex-skin .application.actor.impmal.npc .npc-header > .characteristic-table td:nth-child(9) {
   border-right: 0;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table tr:first-child td {
+body.apex-skin .application.actor.impmal.npc .npc-header > .characteristic-table tr:first-child td {
   padding-top: 5px;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table tr:first-child td a {
+body.apex-skin .application.actor.impmal.npc .npc-header > .characteristic-table tr:first-child td a {
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -678,10 +678,10 @@ body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-tabl
   text-transform: uppercase;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table tr:last-child td {
+body.apex-skin .application.actor.impmal.npc .npc-header > .characteristic-table tr:last-child td {
   padding-bottom: 6px;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table tr:last-child td input {
+body.apex-skin .application.actor.impmal.npc .npc-header > .characteristic-table tr:last-child td input {
   width: 100%;
   height: 24px;
   padding: 0;
@@ -693,7 +693,7 @@ body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-tabl
   font-weight: 600;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table td.navis-hi input {
+body.apex-skin .application.actor.impmal.npc .npc-header > .characteristic-table td.navis-hi input {
   color: var(--navis-brass-lit);
 }
 
@@ -710,7 +710,7 @@ body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-tabl
    meter span the full width of the box. impmal's own inline `grid-column` on
    each child is stripped in refitNpcHeader — it lays the box out as twelve
    columns and no stylesheet can outrank it. */
-body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box {
+body.apex-skin .application.actor.impmal.npc .npc-header .attribute-box {
   display: grid;
   grid-template-columns: auto minmax(0, 1fr);
   /* warhammer-lib gives the box `grid-template-rows: repeat(2, 1fr)` — two
@@ -730,14 +730,14 @@ body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box {
   border-top: 2px solid var(--navis-brass-dim);
   clip-path: none;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .label {
+body.apex-skin .application.actor.impmal.npc .npc-header .attribute-box > .label {
   grid-column: 1 / -1;
   display: flex;
   justify-content: flex-start;
   height: auto;
   text-align: left;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .label :is(label, a) {
+body.apex-skin .application.actor.impmal.npc .npc-header .attribute-box > .label :is(label, a) {
   display: inline-flex;
   align-items: center;
   gap: 4px;
@@ -749,11 +749,11 @@ body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .labe
   text-transform: uppercase;
   color: var(--navis-brass);
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .label i {
+body.apex-skin .application.actor.impmal.npc .npc-header .attribute-box > .label i {
   font-size: 10px;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .field {
+body.apex-skin .application.actor.impmal.npc .npc-header .attribute-box > .field {
   display: flex;
   align-items: baseline;
   width: auto;
@@ -764,19 +764,19 @@ body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .fiel
   font-weight: 600;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > :is(.label, .field) {
+body.apex-skin .application.actor.impmal.npc .npc-header .attribute-box > :is(.label, .field) {
   margin: 0;
   line-height: 1.1;
 }
 /* A box holding one bare figure — Init, Resolve, and flat Armour — centres it.
    Left-aligned, a single digit sits stranded at the edge of a box sized by its
    caption. A value/max pair keeps its left edge, because the two read across. */
-body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box:not(:has(> .field ~ .field)) > .field:has(input[type="number"]) {
+body.apex-skin .application.actor.impmal.npc .npc-header .attribute-box:not(:has(> .field ~ .field)) > .field:has(input[type="number"]) {
   grid-column: 1 / -1;
   justify-self: center;
 }
 /* impmal's theme gives every attribute input a 0.2rem margin: dead height here. */
-body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .field input {
+body.apex-skin .application.actor.impmal.npc .npc-header .attribute-box > .field input {
   margin: 0;
   field-sizing: content;
   min-width: 2ch;
@@ -792,22 +792,22 @@ body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .fiel
   font-weight: 600;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .field input[type="text"] {
+body.apex-skin .application.actor.impmal.npc .npc-header .attribute-box > .field input[type="text"] {
   font-size: 14px;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .field + .field::before {
+body.apex-skin .application.actor.impmal.npc .npc-header .attribute-box > .field + .field::before {
   content: "/";
   margin-right: 4px;
   font-size: 12px;
   font-weight: 500;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .field + .field input {
+body.apex-skin .application.actor.impmal.npc .npc-header .attribute-box > .field + .field input {
   font-size: 12px;
   font-weight: 500;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .navis-meter {
+body.apex-skin .application.actor.impmal.npc .npc-header .attribute-box > .navis-meter {
   grid-column: 1 / -1;
   position: relative;
   height: 5px;
@@ -815,7 +815,7 @@ body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .navi
   background: var(--navis-field);
   border: 1px solid var(--navis-line);
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .navis-meter i {
+body.apex-skin .application.actor.impmal.npc .npc-header .attribute-box > .navis-meter i {
   display: block;
   position: absolute;
   inset: 0 auto 0 0;
@@ -830,7 +830,7 @@ body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .navi
       and two Cyrillic letters run into the next, so the row is re-weighted:
       Armour takes roughly twice its usual track and the other five give up the
       surplus they were carrying, each still clearing its caption. */
-body.navis-skin .application.actor.impmal.npc .npc-header:has(.armour-properties .locations) {
+body.apex-skin .application.actor.impmal.npc .npc-header:has(.armour-properties .locations) {
   grid-template-columns:
     minmax(min-content, 1.85fr)   /* six locations, about 27px each */
     minmax(min-content, 0.64fr)
@@ -842,29 +842,29 @@ body.navis-skin .application.actor.impmal.npc .npc-header:has(.armour-properties
 /* Every other field in the row is shrink-to-fit — a number wants no more. This
    one holds a six-column strip, and `.locations` sizes itself at `width: 100%`,
    which against a shrink-to-fit parent resolves to nothing. */
-body.navis-skin .application.actor.impmal.npc .npc-header .armour-properties > .field:has(.locations) {
+body.apex-skin .application.actor.impmal.npc .npc-header .armour-properties > .field:has(.locations) {
   grid-column: 1 / -1;
   width: 100%;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .armour-properties .locations {
+body.apex-skin .application.actor.impmal.npc .npc-header .armour-properties .locations {
   display: grid;
   grid-template-columns: repeat(6, minmax(0, 1fr));
   gap: 1px;
   width: 100%;
   background: none;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .armour-properties .locations .location {
+body.apex-skin .application.actor.impmal.npc .npc-header .armour-properties .locations .location {
   width: auto;
   height: auto;
   min-width: 0;
   padding: 1px 0;
   background: var(--navis-field);
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .armour-properties .locations .location .location-values {
+body.apex-skin .application.actor.impmal.npc .npc-header .armour-properties .locations .location .location-values {
   gap: 0;
   line-height: 1;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .armour-properties .locations .location label {
+body.apex-skin .application.actor.impmal.npc .npc-header .armour-properties .locations .location label {
   margin: 0;
   font-family: var(--navis-font-stencil);
   font-size: 9px;
@@ -873,10 +873,10 @@ body.navis-skin .application.actor.impmal.npc .npc-header .armour-properties .lo
   line-height: 1;
   color: var(--navis-brass);
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .armour-properties .locations .location label a {
+body.apex-skin .application.actor.impmal.npc .npc-header .armour-properties .locations .location label a {
   color: inherit;
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .armour-properties .locations .location .armour-value {
+body.apex-skin .application.actor.impmal.npc .npc-header .armour-properties .locations .location .armour-value {
   font-family: var(--navis-font-text);
   font-size: 14px;
   font-weight: 600;
@@ -884,17 +884,17 @@ body.navis-skin .application.actor.impmal.npc .npc-header .armour-properties .lo
   line-height: 1.05;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal.npc .npc-header .armour-properties .locations .location .armour-value.damaged {
+body.apex-skin .application.actor.impmal.npc .npc-header .armour-properties .locations .location .armour-value.damaged {
   color: var(--navis-danger);
 }
 
 /* ── Tabs ───────────────────────────────────────────────────────────────── */
-body.navis-skin .application.actor.impmal.npc nav.sheet-tabs {
+body.apex-skin .application.actor.impmal.npc nav.sheet-tabs {
   display: flex;
   border: 0;
   border-bottom: 1px solid var(--navis-line);
 }
-body.navis-skin .application.actor.impmal.npc nav.sheet-tabs > a[data-tab] {
+body.apex-skin .application.actor.impmal.npc nav.sheet-tabs > a[data-tab] {
   flex: 1;
   padding: 6px 0 7px;
   text-align: center;
@@ -905,20 +905,20 @@ body.navis-skin .application.actor.impmal.npc nav.sheet-tabs > a[data-tab] {
   text-transform: uppercase;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.npc nav.sheet-tabs > a[data-tab].active {
+body.apex-skin .application.actor.impmal.npc nav.sheet-tabs > a[data-tab].active {
   color: var(--navis-accent-lit);
   background: var(--navis-raised);
   box-shadow: inset 0 -2px 0 var(--navis-accent);
 }
 
 /* ── Actions: a control panel, three rows grouped by what they do ────────── */
-body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list.navis-actions {
+body.apex-skin .application.actor.impmal:is(.npc, .character) .action-list.navis-actions {
   display: grid;
   grid-template-columns: auto minmax(0, 1fr);
   gap: 6px 10px;
   align-items: center;
 }
-body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list .navis-action-caption {
+body.apex-skin .application.actor.impmal:is(.npc, .character) .action-list .navis-action-caption {
   justify-self: end;
   width: 58px;
   text-align: right;
@@ -929,7 +929,7 @@ body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list .nav
   text-transform: uppercase;
   color: var(--navis-brass);
 }
-body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list .navis-action-row {
+body.apex-skin .application.actor.impmal:is(.npc, .character) .action-list .navis-action-row {
   display: grid;
   grid-template-columns: repeat(5, minmax(0, 1fr));
   gap: 4px;
@@ -945,7 +945,7 @@ body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list .nav
    cannot reach, so a label too long for its cell is shaved at BOTH ends and
    reads as nonsense. As a block the text truncates from the right, with an
    ellipsis, and the full name stays on the tooltip the refit sets. */
-body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list .navis-action-row > button.action {
+body.apex-skin .application.actor.impmal:is(.npc, .character) .action-list .navis-action-row > button.action {
   display: block;
   min-width: 0;
   height: 26px;
@@ -968,14 +968,14 @@ body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list .nav
   color: var(--navis-ink-muted);
   transition: color var(--navis-transition), background-color var(--navis-transition);
 }
-body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list .navis-action-row > button.action:is(:hover, :focus-visible) {
+body.apex-skin .application.actor.impmal:is(.npc, .character) .action-list .navis-action-row > button.action:is(:hover, :focus-visible) {
   color: var(--navis-accent-lit);
   background: var(--navis-raised);
   border-left: 3px solid var(--navis-accent);
 }
 /* The chosen action, in the grid's own shape: caption left, a lifted plate
    with a rust edge right. */
-body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list.navis-has-current .current-action {
+body.apex-skin .application.actor.impmal:is(.npc, .character) .action-list.navis-has-current .current-action {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -989,7 +989,7 @@ body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list.navi
   border: 1px solid var(--navis-line);
   border-left: 3px solid var(--navis-accent);
 }
-body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list.navis-has-current .current-action > div {
+body.apex-skin .application.actor.impmal:is(.npc, .character) .action-list.navis-has-current .current-action > div {
   display: flex;
   align-items: center;
   min-width: 0;
@@ -997,7 +997,7 @@ body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list.navi
   margin: 0;
   background: none;
 }
-body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list.navis-has-current .navis-current-value {
+body.apex-skin .application.actor.impmal:is(.npc, .character) .action-list.navis-has-current .navis-current-value {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -1008,7 +1008,7 @@ body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list.navi
   text-transform: uppercase;
   color: var(--navis-accent-lit);
 }
-body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list.navis-has-current .current-action > a {
+body.apex-skin .application.actor.impmal:is(.npc, .character) .action-list.navis-has-current .current-action > a {
   flex: none;
   display: grid;
   place-items: center;
@@ -1019,19 +1019,19 @@ body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list.navi
   color: var(--navis-ink-faint);
   transition: color var(--navis-transition);
 }
-body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list.navis-has-current .current-action > a:hover {
+body.apex-skin .application.actor.impmal:is(.npc, .character) .action-list.navis-has-current .current-action > a:hover {
   color: var(--navis-accent-lit);
 }
 
 /* ── Blocks: every list on the Main tab ─────────────────────────────────── */
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) section.tab[data-tab="main"] > .sheet-list {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) section.tab[data-tab="main"] > .sheet-list {
   padding: 0;
   background: var(--navis-surface);
   border: 1px solid var(--navis-line);
   border-left: 3px solid var(--navis-brass-dim);
   clip-path: var(--navis-plate);
 }
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) section.tab[data-tab="main"] > .sheet-list > .list-header {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) section.tab[data-tab="main"] > .sheet-list > .list-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -1042,7 +1042,7 @@ body.navis-skin .application.actor.impmal:is(.npc, .vehicle) section.tab[data-ta
   border: 0;
   border-bottom: 1px solid var(--navis-brass-dim);
 }
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) section.tab[data-tab="main"] > .sheet-list > .list-header .list-name {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) section.tab[data-tab="main"] > .sheet-list > .list-header .list-name {
   flex: 1;
   margin: 0;
   padding: 0;
@@ -1053,17 +1053,17 @@ body.navis-skin .application.actor.impmal:is(.npc, .vehicle) section.tab[data-ta
   text-transform: uppercase;
   color: var(--navis-brass);
 }
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) section.tab[data-tab="main"] > .sheet-list > .list-header .list-controls a {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) section.tab[data-tab="main"] > .sheet-list > .list-header .list-controls a {
   font-size: 16px;
   line-height: 1;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) section.tab[data-tab="main"] > .sheet-list .list-row {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) section.tab[data-tab="main"] > .sheet-list .list-row {
   background: none;
 }
 
 /* ── Skills: a two-column roll board ────────────────────────────────────── */
-body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .navis-board-caption {
+body.apex-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .navis-board-caption {
   font-family: var(--navis-font-stencil);
   font-size: 11px;
   font-weight: 600;
@@ -1071,19 +1071,19 @@ body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .nav
   text-transform: uppercase;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board > .list-content {
+body.apex-skin .application.actor.impmal.npc .sheet-list.navis-skill-board > .list-content {
   padding: 4px 10px 8px;
 }
-body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .skills-summary {
+body.apex-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .skills-summary {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   column-gap: 18px;
 }
-body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .skills-summary > span {
+body.apex-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .skills-summary > span {
   display: block;
   min-width: 0;
 }
-body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .skills-summary a.rollable {
+body.apex-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .skills-summary a.rollable {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
@@ -1093,7 +1093,7 @@ body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .ski
   text-decoration: none;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .navis-skill-name {
+body.apex-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .navis-skill-name {
   min-width: 0;
   white-space: nowrap;
   overflow: hidden;
@@ -1102,11 +1102,11 @@ body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .nav
   font-size: 14px;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .navis-skill-name em {
+body.apex-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .navis-skill-name em {
   font-style: normal;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .navis-skill-target {
+body.apex-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .navis-skill-target {
   font-family: var(--navis-font-text);
   font-size: 15px;
   font-weight: 600;
@@ -1121,7 +1121,7 @@ body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .nav
    У персонажа магазин — лента патронов и выбор боеприпаса, у НИП система даёт
    одну кнопку: название заряженного или отметка, что патронов нет. Она и
    занимает всю строку магазина. */
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .navis-armament .navis-arm-mag button {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) .navis-armament .navis-arm-mag button {
   flex: 0 1 auto;
   min-width: 0;
   width: auto;
@@ -1143,13 +1143,13 @@ body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .navis-armament .na
   overflow: hidden;
   text-overflow: ellipsis;
 }
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .navis-armament .navis-arm-mag .navis-ammo-name:hover {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) .navis-armament .navis-arm-mag .navis-ammo-name:hover {
   color: var(--navis-ink);
 }
 /* Нет патронов — это состояние оружия, а не примечание: цвет тревоги и рамка,
    потому что кнопка ещё и заряжает. Раньше надпись не помещалась в колонку и
    обрезалась на «ЕТ ПАТРОНО». */
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .navis-armament .navis-arm-mag .navis-no-ammo {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) .navis-armament .navis-arm-mag .navis-no-ammo {
   flex: none;
   padding: 1px 6px;
   border: 1px solid var(--navis-alert);
@@ -1159,16 +1159,16 @@ body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .navis-armament .na
   letter-spacing: .08em;
   text-transform: uppercase;
 }
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .navis-armament .navis-arm-mag .navis-no-ammo:hover {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) .navis-armament .navis-arm-mag .navis-no-ammo:hover {
   background: var(--navis-alert);
   color: var(--navis-ink-inv, #16120e);
 }
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .navis-armament .weapon-aux.navis-drained {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) .navis-armament .weapon-aux.navis-drained {
   display: none;
 }
 
 /* ── Traits: a plate each, description clamped to two lines ─────────────── */
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content {
   display: flex;
   flex-direction: column;
   gap: 6px;
@@ -1178,7 +1178,7 @@ body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-t
    which on a trait — used, not rolled — only reads as noise; with the image
    hidden the dice never shows and the text starts at the plate's edge. The
    name is still the click target it always was. */
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row {
   display: grid;
   grid-template-columns: minmax(0, 1fr);
   column-gap: 0;
@@ -1189,14 +1189,14 @@ body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-t
   border: 1px solid var(--navis-line);
   border-left: 3px solid var(--navis-brass-dim);
 }
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > .row-content,
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > .row-content > .list-name {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > .row-content,
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > .row-content > .list-name {
   display: contents;
 }
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row .list-name img {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row .list-name img {
   display: none;
 }
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row .list-name a.label {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row .list-name a.label {
   grid-column: 1;
   justify-self: start;
   cursor: pointer;
@@ -1208,7 +1208,7 @@ body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-t
   text-transform: uppercase;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > .description {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > .description {
   grid-column: 1 / -1;
   display: -webkit-box;
   -webkit-box-orient: vertical;
@@ -1221,26 +1221,26 @@ body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-t
   line-height: 1.5;
   color: var(--navis-ink-muted);
 }
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row.navis-open > .description {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row.navis-open > .description {
   display: block;
   -webkit-line-clamp: unset;
   overflow: visible;
 }
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > .description p {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > .description p {
   display: inline;
   margin: 0;
 }
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row.navis-open > .description p {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row.navis-open > .description p {
   display: block;
 }
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > .description a.content-link {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > .description a.content-link {
   padding: 0;
   background: none;
   border: 0;
   font-weight: 500;
   color: var(--navis-accent-lit);
 }
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > .navis-more {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > .navis-more {
   grid-column: 1 / -1;
   justify-self: start;
   cursor: pointer;
@@ -1251,10 +1251,10 @@ body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-t
   text-transform: uppercase;
   color: var(--navis-accent-lit);
 }
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > :not(.row-content, .description, .navis-more) {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > :not(.row-content, .description, .navis-more) {
   grid-column: 1 / -1;
 }
-body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > div:empty {
+body.apex-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > div:empty {
   display: none;
 }
 
@@ -1265,14 +1265,14 @@ body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-t
    refit (refitAdvancement in module/refit.js) turns the Items rows into plain
    text and marks the form; the rest is weight taken off. */
 
-body.navis-skin .navis-advancement-form .advancement-list > p.navis-adv-hint {
+body.apex-skin .navis-advancement-form .advancement-list > p.navis-adv-hint {
   margin: 0 0 8px;
   font-size: 12px;
   line-height: 1.35;
   color: var(--navis-ink-faint);
 }
 
-body.navis-skin .navis-advancement-form .advancement-list .header {
+body.apex-skin .navis-advancement-form .advancement-list .header {
   margin: 0 0 2px;
   padding-bottom: 3px;
   border-bottom: 1px solid var(--navis-line);
@@ -1285,7 +1285,7 @@ body.navis-skin .navis-advancement-form .advancement-list .header {
 }
 
 /* A row is a line of type, not a stack of fields. */
-body.navis-skin .navis-advancement-form .advancement-list > div:not(.header) {
+body.apex-skin .navis-advancement-form .advancement-list > div:not(.header) {
   min-height: 0;
   padding: 2px 0;
   border-bottom: 1px solid var(--navis-line-faint, rgba(255, 255, 255, 0.05));
@@ -1293,7 +1293,7 @@ body.navis-skin .navis-advancement-form .advancement-list > div:not(.header) {
 
 /* Editable cells — the Other tab, and the advance steppers — keep their
    affordance, but as a recessed line rather than a raised box. */
-body.navis-skin .navis-advancement-form .advancement-list input {
+body.apex-skin .navis-advancement-form .advancement-list input {
   margin: 0;
   padding: 1px 4px;
   height: 22px;
@@ -1305,32 +1305,32 @@ body.navis-skin .navis-advancement-form .advancement-list input {
   font-size: 13px;
   color: var(--navis-ink);
 }
-body.navis-skin .navis-advancement-form .advancement-list input:is(:hover, :focus) {
+body.apex-skin .navis-advancement-form .advancement-list input:is(:hover, :focus) {
   background: var(--navis-field);
   border-bottom-color: var(--navis-brass);
   outline: none;
 }
 
 /* Read-only rows became text, so they carry no box at all. */
-body.navis-skin .navis-advancement-form .advancement-list .navis-adv-name,
-body.navis-skin .navis-advancement-form .advancement-list .navis-adv-xp {
+body.apex-skin .navis-advancement-form .advancement-list .navis-adv-name,
+body.apex-skin .navis-advancement-form .advancement-list .navis-adv-xp {
   padding: 1px 4px;
   font-size: 13px;
   line-height: 20px;
   color: var(--navis-ink);
 }
-body.navis-skin .navis-advancement-form .advancement-list .navis-adv-xp {
+body.apex-skin .navis-advancement-form .advancement-list .navis-adv-xp {
   font-variant-numeric: tabular-nums;
   color: var(--navis-ink-muted);
 }
 
 /* The Items rows open their item, so they say so on hover. */
-body.navis-skin .navis-advancement-form .advancement-list .navis-adv-item {
+body.apex-skin .navis-advancement-form .advancement-list .navis-adv-item {
   cursor: pointer;
 }
-body.navis-skin .navis-advancement-form .advancement-list .navis-adv-item:hover {
+body.apex-skin .navis-advancement-form .advancement-list .navis-adv-item:hover {
   background: var(--navis-raised);
 }
-body.navis-skin .navis-advancement-form .advancement-list .navis-adv-item:hover .navis-adv-name {
+body.apex-skin .navis-advancement-form .advancement-list .navis-adv-item:hover .navis-adv-name {
   color: var(--navis-accent-lit);
 }

@@ -3,7 +3,7 @@
   "name": "Apprentek",
   "type": "npc",
   "_id": "7Rm6c6zzCYZLF0Za",
-  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -217,7 +217,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
+      "src": "modules/apex-imperialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -239,7 +239,7 @@
     "default": 0
   },
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }
@@ -257,7 +257,7 @@
       "name": "Living Metal (3)",
       "type": "trait",
       "_id": "5FcjHAqi0nhp8NtY",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -325,7 +325,7 @@
       "name": "Phase Out",
       "type": "trait",
       "_id": "n4M7HRAnkHxoy5xL",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -385,7 +385,7 @@
       "name": "Reanimation Protocols (7+)",
       "type": "trait",
       "_id": "kEDVqmKQ6yYmwlbm",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -453,7 +453,7 @@
       "name": "Pupil to Greatness",
       "type": "trait",
       "_id": "KWLOKxZ2yAwhm3xK",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -513,7 +513,7 @@
       "name": "Arcane Conduit (Ranged)",
       "type": "weapon",
       "_id": "fMuXT7eNeCp1jK4p",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -587,7 +587,7 @@
       "name": "Arcane Conduit (Melee)",
       "type": "weapon",
       "_id": "PCT09CmbpzyzrSlN",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
       "system": {
         "notes": {
           "player": "",

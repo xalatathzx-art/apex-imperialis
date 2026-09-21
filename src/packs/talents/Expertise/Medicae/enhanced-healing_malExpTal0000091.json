@@ -2,7 +2,7 @@
   "name": "Enhanced Healing",
   "type": "talent",
   "_id": "malExpTal0000091",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Restore an additional d5 wounds with Medicae tests</span></p><hr><p><span style=\"font-family: Arial\"><em>Each time you restore wounds on a Medicae Test, you restore an additional 1d5 wounds.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

@@ -46,7 +46,7 @@ Taken with the user during brainstorming:
    met; nothing is ever blocked. The GM decides.
 4. **Activation is fully automated:** spend, roll, spend again, sustain, attack,
    chat card.
-5. **Own document type**, `navis-apexialis.technomiracle`, declared in
+5. **Own document type**, `apex-imperialis.technomiracle`, declared in
    `module.json` under `documentTypes` — the mechanism Species already uses.
 6. **Damage is impmal's, not ours.** See below: the model is reused, not imitated.
 
@@ -104,7 +104,7 @@ it does.
 
 ## Data model
 
-Item type `navis-apexialis.technomiracle`.
+Item type `apex-imperialis.technomiracle`.
 
 ```js
 {
@@ -149,7 +149,7 @@ Stored in a flag, because impmal's `character` schema cannot be extended without
 patching the system, and this module does not patch the system.
 
 ```js
-flags["navis-apexialis"].mechanicum = {
+flags["apex-imperialis"].mechanicum = {
   cognition: { value: 3, max: 3 },
   energy:    { value: 2, max: 2 },
   processes: []
@@ -228,7 +228,7 @@ _prepareTabs(options) {
 So we do not invent a mechanism; we join the one that is already there. Our entry
 is merged into the sheet class's static `PARTS` and `TABS`, and `_prepareTabs` is
 wrapped to delete our tab when
-`actor.itemTypes["navis-apexialis.technomiracle"]` is empty.
+`actor.itemTypes["apex-imperialis.technomiracle"]` is empty.
 
 The wrap uses the module's existing idiom — walk the prototype chain to whoever
 owns the method, keep the original, patch idempotently — the same approach

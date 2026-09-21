@@ -2,7 +2,7 @@
   "name": "Silence the Witch",
   "type": "talent",
   "_id": "malExpTal0000066",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Reactive Target a Location attack against user of a Psychic Power / Ritual within weapon range. Resolve attack before the Power</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever a Psychic Power, Navigator Power, or Hex-type Ritual is used by an enemy, you may make a Target a Location attack against them as a reaction. The enemy must be within the Range of the weapon used for the attack, and must be done after the Test is made but before the Power is resolved, as the enemy may be unable to use the power depending on the results. If the enemy is knocked Unconscious, is set Ablaze, Stunned, or Dies, then the power does not manifest. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

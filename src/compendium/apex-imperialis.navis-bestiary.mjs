@@ -1,5 +1,5 @@
 /**
- * Бестиарий «Maledictum Expanded» (115 существ): русский слой.
+ * Бестиарий (115 существ): русский слой.
  *
  * Пак написан по-английски (src/packs/bestiary) и переводится через Babele.
  * Переводятся имя, заметка ведущего (description), вид (species) и названия
@@ -7,7 +7,7 @@
  * leader, master), faction — объект; их Babele не трогает.
  *
  * Вложенные предметы, уже переведённые где-то ещё, дописывает
- * tools/seed-actor-items.mjs в navis-apexialis.navis-bestiary.reused-items.mjs;
+ * tools/seed-actor-items.mjs в apex-imperialis.navis-bestiary.reused-items.mjs;
  * здесь — только то, чего больше нигде нет. Предметы переводятся по имени:
  * у копий-близнецов одно английское имя, значит и русское одно.
  *
@@ -20,7 +20,7 @@
 
 import fs from "node:fs";
 
-export const label = "Бестиарий (Maledictum Expanded)";
+export const label = "Бестиарий";
 
 const ACTOR_NAMES = {
   // Друкхари
@@ -634,7 +634,7 @@ const ACTORS = [
   ["zhCTTr10tJZBAiKs", "XV8 Crisis Battlesuit", NOTES_EN[57]],
 ];
 
-const INDEX = JSON.parse(fs.readFileSync(new URL("./packs-index.json", import.meta.url), "utf8"))["navis-apexialis.navis-bestiary"].entries;
+const INDEX = JSON.parse(fs.readFileSync(new URL("./packs-index.json", import.meta.url), "utf8"))["apex-imperialis.navis-bestiary"].entries;
 
 export const entries = Object.fromEntries(ACTORS.map(([id, en, note, species]) => {
   const embedded = INDEX[id]?.embedded ?? [];

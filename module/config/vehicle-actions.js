@@ -22,7 +22,7 @@
  * переведена.
  */
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 /** Шапка «Сложность: ...» — одинаковая у всех описаний. */
 const difficulty = text => `<p><strong>Сложность</strong>: ${text}</p>`;

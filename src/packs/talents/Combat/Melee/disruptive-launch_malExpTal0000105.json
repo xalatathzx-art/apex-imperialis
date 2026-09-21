@@ -2,7 +2,7 @@
   "name": "Disruptive Launch",
   "type": "talent",
   "_id": "malExpTal0000105",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">With Jump Pack, Action: make melee attack and inflict Restrained</span></p><hr><p><span style=\"font-family: Arial\"><em>You employ short bursts of your jump pack as suppressive fire, protecting you from retaliatory assaults. When equipped with a Jump Pack, you can spend an action to make a Melee Attack and inflict the Restrained Condition on an enemy you’re engaged with.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

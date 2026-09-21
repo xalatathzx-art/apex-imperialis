@@ -18,7 +18,7 @@
 
 export const label = "Предметы (Основная книга)";
 
-const U = (id, name) => `@UUID[Compendium.navis-apexialis.navis-core-items.Item.${id}]{${name}}`;
+const U = (id, name) => `@UUID[Compendium.apex-imperialis.navis-core-items.Item.${id}]{${name}}`;
 
 /** Верхушка врезки: заголовок примеров и сами примеры курсивом. */
 const head = (title, examples) => `<p><strong>${title}</strong></p><p><em>${examples}</em></p>`;

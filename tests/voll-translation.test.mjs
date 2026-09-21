@@ -10,11 +10,11 @@ import { readPack, partition } from "../tools/lib/level.mjs";
 const root = new URL("../", import.meta.url);
 const index = JSON.parse(fs.readFileSync(new URL("src/compendium/packs-index.json", root), "utf8"));
 
-// The Voll pack was folded into navis-apexialis, so the Babele file the build
+// The Voll pack was folded into apex-imperialis, so the Babele file the build
 // emits is keyed by the consolidated collection, not the official one. The
 // inventory assertions still speak in official names, so translate here.
 const babeleFile = collection =>
-  `navis-apexialis.${collection.replace(/^impmal-([a-z]+)\.(.+)$/, "navis-$1-$2")}`;
+  `apex-imperialis.${collection.replace(/^impmal-([a-z]+)\.(.+)$/, "navis-$1-$2")}`;
 
 const readTranslation = collection => {
   const target = new URL(`compendium/${babeleFile(collection)}.json`, root);

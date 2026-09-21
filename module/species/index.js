@@ -14,7 +14,7 @@
 import { defineSpeciesModels, SPECIES_TYPE, SUBSPECIES_TYPE } from "./species-model.js";
 import { defineSpeciesSheets } from "./species-sheet.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 export { SPECIES_TYPE, SUBSPECIES_TYPE };
 
@@ -79,7 +79,7 @@ function reportSpeciesState() {
 
   if (missing.length) {
     const message =
-      `Navis Apexialis: ${missing.join(" and ")} ${missing.length > 1 ? "are" : "is"} not registered with this ` +
+      `Apex Imperialis: ${missing.join(" and ")} ${missing.length > 1 ? "are" : "is"} not registered with this ` +
       "world. Return to Setup and launch the world again — enabling a module mid-session does not add its " +
       "document types.";
     console.error(`${MODULE_ID} | ${message}`);

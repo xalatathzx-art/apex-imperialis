@@ -33,7 +33,7 @@ const RULES = "JournalEntry.fpiV4F49v3gxmipn.JournalEntryPage.I4mFYORL990yUAjB";
 const CRIT_TABLE = U(CRIT, "таблице критических попаданий по технике");
 const OUT_OF_CONTROL = U(`${RULES}#out-of-control`, "потеряет управляемость");
 
-const ITEM = "Compendium.navis-apexialis.navis-core-items.Item";
+const ITEM = "Compendium.apex-imperialis.navis-core-items.Item";
 
 /* ── Свойства техники ─────────────────────────────────────────────────
  *

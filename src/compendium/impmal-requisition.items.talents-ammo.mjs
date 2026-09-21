@@ -17,8 +17,8 @@ const U = (uuid, label) => `@UUID[${uuid}]{${label}}`;
 const p = (...parts) => `<p>${parts.join("")}</p>`;
 const ul = (...items) => `<ul>${items.map(i => `<li><p>${i}</p></li>`).join("")}</ul>`;
 
-const CORE = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
-const REQ_ITEM = "Compendium.navis-apexialis.navis-requisition-items.Item";
+const CORE = "Compendium.apex-imperialis.navis-core-journals.JournalEntry";
+const REQ_ITEM = "Compendium.apex-imperialis.navis-requisition-items.Item";
 const VEH = "JournalEntry.fpiV4F49v3gxmipn.JournalEntryPage";
 const MILITARUM = U(`${CORE}.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd`, "Астра Милитарум");
 const CHAR = `${CORE}.uJURMn2glWHhjqJk.JournalEntryPage`;
@@ -148,7 +148,7 @@ export const byName = {
     description: p("Прометиевые патроны — это разновидность зажигательных боеприпасов. В отличие ",
       "от инферно-патронов, что стремятся поджечь одну цель, эти разбрасывают горящий прометий ",
       "по всем, кто оказался рядом с точкой попадания. Их особенно любят ударные отряды ",
-      U("Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq.JournalEntryPage.AyQTdRJpdVm3zqdF#ordo-hereticus",
+      U("Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq.JournalEntryPage.AyQTdRJpdVm3zqdF#ordo-hereticus",
         "Ордо Еретикус"), ": так огнестрельное оружие тоже несёт очищающее пламя и поддерживает ",
       "соратников с огнемётами в святом сожжении скверны. Если стрелять такими патронами по ",
       "зоне, они делают её <em>слегка опасной</em> на 1к10 + 5 раундов или пока пламя не ",

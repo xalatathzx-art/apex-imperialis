@@ -2,7 +2,7 @@
   "name": "Push the Limit",
   "type": "talent",
   "_id": "malExpTal0000125",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">1/round: may add +2SL to Piloting or Riding test. If test fails or getting a nat 100, roll d5 on the Crit Table</span></p><hr><p><span style=\"font-family: Arial\"><em>Once per round, you may add +2SL to a Piloting or Athletics (Riding) Test, however, if you fail the test or roll an unmodified 100, immediately roll 1d5 on the Vehicle Critical Hit Table or the Legs Critical Hit Table in the case of a living mount and apply the result. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

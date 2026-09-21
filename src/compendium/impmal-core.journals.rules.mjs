@@ -222,7 +222,7 @@ const testsPage =
     "происходящее. В целом персонажи не могут просто провалить проверку и бросать снова, пока ",
     "не разберутся с последствиями провала или пока обстоятельства не изменятся существенно.") +
   `<div class="journal-image float-right flip">` +
-  `<img src="modules/navis-apexialis/assets/impmal-core/images/imperial-agent.webp" width="250" /><p></p></div>` +
+  `<img src="modules/apex-imperialis/assets/impmal-core/images/imperial-agent.webp" width="250" /><p></p></div>` +
 
   h(4, "difficulty", "Сложность") +
   p("Не все проверки будут одинаковыми. Взобраться на пирамиду из аккуратно сложенных ящиков ",
@@ -449,7 +449,7 @@ const BONE_MAJOR = [
 
 const itemList = entries =>
   `<ul>` + entries.map(([id, name]) =>
-    `<li><p>${U(`Compendium.navis-apexialis.navis-core-items.Item.${id}`, name)}</p></li>`).join("") + `</ul>`;
+    `<li><p>${U(`Compendium.apex-imperialis.navis-core-items.Item.${id}`, name)}</p></li>`).join("") + `</ul>`;
 
 const damagePage =
   p("В Империуме почти всех можно назвать расходным материалом. Вашему герою на службе не ",
@@ -613,7 +613,7 @@ const damagePage =
     "что и малый, но штраф возрастает до −10, а связанные проверки становятся ",
     "<strong>средними (+0)</strong>.") +
   `<div class="journal-image centered">` +
-  `<img src="modules/navis-apexialis/assets/impmal-core/images/healing.webp" width="250" /></div>` +
+  `<img src="modules/apex-imperialis/assets/impmal-core/images/healing.webp" width="250" /></div>` +
 
   h(4, "amputations", "Ампутации") +
   p("Многие серьёзные критические раны приводят к потере пальца, кисти или даже целой ",
@@ -624,7 +624,7 @@ const damagePage =
     U(`${CHAR}.1oKZw1hTM7Gx5cqB`, "Адептус Механикус"), ", то даже сделают вас лучше.") +
   p("Чтобы культя зажила, требуется хирургическая помощь. Пока вы не посетите ",
     U(".6xiBUWxGfkcy3Fe2", "врачевателя"), " или не позволите обладателю таланта ",
-    U("Compendium.navis-apexialis.navis-core-items.Item.au8V1ieKIHkTeA8l", "Хирургеон"),
+    U("Compendium.apex-imperialis.navis-core-items.Item.au8V1ieKIHkTeA8l", "Хирургеон"),
     " позаботиться о вас, вы не сможете исцелять критические раны этого типа.") +
 
   h(3, "other-types-of-damage", "Иные типы урона") +
@@ -662,9 +662,9 @@ const damagePage =
     "отплёвываться, навязывая помеху на проверки Скрытности, а также Бдительности (Слух) и ",
     "(Обоняние). Второй накладывает состояние ", U(`${COND}#poisoned`, "Отравление (Малое)"),
     ". Третий накладывает ", U(`${COND}#poisoned`, "Отравление (Серьёзное)"), ". ",
-    U("Compendium.navis-apexialis.navis-core-items.Item.OdTP4DEK3oGAjMWZ", "Фильтры-затычки"), ", ",
-    U("Compendium.navis-apexialis.navis-core-items.Item.16DWBUHaqigUg0ZT", "дыхательные аппараты"), " и ",
-    U("Compendium.navis-apexialis.navis-core-items.Item.V9RLeedbeyoCIgOJ", "респираторы"), " позволяют ",
+    U("Compendium.apex-imperialis.navis-core-items.Item.OdTP4DEK3oGAjMWZ", "Фильтры-затычки"), ", ",
+    U("Compendium.apex-imperialis.navis-core-items.Item.16DWBUHaqigUg0ZT", "дыхательные аппараты"), " и ",
+    U("Compendium.apex-imperialis.navis-core-items.Item.V9RLeedbeyoCIgOJ", "респираторы"), " позволяют ",
     "чувствовать себя свободнее среди ядовитых паров, будь то выбросы имперских мануфакторумов ",
     "или ядовитые испарения на мире смерти.") +
   p("<strong>Жара</strong>: первый провал навязывает помеху на проверки Интеллекта и Силы воли. ",
@@ -736,7 +736,7 @@ const attackPage =
 
   h(4, "melee-attack", "Атаки в ближнем бою") +
   `<div class="journal-image float-right">` +
-  `<img src="modules/navis-apexialis/assets/impmal-core/actors/faeburn-vanquisher.webp" width="150" /></div>` +
+  `<img src="modules/apex-imperialis/assets/impmal-core/actors/faeburn-vanquisher.webp" width="150" /></div>` +
   p("Совершая атаку в ближнем бою, вы атакуете врага в ",
     U(".zQYkbNcsJmGintdL#range-and-movement", "непосредственной близости"), " от вас. Как ",
     "правило, это удар молотом, цепным мечом, силовым кулаком или иным оружием, хотя у ",
@@ -754,12 +754,12 @@ const attackPage =
       "куда вы попали, нужно для некоторых талантов и ",
       U("JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.i6T8gAQSkJXmDPwo", "критических ран"), "."),
     `<hr />`,
-    p("Талант ", U("Compendium.navis-apexialis.navis-core-items.Item.JzeoXcBD3dcZzxNU", "Отскок"),
+    p("Талант ", U("Compendium.apex-imperialis.navis-core-items.Item.JzeoXcBD3dcZzxNU", "Отскок"),
       " также позволяет вам ускользнуть из схватки.")
   ) +
   `<details><summary><strong>Пример</strong></summary>` +
   `<p><em>Сестра Хельца столкнулась с ` +
-  `${U("Compendium.navis-apexialis.navis-core-actors.Actor.pGE97yqMKNMkyzgL", "вождём культа")} и собирается ` +
+  `${U("Compendium.apex-imperialis.navis-core-actors.Actor.pGE97yqMKNMkyzgL", "вождём культа")} и собирается ` +
   `прервать его мерзкое существование. Она рубит врага цепным мечом, тот защищается своим. Бой ` +
   `Хельцы равен 42, в броске она получает 17 — это +3 успеха. Еретик наделён Боем 60, но на ` +
   `костях ему выпадает 78 — это −1 успех. Хельца побеждает во встречной проверке с +4 успехами. ` +
@@ -845,7 +845,7 @@ const attackPage =
   ) +
   p("Если вы используете стрелковое оружие для атаки в ближнем бою — например, бьёте врага ",
     "прикладом, — оно считается ",
-    U("Compendium.navis-apexialis.navis-core-items.Item.lwPymw5Hah0H8Ey5", "импровизированным оружием"), ".") +
+    U("Compendium.apex-imperialis.navis-core-items.Item.lwPymw5Hah0H8Ey5", "импровизированным оружием"), ".") +
 
   h(4, "criticals-and-fumbles", "Триумфы и фиаско") +
   p("Когда бойцы отчаянно сражаются за свои жизни, ошибки, случайности и мгновения удивительного ",
@@ -881,7 +881,7 @@ const attackPage =
     "противнику критическое попадание, совершив удачную контратаку.") +
   `<details><summary><strong>Пример</strong></summary>` +
   `<p><em>На Хельцу набрасывается ` +
-  `${U("Compendium.navis-apexialis.navis-core-items.Item.6WpPLngDKP1S6O5w", "боец банды")}. Он хочет ударить её ` +
+  `${U("Compendium.apex-imperialis.navis-core-items.Item.6WpPLngDKP1S6O5w", "боец банды")}. Он хочет ударить её ` +
   `ножом, а та защищается своим молотом. Хельце повезло — она выбросила 33, а это проверка с ` +
   `+1 успехом и триумфом! Бандит бросает свою проверку и получает +2 успеха. Он побеждает во ` +
   `встречной проверке и наносит Хельце урон по общим правилам, но та сумела провести ` +
@@ -912,7 +912,7 @@ const attackPage =
     U(".EwKNNdQ5EYayCPdA#advantage-and-disadvantage", "преимуществом"), ", а в случае успеха ",
     "автоматически наносите ", U(".Rjw4KykpjGJlGYEk#criticals", "критическое попадание"), ".") +
   `<div class="journal-image float-right">` +
-  `<img src="modules/navis-apexialis/assets/impmal-core/images/spot-ammo.webp" width="200" /></div>` +
+  `<img src="modules/apex-imperialis/assets/impmal-core/images/spot-ammo.webp" width="200" /></div>` +
 
   h(4, "outnumbering", "Численное превосходство") +
   p("В сорок первом тысячелетии нет места милосердию и честности, а один из самых верных путей к ",
@@ -931,9 +931,9 @@ const attackPage =
   `<blockquote class="sidebar" style="width:100%">` +
   p("Вы получаете помеху, когда атакуете своей ",
     U(`${CHAR}.jO0rmqIrT2EL3tyo#handedness`, "неведущей рукой"), ", если только не имеете таланта ",
-    U("Compendium.navis-apexialis.navis-core-items.Item.Ck6P6S7KhYUXGxbs", "Амбидекстрия"), ".") +
-  p("Таланты ", U("Compendium.navis-apexialis.navis-core-items.Item.VfTqqLjouvL20ju9", "Парные клинки"), " и ",
-    U("Compendium.navis-apexialis.navis-core-items.Item.wzrkE4YFunm2Uc7O", "Акимбо"), " снимают этот штраф. ",
+    U("Compendium.apex-imperialis.navis-core-items.Item.Ck6P6S7KhYUXGxbs", "Амбидекстрия"), ".") +
+  p("Таланты ", U("Compendium.apex-imperialis.navis-core-items.Item.VfTqqLjouvL20ju9", "Парные клинки"), " и ",
+    U("Compendium.apex-imperialis.navis-core-items.Item.wzrkE4YFunm2Uc7O", "Акимбо"), " снимают этот штраф. ",
     "Если вы хотите атаковать стрелковым и холодным оружием одновременно и не получать штрафа, ",
     "вы должны иметь оба таланта.") +
   `</blockquote>`;
@@ -953,7 +953,7 @@ const corruptionPage =
   `<p style="text-align:right"><strong>— из показаний [ДАННЫЕ УДАЛЕНЫ], Гиф Альфа: саниторий ` +
   `Адептус Астра Телепатика</strong></p>` +
   `<div class="journal-image float-right flip">` +
-  `<img src="modules/navis-apexialis/assets/impmal-core/images/chaos-spawn.webp" width="260" /></div>` +
+  `<img src="modules/apex-imperialis/assets/impmal-core/images/chaos-spawn.webp" width="260" /></div>` +
   p("Пока воинства Человечества сражаются в бессчётных битвах на бескрайних полях брани, ",
     "истинная война за душу Империума идёт в сердце каждого подданного. Боги Хаоса тянутся к ",
     "ним через Имматериум в обход крепостей и боевых кораблей и стремятся взять приступом каждую ",
@@ -1047,7 +1047,7 @@ const corruptionPage =
     "богам.") +
   p("В этот миг ваше тело поддаётся изменяющей силе Варпа, а разум разбивается на тысячи ",
     "осколков. Персонаж превращается в ",
-    U("Compendium.navis-apexialis.navis-core-actors.Actor.7GvkaaVAd69ORno0", "отродье Хаоса"),
+    U("Compendium.apex-imperialis.navis-core-actors.Actor.7GvkaaVAd69ORno0", "отродье Хаоса"),
     " и переходит под управление ведущего. От такой судьбы спасения нет — создавайте нового ",
     "героя.") +
   lightBox(
@@ -1145,7 +1145,7 @@ const battlefieldPage =
       U("JournalEntry.f5PuitUGgp6jQz5K.JournalEntryPage.zraqS9SDdSfDYXh6", "«Инструментарии ведущего»"),
       " вы найдёте правила, позволяющие пересчитать зоны и дистанции в метры, а также использовать ",
       "сетчатую карту.")) +
-  `<div class="journal-image centered"><img style="width:90%;transform:rotate(2deg);margin:15px 0px;box-shadow:5px 7px 11px 2px" src="modules/navis-apexialis/assets/impmal-core/images/zone-example.webp" /></div>` +
+  `<div class="journal-image centered"><img style="width:90%;transform:rotate(2deg);margin:15px 0px;box-shadow:5px 7px 11px 2px" src="modules/apex-imperialis/assets/impmal-core/images/zone-example.webp" /></div>` +
 
   h(5, "position", "Позиция") +
   p("Использование зон означает, что вместо кропотливых расчётов, где находится ваш герой, вы ",
@@ -1190,7 +1190,7 @@ const battlefieldPage =
     `<strong>Дальняя дистанция</strong> означает, что цель находится в двух зонах от вас — то есть 30 метров и более. Перемещение на такое расстояние требует потратить движение и совершить ${U(".xf46pBDy93sT0ZDl#run", "Бег")}.`,
     "<strong>Сверхдальняя дистанция</strong> подразумевает расстояние, превышающее дальнюю, — в трёх и более зонах от вас. Сверхдальняя дистанция очень редко применяется в бою: обычно ведущий использует этот термин, чтобы указать на персонажей или объекты, что находятся далеко."
   ) +
-  `<div class="journal-image float-right flip"><img src="modules/navis-apexialis/assets/impmal-core/images/superiority.webp" width="250" /></div>` +
+  `<div class="journal-image float-right flip"><img src="modules/apex-imperialis/assets/impmal-core/images/superiority.webp" width="250" /></div>` +
   p("Всё ", U("JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.luQOhxIEeYF6tMgt", "стрелковое оружие"),
     " имеет свою дальность поражения — ближнюю, среднюю или дальнюю; см. ",
     U(".Rjw4KykpjGJlGYEk#ranged-attacks", "«Стрелковые атаки»"), ".") +
@@ -1205,7 +1205,7 @@ const battlefieldPage =
   ul(
     "<strong>Средняя</strong> скорость обычна для всех игровых персонажей. Любой обладатель средней скорости может перемещаться на ближнюю дистанцию (в пределах своей зоны) за свободное действие, а потратив движение, может переместиться на среднюю (в соседнюю зону).",
     `<strong>Быстрая</strong> скорость характерна для воинов, наделённых большей подвижностью, и сверхъестественно грациозных ${U("JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6FUPGNRUs8T8uoa5", "альдаров")}. Такие существа могут перемещаться на ближнюю дистанцию за свободное действие, а потратив движение, могут переместиться на дальнюю дистанцию (на две зоны).`,
-    `<strong>Медленные</strong> существа уступают остальным скоростью — например, то могут быть ковыляющие биомеханические ${U("Compendium.navis-apexialis.navis-core-actors.Actor.px7pplClKR01chqM", "сервиторы")} или распространяющие болезни ${U("Compendium.navis-apexialis.navis-core-actors.Actor.4bhFOh1nTrYloc8s", "чумоносцы")}. Такие существа должны потратить движение, чтобы переместиться на ближнюю дистанцию. Чтобы переместиться на среднюю дистанцию, им нужно применять ${U(".xf46pBDy93sT0ZDl#run", "Бег")}.`
+    `<strong>Медленные</strong> существа уступают остальным скоростью — например, то могут быть ковыляющие биомеханические ${U("Compendium.apex-imperialis.navis-core-actors.Actor.px7pplClKR01chqM", "сервиторы")} или распространяющие болезни ${U("Compendium.apex-imperialis.navis-core-actors.Actor.4bhFOh1nTrYloc8s", "чумоносцы")}. Такие существа должны потратить движение, чтобы переместиться на ближнюю дистанцию. Чтобы переместиться на среднюю дистанцию, им нужно применять ${U(".xf46pBDy93sT0ZDl#run", "Бег")}.`
   ) +
 
   h(4, "other-kinds-of-movement", "Иные типы передвижения") +
@@ -1305,7 +1305,7 @@ const battlefieldPage =
     "самым быстрым преследователем (+3). Ритте нужен всего один успех, чтобы настигнуть врага.",
     "Хотя Кэлли остановилась, чтобы разобраться с первой жертвой, в начале следующего раунда герои " +
     "всё равно используют её показатель для определения отрыва.") +
-  `<div class="journal-image centered"><img src="modules/navis-apexialis/assets/impmal-core/images/spot-skull-mask.webp" width="200" /></div>` +
+  `<div class="journal-image centered"><img src="modules/apex-imperialis/assets/impmal-core/images/spot-skull-mask.webp" width="200" /></div>` +
 
   h(4, "environmental-traits", "Свойства местности") +
   p("Бои редко идут в открытом поле. Как правило, всё вокруг усеяно препятствиями и опасностями, что ",
@@ -1408,7 +1408,7 @@ const battlefieldPage =
   p("Зона, где клубится туман, пар или идёт лёгкий дождь, имеет свойство <em>Лёгкое марево</em>. В ",
     "таких зонах:") +
   ul(
-    `Вы можете использовать эти условия, чтобы ${U("Compendium.navis-apexialis.navis-core-items.Item.G82uhQ5GJVIsMqLy", "устроить засаду")}, и получаете преимущество в проверках Скрытности (Невидимка).`,
+    `Вы можете использовать эти условия, чтобы ${U("Compendium.apex-imperialis.navis-core-items.Item.G82uhQ5GJVIsMqLy", "устроить засаду")}, и получаете преимущество в проверках Скрытности (Невидимка).`,
     "Вы получаете помеху в проверках Бдительности (Зрения) и Стрельбы.",
     "Существа вне вашей зоны получают помеху в проверках Бдительности (Зрения), предпринятых, чтобы заметить что-либо в вашей зоне, а также в проверках Стрельбы, когда стреляют по кому-либо в вашей зоне."
   ) +
@@ -1428,7 +1428,7 @@ const battlefieldPage =
     p("В жарком бою и хорошо освещённая зона может стать скверно освещённой, а то и погрузиться в ",
       "кромешный мрак!")) +
   ul(
-    `В такой зоне вы можете использовать её условия, чтобы ${U("Compendium.navis-apexialis.navis-core-items.Item.G82uhQ5GJVIsMqLy", "устроить засаду")}.`,
+    `В такой зоне вы можете использовать её условия, чтобы ${U("Compendium.apex-imperialis.navis-core-items.Item.G82uhQ5GJVIsMqLy", "устроить засаду")}.`,
     "Проверки Бдительности (Зрение), предпринимаемые, чтобы заметить существ, предметы и разные мелочи, бросаются с помехой.",
     "Проверки Стрельбы, предпринятые против любых целей в этой зоне, бросаются с помехой."
   ) +
@@ -1444,7 +1444,7 @@ const battlefieldPage =
   p("Кроме того, если ведущий хочет подчеркнуть необычность этого места, он может сделать бросок по ",
     U("RollTable.9aSbu2mswOOI43J1", "таблице психических феноменов"),
     " и применить выпавший результат ко всей зоне.") +
-  `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-core/images/psychic-awakening.webp" /></div>`;
+  `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-core/images/psychic-awakening.webp" /></div>`;
 
 /* ── Влияние, стр. 192–195 ──────────────────────────────────────────────
  *
@@ -1519,7 +1519,7 @@ const influencePage =
     p("О тайном влиянии покровителя также см. ",
       U("JournalEntry.f5PuitUGgp6jQz5K", "«Ведущего»"), "."),
     p("Некоторые покровители ",
-      U("Compendium.navis-apexialis.navis-core-items.Item.mMl55XQ1iBQhrqRj", "не признают своих агентов"),
+      U("Compendium.apex-imperialis.navis-core-items.Item.mMl55XQ1iBQhrqRj", "не признают своих агентов"),
       " и могут заявить «Я вас не знаю»."),
     p("Скажите ведущему, что применяете влияние покровителя, и он тайно прибавит или вычтет успехи."),
     `<p class="sidebar-title">Пригрели змею на груди</p>`,
@@ -1556,7 +1556,7 @@ const influencePage =
     "провалилось: Лео спасся от гибели, но намного осложнил себе работу, а в долговременной " +
     "перспективе навредил влиянию своего покровителя на этом мануфакторуме, а может быть — и во " +
     "всём Адептус Механикус.") +
-  `<div class="journal-image centered"><img src="modules/navis-apexialis/assets/impmal-core/images/spot-eagle.webp" width="250" /></div>` +
+  `<div class="journal-image centered"><img src="modules/apex-imperialis/assets/impmal-core/images/spot-eagle.webp" width="250" /></div>` +
 
   h(4, "personal-influence", "Личное влияние") +
   p("Действуя в ", U("JournalEntry.B7MZBBT3bNew9N96", "Махарии"), ", персонажи неминуемо будут ",
@@ -1723,9 +1723,9 @@ const actionsPage =
 
   h(4, "attack", "Атака") +
   p("В галактике, полной еретиков, ксеносов и прочей нечисти, без насилия не обойтись. Удар ",
-    U("Compendium.navis-apexialis.navis-core-items.Item.tjUKnuDKTCCon28r", "цепным мечом"), ", выстрел из ",
-    U("Compendium.navis-apexialis.navis-core-items.Item.jNxvsLBybPPenmmn", "лазпистолета"), ", бросок ",
-    U("Compendium.navis-apexialis.navis-core-items.Item.0fB10YisRQoUabab", "фраг-гранаты"),
+    U("Compendium.apex-imperialis.navis-core-items.Item.tjUKnuDKTCCon28r", "цепным мечом"), ", выстрел из ",
+    U("Compendium.apex-imperialis.navis-core-items.Item.jNxvsLBybPPenmmn", "лазпистолета"), ", бросок ",
+    U("Compendium.apex-imperialis.navis-core-items.Item.0fB10YisRQoUabab", "фраг-гранаты"),
     " — это всё <strong>атака</strong>. Чтобы поразить цель оружием ближнего или дальнего боя, ",
     "потребуется проверка — подробнее см. раздел ",
     U(".Rjw4KykpjGJlGYEk", "«Совершение атаки»"), ".") +
@@ -1963,7 +1963,7 @@ const actionsPage =
     "переключить рычаг или открыть дверь. Но некоторые задачи — например, использование ",
     U(".zQYkbNcsJmGintdL#feature", "элементов"), " — требуют больше времени или усилий, а потому ",
     "ведущий может потребовать от героя <strong>использовать предмет или элемент</strong> действием.") +
-  `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-core/images/take-cover.webp" /></div>`;
+  `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-core/images/take-cover.webp" /></div>`;
 
 /* ── Техника, стр. 225–227 ──────────────────────────────────────────────
  *
@@ -2003,8 +2003,8 @@ const vehiclesPage =
     " машина может везти сверх экипажа. В зависимости от машины, пассажиры могут занимать места ",
     "членов экипажа, если это потребуется.") +
   p("<strong>Размер</strong>: здесь указан игромеханический размер машины.") +
-  `<p>@ActorHTML[Compendium.navis-apexialis.navis-core-actors.Actor.iGIlE8TZfBgJ2bhY,table,,style=width:70%;margin:auto;]</p>` +
-  `<p>@ActorHTML[Compendium.navis-apexialis.navis-core-actors.Actor.ZvPDNhZqkfASxN0f,table,,style=width:70%;margin:auto;]</p>` +
+  `<p>@ActorHTML[Compendium.apex-imperialis.navis-core-actors.Actor.iGIlE8TZfBgJ2bhY,table,,style=width:70%;margin:auto;]</p>` +
+  `<p>@ActorHTML[Compendium.apex-imperialis.navis-core-actors.Actor.ZvPDNhZqkfASxN0f,table,,style=width:70%;margin:auto;]</p>` +
 
   h(5, "attacks-against-vehicles", "Атаки по технике") +
   p("Атаки по машинам рассчитываются немного иначе, чем по живым целям. Атаки в ближнем бою не ",
@@ -2079,7 +2079,7 @@ export const byName = {
         name: "Правила",
         text:
           `<div class="journal-image float-right flip">` +
-          `<img src="modules/navis-apexialis/assets/impmal-core/images/ch6.webp" height="660" /></div>` +
+          `<img src="modules/apex-imperialis/assets/impmal-core/images/ch6.webp" height="660" /></div>` +
           p("Правила «<strong>Империума Маледиктум</strong>» определяют, как способности ваших ",
             "героев влияют на игру. Они будут показывать, были ли их действия успешны и к какому ",
             "итогу привели. По правилам вы определяете исход важных сцен — таким образом, они ",
@@ -2110,7 +2110,7 @@ export const byName = {
             "врага в смятение. <strong>Превосходство</strong> — это общий показатель группы, что ",
             "отражает её подготовленность и гибкость.") +
           `<div class="journal-image float-right">` +
-          `<img src="modules/navis-apexialis/assets/impmal-core/images/spot-militarum1.webp" width="200" /></div>` +
+          `<img src="modules/apex-imperialis/assets/impmal-core/images/spot-militarum1.webp" width="200" /></div>` +
 
           h(4, "the-effects-of-superiority", "Как работает превосходство") +
           p("Превосходство может приносить вам бонусные успехи в одной выбранной вами проверке ",
@@ -2188,7 +2188,7 @@ export const byName = {
             `комплекса. Благодаря прошлой разведке персонажи уже немало знают о банде и её ` +
             `вооружении — это приносит им +1 к превосходству. Первый раунд боя проходит ` +
             `победоносно: в засаде персонажей гибнут сразу три ` +
-            `${U("Compendium.navis-apexialis.navis-core-items.Item.6WpPLngDKP1S6O5w", "бандита")}. У обычных ` +
+            `${U("Compendium.apex-imperialis.navis-core-items.Item.6WpPLngDKP1S6O5w", "бандита")}. У обычных ` +
             `бандитов решимость 1, но они защищают своё логово, так что ведущий решает поднять ` +
             `этот показатель до 2. Тем не менее персонажи в один ход уложили даже больше двух ` +
             `врагов — это приносит им +1 к превосходству, повышая его уровень до +2.`,
@@ -2254,7 +2254,7 @@ export const byName = {
           p(U(".xf46pBDy93sT0ZDl", "Действия")) +
           p(U(".Rjw4KykpjGJlGYEk", "Атака")) +
           `<div class="journal-image fit">` +
-          `<img src="modules/navis-apexialis/assets/impmal-core/images/hive-shootout.webp" /></div>`
+          `<img src="modules/apex-imperialis/assets/impmal-core/images/hive-shootout.webp" /></div>`
       },
 
       "The Flow of Battle": {

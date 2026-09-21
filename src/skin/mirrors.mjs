@@ -10,7 +10,7 @@
  * So these entries name a rule by its TAIL — any one selector from impmal's
  * list, minus the `body.impmal-theme ` prefix — and tools/build-skin.mjs looks
  * the rule up in impmal.css and emits our declarations under impmal's exact
- * selector list, with the prefix swapped for `body.navis-skin`. Same
+ * selector list, with the prefix swapped for `body.apex-skin`. Same
  * specificity, later in the cascade, so ours wins; and because the prefix is
  * ours, it keeps working when a player has impmal's own theme switched off.
  *

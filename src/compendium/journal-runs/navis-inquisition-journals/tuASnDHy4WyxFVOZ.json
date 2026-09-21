@@ -58,7 +58,7 @@
    "ru": ""
   },
   "58": {
-   "en": "Note that some clues may require forensic or deeper analysis. If the characters do not have the means, this is an opportunity to engage other Factions related to the investigation or locale. For instance, an NPC from the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.cvpsLwcsXf4myIpK]{Adeptus Administratum} may be able to verify the authenticity of some paperwork — if the characters have or can gain the Influence to arrange it. Furthermore, offering the characters more than one clue at a time is often interesting, creating branching paths in the investigation. A selection of clues can be solved at different times, always giving the players a thread to follow if they believe they have come to a dead end.",
+   "en": "Note that some clues may require forensic or deeper analysis. If the characters do not have the means, this is an opportunity to engage other Factions related to the investigation or locale. For instance, an NPC from the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.cvpsLwcsXf4myIpK]{Adeptus Administratum} may be able to verify the authenticity of some paperwork — if the characters have or can gain the Influence to arrange it. Furthermore, offering the characters more than one clue at a time is often interesting, creating branching paths in the investigation. A selection of clues can be solved at different times, always giving the players a thread to follow if they believe they have come to a dead end.",
    "ru": ""
   },
   "62": {
@@ -66,7 +66,7 @@
    "ru": ""
   },
   "66": {
-   "en": "Tests are described in detail in @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.EwKNNdQ5EYayCPdA]{Rules}. Make sure you are familiar with those rules before you continue!",
+   "en": "Tests are described in detail in @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.EwKNNdQ5EYayCPdA]{Rules}. Make sure you are familiar with those rules before you continue!",
    "ru": ""
   },
   "70": {
@@ -122,7 +122,7 @@
    "ru": ""
   },
   "126": {
-   "en": " Specialisation and that the PC performing it will gain Advantage if they have the @UUID[Compendium.navis-apexialis.navis-core-items.Item.gzG57HKU32iQBSkO]{Pathologist} Talent or use a @UUID[Compendium.navis-apexialis.navis-core-items.Item.kous2Ot3MNPfthuo]{Diagnostor}. Having set the parameters for the Test, if PCs fail, they will still be able to obtain a sample that can be reliably analysed by an unhelpful NPC chirurgeon, costing them some time. An Impressive or Astounding Success in the Test will reveal not just the species but other traits related to the individual. By establishing this beforehand, you will be ready to deal with the Test and its outcome when it comes up in play.",
+   "en": " Specialisation and that the PC performing it will gain Advantage if they have the @UUID[Compendium.apex-imperialis.navis-core-items.Item.gzG57HKU32iQBSkO]{Pathologist} Talent or use a @UUID[Compendium.apex-imperialis.navis-core-items.Item.kous2Ot3MNPfthuo]{Diagnostor}. Having set the parameters for the Test, if PCs fail, they will still be able to obtain a sample that can be reliably analysed by an unhelpful NPC chirurgeon, costing them some time. An Impressive or Astounding Success in the Test will reveal not just the species but other traits related to the individual. By establishing this beforehand, you will be ready to deal with the Test and its outcome when it comes up in play.",
    "ru": ""
   },
   "136": {
@@ -154,7 +154,7 @@
    "ru": ""
   },
   "156": {
-   "en": " Skill or the @UUID[Compendium.navis-apexialis.navis-core-items.Item.C4qz5xdqvEPUt9Un]{Combat Master} Talent, then instead of making a Test, you may simply rule the character can reasonably reconstruct the events of the battle without a regular Test.",
+   "en": " Skill or the @UUID[Compendium.apex-imperialis.navis-core-items.Item.C4qz5xdqvEPUt9Un]{Combat Master} Talent, then instead of making a Test, you may simply rule the character can reasonably reconstruct the events of the battle without a regular Test.",
    "ru": ""
   },
   "160": {
@@ -170,7 +170,7 @@
    "ru": ""
   },
   "172": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.z9PTik4AMrYlbVhR#litanies-of-recollection]{Litanies of Recollection} is a group or individual Endeavour that characters may undertake between missions. The party, or the character, may use discussion, meditation, and reflection to consider what they have learned so far in the course of an investigation.",
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.z9PTik4AMrYlbVhR#litanies-of-recollection]{Litanies of Recollection} is a group or individual Endeavour that characters may undertake between missions. The party, or the character, may use discussion, meditation, and reflection to consider what they have learned so far in the course of an investigation.",
    "ru": ""
   },
   "176": {
@@ -182,7 +182,7 @@
    "ru": ""
   },
   "190": {
-   "en": "A Passive Test, as described above, is another way of giving the players the information they are missing. This is a good way of dealing with missed or misunderstood clues, with the trade-off being that the characters are not able to undertake other Endeavours while engaged in the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.z9PTik4AMrYlbVhR#litanies-of-recollection]{Litanies of Recollection}.",
+   "en": "A Passive Test, as described above, is another way of giving the players the information they are missing. This is a good way of dealing with missed or misunderstood clues, with the trade-off being that the characters are not able to undertake other Endeavours while engaged in the @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.z9PTik4AMrYlbVhR#litanies-of-recollection]{Litanies of Recollection}.",
    "ru": ""
   },
   "194": {
@@ -194,7 +194,7 @@
    "ru": ""
   },
   "198": {
-   "en": " to provide the players with new insights and revelations based on the information they already have. This is a good time to use an @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.EwKNNdQ5EYayCPdA#extended-test]{Extended Test}. Successes accrued during each attempt provide a small piece of useful information, with a major revelation if the characters succeed overall. These successes could result in the characters having Advantage in subsequent Tests related to clues when they resume their investigation.",
+   "en": " to provide the players with new insights and revelations based on the information they already have. This is a good time to use an @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.EwKNNdQ5EYayCPdA#extended-test]{Extended Test}. Successes accrued during each attempt provide a small piece of useful information, with a major revelation if the characters succeed overall. These successes could result in the characters having Advantage in subsequent Tests related to clues when they resume their investigation.",
    "ru": ""
   },
   "202": {
@@ -202,11 +202,11 @@
    "ru": ""
   },
   "206": {
-   "en": "Technology can greatly aid in the conduct of an investigation. The usefulness of some types of technology is obvious — for instance, an @UUID[Compendium.navis-apexialis.navis-core-items.Item.dO7XoDXD9QYTy6zZ]{Auspex} would be helpful in locating a hidden recording device by detecting its emissions, while an @UUID[Compendium.navis-apexialis.navis-core-items.Item.paXqMCUFqcpVEEBE]{Excruciator Kit} could help compel testimony from an unwilling prisoner.",
+   "en": "Technology can greatly aid in the conduct of an investigation. The usefulness of some types of technology is obvious — for instance, an @UUID[Compendium.apex-imperialis.navis-core-items.Item.dO7XoDXD9QYTy6zZ]{Auspex} would be helpful in locating a hidden recording device by detecting its emissions, while an @UUID[Compendium.apex-imperialis.navis-core-items.Item.paXqMCUFqcpVEEBE]{Excruciator Kit} could help compel testimony from an unwilling prisoner.",
    "ru": ""
   },
   "210": {
-   "en": "However, you should remain open to innovative uses of technology possessed by the characters. For instance, a character may propose using a @UUID[Compendium.navis-apexialis.navis-core-items.Item.Yp1Fmiml09wxHj4h]{vox bead} as a temporary impromptu bug to listen in on a meeting between leaders of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionist} gangs, a @UUID[Compendium.navis-apexialis.navis-core-items.Item.qjjlckQ3WvF4KLxO]{Chirurgeon's Kit} to assist in determining if a dead body has been surgically altered, or a @UUID[Compendium.navis-apexialis.navis-core-items.Item.kous2Ot3MNPfthuo]{Diagnostor} to help to identify blood and tissue samples. While such uses might technically fall outside a strict reading of these items as described in ",
+   "en": "However, you should remain open to innovative uses of technology possessed by the characters. For instance, a character may propose using a @UUID[Compendium.apex-imperialis.navis-core-items.Item.Yp1Fmiml09wxHj4h]{vox bead} as a temporary impromptu bug to listen in on a meeting between leaders of @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionist} gangs, a @UUID[Compendium.apex-imperialis.navis-core-items.Item.qjjlckQ3WvF4KLxO]{Chirurgeon's Kit} to assist in determining if a dead body has been surgically altered, or a @UUID[Compendium.apex-imperialis.navis-core-items.Item.kous2Ot3MNPfthuo]{Diagnostor} to help to identify blood and tissue samples. While such uses might technically fall outside a strict reading of these items as described in ",
    "ru": ""
   },
   "212": {
@@ -214,15 +214,15 @@
    "ru": ""
   },
   "214": {
-   "en": " (particularly the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.A1aeWZR8mZ0Kd98e#tools]{Tools} section), they likely do fall within a reasonable envelope of capability for them. However, such unusual uses may require difficult Tech Tests, and may even be seen as blasphemy by some purists from, for instance, the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus}.",
+   "en": " (particularly the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.A1aeWZR8mZ0Kd98e#tools]{Tools} section), they likely do fall within a reasonable envelope of capability for them. However, such unusual uses may require difficult Tech Tests, and may even be seen as blasphemy by some purists from, for instance, the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus}.",
    "ru": ""
   },
   "218": {
-   "en": "The investigative nature of Inquisition games also means that some sorts of often overlooked technology may be extremely useful. For instance, assume the characters diligently use a @UUID[Compendium.navis-apexialis.navis-core-items.Item.rgkUmSGkBrOKvo5p]{Pict Recorder} and a @UUID[Compendium.navis-apexialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW]{Dataslate} to record their ongoing investigations. You may wish to give Advantage on some subsequent Tests, grant Superiority, or even offer some benefit to @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.z9PTik4AMrYlbVhR#litanies-of-recollection]{Litanies of Recollection}, any action that would benefit from having detailed and objective information collected earlier.",
+   "en": "The investigative nature of Inquisition games also means that some sorts of often overlooked technology may be extremely useful. For instance, assume the characters diligently use a @UUID[Compendium.apex-imperialis.navis-core-items.Item.rgkUmSGkBrOKvo5p]{Pict Recorder} and a @UUID[Compendium.apex-imperialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW]{Dataslate} to record their ongoing investigations. You may wish to give Advantage on some subsequent Tests, grant Superiority, or even offer some benefit to @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.z9PTik4AMrYlbVhR#litanies-of-recollection]{Litanies of Recollection}, any action that would benefit from having detailed and objective information collected earlier.",
    "ru": ""
   },
   "222": {
-   "en": "The @UUID[Compendium.navis-apexialis.navis-core-items.Item.AMVwCpsT9ISRY65Z]{Emperor's Tarot} (and any similar sort of @UUID[Compendium.navis-apexialis.navis-core-items.Item.RJQOgOg4q8krADXi]{instrument of divination}) is another useful way of imparting important information to the players, but it should be a more indirect sort of insight, given its mystical and prophetic nature. For instance, the Emperor’s Tarot may not point directly at an incriminating document secreted in the files of an @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.cvpsLwcsXf4myIpK]{Adeptus Administratum} NPC known to the characters. It may, however, offer a glimpse of endless rows of stacked documents being ceaselessly sorted by dour, blank-faced figures. Such a portent should be enough to get the characters at least considering their Contacts in the Adeptus Administratum for a closer look!",
+   "en": "The @UUID[Compendium.apex-imperialis.navis-core-items.Item.AMVwCpsT9ISRY65Z]{Emperor's Tarot} (and any similar sort of @UUID[Compendium.apex-imperialis.navis-core-items.Item.RJQOgOg4q8krADXi]{instrument of divination}) is another useful way of imparting important information to the players, but it should be a more indirect sort of insight, given its mystical and prophetic nature. For instance, the Emperor’s Tarot may not point directly at an incriminating document secreted in the files of an @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.cvpsLwcsXf4myIpK]{Adeptus Administratum} NPC known to the characters. It may, however, offer a glimpse of endless rows of stacked documents being ceaselessly sorted by dour, blank-faced figures. Such a portent should be enough to get the characters at least considering their Contacts in the Adeptus Administratum for a closer look!",
    "ru": ""
   },
   "226": {
@@ -230,11 +230,11 @@
    "ru": ""
   },
   "230": {
-   "en": "Psychic powers are detailed in @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1]{Imperium Maledictum}",
+   "en": "Psychic powers are detailed in @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1]{Imperium Maledictum}",
    "ru": ""
   },
   "234": {
-   "en": "The Inquisition has a complicated relationship with psychic powers. On the one hand, psykers represent a profound, even existential threat of the very sort that the Inquisition — and particularly the Ordo Hereticus — seeks to expunge from the Imperium, or at least strictly contain them by aiding the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.upGG1JZPDbC7dpJJ]{Adeptus Astra Telepathica}. On the other hand, psykers can be a powerful addition to an Inquisitor’s retinue, both to wield psychic might offensively and to defend against the psychic powers of their enemies. Assuming that one of the characters or an NPC cooperating with them is a psyker, the question of using psychic powers to further an investigation will inevitably arise.",
+   "en": "The Inquisition has a complicated relationship with psychic powers. On the one hand, psykers represent a profound, even existential threat of the very sort that the Inquisition — and particularly the Ordo Hereticus — seeks to expunge from the Imperium, or at least strictly contain them by aiding the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.upGG1JZPDbC7dpJJ]{Adeptus Astra Telepathica}. On the other hand, psykers can be a powerful addition to an Inquisitor’s retinue, both to wield psychic might offensively and to defend against the psychic powers of their enemies. Assuming that one of the characters or an NPC cooperating with them is a psyker, the question of using psychic powers to further an investigation will inevitably arise.",
    "ru": ""
   },
   "244": {
@@ -242,15 +242,15 @@
    "ru": ""
   },
   "248": {
-   "en": "Some powers have obvious applications to investigation. For example, @UUID[Compendium.navis-apexialis.navis-core-items.Item.Qc4Adi2niwAoeY1j]{Preternatural Senses}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.UxhvWWKjI4rkQFii]{Psychic Scrutiny} and @UUID[Compendium.navis-apexialis.navis-core-items.Item.plATcbLJsFW1evOT]{Soulsight} can all assist in gaining information about and locating clues at a crime scene, while @UUID[Compendium.navis-apexialis.navis-core-items.Item.XuFiBvRR2vT9IPeC]{Spectral Hands} may assist in retrieving clues from otherwise inaccessible locations. @UUID[Compendium.navis-apexialis.navis-core-items.Item.sZluux2xrMuK4w1H]{Mental Interrogation} can pry critical information from a suspect. Various powers of Divination, such as @UUID[Compendium.navis-apexialis.navis-core-items.Item.xfNouLz2vwT0L7Gr]{Question the Warp} and @UUID[Compendium.navis-apexialis.navis-core-items.Item.3vquTkVELDNBVsZL]{Psychometry}, can help the characters unravel what may have happened and the motivations of those involved.",
+   "en": "Some powers have obvious applications to investigation. For example, @UUID[Compendium.apex-imperialis.navis-core-items.Item.Qc4Adi2niwAoeY1j]{Preternatural Senses}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.UxhvWWKjI4rkQFii]{Psychic Scrutiny} and @UUID[Compendium.apex-imperialis.navis-core-items.Item.plATcbLJsFW1evOT]{Soulsight} can all assist in gaining information about and locating clues at a crime scene, while @UUID[Compendium.apex-imperialis.navis-core-items.Item.XuFiBvRR2vT9IPeC]{Spectral Hands} may assist in retrieving clues from otherwise inaccessible locations. @UUID[Compendium.apex-imperialis.navis-core-items.Item.sZluux2xrMuK4w1H]{Mental Interrogation} can pry critical information from a suspect. Various powers of Divination, such as @UUID[Compendium.apex-imperialis.navis-core-items.Item.xfNouLz2vwT0L7Gr]{Question the Warp} and @UUID[Compendium.apex-imperialis.navis-core-items.Item.3vquTkVELDNBVsZL]{Psychometry}, can help the characters unravel what may have happened and the motivations of those involved.",
    "ru": ""
   },
   "252": {
-   "en": "The players themselves, though, may come up with innovative uses for Psychic Powers to assist them. For example, a character may use @UUID[Compendium.navis-apexialis.navis-core-items.Item.nsW4ViB2r0oIfyKp]{Dull Pain} or @UUID[Compendium.navis-apexialis.navis-core-items.Item.tNcKq3ZaMDeogkh3]{Seal Wounds} to ease the injuries of a wounded enemy in an attempt to make them more willing to reveal information — this could take the form of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#temporary-influence]{Temporary Influence}. You should remain open to such novel uses of Psychic Powers.",
+   "en": "The players themselves, though, may come up with innovative uses for Psychic Powers to assist them. For example, a character may use @UUID[Compendium.apex-imperialis.navis-core-items.Item.nsW4ViB2r0oIfyKp]{Dull Pain} or @UUID[Compendium.apex-imperialis.navis-core-items.Item.tNcKq3ZaMDeogkh3]{Seal Wounds} to ease the injuries of a wounded enemy in an attempt to make them more willing to reveal information — this could take the form of @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#temporary-influence]{Temporary Influence}. You should remain open to such novel uses of Psychic Powers.",
    "ru": ""
   },
   "256": {
-   "en": "Generally, you should view the characters’ use of Psychic Powers as another useful way of providing them with information and clues. To that end, when creating a story, you should try to anticipate when the characters are likely to attempt to use Psychic Powers and prepare accordingly. And, if the characters begin to rely on them too much, the rules for Psychic Powers offer built-in limiters, such as accumulating @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1.JournalEntryPage.buydA5mPJln97Qk5]{Warp Charges}, manifesting @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.9aSbu2mswOOI43J1]{Psychic Phenomena}, and triggering @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.2YYlAUyaVIt4bZVa]{Perils of the Warp}. Even if these things do not themselves result in disasters, they can attract unwanted attention to the characters and make their investigations more difficult!",
+   "en": "Generally, you should view the characters’ use of Psychic Powers as another useful way of providing them with information and clues. To that end, when creating a story, you should try to anticipate when the characters are likely to attempt to use Psychic Powers and prepare accordingly. And, if the characters begin to rely on them too much, the rules for Psychic Powers offer built-in limiters, such as accumulating @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1.JournalEntryPage.buydA5mPJln97Qk5]{Warp Charges}, manifesting @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.9aSbu2mswOOI43J1]{Psychic Phenomena}, and triggering @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.2YYlAUyaVIt4bZVa]{Perils of the Warp}. Even if these things do not themselves result in disasters, they can attract unwanted attention to the characters and make their investigations more difficult!",
    "ru": ""
   },
   "260": {
@@ -258,11 +258,11 @@
    "ru": ""
   },
   "270": {
-   "en": "There are several ways that the players may engage with expert assistance during the course of a game. The most obvious is taking advantage of their @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.2TukBjlkS5RG5Qka]{Contacts}, either by making use of their Patron’s Influence with that Contact’s Faction, or their own @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#personal-influence]{Personal Influence}, potentially boosted by @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#temporary-influence]{Temporary Influence} in the form of bribes or blackmail. Clever players may make note of potentially incriminating evidence of wrongdoing uncovered during the course of an investigation, but instead of simply bringing the miscreant to justice, they may hold onto that sinister knowledge to use as Temporary Influence later.",
+   "en": "There are several ways that the players may engage with expert assistance during the course of a game. The most obvious is taking advantage of their @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.2TukBjlkS5RG5Qka]{Contacts}, either by making use of their Patron’s Influence with that Contact’s Faction, or their own @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#personal-influence]{Personal Influence}, potentially boosted by @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#temporary-influence]{Temporary Influence} in the form of bribes or blackmail. Clever players may make note of potentially incriminating evidence of wrongdoing uncovered during the course of an investigation, but instead of simply bringing the miscreant to justice, they may hold onto that sinister knowledge to use as Temporary Influence later.",
    "ru": ""
   },
   "274": {
-   "en": "If the players do so, you should consider the sort of information that these Contacts might reveal. Even if the characters have considerable Influence with a Faction, members of that Faction are unlikely to undermine their own interests. For instance, if an officer of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum} is involved in a profitable conspiracy to skim tithes from an Imperial world, then that officer is unlikely to assist the characters in uncovering that same conspiracy, no matter how much Influence they bring to bear — unless, of course, they can otherwise convince that officer it would be worth their while!",
+   "en": "If the players do so, you should consider the sort of information that these Contacts might reveal. Even if the characters have considerable Influence with a Faction, members of that Faction are unlikely to undermine their own interests. For instance, if an officer of the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum} is involved in a profitable conspiracy to skim tithes from an Imperial world, then that officer is unlikely to assist the characters in uncovering that same conspiracy, no matter how much Influence they bring to bear — unless, of course, they can otherwise convince that officer it would be worth their while!",
    "ru": ""
   },
   "278": {
@@ -274,7 +274,7 @@
    "ru": ""
   },
   "286": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.3j1kargHBeCTssE7]{Superiority} is a resource which can fundamentally reshape a battle or encounter. It can be used to increase the SL on a single Test during a turn of combat, and is also compared with NPC @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.dZFX8HOdsFDpI7l0#resolve]{Resolve} to determine if those NPCs become @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.3j1kargHBeCTssE7#resolve]{Desperate}.",
+   "en": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.3j1kargHBeCTssE7]{Superiority} is a resource which can fundamentally reshape a battle or encounter. It can be used to increase the SL on a single Test during a turn of combat, and is also compared with NPC @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.dZFX8HOdsFDpI7l0#resolve]{Resolve} to determine if those NPCs become @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.3j1kargHBeCTssE7#resolve]{Desperate}.",
    "ru": ""
   },
   "290": {
@@ -290,7 +290,7 @@
    "ru": ""
   },
   "298": {
-   "en": "Similarly, suppose the characters discover a blood trail they believe to be left by an injured cultist fleeing into a safehouse somewhere in the lower levels of @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf]{Hive Rokarth}. In that case, they may be able to discern a likely destination. They could then use this information to learn more about the location from residents of the lower hive or @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.gQxTENJSdTQTVfDM]{Vigilites} who have patrolled the area. Again, if the players make this connection, it would be reasonable to give them +1 Superiority for undertaking such forward-thinking preparations.",
+   "en": "Similarly, suppose the characters discover a blood trail they believe to be left by an injured cultist fleeing into a safehouse somewhere in the lower levels of @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf]{Hive Rokarth}. In that case, they may be able to discern a likely destination. They could then use this information to learn more about the location from residents of the lower hive or @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.gQxTENJSdTQTVfDM]{Vigilites} who have patrolled the area. Again, if the players make this connection, it would be reasonable to give them +1 Superiority for undertaking such forward-thinking preparations.",
    "ru": ""
   },
   "302": {
@@ -306,7 +306,7 @@
    "ru": ""
   },
   "314": {
-   "en": "The Inquisition Player’s Guide introduces the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz]{Subtlety} mechanic to Imperium Maledictum. This optional ruleset provides a framework for GMs and players to dynamically adjust the world and characters in response to how covertly or overtly the players approach objectives. On the surface, it is an excellent tool for players to judge how well their characters and decisions perform and gain a small reward. But on a deeper level, it will enable you, the GM, to do the same.",
+   "en": "The Inquisition Player’s Guide introduces the @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz]{Subtlety} mechanic to Imperium Maledictum. This optional ruleset provides a framework for GMs and players to dynamically adjust the world and characters in response to how covertly or overtly the players approach objectives. On the surface, it is an excellent tool for players to judge how well their characters and decisions perform and gain a small reward. But on a deeper level, it will enable you, the GM, to do the same.",
    "ru": ""
   },
   "318": {
@@ -330,7 +330,7 @@
    "ru": ""
   },
   "350": {
-   "en": "Consider introducing narrative elements in the world when their Subtlety Levels change (such as from @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.k3IIBps2ZS9Ap23D#suspicious-(subtlety-7-5)]{Suspicious} to @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.k3IIBps2ZS9Ap23D#overt-(subtlety-4-2)]{Overt}). Do NPCs react to them differently? Do they quickly hear rumours of people searching for them, or perhaps an enemy has detected them and goes deeper into hiding?",
+   "en": "Consider introducing narrative elements in the world when their Subtlety Levels change (such as from @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.k3IIBps2ZS9Ap23D#suspicious-(subtlety-7-5)]{Suspicious} to @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.k3IIBps2ZS9Ap23D#overt-(subtlety-4-2)]{Overt}). Do NPCs react to them differently? Do they quickly hear rumours of people searching for them, or perhaps an enemy has detected them and goes deeper into hiding?",
    "ru": ""
   }
  }

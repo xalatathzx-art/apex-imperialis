@@ -11,15 +11,15 @@ test("biomonitor has the six IM hit locations", () => {
 test("DOOMBC anatomy layers map exactly onto the IM hit locations", () => {
   assert.deepEqual(BODY_SCAN_LAYERS.map(layer => layer.zone), ["leftLeg", "rightLeg", "leftArm", "rightArm", "body", "head"]);
   for (const layer of BODY_SCAN_LAYERS) {
-    assert.match(layer.src, /^\/modules\/navis-apexialis\/assets\/biomonitor\/.+\.png$/);
-    assert.ok(fs.existsSync(new URL(`../${layer.src.replace("/modules/navis-apexialis/", "")}`, import.meta.url)));
+    assert.match(layer.src, /^\/modules\/apex-imperialis\/assets\/biomonitor\/.+\.png$/);
+    assert.ok(fs.existsSync(new URL(`../${layer.src.replace("/modules/apex-imperialis/", "")}`, import.meta.url)));
   }
 });
 
 test("augmetic placement uses slot then effect then flag and never its name", () => {
   assert.equal(augmeticLocation({ system: { slot: "leftArm" }, effects: [], flags: {} }), "leftArm");
   assert.equal(augmeticLocation({ system: {}, effects: [{ changes: [{ key: "system.location.value", value: "head" }] }], flags: {} }), "head");
-  assert.equal(augmeticLocation({ name: "Bionic Eye", system: {}, effects: [], flags: { "navis-apexialis": { location: "rightArm" } } }), "rightArm");
+  assert.equal(augmeticLocation({ name: "Bionic Eye", system: {}, effects: [], flags: { "apex-imperialis": { location: "rightArm" } } }), "rightArm");
   assert.equal(augmeticLocation({ name: "Bionic Eye", system: {}, effects: [], flags: {} }), "internal");
 });
 

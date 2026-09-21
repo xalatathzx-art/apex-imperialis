@@ -1,5 +1,5 @@
 /**
- * Navis Apexialis — player character refit.
+ * Apex Imperialis — player character refit.
  *
  * The approved "Player sheet refit" proposal applied to impmal's character
  * sheet: the header, the tab strip, the Main tab and the Combat tab. Same rules

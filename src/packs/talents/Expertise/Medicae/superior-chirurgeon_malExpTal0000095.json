@@ -2,7 +2,7 @@
   "name": "Superior Chirurgeon",
   "type": "talent",
   "_id": "malExpTal0000095",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">+1SL on all Medicae checks, first aid in combat is done at +10</span></p><hr><p><span style=\"font-family: Arial\"><em>You gain a +1SL Bonus on all Medicae Skill Tests. When providing first aid during combat, the test is Ordinary (+10) instead of Challenging</em></span></p>",
@@ -38,7 +38,7 @@
   "effects": [
     {
       "name": "Superior Chirurgeon",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "_id": "mwjesV1bSdKFeXSo",
       "type": "base",
       "system": {
@@ -159,7 +159,7 @@
     }
   ],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

@@ -15,8 +15,8 @@
 
 export const label = "Актёры (Приключения на Волле)";
 
-const CORE_ACTORS = "Compendium.navis-apexialis.navis-core-actors.Actor";
-const CORE_ITEMS = "Compendium.navis-apexialis.navis-core-items.Item";
+const CORE_ACTORS = "Compendium.apex-imperialis.navis-core-actors.Actor";
+const CORE_ITEMS = "Compendium.apex-imperialis.navis-core-items.Item";
 const p = text => `<p>${text}</p>`;
 const HARD = s => `<strong>${s}</strong>`;
 const DREGS_GANGERS = `@UUID[${CORE_ACTORS}.ZUWBWGM4eH7xFZ8P]{отбросов} и @UUID[${CORE_ACTORS}.bB0rMr6Gez3M9bME]{бандитов}`;
@@ -35,7 +35,7 @@ const MECHADENDRITE = {
   zmiMssLR3esYuP5E: {
         name: "Ремесленный механодендрит", description: p("Служит комбиинструментом и холодным оружием.") },
   DN4ZI8z7SqJjsney: { name: "Ремесленный механодендрит",
-    description: p("Эти змееподобные, почти двухметровые металлические «руки» крепятся на груди, спине или плечах хозяина и служат ему дополнительными конечностями. Они встречаются только у членов @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.uJURMn2glWHhjqJk.JournalEntryPage.1oKZw1hTM7Gx5cqB]{Адептус Механикус}, и каждый оснащён специальными приспособлениями. Применение механодендрита требует действия.")
+    description: p("Эти змееподобные, почти двухметровые металлические «руки» крепятся на груди, спине или плечах хозяина и служат ему дополнительными конечностями. Они встречаются только у членов @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.uJURMn2glWHhjqJk.JournalEntryPage.1oKZw1hTM7Gx5cqB]{Адептус Механикус}, и каждый оснащён специальными приспособлениями. Применение механодендрита требует действия.")
       + p("Каждый механодендрит при подсчёте предельного количества имплантатов, что может поставить себе персонаж, считается отдельной единицей аугметики. Если персонаж, имеющий механодендриты, получает критическую рану в торс, бросьте 1к10. Если выпадет число, меньшее количества установленных и работающих механодендритов, значит попадание повреждает механодендрит. Повреждённый механодендрит не будет работать, пока его не починят.")
       + `<ul><li><p><strong>Ремесленный</strong>: самый расхожий тип механодендрита — он оснащён инструментами для работы с машинами и считается @UUID[${CORE_ITEMS}.xQ2vhqZTWMBZ3Jxi]{комбиинструментом} среднего качества, но приносит +2 успеха к проверкам Техники, а также может использоваться в ближнем бою как @UUID[${CORE_ITEMS}.CrbE669FitnwNPZX]{импровизированное одноручное оружие}.</p></li></ul>`
   }
@@ -51,7 +51,7 @@ export const entries = {
   "12z2XfTtvXfn6kwY": {
     en: "Morgan Trace",
     items: {
-      "Call for Backup": { description: p(`Находясь в @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.0sTvCVRuh5Wpawt9.JournalEntryPage.eiMwmm7AQZLlFOkn#f.-the-float]{«Поплавке»}, Трейс может действием вызвать подкрепление по своей вокс-бусине. Этот вызов слышат все мародёры в радиусе мили. Подкрепление обычно прибывает через [[/r 1d5]] раундов и состоит из ${DREGS_GANGERS}.`) },
+      "Call for Backup": { description: p(`Находясь в @UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.0sTvCVRuh5Wpawt9.JournalEntryPage.eiMwmm7AQZLlFOkn#f.-the-float]{«Поплавке»}, Трейс может действием вызвать подкрепление по своей вокс-бусине. Этот вызов слышат все мародёры в радиусе мили. Подкрепление обычно прибывает через [[/r 1d5]] раундов и состоит из ${DREGS_GANGERS}.`) },
       "Marauder Commander": { description: p(`Действием Трейс может пройти ${HARD("среднюю (+0) проверку Командования (Лидерство)")}. За каждую ступень успеха один из её мародёров в пределах средней дистанции может потратить реакцию, чтобы немедленно совершить действие.`) }
     }
   },
@@ -95,15 +95,15 @@ export const entries = {
     en: "Adriana Corbid",
     items: {
       "Left Hand of Sihn": { description: p("Корбид может потратить своё действие, чтобы приказать члену Двора Сина в пределах средней дистанции немедленно совершить действие.") },
-      "Visions of Sihn": { description: p(`Если Корбид совершает действие <em>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.dZFX8HOdsFDpI7l0#resolve]{«Берегись, сэр!»}</em>, чтобы защитить Маркиса Сина, она проходит для этого ${HARD("лёгкую (+20) проверку Рефлексов (Уклонение)")}.`) }
+      "Visions of Sihn": { description: p(`Если Корбид совершает действие <em>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.dZFX8HOdsFDpI7l0#resolve]{«Берегись, сэр!»}</em>, чтобы защитить Маркиса Сина, она проходит для этого ${HARD("лёгкую (+20) проверку Рефлексов (Уклонение)")}.`) }
     }
   },
   FS6l4jv4KbzBf89s: {
     en: "Arkt Talgore",
     items: {
       Forbidden: {
-        description: `<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Языки}</p>`
-          + p("Обладатели этой специализации владеют узко распространённым или запрещённым в Империуме языком. Знать наречия ксеносов почти всегда считается ересью — впрочем, сёстры орденов Диалогус нередко получают от Адептус Министорум специальное разрешение на их изучение. На некоторых чужацких наречиях — например, круутском — человек вообще неспособен говорить, не получив аугментаций. Также, кроме еретических языков, существуют и слишком священные для простолюдинов — например, такова техножреческая лингва технис, запретная для всех, не принадлежащих к их культу, ибо основана на двоичном машинном коде, и говорить на ней могут лишь обладатели нужных имплантатов да немногочисленные гении. Другой пример — мыслежесты сестёр Безмолвия, почти неизвестные посторонним. Каждый запретный язык требует соответствующего таланта @UUID[Compendium.navis-apexialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Запретные тайны}.")
+        description: `<p>@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Языки}</p>`
+          + p("Обладатели этой специализации владеют узко распространённым или запрещённым в Империуме языком. Знать наречия ксеносов почти всегда считается ересью — впрочем, сёстры орденов Диалогус нередко получают от Адептус Министорум специальное разрешение на их изучение. На некоторых чужацких наречиях — например, круутском — человек вообще неспособен говорить, не получив аугментаций. Также, кроме еретических языков, существуют и слишком священные для простолюдинов — например, такова техножреческая лингва технис, запретная для всех, не принадлежащих к их культу, ибо основана на двоичном машинном коде, и говорить на ней могут лишь обладатели нужных имплантатов да немногочисленные гении. Другой пример — мыслежесты сестёр Безмолвия, почти неизвестные посторонним. Каждый запретный язык требует соответствующего таланта @UUID[Compendium.apex-imperialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Запретные тайны}.")
       },
       ...bestialRage("Талгор"),
       ...bullishCharge("Талгор"),

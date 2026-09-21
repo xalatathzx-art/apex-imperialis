@@ -24,7 +24,7 @@ test("the Sacred Code is recognised separately", () => {
 });
 
 test("only talents count — an implant of the same name does not", () => {
-  const actor = { items: [{ type: "navis-apexialis.implant", name: TALENT_NAMES.tuning[0] }] };
+  const actor = { items: [{ type: "apex-imperialis.implant", name: TALENT_NAMES.tuning[0] }] };
   assert.deepEqual(talentBonuses(actor), { talentBonus: 0, sacredCode: false });
 });
 

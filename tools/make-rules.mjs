@@ -183,7 +183,7 @@ const pages = [
     id: "06",
     name: "At the Table",
     html:
-      p("Navis Apexialis automates the arithmetic. Open any NPC, go to the <strong>Effects</strong> tab, and enter a ",
+      p("Apex Imperialis automates the arithmetic. Open any NPC, go to the <strong>Effects</strong> tab, and enter a ",
         "Strength in the <strong>Horde</strong> row. That is the whole of the setup — a horde is a flag on an ",
         "ordinary NPC, so any stat block from any compendium can be fielded as one without being copied or ",
         "imported.") +
@@ -204,7 +204,7 @@ const pages = [
         "targeted, so the row tells you the number and stays out of the way. Engulf. And which of Flee!, Surrender! ",
         "or Charge! a broken horde does.") +
       h(3, "two-settings", "Two Settings") +
-      p("Both are in <em>Configure Settings → Navis Apexialis</em>, because both are a table's taste rather than a ",
+      p("Both are in <em>Configure Settings → Apex Imperialis</em>, because both are a table's taste rather than a ",
         "rule:") +
       ul(
         "<strong>Horde: damage bonus</strong> — extra damage on the horde's own attacks, on top of its modifier. " +

@@ -85,7 +85,7 @@ test("восстановление сохраняет список Процес�
 });
 
 const implantWithEnergy = (value, active = true) => ({
-  type: "navis-apexialis.implant",
+  type: "apex-imperialis.implant",
   system: { installed: true, disabled: false, active, quality: 2, chosenEffects: {},
             mechanics: [{ id: "g", operator: "AND", entries: [{ id: "e", kind: "energy", value }] }] }
 });
@@ -122,7 +122,7 @@ test("a positive and a negative entry net out", () => {
 
 /** An `energy` entry offered as one alternative in an unchosen/chosen OR group. */
 const implantWithOrEnergy = (value, chosenId = null) => ({
-  type: "navis-apexialis.implant",
+  type: "apex-imperialis.implant",
   system: {
     installed: true, disabled: false, active: true, quality: 2,
     chosenEffects: chosenId ? { g: chosenId } : {},

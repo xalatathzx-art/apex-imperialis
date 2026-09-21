@@ -18,11 +18,11 @@
    "ru": ""
   },
   "14": {
-   "en": "During @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.ZzHsqdssD6GJyhDE]{Inquisitor Patron creation}, discuss with your players what Philosophy their Patron should follow and whether they lean more Puritan or Radical. Options presented in the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.ZzHsqdssD6GJyhDE.JournalEntryPage.lFT1A8eGYjmaOne2]{Inquisition Player’s Guide} and their accompanying summaries are good starting points, but this section fleshes out the existing and more esoteric options.",
+   "en": "During @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.ZzHsqdssD6GJyhDE]{Inquisitor Patron creation}, discuss with your players what Philosophy their Patron should follow and whether they lean more Puritan or Radical. Options presented in the @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.ZzHsqdssD6GJyhDE.JournalEntryPage.lFT1A8eGYjmaOne2]{Inquisition Player’s Guide} and their accompanying summaries are good starting points, but this section fleshes out the existing and more esoteric options.",
    "ru": ""
   },
   "18": {
-   "en": "If players are unsure or undecided, feel free to introduce their Patron’s Philosophy further down the line once they have had a chance to explore the setting and run a few missions, or feel free to roll on the @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.1gzUacqcHeN4JwkK]{Inquisition Philosophies} Table to determine it randomly. A Patron’s Philosophy can be a significant part of their general mystique. Discuss with your players if they want to know their Philosophy upfront. They may grant you carte blanche to choose one on their behalf to better suit the stories you want to tell. Remember, it is not uncommon for Radical Inquisitors to present themselves in a more Puritan light to survive, then dramatically reveal their true Philosophy later. On the other hand, Puritan Inquisitors can appear just as unhinged as some Radical counterparts, the purity they strive for taking a toll upon them, or imbued with sheer fervor for the tenets they follow.",
+   "en": "If players are unsure or undecided, feel free to introduce their Patron’s Philosophy further down the line once they have had a chance to explore the setting and run a few missions, or feel free to roll on the @UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.1gzUacqcHeN4JwkK]{Inquisition Philosophies} Table to determine it randomly. A Patron’s Philosophy can be a significant part of their general mystique. Discuss with your players if they want to know their Philosophy upfront. They may grant you carte blanche to choose one on their behalf to better suit the stories you want to tell. Remember, it is not uncommon for Radical Inquisitors to present themselves in a more Puritan light to survive, then dramatically reveal their true Philosophy later. On the other hand, Puritan Inquisitors can appear just as unhinged as some Radical counterparts, the purity they strive for taking a toll upon them, or imbued with sheer fervor for the tenets they follow.",
    "ru": ""
   },
   "22": {
@@ -38,7 +38,7 @@
    "ru": ""
   },
   "38": {
-   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.1gzUacqcHeN4JwkK]{Philosophy}",
+   "en": "@TableHTML[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.1gzUacqcHeN4JwkK]{Philosophy}",
    "ru": ""
   }
  }

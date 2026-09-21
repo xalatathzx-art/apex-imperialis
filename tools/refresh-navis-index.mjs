@@ -1,5 +1,5 @@
 /**
- * Refresh src/compendium/packs-index.json for Navis Apexialis' own packs.
+ * Refresh src/compendium/packs-index.json for Apex Imperialis' own packs.
  *
  * The official packs were indexed from a running world; ours are built here, so
  * they can be indexed straight from packs/. Reads a copy of each pack, so it is
@@ -24,7 +24,7 @@ for (const name of process.argv.slice(2)) {
   const copy = fs.mkdtempSync(path.join(os.tmpdir(), "idx-"));
   fs.cpSync(def.path, copy, { recursive: true, filter: s => !s.endsWith("LOCK") });
   const { primary, embedded } = partition(await readPack(copy));
-  const key = `navis-apexialis.${name}`;
+  const key = `apex-imperialis.${name}`;
   index[key] = { label: def.label, documentName: def.type, entries: BUILD[def.type](primary, embedded) };
   console.log(`${key}: ${Object.keys(index[key].entries).length} entries`);
 }

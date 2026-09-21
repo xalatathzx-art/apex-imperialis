@@ -18,7 +18,7 @@
 import { IMPLANT_TYPE } from "./state.js";
 import { SLOTS } from "./classify.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 let ImplantModel = null;
 

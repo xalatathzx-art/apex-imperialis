@@ -2,7 +2,7 @@
   "name": "Forensic Ballistics",
   "type": "talent",
   "_id": "malExpTal0000075",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Grants the bonus of Forensic Expert to analyzing firearms and munitions, potentially deducing the skill of the shooter</span></p><hr><p><span style=\"font-family: Arial\"><em>Relating to the analysis of firearms and their munitions. Training in this field allows you to deduce exactly what weapons and munitions were used, with a high number of SLs allowing you to evaluate the shooters skill.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

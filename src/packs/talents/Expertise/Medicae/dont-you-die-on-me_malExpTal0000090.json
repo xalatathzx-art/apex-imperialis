@@ -2,7 +2,7 @@
   "name": "Don't you Die on me!",
   "type": "talent",
   "_id": "malExpTal0000090",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Revive ally dying from Blood Loss up to IntB rounds after \"death\" by spending a FP and succeed at Medicae-30 test</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever an ally dies from Blood Loss, you have a chance to bring back the fallen comrade from the brink for a number of rounds equal to your Intelligence Bonus. During this time, if you are close enough to treat your “dead” ally, you may spend a Fate Point and make a Very Hard (-30) Medicae Test in an attempt to revive them. This test requires an action, and you must spend a Fate Point each time you wish to attempt it. If you succeed on one of these tests within a number of rounds equal to your Intelligence Bonus, you manage to bring back the fallen ally from the edge. This does not in any way reverse any other consequences of the injury that “killed” the character, such as lost limbs.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

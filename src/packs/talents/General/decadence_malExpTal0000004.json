@@ -2,7 +2,7 @@
   "name": "Decadence",
   "type": "talent",
   "_id": "malExpTal0000004",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Ignore poison/drugs unless failing Fortitude by more than TghB. +1SL to resist addiction</span></p><hr><p><span style=\"font-family: Arial\"><em>When you consume intoxicants, are unwillingly subjected to drugs, or are poisoned, you may choose to be unaffected by their effects unless you fail a Fortitude test by an mount of SLs equal to or greater than your Toughness Bonus. You also gain a +1SL Bonus to resist the effects of addiction. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

@@ -13,7 +13,7 @@ const ROOT = "Imperium Maledictum";
 
 /** Sidebar order, and the label each module gets. Anything absent is skipped. */
 const SHELVES = [
-  { id: "navis-apexialis", label: "Navis Apexialis", color: "#8b6a1f" },
+  { id: "apex-imperialis", label: "Apex Imperialis", color: "#8b6a1f" },
   { id: "impmal-core", label: "Core Rulebook", color: "#4a5a6a" },
   { id: "impmal-inquisition", label: "Inquisition Guide", color: "#6a3a3a" },
   { id: "impmal-requisition", label: "Macharian Requisition", color: "#3a5a4a" }

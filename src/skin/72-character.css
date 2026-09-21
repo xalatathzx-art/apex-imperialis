@@ -12,22 +12,22 @@
    ══════════════════════════════════════════════════════════════════════ */
 
 /* Nodes a pass has emptied out of the template. */
-body.navis-skin .application.actor.impmal .navis-emptied {
+body.apex-skin .application.actor.impmal .navis-emptied {
   display: none !important;
 }
 
 /* Both tabs stack their blocks with one rhythm. */
-body.navis-skin .application.actor.impmal.character section.tab.active:is([data-tab="main"], [data-tab="combat"])[data-navis-refit] {
+body.apex-skin .application.actor.impmal.character section.tab.active:is([data-tab="main"], [data-tab="combat"])[data-navis-refit] {
   display: flex;
   flex-direction: column;
   gap: 12px;
 }
-body.navis-skin .application.actor.impmal.character section.tab:is([data-tab="main"], [data-tab="combat"])[data-navis-refit] > * {
+body.apex-skin .application.actor.impmal.character section.tab:is([data-tab="main"], [data-tab="combat"])[data-navis-refit] > * {
   margin: 0;
 }
 
 /* Every number input the refit lays out reads as text until focused. */
-body.navis-skin .application.actor.impmal.character :is(.navis-chars, .navis-tile, .navis-ledger, .navis-ready, .navis-influence) input:is([type="number"], [type="text"]) {
+body.apex-skin .application.actor.impmal.character :is(.navis-chars, .navis-tile, .navis-ledger, .navis-ready, .navis-influence) input:is([type="number"], [type="text"]) {
   height: auto;
   padding: 0;
   background: transparent;
@@ -37,15 +37,15 @@ body.navis-skin .application.actor.impmal.character :is(.navis-chars, .navis-til
   outline-offset: 1px;
   appearance: textfield;
 }
-body.navis-skin .application.actor.impmal.character :is(.navis-chars, .navis-tile, .navis-ledger, .navis-ready, .navis-influence) input:is([type="number"], [type="text"]):disabled {
+body.apex-skin .application.actor.impmal.character :is(.navis-chars, .navis-tile, .navis-ledger, .navis-ready, .navis-influence) input:is([type="number"], [type="text"]):disabled {
   opacity: 1;
 }
-body.navis-skin .application.actor.impmal.character :is(.navis-chars, .navis-tile, .navis-ledger, .navis-ready, .navis-influence) input:is([type="number"], [type="text"]):focus {
+body.apex-skin .application.actor.impmal.character :is(.navis-chars, .navis-tile, .navis-ledger, .navis-ready, .navis-influence) input:is([type="number"], [type="text"]):focus {
   background: var(--navis-field);
   outline: 1px solid var(--navis-brass-dim);
 }
-body.navis-skin .application.actor.impmal.character :is(.navis-chars, .navis-tile, .navis-ledger, .navis-ready, .navis-influence) input[type="number"]::-webkit-inner-spin-button,
-body.navis-skin .application.actor.impmal.character :is(.navis-chars, .navis-tile, .navis-ledger, .navis-ready, .navis-influence) input[type="number"]::-webkit-outer-spin-button {
+body.apex-skin .application.actor.impmal.character :is(.navis-chars, .navis-tile, .navis-ledger, .navis-ready, .navis-influence) input[type="number"]::-webkit-inner-spin-button,
+body.apex-skin .application.actor.impmal.character :is(.navis-chars, .navis-tile, .navis-ledger, .navis-ready, .navis-influence) input[type="number"]::-webkit-outer-spin-button {
   appearance: none;
   margin: 0;
 }
@@ -53,7 +53,7 @@ body.navis-skin .application.actor.impmal.character :is(.navis-chars, .navis-til
 
 /* ══ BLOCKS ════════════════════════════════════════════════════════════════ */
 
-body.navis-skin .application.actor.impmal.character .navis-block {
+body.apex-skin .application.actor.impmal.character .navis-block {
   display: block;
   height: auto;
   margin: 0;
@@ -66,7 +66,7 @@ body.navis-skin .application.actor.impmal.character .navis-block {
   clip-path: var(--navis-plate);
   opacity: 1;
 }
-body.navis-skin .application.actor.impmal.character .navis-block .navis-block-hd {
+body.apex-skin .application.actor.impmal.character .navis-block .navis-block-hd {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -80,7 +80,7 @@ body.navis-skin .application.actor.impmal.character .navis-block .navis-block-hd
   border-bottom: 1px solid var(--navis-brass-dim);
   text-align: left;
 }
-body.navis-skin .application.actor.impmal.character .navis-block :is(.navis-cap, .navis-block-hd .list-name) {
+body.apex-skin .application.actor.impmal.character .navis-block :is(.navis-cap, .navis-block-hd .list-name) {
   flex: 1;
   margin: 0;
   padding: 0;
@@ -92,33 +92,33 @@ body.navis-skin .application.actor.impmal.character .navis-block :is(.navis-cap,
   text-transform: uppercase;
   color: var(--navis-brass);
 }
-body.navis-skin .application.actor.impmal.character .navis-block .navis-cap.dim {
+body.apex-skin .application.actor.impmal.character .navis-block .navis-cap.dim {
   flex: none;
   font-size: 11px;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .navis-block .navis-block-ctl {
+body.apex-skin .application.actor.impmal.character .navis-block .navis-block-ctl {
   display: flex;
   align-items: center;
   gap: 10px;
   flex: none;
 }
-body.navis-skin .application.actor.impmal.character .navis-block .navis-block-hd :is(.navis-block-ctl, .list-controls) :is(a, i) {
+body.apex-skin .application.actor.impmal.character .navis-block .navis-block-hd :is(.navis-block-ctl, .list-controls) :is(a, i) {
   font-size: 13px;
   line-height: 1;
   color: var(--navis-ink-faint);
   transition: color var(--navis-transition);
 }
-body.navis-skin .application.actor.impmal.character .navis-block .navis-block-hd :is(.navis-block-ctl, .list-controls) a:hover {
+body.apex-skin .application.actor.impmal.character .navis-block .navis-block-hd :is(.navis-block-ctl, .list-controls) a:hover {
   color: var(--navis-accent-lit);
 }
-body.navis-skin .application.actor.impmal.character .navis-block .navis-block-hd :is(.navis-block-ctl, .list-controls) a.inactive {
+body.apex-skin .application.actor.impmal.character .navis-block .navis-block-hd :is(.navis-block-ctl, .list-controls) a.inactive {
   opacity: 0.45;
 }
-body.navis-skin .application.actor.impmal.character .navis-block .navis-block-bd {
+body.apex-skin .application.actor.impmal.character .navis-block .navis-block-bd {
   padding: 8px 10px 10px;
 }
-body.navis-skin .application.actor.impmal.character .navis-note {
+body.apex-skin .application.actor.impmal.character .navis-note {
   font-family: var(--navis-font-text);
   font-size: 12px;
   line-height: 1.35;
@@ -128,7 +128,7 @@ body.navis-skin .application.actor.impmal.character .navis-note {
 
 /* ══ HEADER ════════════════════════════════════════════════════════════════ */
 
-body.navis-skin .application.actor.impmal.character header.sheet-header.navis-character-header {
+body.apex-skin .application.actor.impmal.character header.sheet-header.navis-character-header {
   display: grid;
   grid-template-columns: 76px minmax(0, 1fr);
   gap: 12px;
@@ -139,7 +139,7 @@ body.navis-skin .application.actor.impmal.character header.sheet-header.navis-ch
   background: none;
   border: 0;
 }
-body.navis-skin .application.actor.impmal.character .navis-character-header img.profile {
+body.apex-skin .application.actor.impmal.character .navis-character-header img.profile {
   flex: none;
   width: 76px;
   height: 76px;
@@ -150,14 +150,14 @@ body.navis-skin .application.actor.impmal.character .navis-character-header img.
   border-radius: 0;
   clip-path: var(--navis-plate);
 }
-body.navis-skin .application.actor.impmal.character .navis-character-header .header-details {
+body.apex-skin .application.actor.impmal.character .navis-character-header .header-details {
   display: flex;
   flex-direction: column;
   gap: 6px;
   min-width: 0;
   margin: 0;
 }
-body.navis-skin .application.actor.impmal.character .navis-character-header .details-row.name {
+body.apex-skin .application.actor.impmal.character .navis-character-header .details-row.name {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
@@ -170,7 +170,7 @@ body.navis-skin .application.actor.impmal.character .navis-character-header .det
   border-left: 3px solid var(--navis-brass);
   clip-path: var(--navis-plate-sm);
 }
-body.navis-skin .application.actor.impmal.character .navis-character-header .details-row.name input {
+body.apex-skin .application.actor.impmal.character .navis-character-header .details-row.name input {
   flex: 1;
   min-width: 0;
   height: 24px;
@@ -189,7 +189,7 @@ body.navis-skin .application.actor.impmal.character .navis-character-header .det
   text-transform: uppercase;
   color: var(--navis-brass-lit);
 }
-body.navis-skin .application.actor.impmal.character .navis-character-header .navis-advancement {
+body.apex-skin .application.actor.impmal.character .navis-character-header .navis-advancement {
   flex: none;
   display: inline-flex;
   align-items: center;
@@ -203,20 +203,20 @@ body.navis-skin .application.actor.impmal.character .navis-character-header .nav
   color: var(--navis-ink-faint);
   transition: color var(--navis-transition);
 }
-body.navis-skin .application.actor.impmal.character .navis-character-header .navis-advancement i {
+body.apex-skin .application.actor.impmal.character .navis-character-header .navis-advancement i {
   font-size: 10px;
 }
-body.navis-skin .application.actor.impmal.character .navis-character-header .navis-advancement:is(:hover, :focus-visible) {
+body.apex-skin .application.actor.impmal.character .navis-character-header .navis-advancement:is(:hover, :focus-visible) {
   color: var(--navis-accent-lit);
 }
-body.navis-skin .application.actor.impmal.character .navis-character-header .details-row.navis-idents {
+body.apex-skin .application.actor.impmal.character .navis-character-header .details-row.navis-idents {
   display: grid;
   grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.7fr) minmax(0, 0.9fr) minmax(0, 0.7fr);
   gap: 6px;
   height: auto;
   margin: 0;
 }
-body.navis-skin .application.actor.impmal.character .navis-character-header .navis-idents .detail-group {
+body.apex-skin .application.actor.impmal.character .navis-character-header .navis-idents .detail-group {
   display: flex;
   flex-direction: column-reverse;
   justify-content: flex-end;
@@ -224,7 +224,7 @@ body.navis-skin .application.actor.impmal.character .navis-character-header .nav
   min-width: 0;
   margin: 0;
 }
-body.navis-skin .application.actor.impmal.character .navis-character-header .navis-idents .detail-group > label {
+body.apex-skin .application.actor.impmal.character .navis-character-header .navis-idents .detail-group > label {
   margin: 0;
   line-height: 1.3;
   text-align: left;
@@ -235,7 +235,7 @@ body.navis-skin .application.actor.impmal.character .navis-character-header .nav
   text-transform: uppercase;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .navis-character-header .navis-idents .input-group {
+body.apex-skin .application.actor.impmal.character .navis-character-header .navis-idents .input-group {
   display: flex;
   align-items: center;
   gap: 4px;
@@ -248,7 +248,7 @@ body.navis-skin .application.actor.impmal.character .navis-character-header .nav
   border-bottom: 1px solid var(--navis-line);
   border-radius: 0;
 }
-body.navis-skin .application.actor.impmal.character .navis-character-header .navis-idents .input-group > :is(input, .singleton-item) {
+body.apex-skin .application.actor.impmal.character .navis-character-header .navis-idents .input-group > :is(input, .singleton-item) {
   flex: 1;
   width: 100%;
   min-width: 0;
@@ -268,21 +268,21 @@ body.navis-skin .application.actor.impmal.character .navis-character-header .nav
   overflow: hidden;
   text-overflow: ellipsis;
 }
-body.navis-skin .application.actor.impmal.character .navis-character-header .navis-idents .singleton-item a {
+body.apex-skin .application.actor.impmal.character .navis-character-header .navis-idents .singleton-item a {
   color: var(--navis-accent-lit);
 }
-body.navis-skin .application.actor.impmal.character .navis-character-header .navis-idents .input-group > a[data-action="unset"] {
+body.apex-skin .application.actor.impmal.character .navis-character-header .navis-idents .input-group > a[data-action="unset"] {
   flex: none;
   font-size: 10px;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .navis-character-header .navis-idents .input-group > a[data-action="unset"]:hover {
+body.apex-skin .application.actor.impmal.character .navis-character-header .navis-idents .input-group > a[data-action="unset"]:hover {
   color: var(--navis-accent-lit);
 }
 
 /* ── Tabs: one row of equal columns, however many impmal shows — it drops
       Powers from an actor that has no powers ──────────────────────────────── */
-body.navis-skin .application.actor.impmal.character nav.sheet-tabs[data-navis-refit] {
+body.apex-skin .application.actor.impmal.character nav.sheet-tabs[data-navis-refit] {
   display: grid;
   grid-auto-flow: column;
   grid-auto-columns: minmax(0, 1fr);
@@ -290,7 +290,7 @@ body.navis-skin .application.actor.impmal.character nav.sheet-tabs[data-navis-re
   border: 0;
   border-bottom: 1px solid var(--navis-line);
 }
-body.navis-skin .application.actor.impmal.character nav.sheet-tabs[data-navis-refit] > a[data-tab] {
+body.apex-skin .application.actor.impmal.character nav.sheet-tabs[data-navis-refit] > a[data-tab] {
   min-width: 0;
   padding: 6px 0 7px;
   text-align: center;
@@ -302,7 +302,7 @@ body.navis-skin .application.actor.impmal.character nav.sheet-tabs[data-navis-re
   text-transform: uppercase;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character nav.sheet-tabs[data-navis-refit] > a[data-tab].active {
+body.apex-skin .application.actor.impmal.character nav.sheet-tabs[data-navis-refit] > a[data-tab].active {
   color: var(--navis-accent-lit);
   background: var(--navis-raised);
   box-shadow: inset 0 -2px 0 var(--navis-accent);
@@ -312,36 +312,36 @@ body.navis-skin .application.actor.impmal.character nav.sheet-tabs[data-navis-re
 /* ══ MAIN ══════════════════════════════════════════════════════════════════ */
 
 /* ── Characteristics: total, bonus, and the advancement line ─────────────── */
-body.navis-skin .application.actor.impmal.character .navis-chars {
+body.apex-skin .application.actor.impmal.character .navis-chars {
   display: grid;
   grid-template-columns: auto repeat(9, minmax(0, 1fr));
   background: var(--navis-surface);
   border: 1px solid var(--navis-line);
 }
-body.navis-skin .application.actor.impmal.character .navis-chars > div {
+body.apex-skin .application.actor.impmal.character .navis-chars > div {
   border-right: 1px solid var(--navis-line);
 }
-body.navis-skin .application.actor.impmal.character .navis-chars > div:last-child {
+body.apex-skin .application.actor.impmal.character .navis-chars > div:last-child {
   border-right: 0;
 }
-body.navis-skin .application.actor.impmal.character .navis-chars :is(.navis-rowcap, .navis-char) {
+body.apex-skin .application.actor.impmal.character .navis-chars :is(.navis-rowcap, .navis-char) {
   display: grid;
   grid-template-rows: 20px 34px 22px;
   align-items: center;
   min-width: 0;
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-rowcap {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-rowcap {
   padding: 0 8px 0 6px;
 }
 /* Черта под значениями идёт от .navis-adv; в колонке подписей её не было, и
    линейка обрывалась, не дойдя до края таблицы. */
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-rowcap > span:last-child {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-rowcap > span:last-child {
   display: flex;
   align-items: center;
   align-self: stretch;
   border-top: 1px solid var(--navis-line);
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-rowcap span {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-rowcap span {
   white-space: nowrap;
   font-family: var(--navis-font-stencil);
   font-size: 10px;
@@ -350,10 +350,10 @@ body.navis-skin .application.actor.impmal.character .navis-chars .navis-rowcap s
   text-transform: uppercase;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-char {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-char {
   justify-items: center;
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-ab {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-ab {
   font-family: var(--navis-font-stencil);
   font-size: 11px;
   font-weight: 600;
@@ -361,11 +361,11 @@ body.navis-skin .application.actor.impmal.character .navis-chars .navis-ab {
   text-transform: uppercase;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-tot {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-tot {
   position: relative;
   line-height: 1;
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-tot a {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-tot a {
   font-family: var(--navis-font-text);
   font-size: 22px;
   font-weight: 600;
@@ -373,13 +373,13 @@ body.navis-skin .application.actor.impmal.character .navis-chars .navis-tot a {
   color: var(--navis-ink);
   transition: color var(--navis-transition);
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-char.navis-hi .navis-tot a {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-char.navis-hi .navis-tot a {
   color: var(--navis-brass-lit);
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-tot a:is(:hover, :focus-visible) {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-tot a:is(:hover, :focus-visible) {
   color: var(--navis-accent-lit);
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-bonus {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-bonus {
   position: absolute;
   left: calc(100% + 3px);
   top: -2px;
@@ -389,7 +389,7 @@ body.navis-skin .application.actor.impmal.character .navis-chars .navis-bonus {
   font-weight: 700;
   color: var(--navis-brass);
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-adv {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-adv {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -401,7 +401,7 @@ body.navis-skin .application.actor.impmal.character .navis-chars .navis-adv {
   font-size: 11px;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-adv input {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-adv input {
   field-sizing: content;
   min-width: 1ch;
   width: auto;
@@ -412,28 +412,28 @@ body.navis-skin .application.actor.impmal.character .navis-chars .navis-adv inpu
   font-weight: 400;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-adv-advances {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-adv-advances {
   position: relative;
   display: inline-flex;
   align-items: center;
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-adv-advances input {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-adv-advances input {
   font-weight: 600;
   color: var(--navis-ink-muted);
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-adv-advances.up::before {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-adv-advances.up::before {
   content: "+";
   font-weight: 600;
   color: var(--navis-success);
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-adv-advances.up input {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-adv-advances.up input {
   color: var(--navis-success);
 }
 /* No advances: an em dash, until the field is focused for editing. */
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-adv-advances:not(.up) input:not(:focus) {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-adv-advances:not(.up) input:not(:focus) {
   color: transparent;
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-adv-advances:not(.up)::after {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-adv-advances:not(.up)::after {
   content: "—";
   position: absolute;
   inset: 0;
@@ -443,40 +443,40 @@ body.navis-skin .application.actor.impmal.character .navis-chars .navis-adv-adva
   font-weight: 600;
   color: var(--navis-ink-muted);
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-adv-advances:not(.up):focus-within::after {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-adv-advances:not(.up):focus-within::after {
   content: none;
 }
 /* The modifier shows when set, or while its cell is hovered or focused. */
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-adv-mod {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-adv-mod {
   display: none;
   align-items: center;
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-adv-mod.set,
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-char:is(:hover, :focus-within) .navis-adv-mod {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-adv-mod.set,
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-char:is(:hover, :focus-within) .navis-adv-mod {
   display: inline-flex;
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-adv-mod::before {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-adv-mod::before {
   content: "·";
   margin-right: 3px;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .navis-chars .navis-adv-mod.set input {
+body.apex-skin .application.actor.impmal.character .navis-chars .navis-adv-mod.set input {
   font-weight: 600;
   color: var(--navis-alert);
 }
 
 /* ── Resource tiles ─────────────────────────────────────────────────────── */
-body.navis-skin .application.actor.impmal.character .navis-res {
+body.apex-skin .application.actor.impmal.character .navis-res {
   display: grid;
   grid-template-columns: 1.5fr 1.2fr 1fr 1fr;
   gap: 6px;
 }
-body.navis-skin .application.actor.impmal.character .navis-res2 {
+body.apex-skin .application.actor.impmal.character .navis-res2 {
   display: grid;
   grid-template-columns: 1fr 1fr 1.3fr;
   gap: 6px;
 }
-body.navis-skin .application.actor.impmal.character .attribute-box.navis-tile {
+body.apex-skin .application.actor.impmal.character .attribute-box.navis-tile {
   display: flex;
   flex-wrap: wrap;
   align-items: baseline;
@@ -495,10 +495,10 @@ body.navis-skin .application.actor.impmal.character .attribute-box.navis-tile {
   box-shadow: none;
   clip-path: none;
 }
-body.navis-skin .application.actor.impmal.character .attribute-box.navis-tile.navis-danger {
+body.apex-skin .application.actor.impmal.character .attribute-box.navis-tile.navis-danger {
   border-top-color: var(--navis-danger);
 }
-body.navis-skin .application.actor.impmal.character .attribute-box.navis-tile > .label {
+body.apex-skin .application.actor.impmal.character .attribute-box.navis-tile > .label {
   flex: 1 1 auto;
   display: flex;
   width: auto;
@@ -511,7 +511,7 @@ body.navis-skin .application.actor.impmal.character .attribute-box.navis-tile > 
   background: none;
   border: 0;
 }
-body.navis-skin .application.actor.impmal.character .attribute-box.navis-tile > .label label {
+body.apex-skin .application.actor.impmal.character .attribute-box.navis-tile > .label label {
   margin: 0;
   white-space: nowrap;
   font-family: var(--navis-font-stencil);
@@ -522,10 +522,10 @@ body.navis-skin .application.actor.impmal.character .attribute-box.navis-tile > 
   text-transform: uppercase;
   color: var(--navis-brass);
 }
-body.navis-skin .application.actor.impmal.character .attribute-box.navis-tile.navis-danger > .label label {
+body.apex-skin .application.actor.impmal.character .attribute-box.navis-tile.navis-danger > .label label {
   color: var(--navis-danger);
 }
-body.navis-skin .application.actor.impmal.character .attribute-box.navis-tile > .field {
+body.apex-skin .application.actor.impmal.character .attribute-box.navis-tile > .field {
   flex: 0 0 auto;
   display: flex;
   align-items: baseline;
@@ -538,13 +538,13 @@ body.navis-skin .application.actor.impmal.character .attribute-box.navis-tile > 
   border: 0;
   white-space: nowrap;
 }
-body.navis-skin .application.actor.impmal.character .attribute-box.navis-tile > :is(.label, .field) {
+body.apex-skin .application.actor.impmal.character .attribute-box.navis-tile > :is(.label, .field) {
   margin: 0;
   line-height: 1.1;
 }
 /* impmal's theme gives every attribute input a 0.2rem margin; in a tile that
    is dead height. */
-body.navis-skin .application.actor.impmal.character .attribute-box.navis-tile > .field input {
+body.apex-skin .application.actor.impmal.character .attribute-box.navis-tile > .field input {
   margin: 0;
   field-sizing: content;
   min-width: 1ch;
@@ -556,10 +556,10 @@ body.navis-skin .application.actor.impmal.character .attribute-box.navis-tile > 
   font-weight: 600;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal.character .attribute-box.navis-tile.navis-danger:has(.navis-pips) > .label + .field input {
+body.apex-skin .application.actor.impmal.character .attribute-box.navis-tile.navis-danger:has(.navis-pips) > .label + .field input {
   color: var(--navis-danger);
 }
-body.navis-skin .application.actor.impmal.character .attribute-box.navis-tile > .field + .field::before {
+body.apex-skin .application.actor.impmal.character .attribute-box.navis-tile > .field + .field::before {
   content: "/";
   margin: 0 4px;
   font-family: var(--navis-font-text);
@@ -567,38 +567,38 @@ body.navis-skin .application.actor.impmal.character .attribute-box.navis-tile > 
   font-weight: 500;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .attribute-box.navis-tile > .field + .field input {
+body.apex-skin .application.actor.impmal.character .attribute-box.navis-tile > .field + .field input {
   text-align: left;
   font-size: 12px;
   font-weight: 500;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .attribute-box.navis-tile > :is(.navis-bullet, .navis-pips, .navis-seg, .navis-note, .navis-mutation) {
+body.apex-skin .application.actor.impmal.character .attribute-box.navis-tile > :is(.navis-bullet, .navis-pips, .navis-seg, .navis-note, .navis-mutation) {
   flex: 1 0 100%;
 }
 
-body.navis-skin .application.actor.impmal.character :is(.navis-tile, .navis-xp) .navis-bullet {
+body.apex-skin .application.actor.impmal.character :is(.navis-tile, .navis-xp) .navis-bullet {
   position: relative;
   height: 8px;
   background: var(--navis-field);
   border: 1px solid var(--navis-line);
 }
-body.navis-skin .application.actor.impmal.character :is(.navis-tile, .navis-xp) .navis-bullet i {
+body.apex-skin .application.actor.impmal.character :is(.navis-tile, .navis-xp) .navis-bullet i {
   position: absolute;
   inset: 0 auto 0 0;
   width: var(--navis-v);
   background-color: var(--navis-danger);
   background-image: var(--navis-hatch);
 }
-body.navis-skin .application.actor.impmal.character .navis-tile .navis-bullet.corr i {
+body.apex-skin .application.actor.impmal.character .navis-tile .navis-bullet.corr i {
   background-color: var(--navis-blind);
   background-image: none;
 }
-body.navis-skin .application.actor.impmal.character .navis-tile .navis-bullet.corr.over i {
+body.apex-skin .application.actor.impmal.character .navis-tile .navis-bullet.corr.over i {
   background-color: var(--navis-danger);
   background-image: var(--navis-hatch);
 }
-body.navis-skin .application.actor.impmal.character .navis-tile .navis-bullet .navis-thr {
+body.apex-skin .application.actor.impmal.character .navis-tile .navis-bullet .navis-thr {
   position: absolute;
   top: -4px;
   bottom: -4px;
@@ -606,14 +606,14 @@ body.navis-skin .application.actor.impmal.character .navis-tile .navis-bullet .n
   width: 2px;
   background: var(--navis-ink-muted);
 }
-body.navis-skin .application.actor.impmal.character .navis-tile .navis-pips {
+body.apex-skin .application.actor.impmal.character .navis-tile .navis-pips {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
   width: 100%;
   gap: 3px;
 }
-body.navis-skin .application.actor.impmal.character .navis-tile .navis-pips s {
+body.apex-skin .application.actor.impmal.character .navis-tile .navis-pips s {
   display: block;
   width: 14px;
   height: 10px;
@@ -621,20 +621,20 @@ body.navis-skin .application.actor.impmal.character .navis-tile .navis-pips s {
   border: 1px solid var(--navis-line);
   text-decoration: none;
 }
-body.navis-skin .application.actor.impmal.character .navis-tile .navis-pips s.on {
+body.apex-skin .application.actor.impmal.character .navis-tile .navis-pips s.on {
   background: var(--navis-brass);
   border-color: var(--navis-brass);
 }
-body.navis-skin .application.actor.impmal.character .navis-tile .navis-pips.fate s.on {
+body.apex-skin .application.actor.impmal.character .navis-tile .navis-pips.fate s.on {
   background: var(--navis-alert);
   border-color: var(--navis-alert);
 }
-body.navis-skin .application.actor.impmal.character .navis-tile .navis-pips s.spent {
+body.apex-skin .application.actor.impmal.character .navis-tile .navis-pips s.spent {
   background-color: var(--navis-danger);
   background-image: var(--navis-hatch);
   border-color: var(--navis-danger);
 }
-body.navis-skin .application.actor.impmal.character .navis-tile a.navis-mutation {
+body.apex-skin .application.actor.impmal.character .navis-tile a.navis-mutation {
   display: inline-flex;
   align-items: center;
   gap: 5px;
@@ -645,17 +645,17 @@ body.navis-skin .application.actor.impmal.character .navis-tile a.navis-mutation
   text-transform: uppercase;
   color: var(--navis-accent-lit);
 }
-body.navis-skin .application.actor.impmal.character .navis-tile a.navis-mutation i {
+body.apex-skin .application.actor.impmal.character .navis-tile a.navis-mutation i {
   font-size: 10px;
 }
 
 /* Handed: a two-way switch. */
-body.navis-skin .application.actor.impmal.character .navis-tile .navis-seg {
+body.apex-skin .application.actor.impmal.character .navis-tile .navis-seg {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 2px;
 }
-body.navis-skin .application.actor.impmal.character .navis-tile .navis-seg > button {
+body.apex-skin .application.actor.impmal.character .navis-tile .navis-seg > button {
   width: auto;
   height: 20px;
   min-height: 0;
@@ -676,23 +676,23 @@ body.navis-skin .application.actor.impmal.character .navis-tile .navis-seg > but
   color: var(--navis-ink-faint);
   transition: color var(--navis-transition);
 }
-body.navis-skin .application.actor.impmal.character .navis-tile .navis-seg > button:hover {
+body.apex-skin .application.actor.impmal.character .navis-tile .navis-seg > button:hover {
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal.character .navis-tile .navis-seg > button.on {
+body.apex-skin .application.actor.impmal.character .navis-tile .navis-seg > button.on {
   color: var(--navis-brass-lit);
   background: var(--navis-surface);
   box-shadow: inset 0 -2px 0 var(--navis-brass);
 }
 
 /* ── Patron and experience ──────────────────────────────────────────────── */
-body.navis-skin .application.actor.impmal.character .navis-two {
+body.apex-skin .application.actor.impmal.character .navis-two {
   display: grid;
   grid-template-columns: 1.35fr 1fr;
   gap: 8px;
   align-items: stretch;
 }
-body.navis-skin .application.actor.impmal.character .patron.navis-block {
+body.apex-skin .application.actor.impmal.character .patron.navis-block {
   position: relative;
   display: flex;
   flex-direction: column;
@@ -700,19 +700,19 @@ body.navis-skin .application.actor.impmal.character .patron.navis-block {
   height: auto;
   cursor: pointer;
 }
-body.navis-skin .application.actor.impmal.character .patron.navis-block.hover {
+body.apex-skin .application.actor.impmal.character .patron.navis-block.hover {
   box-shadow: inset 0 0 0 1px var(--navis-brass);
 }
-body.navis-skin .application.actor.impmal.character .patron.navis-block a[data-action="unset"] {
+body.apex-skin .application.actor.impmal.character .patron.navis-block a[data-action="unset"] {
   position: static;
 }
-body.navis-skin .application.actor.impmal.character .patron .navis-patron-bd {
+body.apex-skin .application.actor.impmal.character .patron .navis-patron-bd {
   display: grid;
   grid-template-columns: 44px minmax(0, 1fr);
   gap: 10px;
   align-items: start;
 }
-body.navis-skin .application.actor.impmal.character .patron .navis-patron-bd > img {
+body.apex-skin .application.actor.impmal.character .patron .navis-patron-bd > img {
   width: 44px;
   height: 44px;
   margin: 0;
@@ -721,13 +721,13 @@ body.navis-skin .application.actor.impmal.character .patron .navis-patron-bd > i
   border-radius: 0;
   clip-path: var(--navis-plate-sm);
 }
-body.navis-skin .application.actor.impmal.character .patron .navis-patron-bd > .details {
+body.apex-skin .application.actor.impmal.character .patron .navis-patron-bd > .details {
   display: block;
   height: auto;
   min-width: 0;
   text-align: left;
 }
-body.navis-skin .application.actor.impmal.character .patron .navis-patron-bd > .details > .name {
+body.apex-skin .application.actor.impmal.character .patron .navis-patron-bd > .details > .name {
   display: block;
   width: auto;
   margin: 0;
@@ -739,17 +739,17 @@ body.navis-skin .application.actor.impmal.character .patron .navis-patron-bd > .
   text-transform: uppercase;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal.character .patron .navis-patron-bd > .details > div {
+body.apex-skin .application.actor.impmal.character .patron .navis-patron-bd > .details > div {
   display: grid;
   grid-template-columns: auto minmax(0, 1fr);
   gap: 1px 10px;
   width: auto;
   margin-top: 4px;
 }
-body.navis-skin .application.actor.impmal.character .patron .navis-patron-bd > .details > div > .group {
+body.apex-skin .application.actor.impmal.character .patron .navis-patron-bd > .details > div > .group {
   display: contents;
 }
-body.navis-skin .application.actor.impmal.character .patron .navis-patron-bd > .details > div > .group label {
+body.apex-skin .application.actor.impmal.character .patron .navis-patron-bd > .details > div > .group label {
   margin: 0;
   padding: 0;
   background: none;
@@ -760,7 +760,7 @@ body.navis-skin .application.actor.impmal.character .patron .navis-patron-bd > .
   text-transform: uppercase;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .patron .navis-patron-bd > .details > div > .group div {
+body.apex-skin .application.actor.impmal.character .patron .navis-patron-bd > .details > div > .group div {
   display: block;
   height: auto;
   min-width: 0;
@@ -772,7 +772,7 @@ body.navis-skin .application.actor.impmal.character .patron .navis-patron-bd > .
   line-height: 19px;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal.character .patron .navis-patron-bd.navis-patron-missing {
+body.apex-skin .application.actor.impmal.character .patron .navis-patron-bd.navis-patron-missing {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -780,7 +780,7 @@ body.navis-skin .application.actor.impmal.character .patron .navis-patron-bd.nav
   padding: 16px 10px;
   text-align: center;
 }
-body.navis-skin .application.actor.impmal.character .patron .navis-patron-missing > .missing {
+body.apex-skin .application.actor.impmal.character .patron .navis-patron-missing > .missing {
   width: auto;
   font-family: var(--navis-font-stencil);
   font-size: 12px;
@@ -789,33 +789,33 @@ body.navis-skin .application.actor.impmal.character .patron .navis-patron-missin
   text-transform: uppercase;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .patron .navis-patron-missing > .navis-note {
+body.apex-skin .application.actor.impmal.character .patron .navis-patron-missing > .navis-note {
   font-size: 13px;
 }
 
-body.navis-skin .application.actor.impmal.character .attribute-box.experience.navis-xp {
+body.apex-skin .application.actor.impmal.character .attribute-box.experience.navis-xp {
   display: block;
   flex: none;
 }
-body.navis-skin .application.actor.impmal.character .attribute-box.navis-xp > :is(.label, .field) {
+body.apex-skin .application.actor.impmal.character .attribute-box.navis-xp > :is(.label, .field) {
   display: none;
 }
-body.navis-skin .application.actor.impmal.character .navis-xp .navis-ledger {
+body.apex-skin .application.actor.impmal.character .navis-xp .navis-ledger {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   text-align: center;
 }
-body.navis-skin .application.actor.impmal.character .navis-xp .navis-ledger > div {
+body.apex-skin .application.actor.impmal.character .navis-xp .navis-ledger > div {
   display: flex;
   flex-direction: column;
   gap: 2px;
   padding: 2px 0;
   min-width: 0;
 }
-body.navis-skin .application.actor.impmal.character .navis-xp .navis-ledger > div + div {
+body.apex-skin .application.actor.impmal.character .navis-xp .navis-ledger > div + div {
   border-left: 1px solid var(--navis-line);
 }
-body.navis-skin .application.actor.impmal.character .navis-xp .navis-ledger :is(.label, .field) {
+body.apex-skin .application.actor.impmal.character .navis-xp .navis-ledger :is(.label, .field) {
   display: block;
   width: auto;
   min-width: 0;
@@ -825,7 +825,7 @@ body.navis-skin .application.actor.impmal.character .navis-xp .navis-ledger :is(
   background: none;
   border: 0;
 }
-body.navis-skin .application.actor.impmal.character .navis-xp .navis-ledger .label label {
+body.apex-skin .application.actor.impmal.character .navis-xp .navis-ledger .label label {
   margin: 0;
   font-family: var(--navis-font-stencil);
   font-size: 11px;
@@ -834,7 +834,7 @@ body.navis-skin .application.actor.impmal.character .navis-xp .navis-ledger .lab
   text-transform: uppercase;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .navis-xp .navis-ledger .field input {
+body.apex-skin .application.actor.impmal.character .navis-xp .navis-ledger .field input {
   width: 100%;
   min-width: 0;
   line-height: 1.1;
@@ -844,19 +844,19 @@ body.navis-skin .application.actor.impmal.character .navis-xp .navis-ledger .fie
   font-weight: 600;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal.character .navis-xp .navis-ledger > div:first-child .field input {
+body.apex-skin .application.actor.impmal.character .navis-xp .navis-ledger > div:first-child .field input {
   color: var(--navis-success);
 }
-body.navis-skin .application.actor.impmal.character .navis-xp .navis-bullet.xp {
+body.apex-skin .application.actor.impmal.character .navis-xp .navis-bullet.xp {
   height: 6px;
   margin-top: 8px;
 }
-body.navis-skin .application.actor.impmal.character .navis-xp .navis-bullet.xp i {
+body.apex-skin .application.actor.impmal.character .navis-xp .navis-bullet.xp i {
   background: var(--navis-brass-dim);
 }
 
 /* ── Influence: a signed scale per faction ──────────────────────────────── */
-body.navis-skin .application.actor.impmal.character .navis-influence :is(.list-header, .row-content) {
+body.apex-skin .application.actor.impmal.character .navis-influence :is(.list-header, .row-content) {
   display: grid;
   grid-template-columns: minmax(0, 1.2fr) 120px minmax(0, 1.4fr) 16px;
   gap: 10px;
@@ -867,10 +867,10 @@ body.navis-skin .application.actor.impmal.character .navis-influence :is(.list-h
   background: none;
   border: 0;
 }
-body.navis-skin .application.actor.impmal.character .sheet-list.navis-influence > .list-header.row-content {
+body.apex-skin .application.actor.impmal.character .sheet-list.navis-influence > .list-header.row-content {
   padding: 8px 10px 3px;
 }
-body.navis-skin .application.actor.impmal.character .navis-influence > .list-header > div {
+body.apex-skin .application.actor.impmal.character .navis-influence > .list-header > div {
   min-width: 0;
   text-align: left;
   font-family: var(--navis-font-stencil);
@@ -880,67 +880,67 @@ body.navis-skin .application.actor.impmal.character .navis-influence > .list-hea
   text-transform: uppercase;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .navis-influence > .list-header > div:nth-child(2) {
+body.apex-skin .application.actor.impmal.character .navis-influence > .list-header > div:nth-child(2) {
   text-align: center;
 }
-body.navis-skin .application.actor.impmal.character .navis-influence > .list-content {
+body.apex-skin .application.actor.impmal.character .navis-influence > .list-content {
   padding: 0 10px 8px;
 }
-body.navis-skin .application.actor.impmal.character .navis-influence > .list-content > .list-row {
+body.apex-skin .application.actor.impmal.character .navis-influence > .list-content > .list-row {
   margin: 0;
   padding: 0;
   background: none;
   border: 0;
   border-bottom: 1px solid var(--navis-line);
 }
-body.navis-skin .application.actor.impmal.character .navis-influence > .list-content > .list-row:last-child {
+body.apex-skin .application.actor.impmal.character .navis-influence > .list-content > .list-row:last-child {
   border-bottom: 0;
 }
-body.navis-skin .application.actor.impmal.character .navis-influence .row-content {
+body.apex-skin .application.actor.impmal.character .navis-influence .row-content {
   padding: 5px 0;
   font-family: var(--navis-font-text);
   font-size: 14px;
 }
-body.navis-skin .application.actor.impmal.character .navis-influence .row-content > * {
+body.apex-skin .application.actor.impmal.character .navis-influence .row-content > * {
   flex: none;
   min-width: 0;
   width: auto;
   text-align: left;
 }
-body.navis-skin .application.actor.impmal.character .navis-influence .row-content > .flex:first-child a {
+body.apex-skin .application.actor.impmal.character .navis-influence .row-content > .flex:first-child a {
   display: block;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
   color: var(--navis-accent-lit);
 }
-body.navis-skin .application.actor.impmal.character .navis-influence .navis-scale {
+body.apex-skin .application.actor.impmal.character .navis-influence .navis-scale {
   display: grid;
   grid-template-columns: 1fr 26px 1fr;
   gap: 4px;
   align-items: center;
   height: 18px;
 }
-body.navis-skin .application.actor.impmal.character .navis-influence .navis-scale-bar {
+body.apex-skin .application.actor.impmal.character .navis-influence .navis-scale-bar {
   position: relative;
   height: 6px;
   background: var(--navis-field);
   border: 1px solid var(--navis-line);
 }
-body.navis-skin .application.actor.impmal.character .navis-influence .navis-scale-bar i {
+body.apex-skin .application.actor.impmal.character .navis-influence .navis-scale-bar i {
   position: absolute;
   top: 0;
   bottom: 0;
 }
-body.navis-skin .application.actor.impmal.character .navis-influence .navis-scale-bar.neg i {
+body.apex-skin .application.actor.impmal.character .navis-influence .navis-scale-bar.neg i {
   right: 0;
   background: var(--navis-danger);
 }
-body.navis-skin .application.actor.impmal.character .navis-influence .navis-scale-bar.pos i {
+body.apex-skin .application.actor.impmal.character .navis-influence .navis-scale-bar.pos i {
   left: 0;
   background: var(--navis-success);
 }
-body.navis-skin .application.actor.impmal.character .navis-influence .navis-scale input {
+body.apex-skin .application.actor.impmal.character .navis-influence .navis-scale input {
   width: 26px;
   text-align: center;
   font-family: var(--navis-font-text);
@@ -948,13 +948,13 @@ body.navis-skin .application.actor.impmal.character .navis-influence .navis-scal
   font-weight: 600;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal.character .navis-influence .navis-scale.pos input {
+body.apex-skin .application.actor.impmal.character .navis-influence .navis-scale.pos input {
   color: var(--navis-success);
 }
-body.navis-skin .application.actor.impmal.character .navis-influence .navis-scale.neg input {
+body.apex-skin .application.actor.impmal.character .navis-influence .navis-scale.neg input {
   color: var(--navis-danger);
 }
-body.navis-skin .application.actor.impmal.character .navis-influence .row-content > .large input {
+body.apex-skin .application.actor.impmal.character .navis-influence .row-content > .large input {
   width: 100%;
   text-align: left;
   height: 20px;
@@ -966,32 +966,32 @@ body.navis-skin .application.actor.impmal.character .navis-influence .row-conten
   font-size: 13px;
   color: var(--navis-ink-muted);
 }
-body.navis-skin .application.actor.impmal.character .navis-influence .row-content > .list-controls {
+body.apex-skin .application.actor.impmal.character .navis-influence .row-content > .list-controls {
   display: flex;
   justify-content: center;
   gap: 4px;
 }
-body.navis-skin .application.actor.impmal.character .navis-influence .row-content > .list-controls a {
+body.apex-skin .application.actor.impmal.character .navis-influence .row-content > .list-controls a {
   font-size: 12px;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .navis-influence .row-content > .list-controls a:hover {
+body.apex-skin .application.actor.impmal.character .navis-influence .row-content > .list-controls a:hover {
   color: var(--navis-accent-lit);
 }
 /* The expanded source list keeps the same columns. */
-body.navis-skin .application.actor.impmal.character .navis-influence .influence-sources .source.row-content {
+body.apex-skin .application.actor.impmal.character .navis-influence .influence-sources .source.row-content {
   padding: 3px 0;
   font-size: 13px;
 }
-body.navis-skin .application.actor.impmal.character .navis-influence .influence-sources .source input {
+body.apex-skin .application.actor.impmal.character .navis-influence .influence-sources .source input {
   width: 100%;
   font-size: 13px;
   color: var(--navis-ink-muted);
 }
-body.navis-skin .application.actor.impmal.character .navis-influence .influence-sources .source > .small input {
+body.apex-skin .application.actor.impmal.character .navis-influence .influence-sources .source > .small input {
   text-align: center;
 }
-body.navis-skin .application.actor.impmal.character .navis-influence .influence-sources .contact {
+body.apex-skin .application.actor.impmal.character .navis-influence .influence-sources .contact {
   display: flex;
   align-items: center;
   gap: 3px;
@@ -1006,7 +1006,7 @@ body.navis-skin .application.actor.impmal.character .navis-influence .influence-
 /* ══ COMBAT ════════════════════════════════════════════════════════════════ */
 
 /* ── Defending against ──────────────────────────────────────────────────── */
-body.navis-skin .application.actor.impmal.character .defending-against[data-navis-refit] {
+body.apex-skin .application.actor.impmal.character .defending-against[data-navis-refit] {
   display: grid;
   grid-template-columns: 38px minmax(0, 1fr) auto 20px;
   gap: 10px;
@@ -1021,7 +1021,7 @@ body.navis-skin .application.actor.impmal.character .defending-against[data-navi
   box-shadow: none;
   clip-path: var(--navis-plate-sm);
 }
-body.navis-skin .application.actor.impmal.character .defending-against[data-navis-refit] > img {
+body.apex-skin .application.actor.impmal.character .defending-against[data-navis-refit] > img {
   width: 38px;
   height: 38px;
   margin: 0;
@@ -1029,15 +1029,15 @@ body.navis-skin .application.actor.impmal.character .defending-against[data-navi
   border: 1px solid var(--navis-danger);
   clip-path: var(--navis-plate-sm);
 }
-body.navis-skin .application.actor.impmal.character .defending-against[data-navis-refit] .attack-details {
+body.apex-skin .application.actor.impmal.character .defending-against[data-navis-refit] .attack-details {
   display: block;
   min-width: 0;
 }
-body.navis-skin .application.actor.impmal.character .defending-against[data-navis-refit] .attack-details > * {
+body.apex-skin .application.actor.impmal.character .defending-against[data-navis-refit] .attack-details > * {
   display: block;
   width: auto;
 }
-body.navis-skin .application.actor.impmal.character .defending-against[data-navis-refit] .attack-details > label {
+body.apex-skin .application.actor.impmal.character .defending-against[data-navis-refit] .attack-details > label {
   margin: 0;
   text-align: left;
   font-family: var(--navis-font-stencil);
@@ -1047,10 +1047,10 @@ body.navis-skin .application.actor.impmal.character .defending-against[data-navi
   text-transform: uppercase;
   color: var(--navis-danger);
 }
-body.navis-skin .application.actor.impmal.character .defending-against[data-navis-refit] .gradient-border {
+body.apex-skin .application.actor.impmal.character .defending-against[data-navis-refit] .gradient-border {
   display: none;
 }
-body.navis-skin .application.actor.impmal.character .defending-against[data-navis-refit] .navis-def-line {
+body.apex-skin .application.actor.impmal.character .defending-against[data-navis-refit] .navis-def-line {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -1058,10 +1058,10 @@ body.navis-skin .application.actor.impmal.character .defending-against[data-navi
   font-size: 14px;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal.character .defending-against[data-navis-refit] .navis-def-line > span {
+body.apex-skin .application.actor.impmal.character .defending-against[data-navis-refit] .navis-def-line > span {
   display: inline;
 }
-body.navis-skin .application.actor.impmal.character .defending-against[data-navis-refit] .navis-def-sl {
+body.apex-skin .application.actor.impmal.character .defending-against[data-navis-refit] .navis-def-sl {
   text-align: center;
   font-family: var(--navis-font-stencil);
   font-size: 22px;
@@ -1069,13 +1069,13 @@ body.navis-skin .application.actor.impmal.character .defending-against[data-navi
   line-height: 1;
   color: var(--navis-danger);
 }
-body.navis-skin .application.actor.impmal.character .defending-against[data-navis-refit] .navis-def-sl small {
+body.apex-skin .application.actor.impmal.character .defending-against[data-navis-refit] .navis-def-sl small {
   display: block;
   font-size: 10px;
   letter-spacing: 1.2px;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .defending-against[data-navis-refit] .remove-opposed {
+body.apex-skin .application.actor.impmal.character .defending-against[data-navis-refit] .remove-opposed {
   margin: 0;
   line-height: 1;
   text-align: center;
@@ -1083,12 +1083,12 @@ body.navis-skin .application.actor.impmal.character .defending-against[data-navi
 }
 
 /* ── Readiness: initiative, dodge, superiority, speed ───────────────────── */
-body.navis-skin .application.actor.impmal.character .flexrow.navis-ready {
+body.apex-skin .application.actor.impmal.character .flexrow.navis-ready {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 6px;
 }
-body.navis-skin .application.actor.impmal.character .navis-ready > .attribute-box.navis-rtile {
+body.apex-skin .application.actor.impmal.character .navis-ready > .attribute-box.navis-rtile {
   align-self: stretch;
   display: flex;
   flex-direction: column;
@@ -1105,10 +1105,10 @@ body.navis-skin .application.actor.impmal.character .navis-ready > .attribute-bo
   box-shadow: none;
   clip-path: none;
 }
-body.navis-skin .application.actor.impmal.character .navis-ready > .attribute-box.navis-rtile.navis-roll {
+body.apex-skin .application.actor.impmal.character .navis-ready > .attribute-box.navis-rtile.navis-roll {
   border-left: 3px solid var(--navis-accent);
 }
-body.navis-skin .application.actor.impmal.character .navis-ready > .navis-rtile > .label {
+body.apex-skin .application.actor.impmal.character .navis-ready > .navis-rtile > .label {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -1121,17 +1121,17 @@ body.navis-skin .application.actor.impmal.character .navis-ready > .navis-rtile 
   background: none;
   border: 0;
 }
-body.navis-skin .application.actor.impmal.character .navis-ready > .navis-rtile > .label i {
+body.apex-skin .application.actor.impmal.character .navis-ready > .navis-rtile > .label i {
   line-height: 1;
 }
-body.navis-skin .application.actor.impmal.character .navis-ready > .navis-rtile > .label > a {
+body.apex-skin .application.actor.impmal.character .navis-ready > .navis-rtile > .label > a {
   display: flex;
   justify-content: space-between;
   align-items: center;
   gap: 6px;
   width: 100%;
 }
-body.navis-skin .application.actor.impmal.character .navis-ready > .navis-rtile > .label label {
+body.apex-skin .application.actor.impmal.character .navis-ready > .navis-rtile > .label label {
   margin: 0;
   white-space: nowrap;
   font-family: var(--navis-font-stencil);
@@ -1143,21 +1143,21 @@ body.navis-skin .application.actor.impmal.character .navis-ready > .navis-rtile 
   color: var(--navis-brass);
   cursor: inherit;
 }
-body.navis-skin .application.actor.impmal.character .navis-ready > .navis-rtile.navis-roll > .label i {
+body.apex-skin .application.actor.impmal.character .navis-ready > .navis-rtile.navis-roll > .label i {
   font-size: 14px;
   color: var(--navis-accent-lit);
 }
-body.navis-skin .application.actor.impmal.character .navis-ready > .navis-rtile.navis-roll > .label a:hover label {
+body.apex-skin .application.actor.impmal.character .navis-ready > .navis-rtile.navis-roll > .label a:hover label {
   color: var(--navis-accent-lit);
 }
-body.navis-skin .application.actor.impmal.character .navis-ready > .navis-rtile.navis-speed > .label i {
+body.apex-skin .application.actor.impmal.character .navis-ready > .navis-rtile.navis-speed > .label i {
   font-size: 11px;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .navis-ready > .navis-rtile.navis-speed > .label a:hover i {
+body.apex-skin .application.actor.impmal.character .navis-ready > .navis-rtile.navis-speed > .label a:hover i {
   color: var(--navis-accent-lit);
 }
-body.navis-skin .application.actor.impmal.character .navis-ready .navis-group {
+body.apex-skin .application.actor.impmal.character .navis-ready .navis-group {
   flex: none;
   padding: 0 4px;
   line-height: 15px;
@@ -1169,7 +1169,7 @@ body.navis-skin .application.actor.impmal.character .navis-ready .navis-group {
   text-transform: uppercase;
   color: #a98bd6;
 }
-body.navis-skin .application.actor.impmal.character .navis-ready > .navis-rtile > .field {
+body.apex-skin .application.actor.impmal.character .navis-ready > .navis-rtile > .field {
   display: block;
   width: auto;
   height: auto;
@@ -1187,10 +1187,10 @@ body.navis-skin .application.actor.impmal.character .navis-ready > .navis-rtile 
   line-height: 1.2;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal.character .navis-ready > .navis-rtile > .field:has(input) {
+body.apex-skin .application.actor.impmal.character .navis-ready > .navis-rtile > .field:has(input) {
   padding: 0;
 }
-body.navis-skin .application.actor.impmal.character .navis-ready > .navis-rtile > .field input {
+body.apex-skin .application.actor.impmal.character .navis-ready > .navis-rtile > .field input {
   margin: 0;
   width: 100%;
   line-height: 1.1;
@@ -1200,12 +1200,12 @@ body.navis-skin .application.actor.impmal.character .navis-ready > .navis-rtile 
   font-weight: 600;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal.character .navis-ready > .navis-rtile.navis-roll > .field input {
+body.apex-skin .application.actor.impmal.character .navis-ready > .navis-rtile.navis-roll > .field input {
   color: var(--navis-accent-lit);
 }
 
 /* ── Actions: the NPC grid (70-refit.css), with the proposal's caption width ── */
-body.navis-skin .application.actor.impmal.character .action-list .navis-action-caption {
+body.apex-skin .application.actor.impmal.character .action-list .navis-action-caption {
   width: 50px;
 }
 
@@ -1222,7 +1222,7 @@ body.navis-skin .application.actor.impmal.character .action-list .navis-action-c
    Высота срезана пустотами, а не кеглем. Строка не держит круглую высоту, её
    задаёт содержимое; поля строки 2 px, подзаголовки прижаты к своим спискам.
    Размеры шрифтов при этом прежние — мельче они читаться перестают. */
-body.navis-skin .application.actor.impmal .navis-armament {
+body.apex-skin .application.actor.impmal .navis-armament {
   --navis-arm-dmg: 42px;
   --navis-arm-rng: 78px;
   --navis-arm-skill: 102px;
@@ -1232,7 +1232,7 @@ body.navis-skin .application.actor.impmal .navis-armament {
   --navis-arm-grip: 34px;
 }
 
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-row {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-row {
   display: grid;
   grid-template-columns:
     minmax(0, 1fr) var(--navis-arm-dmg) var(--navis-arm-rng) var(--navis-arm-skill);
@@ -1250,10 +1250,10 @@ body.navis-skin .application.actor.impmal .navis-armament .navis-arm-row {
   box-shadow: inset 2px 0 0 transparent;
   transition: background-color .12s linear;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-list > .list-content > .list-row + .list-row .navis-arm-row {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-list > .list-content > .list-row + .list-row .navis-arm-row {
   border-top: 1px solid #ffffff0d;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-row:hover {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-row:hover {
   background: #ffffff0a;
   box-shadow: inset 2px 0 0 var(--navis-brass);
 }
@@ -1261,7 +1261,7 @@ body.navis-skin .application.actor.impmal .navis-armament .navis-arm-row:hover {
 /* Название: иконка, имя с чертами и бейдж хвата сразу за именем. Раньше хват
    растягивался к правому краю ячейки и вставал вплотную к урону — «Л» и «5»
    читались как одно значение. */
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-row > .list-name {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-row > .list-name {
   grid-area: name;
   display: grid;
   grid-template-columns: var(--navis-arm-icon) minmax(0, 1fr) var(--navis-arm-grip);
@@ -1269,15 +1269,15 @@ body.navis-skin .application.actor.impmal .navis-armament .navis-arm-row > .list
   gap: 7px;
   min-width: 0;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-row > .list-name > img {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-row > .list-name > img {
   flex: none;
   width: var(--navis-arm-icon); height: var(--navis-arm-icon); border: 0; border-radius: 0; object-fit: contain;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-name {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-name {
   min-width: 0;
   display: flex; flex-direction: column; gap: 1px;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-name .label {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-name .label {
   display: block;
   color: var(--navis-ink);
   font: 600 14px/1.1 var(--navis-font-stencil);
@@ -1285,22 +1285,22 @@ body.navis-skin .application.actor.impmal .navis-armament .navis-arm-name .label
   text-transform: uppercase;
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-traits {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-traits {
   min-width: 0; color: var(--navis-ink-faint); font-size: 10px; line-height: 1.15;
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-grip {
+body.apex-skin .application.actor.impmal .navis-armament .navis-grip {
   align-self: center;
   justify-self: start;
   opacity: .55;
   transition: opacity .12s linear;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-row:hover .navis-grip {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-row:hover .navis-grip {
   opacity: 1;
 }
 
 /* Показатели: значение по центру своей колонки, без повторной подписи. */
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-row
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-row
   > :is(.navis-arm-damage, .navis-arm-range) {
   display: flex; align-items: center; justify-content: center;
   min-width: 0; height: 100%;
@@ -1308,53 +1308,53 @@ body.navis-skin .application.actor.impmal .navis-armament .navis-arm-row
   font-family: var(--navis-font-text); font-size: 13px; color: var(--navis-ink);
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-row > .navis-arm-damage {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-row > .navis-arm-damage {
   grid-area: dmg;
   font-size: 15px; font-weight: 600;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-row > .navis-arm-range {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-row > .navis-arm-range {
   grid-area: rng;
   font-size: 12px;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-row .navis-dash {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-row .navis-dash {
   color: var(--navis-ink-faint);
 }
 
 /* Значение навыка — по нему и кликают, поэтому оно крупнее всего в строке. */
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-row > .navis-arm-skill {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-row > .navis-arm-skill {
   grid-area: roll;
   display: flex; flex-direction: column; align-items: flex-end;
   justify-content: center; gap: 0;
   min-width: 0; height: 100%; padding-left: var(--navis-arm-gap);
   border-left: 1px solid #ffffff0f;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-skill > span {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-skill > span {
   max-width: 100%; min-width: 0;
   color: var(--navis-ink-faint); font-size: 9px; letter-spacing: .04em;
   text-transform: uppercase; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-skill em {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-skill em {
   font-style: normal; font-weight: 600; font-size: 17px; line-height: 1;
   color: var(--navis-accent-lit);
 }
 
 /* Магазин: своя строка под показателями, в тех же полях карточки. Пустая
    колонка у ближнего боя не занимает места вовсе. */
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-row > .navis-arm-mag {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-row > .navis-arm-mag {
   grid-area: mag;
   display: flex; align-items: center; gap: var(--navis-arm-gap);
   min-width: 0;
   margin-top: 3px; padding-top: 3px; border-top: 1px solid #ffffff0d;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-row
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-row
   > .navis-arm-mag:not(:has(button, select, input)) {
   display: none;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-row > .navis-emptied {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-row > .navis-emptied {
   display: none;
 }
 
-body.navis-skin .application.actor.impmal .navis-armament .sheet-list.navis-arm-list {
+body.apex-skin .application.actor.impmal .navis-armament .sheet-list.navis-arm-list {
   margin: 0;
   padding: 0;
   background: none;
@@ -1362,7 +1362,7 @@ body.navis-skin .application.actor.impmal .navis-armament .sheet-list.navis-arm-
   clip-path: none;
   opacity: 1;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-sub {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-sub {
   padding: 3px var(--navis-arm-pad) 1px;
   font-family: var(--navis-font-stencil);
   font-size: 11px;
@@ -1371,28 +1371,28 @@ body.navis-skin .application.actor.impmal .navis-armament .navis-arm-sub {
   text-transform: uppercase;
   color: var(--navis-brass);
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-list > .list-content > .list-row {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-list > .list-content > .list-row {
   margin: 0;
   padding: 0;
   background: none;
   border: 0;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-list > .list-content > .list-row + .list-row {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-list > .list-content > .list-row + .list-row {
   border-top: 1px solid var(--navis-line);
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-traits a {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-traits a {
   color: inherit;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-traits a:hover {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-traits a:hover {
   color: var(--navis-accent-lit);
 }
-body.navis-skin .application.actor.impmal .navis-armament .grip.navis-grip {
+body.apex-skin .application.actor.impmal .navis-armament .grip.navis-grip {
   display: flex;
   gap: 2px;
   margin: 0;
   opacity: 1;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-grip > span {
+body.apex-skin .application.actor.impmal .navis-armament .navis-grip > span {
   display: grid;
   place-items: center;
   width: 16px;
@@ -1405,27 +1405,27 @@ body.navis-skin .application.actor.impmal .navis-armament .navis-grip > span {
   line-height: 1;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-grip > span.on {
+body.apex-skin .application.actor.impmal .navis-armament .navis-grip > span.on {
   color: var(--navis-field);
   background: var(--navis-brass);
   border-color: var(--navis-brass);
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-grip > span.off {
+body.apex-skin .application.actor.impmal .navis-armament .navis-grip > span.off {
   color: var(--navis-brass-lit);
   border-color: var(--navis-brass-dim);
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-dash {
+body.apex-skin .application.actor.impmal .navis-armament .navis-dash {
   color: var(--navis-ink-faint);
 }
 /* Прочерк в колонке магазина остаётся слева: там колонка не числовая. */
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-mag > .navis-dash {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-mag > .navis-dash {
   text-align: left;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-mag {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-mag {
   font-family: var(--navis-font-text);
   font-size: 14px;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-mag button.mag {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-mag button.mag {
   display: flex;
   justify-content: flex-start;
   width: auto;
@@ -1443,18 +1443,18 @@ body.navis-skin .application.actor.impmal .navis-armament .navis-arm-mag button.
   font-size: 14px;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-mag button.mag.navis-has-cells {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-mag button.mag.navis-has-cells {
   display: flex;
   align-items: center;
   gap: 8px;
   flex: 1 1 auto;
   min-width: 0;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-mag button.mag.navis-has-cells > label {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-mag button.mag.navis-has-cells > label {
   display: none;
 }
 /* Счётчик ведёт строку: лента показывает остаток на глаз, цифра — точно. */
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-mag button.mag.navis-has-cells > .values {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-mag button.mag.navis-has-cells > .values {
   display: flex;
   align-items: baseline;
   gap: 1px;
@@ -1462,14 +1462,14 @@ body.navis-skin .application.actor.impmal .navis-armament .navis-arm-mag button.
   font-size: 11px;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-mag button.mag.navis-has-cells > .values .current {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-mag button.mag.navis-has-cells > .values .current {
   font-weight: 600;
   color: var(--navis-brass);
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-mag button.mag:not(.navis-has-cells) label {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-mag button.mag:not(.navis-has-cells) label {
   display: none;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-cells {
+body.apex-skin .application.actor.impmal .navis-armament .navis-cells {
   display: grid;
   grid-template-columns: repeat(var(--navis-n), minmax(0, 1fr));
   gap: 2px;
@@ -1477,25 +1477,25 @@ body.navis-skin .application.actor.impmal .navis-armament .navis-cells {
   min-width: 0;
   height: 6px;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-cells s {
+body.apex-skin .application.actor.impmal .navis-armament .navis-cells s {
   display: block;
   background: var(--navis-field);
   border: 1px solid var(--navis-line);
   text-decoration: none;
 }
 /* Патрон в стволе — латунь, а не бледная кость: ячейки читались как чужие. */
-body.navis-skin .application.actor.impmal .navis-armament .navis-cells s.on {
+body.apex-skin .application.actor.impmal .navis-armament .navis-cells s.on {
   background: var(--navis-brass-dim);
   border-color: var(--navis-brass-dim);
 }
-body.navis-skin .application.actor.impmal .navis-armament button.mag:hover .navis-cells s {
+body.apex-skin .application.actor.impmal .navis-armament button.mag:hover .navis-cells s {
   border-color: var(--navis-brass-dim);
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-mag-count,
-body.navis-skin .application.actor.impmal .navis-armament .navis-mag-info > .navis-sep {
+body.apex-skin .application.actor.impmal .navis-armament .navis-mag-count,
+body.apex-skin .application.actor.impmal .navis-armament .navis-mag-info > .navis-sep {
   display: none;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-mag-meta {
+body.apex-skin .application.actor.impmal .navis-armament .navis-mag-meta {
   flex: none;
   max-width: 45%;
   display: flex;
@@ -1507,17 +1507,17 @@ body.navis-skin .application.actor.impmal .navis-armament .navis-mag-meta {
   font-size: 11px;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-mag-info {
+body.apex-skin .application.actor.impmal .navis-armament .navis-mag-info {
   display: flex;
   align-items: center;
   gap: 3px;
   min-width: 0;
   overflow: hidden;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-mag-empty {
+body.apex-skin .application.actor.impmal .navis-armament .navis-mag-empty {
   color: var(--navis-alert);
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-mag-info select {
+body.apex-skin .application.actor.impmal .navis-armament .navis-mag-info select {
   appearance: none;
   field-sizing: content;
   flex: 0 1 auto;
@@ -1545,7 +1545,7 @@ body.navis-skin .application.actor.impmal .navis-armament .navis-mag-info select
    empty option and content sizing it had no width, no border and no arrow —
    literally nothing to find or click. Give it the brass of an affordance and a
    dashed edge, and let it go quiet again once a round is loaded. */
-body.navis-skin .application.actor.impmal .navis-armament .navis-mag-meta select.navis-ammo-unset {
+body.apex-skin .application.actor.impmal .navis-armament .navis-mag-meta select.navis-ammo-unset {
   flex: 1 0 100%;
   max-width: 100%;
   margin-top: 1px;
@@ -1553,18 +1553,18 @@ body.navis-skin .application.actor.impmal .navis-armament .navis-mag-meta select
   color: var(--navis-brass);
   border-bottom: 1px dashed var(--navis-brass-dim);
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-mag-meta select.navis-ammo-unset:is(:hover, :focus) {
+body.apex-skin .application.actor.impmal .navis-armament .navis-mag-meta select.navis-ammo-unset:is(:hover, :focus) {
   color: var(--navis-accent-lit);
   border-bottom-color: var(--navis-accent);
 }
 
-body.navis-skin .application.actor.impmal .navis-armament .navis-mag-info select:is(:hover, :focus) {
+body.apex-skin .application.actor.impmal .navis-armament .navis-mag-info select:is(:hover, :focus) {
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-mag-info.navis-hide-ammo > :is(.navis-sep, select) {
+body.apex-skin .application.actor.impmal .navis-armament .navis-mag-info.navis-hide-ammo > :is(.navis-sep, select) {
   display: none;
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-mag-meta button[data-action="reload"] {
+body.apex-skin .application.actor.impmal .navis-armament .navis-mag-meta button[data-action="reload"] {
   flex: none;
   width: auto;
   height: auto;
@@ -1585,32 +1585,32 @@ body.navis-skin .application.actor.impmal .navis-armament .navis-mag-meta button
   text-transform: uppercase;
   color: var(--navis-accent-lit);
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-mag-meta button[data-action="reload"]:hover {
+body.apex-skin .application.actor.impmal .navis-armament .navis-mag-meta button[data-action="reload"]:hover {
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-mag > a[data-path="system.quantity"] {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-mag > a[data-path="system.quantity"] {
   display: flex;
   align-items: baseline;
   gap: 4px;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal .navis-armament .navis-arm-mag > a[data-path="system.quantity"] label {
+body.apex-skin .application.actor.impmal .navis-armament .navis-arm-mag > a[data-path="system.quantity"] label {
   font-size: 11px;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal .navis-armament .weapon-aux.navis-drained {
+body.apex-skin .application.actor.impmal .navis-armament .weapon-aux.navis-drained {
   display: none;
 }
 
 /* Shield: a plain block. */
-body.navis-skin .application.actor.impmal.character .sheet-list.navis-shield > .list-header {
+body.apex-skin .application.actor.impmal.character .sheet-list.navis-shield > .list-header {
   margin: 0;
   padding: 5px 10px;
   background: none;
   border: 0;
   border-bottom: 1px solid var(--navis-brass-dim);
 }
-body.navis-skin .application.actor.impmal.character .sheet-list.navis-shield > .list-header > * {
+body.apex-skin .application.actor.impmal.character .sheet-list.navis-shield > .list-header > * {
   font-family: var(--navis-font-stencil);
   font-size: 12px;
   font-weight: 600;
@@ -1620,18 +1620,18 @@ body.navis-skin .application.actor.impmal.character .sheet-list.navis-shield > .
 }
 
 /* ── Protection as a body, wounds beside it ─────────────────────────────── */
-body.navis-skin .application.actor.impmal.character .flexrow.navis-prot {
+body.apex-skin .application.actor.impmal.character .flexrow.navis-prot {
   display: grid;
   grid-template-columns: 1.2fr 1fr;
   gap: 8px;
   align-items: stretch;
 }
-body.navis-skin .application.actor.impmal.character .navis-prot > .hit-locations.navis-body-map {
+body.apex-skin .application.actor.impmal.character .navis-prot > .hit-locations.navis-body-map {
   flex: none;
   min-width: 0;
   margin: 0;
 }
-body.navis-skin .application.actor.impmal.character .navis-body-map > .list-content.navis-body {
+body.apex-skin .application.actor.impmal.character .navis-body-map > .list-content.navis-body {
   display: grid;
   grid-template-columns: 1fr 1.1fr 1.1fr 1fr;
   grid-template-areas:
@@ -1641,17 +1641,17 @@ body.navis-skin .application.actor.impmal.character .navis-body-map > .list-cont
   gap: 4px;
   padding: 10px;
 }
-body.navis-skin .application.actor.impmal.character .navis-body > .location.list-row {
+body.apex-skin .application.actor.impmal.character .navis-body > .location.list-row {
   display: contents;
 }
-body.navis-skin .application.actor.impmal.character .navis-body > .location[data-key="head"] > .location-values { grid-area: head; }
-body.navis-skin .application.actor.impmal.character .navis-body > .location[data-key="body"] > .location-values { grid-area: body; }
-body.navis-skin .application.actor.impmal.character .navis-body > .location[data-key="rightArm"] > .location-values { grid-area: rarm; }
-body.navis-skin .application.actor.impmal.character .navis-body > .location[data-key="leftArm"] > .location-values { grid-area: larm; }
-body.navis-skin .application.actor.impmal.character .navis-body > .location[data-key="rightLeg"] > .location-values { grid-area: rleg; }
-body.navis-skin .application.actor.impmal.character .navis-body > .location[data-key="leftLeg"] > .location-values { grid-area: lleg; }
+body.apex-skin .application.actor.impmal.character .navis-body > .location[data-key="head"] > .location-values { grid-area: head; }
+body.apex-skin .application.actor.impmal.character .navis-body > .location[data-key="body"] > .location-values { grid-area: body; }
+body.apex-skin .application.actor.impmal.character .navis-body > .location[data-key="rightArm"] > .location-values { grid-area: rarm; }
+body.apex-skin .application.actor.impmal.character .navis-body > .location[data-key="leftArm"] > .location-values { grid-area: larm; }
+body.apex-skin .application.actor.impmal.character .navis-body > .location[data-key="rightLeg"] > .location-values { grid-area: rleg; }
+body.apex-skin .application.actor.impmal.character .navis-body > .location[data-key="leftLeg"] > .location-values { grid-area: lleg; }
 
-body.navis-skin .application.actor.impmal.character .navis-body > .location > .location-values.row-content {
+body.apex-skin .application.actor.impmal.character .navis-body > .location > .location-values.row-content {
   position: relative;
   display: flex;
   flex-direction: column;
@@ -1669,13 +1669,13 @@ body.navis-skin .application.actor.impmal.character .navis-body > .location > .l
   clip-path: var(--navis-plate-sm);
   cursor: pointer;
 }
-body.navis-skin .application.actor.impmal.character .navis-body > .location > .location-values.row-content:has(.armour-damage) {
+body.apex-skin .application.actor.impmal.character .navis-body > .location > .location-values.row-content:has(.armour-damage) {
   border-top-color: var(--navis-danger);
 }
-body.navis-skin .application.actor.impmal.character .navis-body > .location:has(> .location-details.expanded) > .location-values.row-content {
+body.apex-skin .application.actor.impmal.character .navis-body > .location:has(> .location-details.expanded) > .location-values.row-content {
   border-left: 3px solid var(--navis-accent);
 }
-body.navis-skin .application.actor.impmal.character .navis-body > .location > .location-values.row-content > * {
+body.apex-skin .application.actor.impmal.character .navis-body > .location > .location-values.row-content > * {
   flex: none;
   max-width: 100%;
   height: auto;
@@ -1686,7 +1686,7 @@ body.navis-skin .application.actor.impmal.character .navis-body > .location > .l
   border: 0;
   box-shadow: none;
 }
-body.navis-skin .application.actor.impmal.character .navis-body > .location > .location-values > label {
+body.apex-skin .application.actor.impmal.character .navis-body > .location > .location-values > label {
   padding: 0;
   text-align: center;
   white-space: nowrap;
@@ -1699,7 +1699,7 @@ body.navis-skin .application.actor.impmal.character .navis-body > .location > .l
   color: var(--navis-ink-faint);
   cursor: inherit;
 }
-body.navis-skin .application.actor.impmal.character .navis-body > .location > .location-values > .armour-value {
+body.apex-skin .application.actor.impmal.character .navis-body > .location > .location-values > .armour-value {
   font-family: var(--navis-font-text);
   font-size: 22px;
   font-weight: 600;
@@ -1707,10 +1707,10 @@ body.navis-skin .application.actor.impmal.character .navis-body > .location > .l
   text-align: center;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal.character .navis-body > .location[data-key="body"] > .location-values > .armour-value {
+body.apex-skin .application.actor.impmal.character .navis-body > .location[data-key="body"] > .location-values > .armour-value {
   font-size: 28px;
 }
-body.navis-skin .application.actor.impmal.character .navis-body > .location > .location-values > .navis-loc-item {
+body.apex-skin .application.actor.impmal.character .navis-body > .location > .location-values > .navis-loc-item {
   display: block;
   line-height: 1.3;
   white-space: nowrap;
@@ -1720,7 +1720,7 @@ body.navis-skin .application.actor.impmal.character .navis-body > .location > .l
   font-size: 11px;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .navis-body > .location > .location-values > .armour-damage {
+body.apex-skin .application.actor.impmal.character .navis-body > .location > .location-values > .armour-damage {
   position: absolute;
   top: 3px;
   right: 4px;
@@ -1731,10 +1731,10 @@ body.navis-skin .application.actor.impmal.character .navis-body > .location > .l
   color: var(--navis-danger);
 }
 /* An opened location lists its items under the map, full width. */
-body.navis-skin .application.actor.impmal.character .navis-body > .location > .location-details {
+body.apex-skin .application.actor.impmal.character .navis-body > .location > .location-details {
   grid-column: 1 / -1;
 }
-body.navis-skin .application.actor.impmal.character .navis-body > .location > .location-details.expanded {
+body.apex-skin .application.actor.impmal.character .navis-body > .location > .location-details.expanded {
   display: block;
   margin: 6px -10px -10px;
   padding: 8px 10px;
@@ -1742,14 +1742,14 @@ body.navis-skin .application.actor.impmal.character .navis-body > .location > .l
   font-family: var(--navis-font-text);
   font-size: 13px;
 }
-body.navis-skin .application.actor.impmal.character .navis-body .location-details .protection-item {
+body.apex-skin .application.actor.impmal.character .navis-body .location-details .protection-item {
   display: flex;
   justify-content: space-between;
   gap: 8px;
   line-height: 22px;
   color: var(--navis-ink-muted);
 }
-body.navis-skin .application.actor.impmal.character .navis-body .location-details .protection-item label {
+body.apex-skin .application.actor.impmal.character .navis-body .location-details .protection-item label {
   width: auto;
   min-width: 0;
   padding: 0;
@@ -1758,22 +1758,22 @@ body.navis-skin .application.actor.impmal.character .navis-body .location-detail
   text-overflow: ellipsis;
   color: var(--navis-ink-muted);
 }
-body.navis-skin .application.actor.impmal.character .navis-body .location-details .protection-item :is(.damage-armour, span) {
+body.apex-skin .application.actor.impmal.character .navis-body .location-details .protection-item :is(.damage-armour, span) {
   flex: none;
   text-align: right;
   font-weight: 600;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal.character .navis-body .location-details .protection-item .damage-armour.damaged,
-body.navis-skin .application.actor.impmal.character .navis-body .location-details .protection-item.navis-loc-damage span {
+body.apex-skin .application.actor.impmal.character .navis-body .location-details .protection-item .damage-armour.damaged,
+body.apex-skin .application.actor.impmal.character .navis-body .location-details .protection-item.navis-loc-damage span {
   color: var(--navis-danger);
 }
-body.navis-skin .application.actor.impmal.character .navis-body .location-details .armour-traits .trait-list {
+body.apex-skin .application.actor.impmal.character .navis-body .location-details .armour-traits .trait-list {
   font-size: 12px;
   color: var(--navis-ink-faint);
 }
 
-body.navis-skin .application.actor.impmal.character .navis-prot > .flexcol.navis-wounds {
+body.apex-skin .application.actor.impmal.character .navis-prot > .flexcol.navis-wounds {
   display: flex;
   flex-direction: column;
   gap: 8px;
@@ -1782,10 +1782,10 @@ body.navis-skin .application.actor.impmal.character .navis-prot > .flexcol.navis
 }
 /* impmal stretches both lists with an inline flex: 1; the proposal lets
    each take its content's height. */
-body.navis-skin .application.actor.impmal.character .navis-wounds > .sheet-list.navis-block {
+body.apex-skin .application.actor.impmal.character .navis-wounds > .sheet-list.navis-block {
   flex: none !important;
 }
-body.navis-skin .application.actor.impmal.character .navis-wounds .navis-count {
+body.apex-skin .application.actor.impmal.character .navis-wounds .navis-count {
   flex: none;
   font-family: var(--navis-font-stencil);
   font-size: 12px;
@@ -1793,33 +1793,33 @@ body.navis-skin .application.actor.impmal.character .navis-wounds .navis-count {
   letter-spacing: 1px;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .navis-wounds .navis-count.navis-at-max {
+body.apex-skin .application.actor.impmal.character .navis-wounds .navis-count.navis-at-max {
   color: var(--navis-danger);
 }
-body.navis-skin .application.actor.impmal.character .navis-wounds .navis-block-hd .list-controls {
+body.apex-skin .application.actor.impmal.character .navis-wounds .navis-block-hd .list-controls {
   flex: none;
   display: flex;
 }
-body.navis-skin .application.actor.impmal.character .navis-wounds > .sheet-list > .list-content {
+body.apex-skin .application.actor.impmal.character .navis-wounds > .sheet-list > .list-content {
   display: flex;
   flex-direction: column;
   gap: 6px;
   padding: 8px 10px 10px;
 }
-body.navis-skin .application.actor.impmal.character .navis-wounds > .sheet-list > .list-content:empty {
+body.apex-skin .application.actor.impmal.character .navis-wounds > .sheet-list > .list-content:empty {
   padding: 0;
 }
-body.navis-skin .application.actor.impmal.character .navis-wounds .list-row.navis-wound {
+body.apex-skin .application.actor.impmal.character .navis-wounds .list-row.navis-wound {
   margin: 0;
   padding: 6px 10px;
   background: var(--navis-raised);
   border: 1px solid var(--navis-line);
   border-left: 3px solid var(--navis-danger);
 }
-body.navis-skin .application.actor.impmal.character .navis-wounds.navis-wounds .navis-injury-list .list-row.navis-wound {
+body.apex-skin .application.actor.impmal.character .navis-wounds.navis-wounds .navis-injury-list .list-row.navis-wound {
   border-left-color: var(--navis-alert);
 }
-body.navis-skin .application.actor.impmal.character .navis-wounds .navis-wound > .row-content {
+body.apex-skin .application.actor.impmal.character .navis-wounds .navis-wound > .row-content {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
   gap: 8px;
@@ -1830,16 +1830,16 @@ body.navis-skin .application.actor.impmal.character .navis-wounds .navis-wound >
   background: none;
   border: 0;
 }
-body.navis-skin .application.actor.impmal.character .navis-wounds .navis-wound .list-name {
+body.apex-skin .application.actor.impmal.character .navis-wounds .navis-wound .list-name {
   display: block;
   min-width: 0;
   margin: 0;
   padding: 0;
 }
-body.navis-skin .application.actor.impmal.character .navis-wounds .navis-wound .list-name img {
+body.apex-skin .application.actor.impmal.character .navis-wounds .navis-wound .list-name img {
   display: none;
 }
-body.navis-skin .application.actor.impmal.character .navis-wounds .navis-wound .list-name a.label {
+body.apex-skin .application.actor.impmal.character .navis-wounds .navis-wound .list-name a.label {
   display: block;
   white-space: nowrap;
   overflow: hidden;
@@ -1852,12 +1852,12 @@ body.navis-skin .application.actor.impmal.character .navis-wounds .navis-wound .
   text-transform: uppercase;
   color: var(--navis-ink);
 }
-body.navis-skin .application.actor.impmal.character .navis-wounds .navis-wound .navis-wound-sub {
+body.apex-skin .application.actor.impmal.character .navis-wounds .navis-wound .navis-wound-sub {
   display: block;
   font-family: var(--navis-font-text);
   font-size: 12px;
   color: var(--navis-ink-faint);
 }
-body.navis-skin .application.actor.impmal.character .navis-wounds .navis-wound .list-controls a {
+body.apex-skin .application.actor.impmal.character .navis-wounds .navis-wound .list-controls a {
   color: var(--navis-ink-faint);
 }

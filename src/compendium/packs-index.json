@@ -5098,7 +5098,7 @@
               106,
               110
             ],
-            "text": "<p><strong>Daemonic Emergence</strong>: A daemon tears its way out of the Warp and emerges within Short Range of you. Roll a d10 to determine what kind of daemon appears: 1-3, a @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.4bhFOh1nTrYloc8s]{Plaguebearer}, 4-6, a @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.r38KjnD2RWhYIykh]{Bloodletter}, 7-8 a @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.xzqdh2P5F2c7QpVm]{Daemonette}, or a @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.CAvzgSBWrbnHu8zi]{Pink Horror} appears.</p>"
+            "text": "<p><strong>Daemonic Emergence</strong>: A daemon tears its way out of the Warp and emerges within Short Range of you. Roll a d10 to determine what kind of daemon appears: 1-3, a @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.4bhFOh1nTrYloc8s]{Plaguebearer}, 4-6, a @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.r38KjnD2RWhYIykh]{Bloodletter}, 7-8 a @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.xzqdh2P5F2c7QpVm]{Daemonette}, or a @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.CAvzgSBWrbnHu8zi]{Pink Horror} appears.</p>"
           },
           {
             "id": "CVkap9Q2lCwYMtJe",
@@ -6383,7 +6383,7 @@
               100,
               100
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Psyker} or @UUID[Compendium.navis-apexialis.navis-core-items.Item.PpidBBZ7dG6yziXg]{Blank}"
+            "text": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Psyker} or @UUID[Compendium.apex-imperialis.navis-core-items.Item.PpidBBZ7dG6yziXg]{Blank}"
           }
         ]
       },
@@ -6518,7 +6518,7 @@
               53,
               55
             ],
-            "text": "<p><strong>Breath Leech</strong>: The air is sucked from the lungs of everyone present. Characters in your Zone must succeed at a <strong>Challenging (+0) Fortitude (Endurance)</strong> Test or become @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Stunned} for one round. </p><p><strong>Lingering</strong>: The air becomes permanently stale and difficult to breathe. Treat the Zone as though it were under the permanent influence of a @UUID[Compendium.navis-apexialis.navis-core-items.Item.OjLq7yDUPG8TpISi]{Choke Grenade}.</p>"
+            "text": "<p><strong>Breath Leech</strong>: The air is sucked from the lungs of everyone present. Characters in your Zone must succeed at a <strong>Challenging (+0) Fortitude (Endurance)</strong> Test or become @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Stunned} for one round. </p><p><strong>Lingering</strong>: The air becomes permanently stale and difficult to breathe. Treat the Zone as though it were under the permanent influence of a @UUID[Compendium.apex-imperialis.navis-core-items.Item.OjLq7yDUPG8TpISi]{Choke Grenade}.</p>"
           },
           {
             "id": "dHTBFn3GSEASBwo5",
@@ -9181,7 +9181,7 @@
               15,
               19
             ],
-            "text": "<p><strong>Argument</strong>: An encounter with a member of another Faction (use the @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.vl9saE1Hpu48qsLd]{Patron Faction} table to determine which). The encounter ends badly — perhaps you interrupt the vital work of a Tech-priest, or stumble into the midst of a Infractionist’s illegal dealings. You escape with your life, but that individual bears a lasting grudge against you. The effects of this are left up to the GM.</p>"
+            "text": "<p><strong>Argument</strong>: An encounter with a member of another Faction (use the @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.vl9saE1Hpu48qsLd]{Patron Faction} table to determine which). The encounter ends badly — perhaps you interrupt the vital work of a Tech-priest, or stumble into the midst of a Infractionist’s illegal dealings. You escape with your life, but that individual bears a lasting grudge against you. The effects of this are left up to the GM.</p>"
           },
           {
             "id": "xZN24oqDrYHSKe7R",
@@ -9269,7 +9269,7 @@
               64,
               74
             ],
-            "text": "<p><strong>Bounty Hunter</strong>: Word reaches you that a bounty has been put out on your head. Maybe you inadvertently killed or angered the wrong person in your previous mission, or a rival has simply grown tired of your interference. Whatever the cause, a @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Bounty Hunter} has been set on your tail. For now, there is no effect, but at some inconvenient point in a future mission the Bounty Hunter will appear to claim you. If at any point at least half the Characters in the party are being pursued by Bounty Hunters, they will band together into a Venator gang and hunt the entire party instead.</p>"
+            "text": "<p><strong>Bounty Hunter</strong>: Word reaches you that a bounty has been put out on your head. Maybe you inadvertently killed or angered the wrong person in your previous mission, or a rival has simply grown tired of your interference. Whatever the cause, a @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE]{Bounty Hunter} has been set on your tail. For now, there is no effect, but at some inconvenient point in a future mission the Bounty Hunter will appear to claim you. If at any point at least half the Characters in the party are being pursued by Bounty Hunters, they will band together into a Venator gang and hunt the entire party instead.</p>"
           },
           {
             "id": "9WlBvYyTnxfjtHhi",
@@ -13885,7 +13885,7 @@
               16,
               16
             ],
-            "text": "<p>The vehicle is destroyed outright, quickly becoming an inferno. Everyone inside takes [[1d10+10]] damage to a random Hit Location and suffers the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Ablaze} Condition.</p>"
+            "text": "<p>The vehicle is destroyed outright, quickly becoming an inferno. Everyone inside takes [[1d10+10]] damage to a random Hit Location and suffers the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Ablaze} Condition.</p>"
           }
         ]
       },
@@ -16736,7 +16736,7 @@
               1,
               2
             ],
-            "text": "<p>The Rosette is trapped with a @UUID[Compendium.navis-apexialis.navis-core-items.Item.99dVOsy85KLNtGTj]{Melta Bomb}, which is triggered whenever it is handled by an individual who the Inquisitor has not sanctioned.</p>"
+            "text": "<p>The Rosette is trapped with a @UUID[Compendium.apex-imperialis.navis-core-items.Item.99dVOsy85KLNtGTj]{Melta Bomb}, which is triggered whenever it is handled by an individual who the Inquisitor has not sanctioned.</p>"
           },
           {
             "id": "WSGXgMplbfxR0woO",
@@ -16752,7 +16752,7 @@
               5,
               6
             ],
-            "text": "<p>The Rosette has an emergency trigger that can be activated as a Free Action and functions as a @UUID[Compendium.navis-apexialis.navis-core-items.Item.kw9N0gOOA3YVqN4i]{Smoke Grenade}, a @UUID[Compendium.navis-apexialis.navis-core-items.Item.deHQEH976yh9nI9y]{Signal Jammer}, and a @UUID[Compendium.navis-apexialis.navis-core-items.Item.V2OgwHeEr3qpTbBy]{Stummer} simultaneously.</p>"
+            "text": "<p>The Rosette has an emergency trigger that can be activated as a Free Action and functions as a @UUID[Compendium.apex-imperialis.navis-core-items.Item.kw9N0gOOA3YVqN4i]{Smoke Grenade}, a @UUID[Compendium.apex-imperialis.navis-core-items.Item.deHQEH976yh9nI9y]{Signal Jammer}, and a @UUID[Compendium.apex-imperialis.navis-core-items.Item.V2OgwHeEr3qpTbBy]{Stummer} simultaneously.</p>"
           },
           {
             "id": "2sNfShMsFudOebaX",
@@ -16760,7 +16760,7 @@
               7,
               8
             ],
-            "text": "<p>The Rosette contains a concealed data port that can interface with a cogitator. It can be used as a @UUID[Compendium.navis-apexialis.navis-core-items.Item.xQ2vhqZTWMBZ3Jxi]{Combi-Tool} and confers +1 SL when the Inquisitor’s credentials are relevant and capable of overwriting any access requirements.</p>"
+            "text": "<p>The Rosette contains a concealed data port that can interface with a cogitator. It can be used as a @UUID[Compendium.apex-imperialis.navis-core-items.Item.xQ2vhqZTWMBZ3Jxi]{Combi-Tool} and confers +1 SL when the Inquisitor’s credentials are relevant and capable of overwriting any access requirements.</p>"
           },
           {
             "id": "9jRxO9K9bsP7PnlA",
@@ -16878,7 +16878,7 @@
               1,
               7
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.R7LueEsDUhrSYHNn]{Amalathian}"
+            "text": "@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.R7LueEsDUhrSYHNn]{Amalathian}"
           },
           {
             "id": "Gu8pUPhgghPmuAz8",
@@ -16886,7 +16886,7 @@
               8,
               14
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.zilJJMaYtaWZrNtO]{Horusian}"
+            "text": "@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.zilJJMaYtaWZrNtO]{Horusian}"
           },
           {
             "id": "SL0rLvH2tPomJ5py",
@@ -16894,7 +16894,7 @@
               15,
               21
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.UAWh0hEvWDwob6CT]{Isstvanism}"
+            "text": "@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.UAWh0hEvWDwob6CT]{Isstvanism}"
           },
           {
             "id": "0FHik20vSXtAGIQ4",
@@ -16902,7 +16902,7 @@
               22,
               28
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.HvHZn8R9BIsShQUf]{Libricar}"
+            "text": "@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.HvHZn8R9BIsShQUf]{Libricar}"
           },
           {
             "id": "Wj60N9jtiyjoAOzO",
@@ -16910,7 +16910,7 @@
               29,
               36
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.yds9IfgKQlwxLqq6]{Monodominant}"
+            "text": "@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.yds9IfgKQlwxLqq6]{Monodominant}"
           },
           {
             "id": "CUcgvDNsOu5x4fxI",
@@ -16918,7 +16918,7 @@
               37,
               43
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.2uYpfwwAdPf6e21L]{Oblationist}"
+            "text": "@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.2uYpfwwAdPf6e21L]{Oblationist}"
           },
           {
             "id": "RAnciQEJ0QPYkjAD",
@@ -16926,7 +16926,7 @@
               44,
               50
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.cKepLkmLocC4tuPy]{Ocularian}"
+            "text": "@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.cKepLkmLocC4tuPy]{Ocularian}"
           },
           {
             "id": "faNfdXUyCn1j9Isz",
@@ -16934,7 +16934,7 @@
               51,
               57
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.8v1M4GEradntyMLO]{Phaenonites}"
+            "text": "@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.8v1M4GEradntyMLO]{Phaenonites}"
           },
           {
             "id": "uRvgadRbHFpmRNGJ",
@@ -16942,7 +16942,7 @@
               58,
               64
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.3Vz53nIr3zIQxdCX]{Plutonian}"
+            "text": "@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.3Vz53nIr3zIQxdCX]{Plutonian}"
           },
           {
             "id": "IAzgz4sWDayqG5jI",
@@ -16950,7 +16950,7 @@
               65,
               71
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.vJmDVccuyJJLooV4]{Polypsykana}"
+            "text": "@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.vJmDVccuyJJLooV4]{Polypsykana}"
           },
           {
             "id": "cL48AKLq5C1gxeDG",
@@ -16958,7 +16958,7 @@
               72,
               78
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.7Aqg1D2wSmKjmzWj]{Recongregationism}"
+            "text": "@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.7Aqg1D2wSmKjmzWj]{Recongregationism}"
           },
           {
             "id": "ifp1FTUvyedO5A4P",
@@ -16966,7 +16966,7 @@
               79,
               85
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.5cZtpGhLm8BGV6pd]{Seculos Attendous}"
+            "text": "@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.5cZtpGhLm8BGV6pd]{Seculos Attendous}"
           },
           {
             "id": "8jfrjXYSkjJJbEXA",
@@ -16974,7 +16974,7 @@
               86,
               93
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.0vHms9BJQGOVa0dO]{Thorian}"
+            "text": "@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.0vHms9BJQGOVa0dO]{Thorian}"
           },
           {
             "id": "oGBxWd2zaciZYb7J",
@@ -16982,7 +16982,7 @@
               94,
               100
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.s88kgPSDiogPL4aB]{Xanthism}"
+            "text": "@UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.s88kgPSDiogPL4aB]{Xanthism}"
           }
         ]
       },
@@ -17965,7 +17965,7 @@
               9,
               10
             ],
-            "text": "<p>The Rosette incorporates a @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Ao3ReFn4WBUSjSY2]{Bio-sample Extractor}. Make a <strong>Difficult (−10) Tech</strong> Test to identify a sample; it can only identify material catalogued within a particular Ordo Xenos library, hundreds of years old, so newer species may not be known.</p>"
+            "text": "<p>The Rosette incorporates a @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Ao3ReFn4WBUSjSY2]{Bio-sample Extractor}. Make a <strong>Difficult (−10) Tech</strong> Test to identify a sample; it can only identify material catalogued within a particular Ordo Xenos library, hundreds of years old, so newer species may not be known.</p>"
           }
         ]
       },
@@ -18113,7 +18113,7 @@
               1,
               10
             ],
-            "text": "False Death: The character believes they have died and is @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#prone]{Prone} and @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#incapacitated]{Incapacitated} for the duration."
+            "text": "False Death: The character believes they have died and is @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#prone]{Prone} and @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#incapacitated]{Incapacitated} for the duration."
           },
           {
             "id": "9cW6IjdPX6w2ONLr",
@@ -18121,7 +18121,7 @@
               11,
               20
             ],
-            "text": "Greatest Fear: The character becomes @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Frightened} by something only they can perceive within the Zone for the duration."
+            "text": "Greatest Fear: The character becomes @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Frightened} by something only they can perceive within the Zone for the duration."
           },
           {
             "id": "dlAg0OUgT314K84j",
@@ -18145,7 +18145,7 @@
               41,
               50
             ],
-            "text": "If I Don’t Move, It Won’t See Me!: In avoiding or hiding from some perceived danger, the character immediately goes @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#prone]{Prone} for the duration and refuses to get up or take other Actions. However, they can take Reactions as normal."
+            "text": "If I Don’t Move, It Won’t See Me!: In avoiding or hiding from some perceived danger, the character immediately goes @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#prone]{Prone} for the duration and refuses to get up or take other Actions. However, they can take Reactions as normal."
           },
           {
             "id": "0IvOvOPF7pPmFKlA",
@@ -18153,7 +18153,7 @@
               51,
               60
             ],
-            "text": "It's All Over Me!: The character is overcome by their hallucination, believing bugs or rats are swarming them or that their body is melting or ablaze, and counts as being @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Stunned} for the duration."
+            "text": "It's All Over Me!: The character is overcome by their hallucination, believing bugs or rats are swarming them or that their body is melting or ablaze, and counts as being @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Stunned} for the duration."
           },
           {
             "id": "5RtFTf1G8HwNiDRg",
@@ -18161,7 +18161,7 @@
               61,
               70
             ],
-            "text": "Lost in the Void / The Emperor’s Light!: The character believes they are consumed by darkness or lost in a blinding flash of unnatural light for the duration. The character acts as if @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#blinded]{Blinded}."
+            "text": "Lost in the Void / The Emperor’s Light!: The character believes they are consumed by darkness or lost in a blinding flash of unnatural light for the duration. The character acts as if @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#blinded]{Blinded}."
           },
           {
             "id": "1GSwc79iptu6l4BM",
@@ -18607,7 +18607,7 @@
               38,
               45
             ],
-            "text": "<strong>Sleepless Nights</strong>: Strange omens haunt the character’s dreams, portending possible daemonic activity. The character can make a <strong>Difficult (−10) Discipline (Psychic)</strong> Test to endure the bewildering nightmares and discover their hidden meanings. On a success, at any point before the next downtime period, the character may add +2 SL to a Test of their choice. On a failure, the character suffers a @Corruption[minor]{Minor Exposure} to @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.PuzopCeKzYgcYAwh]{Corruption}."
+            "text": "<strong>Sleepless Nights</strong>: Strange omens haunt the character’s dreams, portending possible daemonic activity. The character can make a <strong>Difficult (−10) Discipline (Psychic)</strong> Test to endure the bewildering nightmares and discover their hidden meanings. On a success, at any point before the next downtime period, the character may add +2 SL to a Test of their choice. On a failure, the character suffers a @Corruption[minor]{Minor Exposure} to @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.PuzopCeKzYgcYAwh]{Corruption}."
           },
           {
             "id": "CPZvwlQzcenJw3hB",
@@ -18639,7 +18639,7 @@
               68,
               75
             ],
-            "text": "<strong>Sabotage</strong>: Local manufactorum slowdowns have left vital goods in short supply, leading to hoarding by the authorities. The Inquisition has the right to claim their share of these goods, but doing so jeopardises immediate support. Until the character’s next downtime period, when attempting to acquire new items, prices are increased by 50%. The character can ignore this increase with an official requisition, but doing so decreases their Influence with local power structures by 1, or causes a decrease in @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Subtlety} until the end of their next downtime."
+            "text": "<strong>Sabotage</strong>: Local manufactorum slowdowns have left vital goods in short supply, leading to hoarding by the authorities. The Inquisition has the right to claim their share of these goods, but doing so jeopardises immediate support. Until the character’s next downtime period, when attempting to acquire new items, prices are increased by 50%. The character can ignore this increase with an official requisition, but doing so decreases their Influence with local power structures by 1, or causes a decrease in @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Subtlety} until the end of their next downtime."
           },
           {
             "id": "lIt5PD5X1xOihxLv",
@@ -18647,7 +18647,7 @@
               76,
               82
             ],
-            "text": "<strong>Psyker Hunt</strong>: Hints of burgeoning psyker activity nearby demand attention. The character can browbeat answers out of the populace with a <strong>Challenging (+0) Presence (Intimidation)</strong> Test, investigate for the latent psyker with a <strong>Difficult (−10) Intuition (Surroundings)</strong> Test, or when all else fails, draw on their authority within the Ordos and organise a witch-hunt, requiring no Test but causing a decrease in their @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Subtlety} Level. Success reveals the rogue psyker and captures them, turning them over to the authorities for containment until the Black Ships arrive and granting the character a temporary increase of +1 Influence with members of the Adeptus Astra Telepathica and the Inquisition until the character’s next downtime period."
+            "text": "<strong>Psyker Hunt</strong>: Hints of burgeoning psyker activity nearby demand attention. The character can browbeat answers out of the populace with a <strong>Challenging (+0) Presence (Intimidation)</strong> Test, investigate for the latent psyker with a <strong>Difficult (−10) Intuition (Surroundings)</strong> Test, or when all else fails, draw on their authority within the Ordos and organise a witch-hunt, requiring no Test but causing a decrease in their @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Subtlety} Level. Success reveals the rogue psyker and captures them, turning them over to the authorities for containment until the Black Ships arrive and granting the character a temporary increase of +1 Influence with members of the Adeptus Astra Telepathica and the Inquisition until the character’s next downtime period."
           },
           {
             "id": "cQNj7ER3mYqUV6mD",
@@ -18807,7 +18807,7 @@
               7,
               8
             ],
-            "text": "<p>The Rosette incorporates a miniature Aurascrye, a rare and arcane piece of technology that operates similarly to an @UUID[Compendium.navis-apexialis.navis-core-items.Item.dO7XoDXD9QYTy6zZ]{Auspex} explicitly designed to detect the presence of daemons. It works for one hour before requiring a 12-hour recharge.</p>"
+            "text": "<p>The Rosette incorporates a miniature Aurascrye, a rare and arcane piece of technology that operates similarly to an @UUID[Compendium.apex-imperialis.navis-core-items.Item.dO7XoDXD9QYTy6zZ]{Auspex} explicitly designed to detect the presence of daemons. It works for one hour before requiring a 12-hour recharge.</p>"
           },
           {
             "id": "9jRxO9K9bsP7PnlA",
@@ -19240,7 +19240,7 @@
               1,
               2
             ],
-            "text": "<p><strong>Mobility</strong>: Wheels or Tracks</p> <p><strong>Effect</strong>: +1500 Solars to base Cost. See <em><strong>Imperium Maledictum</strong></em> for rules on @UUID[Compendium.navis-apexialis.navis-core-items.Item.AKyR6gu2VqFCimHq]{Augmetic Tracks and Wheel Movement}.</p>"
+            "text": "<p><strong>Mobility</strong>: Wheels or Tracks</p> <p><strong>Effect</strong>: +1500 Solars to base Cost. See <em><strong>Imperium Maledictum</strong></em> for rules on @UUID[Compendium.apex-imperialis.navis-core-items.Item.AKyR6gu2VqFCimHq]{Augmetic Tracks and Wheel Movement}.</p>"
           },
           {
             "id": "tQwPs6BOqbf1sjR4",
@@ -19248,7 +19248,7 @@
               3,
               4
             ],
-            "text": "<p><strong>Mobility</strong>: Serpentine</p> <p><strong>Effect</strong>: Slow Speed, Advantage on Stealth (Moving Silently), @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Difficult Terrain} does not cause them Disadvantage.</p>"
+            "text": "<p><strong>Mobility</strong>: Serpentine</p> <p><strong>Effect</strong>: Slow Speed, Advantage on Stealth (Moving Silently), @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Difficult Terrain} does not cause them Disadvantage.</p>"
           },
           {
             "id": "8J1aQJ6Xk4TTgrm3",
@@ -19466,7 +19466,7 @@
               1,
               25
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.ZR29g4RP1E8y9twS#lightweight]{Lightweight}"
+            "text": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.ZR29g4RP1E8y9twS#lightweight]{Lightweight}"
           },
           {
             "id": "hSQDf39X6RRn5YqP",
@@ -19474,7 +19474,7 @@
               26,
               50
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.ZR29g4RP1E8y9twS#master-crafted]{Master Crafted}"
+            "text": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.ZR29g4RP1E8y9twS#master-crafted]{Master Crafted}"
           },
           {
             "id": "vSb3zedXhjanhNSP",
@@ -19482,7 +19482,7 @@
               51,
               75
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.ZR29g4RP1E8y9twS#ornamental]{Ornamental}"
+            "text": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.ZR29g4RP1E8y9twS#ornamental]{Ornamental}"
           },
           {
             "id": "ICJgypi6Req9oLfB",
@@ -19490,7 +19490,7 @@
               76,
               100
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.ZR29g4RP1E8y9twS#durable]{Durable}"
+            "text": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.ZR29g4RP1E8y9twS#durable]{Durable}"
           }
         ]
       },
@@ -19576,7 +19576,7 @@
               10,
               10
             ],
-            "text": "Displays open dislike of characters from a random Faction through growls, hisses, or flashing red targeting scanners. (You can choose or randomly determine this faction by rolling on @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.vl9saE1Hpu48qsLd]{Patron Faction} Table)."
+            "text": "Displays open dislike of characters from a random Faction through growls, hisses, or flashing red targeting scanners. (You can choose or randomly determine this faction by rolling on @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.vl9saE1Hpu48qsLd]{Patron Faction} Table)."
           }
         ]
       },
@@ -20036,7 +20036,7 @@
               21,
               30
             ],
-            "text": "<p><strong>Soporific Toxin</strong>: The first time this blade strikes a creature, they are affected by a hallucinogenic poison for 1d10 rounds. Each round therein, they must roll on the @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.Dy8XzuHFhHpVFytC]{Hallucinogenic Effects} Table.</p>"
+            "text": "<p><strong>Soporific Toxin</strong>: The first time this blade strikes a creature, they are affected by a hallucinogenic poison for 1d10 rounds. Each round therein, they must roll on the @UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.Dy8XzuHFhHpVFytC]{Hallucinogenic Effects} Table.</p>"
           },
           {
             "id": "lvIRre1O6GgAOYn4",
@@ -21454,7 +21454,7 @@
               4,
               4
             ],
-            "text": "<p><strong>Repugnant Spirit</strong>: Once per encounter, when you use this item and have a Malignancy or Mutation, you must roll on the @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Fumble} Table. </p>"
+            "text": "<p><strong>Repugnant Spirit</strong>: Once per encounter, when you use this item and have a Malignancy or Mutation, you must roll on the @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Fumble} Table. </p>"
           },
           {
             "id": "O1wX9fFh2oXjVdIU",
@@ -21580,7 +21580,7 @@
               41,
               45
             ],
-            "text": "<p><strong>Cargo Pilots</strong>: The hold is loaded with Departmento Munitorum cargo containers and @UUID[Compendium.navis-apexialis.navis-requisition-actors.Actor.SSqyPXq4qRxqxFFu]{Arvus Lighters}. Their pilots share lho sticks and recaff, relishing the quiet before they reach port. </p>"
+            "text": "<p><strong>Cargo Pilots</strong>: The hold is loaded with Departmento Munitorum cargo containers and @UUID[Compendium.apex-imperialis.navis-requisition-actors.Actor.SSqyPXq4qRxqxFFu]{Arvus Lighters}. Their pilots share lho sticks and recaff, relishing the quiet before they reach port. </p>"
           },
           {
             "id": "F3YWy67PYOJMmaPe",
@@ -22826,7 +22826,7 @@
               1,
               1
             ],
-            "text": "A vacuum-sealed @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.XXSPEv1YwIKDyQx4#provisions-and-meals]{Good Quality meal} composed of crops or livestock from a rare harvest surplus"
+            "text": "A vacuum-sealed @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.XXSPEv1YwIKDyQx4#provisions-and-meals]{Good Quality meal} composed of crops or livestock from a rare harvest surplus"
           },
           {
             "id": "4758ufxq8g4EUtRI",
@@ -22834,7 +22834,7 @@
               2,
               2
             ],
-            "text": "A Shoddy copy of the @UUID[Compendium.navis-apexialis.navis-requisition-items.Item.mugkAbW0jKcleF5I]{Imperial Infantryman’s Uplifting Primer}, missing half its pages, belonging to a sibling lost in battle"
+            "text": "A Shoddy copy of the @UUID[Compendium.apex-imperialis.navis-requisition-items.Item.mugkAbW0jKcleF5I]{Imperial Infantryman’s Uplifting Primer}, missing half its pages, belonging to a sibling lost in battle"
           },
           {
             "id": "c712iab2v9R36kGh",
@@ -22842,7 +22842,7 @@
               3,
               3
             ],
-            "text": "An Aquila locket containing the image of someone taken from you during the Noctis Aeterna (@UUID[Compendium.navis-apexialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Holy Icon})"
+            "text": "An Aquila locket containing the image of someone taken from you during the Noctis Aeterna (@UUID[Compendium.apex-imperialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Holy Icon})"
           },
           {
             "id": "dIX1wCMTbJrLAfTX",
@@ -22850,7 +22850,7 @@
               4,
               4
             ],
-            "text": "A @UUID[Compendium.navis-apexialis.navis-core-items.Item.B55qG1YQTS9IyuTm]{Backpack}, woven from the primary fabric crop of your homeworld"
+            "text": "A @UUID[Compendium.apex-imperialis.navis-core-items.Item.B55qG1YQTS9IyuTm]{Backpack}, woven from the primary fabric crop of your homeworld"
           },
           {
             "id": "zwtb2jsI3UbK7JNi",
@@ -22858,7 +22858,7 @@
               5,
               5
             ],
-            "text": "Your family’s Administratum-assigned harvest sickle, dutifully maintained over a hundred generations (Ugly @UUID[Compendium.navis-apexialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{Knife})"
+            "text": "Your family’s Administratum-assigned harvest sickle, dutifully maintained over a hundred generations (Ugly @UUID[Compendium.apex-imperialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{Knife})"
           },
           {
             "id": "416NRzZscApPBO7H",
@@ -22866,7 +22866,7 @@
               6,
               6
             ],
-            "text": "Shoddy @UUID[Compendium.navis-apexialis.navis-core-items.Item.O5AtUszQGDbi8qmS]{Survival Gear} designed for the temperate weather of your homeworld"
+            "text": "Shoddy @UUID[Compendium.apex-imperialis.navis-core-items.Item.O5AtUszQGDbi8qmS]{Survival Gear} designed for the temperate weather of your homeworld"
           },
           {
             "id": "7xFmRXcPv531s9aU",
@@ -22874,7 +22874,7 @@
               7,
               7
             ],
-            "text": "A shepherd’s crook (@UUID[Compendium.navis-apexialis.navis-core-items.Item.bYYdQ2TEdSgOTIf0]{Staff}), bequeathed by your mentor, bearing the inscription ‘By turns harsh and fair does He guide His flock’"
+            "text": "A shepherd’s crook (@UUID[Compendium.apex-imperialis.navis-core-items.Item.bYYdQ2TEdSgOTIf0]{Staff}), bequeathed by your mentor, bearing the inscription ‘By turns harsh and fair does He guide His flock’"
           },
           {
             "id": "EgvuDgpmx42G1VL3",
@@ -22882,7 +22882,7 @@
               8,
               8
             ],
-            "text": "A jar of seeds (@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.XXSPEv1YwIKDyQx4#provisions-and-meals]{Standard Meal}), each painstakingly engraved with the Imperial Aquila for sins committed"
+            "text": "A jar of seeds (@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.XXSPEv1YwIKDyQx4#provisions-and-meals]{Standard Meal}), each painstakingly engraved with the Imperial Aquila for sins committed"
           },
           {
             "id": "BNixTeVAu5SuWwRe",
@@ -22890,7 +22890,7 @@
               9,
               9
             ],
-            "text": "A Bulky set of @UUID[Compendium.navis-apexialis.navis-core-items.Item.NlduMbxJZrKejC9J]{Photo-visors}, a gift from a sun-blinded friend from the harvesting fields"
+            "text": "A Bulky set of @UUID[Compendium.apex-imperialis.navis-core-items.Item.NlduMbxJZrKejC9J]{Photo-visors}, a gift from a sun-blinded friend from the harvesting fields"
           },
           {
             "id": "p8ScoPQZwhOsNrtk",
@@ -22898,7 +22898,7 @@
               10,
               10
             ],
-            "text": "A clip of Shoddy @UUID[Compendium.navis-apexialis.navis-core-items.Item.kZuL2i84eWjUTUFv]{Bleeder Rounds} assigned to hunters of large, dangerous game animals on your homeworld"
+            "text": "A clip of Shoddy @UUID[Compendium.apex-imperialis.navis-core-items.Item.kZuL2i84eWjUTUFv]{Bleeder Rounds} assigned to hunters of large, dangerous game animals on your homeworld"
           }
         ]
       },
@@ -22928,7 +22928,7 @@
               8,
               9
             ],
-            "text": "<p>The strength of the blow rocks the vehicle, or is strong enough to stagger it, and briefly stuns the crew with the force of it. A random individual amongst the crew must make a <strong>Challenging (+0) Fortitude (Endurance) Test</strong> or suffer the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Stunned (Minor)} Condition for three rounds.</p><p><strong>Control Test</strong>: Challenging (+0) if the driver was hit.</p>"
+            "text": "<p>The strength of the blow rocks the vehicle, or is strong enough to stagger it, and briefly stuns the crew with the force of it. A random individual amongst the crew must make a <strong>Challenging (+0) Fortitude (Endurance) Test</strong> or suffer the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Stunned (Minor)} Condition for three rounds.</p><p><strong>Control Test</strong>: Challenging (+0) if the driver was hit.</p>"
           },
           {
             "id": "vRwfoLFjHGJcIkoi",
@@ -22968,7 +22968,7 @@
               16,
               16
             ],
-            "text": "<p>The vehicle is destroyed outright, quickly becoming an inferno. Everyone inside takes [[1d10+10]] damage to a random Hit Location and suffers the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Ablaze} Condition.</p>"
+            "text": "<p>The vehicle is destroyed outright, quickly becoming an inferno. Everyone inside takes [[1d10+10]] damage to a random Hit Location and suffers the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Ablaze} Condition.</p>"
           }
         ]
       },
@@ -23038,7 +23038,7 @@
               16,
               16
             ],
-            "text": "<p>The vehicle is destroyed outright, quickly becoming an inferno. Everyone inside takes [[1d10+10]] damage to a random Hit Location and suffers the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Ablaze} Condition.</p>"
+            "text": "<p>The vehicle is destroyed outright, quickly becoming an inferno. Everyone inside takes [[1d10+10]] damage to a random Hit Location and suffers the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Ablaze} Condition.</p>"
           }
         ]
       },
@@ -23138,7 +23138,7 @@
               1,
               1
             ],
-            "text": "<p>An archaic bayonet (@UUID[Compendium.navis-apexialis.navis-core-items.Item.bme7IUpsgm3NzL83]{Melee Attachment}) made from the vicious fang of an apex predator</p>"
+            "text": "<p>An archaic bayonet (@UUID[Compendium.apex-imperialis.navis-core-items.Item.bme7IUpsgm3NzL83]{Melee Attachment}) made from the vicious fang of an apex predator</p>"
           },
           {
             "id": "4758ufxq8g4EUtRI",
@@ -23146,7 +23146,7 @@
               2,
               2
             ],
-            "text": "A crude totem (@UUID[Compendium.navis-apexialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Holy Icon}) depicting the God-Emperor as a harsh, demanding nature deity"
+            "text": "A crude totem (@UUID[Compendium.apex-imperialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Holy Icon}) depicting the God-Emperor as a harsh, demanding nature deity"
           },
           {
             "id": "c712iab2v9R36kGh",
@@ -23154,7 +23154,7 @@
               3,
               3
             ],
-            "text": "A ritual duelling blade (@UUID[Compendium.navis-apexialis.navis-core-items.Item.kZh4o3SszYKFtzHE]{Great Weapon}) decorated with the runic history of your tribe"
+            "text": "A ritual duelling blade (@UUID[Compendium.apex-imperialis.navis-core-items.Item.kZh4o3SszYKFtzHE]{Great Weapon}) decorated with the runic history of your tribe"
           },
           {
             "id": "dIX1wCMTbJrLAfTX",
@@ -23162,7 +23162,7 @@
               4,
               4
             ],
-            "text": "A hunting crossbow fashioned from iron-hard wood taken from your homeworld (Shoddy @UUID[Compendium.navis-apexialis.navis-core-items.Item.vCeI41URKYV6iuAD]{Stub Revolver})"
+            "text": "A hunting crossbow fashioned from iron-hard wood taken from your homeworld (Shoddy @UUID[Compendium.apex-imperialis.navis-core-items.Item.vCeI41URKYV6iuAD]{Stub Revolver})"
           },
           {
             "id": "zwtb2jsI3UbK7JNi",
@@ -23170,7 +23170,7 @@
               5,
               5
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.WCb8cnulcFJqgoxX]{Scrap-plate} created by the tribe’s shaman from a crashed Imperial satellite"
+            "text": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.WCb8cnulcFJqgoxX]{Scrap-plate} created by the tribe’s shaman from a crashed Imperial satellite"
           },
           {
             "id": "416NRzZscApPBO7H",
@@ -23178,7 +23178,7 @@
               6,
               6
             ],
-            "text": "A padded case containing 4 volatile glands harvested from a deadly fire-breathing predator of your homeworld (Unstable @UUID[Compendium.navis-apexialis.navis-core-items.Item.JU4aGpoaxZLY7eIO]{Fire Bomb})"
+            "text": "A padded case containing 4 volatile glands harvested from a deadly fire-breathing predator of your homeworld (Unstable @UUID[Compendium.apex-imperialis.navis-core-items.Item.JU4aGpoaxZLY7eIO]{Fire Bomb})"
           },
           {
             "id": "7xFmRXcPv531s9aU",
@@ -23186,7 +23186,7 @@
               7,
               7
             ],
-            "text": "An Ugly @UUID[Compendium.navis-apexialis.navis-core-items.Item.f1XuFoDwzexJZAas]{Combat Shield} fashioned from the armoured scales of a great beast"
+            "text": "An Ugly @UUID[Compendium.apex-imperialis.navis-core-items.Item.f1XuFoDwzexJZAas]{Combat Shield} fashioned from the armoured scales of a great beast"
           },
           {
             "id": "EgvuDgpmx42G1VL3",
@@ -23194,7 +23194,7 @@
               8,
               8
             ],
-            "text": "Ritual scarification tools (Shoddy @UUID[Compendium.navis-apexialis.navis-core-items.Item.paXqMCUFqcpVEEBE]{Excruciator Kit}) to keep the tribe’s traditions among the stars"
+            "text": "Ritual scarification tools (Shoddy @UUID[Compendium.apex-imperialis.navis-core-items.Item.paXqMCUFqcpVEEBE]{Excruciator Kit}) to keep the tribe’s traditions among the stars"
           },
           {
             "id": "BNixTeVAu5SuWwRe",
@@ -23202,7 +23202,7 @@
               9,
               9
             ],
-            "text": "An Unreliable @UUID[Compendium.navis-apexialis.navis-core-items.Item.AdB3ZzAOrnREfdsv]{Multicompass} used in conjunction with psychedelic drugs in your tribe’s vision quests"
+            "text": "An Unreliable @UUID[Compendium.apex-imperialis.navis-core-items.Item.AdB3ZzAOrnREfdsv]{Multicompass} used in conjunction with psychedelic drugs in your tribe’s vision quests"
           },
           {
             "id": "p8ScoPQZwhOsNrtk",
@@ -23210,7 +23210,7 @@
               10,
               10
             ],
-            "text": "A Shoddy @UUID[Compendium.navis-apexialis.navis-core-items.Item.fhXBHDbBiY6PUUTc]{Cameleoline Cloak}, patched up with scraps of mundane fabric"
+            "text": "A Shoddy @UUID[Compendium.apex-imperialis.navis-core-items.Item.fhXBHDbBiY6PUUTc]{Cameleoline Cloak}, patched up with scraps of mundane fabric"
           }
         ]
       },
@@ -23224,7 +23224,7 @@
               1,
               1
             ],
-            "text": "Industrial axe bearing bright, warped colours from numerous lower hive chem spills (@UUID[Compendium.navis-apexialis.navis-core-items.Item.cnbaSByME7caQohv]{Axe})"
+            "text": "Industrial axe bearing bright, warped colours from numerous lower hive chem spills (@UUID[Compendium.apex-imperialis.navis-core-items.Item.cnbaSByME7caQohv]{Axe})"
           },
           {
             "id": "4758ufxq8g4EUtRI",
@@ -23232,7 +23232,7 @@
               2,
               2
             ],
-            "text": "‘Liberated’ manufactorum overseer’s dataslate, minor crack in the screen (Ugly @UUID[Compendium.navis-apexialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW]{Dataslate})"
+            "text": "‘Liberated’ manufactorum overseer’s dataslate, minor crack in the screen (Ugly @UUID[Compendium.apex-imperialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW]{Dataslate})"
           },
           {
             "id": "c712iab2v9R36kGh",
@@ -23240,7 +23240,7 @@
               3,
               3
             ],
-            "text": "An Ugly revolver, with scrimshaw from your former gang’s quartermaster (@UUID[Compendium.navis-apexialis.navis-core-items.Item.vCeI41URKYV6iuAD]{Stub Revolver})"
+            "text": "An Ugly revolver, with scrimshaw from your former gang’s quartermaster (@UUID[Compendium.apex-imperialis.navis-core-items.Item.vCeI41URKYV6iuAD]{Stub Revolver})"
           },
           {
             "id": "dIX1wCMTbJrLAfTX",
@@ -23248,7 +23248,7 @@
               4,
               4
             ],
-            "text": "Pair of industrial, chem-resistant gauntlets, blackened at the fingers (Shoddy and Ugly @UUID[Compendium.navis-apexialis.navis-core-items.Item.EFuAlEM1vh5fvSDW]{Flak Gauntlets})"
+            "text": "Pair of industrial, chem-resistant gauntlets, blackened at the fingers (Shoddy and Ugly @UUID[Compendium.apex-imperialis.navis-core-items.Item.EFuAlEM1vh5fvSDW]{Flak Gauntlets})"
           },
           {
             "id": "zwtb2jsI3UbK7JNi",
@@ -23256,7 +23256,7 @@
               5,
               5
             ],
-            "text": "The Boss’s Sights (@UUID[Compendium.navis-apexialis.navis-core-items.Item.Sa0x6Yf5xZ2OcfVp]{Omniscope}), with a crudely carved and winged skull on the casing"
+            "text": "The Boss’s Sights (@UUID[Compendium.apex-imperialis.navis-core-items.Item.Sa0x6Yf5xZ2OcfVp]{Omniscope}), with a crudely carved and winged skull on the casing"
           },
           {
             "id": "416NRzZscApPBO7H",
@@ -23264,7 +23264,7 @@
               6,
               6
             ],
-            "text": "Cracked manufactorum flare visors (Ugly @UUID[Compendium.navis-apexialis.navis-core-items.Item.NlduMbxJZrKejC9J]{Photo-Visor})"
+            "text": "Cracked manufactorum flare visors (Ugly @UUID[Compendium.apex-imperialis.navis-core-items.Item.NlduMbxJZrKejC9J]{Photo-Visor})"
           },
           {
             "id": "7xFmRXcPv531s9aU",
@@ -23272,7 +23272,7 @@
               7,
               7
             ],
-            "text": "A Shoddy and Ugly @UUID[Compendium.navis-apexialis.navis-core-items.Item.iG45nxwOAfNkpKYJ]{Grapnel Launcher}, with tally marks scratched into the casing for each ‘job’ completed"
+            "text": "A Shoddy and Ugly @UUID[Compendium.apex-imperialis.navis-core-items.Item.iG45nxwOAfNkpKYJ]{Grapnel Launcher}, with tally marks scratched into the casing for each ‘job’ completed"
           },
           {
             "id": "EgvuDgpmx42G1VL3",
@@ -23280,7 +23280,7 @@
               8,
               8
             ],
-            "text": "Chem-resistant greatcoat, acid-etched wire, and acid-proof umbrella (Ugly @UUID[Compendium.navis-apexialis.navis-core-items.Item.O5AtUszQGDbi8qmS]{Survival Gear})"
+            "text": "Chem-resistant greatcoat, acid-etched wire, and acid-proof umbrella (Ugly @UUID[Compendium.apex-imperialis.navis-core-items.Item.O5AtUszQGDbi8qmS]{Survival Gear})"
           },
           {
             "id": "BNixTeVAu5SuWwRe",
@@ -23288,7 +23288,7 @@
               9,
               9
             ],
-            "text": "Phosphor-chem lamp, blinding white, prone to flickering (@UUID[Compendium.navis-apexialis.navis-core-items.Item.1LgXZfag35FhcNoj]{Glow-Globe})"
+            "text": "Phosphor-chem lamp, blinding white, prone to flickering (@UUID[Compendium.apex-imperialis.navis-core-items.Item.1LgXZfag35FhcNoj]{Glow-Globe})"
           },
           {
             "id": "p8ScoPQZwhOsNrtk",
@@ -23296,7 +23296,7 @@
               10,
               10
             ],
-            "text": "A length of hardy metal pipe that has been used as a weapon one too many times (@UUID[Compendium.navis-apexialis.navis-core-items.Item.lwPymw5Hah0H8Ey5]{Improvised One-handed Melee Weapon}, with the Subtle Trait)"
+            "text": "A length of hardy metal pipe that has been used as a weapon one too many times (@UUID[Compendium.apex-imperialis.navis-core-items.Item.lwPymw5Hah0H8Ey5]{Improvised One-handed Melee Weapon}, with the Subtle Trait)"
           }
         ]
       },
@@ -23485,7 +23485,7 @@
               6,
               10
             ],
-            "text": "<p><strong>Daemonic Manifestation</strong>: The Geller Field is breached, and coruscating psychic energy surges through the decks, looping and warping into the manifestation of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.O9kga3ngGfFyIsze]{daemons}.</p>"
+            "text": "<p><strong>Daemonic Manifestation</strong>: The Geller Field is breached, and coruscating psychic energy surges through the decks, looping and warping into the manifestation of @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.O9kga3ngGfFyIsze]{daemons}.</p>"
           },
           {
             "id": "T2Sf9dxF6kU4Pewo",
@@ -23533,7 +23533,7 @@
               36,
               40
             ],
-            "text": "<p><strong>Psychic Pulse</strong>: The Geller Field crackles as a pulse of psychic energy forces all psykers aboard to succeed at a <strong>Psychic Mastery</strong> Test or roll on the @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.9aSbu2mswOOI43J1]{Psychic Phenomena} Table.</p>"
+            "text": "<p><strong>Psychic Pulse</strong>: The Geller Field crackles as a pulse of psychic energy forces all psykers aboard to succeed at a <strong>Psychic Mastery</strong> Test or roll on the @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.9aSbu2mswOOI43J1]{Psychic Phenomena} Table.</p>"
           },
           {
             "id": "bIJbFzqwHNddpGnF",
@@ -23699,7 +23699,7 @@
               16,
               16
             ],
-            "text": "<p>The vehicle is destroyed outright, quickly becoming an inferno. Everyone inside takes [[1d10+10]] damage to a random Hit Location and suffers the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Ablaze} Condition.</p>"
+            "text": "<p>The vehicle is destroyed outright, quickly becoming an inferno. Everyone inside takes [[1d10+10]] damage to a random Hit Location and suffers the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Ablaze} Condition.</p>"
           }
         ]
       },
@@ -23713,7 +23713,7 @@
               1,
               1
             ],
-            "text": "An @UUID[Compendium.navis-apexialis.navis-core-items.Item.dO7XoDXD9QYTy6zZ]{Auspex} containing scanning algorithms your mentor developed against the world’s prevailing techdogma"
+            "text": "An @UUID[Compendium.apex-imperialis.navis-core-items.Item.dO7XoDXD9QYTy6zZ]{Auspex} containing scanning algorithms your mentor developed against the world’s prevailing techdogma"
           },
           {
             "id": "4758ufxq8g4EUtRI",
@@ -23721,7 +23721,7 @@
               2,
               2
             ],
-            "text": "A palm-sized Cog Mechanicum symbol engraved, in binharic, with: ‘Failure teaches much, when the failure is not yours.’ (@UUID[Compendium.navis-apexialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Holy Icon})"
+            "text": "A palm-sized Cog Mechanicum symbol engraved, in binharic, with: ‘Failure teaches much, when the failure is not yours.’ (@UUID[Compendium.apex-imperialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Holy Icon})"
           },
           {
             "id": "c712iab2v9R36kGh",
@@ -23729,7 +23729,7 @@
               3,
               3
             ],
-            "text": "A vial of @UUID[Compendium.navis-apexialis.navis-core-items.Item.S8vLsphFt4PnjsHc]{Sacred Unguents}, bled with care from the last machine you repaired before recruitment"
+            "text": "A vial of @UUID[Compendium.apex-imperialis.navis-core-items.Item.S8vLsphFt4PnjsHc]{Sacred Unguents}, bled with care from the last machine you repaired before recruitment"
           },
           {
             "id": "dIX1wCMTbJrLAfTX",
@@ -23737,7 +23737,7 @@
               4,
               4
             ],
-            "text": "A large wrench (@UUID[Compendium.navis-apexialis.navis-core-items.Item.CrbE669FitnwNPZX]{Two-handed Improvised weapon}) covered in binharic script, gifted by your previous overseer"
+            "text": "A large wrench (@UUID[Compendium.apex-imperialis.navis-core-items.Item.CrbE669FitnwNPZX]{Two-handed Improvised weapon}) covered in binharic script, gifted by your previous overseer"
           },
           {
             "id": "zwtb2jsI3UbK7JNi",
@@ -23745,7 +23745,7 @@
               5,
               5
             ],
-            "text": "A @UUID[Compendium.navis-apexialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW]{Dataslate} that can only interface with and transfer data to or from vehicle cogitators"
+            "text": "A @UUID[Compendium.apex-imperialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW]{Dataslate} that can only interface with and transfer data to or from vehicle cogitators"
           },
           {
             "id": "416NRzZscApPBO7H",
@@ -23753,7 +23753,7 @@
               6,
               6
             ],
-            "text": "A @UUID[Compendium.navis-apexialis.navis-core-items.Item.NlduMbxJZrKejC9J]{Photo-visor} that belonged to a friend before they were promoted and blessed with augmetic optics"
+            "text": "A @UUID[Compendium.apex-imperialis.navis-core-items.Item.NlduMbxJZrKejC9J]{Photo-visor} that belonged to a friend before they were promoted and blessed with augmetic optics"
           },
           {
             "id": "7xFmRXcPv531s9aU",
@@ -23761,7 +23761,7 @@
               7,
               7
             ],
-            "text": "A crude @UUID[Compendium.navis-apexialis.navis-core-items.Item.zK3ii7HUPfnQGKtg]{Augmetic Arm}. It is Bulky and Shoddy, and your performance never warranted a superior upgrade"
+            "text": "A crude @UUID[Compendium.apex-imperialis.navis-core-items.Item.zK3ii7HUPfnQGKtg]{Augmetic Arm}. It is Bulky and Shoddy, and your performance never warranted a superior upgrade"
           },
           {
             "id": "EgvuDgpmx42G1VL3",
@@ -23769,7 +23769,7 @@
               8,
               8
             ],
-            "text": "A Bulky @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.Y6oJff3F4qo2Xhlx]{Data Interrogator} assembled from scrap. If your previous masters ever discovered it, your life would be forfeit"
+            "text": "A Bulky @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.Y6oJff3F4qo2Xhlx]{Data Interrogator} assembled from scrap. If your previous masters ever discovered it, your life would be forfeit"
           },
           {
             "id": "BNixTeVAu5SuWwRe",
@@ -23777,7 +23777,7 @@
               9,
               9
             ],
-            "text": "A Bulky, Ugly @UUID[Compendium.navis-apexialis.navis-requisition-actors.Actor.YoOntJBL0bm63ihX]{C.A.T Unit}, the cogitator of which is modelled on a loyal but stupid canid"
+            "text": "A Bulky, Ugly @UUID[Compendium.apex-imperialis.navis-requisition-actors.Actor.YoOntJBL0bm63ihX]{C.A.T Unit}, the cogitator of which is modelled on a loyal but stupid canid"
           },
           {
             "id": "p8ScoPQZwhOsNrtk",
@@ -23785,7 +23785,7 @@
               10,
               10
             ],
-            "text": "An @UUID[Compendium.navis-apexialis.navis-requisition-items.Item.5M7cneBoJANBJ9f6]{Internal Compartment}. You cannot find any record or reason as to why you were bestowed this quasi-legal augmetic"
+            "text": "An @UUID[Compendium.apex-imperialis.navis-requisition-items.Item.5M7cneBoJANBJ9f6]{Internal Compartment}. You cannot find any record or reason as to why you were bestowed this quasi-legal augmetic"
           }
         ]
       },
@@ -23815,7 +23815,7 @@
               3,
               3
             ],
-            "text": "<p><strong>Alone In The Dark</strong>: Once per encounter, when you make a Move Action while in, or into, a Zone that is <em>Dark</em>, <em>Obscured</em>, or <em>Poorly Lit</em>, you must roll on the @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Fumble} Table. </p>"
+            "text": "<p><strong>Alone In The Dark</strong>: Once per encounter, when you make a Move Action while in, or into, a Zone that is <em>Dark</em>, <em>Obscured</em>, or <em>Poorly Lit</em>, you must roll on the @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Fumble} Table. </p>"
           },
           {
             "id": "ppA3UBrdazViBHSP",
@@ -23855,7 +23855,7 @@
               8,
               8
             ],
-            "text": "<p><strong>Ungainly</strong>: Once per encounter, when you take the <strong>Run</strong> Action, roll a <span style=\"font-family:Arial,sans-serif\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-99c35c7e-7fff-5b83-d865-3af1a9cb94d2\">[[/r d10]]</strong></span>. On a 10, you must roll on the @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Fumble} Table. </p>"
+            "text": "<p><strong>Ungainly</strong>: Once per encounter, when you take the <strong>Run</strong> Action, roll a <span style=\"font-family:Arial,sans-serif\"><strong style=\"font-weight:normal\" id=\"docs-internal-guid-99c35c7e-7fff-5b83-d865-3af1a9cb94d2\">[[/r d10]]</strong></span>. On a 10, you must roll on the @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Fumble} Table. </p>"
           },
           {
             "id": "jDnMQ2zizH5ZVcAj",
@@ -23885,7 +23885,7 @@
               1,
               1
             ],
-            "text": "A @UUID[Compendium.navis-apexialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Holy Icon} carved from the bones of a lauded and pious great-grandparent"
+            "text": "A @UUID[Compendium.apex-imperialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Holy Icon} carved from the bones of a lauded and pious great-grandparent"
           },
           {
             "id": "4758ufxq8g4EUtRI",
@@ -23901,7 +23901,7 @@
               3,
               3
             ],
-            "text": "A @UUID[Compendium.navis-apexialis.navis-requisition-items.Item.TNpIkOqRIZYDfyQh]{Book} made entirely of vellum, containing the lessons of a little known Imperial Saint, teaching that, one way or another, all serve the God-Emperor"
+            "text": "A @UUID[Compendium.apex-imperialis.navis-requisition-items.Item.TNpIkOqRIZYDfyQh]{Book} made entirely of vellum, containing the lessons of a little known Imperial Saint, teaching that, one way or another, all serve the God-Emperor"
           },
           {
             "id": "dIX1wCMTbJrLAfTX",
@@ -23917,7 +23917,7 @@
               5,
               5
             ],
-            "text": "A @UUID[Compendium.navis-apexialis.navis-core-items.Item.B55qG1YQTS9IyuTm]{Backpack} with barbed straps, to teach that the God-Emperor carries the greatest burden of all"
+            "text": "A @UUID[Compendium.apex-imperialis.navis-core-items.Item.B55qG1YQTS9IyuTm]{Backpack} with barbed straps, to teach that the God-Emperor carries the greatest burden of all"
           },
           {
             "id": "416NRzZscApPBO7H",
@@ -23933,7 +23933,7 @@
               7,
               7
             ],
-            "text": "Life of Lord Solar Macharius (@UUID[Compendium.navis-apexialis.navis-requisition-items.Item.VhJCmVa9cRWb2seD]{Book}), with additional notes from scholars of a sect known for skirting the bounds of orthodoxy"
+            "text": "Life of Lord Solar Macharius (@UUID[Compendium.apex-imperialis.navis-requisition-items.Item.VhJCmVa9cRWb2seD]{Book}), with additional notes from scholars of a sect known for skirting the bounds of orthodoxy"
           },
           {
             "id": "EgvuDgpmx42G1VL3",
@@ -23941,7 +23941,7 @@
               8,
               8
             ],
-            "text": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.OdTP4DEK3oGAjMWZ]{Filtration Plugs} laced with incense, to guard against the unclean air of less holy worlds"
+            "text": "@UUID[Compendium.apex-imperialis.navis-core-items.Item.OdTP4DEK3oGAjMWZ]{Filtration Plugs} laced with incense, to guard against the unclean air of less holy worlds"
           },
           {
             "id": "BNixTeVAu5SuWwRe",
@@ -23949,7 +23949,7 @@
               9,
               9
             ],
-            "text": "A @UUID[Compendium.navis-apexialis.navis-core-items.Item.1LgXZfag35FhcNoj]{Stablight} which shines through a stencil of the Macharius coat of arms"
+            "text": "A @UUID[Compendium.apex-imperialis.navis-core-items.Item.1LgXZfag35FhcNoj]{Stablight} which shines through a stencil of the Macharius coat of arms"
           },
           {
             "id": "p8ScoPQZwhOsNrtk",
@@ -23957,7 +23957,7 @@
               10,
               10
             ],
-            "text": "A @UUID[Compendium.navis-apexialis.navis-requisition-actors.Actor.y14EVxOEE4iRPMAv]{Tome Skull}. On the lectern is carved ‘Trust not your eyes in an age of darkness."
+            "text": "A @UUID[Compendium.apex-imperialis.navis-requisition-actors.Actor.y14EVxOEE4iRPMAv]{Tome Skull}. On the lectern is carved ‘Trust not your eyes in an age of darkness."
           }
         ]
       },
@@ -23971,7 +23971,7 @@
               1,
               1
             ],
-            "text": "A @UUID[Compendium.navis-apexialis.navis-core-items.Item.Aw29y9tfO4Uc9uWb]{Chrono} engraved by your progenium master, stating ‘The God-Emperor has no time for mercy.’"
+            "text": "A @UUID[Compendium.apex-imperialis.navis-core-items.Item.Aw29y9tfO4Uc9uWb]{Chrono} engraved by your progenium master, stating ‘The God-Emperor has no time for mercy.’"
           },
           {
             "id": "4758ufxq8g4EUtRI",
@@ -23987,7 +23987,7 @@
               3,
               3
             ],
-            "text": "A @UUID[Compendium.navis-apexialis.navis-requisition-actors.Actor.ktUPQsWbSxgxXW4k.Item.N5qmWLUBBPrObKMi]{Laud Hailer} awarded in recognition of your clear, authoritative, and commanding voice"
+            "text": "A @UUID[Compendium.apex-imperialis.navis-requisition-actors.Actor.ktUPQsWbSxgxXW4k.Item.N5qmWLUBBPrObKMi]{Laud Hailer} awarded in recognition of your clear, authoritative, and commanding voice"
           },
           {
             "id": "dIX1wCMTbJrLAfTX",
@@ -23995,7 +23995,7 @@
               4,
               4
             ],
-            "text": "The @UUID[Compendium.navis-apexialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{Knife} of your Drill Abbot’s former regiment, bearing the motto ‘Seldom Seen; Ever Deadly'"
+            "text": "The @UUID[Compendium.apex-imperialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{Knife} of your Drill Abbot’s former regiment, bearing the motto ‘Seldom Seen; Ever Deadly'"
           },
           {
             "id": "zwtb2jsI3UbK7JNi",
@@ -24011,7 +24011,7 @@
               6,
               6
             ],
-            "text": "A @UUID[Compendium.navis-apexialis.navis-requisition-items.Item.MpshKI9nR0LNYuDU]{Biocoded Holster} bearing the inscription ‘Faith alone can overturn the galaxy’"
+            "text": "A @UUID[Compendium.apex-imperialis.navis-requisition-items.Item.MpshKI9nR0LNYuDU]{Biocoded Holster} bearing the inscription ‘Faith alone can overturn the galaxy’"
           },
           {
             "id": "7xFmRXcPv531s9aU",
@@ -24019,7 +24019,7 @@
               7,
               7
             ],
-            "text": "The Ugly @UUID[Compendium.navis-apexialis.navis-core-items.Item.DSKAdYMPRHvadLZz]{Shock Maul} your instructor used to discipline trainees"
+            "text": "The Ugly @UUID[Compendium.apex-imperialis.navis-core-items.Item.DSKAdYMPRHvadLZz]{Shock Maul} your instructor used to discipline trainees"
           },
           {
             "id": "EgvuDgpmx42G1VL3",
@@ -24035,7 +24035,7 @@
               9,
               9
             ],
-            "text": "A Smokecloak @UUID[Compendium.navis-apexialis.navis-requisition-items.Item.9bjSHPN7bX4cFw6V]{Heat Shroud} gifted by your instructor, who served in a stealth-focused Militarum regiment"
+            "text": "A Smokecloak @UUID[Compendium.apex-imperialis.navis-requisition-items.Item.9bjSHPN7bX4cFw6V]{Heat Shroud} gifted by your instructor, who served in a stealth-focused Militarum regiment"
           },
           {
             "id": "p8ScoPQZwhOsNrtk",
@@ -24043,7 +24043,7 @@
               10,
               10
             ],
-            "text": "A @UUID[Compendium.navis-apexialis.navis-requisition-items.Item.Rm5qg30z5kmLCJVs]{Skinplant} featuring a functioning @UUID[Compendium.navis-apexialis.navis-core-items.Item.Aw29y9tfO4Uc9uWb]{Chrono}, to ensure you would never forget the time."
+            "text": "A @UUID[Compendium.apex-imperialis.navis-requisition-items.Item.Rm5qg30z5kmLCJVs]{Skinplant} featuring a functioning @UUID[Compendium.apex-imperialis.navis-core-items.Item.Aw29y9tfO4Uc9uWb]{Chrono}, to ensure you would never forget the time."
           }
         ]
       },
@@ -24097,7 +24097,7 @@
               12,
               13
             ],
-            "text": "<p>Reduce the vehicle’s Armour by [[/r 1d5]] on either its front or side, as appropriate for the attack which caused this result. If the vehicle is travelling in a dangerous environment, such as a toxic atmosphere, or the void, this result creates a @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#hazard]{Minor Hazard} within the vehicle until the rupture is repaired.</p><p><strong>Control Test</strong>: Challenging (+0)</p>"
+            "text": "<p>Reduce the vehicle’s Armour by [[/r 1d5]] on either its front or side, as appropriate for the attack which caused this result. If the vehicle is travelling in a dangerous environment, such as a toxic atmosphere, or the void, this result creates a @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#hazard]{Minor Hazard} within the vehicle until the rupture is repaired.</p><p><strong>Control Test</strong>: Challenging (+0)</p>"
           },
           {
             "id": "GNrdfIZofm1KJBxh",
@@ -24113,7 +24113,7 @@
               16,
               16
             ],
-            "text": "<p>The vehicle is destroyed outright, falling to the ground in a blazing inferno. Everyone inside takes [[/r 1d10 + 10 # Damage]] Damage to a random Hit Location and suffers the@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Ablaze} Condition.</p>"
+            "text": "<p>The vehicle is destroyed outright, falling to the ground in a blazing inferno. Everyone inside takes [[/r 1d10 + 10 # Damage]] Damage to a random Hit Location and suffers the@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Ablaze} Condition.</p>"
           }
         ]
       },
@@ -24127,7 +24127,7 @@
               1,
               1
             ],
-            "text": "<p><strong>Disgruntled Spirit</strong>: When you gain 1 or more Corruption, the next time you use this weapon, you must roll on the @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Fumble} Table.</p>"
+            "text": "<p><strong>Disgruntled Spirit</strong>: When you gain 1 or more Corruption, the next time you use this weapon, you must roll on the @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Fumble} Table.</p>"
           },
           {
             "id": "vkBOdc5EQlFdoNvO",
@@ -24167,7 +24167,7 @@
               6,
               6
             ],
-            "text": "<p><strong>Surrounded</strong>: Once per encounter, the first time you use this weapon while Outnumbered, you must roll on the @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Fumble} Table.</p>"
+            "text": "<p><strong>Surrounded</strong>: Once per encounter, the first time you use this weapon while Outnumbered, you must roll on the @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.HL6DtTGWIUQy5NZ9]{Fumble} Table.</p>"
           },
           {
             "id": "ySee4yw1DsHxAXBh",
@@ -24213,7 +24213,7 @@
               1,
               1
             ],
-            "text": "A fraying @UUID[Compendium.navis-apexialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Holy Icon} in the form of the Aquila, woven from straw"
+            "text": "A fraying @UUID[Compendium.apex-imperialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Holy Icon} in the form of the Aquila, woven from straw"
           },
           {
             "id": "4758ufxq8g4EUtRI",
@@ -24614,7 +24614,7 @@
               36,
               40
             ],
-            "text": "<p><strong>Inhabited Derelict</strong>: A drifting, damaged vessel, although scanners show some signs of life within. Such vessels are often dens for xenos horrors the likes of @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.KvLrPAQ0gmIWSvfX]{Purestrain Genestealers}</p>"
+            "text": "<p><strong>Inhabited Derelict</strong>: A drifting, damaged vessel, although scanners show some signs of life within. Such vessels are often dens for xenos horrors the likes of @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.KvLrPAQ0gmIWSvfX]{Purestrain Genestealers}</p>"
           },
           {
             "id": "bIJbFzqwHNddpGnF",
@@ -24724,7 +24724,7 @@
               1,
               1
             ],
-            "text": "A dagger carved from stone chipped off a void kraken that almost devoured your ship a century ago (@UUID[Compendium.navis-apexialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{Knife})"
+            "text": "A dagger carved from stone chipped off a void kraken that almost devoured your ship a century ago (@UUID[Compendium.apex-imperialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{Knife})"
           },
           {
             "id": "4758ufxq8g4EUtRI",
@@ -24732,7 +24732,7 @@
               2,
               2
             ],
-            "text": "A @UUID[Compendium.navis-apexialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Holy Icon} made of bent wire and scrap, beseeching voidship machine spirits to guard against decompression"
+            "text": "A @UUID[Compendium.apex-imperialis.navis-core-items.Item.oaY0wS7LewD6DXK6]{Holy Icon} made of bent wire and scrap, beseeching voidship machine spirits to guard against decompression"
           },
           {
             "id": "c712iab2v9R36kGh",
@@ -24740,7 +24740,7 @@
               3,
               3
             ],
-            "text": "An Ugly @UUID[Compendium.navis-apexialis.navis-core-items.Item.YKdnnpcXv14ITvE5]{Void Suit}, decorated with the bones of Human pirates who failed to capture your ship"
+            "text": "An Ugly @UUID[Compendium.apex-imperialis.navis-core-items.Item.YKdnnpcXv14ITvE5]{Void Suit}, decorated with the bones of Human pirates who failed to capture your ship"
           },
           {
             "id": "dIX1wCMTbJrLAfTX",
@@ -24748,7 +24748,7 @@
               4,
               4
             ],
-            "text": "A @UUID[Compendium.navis-apexialis.navis-core-items.Item.16DWBUHaqigUg0ZT]{Rebreather}. Centuries of patches and repairs have made it Bulky and Ugly, but it is proven to be Durable"
+            "text": "A @UUID[Compendium.apex-imperialis.navis-core-items.Item.16DWBUHaqigUg0ZT]{Rebreather}. Centuries of patches and repairs have made it Bulky and Ugly, but it is proven to be Durable"
           },
           {
             "id": "zwtb2jsI3UbK7JNi",
@@ -24756,7 +24756,7 @@
               5,
               5
             ],
-            "text": "A Bulky, Unreliable @UUID[Compendium.navis-apexialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW]{Dataslate}, allegedly reinforced due to the previous owner’s clumsiness"
+            "text": "A Bulky, Unreliable @UUID[Compendium.apex-imperialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW]{Dataslate}, allegedly reinforced due to the previous owner’s clumsiness"
           },
           {
             "id": "416NRzZscApPBO7H",
@@ -24764,7 +24764,7 @@
               6,
               6
             ],
-            "text": "A Shoddy @UUID[Compendium.navis-apexialis.navis-core-items.Item.Yp1Fmiml09wxHj4h]{Vox-Bead}. All channels suffer from bleed-through of irritating noospheric chatter, unintelligible to all but ranking Tech-Priests"
+            "text": "A Shoddy @UUID[Compendium.apex-imperialis.navis-core-items.Item.Yp1Fmiml09wxHj4h]{Vox-Bead}. All channels suffer from bleed-through of irritating noospheric chatter, unintelligible to all but ranking Tech-Priests"
           },
           {
             "id": "7xFmRXcPv531s9aU",
@@ -24772,7 +24772,7 @@
               7,
               7
             ],
-            "text": "A pair of Bulky @UUID[Compendium.navis-apexialis.navis-core-items.Item.OjLq7yDUPG8TpISi]{Choke Grenades}, jury-rigged from fire suppressants during an attempted mutiny"
+            "text": "A pair of Bulky @UUID[Compendium.apex-imperialis.navis-core-items.Item.OjLq7yDUPG8TpISi]{Choke Grenades}, jury-rigged from fire suppressants during an attempted mutiny"
           },
           {
             "id": "EgvuDgpmx42G1VL3",
@@ -24780,7 +24780,7 @@
               8,
               8
             ],
-            "text": "A @UUID[Compendium.navis-apexialis.navis-core-items.Item.Aw29y9tfO4Uc9uWb]{Chrono} that always shows local time for the last voidship you were aboard"
+            "text": "A @UUID[Compendium.apex-imperialis.navis-core-items.Item.Aw29y9tfO4Uc9uWb]{Chrono} that always shows local time for the last voidship you were aboard"
           },
           {
             "id": "BNixTeVAu5SuWwRe",
@@ -24796,7 +24796,7 @@
               10,
               10
             ],
-            "text": "A Shoddy, Ugly @UUID[Compendium.navis-apexialis.navis-core-items.Item.8OPStKOqQK9l08ix]{Xenos Hide Vest}, made from scraps thrown away by the command staff"
+            "text": "A Shoddy, Ugly @UUID[Compendium.apex-imperialis.navis-core-items.Item.8OPStKOqQK9l08ix]{Xenos Hide Vest}, made from scraps thrown away by the command staff"
           }
         ]
       },
@@ -24888,7 +24888,7 @@
       }
     }
   },
-  "navis-apexialis.navis-species": {
+  "apex-imperialis.navis-species": {
     "label": "Species",
     "documentName": "Item",
     "entries": {
@@ -24913,43 +24913,43 @@
         "name": "Astartes Power Armour"
       },
       "navisSpSub000001": {
-        "type": "navis-apexialis.subspecies",
+        "type": "apex-imperialis.subspecies",
         "name": "Mutant"
       },
       "navisSpSub000002": {
-        "type": "navis-apexialis.subspecies",
+        "type": "apex-imperialis.subspecies",
         "name": "Blunted"
       },
       "navisSpSub000003": {
-        "type": "navis-apexialis.subspecies",
+        "type": "apex-imperialis.subspecies",
         "name": "Afriel Strain"
       },
       "navisSpSub000004": {
-        "type": "navis-apexialis.subspecies",
+        "type": "apex-imperialis.subspecies",
         "name": "Heir"
       },
       "navisSpSub000005": {
-        "type": "navis-apexialis.subspecies",
+        "type": "apex-imperialis.subspecies",
         "name": "Pariah"
       },
       "navisSpSub000006": {
-        "type": "navis-apexialis.subspecies",
+        "type": "apex-imperialis.subspecies",
         "name": "Discordant"
       },
       "navisSpSub000007": {
-        "type": "navis-apexialis.subspecies",
+        "type": "apex-imperialis.subspecies",
         "name": "Slaangor"
       },
       "navisSpSub000008": {
-        "type": "navis-apexialis.subspecies",
+        "type": "apex-imperialis.subspecies",
         "name": "Pestigor"
       },
       "navisSpSub000009": {
-        "type": "navis-apexialis.subspecies",
+        "type": "apex-imperialis.subspecies",
         "name": "Khorngor"
       },
       "navisSpSub000010": {
-        "type": "navis-apexialis.subspecies",
+        "type": "apex-imperialis.subspecies",
         "name": "Tzaangor"
       },
       "navisSpTrait0001": {
@@ -25137,48 +25137,48 @@
         "name": "Schemer"
       },
       "navisSpc00000001": {
-        "type": "navis-apexialis.species",
+        "type": "apex-imperialis.species",
         "name": "Human"
       },
       "navisSpc00000002": {
-        "type": "navis-apexialis.species",
+        "type": "apex-imperialis.species",
         "name": "Ogryn"
       },
       "navisSpc00000003": {
-        "type": "navis-apexialis.species",
+        "type": "apex-imperialis.species",
         "name": "Ratling"
       },
       "navisSpc00000004": {
-        "type": "navis-apexialis.species",
+        "type": "apex-imperialis.species",
         "name": "Squat"
       },
       "navisSpc00000005": {
-        "type": "navis-apexialis.species",
+        "type": "apex-imperialis.species",
         "name": "Beastman"
       },
       "navisSpc00000006": {
-        "type": "navis-apexialis.species",
+        "type": "apex-imperialis.species",
         "name": "Harpy"
       },
       "navisSpc00000007": {
-        "type": "navis-apexialis.species",
+        "type": "apex-imperialis.species",
         "name": "Naga"
       },
       "navisSpc00000008": {
-        "type": "navis-apexialis.species",
+        "type": "apex-imperialis.species",
         "name": "Splice"
       },
       "navisSpc00000009": {
-        "type": "navis-apexialis.species",
+        "type": "apex-imperialis.species",
         "name": "Replicant"
       },
       "navisSpc00000010": {
-        "type": "navis-apexialis.species",
+        "type": "apex-imperialis.species",
         "name": "Space Marine"
       }
     }
   },
-  "navis-apexialis.navis-talents": {
+  "apex-imperialis.navis-talents": {
     "label": "Таланты",
     "documentName": "Item",
     "entries": {
@@ -26076,7 +26076,7 @@
       }
     }
   },
-  "navis-apexialis.navis-bestiary": {
+  "apex-imperialis.navis-bestiary": {
     "label": "Бестиарий",
     "documentName": "Actor",
     "entries": {
@@ -27710,7 +27710,7 @@
       }
     }
   },
-  "navis-apexialis.navis-rules": {
+  "apex-imperialis.navis-rules": {
     "label": "Rules",
     "documentName": "JournalEntry",
     "entries": {
@@ -28840,7 +28840,7 @@
               1,
               17
             ],
-            "text": "<p>A Human captive hangs from a rope in a dead-end tunnel. They’re still alive, kicking and cursing, trying to get free. If the characters release them, they attack the party with nothing but their elongated teeth and nails. They’ve already been touched by Chaos, infused with manic strength (use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{Manufactorum Labourer} stat-block to represent them, but increase their strength by 15 and they have the following attack — Tooth and Nail: Melee (Brawling) 40, 1 + SL difference Damage. Penetrating (4).</p>"
+            "text": "<p>A Human captive hangs from a rope in a dead-end tunnel. They’re still alive, kicking and cursing, trying to get free. If the characters release them, they attack the party with nothing but their elongated teeth and nails. They’ve already been touched by Chaos, infused with manic strength (use the @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{Manufactorum Labourer} stat-block to represent them, but increase their strength by 15 and they have the following attack — Tooth and Nail: Melee (Brawling) 40, 1 + SL difference Damage. Penetrating (4).</p>"
           },
           {
             "id": "YihIslnEAs2BmVnk",
@@ -28848,7 +28848,7 @@
               18,
               33
             ],
-            "text": "<p>A mutated captive, consumed by rage and madness, roams the tunnels, a victim of the Shaman’s rites (Use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.utelXH1DahFI5iHt]{Accursed Cultist} stat-block to represent them).</p>"
+            "text": "<p>A mutated captive, consumed by rage and madness, roams the tunnels, a victim of the Shaman’s rites (Use the @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.utelXH1DahFI5iHt]{Accursed Cultist} stat-block to represent them).</p>"
           },
           {
             "id": "fkYl429dwiHiTHv6",
@@ -28872,7 +28872,7 @@
               67,
               83
             ],
-            "text": "<p>A @UUID[Actor.ri94quNUXFjXfjI3]{Beastman} has fallen foul of the ravages of Chaos and become a @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.7GvkaaVAd69ORno0]{Chaos Spawn}. This creature bleats and screams as it passes through the tunnels, so the party should be able to avoid its path. It has no eyes, but if it hears them, it pursues relentlessly and attacks.</p>"
+            "text": "<p>A @UUID[Actor.ri94quNUXFjXfjI3]{Beastman} has fallen foul of the ravages of Chaos and become a @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.7GvkaaVAd69ORno0]{Chaos Spawn}. This creature bleats and screams as it passes through the tunnels, so the party should be able to avoid its path. It has no eyes, but if it hears them, it pursues relentlessly and attacks.</p>"
           },
           {
             "id": "M4PXMqIoAC9taIJr",
@@ -29012,7 +29012,7 @@
               14,
               14
             ],
-            "text": "<p>You suffer a hideous mutation! At the end of the encounter, roll on the @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.aHz4wSCM8ogTVOhT]{Mutations Table}.</p>"
+            "text": "<p>You suffer a hideous mutation! At the end of the encounter, roll on the @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.aHz4wSCM8ogTVOhT]{Mutations Table}.</p>"
           },
           {
             "id": "xlVa83qhBex4babl",
@@ -29020,7 +29020,7 @@
               15,
               15
             ],
-            "text": "<p>This particular mix of Rejuvenat seems to have some effect. At the end of the encounter, you gain the @UUID[Compendium.navis-apexialis.navis-core-items.Item.gLYbTQPGuxwSPURo]{Inhuman Beauty} Mutation.</p>"
+            "text": "<p>This particular mix of Rejuvenat seems to have some effect. At the end of the encounter, you gain the @UUID[Compendium.apex-imperialis.navis-core-items.Item.gLYbTQPGuxwSPURo]{Inhuman Beauty} Mutation.</p>"
           }
         ]
       },
@@ -29088,7 +29088,7 @@
               1,
               17
             ],
-            "text": "<p>A Human captive hangs from a rope in a dead-end tunnel. They’re still alive, kicking and cursing, trying to get free. If the characters release them, they attack the party with nothing but their elongated teeth and nails. They’ve already been touched by Chaos, infused with manic strength (use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{Manufactorum Labourer} stat-block to represent them, but increase their strength by 15 and they have the following attack — Tooth and Nail: Melee (Brawling) 40, 1 + SL difference Damage. Penetrating (4).</p>"
+            "text": "<p>A Human captive hangs from a rope in a dead-end tunnel. They’re still alive, kicking and cursing, trying to get free. If the characters release them, they attack the party with nothing but their elongated teeth and nails. They’ve already been touched by Chaos, infused with manic strength (use the @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{Manufactorum Labourer} stat-block to represent them, but increase their strength by 15 and they have the following attack — Tooth and Nail: Melee (Brawling) 40, 1 + SL difference Damage. Penetrating (4).</p>"
           },
           {
             "id": "YihIslnEAs2BmVnk",
@@ -29096,7 +29096,7 @@
               18,
               33
             ],
-            "text": "<p>A mutated captive, consumed by rage and madness, roams the tunnels, a victim of the Shaman’s rites (Use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.utelXH1DahFI5iHt]{Accursed Cultist} stat-block to represent them).</p>"
+            "text": "<p>A mutated captive, consumed by rage and madness, roams the tunnels, a victim of the Shaman’s rites (Use the @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.utelXH1DahFI5iHt]{Accursed Cultist} stat-block to represent them).</p>"
           },
           {
             "id": "fkYl429dwiHiTHv6",
@@ -29120,7 +29120,7 @@
               67,
               83
             ],
-            "text": "<p>A @UUID[Actor.ri94quNUXFjXfjI3]{Beastman} has fallen foul of the ravages of Chaos and become a @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.7GvkaaVAd69ORno0]{Chaos Spawn}. This creature bleats and screams as it passes through the tunnels, so the party should be able to avoid its path. It has no eyes, but if it hears them, it pursues relentlessly and attacks.</p>"
+            "text": "<p>A @UUID[Actor.ri94quNUXFjXfjI3]{Beastman} has fallen foul of the ravages of Chaos and become a @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.7GvkaaVAd69ORno0]{Chaos Spawn}. This creature bleats and screams as it passes through the tunnels, so the party should be able to avoid its path. It has no eyes, but if it hears them, it pursues relentlessly and attacks.</p>"
           },
           {
             "id": "M4PXMqIoAC9taIJr",
@@ -29228,7 +29228,7 @@
               1,
               17
             ],
-            "text": "<p>A Human captive hangs from a rope in a dead-end tunnel. They’re still alive, kicking and cursing, trying to get free. If the characters release them, they attack the party with nothing but their elongated teeth and nails. They’ve already been touched by Chaos, infused with manic strength (use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{Manufactorum Labourer} stat-block to represent them, but increase their strength by 15 and they have the following attack — Tooth and Nail: Melee (Brawling) 40, 1 + SL difference Damage. Penetrating (4).</p>"
+            "text": "<p>A Human captive hangs from a rope in a dead-end tunnel. They’re still alive, kicking and cursing, trying to get free. If the characters release them, they attack the party with nothing but their elongated teeth and nails. They’ve already been touched by Chaos, infused with manic strength (use the @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{Manufactorum Labourer} stat-block to represent them, but increase their strength by 15 and they have the following attack — Tooth and Nail: Melee (Brawling) 40, 1 + SL difference Damage. Penetrating (4).</p>"
           },
           {
             "id": "YihIslnEAs2BmVnk",
@@ -29236,7 +29236,7 @@
               18,
               33
             ],
-            "text": "<p>A mutated captive, consumed by rage and madness, roams the tunnels, a victim of the Shaman’s rites (Use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.utelXH1DahFI5iHt]{Accursed Cultist} stat-block to represent them).</p>"
+            "text": "<p>A mutated captive, consumed by rage and madness, roams the tunnels, a victim of the Shaman’s rites (Use the @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.utelXH1DahFI5iHt]{Accursed Cultist} stat-block to represent them).</p>"
           },
           {
             "id": "fkYl429dwiHiTHv6",
@@ -29260,7 +29260,7 @@
               67,
               83
             ],
-            "text": "<p>A @UUID[Actor.ri94quNUXFjXfjI3]{Beastman} has fallen foul of the ravages of Chaos and become a @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.7GvkaaVAd69ORno0]{Chaos Spawn}. This creature bleats and screams as it passes through the tunnels, so the party should be able to avoid its path. It has no eyes, but if it hears them, it pursues relentlessly and attacks.</p>"
+            "text": "<p>A @UUID[Actor.ri94quNUXFjXfjI3]{Beastman} has fallen foul of the ravages of Chaos and become a @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.7GvkaaVAd69ORno0]{Chaos Spawn}. This creature bleats and screams as it passes through the tunnels, so the party should be able to avoid its path. It has no eyes, but if it hears them, it pursues relentlessly and attacks.</p>"
           },
           {
             "id": "M4PXMqIoAC9taIJr",
@@ -29282,7 +29282,7 @@
               1,
               1
             ],
-            "text": "<p>@UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.0sTvCVRuh5Wpawt9]{The Eye of Voll}- Industrial action in planetary region Gamma-74 threatens to delay Rokarth’s tithe contributions. Some say this is the work of a mysterious cult leader who seeks to challenge the status quo.</p>"
+            "text": "<p>@UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.0sTvCVRuh5Wpawt9]{The Eye of Voll}- Industrial action in planetary region Gamma-74 threatens to delay Rokarth’s tithe contributions. Some say this is the work of a mysterious cult leader who seeks to challenge the status quo.</p>"
           },
           {
             "id": "egQXxyGkgRkX1c4j",
@@ -29290,7 +29290,7 @@
               2,
               2
             ],
-            "text": "<p>@UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.0sTvCVRuh5Wpawt9]{The Eye of Voll}- There is a healer out in the wastes to the west that can heal any injury. Some believe he is an Imperial Saint, blessed by the God-Emperor.</p>"
+            "text": "<p>@UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.0sTvCVRuh5Wpawt9]{The Eye of Voll}- There is a healer out in the wastes to the west that can heal any injury. Some believe he is an Imperial Saint, blessed by the God-Emperor.</p>"
           },
           {
             "id": "qCg9mlH5cIGcyPD0",
@@ -29298,7 +29298,7 @@
               3,
               3
             ],
-            "text": "<p>@UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.DSccO5miF7LSJCVS]{Illicit Fabrications}- The Adeptus Mechanicus deem the destruction of a manufactorum in the lower hive unsatisfactory. Its output supplied Rokarth's nobility with key rejuvenat reagents and was an invaluable asset to Mechanicus sovereignty on Voll. The disappearance of the primary Tech-Priest overseer is also deemed sub optimal.</p>"
+            "text": "<p>@UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.DSccO5miF7LSJCVS]{Illicit Fabrications}- The Adeptus Mechanicus deem the destruction of a manufactorum in the lower hive unsatisfactory. Its output supplied Rokarth's nobility with key rejuvenat reagents and was an invaluable asset to Mechanicus sovereignty on Voll. The disappearance of the primary Tech-Priest overseer is also deemed sub optimal.</p>"
           },
           {
             "id": "qC8SfOShjkNEuUiq",
@@ -29306,7 +29306,7 @@
               4,
               4
             ],
-            "text": "<p>@UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.DSccO5miF7LSJCVS]{Illicit Fabrications}- Citizens are mourning in the wake of Manufactorum Vitus-II’s sudden destruction. Moreover, they’re starting to report sightings of mutants lurking around the area.</p>"
+            "text": "<p>@UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.DSccO5miF7LSJCVS]{Illicit Fabrications}- Citizens are mourning in the wake of Manufactorum Vitus-II’s sudden destruction. Moreover, they’re starting to report sightings of mutants lurking around the area.</p>"
           },
           {
             "id": "j0AkHjdjAS815SU0",
@@ -29314,7 +29314,7 @@
               5,
               5
             ],
-            "text": "<p>@UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.yAAIQKv8lK49HRLz]{Implacable}- A wave of murders threatens the Halion’s Triumph celebrations. Whoever is in charge is facing concerns that the hive-wide festivities should be postponed until these murders are solved.</p>"
+            "text": "<p>@UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.yAAIQKv8lK49HRLz]{Implacable}- A wave of murders threatens the Halion’s Triumph celebrations. Whoever is in charge is facing concerns that the hive-wide festivities should be postponed until these murders are solved.</p>"
           },
           {
             "id": "nuDkYxuBpvATFxck",
@@ -29322,7 +29322,7 @@
               6,
               6
             ],
-            "text": "<p>@UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.yAAIQKv8lK49HRLz]{Implacable}- A rapidly growing death cult known as the Vertexis is quickly gaining power and popularity. People think they are building towards something sinister, and the clock is ticking.</p>"
+            "text": "<p>@UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.yAAIQKv8lK49HRLz]{Implacable}- A rapidly growing death cult known as the Vertexis is quickly gaining power and popularity. People think they are building towards something sinister, and the clock is ticking.</p>"
           },
           {
             "id": "fagulrTkb52ClY0r",
@@ -29330,7 +29330,7 @@
               7,
               7
             ],
-            "text": "<p>@UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.QbQ7dTzbEVJyBLXJ]{Interminable Devotion}- A wayward scion of House Nethecaré has been missing for some time, yet the noble house only became aware of their absence because of the resources this person stole.</p>"
+            "text": "<p>@UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.QbQ7dTzbEVJyBLXJ]{Interminable Devotion}- A wayward scion of House Nethecaré has been missing for some time, yet the noble house only became aware of their absence because of the resources this person stole.</p>"
           },
           {
             "id": "J141zVxc6cUXW2XV",
@@ -29338,7 +29338,7 @@
               8,
               8
             ],
-            "text": "<p>@UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.QbQ7dTzbEVJyBLXJ]{Interminable Devotion}- Some speak of an ancient Capitol Imperialis rumbling across Voll’s wastes, under the sway of House Nethecaré. To lay your eyes upon this super-heavy tank is a sight to behold.</p>"
+            "text": "<p>@UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.QbQ7dTzbEVJyBLXJ]{Interminable Devotion}- Some speak of an ancient Capitol Imperialis rumbling across Voll’s wastes, under the sway of House Nethecaré. To lay your eyes upon this super-heavy tank is a sight to behold.</p>"
           },
           {
             "id": "P6JxHDSUKtGngJ6y",
@@ -29346,7 +29346,7 @@
               9,
               9
             ],
-            "text": "<p>@UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.mOfAsI4kLKUGTLXd]{Paradigm Shift}- Sharks are circling one Lord Felputh. He is behind on tithe fulfilments, and has holdings over rejuvenat chemicals crucial to the extended lives of the highborn of Rokarth.</p>"
+            "text": "<p>@UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.mOfAsI4kLKUGTLXd]{Paradigm Shift}- Sharks are circling one Lord Felputh. He is behind on tithe fulfilments, and has holdings over rejuvenat chemicals crucial to the extended lives of the highborn of Rokarth.</p>"
           },
           {
             "id": "TZvGduSccr0XUDDM",
@@ -29354,7 +29354,7 @@
               10,
               10
             ],
-            "text": "<p>@UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.mOfAsI4kLKUGTLXd]{Paradigm Shift}- Another manufactorum up in flames! A few locals in surrounding districts report that some of their friends and family have gone missing.</p>"
+            "text": "<p>@UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.mOfAsI4kLKUGTLXd]{Paradigm Shift}- Another manufactorum up in flames! A few locals in surrounding districts report that some of their friends and family have gone missing.</p>"
           }
         ]
       },
@@ -29470,7 +29470,7 @@
               4,
               4
             ],
-            "text": "<p>Four @UUID[Actor.jSJkugzVGrfqbl9o]{Skitarii Vanguard} prepare to execute Malak Dross, a well-known local Infractionist, for refusing to give up the location of the missing Tech-Priest. He professes not to know what they are talking about. Arguing for Dross’s life requires a <strong>Challenging (+0) Rapport (Charm)</strong> or <strong>Logic (Investigation)</strong> Test, with success granting the characters a new Infractionist @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#personal-influence]{Contact}. Dross knows nothing about the missing Tech-Priest, but is a valuable guide to the Lower Hive hab slums.</p>"
+            "text": "<p>Four @UUID[Actor.jSJkugzVGrfqbl9o]{Skitarii Vanguard} prepare to execute Malak Dross, a well-known local Infractionist, for refusing to give up the location of the missing Tech-Priest. He professes not to know what they are talking about. Arguing for Dross’s life requires a <strong>Challenging (+0) Rapport (Charm)</strong> or <strong>Logic (Investigation)</strong> Test, with success granting the characters a new Infractionist @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#personal-influence]{Contact}. Dross knows nothing about the missing Tech-Priest, but is a valuable guide to the Lower Hive hab slums.</p>"
           },
           {
             "id": "pQYkca5MYd0Dvyao",
@@ -29478,7 +29478,7 @@
               5,
               5
             ],
-            "text": "<p>A few inebriated @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{Manufactorum Labourers} have gathered outside an illicit bar, heedless of the Skitarii's presence. They demand a few solars each from the characters, but back down if a character passes a <strong>Challenging (+0) Presence (Intimidation)</strong> or <strong>Rapport (Charm)</strong> Test.</p>"
+            "text": "<p>A few inebriated @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{Manufactorum Labourers} have gathered outside an illicit bar, heedless of the Skitarii's presence. They demand a few solars each from the characters, but back down if a character passes a <strong>Challenging (+0) Presence (Intimidation)</strong> or <strong>Rapport (Charm)</strong> Test.</p>"
           },
           {
             "id": "PcOQ4rPhjh9O3mEk",

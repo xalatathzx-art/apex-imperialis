@@ -14,96 +14,96 @@
    "ru": "драматично снять фальшивую личину\n(полагаясь на эффект неожиданности или раскрывая\nсебя как агента Инквизиции), чтобы враги оказались\nзахвачены внезапностью (стр. 199 книги правил).\nСвязь с фамильяром\nВы обладаете достаточными знаниями и подготовкой,\nчтобы получить фамильяра (см. стр. 100). Когда вы\nприобретаете этот талант в первый раз, вы можете\nустановить связь с обычным фамильяром (но самого\nфамильяра ещё предстоит найти или купить). Этот\nталант можно приобретать несколько раз. Приобретая\nего во второй раз, вы можете выбрать возможность\nуправлять киберфамильярами или псайбеамильярами, а приобретая в третий раз – освоить\nпоследний оставшийся тип. Вы можете приобрести\nлюбого фамильяра, с которым умеете работать\nблагодаря этому таланту. Если фамильяр принадлежит\nсразу к нескольким типам, вы должны уметь\nобращаться со всеми.\nЧутьё детектива\nТребования: два улучшения Логики (Следствие)\nБлагодарянаставникуилиличномуопытувынаучились\nдоверять инстинктам – порой они приводят вас к\nуликам, которые иначе было бы легко пропустить.\nВедя следствие или исследование, вы можете потратить\nочко судьбы, чтобы получить от ведущего подсказку о\nтом, куда идти дальше, как могут быть связаны улики\nили с кем стоит поговорить. Такая «помощь свыше»\nпринимаетформуудачнойдогадки,чтоможет привести\nвас к новым сведениям.\nподозрительность\nТребования: по два улучшения в Бдительности и\nЧутье\nСочетание психической закалки, непоколебимой\nверностиБогу-Императоруигорькогоопытавынуждает\nвас подозревать всех и вся и везде видеть происки\nксеносов и сил Хаоса. Двуличие и продажность – их\nвторая натура, а вы привыкли всегда быть настороже\nи ждать предательства. Вы получаете +1 успех к\nпроверкам Бдительности и Чутья, предпринятых\nпротив ксеносов и связанных с Хаосом существ, таких\nкак культисты, мутанты и демоны.\nотвращение\nТребования: три улучшения Дисциплины\nБлагодаря психической обработке и"
   },
   "10": {
-   "en": ", @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.ZoyVpQ2Wtbz5JA3x]{Talents}, for the complete rules about purchasing and using Talents.",
-   "ru": "ритуальному\nмеметическомувложениюлитургийиправедныхгимнов\nваши разум и душа стали устойчивее к разлагающему\nвлиянию. Вы так закалены верой, что столкновения\nсо скверной лишь вдохновляют вас сражаться ещё\nяростнее. Вы получаете преимущество в проверках\nСтойкости и Дисциплины, предпринимаемых для\nсопротивления порче.\n\nIV УМЕНИЯ, ТАЛАНТЫ И ПСИХОСИЛЫ\nТайные каналы связи\nВы умеете организовать тайную встречу или незаметно\nпередать зашифрованное сообщение и пароль. Ваши\nзнания позволяют получать помощь и выходить на\nсвязь с разными службами тайно и не привлекая\nвнимания. Когда вы в первый за задание делаете\nчтото, что вызывает потери секретности, эта потеря\nне происходит.\nНезаметная мутация\nЧто-товвашемгеномеделаетваснесовсемчеловекоми\nотдаляет от обычных людей – физически или духовно.\nПокровитель может закрывать на это глаза, а может\nвовсе не знать о вашей мутации. На первый взгляд вы\nвыглядите нормально. Но если кто-то дознается до\nправды, он (весьма вероятно) будет считать вас\nотродьем.\nКогда вы приобретаете этот талант, сделайте бросок\nпо столбцам полезных и вредных мутаций из таблицы\nниже. Эффект выпавших вам вариантов описан в\nтаблицах осквернений и мутаций на стр. 222-223\nкниги правил. Кроме того, всякий раз, когда вы\nполучаете мутацию или осквернение из-за накопленной\nпорчи, вы можете вместо этого получить одну\nслучайнуюполезнуюиоднуслучайнуювреднуюмутацию\nиз таблицы ниже (сделайте два броска; перебросьте\nкости, если выпадет дубль).\nЦифровой авгур\nТребования: три улучшения Безопасности (Техника)\nПройдяформальнуюподготовкуилиприбегнувкметоду\nпроб и ошибок, вы научились работать с системами\nбезопасности и их машинными духами. Вы получаете\nпреимущество на все проверки, предпринятые, чтобы\nопределить системы защиты и понять, на что они\nспособны, а также на все тесты, предпринятые для\nтого, чтобы взаимодействовать с этими системами,\nобойти их, вывести из строя или выудить из них\nбольше информации. Этот талант можно приобретать\nнесколько раз. Приобретая его во второй раз, вы\nполучаете следующее преимущество:\nВыходя из системы защиты или управления, к\nкоторой вы получали доступ, вы можете пройти\nпроверку Техники (Безопасность), чтобы стереть все\nсвидетельства ваших действий, очистить журналы\nдоступа и коды безопасности. Сложность проверки\nопределяет ведущий. Успех позволит замести следы,\nотчего посторонним будет сложнее понять, что система\nбыла взломана – вкупе с исчезновением всяких следов\nэто должно повлиять на изменение секретности.\nВсегда в тенях\nТребования: три улучшения Скрытности\nЖёсткие тренировки и пережитые опасности сделали\nскрытность и ложь вашей второй натурой. Вы\nигнорируете помехи на проверки Скрытности,\nвызванные текущим уровнем секретности.\nНЕЗАМЕТНЫЕ МУТАЦИИ\nк100 Полезные мутации Вредные мутации\n01–10 Тёмные видения (осквернение, 86–90) Вкус пепла (осквернение, 81–85)\n11–20 Металлическая плоть (мутация, 91–95) Ненормаль. аппетит (осквернение, 06–10)\n21–30 Нечеловеческая красота (мутация, 16–20) Обмороки (осквернение, 46–50)\n31–40 Железная кожа (мутация, 21–25) Бесконечный зуд (осквернение, 61–65)\n41–50 Световая непослед. (мутация, 76–80) Подозрит. дурнота (осквернение, 21–25)\n51–60 Псих. пробуждение (осквернение, 96–00) Распухший язык (мутация 86–90)\n61–70 Раздутый зверь (мутация, 41–45) Очарование смерти (осквернение, 51–55)\n71–80 Исцеление Варпом (мутация, 96–00) Едкая кровь (мутация, 31–35)\n81–90 Чутьё Варпа (осквернение, 66–70) Неизбывная паранойя (осквернение, 26–30)\n91–00 Колёса внутри колёс (осквернение, 56–60) Иссохшее тело (мутация, 06–10)\n\nIV УМЕНИЯ, ТАЛАНТЫ И ПСИХОСИЛЫ\nТы ничего не видел\nТребования: два улучшения в следующих умениях –\nЛогика (Следствие), Скрытность, Техника (Безасность).\nВы научились заметать следы или вовсе не оставлять\nих за собой. Когда вы покидаете какое-то место, рискуя\nпотерять секретность из-за своих действий там, вы\nможете попытаться избежать этого. Какая для этого\nнужна проверка – решать ведущему, который может\nвыбрать один из следующих вариантов:\n0 Логика (Следствие), чтобы уничтожить физические\nулики или замаскировать место боя под что-то менее\nподозрительное (скажем придать вашей удавшейся\nзасаде на еретиков вид обычного разбойного\nнападения).\n0 Скрытность, чтобы попасть в нужное место и\nпокинуть его, не привлекая внимания посторонних\nи зевак, чтобы замедлить распространение слухов\nили вовсе не давать пищи для них.\n0 Техника (Безопасность), чтобы очистить или\nуничтожить пикт-писцы и другие средства слежения\n– это вызовет подозрения, но узнать вас будет\nсложнее.\nЛюбая проверка Логики или Техники занимает не\nменьше десяти минут.\nНезаметный псайкер\nТребования: Сила воли 40, талант Псайкер и три\nулучшения Психического мастерства.\nСуровыетренировкинаучиливасгаситьсопутствующие\nпроявления вашего психического дара. Ваши\nпсихосилыменеезаметныдляпостороннихисвидетелей\n– особенно тех, кто не знает, как работают психосилы\nили не умеет распознавать псайкеров. Когда вы\nсовершаетебросокнапсихическиефеномены,отнимите\nот результата 10. Кроме того, если, творя психосилу, вы\nрискуете снизить секретность, предпримите среднюю\n(+0) проверку Скрытности. Успех означает, что вы\nпредотвращаете любые потери секретности от своих\nдействий.\nвместилище\nДобровольно или нет, вам довелось побывать\nвместилищем для демона и пережить болезненный\nэкзорцизм. Пережитое оставило на вашей душе шрамы,\nотравилосонкошмарамиисделалодушуглухойкэтому\nмиру. Инквизиция сочла вас полезным инструментом,\nно вы никогда не будете таким как прежде, а любой, кто\nузнает ваше прошлое, попытается убить вас на месте.\n0 Вы получаете -1 успех в проверках Товарищества;\nпустота души, которую оставил демон, делает вас\nотстранённым.\n0 Вы невосприимчивы к мутирующему воздействию\nпорчи.\n0 Вы получаете +1 успех в проверках Бдительности,\nпредпринятых, чтобы обнаружить демонические\nсущности или связанные с демонами феномены.\n0 Вы неуязвимы к повторной одержимости тем\nже самым демоническим существом.\nНесгибаемая воля\nТребования: Сила воли 40 и два улучшения\nДисциплины\nВ столкновении с противником вы выказываете\nжелезную силу воли. Она может происходить от\nпламенной веры, пройденных битв или опыта\nвыживания среди кошмара нижнего улья – так или\nиначе, вы знаете, как её применить. Потратив\nсвободное действие вы можете потратить очко судьбы,\nчтобы сконцентрироваться. При этом до конца сцены\nваш бонус Силы воли удваивается. @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.ZoyVpQ2Wtbz5JA3x]{Talents}"
+   "en": ", @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.ZoyVpQ2Wtbz5JA3x]{Talents}, for the complete rules about purchasing and using Talents.",
+   "ru": "ритуальному\nмеметическомувложениюлитургийиправедныхгимнов\nваши разум и душа стали устойчивее к разлагающему\nвлиянию. Вы так закалены верой, что столкновения\nсо скверной лишь вдохновляют вас сражаться ещё\nяростнее. Вы получаете преимущество в проверках\nСтойкости и Дисциплины, предпринимаемых для\nсопротивления порче.\n\nIV УМЕНИЯ, ТАЛАНТЫ И ПСИХОСИЛЫ\nТайные каналы связи\nВы умеете организовать тайную встречу или незаметно\nпередать зашифрованное сообщение и пароль. Ваши\nзнания позволяют получать помощь и выходить на\nсвязь с разными службами тайно и не привлекая\nвнимания. Когда вы в первый за задание делаете\nчтото, что вызывает потери секретности, эта потеря\nне происходит.\nНезаметная мутация\nЧто-товвашемгеномеделаетваснесовсемчеловекоми\nотдаляет от обычных людей – физически или духовно.\nПокровитель может закрывать на это глаза, а может\nвовсе не знать о вашей мутации. На первый взгляд вы\nвыглядите нормально. Но если кто-то дознается до\nправды, он (весьма вероятно) будет считать вас\nотродьем.\nКогда вы приобретаете этот талант, сделайте бросок\nпо столбцам полезных и вредных мутаций из таблицы\nниже. Эффект выпавших вам вариантов описан в\nтаблицах осквернений и мутаций на стр. 222-223\nкниги правил. Кроме того, всякий раз, когда вы\nполучаете мутацию или осквернение из-за накопленной\nпорчи, вы можете вместо этого получить одну\nслучайнуюполезнуюиоднуслучайнуювреднуюмутацию\nиз таблицы ниже (сделайте два броска; перебросьте\nкости, если выпадет дубль).\nЦифровой авгур\nТребования: три улучшения Безопасности (Техника)\nПройдяформальнуюподготовкуилиприбегнувкметоду\nпроб и ошибок, вы научились работать с системами\nбезопасности и их машинными духами. Вы получаете\nпреимущество на все проверки, предпринятые, чтобы\nопределить системы защиты и понять, на что они\nспособны, а также на все тесты, предпринятые для\nтого, чтобы взаимодействовать с этими системами,\nобойти их, вывести из строя или выудить из них\nбольше информации. Этот талант можно приобретать\nнесколько раз. Приобретая его во второй раз, вы\nполучаете следующее преимущество:\nВыходя из системы защиты или управления, к\nкоторой вы получали доступ, вы можете пройти\nпроверку Техники (Безопасность), чтобы стереть все\nсвидетельства ваших действий, очистить журналы\nдоступа и коды безопасности. Сложность проверки\nопределяет ведущий. Успех позволит замести следы,\nотчего посторонним будет сложнее понять, что система\nбыла взломана – вкупе с исчезновением всяких следов\nэто должно повлиять на изменение секретности.\nВсегда в тенях\nТребования: три улучшения Скрытности\nЖёсткие тренировки и пережитые опасности сделали\nскрытность и ложь вашей второй натурой. Вы\nигнорируете помехи на проверки Скрытности,\nвызванные текущим уровнем секретности.\nНЕЗАМЕТНЫЕ МУТАЦИИ\nк100 Полезные мутации Вредные мутации\n01–10 Тёмные видения (осквернение, 86–90) Вкус пепла (осквернение, 81–85)\n11–20 Металлическая плоть (мутация, 91–95) Ненормаль. аппетит (осквернение, 06–10)\n21–30 Нечеловеческая красота (мутация, 16–20) Обмороки (осквернение, 46–50)\n31–40 Железная кожа (мутация, 21–25) Бесконечный зуд (осквернение, 61–65)\n41–50 Световая непослед. (мутация, 76–80) Подозрит. дурнота (осквернение, 21–25)\n51–60 Псих. пробуждение (осквернение, 96–00) Распухший язык (мутация 86–90)\n61–70 Раздутый зверь (мутация, 41–45) Очарование смерти (осквернение, 51–55)\n71–80 Исцеление Варпом (мутация, 96–00) Едкая кровь (мутация, 31–35)\n81–90 Чутьё Варпа (осквернение, 66–70) Неизбывная паранойя (осквернение, 26–30)\n91–00 Колёса внутри колёс (осквернение, 56–60) Иссохшее тело (мутация, 06–10)\n\nIV УМЕНИЯ, ТАЛАНТЫ И ПСИХОСИЛЫ\nТы ничего не видел\nТребования: два улучшения в следующих умениях –\nЛогика (Следствие), Скрытность, Техника (Безасность).\nВы научились заметать следы или вовсе не оставлять\nих за собой. Когда вы покидаете какое-то место, рискуя\nпотерять секретность из-за своих действий там, вы\nможете попытаться избежать этого. Какая для этого\nнужна проверка – решать ведущему, который может\nвыбрать один из следующих вариантов:\n0 Логика (Следствие), чтобы уничтожить физические\nулики или замаскировать место боя под что-то менее\nподозрительное (скажем придать вашей удавшейся\nзасаде на еретиков вид обычного разбойного\nнападения).\n0 Скрытность, чтобы попасть в нужное место и\nпокинуть его, не привлекая внимания посторонних\nи зевак, чтобы замедлить распространение слухов\nили вовсе не давать пищи для них.\n0 Техника (Безопасность), чтобы очистить или\nуничтожить пикт-писцы и другие средства слежения\n– это вызовет подозрения, но узнать вас будет\nсложнее.\nЛюбая проверка Логики или Техники занимает не\nменьше десяти минут.\nНезаметный псайкер\nТребования: Сила воли 40, талант Псайкер и три\nулучшения Психического мастерства.\nСуровыетренировкинаучиливасгаситьсопутствующие\nпроявления вашего психического дара. Ваши\nпсихосилыменеезаметныдляпостороннихисвидетелей\n– особенно тех, кто не знает, как работают психосилы\nили не умеет распознавать псайкеров. Когда вы\nсовершаетебросокнапсихическиефеномены,отнимите\nот результата 10. Кроме того, если, творя психосилу, вы\nрискуете снизить секретность, предпримите среднюю\n(+0) проверку Скрытности. Успех означает, что вы\nпредотвращаете любые потери секретности от своих\nдействий.\nвместилище\nДобровольно или нет, вам довелось побывать\nвместилищем для демона и пережить болезненный\nэкзорцизм. Пережитое оставило на вашей душе шрамы,\nотравилосонкошмарамиисделалодушуглухойкэтому\nмиру. Инквизиция сочла вас полезным инструментом,\nно вы никогда не будете таким как прежде, а любой, кто\nузнает ваше прошлое, попытается убить вас на месте.\n0 Вы получаете -1 успех в проверках Товарищества;\nпустота души, которую оставил демон, делает вас\nотстранённым.\n0 Вы невосприимчивы к мутирующему воздействию\nпорчи.\n0 Вы получаете +1 успех в проверках Бдительности,\nпредпринятых, чтобы обнаружить демонические\nсущности или связанные с демонами феномены.\n0 Вы неуязвимы к повторной одержимости тем\nже самым демоническим существом.\nНесгибаемая воля\nТребования: Сила воли 40 и два улучшения\nДисциплины\nВ столкновении с противником вы выказываете\nжелезную силу воли. Она может происходить от\nпламенной веры, пройденных битв или опыта\nвыживания среди кошмара нижнего улья – так или\nиначе, вы знаете, как её применить. Потратив\nсвободное действие вы можете потратить очко судьбы,\nчтобы сконцентрироваться. При этом до конца сцены\nваш бонус Силы воли удваивается. @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.ZoyVpQ2Wtbz5JA3x]{Talents}"
   },
   "14": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.FnfUU6qBo5idLaKl]{Amalathian Apprentice}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.FnfUU6qBo5idLaKl]{Amalathian Apprentice}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.FnfUU6qBo5idLaKl]{Amalathian Apprentice}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.FnfUU6qBo5idLaKl]{Amalathian Apprentice}"
   },
   "18": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.kAwBXaop0MNMqqC1]{Apostle of the Lex}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.kAwBXaop0MNMqqC1]{Apostle of the Lex}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.kAwBXaop0MNMqqC1]{Apostle of the Lex}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.kAwBXaop0MNMqqC1]{Apostle of the Lex}"
   },
   "28": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Wgi3zNI6egxLYydq]{Ballistic Forensics}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Wgi3zNI6egxLYydq]{Ballistic Forensics}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Wgi3zNI6egxLYydq]{Ballistic Forensics}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Wgi3zNI6egxLYydq]{Ballistic Forensics}"
   },
   "32": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.yArd1QW5l5mDssVs]{Blunt Force Authority}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.yArd1QW5l5mDssVs]{Blunt Force Authority}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.yArd1QW5l5mDssVs]{Blunt Force Authority}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.yArd1QW5l5mDssVs]{Blunt Force Authority}"
   },
   "36": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.gOeiG6tqhK9e95NQ]{Clandestine}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.gOeiG6tqhK9e95NQ]{Clandestine}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.gOeiG6tqhK9e95NQ]{Clandestine}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.gOeiG6tqhK9e95NQ]{Clandestine}"
   },
   "40": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.O35rGaCqSnVH3zeq]{Condemnor's Boon}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.O35rGaCqSnVH3zeq]{Condemnor's Boon}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.O35rGaCqSnVH3zeq]{Condemnor's Boon}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.O35rGaCqSnVH3zeq]{Condemnor's Boon}"
   },
   "44": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.dq7jeHrNvxZrnzI6]{Cult Infiltrator}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.dq7jeHrNvxZrnzI6]{Cult Infiltrator}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.dq7jeHrNvxZrnzI6]{Cult Infiltrator}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.dq7jeHrNvxZrnzI6]{Cult Infiltrator}"
   },
   "48": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.bPEos4SZ1xIiTF34]{Cypherist}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.bPEos4SZ1xIiTF34]{Cypherist}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.bPEos4SZ1xIiTF34]{Cypherist}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.bPEos4SZ1xIiTF34]{Cypherist}"
   },
   "52": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.bKmzN9rjDaOIL7Uo]{Familiar Bonded}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.bKmzN9rjDaOIL7Uo]{Familiar Bonded}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.bKmzN9rjDaOIL7Uo]{Familiar Bonded}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.bKmzN9rjDaOIL7Uo]{Familiar Bonded}"
   },
   "62": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.F3sICRDFcUgn8ZI6]{Gut Instinct}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.F3sICRDFcUgn8ZI6]{Gut Instinct}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.F3sICRDFcUgn8ZI6]{Gut Instinct}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.F3sICRDFcUgn8ZI6]{Gut Instinct}"
   },
   "66": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.jhsb9rdD9cuh8XvI]{Hardened Suspicion}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.jhsb9rdD9cuh8XvI]{Hardened Suspicion}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.jhsb9rdD9cuh8XvI]{Hardened Suspicion}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.jhsb9rdD9cuh8XvI]{Hardened Suspicion}"
   },
   "70": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.et7h3cVWL4oARC1X]{Inspired Defiance}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.et7h3cVWL4oARC1X]{Inspired Defiance}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.et7h3cVWL4oARC1X]{Inspired Defiance}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.et7h3cVWL4oARC1X]{Inspired Defiance}"
   },
   "74": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.wlIRfeH728nwTPPT]{Logical Liar}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.wlIRfeH728nwTPPT]{Logical Liar}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.wlIRfeH728nwTPPT]{Logical Liar}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.wlIRfeH728nwTPPT]{Logical Liar}"
   },
   "78": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.vwoema09lCpTs8Sz]{Many Masks}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.vwoema09lCpTs8Sz]{Many Masks}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.vwoema09lCpTs8Sz]{Many Masks}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.vwoema09lCpTs8Sz]{Many Masks}"
   },
   "82": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.WaY6t5nC8wScrtAr]{Security Augur}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.WaY6t5nC8wScrtAr]{Security Augur}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.WaY6t5nC8wScrtAr]{Security Augur}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.WaY6t5nC8wScrtAr]{Security Augur}"
   },
   "86": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.VaaAcbZNA26f8MUy]{Shadow Operative}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.VaaAcbZNA26f8MUy]{Shadow Operative}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.VaaAcbZNA26f8MUy]{Shadow Operative}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.VaaAcbZNA26f8MUy]{Shadow Operative}"
   },
   "90": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.r7bupLiXKeohOiI1]{Subtle Influencer}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.r7bupLiXKeohOiI1]{Subtle Influencer}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.r7bupLiXKeohOiI1]{Subtle Influencer}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.r7bupLiXKeohOiI1]{Subtle Influencer}"
   },
   "94": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.gs33ZA5gOVVOcBLv]{Subtle Mutation}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.gs33ZA5gOVVOcBLv]{Subtle Mutation}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.gs33ZA5gOVVOcBLv]{Subtle Mutation}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.gs33ZA5gOVVOcBLv]{Subtle Mutation}"
   },
   "98": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.iMUIVLHYXHOZrtVv]{Subtle Psyker}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.iMUIVLHYXHOZrtVv]{Subtle Psyker}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.iMUIVLHYXHOZrtVv]{Subtle Psyker}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.iMUIVLHYXHOZrtVv]{Subtle Psyker}"
   },
   "102": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.YacxYO0U5ssj2aee]{Tainted Vessel}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.YacxYO0U5ssj2aee]{Tainted Vessel}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.YacxYO0U5ssj2aee]{Tainted Vessel}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.YacxYO0U5ssj2aee]{Tainted Vessel}"
   },
   "106": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.sP53vAzNCZpgkqL5]{Unwavering Will}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.sP53vAzNCZpgkqL5]{Unwavering Will}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.sP53vAzNCZpgkqL5]{Unwavering Will}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.sP53vAzNCZpgkqL5]{Unwavering Will}"
   },
   "110": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.V32LG4seKRNLUKCl]{You Didn't See Anything}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.V32LG4seKRNLUKCl]{You Didn't See Anything}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.V32LG4seKRNLUKCl]{You Didn't See Anything}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.V32LG4seKRNLUKCl]{You Didn't See Anything}"
   }
  }
 }

@@ -23,8 +23,8 @@ const p = (...parts) => `<p>${parts.join("")}</p>`;
 const designations = (...names) =>
   p("<em><strong>Обозначения</strong>: ", names.join(", "), "</em>");
 
-const CORE = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
-const ITEM = "Compendium.navis-apexialis.navis-core-items.Item";
+const CORE = "Compendium.apex-imperialis.navis-core-journals.JournalEntry";
+const ITEM = "Compendium.apex-imperialis.navis-core-items.Item";
 
 /** Одно описание на одноручный и двуручный клинок — так задумано в книге. */
 const BLADE =

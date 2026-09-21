@@ -14,7 +14,7 @@
    "ru": ""
   },
   "18": {
-   "en": ": @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-hereticus]{Hereticus}",
+   "en": ": @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-hereticus]{Hereticus}",
    "ru": ""
   },
   "22": {
@@ -22,7 +22,7 @@
    "ru": ""
   },
   "24": {
-   "en": ": @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.7Aqg1D2wSmKjmzWj]{Recongregationism}",
+   "en": ": @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.7Aqg1D2wSmKjmzWj]{Recongregationism}",
    "ru": ""
   },
   "28": {
@@ -38,7 +38,7 @@
    "ru": ""
   },
   "36": {
-   "en": ": @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.y6qA7KARTXADwzeV]{Cytheris Subsector}",
+   "en": ": @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.y6qA7KARTXADwzeV]{Cytheris Subsector}",
    "ru": ""
   },
   "40": {
@@ -54,23 +54,23 @@
    "ru": ""
   },
   "70": {
-   "en": "As a Recongregator and in contact with other likeminded Inquisitors across the Imperium, @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.UFulYcpdvsqsr4dk]{Halikarn} focuses on upending the Macharian Sector’s noble houses. He believes that the sector’s twisted histories obscure a terrible truth. That it was established (and subsequently re-established) incorrectly. This revisionist history is ignorant of the finer points of the Emperor’s will and enmeshes heretical practices into the very fabric of this western arm of the Imperium.",
+   "en": "As a Recongregator and in contact with other likeminded Inquisitors across the Imperium, @UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.UFulYcpdvsqsr4dk]{Halikarn} focuses on upending the Macharian Sector’s noble houses. He believes that the sector’s twisted histories obscure a terrible truth. That it was established (and subsequently re-established) incorrectly. This revisionist history is ignorant of the finer points of the Emperor’s will and enmeshes heretical practices into the very fabric of this western arm of the Imperium.",
    "ru": ""
   },
   "74": {
-   "en": "Based on these lines of inquiry, the Ordo Hereticus Inquisitor has already exposed innumerable heresies within noble families and Imperial factions. @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.UFulYcpdvsqsr4dk]{Halikarn} operates with as much secrecy as he can manage, ousting and replacing those in positions of power while maintaining a veneer of as little personal involvement as possible. But he has garnered some infamy; some use his name as a byword for protracted Inquisitorial presence, as his preferred methods involve investigating leads at lower levels of Imperial organisations and then proceeding rank by rank until a source of corruption is identified at the top.",
+   "en": "Based on these lines of inquiry, the Ordo Hereticus Inquisitor has already exposed innumerable heresies within noble families and Imperial factions. @UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.UFulYcpdvsqsr4dk]{Halikarn} operates with as much secrecy as he can manage, ousting and replacing those in positions of power while maintaining a veneer of as little personal involvement as possible. But he has garnered some infamy; some use his name as a byword for protracted Inquisitorial presence, as his preferred methods involve investigating leads at lower levels of Imperial organisations and then proceeding rank by rank until a source of corruption is identified at the top.",
    "ru": ""
   },
   "78": {
-   "en": "The @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus} have developed a particular frustration with @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.UFulYcpdvsqsr4dk]{Halikarn’s} methods, as his escalating levels of investigation have the potential to cause delays at multiple stages of production, leading to manufactorum backlogs and quota errors, through which the same frustration is passed directly to the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Administratum}.",
+   "en": "The @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus} have developed a particular frustration with @UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.UFulYcpdvsqsr4dk]{Halikarn’s} methods, as his escalating levels of investigation have the potential to cause delays at multiple stages of production, leading to manufactorum backlogs and quota errors, through which the same frustration is passed directly to the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Administratum}.",
    "ru": ""
   },
   "82": {
-   "en": "Halikarn has a history of working alongside @UUID[.9vSAxxrma5zbEIKL]{Inquisitor Raud} following their collaborative investigation of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.JbRBjmzRfWtxIo40]{Leonova} Orbital Rebellion in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.y6qA7KARTXADwzeV]{Cytheris Subsector}, which toppled two @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.h6Z6Ia2q5RkRUlDG]{Rogue Trader Dynasties} responsible for trade in heretical, Warp-tainted artefacts. They maintain a lasting level of what could almost be called trust — despite Halikarn viewing Raud's means as overly destructive and Raud thinking Halikarn’s philosophy a fruitless pursuit.",
+   "en": "Halikarn has a history of working alongside @UUID[.9vSAxxrma5zbEIKL]{Inquisitor Raud} following their collaborative investigation of the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.JbRBjmzRfWtxIo40]{Leonova} Orbital Rebellion in the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.y6qA7KARTXADwzeV]{Cytheris Subsector}, which toppled two @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.h6Z6Ia2q5RkRUlDG]{Rogue Trader Dynasties} responsible for trade in heretical, Warp-tainted artefacts. They maintain a lasting level of what could almost be called trust — despite Halikarn viewing Raud's means as overly destructive and Raud thinking Halikarn’s philosophy a fruitless pursuit.",
    "ru": ""
   },
   "86": {
-   "en": "Inquisitor @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.UFulYcpdvsqsr4dk]{Aegidius Halikarn} was the featured sample Patron of the ",
+   "en": "Inquisitor @UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.UFulYcpdvsqsr4dk]{Aegidius Halikarn} was the featured sample Patron of the ",
    "ru": ""
   },
   "88": {
@@ -78,7 +78,7 @@
    "ru": ""
   },
   "90": {
-   "en": " adventure @UUID[Compendium.impmal-starter-set.journals.JournalEntry.arjSGA9gcUykxq0z]{The Blazing Seraph}. Characters can continue to serve him as a Patron, going into @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W]{The Heresies Macharia}, following on from their adventures on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.59y8WFXTbwKRwiRI]{Voll}.",
+   "en": " adventure @UUID[Compendium.impmal-starter-set.journals.JournalEntry.arjSGA9gcUykxq0z]{The Blazing Seraph}. Characters can continue to serve him as a Patron, going into @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W]{The Heresies Macharia}, following on from their adventures on @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.59y8WFXTbwKRwiRI]{Voll}.",
    "ru": ""
   },
   "94": {
@@ -86,15 +86,15 @@
    "ru": ""
   },
   "104": {
-   "en": "Among @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.UFulYcpdvsqsr4dk]{Halikarn’s} favoured operatives is a squad of acolytes referred to by Halikarn as ‘The Faceless’, formerly in the service of @UUID[.CbYL1IrXodXyGuyV]{Inquisitor Horst}, who thinks they are dead. These agents willingly accepted serving Halikarn and his Recongregator philosophy, knowing that it spites their former patron.",
+   "en": "Among @UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.UFulYcpdvsqsr4dk]{Halikarn’s} favoured operatives is a squad of acolytes referred to by Halikarn as ‘The Faceless’, formerly in the service of @UUID[.CbYL1IrXodXyGuyV]{Inquisitor Horst}, who thinks they are dead. These agents willingly accepted serving Halikarn and his Recongregator philosophy, knowing that it spites their former patron.",
    "ru": ""
   },
   "108": {
-   "en": "While working in @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.JbRBjmzRfWtxIo40]{Leonova}, @UUID[.9vSAxxrma5zbEIKL]{Inquisitor Raud} claimed to have destroyed all the Warp-tainted artefacts they uncovered. In truth, she collected most of them at her base near the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.1AsBzkbw2InKayw2]{Ayzinith Abyss} for further study. If @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.UFulYcpdvsqsr4dk]{Halikarn} learns of Raud’s @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.s88kgPSDiogPL4aB]{Xanthite} beliefs, he will lose trust in her. Raud planted several agents within Halikarn’s retinue, and he has yet to discover them.",
+   "en": "While working in @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.JbRBjmzRfWtxIo40]{Leonova}, @UUID[.9vSAxxrma5zbEIKL]{Inquisitor Raud} claimed to have destroyed all the Warp-tainted artefacts they uncovered. In truth, she collected most of them at her base near the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.1AsBzkbw2InKayw2]{Ayzinith Abyss} for further study. If @UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.UFulYcpdvsqsr4dk]{Halikarn} learns of Raud’s @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.s88kgPSDiogPL4aB]{Xanthite} beliefs, he will lose trust in her. Raud planted several agents within Halikarn’s retinue, and he has yet to discover them.",
    "ru": ""
   },
   "112": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.UFulYcpdvsqsr4dk]{Halikarn} has been aided by Drukhari raiders in the past. In his fleeting contact with these Cabalites, he directed them to targets from which the aliens could mock the weakest Imperial power structures, aiding him in dethroning the corrupt within. But he knows these heretical agreements must be obscured from his peers. Eventually, he seeks to feed information on their whereabouts to @UUID[.gRAiiRJkLKviH0K5]{Inquisitor Serranus} to keep the Ordo Xenos Inquisitor from interfering with his @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.7Aqg1D2wSmKjmzWj]{Recongregator} goals.",
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.UFulYcpdvsqsr4dk]{Halikarn} has been aided by Drukhari raiders in the past. In his fleeting contact with these Cabalites, he directed them to targets from which the aliens could mock the weakest Imperial power structures, aiding him in dethroning the corrupt within. But he knows these heretical agreements must be obscured from his peers. Eventually, he seeks to feed information on their whereabouts to @UUID[.gRAiiRJkLKviH0K5]{Inquisitor Serranus} to keep the Ordo Xenos Inquisitor from interfering with his @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.7Aqg1D2wSmKjmzWj]{Recongregator} goals.",
    "ru": ""
   }
  }

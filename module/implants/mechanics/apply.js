@@ -27,7 +27,7 @@ import { CAP_PENALTY_SCRIPT, talentBonuses, testModScript } from "../test-mods.j
 import { syncEnergyCapacity } from "../../technomiracles/resources.js";
 import { queueGrantSync } from "../grants-apply.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 /** Marks an effect as this module's, so we only ever replace our own. */
 export const EFFECT_FLAG = "mechanicsEffect";

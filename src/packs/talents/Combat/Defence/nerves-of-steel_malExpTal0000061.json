@@ -2,7 +2,7 @@
   "name": "Nerves of Steel",
   "type": "talent",
   "_id": "malExpTal0000061",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Re-Roll failed Discipline to resist Pinning, +1SL against Intimidation</span></p><hr><p><span style=\"font-family: Arial\"><em>Long years on the battlefield enable you to remain calm as fire impacts all around you. You may re-roll failed Discipline Tests to avoid or recover from Pinning. In addition, you are seldom impressed by the aggressive displays of your enemies and gain +1SL to Discipline Tests when resisting the effects of enemy Intimidation Skill attempts.</em></span></p>",
@@ -38,7 +38,7 @@
   "effects": [
     {
       "name": "Nerves of Steel",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "_id": "nxTCF9S1e0HK6EZJ",
       "type": "base",
       "system": {
@@ -145,7 +145,7 @@
     }
   ],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

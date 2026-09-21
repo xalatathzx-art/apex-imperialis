@@ -90,8 +90,8 @@
    "ru": "Рутинную (+20) проверку Скрытности (Бесшумное движение)"
   },
   "92": {
-   "en": " Test to avoid the frantic creatures; should any of them fail, two large @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ZIxRrvXoXCRKAYyI]{Acynadi Delta-5} attack them. ",
-   "ru": ", чтобы избежать обезумевших созданий; если кто-то провалит её, на него нападают два крупных @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ZIxRrvXoXCRKAYyI]{ацинади Дельта-5}. "
+   "en": " Test to avoid the frantic creatures; should any of them fail, two large @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.ZIxRrvXoXCRKAYyI]{Acynadi Delta-5} attack them. ",
+   "ru": ", чтобы избежать обезумевших созданий; если кто-то провалит её, на него нападают два крупных @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.ZIxRrvXoXCRKAYyI]{ацинади Дельта-5}. "
   },
   "98": {
    "en": "'In a flash of lightning, the characters notice a colossal shadow on the far side of the ridge. It seems like a hill, then it begins to move, sinking back into the darkness of the storm. As you recover from the acynadi stampede, you see it, standing out in the black gulf of storm-wracked wasteland. A bank of lights, yet even at this distance, its source is clear. The Interminable Devotion.'",
@@ -138,16 +138,16 @@
    "ru": "Тихая гавань"
   },
   "142": {
-   "en": "Upon entering the Hangar, the party finds that the heavy lumens have been deactivated. The massive hangar door is open, and an @UUID[Compendium.navis-apexialis.navis-requisition-actors.Actor.SSqyPXq4qRxqxFFu]{Arvus Lighter} is visible nearby. Should they investigate the Hangar further, they discover the corpse of Captain Alard Veridian. Read aloud or paraphrase the following:",
-   "ru": "Войдя в ангар, отряд обнаруживает, что мощные люмены отключены. Огромные ворота ангара открыты, неподалёку виден @UUID[Compendium.navis-apexialis.navis-requisition-actors.Actor.SSqyPXq4qRxqxFFu]{лихтер «Арв»}. Если осмотреть ангар подробнее, персонажи обнаруживают труп капитана Альрада Веридиана. Зачитайте вслух или перескажите следующее:"
+   "en": "Upon entering the Hangar, the party finds that the heavy lumens have been deactivated. The massive hangar door is open, and an @UUID[Compendium.apex-imperialis.navis-requisition-actors.Actor.SSqyPXq4qRxqxFFu]{Arvus Lighter} is visible nearby. Should they investigate the Hangar further, they discover the corpse of Captain Alard Veridian. Read aloud or paraphrase the following:",
+   "ru": "Войдя в ангар, отряд обнаруживает, что мощные люмены отключены. Огромные ворота ангара открыты, неподалёку виден @UUID[Compendium.apex-imperialis.navis-requisition-actors.Actor.SSqyPXq4qRxqxFFu]{лихтер «Арв»}. Если осмотреть ангар подробнее, персонажи обнаруживают труп капитана Альрада Веридиана. Зачитайте вслух или перескажите следующее:"
   },
   "148": {
    "en": "‘Slumped against a storage locker, you see the body of an ageing man in a large pool of blood, a discarded laspistol at his side. His pale, bloodless features locked in silent terror above his utterly crushed throat.’",
    "ru": "«Привалившись к шкафчику для снаряжения, в большой луже крови лежит тело немолодого мужчины, рядом валяется лазпистолет. Над полностью раздавленным горлом застыли в безмолвном ужасе бледные, обескровленные черты»."
   },
   "154": {
-   "en": "Immediately, the sound of an opening bulkhead accompanies heavy bootsteps. @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Sergeant Drukos} and ten of his mercenaries enter the Hangar (use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZIodTiyH9W5QBRU9]{Astra Militarum Trooper} stat-block to represent them. Drukos first asks the party if they are the work detail. But upon noticing the body, he and his men become aggressive, demanding they hand over their weapons before placing them under arrest for the murder of Captain Alrad Veridian.",
-   "ru": "Тут же раздаётся звук открывающейся переборки и тяжёлые шаги. В ангар входят @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{сержант Друкос} и десять его наёмников (используйте для них профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZIodTiyH9W5QBRU9]{солдата Астра Милитарум}). Сначала Друкос спрашивает отряд, не рабочая ли они бригада. Но, заметив тело, он и его люди становятся агрессивными и требуют сдать оружие, после чего арестовывают персонажей за убийство капитана Альрада Веридиана."
+   "en": "Immediately, the sound of an opening bulkhead accompanies heavy bootsteps. @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Sergeant Drukos} and ten of his mercenaries enter the Hangar (use the @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.ZIodTiyH9W5QBRU9]{Astra Militarum Trooper} stat-block to represent them. Drukos first asks the party if they are the work detail. But upon noticing the body, he and his men become aggressive, demanding they hand over their weapons before placing them under arrest for the murder of Captain Alrad Veridian.",
+   "ru": "Тут же раздаётся звук открывающейся переборки и тяжёлые шаги. В ангар входят @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{сержант Друкос} и десять его наёмников (используйте для них профиль @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.ZIodTiyH9W5QBRU9]{солдата Астра Милитарум}). Сначала Друкос спрашивает отряд, не рабочая ли они бригада. Но, заметив тело, он и его люди становятся агрессивными и требуют сдать оружие, после чего арестовывают персонажей за убийство капитана Альрада Веридиана."
   },
   "158": {
    "en": "The party is escorted to an ex-storage cabin turned brig, where @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Drukos} questions them about the murder. Initially suspicious of the characters, he soon begins to believe their story but keeps them in the brig under heavy guard until he can investigate. As they leave, the massive hangar ramp retracts, and the ",
@@ -182,8 +182,8 @@
    "ru": "преданности»"
   },
   "184": {
-   "en": " to a complete stop, and attempted to leave alone on the @UUID[Compendium.navis-apexialis.navis-requisition-actors.Actor.SSqyPXq4qRxqxFFu]{Arvus Lighter} they keep for emergencies. ",
-   "ru": " полностью остановиться и попытался в одиночку улететь на @UUID[Compendium.navis-apexialis.navis-requisition-actors.Actor.SSqyPXq4qRxqxFFu]{лихтере «Арв»}, который держат на случай чрезвычайных ситуаций. "
+   "en": " to a complete stop, and attempted to leave alone on the @UUID[Compendium.apex-imperialis.navis-requisition-actors.Actor.SSqyPXq4qRxqxFFu]{Arvus Lighter} they keep for emergencies. ",
+   "ru": " полностью остановиться и попытался в одиночку улететь на @UUID[Compendium.apex-imperialis.navis-requisition-actors.Actor.SSqyPXq4qRxqxFFu]{лихтере «Арв»}, который держат на случай чрезвычайных ситуаций. "
   },
   "188": {
    "en": "Having bugged Captain Veridian to monitor the effects of his formula, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} was forewarned of his plan, and he intercepted the Captain in the Hangar, accompanied by one of his Medicae Servitors. He ordered the Servitor to kill the Captain to cover his tracks, then to hide the murder weapon, subsequently ordered the Servitor to disappear into the wastes while the ",

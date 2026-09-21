@@ -49,14 +49,14 @@ test("чудо без флага щита его не поднимает", () =>
 });
 
 test("флаг щита читается с ёмкостью по умолчанию", () => {
-  assert.deepEqual(shieldOf({ flags: { "navis-apexialis": { shield: {} } } }), { perCharge: 10 });
+  assert.deepEqual(shieldOf({ flags: { "apex-imperialis": { shield: {} } } }), { perCharge: 10 });
   assert.deepEqual(
-    shieldOf({ flags: { "navis-apexialis": { shield: { perCharge: 15 } } } }),
+    shieldOf({ flags: { "apex-imperialis": { shield: { perCharge: 15 } } } }),
     { perCharge: 15 }
   );
 });
 
 test("испорченная ёмкость не роняет расчёт в ноль или в бесконечность", () => {
-  assert.deepEqual(shieldOf({ flags: { "navis-apexialis": { shield: { perCharge: 0 } } } }), { perCharge: 10 });
-  assert.deepEqual(shieldOf({ flags: { "navis-apexialis": { shield: { perCharge: -3 } } } }), { perCharge: 1 });
+  assert.deepEqual(shieldOf({ flags: { "apex-imperialis": { shield: { perCharge: 0 } } } }), { perCharge: 10 });
+  assert.deepEqual(shieldOf({ flags: { "apex-imperialis": { shield: { perCharge: -3 } } } }), { perCharge: 1 });
 });

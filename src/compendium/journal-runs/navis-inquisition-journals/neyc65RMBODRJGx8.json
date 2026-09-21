@@ -6,11 +6,11 @@
  "name": "",
  "runs": {
   "10": {
-   "en": "‘I, Inquisitor Lord Hieronymo Drake, authorise, order and declare Exterminatus upon the fourth planet of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.lpu6iuTHw50UavbI]{Belnshudha}. The planet is lost to an immeasurable foe and is irredeemably corrupted. We must ensure no one can tread upon its surface again. I cannot make it to my extraction vessel, so these are my final words: despite the necessity of atrocity that is about to occur, know you have served the God-Emperor’s will this day. Canis Vator Avit Abominus.’",
+   "en": "‘I, Inquisitor Lord Hieronymo Drake, authorise, order and declare Exterminatus upon the fourth planet of @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.lpu6iuTHw50UavbI]{Belnshudha}. The planet is lost to an immeasurable foe and is irredeemably corrupted. We must ensure no one can tread upon its surface again. I cannot make it to my extraction vessel, so these are my final words: despite the necessity of atrocity that is about to occur, know you have served the God-Emperor’s will this day. Canis Vator Avit Abominus.’",
    "ru": ""
   },
   "18": {
-   "en": "— Final order of Inquisitor Lord Hieronymo Drake @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#battle-group-fortis]{Battle Group Fortis}",
+   "en": "— Final order of Inquisitor Lord Hieronymo Drake @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#battle-group-fortis]{Battle Group Fortis}",
    "ru": ""
   },
   "28": {
@@ -46,7 +46,7 @@
    "ru": ""
   },
   "62": {
-   "en": ", a companion book containing rules for @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.QU6vEOUu69z190da]{Inquisition character creation}, new options for existing @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.ZzHsqdssD6GJyhDE]{Patrons and characters}, and many new @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.2MqLlcSMDCxkumCk]{Skills}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.ZoyVpQ2Wtbz5JA3x]{Talents}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1]{Psychic Powers} and iconic @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.BbyZqcWs3HbrAO3Y]{Inquisitorial Equipment} to outfit and reward players. It contains a host of new rules — most importantly the new @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz]{Subtlety} mechanic which is also used throughout this book.",
+   "en": ", a companion book containing rules for @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.QU6vEOUu69z190da]{Inquisition character creation}, new options for existing @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.ZzHsqdssD6GJyhDE]{Patrons and characters}, and many new @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.2MqLlcSMDCxkumCk]{Skills}, @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.ZoyVpQ2Wtbz5JA3x]{Talents}, @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1]{Psychic Powers} and iconic @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.BbyZqcWs3HbrAO3Y]{Inquisitorial Equipment} to outfit and reward players. It contains a host of new rules — most importantly the new @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz]{Subtlety} mechanic which is also used throughout this book.",
    "ru": ""
   }
  }

@@ -25,8 +25,8 @@ const FATIGUED = U(`${C}#fatigued`, "Усталость");
 const POISONED = U(`${C}#poisoned`, "Отравление");
 const ABLAZE = U(`${C}#ablaze`, "Горение");
 const TECH = U("JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)", "Техника");
-const FACTION_TABLE = U("Compendium.navis-apexialis.navis-core-tables.RollTable.vl9saE1Hpu48qsLd", "Служба покровителя");
-const BOUNTY_HUNTER = U("Compendium.navis-apexialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE", "Охотник за головами");
+const FACTION_TABLE = U("Compendium.apex-imperialis.navis-core-tables.RollTable.vl9saE1Hpu48qsLd", "Служба покровителя");
+const BOUNTY_HUNTER = U("Compendium.apex-imperialis.navis-core-actors.Actor.5CCbRXAMBtwviuFE", "Охотник за головами");
 
 const d = description => ({ description });
 const p = text => ({ description: `<p>${text}</p>` });

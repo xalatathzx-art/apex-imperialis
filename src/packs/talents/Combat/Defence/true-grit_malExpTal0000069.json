@@ -2,7 +2,7 @@
   "name": "True Grit",
   "type": "talent",
   "_id": "malExpTal0000069",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On Critical wound: reduce severity roll by 5, min 1</span></p><hr><p><span style=\"font-family: Arial\"><em>The character is able to shrug off wounds that would fell lesser men. Whenever the character suffers a Critical Wound, reduce the Severity Roll by 5 (to a minimum of 1)</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

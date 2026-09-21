@@ -30,8 +30,8 @@
    "ru": "Доступность"
   },
   "66": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.vOMZqNUtEm6Sjlne]{Cherubim}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.vOMZqNUtEm6Sjlne]{Херувим}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.vOMZqNUtEm6Sjlne]{Cherubim}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.vOMZqNUtEm6Sjlne]{Херувим}"
   },
   "70": {
    "en": "15000",
@@ -42,8 +42,8 @@
    "ru": "Необычная"
   },
   "82": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.mVvzTcb8LJKDroT7]{Cyber-Mastiff}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.mVvzTcb8LJKDroT7]{Кибермастиф}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.mVvzTcb8LJKDroT7]{Cyber-Mastiff}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.mVvzTcb8LJKDroT7]{Кибермастиф}"
   },
   "86": {
    "en": "10000",
@@ -54,8 +54,8 @@
    "ru": "Редкая"
   },
   "98": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.znpt8HSpu0OndcLV]{Gyrinx}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.znpt8HSpu0OndcLV]{Гиринкс}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.znpt8HSpu0OndcLV]{Gyrinx}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.znpt8HSpu0OndcLV]{Гиринкс}"
   },
   "102": {
    "en": "25000",
@@ -66,8 +66,8 @@
    "ru": "Диковинная"
   },
   "114": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.5GFrOdow4KVmWJDO]{Jokaero}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.5GFrOdow4KVmWJDO]{Жокаэро}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.5GFrOdow4KVmWJDO]{Jokaero}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.5GFrOdow4KVmWJDO]{Жокаэро}"
   },
   "118": {
    "en": "30000",
@@ -78,8 +78,8 @@
    "ru": "Диковинная"
   },
   "130": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.ZSHlRo5aAi1cXOS3]{Multi-Task Servitor}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.ZSHlRo5aAi1cXOS3]{Многозадачный сервитор}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.ZSHlRo5aAi1cXOS3]{Multi-Task Servitor}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.ZSHlRo5aAi1cXOS3]{Многозадачный сервитор}"
   },
   "134": {
    "en": "12000",
@@ -90,8 +90,8 @@
    "ru": "Необычная"
   },
   "146": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.X5Wbej4NfgrZrvGc]{Multi-Task Servo-Skull}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.X5Wbej4NfgrZrvGc]{Многозадачный сервочереп}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.X5Wbej4NfgrZrvGc]{Multi-Task Servo-Skull}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.X5Wbej4NfgrZrvGc]{Многозадачный сервочереп}"
   },
   "150": {
    "en": "5000",
@@ -102,8 +102,8 @@
    "ru": "Необычная"
   },
   "162": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.jQjVkmnGPda3x519]{Psyber-Eagle}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.jQjVkmnGPda3x519]{Псиберорёл}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.jQjVkmnGPda3x519]{Psyber-Eagle}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.jQjVkmnGPda3x519]{Псиберорёл}"
   },
   "166": {
    "en": "10000",
@@ -114,8 +114,8 @@
    "ru": "Необычная"
   },
   "178": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.GxJbWONanlhYhMC1]{Razorwing}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.GxJbWONanlhYhMC1]{Острокрыл}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.GxJbWONanlhYhMC1]{Razorwing}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.GxJbWONanlhYhMC1]{Острокрыл}"
   },
   "182": {
    "en": "25000",
@@ -126,8 +126,8 @@
    "ru": "Редкая"
   },
   "194": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.eYskYCJT8lPCxoTF]{Wyvach}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.eYskYCJT8lPCxoTF]{Вивах}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.eYskYCJT8lPCxoTF]{Wyvach}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.eYskYCJT8lPCxoTF]{Вивах}"
   },
   "198": {
    "en": "35000",

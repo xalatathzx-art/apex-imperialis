@@ -2,7 +2,7 @@
   "name": "Divine Ministrations",
   "type": "talent",
   "_id": "malExpTal0000170",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On Medicae to heal: restore WpB wounds OR spend FP to remove Fatigue from 2xWpB characters</span></p><hr><p><span style=\"font-family: Arial\"><em>When you are testing Medicae, you may spend a Fate Point to restore an amount of Damage equal to your Willpower Bonus instead of the normal amount. You may also spend a Fate Point to remove all fatigue from a number of people equal to twice your Willpower Bonus. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

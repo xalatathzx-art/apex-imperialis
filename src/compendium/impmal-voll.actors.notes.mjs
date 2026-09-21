@@ -32,11 +32,11 @@
 
 export const label = "Актёры (Приключения на Волле)";
 
-const VJ = "Compendium.navis-apexialis.navis-voll-journals.JournalEntry";
-const CJ = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
-const CA = "Compendium.navis-apexialis.navis-core-actors.Actor";
-const VA = "Compendium.navis-apexialis.navis-voll-actors.Actor";
-const CI = "Compendium.navis-apexialis.navis-core-items.Item";
+const VJ = "Compendium.apex-imperialis.navis-voll-journals.JournalEntry";
+const CJ = "Compendium.apex-imperialis.navis-core-journals.JournalEntry";
+const CA = "Compendium.apex-imperialis.navis-core-actors.Actor";
+const VA = "Compendium.apex-imperialis.navis-voll-actors.Actor";
+const CI = "Compendium.apex-imperialis.navis-core-items.Item";
 const STARTER = "Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage";
 
 const ROKARTH = (label = "улей Рокарт") => `@UUID[${VJ}.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{${label}}`;

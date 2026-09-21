@@ -2,7 +2,7 @@
   "name": "Data Forensics",
   "type": "talent",
   "_id": "malExpTal0000074",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Grants the bonus of Forensic Expert to Tech(Security)</span></p><hr><p><span style=\"font-family: Arial\"><em>Relating to investigating and recovering data from electronically stored media. This field grants bonuses to Tech (Security) tests as appropriate.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

@@ -22,7 +22,7 @@
 
 import { FACTIONS_RU } from "./config/factions.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 /** Where the Babele files live, relative to the module root. */
 const TRANSLATION_DIR = "compendium";

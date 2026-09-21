@@ -27,12 +27,12 @@ export const byName = {
       "Telekine": {
         name: "Телекинетик",
         description:
-          "<p>Псайкер-примарис знает следующие психосилы из дисциплины «Телекинез»: @UUID[Compendium.navis-apexialis.navis-core-items.Item.ihRo9NaIseAlNMbn]{Проклятие механизмов}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.4cMt2jtPhtzR8vlY]{Тиски}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.weeeCywXm9wF54Ly]{Психическая преграда}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.azVwWhP3qjVxYbQn]{Психическая буря}.</p>"
+          "<p>Псайкер-примарис знает следующие психосилы из дисциплины «Телекинез»: @UUID[Compendium.apex-imperialis.navis-core-items.Item.ihRo9NaIseAlNMbn]{Проклятие механизмов}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.4cMt2jtPhtzR8vlY]{Тиски}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.weeeCywXm9wF54Ly]{Психическая преграда}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.azVwWhP3qjVxYbQn]{Психическая буря}.</p>"
       },
       "Psychic Powers": {
         name: "Психосилы",
         description:
-          "<p>Псайкер-примарис знает следующие малые психосилы: @UUID[Compendium.navis-apexialis.navis-core-items.Item.I6NTqen3Srp90dyW]{Аура ужаса}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.6piNqY3oQ4WVndT0]{Полёт}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.wh2wJRpfoKu7YAiS]{Покой}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.iHemd2KVEYx2olv7]{Психический удар}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.plATcbLJsFW1evOT]{Духовное зрение}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.GTzPHDh6nh0CvuPI]{Спазм}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.XuFiBvRR2vT9IPeC]{Призрачные руки}.</p>"
+          "<p>Псайкер-примарис знает следующие малые психосилы: @UUID[Compendium.apex-imperialis.navis-core-items.Item.I6NTqen3Srp90dyW]{Аура ужаса}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.6piNqY3oQ4WVndT0]{Полёт}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.wh2wJRpfoKu7YAiS]{Покой}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.iHemd2KVEYx2olv7]{Психический удар}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.plATcbLJsFW1evOT]{Духовное зрение}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.GTzPHDh6nh0CvuPI]{Спазм}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.XuFiBvRR2vT9IPeC]{Призрачные руки}.</p>"
       }
     }
   },
@@ -60,12 +60,12 @@ export const byName = {
       "Telepath": {
         name: "Прорицатель",
         description:
-          "<p>Астропат знает следующие психосилы из дисциплины «Прорицания»: @UUID[Compendium.navis-apexialis.navis-core-items.Item.qWQd7R5F8FqYiX9J]{Лозоходец}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.tb7ntikXWkv1mDLd]{Предупреждение}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.a8LvONbMdLRtynKS]{Боевое предвиденье}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.3vquTkVELDNBVsZL]{Психометрия}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.JD8KXpaybkhEvnUm]{Ясновиденье}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.4bbAQA6kvRtfUna1]{Охота на охотника}.</p>"
+          "<p>Астропат знает следующие психосилы из дисциплины «Прорицания»: @UUID[Compendium.apex-imperialis.navis-core-items.Item.qWQd7R5F8FqYiX9J]{Лозоходец}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.tb7ntikXWkv1mDLd]{Предупреждение}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.a8LvONbMdLRtynKS]{Боевое предвиденье}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.3vquTkVELDNBVsZL]{Психометрия}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.JD8KXpaybkhEvnUm]{Ясновиденье}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.4bbAQA6kvRtfUna1]{Охота на охотника}.</p>"
       },
       "Psychic Powers": {
         name: "Психосилы",
         description:
-          "<p>Астропат знает следующие малые психосилы: @UUID[Compendium.navis-apexialis.navis-core-items.Item.iHemd2KVEYx2olv7]{Психический удар}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.plATcbLJsFW1evOT]{Духовное зрение}.</p>"
+          "<p>Астропат знает следующие малые психосилы: @UUID[Compendium.apex-imperialis.navis-core-items.Item.iHemd2KVEYx2olv7]{Психический удар}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.plATcbLJsFW1evOT]{Духовное зрение}.</p>"
       }
     }
   },
@@ -88,7 +88,7 @@ export const byName = {
       "Vow of Tranquillity": {
         name: "Обет безмятежности",
         description:
-          "<p>Все полноправные сёстры Безмолвия приносят обет, запрещающий им говорить при любых обстоятельствах. Общаются сёстры благодаря @UUID[Compendium.navis-apexialis.navis-core-items.Item.z3pFUwFlp4BJf1oJ]{языку жестов}.</p>"
+          "<p>Все полноправные сёстры Безмолвия приносят обет, запрещающий им говорить при любых обстоятельствах. Общаются сёстры благодаря @UUID[Compendium.apex-imperialis.navis-core-items.Item.z3pFUwFlp4BJf1oJ]{языку жестов}.</p>"
       },
       "Executioner Greatblade": { name: "Палаческий двуручный меч" },
       "Psyk-out Grenade": {
@@ -120,12 +120,12 @@ export const byName = {
       "Biomancer": {
         name: "Биомант",
         description:
-          "<p>Биомант-примарис знает следующие психосилы дисциплины «Биомантия»: @UUID[Compendium.navis-apexialis.navis-core-items.Item.Z1iAai8os7wLhSD8]{Недуг}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.eYVRPE01hIztBgtI]{Биомолния}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.uvzufc2k1F5wfmBh]{Метаболическая перегрузка}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.cIzMwE9MkVNjJzcm]{Скульптор плоти}.</p>"
+          "<p>Биомант-примарис знает следующие психосилы дисциплины «Биомантия»: @UUID[Compendium.apex-imperialis.navis-core-items.Item.Z1iAai8os7wLhSD8]{Недуг}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.eYVRPE01hIztBgtI]{Биомолния}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.uvzufc2k1F5wfmBh]{Метаболическая перегрузка}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.cIzMwE9MkVNjJzcm]{Скульптор плоти}.</p>"
       },
       "Psychic Powers": {
         name: "Психосилы",
         description:
-          "<p>Биомант-примарис знает следующие малые психосилы: @UUID[Compendium.navis-apexialis.navis-core-items.Item.iF1qxYZdS6GKxaVk]{Призыв вредителей}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.nsW4ViB2r0oIfyKp]{Приглушение боли}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.6piNqY3oQ4WVndT0]{Полёт}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.Qc4Adi2niwAoeY1j]{Сверхъестественные чувства}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.tNcKq3ZaMDeogkh3]{Затворение ран}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.iHemd2KVEYx2olv7]{Психический удар}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.GTzPHDh6nh0CvuPI]{Спазм}.</p>"
+          "<p>Биомант-примарис знает следующие малые психосилы: @UUID[Compendium.apex-imperialis.navis-core-items.Item.iF1qxYZdS6GKxaVk]{Призыв вредителей}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.nsW4ViB2r0oIfyKp]{Приглушение боли}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.6piNqY3oQ4WVndT0]{Полёт}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.Qc4Adi2niwAoeY1j]{Сверхъестественные чувства}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.tNcKq3ZaMDeogkh3]{Затворение ран}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.iHemd2KVEYx2olv7]{Психический удар}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.GTzPHDh6nh0CvuPI]{Спазм}.</p>"
       }
     }
   },
@@ -135,12 +135,12 @@ export const byName = {
       "Pyromancer": {
         name: "Пиромант",
         description:
-          "<p>Пиромант-примарис знает следующие психосилы дисциплины «Пиромантия»: @UUID[Compendium.navis-apexialis.navis-core-items.Item.9irgirlcPgyDaPzw]{Огненная буря}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.dd8KipWb9j7FmYH7]{Инферно}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.twQADlfZ6PHF1DXO]{Плавящий луч}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.gZWa7JyP91MiigzA]{Плазменный факел}.</p>"
+          "<p>Пиромант-примарис знает следующие психосилы дисциплины «Пиромантия»: @UUID[Compendium.apex-imperialis.navis-core-items.Item.9irgirlcPgyDaPzw]{Огненная буря}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.dd8KipWb9j7FmYH7]{Инферно}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.twQADlfZ6PHF1DXO]{Плавящий луч}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.gZWa7JyP91MiigzA]{Плазменный факел}.</p>"
       },
       "Psychic Powers": {
         name: "Психосилы",
         description:
-          "<p>Пиромант-примарис знает следующие малые психосилы: @UUID[Compendium.navis-apexialis.navis-core-items.Item.ddM8dhP5O4FuF5ou]{Возгорание}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.I6NTqen3Srp90dyW]{Аура ужаса}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.6piNqY3oQ4WVndT0]{Полёт}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.iIC7OGDDtQtJ116l]{Пламя на ладони}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.4PwcP3ziykhvMnEr]{Нова}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.YtCa9wy5vrKATy99]{Обжигающий взгляд}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.5r4I5RwIJtfOrVZ6]{Нагрев}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.iHemd2KVEYx2olv7]{Психический удар}.</p>"
+          "<p>Пиромант-примарис знает следующие малые психосилы: @UUID[Compendium.apex-imperialis.navis-core-items.Item.ddM8dhP5O4FuF5ou]{Возгорание}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.I6NTqen3Srp90dyW]{Аура ужаса}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.6piNqY3oQ4WVndT0]{Полёт}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.iIC7OGDDtQtJ116l]{Пламя на ладони}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.4PwcP3ziykhvMnEr]{Нова}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.YtCa9wy5vrKATy99]{Обжигающий взгляд}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.5r4I5RwIJtfOrVZ6]{Нагрев}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.iHemd2KVEYx2olv7]{Психический удар}.</p>"
       }
     }
   },

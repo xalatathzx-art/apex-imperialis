@@ -42,7 +42,7 @@ const whispers = () => h(3, "whispers", "Слухи");
 
 /* ── Империум, стр. 235–238 ─────────────────────────────────────────────*/
 const imperiumPage =
-  `<div class="journal-image float-right flip"><img src="modules/navis-apexialis/assets/impmal-core/images/ch8.webp" height="660" /></div>` +
+  `<div class="journal-image float-right flip"><img src="modules/apex-imperialis/assets/impmal-core/images/ch8.webp" height="660" /></div>` +
   p("Больше десяти тысяч лет среди враждебных звёзд возвышается всегалактический бастион ",
     "Человечества — Империум. Говорят, что он охватывает больше миллиона миров, каждый из которых ",
     "был присоединён к нему тяжким трудом и реками крови. Жить в Империуме — значит быть одним из ",
@@ -481,7 +481,7 @@ const militarumPage =
 const ministorumPage =
   quote("«Просто обладать верой недостаточно. Истинная вера рождается лишь в страданиях»",
     "архиисповедник Веникар") +
-  `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/images/spot-judgement.webp" width="200" /></div>` +
+  `<div class="journal-image float-right"><img src="modules/apex-imperialis/assets/impmal-core/images/spot-judgement.webp" width="200" /></div>` +
   p(U(`${CHAR}.Fb8czdAGVFVDHfOF`, "Адептус Министорум"),
     ", также именуемый Экклезиархией, — это церковь, что проповедует Имперский культ, ",
     "государственную религию Империума, что объединяет человечество миллиона разрозненных миров в ",
@@ -701,7 +701,7 @@ const rogueTraderPage =
     "воспротивиться соблазну повторить подвиги лорда-соляра, вклинившись в неизведанные просторы ",
     "галактики.") +
   p("Самые известные династии сектора — Яузы, Класколоффы и Вомакты (см. ",
-    U(`Compendium.navis-apexialis.navis-core-journals.${SECTOR}.JournalEntryPage.X5EFP7IgIUx6CaBW#rogue-traders-of-note`,
+    U(`Compendium.apex-imperialis.navis-core-journals.${SECTOR}.JournalEntryPage.X5EFP7IgIUx6CaBW#rogue-traders-of-note`,
       "«Вольные торговцы, достойные упоминания»"),
     "). Капитан Сандеру-Вомакт — самопровозглашённая защитница верхов махарийского общества, что ",
     "помогает боевой группе «Карин» и попутно почти наверняка обогащается. Клан Класколоффов долгое ",

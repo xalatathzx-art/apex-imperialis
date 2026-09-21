@@ -2,7 +2,7 @@
   "name": "Daemonic Anathema",
   "type": "talent",
   "_id": "malExpTal0000220",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Deaemons in your zone do not benefit from daemonic armor</span></p><hr><p><span style=\"font-family: Arial\"><em>Daemons within your zone do not gain the benefits of the Daemonic trait that grants them armor.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

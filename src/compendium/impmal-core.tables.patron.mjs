@@ -66,7 +66,7 @@ export const byName = {
     name: "Случайные таланты",
     results: {
       qK4etcnjwzImjfVo: { description: "<p>Бросьте по этой таблице ещё два раза.</p>" },
-      dcW4JxmchOWh4GS0: { description: "<p>@UUID[Compendium.navis-apexialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер} или @UUID[Compendium.navis-apexialis.navis-core-items.Item.PpidBBZ7dG6yziXg]{Пустой}.</p>" }
+      dcW4JxmchOWh4GS0: { description: "<p>@UUID[Compendium.apex-imperialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер} или @UUID[Compendium.apex-imperialis.navis-core-items.Item.PpidBBZ7dG6yziXg]{Пустой}.</p>" }
     }
   },
   "Patron Faction": { name: "Служба покровителя" }

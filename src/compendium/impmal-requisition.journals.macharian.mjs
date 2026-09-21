@@ -23,10 +23,10 @@ const h = (level, slug, text) => `<h${level} id="${slug}">${text}</h${level}>`;
 const blue = text => `<p class="blue"><em>${text}</em></p>`;
 const attrib = text => `<p class="blue" style="text-align:right"><strong>${text}</strong></p>`;
 
-const CORE = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
+const CORE = "Compendium.apex-imperialis.navis-core-journals.JournalEntry";
 const IMP = `${CORE}.GPqYZykonC12TJb1.JournalEntryPage`;
 const SECTOR = `${CORE}.B7MZBBT3bNew9N96.JournalEntryPage`;
-const DECANTUS_UUID = "Compendium.navis-apexialis.navis-requisition-actors.Actor.TtL61uJAlGRCL0g0";
+const DECANTUS_UUID = "Compendium.apex-imperialis.navis-requisition-actors.Actor.TtL61uJAlGRCL0g0";
 
 const ADMINISTRATUM = U(`${IMP}.3TtxuCzt0nNV1ysj`, "Адептус Администратум");
 const MILITARUM = U(`${IMP}.r6JYS3jOfrAEorvd`, "Астра Милитарум");
@@ -41,7 +41,7 @@ export const byName = {
       "Macharian Requisitions": {
         name: "Махарийские реквизиции",
         text:
-          `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-requisition/misc/strip-stonework.webp" /></div>` +
+          `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-requisition/misc/strip-stonework.webp" /></div>` +
           blue("«В нашем ремесле нет ни правых, ни виноватых. Настоящее меняет прошлое от мгновения " +
             "к мгновению. Молись лишь о том, чтобы будущее оправдало твои дела».") +
           attrib("— «Литания адептов», «Песнь администратора»") +
@@ -123,7 +123,7 @@ export const byName = {
             "машина, вне всякого сомнения, встала бы намертво.") +
 
           h(3, "apsilon-decantus,-auditor-second-grade", "Апсилон Декантус, аудитор второго ранга") +
-          `<div class="journal-image float-right flip"><img height="400" src="modules/navis-apexialis/assets/impmal-requisition/actors/decantus.webp" /></div>` +
+          `<div class="journal-image float-right flip"><img height="400" src="modules/apex-imperialis/assets/impmal-requisition/actors/decantus.webp" /></div>` +
           p(U(DECANTUS_UUID, "Апсилон Декантус"), " родился на ",
             U(`${SECTOR}.qLLaIGWiU6Lf6Rjy`, "Персеполе"), ", и труд его был обещан ", ADMINISTRATUM,
             " ещё до рождения — в возмещение за оплошность в делопроизводстве, которую его дед ",

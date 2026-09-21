@@ -30,11 +30,11 @@ const tableHead = (title, ...cols) =>
 const itemRow = (id, name, ...cells) =>
   `<tr><td>${U(`${REQ_ITEM}.${id}`, name)}</td>${cells.map(c => `<td>${c}</td>`).join("")}</tr>`;
 
-const CORE = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
+const CORE = "Compendium.apex-imperialis.navis-core-journals.JournalEntry";
 const IMP = `${CORE}.GPqYZykonC12TJb1.JournalEntryPage`;
 const ARMOURY = `${CORE}.wqlquQ8Njtd5fb4Y.JournalEntryPage`;
-const ITEM = "Compendium.navis-apexialis.navis-core-items.Item";
-const REQ_ITEM = "Compendium.navis-apexialis.navis-requisition-items.Item";
+const ITEM = "Compendium.apex-imperialis.navis-core-items.Item";
+const REQ_ITEM = "Compendium.apex-imperialis.navis-requisition-items.Item";
 
 const MILITARUM = U(`${IMP}.r6JYS3jOfrAEorvd`, "Астра Милитарум");
 const MECHANICUS = U(`${IMP}.nYfLVXh10BKR47Kj`, "Адептус Механикус");
@@ -50,7 +50,7 @@ export const byName = {
       Armoury: {
         name: "Арсенал",
         text:
-          `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-requisition/images/banner-armoury.webp" /></div>` +
+          `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-requisition/images/banner-armoury.webp" /></div>` +
           blue("«Автоган — есть. Игольный пистолет — есть. Вы там, проверьте, всё ли у вас в " +
             "порядке. Не хватало ещё, чтобы какая-нибудь дрянь нам всё испортила. Хватит ныть, а? " +
             "Мы и не из такого выбирались, а наниматель к нам был очень щедр, — так что давайте " +
@@ -95,7 +95,7 @@ export const byName = {
       "Melee Weapons": {
         name: "Оружие ближнего боя",
         text:
-          `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-requisition/misc/strip-ammo.webp" /></div>` +
+          `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-requisition/misc/strip-ammo.webp" /></div>` +
           p("В сорок первом тысячелетии оружием становится и простой инструмент: дуговой сварщик, ",
             "которым сплавляют металл, с тем же успехом проплавит и плоть. Почти всё оружие ближнего ",
             "боя ниже примечательно не только тем, насколько оно смертоносно в бою, но и тем, на что ",
@@ -122,7 +122,7 @@ export const byName = {
           itemRow("XlJ6Fyn9usUAqhvE", "Шоковый кастет", "Кулачный бой", "1000", "Редкая") +
           itemRow("QQKLmDZJmCndjtFh", "Шоковый посох", "Двуручное оружие", "150", "Необычная") +
           `</tbody></table>` +
-          `<div class="journal-image centered"><img width="500" src="modules/navis-apexialis/assets/impmal-core/items/chainsword.webp" /></div>` +
+          `<div class="journal-image centered"><img width="500" src="modules/apex-imperialis/assets/impmal-core/items/chainsword.webp" /></div>` +
 
           h(3, "chain-weapons", "Цепное оружие") +
           p("Такое оружие меняет одно острое лезвие на приводную вращающуюся цепь с зазубренными ",
@@ -278,7 +278,7 @@ export const byName = {
           itemRow("XACAQxrNsUVN800z", "Граната с паническим газом*", "Метательное оружие", "200", "Редкая") +
           `<tr><td colspan="4">У взрывчатки, помеченной звёздочкой (*), есть добавочные действия — они описаны в её собственных статьях.</td></tr>` +
           `</tbody></table>` +
-          `<div class="journal-image centered"><img width="250" src="modules/navis-apexialis/assets/impmal-core/images/spot-explosives.webp" /></div>`
+          `<div class="journal-image centered"><img width="250" src="modules/apex-imperialis/assets/impmal-core/images/spot-explosives.webp" /></div>`
       },
 
       "Weapon Modifications": {
@@ -311,7 +311,7 @@ export const byName = {
       Armour: {
         name: "Броня",
         text:
-          `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-requisition/misc/strip-helmets.webp" /></div>` +
+          `<div class="journal-image fit"><img src="modules/apex-imperialis/assets/impmal-requisition/misc/strip-helmets.webp" /></div>` +
           blue("«Один размер не подходит никому, так что кончай ныть, что тебе не впору, — а не то в " +
             "следующий раз получишь ношеный комплект!") +
           attrib("— комиссар Турч") +
@@ -336,7 +336,7 @@ export const byName = {
           itemRow("0u9QM0lZY8VOUItK", "Средний защитный костюм", "Руки, торс, ноги", "3", "500", "Обычная") +
           itemRow("8gupyxVVXASvWMXj", "Тяжёлый защитный костюм", "Руки, торс, ноги", "4", "1000", "Необычная") +
           `</tbody></table>` +
-          `<div class="journal-image centered"><img width="250" src="modules/navis-apexialis/assets/impmal-requisition/actors/armsmen3.webp" /></div>`
+          `<div class="journal-image centered"><img width="250" src="modules/apex-imperialis/assets/impmal-requisition/actors/armsmen3.webp" /></div>`
       },
 
       "Armour Modifications": {
@@ -356,9 +356,9 @@ export const byName = {
             " — там найдётся ещё немало. При некоторой изобретательности и с дозволенной помощью ",
             "техножреца персонажи могут приладить к шлему ",
             U(`${ITEM}.1LgXZfag35FhcNoj`, "фонарь"), ", а к нательной броне — ",
-            U("Compendium.navis-apexialis.navis-requisition-actors.Actor.ktUPQsWbSxgxXW4k.Item.N5qmWLUBBPrObKMi", "громкоговоритель"),
+            U("Compendium.apex-imperialis.navis-requisition-actors.Actor.ktUPQsWbSxgxXW4k.Item.N5qmWLUBBPrObKMi", "громкоговоритель"),
             " или ",
-            U("Compendium.navis-apexialis.navis-requisition-actors.Actor.yHvmPMIW56KNTofb.Item.64Ro8M9bj1vVS5Sh", "спасительный ауспик"),
+            U("Compendium.apex-imperialis.navis-requisition-actors.Actor.yHvmPMIW56KNTofb.Item.64Ro8M9bj1vVS5Sh", "спасительный ауспик"),
             ", и всё это обойдётся немногим дороже самой вещи. Если по доработанному предмету брони ",
             "приходится критическое попадание и бросок тяжести (без прибавок) выпадает нечётным, ",
             "доработка повреждена. Она может и вовсе перестать работать — особенно если это что-то ",

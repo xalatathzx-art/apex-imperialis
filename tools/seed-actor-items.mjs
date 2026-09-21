@@ -14,7 +14,7 @@
  * A name is reused on a type+name match. A description is reused only when the
  * English rules text is identical — two items may share a name and differ in
  * what they do. "Identical" ignores one thing: how a link names its target. The
- * consolidation rewrote some copies' links to Compendium.navis-apexialis.… and
+ * consolidation rewrote some copies' links to Compendium.apex-imperialis.… and
  * left others as JournalEntry.…; both reach the same page. The reused Russian
  * then takes this copy's own link targets, in order, so no link moves.
  *
@@ -47,7 +47,7 @@ const BOOKS = {
   inquisition: { actors: "navis-inquisition-actors", items: "navis-inquisition-items", collection: "impmal-inquisition.actors", label: "Актёры (Руководство Инквизиции)", rank: 3 },
   requisition: { actors: "navis-requisition-actors", items: "navis-requisition-items", collection: "impmal-requisition.actors", label: "Актёры (Реквизиция)", rank: 2 },
   voll: { actors: "navis-voll-actors", items: "navis-voll-items", collection: "impmal-voll.actors", label: "Актёры (Приключения на Волле)", rank: 1 },
-  bestiary: { actors: "navis-bestiary", items: null, collection: "navis-apexialis.navis-bestiary", label: "Бестиарий (Maledictum Expanded)", rank: 0 }
+  bestiary: { actors: "navis-bestiary", items: null, collection: "apex-imperialis.navis-bestiary", label: "Бестиарий", rank: 0 }
 };
 /** Our own item packs: names only lend where no book pack has the item. */
 const EXTRA_ITEMS = ["navis-talents", "navis-species", "navis-items"];
@@ -59,7 +59,7 @@ async function read(pack) {
   return partition(await readPack(copy));
 }
 const built = pack => {
-  const file = path.join(OUT, `navis-apexialis.${pack}.json`);
+  const file = path.join(OUT, `apex-imperialis.${pack}.json`);
   return fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, "utf8")).entries : {};
 };
 const key = (type, name) => `${type}\u0000${name}`;
@@ -77,7 +77,7 @@ const offer = (k, name, rank) => {
 };
 /** Link targets reduced to the document they reach, whichever form names it. */
 const LINK = /@UUID\[([^\]]+)\]/g;
-const canonTarget = t => t.replace(/^Compendium\.navis-apexialis\.navis-[a-z]+-(?:journals|items|actors|tables)\./, "");
+const canonTarget = t => t.replace(/^Compendium\.apex-imperialis\.navis-[a-z]+-(?:journals|items|actors|tables)\./, "");
 const canonical = s => String(s ?? "").replace(LINK, (_, t) => `@UUID[${canonTarget(t)}]`)
   .replace(/&nbsp;| /g, " ").replace(/\s+/g, " ").trim();
 const targets = s => [...String(s ?? "").matchAll(LINK)].map(m => m[1]);

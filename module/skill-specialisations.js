@@ -16,7 +16,7 @@
 
 import { byName as RUSSIAN_SPECIALISATIONS } from "../src/compendium/impmal-core.items.specialisations.mjs";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 const SPECIALISATION_ALIASES = new Map();
 for (const [english, data] of Object.entries(RUSSIAN_SPECIALISATIONS)) {

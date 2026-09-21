@@ -70,7 +70,7 @@ export const byName = {
         name: "Между заданиями",
         text:
           `<div class="journal-image float-right flip">` +
-          `<img src="modules/navis-apexialis/assets/impmal-core/images/ch7.webp" height="660" /></div>` +
+          `<img src="modules/apex-imperialis/assets/impmal-core/images/ch7.webp" height="660" /></div>` +
           quote(
             "«Императоровы зубы, тебе нужно было их всех взрывать? У меня целый контейнер " +
             "трупов и шайка вигилов, что наседают с вопросами, на которые нечего отвечать. " +

@@ -151,7 +151,7 @@ test("the effect is named from a real key at every band", async () => {
 test("the effect stamps its own content, so rule changes force a rewrite", async () => {
   const { buildGravityEffect } = await import("../module/environment/gravity-effect.js");
   globalThis.game = { i18n: { localize: k => k, format: (k, d) => `${k}:${d.n}` } };
-  const flag = g => buildGravityEffect({ gravity: g }).flags["navis-apexialis"].gravityEffect;
+  const flag = g => buildGravityEffect({ gravity: g }).flags["apex-imperialis"].gravityEffect;
 
   // Отпечаток есть и различает разные наборы скриптов.
   assert.ok(flag(0).stamp, "zero-G effect must carry a stamp");

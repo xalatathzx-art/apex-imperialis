@@ -1,11 +1,11 @@
-# Navis Apexialis
+# Apex Imperialis
 
 A global content module for **Imperium Maledictum**: playable species, expanded
 talents, a xenos and heretic bestiary, the mechanics behind them, and a skin for
 the whole interface.
 
-It carries the talents and bestiary of *Maledictum Expanded* by Meins,
-re-catalogued and repaired. See [docs/CREDITS.md](docs/CREDITS.md).
+Its talents and bestiary are re-catalogued and repaired against the system's
+own data. See [docs/CREDITS.md](docs/CREDITS.md).
 
 ## Installing
 
@@ -170,7 +170,7 @@ sheets, every window and dialog, journals, the chat log and its test cards, the
 sidebar, hotbar, context menu, tooltips and notifications.
 
 It is on by default. Each player can switch it off under
-**Configure Settings → Navis Apexialis skin**; the setting is per-client, so one
+**Configure Settings → Apex Imperialis skin**; the setting is per-client, so one
 player's choice never repaints the table for anyone else. It works whether or
 not impmal's own theme is enabled.
 
@@ -194,7 +194,7 @@ cards as they render, and that structure needs its stylesheet.
 
 ### How it attaches
 
-`styles/navis-skin.css` is generated — edit `src/skin/`, then run
+`styles/apex-skin.css` is generated — edit `src/skin/`, then run
 `node tools/build-skin.mjs`.
 
 | Source | What it holds |
@@ -248,7 +248,7 @@ node tools/build.mjs           # src/packs/ -> packs/    (run after any edit)
 node tools/verify.mjs          # packs/ vs upstream malexp, document by document
 node tools/check-content.mjs   # traits registered, artwork present, enums valid
 node tools/extract.mjs         # re-import from upstream; OVERWRITES src/packs/
-node tools/build-skin.mjs      # src/skin/ -> styles/navis-skin.css
+node tools/build-skin.mjs      # src/skin/ -> styles/apex-skin.css
 node tools/build-lang.mjs      # src/lang/ru.mjs -> lang/ru.json, with coverage
 node tools/make-species.mjs    # regenerate src/packs/species/ from the conversion table
 node tools/check-species.mjs   # every species reference resolves, every key is impmal's

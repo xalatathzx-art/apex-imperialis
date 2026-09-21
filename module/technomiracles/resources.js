@@ -19,7 +19,7 @@ import { implantsOf, isImplantActive } from "../implants/state.js";
 import { resolveQualityValue } from "../implants/rules.js";
 import { resolveEntries } from "../implants/mechanics/entries.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 const FLAG = "mechanicum";
 
 /**

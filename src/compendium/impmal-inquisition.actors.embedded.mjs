@@ -23,9 +23,9 @@
 
 export const label = "Актёры (Руководство Инквизиции)";
 
-const CORE_ITEMS = "Compendium.navis-apexialis.navis-core-items.Item";
-const TABLES = "Compendium.navis-apexialis.navis-core-tables.RollTable";
-const ZONES = "Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL";
+const CORE_ITEMS = "Compendium.apex-imperialis.navis-core-items.Item";
+const TABLES = "Compendium.apex-imperialis.navis-core-tables.RollTable";
+const ZONES = "Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL";
 const power = (id, label) => `@UUID[${CORE_ITEMS}.${id}]{${label}}`;
 const p = text => `<p>${text}</p>`;
 const HARD = s => `<strong>${s}</strong>`;
@@ -83,7 +83,7 @@ export const entries = {
       },
       "Favoured by Khorne": {
         name: "Любимец Кхорна",
-        description: p(`${HARD("Трудная (−10) проверка Бдительности (Психическое чутьё)")} на непосредственной дистанции позволяет заметить рябь и искажения реальности вокруг Мизракса. Если Мизракса одолеют, не напомнив ему о былых почестях, открывается разлом, из которого вырываются [[/r 1d10]] @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.r38KjnD2RWhYIykh]{кровопускателей}.`)
+        description: p(`${HARD("Трудная (−10) проверка Бдительности (Психическое чутьё)")} на непосредственной дистанции позволяет заметить рябь и искажения реальности вокруг Мизракса. Если Мизракса одолеют, не напомнив ему о былых почестях, открывается разлом, из которого вырываются [[/r 1d10]] @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.r38KjnD2RWhYIykh]{кровопускателей}.`)
       },
       ...SOLARS("200 Solars", "200 соляров")
     }
@@ -181,7 +181,7 @@ export const entries = {
       "Unholy Gaze": { name: "Нечестивый взор" },
       Note: {
         name: "Примечание",
-        description: p("Этим атакам можно противостоять @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1.JournalEntryPage.T3pf1AmXi3Qnm6ev#deny-the-witch!]{Отвержением ведьмовства}! как любой другой психосиле.")
+        description: p("Этим атакам можно противостоять @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1.JournalEntryPage.T3pf1AmXi3Qnm6ev#deny-the-witch!]{Отвержением ведьмовства}! как любой другой психосиле.")
       },
       "Warp Grasp": { name: "Хватка Варпа" }
     }
@@ -284,7 +284,7 @@ export const entries = {
     items: {
       "Powerful Telepath": {
         name: "Могучий телепат",
-        description: p(`Бормочущий может применять следующие психосилы: ${power("owV6X67ajuIlIiK7", "Маяк")}, ${power("iF1qxYZdS6GKxaVk", "Призыв вредителей")}, @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.hkQ5a28KjUr21qBT]{Семя шифра}, ${power("XnKX6A6hVzeXsGld", "Приказ")}, ${power("FlK5TFyjJNmgnExw", "Господство")}, ${power("I6NTqen3Srp90dyW", "Аура ужаса")}, ${power("dXuovICcPa2cssAn", "Стирание памяти")}, @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.lwD2p2jSEj6Io81A]{Галлюцинация}, ${power("sZluux2xrMuK4w1H", "Пси-допрос")}, ${power("42dhMCtTnzvxtiUM", "Психические помехи")}, ${power("plATcbLJsFW1evOT", "Духовное зрение")} и ${power("23AM9iBKKeWZKZNj", "Телепатическая связь")}.`)
+        description: p(`Бормочущий может применять следующие психосилы: ${power("owV6X67ajuIlIiK7", "Маяк")}, ${power("iF1qxYZdS6GKxaVk", "Призыв вредителей")}, @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.hkQ5a28KjUr21qBT]{Семя шифра}, ${power("XnKX6A6hVzeXsGld", "Приказ")}, ${power("FlK5TFyjJNmgnExw", "Господство")}, ${power("I6NTqen3Srp90dyW", "Аура ужаса")}, ${power("dXuovICcPa2cssAn", "Стирание памяти")}, @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.lwD2p2jSEj6Io81A]{Галлюцинация}, ${power("sZluux2xrMuK4w1H", "Пси-допрос")}, ${power("42dhMCtTnzvxtiUM", "Психические помехи")}, ${power("plATcbLJsFW1evOT", "Духовное зрение")} и ${power("23AM9iBKKeWZKZNj", "Телепатическая связь")}.`)
       },
       "Puppet Master": {
         name: "Кукловод",
@@ -347,7 +347,7 @@ export const entries = {
         description: p("Служит комбиинструментом и холодным оружием.")
       },
       DN4ZI8z7SqJjsney: { name: "Ремесленный механодендрит",
-        description: p(`Эти змееподобные, почти двухметровые металлические «руки» крепятся на груди, спине или плечах хозяина и служат ему дополнительными конечностями. Они встречаются только у членов @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.uJURMn2glWHhjqJk.JournalEntryPage.1oKZw1hTM7Gx5cqB]{Адептус Механикус}, и каждый оснащён специальными приспособлениями. Применение механодендрита требует действия.`)
+        description: p(`Эти змееподобные, почти двухметровые металлические «руки» крепятся на груди, спине или плечах хозяина и служат ему дополнительными конечностями. Они встречаются только у членов @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.uJURMn2glWHhjqJk.JournalEntryPage.1oKZw1hTM7Gx5cqB]{Адептус Механикус}, и каждый оснащён специальными приспособлениями. Применение механодендрита требует действия.`)
           + p("Каждый механодендрит при подсчёте предельного количества имплантатов, что может поставить себе персонаж, считается отдельной единицей аугметики. Если персонаж, имеющий механодендриты, получает критическую рану в торс, бросьте 1к10. Если выпадет число, меньшее количества установленных и работающих механодендритов, значит попадание повреждает механодендрит. Повреждённый механодендрит не будет работать, пока его не починят.")
           + `<ul><li><p><strong>Ремесленный</strong>: самый расхожий тип механодендрита — он оснащён инструментами для работы с машинами и считается @UUID[${CORE_ITEMS}.xQ2vhqZTWMBZ3Jxi]{комбиинструментом} среднего качества, но приносит +2 успеха к проверкам Техники, а также может использоваться в ближнем бою как @UUID[${CORE_ITEMS}.CrbE669FitnwNPZX]{импровизированное одноручное оружие}.</p></li></ul>`
       }

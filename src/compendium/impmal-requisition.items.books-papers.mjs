@@ -33,7 +33,7 @@ const skills = (...list) => p("<strong>Связанные умения</strong>:
 const examples = (...list) => p("<strong>Примеры</strong>: ", list.join(", "));
 const example = text => p("<strong>Пример</strong>: <em>", text, "</em>");
 
-const CORE = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
+const CORE = "Compendium.apex-imperialis.navis-core-journals.JournalEntry";
 const IMP = `${CORE}.GPqYZykonC12TJb1.JournalEntryPage`;
 const SECTOR = `${CORE}.B7MZBBT3bNew9N96.JournalEntryPage`;
 
@@ -302,7 +302,7 @@ export const byName = {
     description: p("В грязно-бурых рясах бесчисленные адепты Дао Тейраса являют собой зрелище до ",
       "крайности незапоминающееся, когда во множестве своём бредут по улицам Атенеума Соляра. ",
       "Впрочем, адепта почти не встретишь без свитка или ",
-      U("Compendium.navis-apexialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW", "инфопланшета"), " в руках (",
+      U("Compendium.apex-imperialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW", "инфопланшета"), " в руках (",
       U(`${SECTOR}.BKMxau7cO5Cy5aXX`, "Imperium Maledictum"), ")")
   }
 };

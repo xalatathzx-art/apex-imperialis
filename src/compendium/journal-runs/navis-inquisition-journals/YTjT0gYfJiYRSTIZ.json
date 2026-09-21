@@ -18,8 +18,8 @@
    "ru": "Базовая цена фамильяра — 10 000 соляров, а базовая стоимость содержания — 10% оклада хозяина."
   },
   "22": {
-   "en": "Determine Familiar’s Size (See @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.CzOVN4IYgu7cMuAR]{Familiar Size} Table). Note the Cost Multiplier, and apply it to the initial cost of the Familiar.",
-   "ru": "Определите размер фамильяра (см. таблицу @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.CzOVN4IYgu7cMuAR]{«Размер фамильяра»}). Отметьте множитель цены и примените его к исходной цене фамильяра."
+   "en": "Determine Familiar’s Size (See @UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.CzOVN4IYgu7cMuAR]{Familiar Size} Table). Note the Cost Multiplier, and apply it to the initial cost of the Familiar.",
+   "ru": "Определите размер фамильяра (см. таблицу @UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.CzOVN4IYgu7cMuAR]{«Размер фамильяра»}). Отметьте множитель цены и примените его к исходной цене фамильяра."
   },
   "30": {
    "en": "A Familiar’s Characteristics all start at 5. Increase the Familiar’s Characteristics as desired, using a pool of 200 points. Unless modified by Familiar Size, the maximum for any Characteristic is 50.",
@@ -34,8 +34,8 @@
    "ru": "Определите подвижность фамильяра (см. таблицу «Подвижность фамильяра»)."
   },
   "54": {
-   "en": "Choose 5 Skills to gain 1 Advance each, and give one of them a @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.2MqLlcSMDCxkumCk#specialisations]{Skill Specialisation}.",
-   "ru": "Выберите 5 умений, получающих по 1 улучшению, и дайте одному из них @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.2MqLlcSMDCxkumCk#specialisations]{специализацию}."
+   "en": "Choose 5 Skills to gain 1 Advance each, and give one of them a @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.2MqLlcSMDCxkumCk#specialisations]{Skill Specialisation}.",
+   "ru": "Выберите 5 умений, получающих по 1 улучшению, и дайте одному из них @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.2MqLlcSMDCxkumCk#specialisations]{специализацию}."
   },
   "62": {
    "en": "Add 2 @UUID[.Vil8B54FxAl0jFcZ#familiar-talents]{Familiar Talents}.",
@@ -50,12 +50,12 @@
    "ru": "Если фамильяр — киберфамильяр, его тип — конструкция. Иначе его тип — зверь."
   },
   "86": {
-   "en": "Derive Wounds (based on the Wounds column in the @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.CzOVN4IYgu7cMuAR]{Familiar Size} Table), Critical Wounds (equal to their Toughness Bonus), Encumbrance (Strength Bonus + Toughness Bonus) and Initiative (their Perception Bonus + Agility Bonus).",
-   "ru": "Рассчитайте раны (по столбцу «Раны» таблицы @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.CzOVN4IYgu7cMuAR]{«Размер фамильяра»}), критические раны (равны бонусу Выносливости), нагрузку (бонус Силы + бонус Выносливости) и инициативу (бонус Восприятия + бонус Ловкости)."
+   "en": "Derive Wounds (based on the Wounds column in the @UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.CzOVN4IYgu7cMuAR]{Familiar Size} Table), Critical Wounds (equal to their Toughness Bonus), Encumbrance (Strength Bonus + Toughness Bonus) and Initiative (their Perception Bonus + Agility Bonus).",
+   "ru": "Рассчитайте раны (по столбцу «Раны» таблицы @UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.CzOVN4IYgu7cMuAR]{«Размер фамильяра»}), критические раны (равны бонусу Выносливости), нагрузку (бонус Силы + бонус Выносливости) и инициативу (бонус Восприятия + бонус Ловкости)."
   },
   "94": {
-   "en": "Determine Quirks (See @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.j7xwtmxepVD5r597]{Familiar Quirk} Table) and Name the Familiar.",
-   "ru": "Определите причуды (см. таблицу @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.j7xwtmxepVD5r597]{«Причуды фамильяра»}) и дайте фамильяру имя."
+   "en": "Determine Quirks (See @UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.j7xwtmxepVD5r597]{Familiar Quirk} Table) and Name the Familiar.",
+   "ru": "Определите причуды (см. таблицу @UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.j7xwtmxepVD5r597]{«Причуды фамильяра»}) и дайте фамильяру имя."
   },
   "108": {
    "en": "Additional Notes (unless otherwise stated):",
@@ -86,12 +86,12 @@
    "ru": "У фамильяров нет собственной фракции, но они принадлежат к фракции хозяина."
   },
   "166": {
-   "en": "All Familiars have an Unarmed Attack (Melee (Brawling), 0 + StrB Damage. @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#ineffective]{Ineffective}).",
-   "ru": "У всех фамильяров есть безоружная атака (Ближний бой (Кулачный бой), урон 0 + бСил, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#ineffective]{Бесполезное})."
+   "en": "All Familiars have an Unarmed Attack (Melee (Brawling), 0 + StrB Damage. @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#ineffective]{Ineffective}).",
+   "ru": "У всех фамильяров есть безоружная атака (Ближний бой (Кулачный бой), урон 0 + бСил, @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#ineffective]{Бесполезное})."
   },
   "182": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.CzOVN4IYgu7cMuAR]{Familiar Size}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.CzOVN4IYgu7cMuAR]{Размер фамильяра}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.CzOVN4IYgu7cMuAR]{Familiar Size}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.CzOVN4IYgu7cMuAR]{Размер фамильяра}"
   },
   "194": {
    "en": "1d10",
@@ -242,16 +242,16 @@
    "ru": "1к10"
   },
   "418": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.iSQvBadbqf9vlZmO]{Combat Instinct}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.iSQvBadbqf9vlZmO]{Боевой нрав фамильяра}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.iSQvBadbqf9vlZmO]{Combat Instinct}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.iSQvBadbqf9vlZmO]{Боевой нрав фамильяра}"
   },
   "426": {
    "en": "Effect",
    "ru": "Эффект"
   },
   "434": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.8KmfFCuH0EfpKf3t]{Preservation Instinct}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.8KmfFCuH0EfpKf3t]{Охранительный нрав фамильяра}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.8KmfFCuH0EfpKf3t]{Preservation Instinct}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.8KmfFCuH0EfpKf3t]{Охранительный нрав фамильяра}"
   },
   "442": {
    "en": "Effect",
@@ -266,8 +266,8 @@
    "ru": "Ближний бой"
   },
   "464": {
-   "en": "Will @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#charge]{Charge} the nearest enemy or @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#defend]{Defend} their Master.",
-   "ru": "Совершает @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#charge]{натиск} на ближайшего врага или @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#defend]{защищает} хозяина."
+   "en": "Will @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#charge]{Charge} the nearest enemy or @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#defend]{Defend} their Master.",
+   "ru": "Совершает @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#charge]{натиск} на ближайшего врага или @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#defend]{защищает} хозяина."
   },
   "468": {
    "en": "Fearless",
@@ -306,8 +306,8 @@
    "ru": "Скрытный охотник"
   },
   "512": {
-   "en": "Takes Actions to @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#hide]{Hide}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#attack]{Attacks} from Stealth, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#disengage]{Disengages} to repeat.",
-   "ru": "Тратит действия на то, чтобы @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#hide]{спрятаться}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#attack]{атакует} из укрытия и @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#disengage]{выходит из боя}, чтобы повторить."
+   "en": "Takes Actions to @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#hide]{Hide}, @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#attack]{Attacks} from Stealth, @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#disengage]{Disengages} to repeat.",
+   "ru": "Тратит действия на то, чтобы @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#hide]{спрятаться}, @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#attack]{атакует} из укрытия и @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#disengage]{выходит из боя}, чтобы повторить."
   },
   "516": {
    "en": "Wary",
@@ -338,8 +338,8 @@
    "ru": "Пытается отступить, если ему угрожают или он теряет хотя бы одну рану."
   },
   "566": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.a5moZHz2bwNH8mlv]{Familiar Mobility}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.a5moZHz2bwNH8mlv]{Передвижение фамильяра}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.a5moZHz2bwNH8mlv]{Familiar Mobility}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.a5moZHz2bwNH8mlv]{Передвижение фамильяра}"
   },
   "578": {
    "en": "1d10",
@@ -370,8 +370,8 @@
    "ru": "Imperium Maledictum"
   },
   "624": {
-   "en": " for rules on @UUID[Compendium.navis-apexialis.navis-core-items.Item.AKyR6gu2VqFCimHq]{Augmetic Tracks and Wheel Movement}.",
-   "ru": " для @UUID[Compendium.navis-apexialis.navis-core-items.Item.AKyR6gu2VqFCimHq]{передвижения на аугметических гусеницах и колёсах}."
+   "en": " for rules on @UUID[Compendium.apex-imperialis.navis-core-items.Item.AKyR6gu2VqFCimHq]{Augmetic Tracks and Wheel Movement}.",
+   "ru": " для @UUID[Compendium.apex-imperialis.navis-core-items.Item.AKyR6gu2VqFCimHq]{передвижения на аугметических гусеницах и колёсах}."
   },
   "632": {
    "en": "3-4",
@@ -382,8 +382,8 @@
    "ru": "Змеевидный"
   },
   "640": {
-   "en": "Slow Speed, Advantage on Stealth (Moving Silently), @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Difficult Terrain} does not cause them Disadvantage.",
-   "ru": "Медленная скорость, преимущество на Скрытность (Бесшумное движение), @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{пересечённая местность} не даёт ему помехи."
+   "en": "Slow Speed, Advantage on Stealth (Moving Silently), @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Difficult Terrain} does not cause them Disadvantage.",
+   "ru": "Медленная скорость, преимущество на Скрытность (Бесшумное движение), @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{пересечённая местность} не даёт ему помехи."
   },
   "648": {
    "en": "5-6",
@@ -426,8 +426,8 @@
    "ru": "Примечание: любой фамильяр может получить полёт вдобавок к любому из вариантов выше или вместо него. Это добавляет к базовой цене +1000 соляров за медленную скорость полёта, +2000 за обычную, +3000 за быструю."
   },
   "706": {
-   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.j7xwtmxepVD5r597]{Quirk}",
-   "ru": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.j7xwtmxepVD5r597]{Причуда}"
+   "en": "@TableHTML[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.j7xwtmxepVD5r597]{Quirk}",
+   "ru": "@TableHTML[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.j7xwtmxepVD5r597]{Причуда}"
   }
  }
 }

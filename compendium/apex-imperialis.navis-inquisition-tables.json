@@ -11,7 +11,7 @@
           "description": "<p><strong>Смрадное касание</strong>: Оружие получает свойство Состояние (Усталость).</p>"
         },
         "S8t18aUJtTz4H1TN": {
-          "description": "<p><strong>Усыпляющий токсин</strong>: Впервые ударив существо, клинок травит его галлюциногенным ядом на 1d10 раундов. Каждый такой раунд оно бросает по таблице @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.Dy8XzuHFhHpVFytC]{Действие галлюциногена}.</p>"
+          "description": "<p><strong>Усыпляющий токсин</strong>: Впервые ударив существо, клинок травит его галлюциногенным ядом на 1d10 раундов. Каждый такой раунд оно бросает по таблице @UUID[Compendium.apex-imperialis.navis-inquisition-tables.RollTable.Dy8XzuHFhHpVFytC]{Действие галлюциногена}.</p>"
         },
         "lvIRre1O6GgAOYn4": {
           "description": "<p><strong>Зеркальный</strong>: Встречные проверки в защите от этого оружия и попытки уклониться от него идут с Помехой.</p>"
@@ -115,10 +115,10 @@
       "name": "Действие галлюциногена",
       "results": {
         "PH0kFyJouFmANYat": {
-          "description": "<strong>Ложная смерть</strong>: персонаж уверен, что умер, и всё это время @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#prone]{Сбит с ног} и @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#incapacitated]{Беспомощность}."
+          "description": "<strong>Ложная смерть</strong>: персонаж уверен, что умер, и всё это время @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#prone]{Сбит с ног} и @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#incapacitated]{Беспомощность}."
         },
         "9cW6IjdPX6w2ONLr": {
-          "description": "<strong>Худший страх</strong>: всё это время персонаж испытывает @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Страх} перед тем, что видит в своей зоне он один."
+          "description": "<strong>Худший страх</strong>: всё это время персонаж испытывает @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Страх} перед тем, что видит в своей зоне он один."
         },
         "dlAg0OUgT314K84j": {
           "description": "<strong>Заклятый враг</strong>: охваченный паранойей и жаждой убийства, персонаж всё это время бросается на ближайшего врага без разбора."
@@ -127,13 +127,13 @@
           "description": "<strong>Бесконечное падение</strong>: мир вдруг смещается и начинает вращаться вокруг новой, пугающей оси. Всё это время персонаж движется в случайную сторону на полной скорости, меняя направление каждый ход."
         },
         "qp6LGYty2VAu09vl": {
-          "description": "<strong>Не двинусь — не заметит!</strong>: скрываясь от мнимой опасности, персонаж немедленно оказывается @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#prone]{Сбит с ног} и всё это время отказывается вставать и предпринимать что-либо ещё. Реакции при этом ему доступны как обычно."
+          "description": "<strong>Не двинусь — не заметит!</strong>: скрываясь от мнимой опасности, персонаж немедленно оказывается @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#prone]{Сбит с ног} и всё это время отказывается вставать и предпринимать что-либо ещё. Реакции при этом ему доступны как обычно."
         },
         "0IvOvOPF7pPmFKlA": {
-          "description": "<strong>Оно по мне ползёт!</strong>: персонаж во власти видения — ему мерещится, что по нему кишат жуки или крысы, что тело его плавится или горит, — и всё это время он считается получившим @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Оглушение}."
+          "description": "<strong>Оно по мне ползёт!</strong>: персонаж во власти видения — ему мерещится, что по нему кишат жуки или крысы, что тело его плавится или горит, — и всё это время он считается получившим @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Оглушение}."
         },
         "5RtFTf1G8HwNiDRg": {
-          "description": "<strong>Потерян в пустоте / Свет Императора!</strong>: персонаж уверен, что его поглотила тьма или ослепила вспышка противоестественного света. Всё это время он действует как @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#blinded]{Слепота}."
+          "description": "<strong>Потерян в пустоте / Свет Императора!</strong>: персонаж уверен, что его поглотила тьма или ослепила вспышка противоестественного света. Всё это время он действует как @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#blinded]{Слепота}."
         },
         "1GSwc79iptu6l4BM": {
           "description": "<strong>Я тону!</strong>: персонажу кажется, что пол завален обломками или плавится и он отчаянно выбирается наружу. Всё это время его скорость становится Медленной."
@@ -165,7 +165,7 @@
           "description": "<strong>Срочное поручение</strong>: Персонаж получает прямое послание от своего Инквизитора: вместо обычного отдыха между заданиями ему велено разобраться с делом по соседству. Ведущему стоит вести это поручение как <strong>среднюю (+0)</strong> продлённую проверку умением на выбор персонажа (а если сомневаетесь — тем, где у него больше шансов: Инквизитор выбрал его не наобум!). Успеть персонаж может за три попытки. За труды в начале следующего промежутка между заданиями он получает 100 соляров за каждый набранный КУ в возмещение потерянного времени. За готовность служить в любой час его могут отметить и как-то иначе."
         },
         "SnzUDvspyDK4Juvj": {
-          "description": "<strong>Бессонные ночи</strong>: Сны персонажа тревожат странные знамения, сулящие возможное появление демонов. Он может пройти <strong>трудную (−10) проверку Дисциплины (Психосилы)</strong>, чтобы выдержать морок кошмаров и разгадать их скрытый смысл. При успехе в любой миг до следующего промежутка между заданиями он может прибавить +2 КУ к одной проверке на выбор. При провале он получает @Corruption[minor]{малое соприкосновение} с @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.PuzopCeKzYgcYAwh]{Порче}."
+          "description": "<strong>Бессонные ночи</strong>: Сны персонажа тревожат странные знамения, сулящие возможное появление демонов. Он может пройти <strong>трудную (−10) проверку Дисциплины (Психосилы)</strong>, чтобы выдержать морок кошмаров и разгадать их скрытый смысл. При успехе в любой миг до следующего промежутка между заданиями он может прибавить +2 КУ к одной проверке на выбор. При провале он получает @Corruption[minor]{малое соприкосновение} с @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.PuzopCeKzYgcYAwh]{Порче}."
         },
         "CPZvwlQzcenJw3hB": {
           "description": "<strong>Дотошное дознание</strong>: Слухи о демонах обычно так слухами и остаются, но бдительность требует проверить и их. Добросовестная отработка ниточек отнимает столько времени, что все проверки на завершение занятий в этот промежуток между заданиями идут с Помехой, зато персонаж получает +1 временного Влияния в Инквизиции и Адептус Министорум до следующего промежутка между заданиями."
@@ -177,10 +177,10 @@
           "description": "<strong>Порченые припасы</strong>: Припасы по всей округе испорчены каким-то недобрым присутствием. Откуда бы оно ни взялось, полагаться на местную снедь — значит рисковать. Персонаж может потратить 1d10 × 50 соляров на привозные припасы, которых хватит, пока заразу не выведут. Если он этого не сделает, ему придётся пройти <strong>трудную (−10) проверку Стойкости (Неустанность)</strong> или <strong>Стойкости (Яды)</strong> — снести лишения или пережить последствия порченой еды. Провал Стойкости (Неустанность) означает, что следующее задание персонаж начнёт с Усталостью, а провал Стойкости (Яды) приносит ему 1 Порчи."
         },
         "Fx7LQ9Pbo1M0lDo8": {
-          "description": "<strong>Вредительство</strong>: Из-за перебоев на местном мануфакторуме нужных товаров стало не хватать, и власти начали их придерживать. Инквизиция вправе истребовать свою долю, но этим подрывает себе поддержку на месте. До следующего промежутка между заданиями персонаж покупает новые вещи на 50 % дороже. Он может обойти надбавку официальным требованием, но тогда его Влияние в местных силах падает на 1 либо до конца следующего промежутка между заданиями снижается @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Скрытности операции}."
+          "description": "<strong>Вредительство</strong>: Из-за перебоев на местном мануфакторуме нужных товаров стало не хватать, и власти начали их придерживать. Инквизиция вправе истребовать свою долю, но этим подрывает себе поддержку на месте. До следующего промежутка между заданиями персонаж покупает новые вещи на 50 % дороже. Он может обойти надбавку официальным требованием, но тогда его Влияние в местных силах падает на 1 либо до конца следующего промежутка между заданиями снижается @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Скрытности операции}."
         },
         "lIt5PD5X1xOihxLv": {
-          "description": "<strong>Охота на псайкера</strong>: Признаки просыпающейся поблизости психической силы требуют внимания. Персонаж может вытрясти ответы из местных <strong>средней (+0) проверкой Командования (Запугивание)</strong>, разыскать скрытого псайкера <strong>трудной (−10) проверкой Чутья (Окружение)</strong> или, если ничего не вышло, опереться на свою власть в Ордосах и устроить охоту на ведьм — проверки не нужно, но уровень его @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Скрытности операции} снижается. Успех означает, что отступник-псайкер найден и схвачен и передан властям под стражу до прихода Чёрных кораблей, а персонаж до следующего промежутка между заданиями получает +1 временного Влияния среди Адептус Астра Телепатика и Инквизиции."
+          "description": "<strong>Охота на псайкера</strong>: Признаки просыпающейся поблизости психической силы требуют внимания. Персонаж может вытрясти ответы из местных <strong>средней (+0) проверкой Командования (Запугивание)</strong>, разыскать скрытого псайкера <strong>трудной (−10) проверкой Чутья (Окружение)</strong> или, если ничего не вышло, опереться на свою власть в Ордосах и устроить охоту на ведьм — проверки не нужно, но уровень его @UUID[Compendium.apex-imperialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Скрытности операции} снижается. Успех означает, что отступник-псайкер найден и схвачен и передан властям под стражу до прихода Чёрных кораблей, а персонаж до следующего промежутка между заданиями получает +1 временного Влияния среди Адептус Астра Телепатика и Инквизиции."
         },
         "cQNj7ER3mYqUV6mD": {
           "description": "<strong>Паутина лжи</strong>: Народ взбудоражен подозрениями в ереси и ведовстве: сплетники и торговцы слухами только и говорят, что о предполагаемых виновных. Чтобы просеять пустую молву, нужна <strong>средняя (+0) проверка Взаимопонимания (Сбор сведений)</strong>. Успех даёт +2 КУ к одному броску на выбор персонажа до следующего промежутка между заданиями — из тех, что касаются местных событий, известных проходимцев и смутьянов и необычных явлений в округе."
@@ -211,10 +211,10 @@
       "name": "Передвижение фамильяра",
       "results": {
         "XxLELT05poWyTl7e": {
-          "description": "<p><strong>Передвижение</strong>: Колёса или гусеницы</p> <p><strong>Действие</strong>: +1500 соляров к основной цене. Правила движения см. @UUID[Compendium.navis-apexialis.navis-core-items.Item.AKyR6gu2VqFCimHq]{Аугметические колёса или гусеницы} в «<em><strong>Imperium Maledictum</strong></em>».</p>"
+          "description": "<p><strong>Передвижение</strong>: Колёса или гусеницы</p> <p><strong>Действие</strong>: +1500 соляров к основной цене. Правила движения см. @UUID[Compendium.apex-imperialis.navis-core-items.Item.AKyR6gu2VqFCimHq]{Аугметические колёса или гусеницы} в «<em><strong>Imperium Maledictum</strong></em>».</p>"
         },
         "tQwPs6BOqbf1sjR4": {
-          "description": "<p><strong>Передвижение</strong>: Змеевидное</p> <p><strong>Действие</strong>: Малая скорость, Преимущество на Скрытность (Бесшумность), @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Труднопроходимая местность} не создаёт ему Помехи.</p>"
+          "description": "<p><strong>Передвижение</strong>: Змеевидное</p> <p><strong>Действие</strong>: Малая скорость, Преимущество на Скрытность (Бесшумность), @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Труднопроходимая местность} не создаёт ему Помехи.</p>"
         },
         "8J1aQJ6Xk4TTgrm3": {
           "description": "<p><strong>Передвижение</strong>: Двуногое</p> <p><strong>Действие</strong>: Обычная скорость, движется как человек.</p>"
@@ -292,7 +292,7 @@
           "description": "Хромает или движется как покалеченный либо неисправный, хотя с ним всё в порядке."
         },
         "RotDjljJF1oSoABI": {
-          "description": "Открыто выказывает неприязнь к персонажам из случайной службы — рычит, шипит или мигает красными прицельными сканерами. (Службу можно выбрать или определить броском по таблице @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.vl9saE1Hpu48qsLd]{Служба покровителя}.)"
+          "description": "Открыто выказывает неприязнь к персонажам из случайной службы — рычит, шипит или мигает красными прицельными сканерами. (Службу можно выбрать или определить броском по таблице @UUID[Compendium.apex-imperialis.navis-core-tables.RollTable.vl9saE1Hpu48qsLd]{Служба покровителя}.)"
         }
       }
     },
@@ -300,16 +300,16 @@
       "name": "Доработки джокаэро",
       "results": {
         "4qrQDNCRhakTaKXQ": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.ZR29g4RP1E8y9twS#lightweight]{Лёгкий}"
+          "description": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.ZR29g4RP1E8y9twS#lightweight]{Лёгкий}"
         },
         "hSQDf39X6RRn5YqP": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.ZR29g4RP1E8y9twS#master-crafted]{Мастерской работы}"
+          "description": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.ZR29g4RP1E8y9twS#master-crafted]{Мастерской работы}"
         },
         "vSb3zedXhjanhNSP": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.ZR29g4RP1E8y9twS#ornamental]{Красивый}"
+          "description": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.ZR29g4RP1E8y9twS#ornamental]{Красивый}"
         },
         "ICJgypi6Req9oLfB": {
-          "description": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.ZR29g4RP1E8y9twS#durable]{Надёжный}"
+          "description": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.ZR29g4RP1E8y9twS#durable]{Надёжный}"
         }
       }
     },
@@ -1253,16 +1253,16 @@
       "name": "Розетты: общие свойства",
       "results": {
         "BvSZiFL3fMwlGlwK": {
-          "description": "<p>В розетту вделана @UUID[Compendium.navis-apexialis.navis-core-items.Item.99dVOsy85KLNtGTj]{Мельта-бомба}, срабатывающая всякий раз, когда её берёт в руки тот, кому Инквизитор этого не дозволил.</p>"
+          "description": "<p>В розетту вделана @UUID[Compendium.apex-imperialis.navis-core-items.Item.99dVOsy85KLNtGTj]{Мельта-бомба}, срабатывающая всякий раз, когда её берёт в руки тот, кому Инквизитор этого не дозволил.</p>"
         },
         "WSGXgMplbfxR0woO": {
           "description": "<p>В розетте скрыт аварийный маяк бедствия, подающий наводящий сигнал. Своё положение он передаёт шифром, различимым только на вокс-каналах Инквизиции. Хватает его на целую планету.</p>"
         },
         "UeERj8BdBygLPXvC": {
-          "description": "<p>У розетты есть аварийный спуск: Свободным действием он разом срабатывает как @UUID[Compendium.navis-apexialis.navis-core-items.Item.kw9N0gOOA3YVqN4i]{Дымовая граната}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.deHQEH976yh9nI9y]{Подавитель сигнала} и @UUID[Compendium.navis-apexialis.navis-core-items.Item.V2OgwHeEr3qpTbBy]{Молчун}.</p>"
+          "description": "<p>У розетты есть аварийный спуск: Свободным действием он разом срабатывает как @UUID[Compendium.apex-imperialis.navis-core-items.Item.kw9N0gOOA3YVqN4i]{Дымовая граната}, @UUID[Compendium.apex-imperialis.navis-core-items.Item.deHQEH976yh9nI9y]{Подавитель сигнала} и @UUID[Compendium.apex-imperialis.navis-core-items.Item.V2OgwHeEr3qpTbBy]{Молчун}.</p>"
         },
         "2sNfShMsFudOebaX": {
-          "description": "<p>В розетте скрыт порт данных, стыкующийся с когитатором. Она работает как @UUID[Compendium.navis-apexialis.navis-core-items.Item.xQ2vhqZTWMBZ3Jxi]{Комбиинструмент} и даёт +1 КУ, когда полномочия Инквизитора уместны и способны перекрыть любые требования доступа.</p>"
+          "description": "<p>В розетте скрыт порт данных, стыкующийся с когитатором. Она работает как @UUID[Compendium.apex-imperialis.navis-core-items.Item.xQ2vhqZTWMBZ3Jxi]{Комбиинструмент} и даёт +1 КУ, когда полномочия Инквизитора уместны и способны перекрыть любые требования доступа.</p>"
         },
         "9jRxO9K9bsP7PnlA": {
           "description": "<p>В розетту вделана бомба с сильным нейротоксином, срабатывающая всякий раз, когда её берёт в руки тот, кому Инквизитор этого не дозволил. При срабатывании каждое существо в одной зоне с розеттой должно пройти <strong>среднюю (+0) проверку Стойкости (Яды)</strong>, иначе получает состояние <em>Отравление (Серьёзное)</em>.</p>"
@@ -1302,7 +1302,7 @@
           "description": "<p>Розетта собрана вокруг сердечника, подобного Нуль-жезлу. Ею можно бить в ближнем бою по цели с порогом Варпа. Такая атака получает <em>Разрывающее (X)</em>, где X — нынешний Заряд Варпа цели. После применения розетта восстанавливается неделю.</p>"
         },
         "2sNfShMsFudOebaX": {
-          "description": "<p>В розетту вделан миниатюрный ауроскрий — редкая и мудрёная техника, работающая как @UUID[Compendium.navis-apexialis.navis-core-items.Item.dO7XoDXD9QYTy6zZ]{Ауспик или сканер}, но нарочно устроенная так, чтобы чуять присутствие демонов. Он работает час, после чего требует 12 часов на подзарядку.</p>"
+          "description": "<p>В розетту вделан миниатюрный ауроскрий — редкая и мудрёная техника, работающая как @UUID[Compendium.apex-imperialis.navis-core-items.Item.dO7XoDXD9QYTy6zZ]{Ауспик или сканер}, но нарочно устроенная так, чтобы чуять присутствие демонов. Он работает час, после чего требует 12 часов на подзарядку.</p>"
         },
         "9jRxO9K9bsP7PnlA": {
           "description": "<p>Розетта подлинно древняя и собрана вокруг уменьшенного генератора поля Геллера. Генератор запускается действием и <strong>очень сложной (−30) проверкой Техники</strong>: он ограждает держащего её столько часов, сколько вышло КУ, от Прорывов Варпа, варп-явлений и психосил — или выталкивает его из Варпа в реальное пространство. Перезарядить устройство после применения способен разве что высокопоставленный магос Адептус Механикус.</p>"
@@ -1325,7 +1325,7 @@
           "description": "<p>Розетту можно включить, и она издаст высокий изматывающий визг, слышимый в пределах средней дальности только одному виду ксеносов (выберите: айэльдари и друкари, орки, тау или кроот). Задетые этим визгом должны пройти <strong>трудную (−10) проверку Стойкости (Неустанность)</strong>, иначе на 3 раунда получают <em>Глухоту</em> и <em>Оглушение</em>.</p>"
         },
         "9jRxO9K9bsP7PnlA": {
-          "description": "<p>В розетту вделан @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Ao3ReFn4WBUSjSY2]{Экстрактор биообразцов}. Чтобы опознать образец, пройдите <strong>трудную (−10) проверку Техники</strong>; опознаёт он только то, что занесено в одну из библиотек Ордо Ксенос, а им по многу сотен лет, так что более новые виды могут остаться неизвестными.</p>"
+          "description": "<p>В розетту вделан @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Ao3ReFn4WBUSjSY2]{Экстрактор биообразцов}. Чтобы опознать образец, пройдите <strong>трудную (−10) проверку Техники</strong>; опознаёт он только то, что занесено в одну из библиотек Ордо Ксенос, а им по многу сотен лет, так что более новые виды могут остаться неизвестными.</p>"
         }
       }
     }

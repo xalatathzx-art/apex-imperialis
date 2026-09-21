@@ -18,7 +18,7 @@
    "ru": ""
   },
   "32": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra} ",
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra} ",
    "ru": ""
   },
   "34": {
@@ -30,19 +30,19 @@
    "ru": ""
   },
   "44": {
-   "en": "It has formed a cult within the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Administratum} of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy]{Persepolis}, tempting lowly scribes and adepts to consume massive amounts of data, some of it forbidden.",
+   "en": "It has formed a cult within the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Administratum} of @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy]{Persepolis}, tempting lowly scribes and adepts to consume massive amounts of data, some of it forbidden.",
    "ru": ""
   },
   "52": {
-   "en": "While it continues twisting its followers' minds, @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra}’s end goal is to escape the Immaterium and sow the seeds of the Dark Prince’s madness as far as possible.",
+   "en": "While it continues twisting its followers' minds, @UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra}’s end goal is to escape the Immaterium and sow the seeds of the Dark Prince’s madness as far as possible.",
    "ru": ""
   },
   "62": {
-   "en": "The @UUID[JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#silence-and-darkness]{Noctis Aeterna} was a harrowing time for the people of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy#hive-skarthius]{Hive Skarthius} on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy]{Persepolis}. During savage attacks from Heretic Astartes, most reliable lines of communication were cut off, and the Emperor’s light was cast into the deepest of shadows.",
+   "en": "The @UUID[JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#silence-and-darkness]{Noctis Aeterna} was a harrowing time for the people of @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy#hive-skarthius]{Hive Skarthius} on @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy]{Persepolis}. During savage attacks from Heretic Astartes, most reliable lines of communication were cut off, and the Emperor’s light was cast into the deepest of shadows.",
    "ru": ""
   },
   "66": {
-   "en": "A handful of Hive Skarthius’ @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.cvpsLwcsXf4myIpK]{Adeptus Administratum}, all low-ranking scribes and archivists, searched for meaning in the darkness of those days. They came together to form the Last Light, and were determined to stand against the enemy that threatened to overwhelm their world. Where others took up the @UUID[Compendium.navis-apexialis.navis-core-items.Item.8tlu4X5Qpzl98Uye]{lasgun}, however, they reached for the quill. They viewed their pursuit as a higher calling, To them, at least in their minds, fell the noble goal of preserving all the knowledge they could, fearing the @UUID[JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#silence-and-darkness]{Noctis Aeterna} would never lift, condemning them to the horrors of Old Night once again.",
+   "en": "A handful of Hive Skarthius’ @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.cvpsLwcsXf4myIpK]{Adeptus Administratum}, all low-ranking scribes and archivists, searched for meaning in the darkness of those days. They came together to form the Last Light, and were determined to stand against the enemy that threatened to overwhelm their world. Where others took up the @UUID[Compendium.apex-imperialis.navis-core-items.Item.8tlu4X5Qpzl98Uye]{lasgun}, however, they reached for the quill. They viewed their pursuit as a higher calling, To them, at least in their minds, fell the noble goal of preserving all the knowledge they could, fearing the @UUID[JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#silence-and-darkness]{Noctis Aeterna} would never lift, condemning them to the horrors of Old Night once again.",
    "ru": ""
   },
   "70": {
@@ -50,11 +50,11 @@
    "ru": ""
   },
   "74": {
-   "en": "With a focus and a zeal unseen in most outside of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.HURMpEU0Nnc93Ocv]{Adeptus Ministorum}, this handful of librarian-errants amassed the truths they so desperately wanted to protect. They filled scrolls, data spools and, when all else failed, carved reams of data into each other’s flesh. It was this final act of obsession that drew the attention of the servants of the Dark Prince.",
+   "en": "With a focus and a zeal unseen in most outside of the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.HURMpEU0Nnc93Ocv]{Adeptus Ministorum}, this handful of librarian-errants amassed the truths they so desperately wanted to protect. They filled scrolls, data spools and, when all else failed, carved reams of data into each other’s flesh. It was this final act of obsession that drew the attention of the servants of the Dark Prince.",
    "ru": ""
   },
   "78": {
-   "en": "Their obsession called out through the Immaterium as a beacon that @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra} of the Endless Whisper followed to its source. There, it found minds ripe for exploitation and a cause perfect for corruption. Acting quickly to stave off the interests of the Changer of the Ways, whose daemons were drawn to secrets and knowledge, it appeared in the dreams of the Last Light’s disparate members and began to twist them to its own nefarious ends.",
+   "en": "Their obsession called out through the Immaterium as a beacon that @UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra} of the Endless Whisper followed to its source. There, it found minds ripe for exploitation and a cause perfect for corruption. Acting quickly to stave off the interests of the Changer of the Ways, whose daemons were drawn to secrets and knowledge, it appeared in the dreams of the Last Light’s disparate members and began to twist them to its own nefarious ends.",
    "ru": ""
   },
   "82": {
@@ -62,15 +62,15 @@
    "ru": ""
   },
   "86": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra} is a relatively new threat to the Macharian Sector. It prefers to appear in dreams and whispers, and many of its thralls still consider themselves loyal members of the Imperium who are committing minor heresies, at worst, by seeking out forgotten truths or by administering their own justice. As a result, Valastra’s servants are as likely to appear as allies to the characters as they are to act against them.",
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra} is a relatively new threat to the Macharian Sector. It prefers to appear in dreams and whispers, and many of its thralls still consider themselves loyal members of the Imperium who are committing minor heresies, at worst, by seeking out forgotten truths or by administering their own justice. As a result, Valastra’s servants are as likely to appear as allies to the characters as they are to act against them.",
    "ru": ""
   },
   "90": {
-   "en": "It encouraged some followers to delve deeper into the hive, claiming ever more esoteric tomes and artefacts containing forbidden knowledge, playing on their unacknowledged need to experience life outside of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Administratum}. Others it bade catalogue and record every fact and find in maddening detail, encouraging a drive for perfectionism within them. To its handful of founding members @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra} entrusted the most significant task: recruitment.",
+   "en": "It encouraged some followers to delve deeper into the hive, claiming ever more esoteric tomes and artefacts containing forbidden knowledge, playing on their unacknowledged need to experience life outside of the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Administratum}. Others it bade catalogue and record every fact and find in maddening detail, encouraging a drive for perfectionism within them. To its handful of founding members @UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra} entrusted the most significant task: recruitment.",
    "ru": ""
   },
   "94": {
-   "en": "Use the various Administratum stat-blocks (@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.vds8HRa533wcv1Pq]{Administratum Adept}, @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.CsFqLJu3uHM45otd]{Arbitrator}, @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.gQxTENJSdTQTVfDM]{Enforcer}, @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.wzB86nJHHIRHMQTO]{Overseer}) to represent Valastra’s followers on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy]{Persepolis}.",
+   "en": "Use the various Administratum stat-blocks (@UUID[Compendium.apex-imperialis.navis-core-actors.Actor.vds8HRa533wcv1Pq]{Administratum Adept}, @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.CsFqLJu3uHM45otd]{Arbitrator}, @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.gQxTENJSdTQTVfDM]{Enforcer}, @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.wzB86nJHHIRHMQTO]{Overseer}) to represent Valastra’s followers on @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy]{Persepolis}.",
    "ru": ""
   },
   "98": {
@@ -78,15 +78,15 @@
    "ru": ""
   },
   "108": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra} prefers to encourage its followers to obsess over knowledge above all else, leaving pleasures of the flesh to other servants of the Dark Prince.",
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra} prefers to encourage its followers to obsess over knowledge above all else, leaving pleasures of the flesh to other servants of the Dark Prince.",
    "ru": ""
   },
   "112": {
-   "en": "It is making a concerted effort to find a piece of archaeotech that the Last Light believes to be buried somewhere in the wastes of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X0XXyOc86SRCgd4h]{Asterion}. The device is rumoured to be capable of instantly replicating any tome placed within it. This is hardly a remarkable feat in most cases, but @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra} knows the device can make so fine a copy that even psychic compulsions placed upon the book by its own daemonic sorceries can be replicated and spread.",
+   "en": "It is making a concerted effort to find a piece of archaeotech that the Last Light believes to be buried somewhere in the wastes of @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X0XXyOc86SRCgd4h]{Asterion}. The device is rumoured to be capable of instantly replicating any tome placed within it. This is hardly a remarkable feat in most cases, but @UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra} knows the device can make so fine a copy that even psychic compulsions placed upon the book by its own daemonic sorceries can be replicated and spread.",
    "ru": ""
   },
   "116": {
-   "en": "To recover the device, the Last Light is arranging a private expedition — with carefully forged paperwork — to locate and retrieve it. They are also bribing and blackmailing engineers, mercenaries, and labourers to design, build, and defend a bastion within the depths of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy#hive-skarthius]{Hive Skarthius}. This bastion will act as a vault and the Last Light’s formal headquarters; @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra} is orchestrating things to ensure that the correct sigils and materials are used in its construction to allow the daemon to manifest fully within its walls.",
+   "en": "To recover the device, the Last Light is arranging a private expedition — with carefully forged paperwork — to locate and retrieve it. They are also bribing and blackmailing engineers, mercenaries, and labourers to design, build, and defend a bastion within the depths of @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy#hive-skarthius]{Hive Skarthius}. This bastion will act as a vault and the Last Light’s formal headquarters; @UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra} is orchestrating things to ensure that the correct sigils and materials are used in its construction to allow the daemon to manifest fully within its walls.",
    "ru": ""
   },
   "120": {
@@ -94,11 +94,11 @@
    "ru": ""
   },
   "124": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra} is not strong enough to manifest within @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy#hive-skarthius]{Hive Skarthius}, but its time approaches as its influence grows. If either of the daemon’s schemes come to fruition on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.zzHVmjdxrrYtjScl]{Crultus} or the expedition to @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X0XXyOc86SRCgd4h]{Asterion}, the daemon will have the means to manifest fully into realspace.",
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra} is not strong enough to manifest within @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy#hive-skarthius]{Hive Skarthius}, but its time approaches as its influence grows. If either of the daemon’s schemes come to fruition on @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.zzHVmjdxrrYtjScl]{Crultus} or the expedition to @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X0XXyOc86SRCgd4h]{Asterion}, the daemon will have the means to manifest fully into realspace.",
    "ru": ""
   },
   "128": {
-   "en": "It has recently begun obfuscating the Last Light’s activities by relying on pleasure cults elsewhere in the sector, using the more overt behaviour of those cultists to draw the eye of the Inquisition and any other forces that would act against it. @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra} does its best to ensure nothing ties back to its recruiters from the Last Light.",
+   "en": "It has recently begun obfuscating the Last Light’s activities by relying on pleasure cults elsewhere in the sector, using the more overt behaviour of those cultists to draw the eye of the Inquisition and any other forces that would act against it. @UUID[Compendium.apex-imperialis.navis-inquisition-actors.Actor.SkjfCdcXvxERWyeo]{Valastra} does its best to ensure nothing ties back to its recruiters from the Last Light.",
    "ru": ""
   }
  }

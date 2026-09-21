@@ -2,7 +2,7 @@
   "name": "Bone-'ead",
   "type": "trait",
   "_id": "navisSpTrait0004",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder003",
   "sort": 400,
   "system": {
@@ -14,7 +14,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "DoomBC_Core",
       "generated": "tools/make-species.mjs"
     }

@@ -26,12 +26,12 @@
    "ru": "Датан"
   },
   "22": {
-   "en": " greets them with a greasy smile and begins to ask them what they’re in the market for. He has his rations on hand but otherwise claims to source ‘anything they need’ (use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ncXwqNsh38L8CyRo]{Smuggler} stat-block to represent him). ",
-   "ru": " встречает их масленой улыбкой и спрашивает, что им нужно. Пайки у него при себе, а в остальном он утверждает, что может достать «всё что угодно» (используйте для него профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ncXwqNsh38L8CyRo]{контрабандиста}). "
+   "en": " greets them with a greasy smile and begins to ask them what they’re in the market for. He has his rations on hand but otherwise claims to source ‘anything they need’ (use the @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.ncXwqNsh38L8CyRo]{Smuggler} stat-block to represent him). ",
+   "ru": " встречает их масленой улыбкой и спрашивает, что им нужно. Пайки у него при себе, а в остальном он утверждает, что может достать «всё что угодно» (используйте для него профиль @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.ncXwqNsh38L8CyRo]{контрабандиста}). "
   },
   "26": {
-   "en": "If the party asks him about the rations, he confirms they’re his, a custom mixture made from militarum-grade rations and other nutrients sourced here in @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth}. He claims it is much better stuff than what the dispensaries give out. He offers them at 10 solars for a pack of six — but is evasive if asked to whom he has recently sold them. Should the characters press him or otherwise mention their investigation of the manufactorum explosion, he says that he cannot confirm or deny any dealings he may or may not have had. Characters can make a ",
-   "ru": "Если отряд спросит его о пайках, он подтверждает, что они его, — особая смесь из пайков армейского образца и других питательных веществ, добытых здесь, в @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарте}. Он уверяет, что это куда лучше того, что выдают распределители, и предлагает их по 10 соляров за упаковку из шести штук, но уходит от ответа, если спросить, кому он их недавно продавал. Если персонажи надавят на него или упомянут, что расследуют взрыв на мануфакторуме, он говорит, что не может ни подтвердить, ни опровергнуть сделки, которые у него были или не были. Персонажи могут пройти "
+   "en": "If the party asks him about the rations, he confirms they’re his, a custom mixture made from militarum-grade rations and other nutrients sourced here in @UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth}. He claims it is much better stuff than what the dispensaries give out. He offers them at 10 solars for a pack of six — but is evasive if asked to whom he has recently sold them. Should the characters press him or otherwise mention their investigation of the manufactorum explosion, he says that he cannot confirm or deny any dealings he may or may not have had. Characters can make a ",
+   "ru": "Если отряд спросит его о пайках, он подтверждает, что они его, — особая смесь из пайков армейского образца и других питательных веществ, добытых здесь, в @UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарте}. Он уверяет, что это куда лучше того, что выдают распределители, и предлагает их по 10 соляров за упаковку из шести штук, но уходит от ответа, если спросить, кому он их недавно продавал. Если персонажи надавят на него или упомянут, что расследуют взрыв на мануфакторуме, он говорит, что не может ни подтвердить, ни опровергнуть сделки, которые у него были или не были. Персонажи могут пройти "
   },
   "28": {
    "en": "Difficult (−10) Presence (Intimidation)",
@@ -58,8 +58,8 @@
    "ru": "«Найдёте его там, внизу, в ямах. Кем, мой старый друг, — если только он вам ничем не навредил… тогда я его почти не знаю. Это он прислал ко мне гангеров. Имён я не спрашивал. Главный у них выглядел опасным — улыбка как у ацинади, и нрав под стать. Скупили весь мой товар и ушли»."
   },
   "50": {
-   "en": "Datan has little else of immediate use for the party but is a valuable Contact. If a character is particularly generous to him, purchasing some of his goods or paying 200 or more solars for his information, they may add him as an Infractionist @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#personal-influence]{Contact}.",
-   "ru": "Больше ничего сразу полезного для отряда у Датана нет, но он ценный контакт. Если персонаж будет с ним особенно щедр — купит что-нибудь из его товара или заплатит за сведения 200 соляров и больше, — он может добавить Датана как @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#personal-influence]{контакт} среди одиночек."
+   "en": "Datan has little else of immediate use for the party but is a valuable Contact. If a character is particularly generous to him, purchasing some of his goods or paying 200 or more solars for his information, they may add him as an Infractionist @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#personal-influence]{Contact}.",
+   "ru": "Больше ничего сразу полезного для отряда у Датана нет, но он ценный контакт. Если персонаж будет с ним особенно щедр — купит что-нибудь из его товара или заплатит за сведения 200 соляров и больше, — он может добавить Датана как @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#personal-influence]{контакт} среди одиночек."
   },
   "56": {
    "en": "The Pit Below",
@@ -86,8 +86,8 @@
    "ru": "Урдо"
   },
   "76": {
-   "en": " (use the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{Grafted Ganger} stat-block to represent them). Anyone with at least 1 @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionist} Influence can easily talk their way in — punters and their solars are welcome after all — but anyone with a bearing of authority is asked about their business, requiring an ",
-   "ru": " (используйте для них профиль @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{гангера с пересаженными мышцами}). Тот, у кого есть хотя бы 1 влияние у @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{одиночек}, легко уговорит их пропустить — игроков с солярами здесь, в конце концов, привечают, — но всякого, от кого веет властью, спрашивают, зачем он пришёл, и чтобы пройти, нужна "
+   "en": " (use the @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{Grafted Ganger} stat-block to represent them). Anyone with at least 1 @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionist} Influence can easily talk their way in — punters and their solars are welcome after all — but anyone with a bearing of authority is asked about their business, requiring an ",
+   "ru": " (используйте для них профиль @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{гангера с пересаженными мышцами}). Тот, у кого есть хотя бы 1 влияние у @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{одиночек}, легко уговорит их пропустить — игроков с солярами здесь, в конце концов, привечают, — но всякого, от кого веет властью, спрашивают, зачем он пришёл, и чтобы пройти, нужна "
   },
   "78": {
    "en": "Average (+20) Rapport (Charm",
@@ -102,8 +102,8 @@
    "ru": "Обман)"
   },
   "84": {
-   "en": " Test needed to get past them. If violence ensues, a short fistfight is considered a reasonable introduction in the Dreg, but anyone who pulls a weapon is set upon by three more @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{Grafted Gangers}, who emerge from a side room and attempt to remove any offender from the premises with all due bloodshed.",
-   "ru": ". Если дело дойдёт до насилия, короткая драка на кулаках в «Отстойнике» считается вполне приемлемым знакомством, но на любого, кто выхватит оружие, набрасываются ещё трое @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{гангеров с пересаженными мышцами}: они выходят из боковой комнаты и пытаются вышвырнуть нарушителя со всем подобающим кровопролитием."
+   "en": " Test needed to get past them. If violence ensues, a short fistfight is considered a reasonable introduction in the Dreg, but anyone who pulls a weapon is set upon by three more @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{Grafted Gangers}, who emerge from a side room and attempt to remove any offender from the premises with all due bloodshed.",
+   "ru": ". Если дело дойдёт до насилия, короткая драка на кулаках в «Отстойнике» считается вполне приемлемым знакомством, но на любого, кто выхватит оружие, набрасываются ещё трое @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{гангеров с пересаженными мышцами}: они выходят из боковой комнаты и пытаются вышвырнуть нарушителя со всем подобающим кровопролитием."
   },
   "88": {
    "en": "The stairs down to the pit are plastered with graffiti, much of it carved into the rusting bulkhead walls and pipework along the narrow stairway. The space beneath is impressively large. Characters with Advances in the Engineering specialisation, or anyone who makes a ",
@@ -198,8 +198,8 @@
    "ru": "Одни из самых сильных обезболивающих по эту сторону улья — любезность вашего друга Датана. Подмените баланду и высыпьте в неё остаток пакета, этого должно хватить, чтобы у меня появился шанс. Или кто-то из вас хочет сам с ней подраться?»"
   },
   "172": {
-   "en": "He also tells them where to find the Butcher’s cell. A lone @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZUWBWGM4eH7xFZ8P]{Dreg} guards her wretched prison. If the guard can be distracted or removed, the characters can dose the butcher’s meal without issue. If they draw attention to themselves, Yarneg’s guards, more @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{Grafted Gangers}, arrive to remove them.",
-   "ru": "Он также рассказывает, где найти камеру Мясничихи. Её убогую темницу охраняет одинокий @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZUWBWGM4eH7xFZ8P]{отброс}. Если охранника удастся отвлечь или убрать, персонажи без труда подмешают снадобье в еду Мясничихи. Если же они привлекут к себе внимание, их выдворят телохранители Ярнега — ещё несколько @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{гангеров с пересаженными мышцами}."
+   "en": "He also tells them where to find the Butcher’s cell. A lone @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.ZUWBWGM4eH7xFZ8P]{Dreg} guards her wretched prison. If the guard can be distracted or removed, the characters can dose the butcher’s meal without issue. If they draw attention to themselves, Yarneg’s guards, more @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{Grafted Gangers}, arrive to remove them.",
+   "ru": "Он также рассказывает, где найти камеру Мясничихи. Её убогую темницу охраняет одинокий @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.ZUWBWGM4eH7xFZ8P]{отброс}. Если охранника удастся отвлечь или убрать, персонажи без труда подмешают снадобье в еду Мясничихи. Если же они привлекут к себе внимание, их выдворят телохранители Ярнега — ещё несколько @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{гангеров с пересаженными мышцами}."
   },
   "176": {
    "en": "Otherwise, Kem could be intimidated into answering. A successful ",
@@ -214,8 +214,8 @@
    "ru": " достаточно, чтобы убедить его ответить. Но без помощи персонажей его предсказание сбывается, и в предстоящем бою Мясничиха разрывает его в клочья."
   },
   "184": {
-   "en": "A character might offer to fight in Kem’s stead. They need to convince Yarneg — a bulbous, sweaty mess of a man interested only in solars and the raucous cheers of the crowd — that they can make it an exciting fight. Taking down one of Yarneg’s guards bare-handed is enough to do this. Kem is surprised and grateful — he didn’t think anyone would take him up on that option. Surviving a bout with the unmedicated Butcher is another matter. Whether the lucky character wins or not, Kem is true to his word. Use the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{Grafted Ganger} stat-block to represent the Butcher. If she’s taken combat drugs, she can use her ",
-   "ru": "Персонаж может вызваться драться вместо Кема. Для этого нужно убедить Ярнега — оплывшего, потного мужчину, которого волнуют лишь соляры и буйный рёв толпы, — что бой выйдет зрелищным. Для этого хватит одолеть голыми руками одного из телохранителей Ярнега. Кем удивлён и благодарен: он не думал, что кто-то согласится на такое. Пережить бой с Мясничихой без снадобья — совсем другое дело. Выиграет «счастливчик» или нет, Кем держит слово. Используйте для Мясничихи профиль @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{гангера с пересаженными мышцами}. Если она приняла боевые стимуляторы, она может использовать свою черту "
+   "en": "A character might offer to fight in Kem’s stead. They need to convince Yarneg — a bulbous, sweaty mess of a man interested only in solars and the raucous cheers of the crowd — that they can make it an exciting fight. Taking down one of Yarneg’s guards bare-handed is enough to do this. Kem is surprised and grateful — he didn’t think anyone would take him up on that option. Surviving a bout with the unmedicated Butcher is another matter. Whether the lucky character wins or not, Kem is true to his word. Use the @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{Grafted Ganger} stat-block to represent the Butcher. If she’s taken combat drugs, she can use her ",
+   "ru": "Персонаж может вызваться драться вместо Кема. Для этого нужно убедить Ярнега — оплывшего, потного мужчину, которого волнуют лишь соляры и буйный рёв толпы, — что бой выйдет зрелищным. Для этого хватит одолеть голыми руками одного из телохранителей Ярнега. Кем удивлён и благодарен: он не думал, что кто-то согласится на такое. Пережить бой с Мясничихой без снадобья — совсем другое дело. Выиграет «счастливчик» или нет, Кем держит слово. Используйте для Мясничихи профиль @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{гангера с пересаженными мышцами}. Если она приняла боевые стимуляторы, она может использовать свою черту "
   },
   "186": {
    "en": "Grafted Muscle",
@@ -250,8 +250,8 @@
    "ru": "К тому времени гангеры заметили, что Кем прислушивается, и тогда он пошёл к Датану — чтобы казалось, будто его интересует лишь сбыт товара приятеля, а не слежка за бандой."
   },
   "220": {
-   "en": "Kem gives the party directions to a ganger hideout — he visited it once while negotiating his own deal — and sends them on their way. If the characters think to ask, Kem can describe the gang’s weaponry, mostly @UUID[Compendium.navis-apexialis.navis-core-items.Item.nyjv454gtdJ43klt]{autoguns}, and the defences around their hideout, granting the party 1 Superiority in their next confrontation with the @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#the-vylathi-knives]{Vylathi Knives}.",
-   "ru": "Кем объясняет отряду, как добраться до логова гангеров — он бывал там однажды, договариваясь о своей сделке, — и отправляет персонажей в путь. Если персонажи догадаются спросить, Кем может описать оружие банды (в основном @UUID[Compendium.navis-apexialis.navis-core-items.Item.nyjv454gtdJ43klt]{автоганы}) и оборону логова, что даёт отряду 1 превосходство в следующем столкновении с @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#the-vylathi-knives]{Ножами Вилати}."
+   "en": "Kem gives the party directions to a ganger hideout — he visited it once while negotiating his own deal — and sends them on their way. If the characters think to ask, Kem can describe the gang’s weaponry, mostly @UUID[Compendium.apex-imperialis.navis-core-items.Item.nyjv454gtdJ43klt]{autoguns}, and the defences around their hideout, granting the party 1 Superiority in their next confrontation with the @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#the-vylathi-knives]{Vylathi Knives}.",
+   "ru": "Кем объясняет отряду, как добраться до логова гангеров — он бывал там однажды, договариваясь о своей сделке, — и отправляет персонажей в путь. Если персонажи догадаются спросить, Кем может описать оружие банды (в основном @UUID[Compendium.apex-imperialis.navis-core-items.Item.nyjv454gtdJ43klt]{автоганы}) и оборону логова, что даёт отряду 1 превосходство в следующем столкновении с @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#the-vylathi-knives]{Ножами Вилати}."
   },
   "224": {
    "en": "The Raid",
@@ -266,8 +266,8 @@
    "ru": "Уходите… Скитарии… они идут"
   },
   "232": {
-   "en": "’. The characters only have a moment to react to this warning before the crowd’s chants turn to screams, backed by gunfire and plasma shots. A squad of @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{Skitarii Vanguard} are raiding The Dreg, having also discovered the fighting pit’s connection to the mystery. Amply forewarned, the characters may run if they wish. They witness a pitched battle between the Skitarii and the gangers if they linger.",
-   "ru": "». У персонажей есть лишь мгновение, чтобы отреагировать на предупреждение, прежде чем крики толпы сменяются воплями под аккомпанемент стрельбы и плазменных выстрелов. Отделение @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{скитариев-авангардов} устраивает облаву на «Отстойник» — они тоже выяснили, что бойцовая яма связана с этой тайной. Вовремя предупреждённые персонажи при желании могут бежать. Если они задержатся, то станут свидетелями ожесточённого боя скитариев с гангерами."
+   "en": "’. The characters only have a moment to react to this warning before the crowd’s chants turn to screams, backed by gunfire and plasma shots. A squad of @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{Skitarii Vanguard} are raiding The Dreg, having also discovered the fighting pit’s connection to the mystery. Amply forewarned, the characters may run if they wish. They witness a pitched battle between the Skitarii and the gangers if they linger.",
+   "ru": "». У персонажей есть лишь мгновение, чтобы отреагировать на предупреждение, прежде чем крики толпы сменяются воплями под аккомпанемент стрельбы и плазменных выстрелов. Отделение @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{скитариев-авангардов} устраивает облаву на «Отстойник» — они тоже выяснили, что бойцовая яма связана с этой тайной. Вовремя предупреждённые персонажи при желании могут бежать. Если они задержатся, то станут свидетелями ожесточённого боя скитариев с гангерами."
   },
   "236": {
    "en": "Smoke fills the air as the crowd of citizens and gangers duck for cover, returning fire at the Skitarii, who push quickly into the main chamber, the ragtag resistance providing little opposition. A character may attempt a ",
@@ -290,20 +290,20 @@
    "ru": "Большинству отрядов хватит ума не ввязываться в перестрелку между гангерами Ярнега и скитариями, но если они того хотят, можете им это позволить."
   },
   "254": {
-   "en": "If they are fighting on the side of the Skitarii, then the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.vsiOALilPnEe3dKg]{Skitarii Vanguard Alpha} in charge of the squad — Landa-12, whom they may have encountered earlier in the hab slums — recognises their assistance. The Vanguard are ordered not to engage them unless they are fired upon. Landa-12 hears the party out before sending them on their way, advising them that further interference in the investigation would be ‘",
-   "ru": "Если персонажи сражаются на стороне скитариев, командир отделения, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.vsiOALilPnEe3dKg]{альфа скитариев-авангардов} Ланда-12, которого они, возможно, уже встречали в жилых трущобах, признаёт их помощь. Авангардам приказано не вступать с ними в бой, если те не откроют огонь. Ланда-12 выслушивает отряд и отпускает, предупредив, что дальнейшее вмешательство в расследование было бы «"
+   "en": "If they are fighting on the side of the Skitarii, then the @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.vsiOALilPnEe3dKg]{Skitarii Vanguard Alpha} in charge of the squad — Landa-12, whom they may have encountered earlier in the hab slums — recognises their assistance. The Vanguard are ordered not to engage them unless they are fired upon. Landa-12 hears the party out before sending them on their way, advising them that further interference in the investigation would be ‘",
+   "ru": "Если персонажи сражаются на стороне скитариев, командир отделения, @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.vsiOALilPnEe3dKg]{альфа скитариев-авангардов} Ланда-12, которого они, возможно, уже встречали в жилых трущобах, признаёт их помощь. Авангардам приказано не вступать с ними в бой, если те не откроют огонь. Ланда-12 выслушивает отряд и отпускает, предупредив, что дальнейшее вмешательство в расследование было бы «"
   },
   "256": {
    "en": "illogical and ill-advised.",
    "ru": "нелогичным и неразумным"
   },
   "262": {
-   "en": "If they join in on the side of the Gangers and win, then Yarneg forgets any previous ill will and thanks the characters profusely. The Dreg must be abandoned, but Yarneg is optimistic about starting over elsewhere and invites the party to attend his new venture once it is opened. The party’s Patron can leverage this connection to gain 1 @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionist} Influence, and the characters may add Yarneg as a Contact.",
-   "ru": "Если персонажи присоединятся к гангерам и победят, Ярнег забывает все прежние обиды и рассыпается в благодарностях. «Отстойник» придётся бросить, но Ярнег не теряет надежды начать всё заново в другом месте и приглашает отряд в своё новое заведение, когда оно откроется. Покровитель отряда может воспользоваться этой связью, чтобы получить 1 влияние у @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{одиночек}, а персонажи могут добавить Ярнега как контакт."
+   "en": "If they join in on the side of the Gangers and win, then Yarneg forgets any previous ill will and thanks the characters profusely. The Dreg must be abandoned, but Yarneg is optimistic about starting over elsewhere and invites the party to attend his new venture once it is opened. The party’s Patron can leverage this connection to gain 1 @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionist} Influence, and the characters may add Yarneg as a Contact.",
+   "ru": "Если персонажи присоединятся к гангерам и победят, Ярнег забывает все прежние обиды и рассыпается в благодарностях. «Отстойник» придётся бросить, но Ярнег не теряет надежды начать всё заново в другом месте и приглашает отряд в своё новое заведение, когда оно откроется. Покровитель отряда может воспользоваться этой связью, чтобы получить 1 влияние у @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{одиночек}, а персонажи могут добавить Ярнега как контакт."
   },
   "268": {
-   "en": "From the dais above, Yarneg hurls @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.QaiU7Hod2xMnOTM7.Item.Oe9FDIz24FoyKhjl]{Frag Grenades} towards the invaders. The crowd rushes for the stairs, abandoning cover to be cut down by precise fire. Yet the press of bodies living and dying clogs the stairway, making it a ",
-   "ru": "С возвышения Ярнег швыряет в захватчиков @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.QaiU7Hod2xMnOTM7.Item.Oe9FDIz24FoyKhjl]{фраг-гранаты}. Толпа бросается к лестнице, покидая укрытия, и её косит меткий огонь. Однако давка из живых и умирающих закупоривает лестницу, делая её "
+   "en": "From the dais above, Yarneg hurls @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.QaiU7Hod2xMnOTM7.Item.Oe9FDIz24FoyKhjl]{Frag Grenades} towards the invaders. The crowd rushes for the stairs, abandoning cover to be cut down by precise fire. Yet the press of bodies living and dying clogs the stairway, making it a ",
+   "ru": "С возвышения Ярнег швыряет в захватчиков @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.QaiU7Hod2xMnOTM7.Item.Oe9FDIz24FoyKhjl]{фраг-гранаты}. Толпа бросается к лестнице, покидая укрытия, и её косит меткий огонь. Однако давка из живых и умирающих закупоривает лестницу, делая её "
   },
   "270": {
    "en": "Minor Hazard",
@@ -322,8 +322,8 @@
    "ru": ", чтобы проложить путь сквозь толпу, не получив урона. "
   },
   "280": {
-   "en": "In the ruined antechamber above, several gangers are kneeling, hands shackled, and overseen by two @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{Skitarii Vanguard}. As the fleeing crowd bursts onto the scene, they raise their rifles and acquire targets. Unless the characters can muster at least +3 Influence with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus} and succeed a ",
-   "ru": "В разрушенном вестибюле наверху стоят на коленях несколько гангеров в наручниках под надзором двух @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{скитариев-авангардов}. Когда на сцену вырывается бегущая толпа, скитарии вскидывают винтовки и берут цели. Если персонажи не наберут хотя бы +3 влияния у @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус} и не пройдут "
+   "en": "In the ruined antechamber above, several gangers are kneeling, hands shackled, and overseen by two @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{Skitarii Vanguard}. As the fleeing crowd bursts onto the scene, they raise their rifles and acquire targets. Unless the characters can muster at least +3 Influence with the @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus} and succeed a ",
+   "ru": "В разрушенном вестибюле наверху стоят на коленях несколько гангеров в наручниках под надзором двух @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{скитариев-авангардов}. Когда на сцену вырывается бегущая толпа, скитарии вскидывают винтовки и берут цели. Если персонажи не наберут хотя бы +3 влияния у @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус} и не пройдут "
   },
   "282": {
    "en": "Challenging (+0) Rapport (Charm)",
@@ -370,8 +370,8 @@
    "ru": "проверку Логики (Расследование)"
   },
   "328": {
-   "en": " Test, the difficulty of which varies depending on how long they have spent with @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Barsis Vand}. If successful, it becomes clear that DeGaur's voice on the recording is the same as that of Vand, albeit somewhat more inebriated. If Vand happens to accompany the characters while the vox recording is being played, his terrified reaction makes this connection all the clearer.",
-   "ru": "; её сложность зависит от того, сколько времени персонажи провели с @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Барсисом Вандом}. При успехе становится ясно, что голос ДеГуара на записи — тот же, что у Ванда, хотя и заметно более пьяный. Если Ванд окажется рядом с персонажами, когда запись воспроизводят, его испуганная реакция сделает эту связь ещё очевиднее."
+   "en": " Test, the difficulty of which varies depending on how long they have spent with @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Barsis Vand}. If successful, it becomes clear that DeGaur's voice on the recording is the same as that of Vand, albeit somewhat more inebriated. If Vand happens to accompany the characters while the vox recording is being played, his terrified reaction makes this connection all the clearer.",
+   "ru": "; её сложность зависит от того, сколько времени персонажи провели с @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Барсисом Вандом}. При успехе становится ясно, что голос ДеГуара на записи — тот же, что у Ванда, хотя и заметно более пьяный. Если Ванд окажется рядом с персонажами, когда запись воспроизводят, его испуганная реакция сделает эту связь ещё очевиднее."
   },
   "340": {
    "en": "Abandoned Hideout Clues",
@@ -394,8 +394,8 @@
    "ru": "Маленькое устройство"
   },
   "392": {
-   "en": "A small device lies discarded in a small back room, along with a handful of spent @UUID[Compendium.navis-apexialis.navis-core-items.Item.nyjv454gtdJ43klt]{autogun} casings and some dirty clothing.",
-   "ru": "В маленькой задней комнате брошено маленькое устройство, а рядом — горсть стреляных гильз от @UUID[Compendium.navis-apexialis.navis-core-items.Item.nyjv454gtdJ43klt]{автогана} и грязная одежда."
+   "en": "A small device lies discarded in a small back room, along with a handful of spent @UUID[Compendium.apex-imperialis.navis-core-items.Item.nyjv454gtdJ43klt]{autogun} casings and some dirty clothing.",
+   "ru": "В маленькой задней комнате брошено маленькое устройство, а рядом — горсть стреляных гильз от @UUID[Compendium.apex-imperialis.navis-core-items.Item.nyjv454gtdJ43klt]{автогана} и грязная одежда."
   },
   "400": {
    "en": "A successful ",
@@ -406,8 +406,8 @@
    "ru": "Средняя (+0) проверка Логики (Расследование)"
   },
   "404": {
-   "en": " Test reveals this to be a detonator for a det pack, a fact which anyone with an @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Astra Militarum} background or who is otherwise familiar with such munitions can tell without a Test.",
-   "ru": " показывает, что это детонатор подрывного заряда; персонаж с происхождением из @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум} или иначе знакомый с такими боеприпасами понимает это без проверки."
+   "en": " Test reveals this to be a detonator for a det pack, a fact which anyone with an @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Astra Militarum} background or who is otherwise familiar with such munitions can tell without a Test.",
+   "ru": " показывает, что это детонатор подрывного заряда; персонаж с происхождением из @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум} или иначе знакомый с такими боеприпасами понимает это без проверки."
   },
   "414": {
    "en": "Discarded Ration Papers",
@@ -550,16 +550,16 @@
    "ru": "Сиди тихо, Наврак знает, что делать."
   },
   "578": {
-   "en": "Use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{Ganger} stat-block to represent the Vylathi Knives NPCs.",
-   "ru": "Для NPC из Ножей Вилати используйте профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{бойца банды}."
+   "en": "Use the @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{Ganger} stat-block to represent the Vylathi Knives NPCs.",
+   "ru": "Для NPC из Ножей Вилати используйте профиль @UUID[Compendium.apex-imperialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{бойца банды}."
   },
   "582": {
    "en": "The party is likely in an advantageous position to take the gangers by surprise (they gain 1 Superiority if this is the case), but are also likely to be outnumbered. If they wish, they may fight through this encounter or attempt to escape through the back.",
    "ru": "Скорее всего, у отряда выгодная позиция, чтобы застать гангеров врасплох (в таком случае он получает 1 превосходство), но и численный перевес, вероятно, не на его стороне. Персонажи могут принять бой или попытаться уйти через заднюю дверь."
   },
   "586": {
-   "en": "Key to this encounter is the introduction of @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Lerna Harrog}. She has shadowed the group for some time and finally decided to trust them. If the characters choose to flee, they hear her croaked voice whisper, ‘",
-   "ru": "Ключевой момент этой сцены — появление @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Лерны Харрог}. Она уже давно следует за группой и наконец решила ей довериться. Если персонажи решат бежать, они слышат, как её хриплый голос шепчет из ближайшего стока: «"
+   "en": "Key to this encounter is the introduction of @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Lerna Harrog}. She has shadowed the group for some time and finally decided to trust them. If the characters choose to flee, they hear her croaked voice whisper, ‘",
+   "ru": "Ключевой момент этой сцены — появление @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Лерны Харрог}. Она уже давно следует за группой и наконец решила ей довериться. Если персонажи решат бежать, они слышат, как её хриплый голос шепчет из ближайшего стока: «"
   },
   "588": {
    "en": "Here! Come quick!",

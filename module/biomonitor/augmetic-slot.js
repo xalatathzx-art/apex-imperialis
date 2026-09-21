@@ -9,7 +9,7 @@ import { BODY_ZONES } from "./biomonitor-body.js";
  * Здесь лист аугметики получает выбор участка тела, который пишется во флаг
  * модуля — тот самый источник, который augmeticLocation() читает последним.
  */
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 export const LOCATION_FLAG = "location";
 const FIELD_CLASS = "navis-augmetic-location";
 

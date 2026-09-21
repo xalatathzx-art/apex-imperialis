@@ -2,7 +2,7 @@
   "name": "Ranging Fire",
   "type": "talent",
   "_id": "malExpTal0000136",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On successful hit with Ordnance artillery: allies withint Medium range may reroll Ranged attacks agains the target until end of your next turn</span></p><hr><p><span style=\"font-family: Arial\"><em>Any good Imperial artilleryman knows that they are not operating in a vacuum, as spotters feed information to you, you field detailed targeting information back to ensure accurate fire. When you make a successful attack against an enemy with an Ordnance Artillery weapon, all allies within Medium Range may reroll missed ranged attacks against the same target until the end of your next turn. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

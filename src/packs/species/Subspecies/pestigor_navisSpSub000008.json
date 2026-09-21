@@ -1,8 +1,8 @@
 {
   "name": "Pestigor",
-  "type": "navis-apexialis.subspecies",
+  "type": "apex-imperialis.subspecies",
   "_id": "navisSpSub000008",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder002",
   "sort": 800,
   "system": {
@@ -42,19 +42,19 @@
     "grantedTraits": {
       "list": [
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0041",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0041",
           "id": "navisSpTrait0041",
           "name": "Toxic Flesh",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0042",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0042",
           "id": "navisSpTrait0042",
           "name": "Grandfather's Endurance",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0043",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0043",
           "id": "navisSpTrait0043",
           "name": "Sloth",
           "diff": {}
@@ -76,7 +76,7 @@
     {
       "_id": "navisSpFxb000008",
       "name": "Pestigor — physiology",
-      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
       "changes": [
         {
           "key": "system.combat.wounds.max",
@@ -92,7 +92,7 @@
       "description": "",
       "statuses": [],
       "flags": {
-        "navis-apexialis": {
+        "apex-imperialis": {
           "source": "DoomBC_Core",
           "generated": "tools/make-species.mjs"
         }
@@ -108,7 +108,7 @@
     }
   ],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "DoomBC_Core",
       "generated": "tools/make-species.mjs"
     }

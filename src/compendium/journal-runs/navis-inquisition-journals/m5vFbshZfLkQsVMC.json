@@ -6,8 +6,8 @@
  "name": "Особые боеприпасы",
  "runs": {
   "2": {
-   "en": "Bolt and Crossbow weapons in the Inquisition’s Arsenal rely upon their specialist rounds to work effectively. They are crafted by specialist acolytes of the major ordos. The exception is @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.7d9bvFpQ2sA3IduG]{Tainted Rounds}, which can be manufactured for a wider selection of armaments but remain a tool of the Radical due to their volatile nature. General rules for @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.luQOhxIEeYF6tMgt#ammunition]{custom ammunition} are outlined in ",
-   "ru": "Болтерное и арбалетное оружие арсенала Инквизиции полагается на особые заряды, чтобы действовать эффективно. Их изготавливают аколиты-специалисты Великих ордосов. Исключение — @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.7d9bvFpQ2sA3IduG]{осквернённые заряды}: их можно изготовить для более широкого выбора оружия, но из-за их нестабильной природы они остаются орудием радикалов. Общие правила для @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.luQOhxIEeYF6tMgt#ammunition]{особых боеприпасов} изложены в книге "
+   "en": "Bolt and Crossbow weapons in the Inquisition’s Arsenal rely upon their specialist rounds to work effectively. They are crafted by specialist acolytes of the major ordos. The exception is @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.7d9bvFpQ2sA3IduG]{Tainted Rounds}, which can be manufactured for a wider selection of armaments but remain a tool of the Radical due to their volatile nature. General rules for @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.luQOhxIEeYF6tMgt#ammunition]{custom ammunition} are outlined in ",
+   "ru": "Болтерное и арбалетное оружие арсенала Инквизиции полагается на особые заряды, чтобы действовать эффективно. Их изготавливают аколиты-специалисты Великих ордосов. Исключение — @UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.7d9bvFpQ2sA3IduG]{осквернённые заряды}: их можно изготовить для более широкого выбора оружия, но из-за их нестабильной природы они остаются орудием радикалов. Общие правила для @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.luQOhxIEeYF6tMgt#ammunition]{особых боеприпасов} изложены в книге "
   },
   "6": {
    "en": "Imperium Maledictum",
@@ -42,8 +42,8 @@
    "ru": "Свойства"
   },
   "88": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.DDmXj2FQKGfvZl5C]{Poisoned Stakes}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.DDmXj2FQKGfvZl5C]{Отравленные колья}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.DDmXj2FQKGfvZl5C]{Poisoned Stakes}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.DDmXj2FQKGfvZl5C]{Отравленные колья}"
   },
   "92": {
    "en": "+0",
@@ -62,12 +62,12 @@
    "ru": "Арбалетное оружие"
   },
   "108": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#inflict]{Inflict}(@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#poisoned]{Poisoned})",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#inflict]{Состояние}(@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#poisoned]{Отравление})"
+   "en": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#inflict]{Inflict}(@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#poisoned]{Poisoned})",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#inflict]{Состояние}(@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#poisoned]{Отравление})"
   },
   "116": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.csnjvPJBoK8c4AIC]{Psybolt Rounds}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.csnjvPJBoK8c4AIC]{Псиболтовые боеприпасы}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.csnjvPJBoK8c4AIC]{Psybolt Rounds}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.csnjvPJBoK8c4AIC]{Псиболтовые боеприпасы}"
   },
   "120": {
    "en": "+0",
@@ -86,8 +86,8 @@
    "ru": "Болтерное оружие"
   },
   "144": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.yu4k9BtvuMwsGPFH]{Purgatus Stakes}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.yu4k9BtvuMwsGPFH]{Колья «Пургатус»}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.yu4k9BtvuMwsGPFH]{Purgatus Stakes}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.yu4k9BtvuMwsGPFH]{Колья «Пургатус»}"
   },
   "148": {
    "en": "+0",
@@ -106,12 +106,12 @@
    "ru": "Арбалетное оружие"
   },
   "164": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#rend-(rating)]{Rend}(X)",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#rend-(rating)]{Разрывающее}(X)"
+   "en": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#rend-(rating)]{Rend}(X)",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#rend-(rating)]{Разрывающее}(X)"
   },
   "172": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.DMnsRiBjoAlnchIQ]{Silver Stakes}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.DMnsRiBjoAlnchIQ]{Серебряные колья}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.DMnsRiBjoAlnchIQ]{Silver Stakes}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.DMnsRiBjoAlnchIQ]{Серебряные колья}"
   },
   "176": {
    "en": "+0",
@@ -130,12 +130,12 @@
    "ru": "Арбалетное оружие"
   },
   "192": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#inflict-(condition)]{Inflict}(@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Stunned})",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#inflict-(condition)]{Состояние}(@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Оглушение})"
+   "en": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#inflict-(condition)]{Inflict}(@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Stunned})",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#inflict-(condition)]{Состояние}(@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Оглушение})"
   },
   "200": {
-   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.7d9bvFpQ2sA3IduG]{Tainted Rounds}",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.7d9bvFpQ2sA3IduG]{Осквернённые боеприпасы}"
+   "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.7d9bvFpQ2sA3IduG]{Tainted Rounds}",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.7d9bvFpQ2sA3IduG]{Осквернённые боеприпасы}"
   },
   "204": {
    "en": "+X",

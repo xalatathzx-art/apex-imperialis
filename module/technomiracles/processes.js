@@ -18,7 +18,7 @@ import { readBlock, restoreAtTurnStart, writeBlock } from "./resources.js";
 import { applyProcessEffects, clearProcessEffects } from "./process-effects.js";
 import { lowerShield, raiseShield } from "./shield.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 /** Короткая запись Процесса: ровно то, чем его выставить в счёт и показать. */
 const processOf = item => ({

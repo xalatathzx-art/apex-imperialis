@@ -1,8 +1,8 @@
 {
   "name": "Мотивные Банки Манипулюс",
-  "type": "navis-apexialis.implant",
+  "type": "apex-imperialis.implant",
   "_id": "navisImp00000092",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00007",
   "sort": 9200,
   "system": {
@@ -61,7 +61,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "DoomBC_Core",
       "generated": "tools/make-implants.mjs",
       "reference": "DoomBC стр. 271",

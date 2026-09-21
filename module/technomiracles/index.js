@@ -17,7 +17,7 @@ import { registerShieldField } from "./shield.js";
 import { defineTechnoMiracleSheet } from "./sheet.js";
 import { registerTechnoMiracleTab } from "./tab.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 export { TECHNOMIRACLE_TYPE };
 

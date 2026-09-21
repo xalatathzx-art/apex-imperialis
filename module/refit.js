@@ -1,5 +1,5 @@
 /**
- * Navis Apexialis — refit.
+ * Apex Imperialis — refit.
  *
  * Small, idempotent DOM passes over markup impmal has already rendered. They
  * add wrappers, labels and attributes the refit stylesheet needs, and they move

@@ -9,7 +9,7 @@
 
 import { pendingChoices } from "./mechanics/entries.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 /** 1d10+3 − T.b days, minimum one. */
 export function adaptationDays(roll, toughnessBonus) {

@@ -2,7 +2,7 @@
   "name": "Bolstering Purity",
   "type": "talent",
   "_id": "malExpTal0000162",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">1/mission, Reaction, Spend 1FP: let any ally within hearing range including self auto-pass Fear/Intimidation/Pinning for one round</span></p><hr><p><span style=\"font-family: Arial\"><em>Once per mission as a Reaction, you can spend a Fate Point to have one Imperial ally within hearing range – including yourself – to automatically pass all Fear, Pinning, and Intimidation tests until the end of the round. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

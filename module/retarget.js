@@ -16,7 +16,7 @@
  * defender who has already rolled their Dodge does not lose it.
  */
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 export function registerRetarget() {
   Hooks.on("getChatMessageContextOptions", (html, options) => {

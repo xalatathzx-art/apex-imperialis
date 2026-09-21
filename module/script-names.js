@@ -26,7 +26,7 @@
  * or it does nothing.
  */
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 /**
  * `receiver[?].name <op> "literal"`.
@@ -162,7 +162,7 @@ export function registerScriptNames() {
       // it. Say so where it cannot be missed.
       Hooks.once("ready", () => {
         ui.notifications.error(
-          "Navis Apexialis: не удалось адаптировать скрипты эффектов impmal к переведённым названиям. " +
+          "Apex Imperialis: не удалось адаптировать скрипты эффектов impmal к переведённым названиям. " +
           "Часть талантов может не срабатывать. Отключите русский перевод компендиумов или сообщите об ошибке.",
           { permanent: true }
         );

@@ -30,7 +30,7 @@ import { dropProcess } from "./processes.js";
 import { activateMiracle } from "./activate.js";
 import { upkeepTotal } from "./rules.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 const TAB = "technomiracles";
 const TEMPLATE = `modules/${MODULE_ID}/templates/actor/technomiracles.hbs`;
 

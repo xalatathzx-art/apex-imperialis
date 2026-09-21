@@ -290,7 +290,7 @@
   "NAVIS.Techno.AttackRanged": "Ranged",
   "NAVIS.Techno.AttackMelee": "Melee",
   "NAVIS.Techno.OpposedDodge": "Dodge must match SL",
-  "NAVIS.Techno.RelaunchNeeded": "Navis Apexialis: the Techno-miracle item type is not registered with this world. Return to Setup and launch the world again — enabling a module mid-session does not add its document types.",
+  "NAVIS.Techno.RelaunchNeeded": "Apex Imperialis: the Techno-miracle item type is not registered with this world. Return to Setup and launch the world again — enabling a module mid-session does not add its document types.",
   "NAVIS.Techno.AlreadyRunning": "{name} is already running.",
   "NAVIS.Techno.DoctrineTitle": "Replace the Doctrine",
   "NAVIS.Techno.DoctrinePrompt": "{running} is already running, and only one Doctrine may be active. Replace it with {next}?",

@@ -2,7 +2,7 @@
   "name": "Abiding Resilience",
   "type": "talent",
   "_id": "malExpTal0000048",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Spend FP to recover 1d5+TghB</span></p><hr><p><span style=\"font-family: Arial\"><em>You can now expend a Fate Point to regain 1d5 + Toughness Bonus Wounds.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

@@ -1,8 +1,8 @@
 {
   "name": "Splice",
-  "type": "navis-apexialis.species",
+  "type": "apex-imperialis.species",
   "_id": "navisSpc00000008",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder001",
   "sort": 800,
   "system": {
@@ -64,13 +64,13 @@
     "grantedTraits": {
       "list": [
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0022",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0022",
           "id": "navisSpTrait0022",
           "name": "Gene-Splice",
           "diff": {}
         },
         {
-          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0023",
+          "uuid": "Compendium.apex-imperialis.navis-species.Item.navisSpTrait0023",
           "id": "navisSpTrait0023",
           "name": "Bestial Frame",
           "diff": {}
@@ -89,7 +89,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "DoomBC_Core",
       "generated": "tools/make-species.mjs"
     }

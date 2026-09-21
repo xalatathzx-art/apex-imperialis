@@ -2,7 +2,7 @@
   "name": "Suffer not the Works of Heretics",
   "type": "talent",
   "_id": "malExpTal0000184",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On attack Hated target: add WpB/2 to melee Penetrating. Is shared when using Inspire Wrath (using your WpB)</span></p><hr><p><span style=\"font-family: Arial\"><em>When attacking an enemy for whom you possess the appropriate Hatred Talent, or a vehicle, structure, or object crafted by such an enemy, increase the Penetrating quality of all melee attacks by an amount equal to half your Willpower Bonus. If you possess the Inspire Wrath Talent, you pass the benefit along with any Hatred Talents when using it. Characters so affected gain benefits based on the Willpower Bonus of the character that inspired them. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

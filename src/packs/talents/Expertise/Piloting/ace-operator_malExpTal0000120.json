@@ -2,7 +2,7 @@
   "name": "Ace Operator",
   "type": "talent",
   "_id": "malExpTal0000120",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On Failed Piloting/Riding: spend FP to reduce failure by AgiB (or IntB for Voidship piloting). May turn the failure into a Success.</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever you fail a Piloting or Athletics (Riding) Test, you may spend a Fate Point to reduce your Degrees of Failure on the test by your Agility Bonus. When using Piloting (Minor/Major Voidship), you  reduce them according to your Intelligence instead.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

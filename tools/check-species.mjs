@@ -18,8 +18,8 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const SRC = path.join(ROOT, "src/packs/species");
 const TALENTS = path.join(ROOT, "src/packs/talents");
 
-const SPECIES_TYPE = "navis-apexialis.species";
-const SUBSPECIES_TYPE = "navis-apexialis.subspecies";
+const SPECIES_TYPE = "apex-imperialis.species";
+const SUBSPECIES_TYPE = "apex-imperialis.subspecies";
 const PACKAGE_TYPES = [SPECIES_TYPE, SUBSPECIES_TYPE];
 
 // Read straight off the system rather than duplicating its enums here.

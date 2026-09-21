@@ -2,7 +2,7 @@
   "name": "Inspire Wrath",
   "type": "talent",
   "_id": "malExpTal0000087",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Action: test Charm/Deception/Leadership/Intimidation to grant allies in Medium rangethe Hatred talent. Can be opposed by Discipline(Composure)</span></p><hr><p><span style=\"font-family: Arial\"><em>As an Action, you can make a Rapport (Charm), Rapport (Deception), Presence (Leadership), or Presence (Intimidation) Test to grant the effects of the Hatred Talent to any allies within Medium Range. Success on the Test grants the Hatred Talent, with the object of their Hatred being chosen by you for the duration of the encounter. Listeners can resist the effects of your speech (and therefore not gain hatred) by passing an Opposed Discipline (Composure) Test against whichever test you make. Both you and the GM should bear in mind, however, once a crowd is inspired to hatred or mindless anger, the effects can be unpredictable.</em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

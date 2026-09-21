@@ -21,15 +21,15 @@
  * warhammer-lib puts on the global only once its own module has evaluated.
  */
 
-export const SPECIES_TYPE = "navis-apexialis.species";
-export const SUBSPECIES_TYPE = "navis-apexialis.subspecies";
+export const SPECIES_TYPE = "apex-imperialis.species";
+export const SUBSPECIES_TYPE = "apex-imperialis.subspecies";
 
 export const CHARACTERISTICS = ["ws", "bs", "str", "tgh", "ag", "int", "per", "wil", "fel"];
 
 /** What a package was allowed to do to an actor, kept so removal can undo it. */
 const APPLIED_FLAG = "applied";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 /**
  * Every name a document answers to.

@@ -198,8 +198,8 @@
    "ru": "Первичные данные разведки"
   },
   "200": {
-   "en": "The expedition’s initial survey data is an archive of the original data supplied to justify the mission. It details vast @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi }population numbers, tolerable climate pH levels and theories of surviving infrastructure. Glancing over this data reveals the following clue.",
-   "ru": "Первичные данные разведки — архив исходных сведений, представленных в обоснование экспедиции. В нём описаны огромные популяции @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади}, приемлемая кислотность климата и теории о сохранившейся инфраструктуре. Беглый просмотр этих данных даёт следующую зацепку."
+   "en": "The expedition’s initial survey data is an archive of the original data supplied to justify the mission. It details vast @UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi }population numbers, tolerable climate pH levels and theories of surviving infrastructure. Glancing over this data reveals the following clue.",
+   "ru": "Первичные данные разведки — архив исходных сведений, представленных в обоснование экспедиции. В нём описаны огромные популяции @UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади}, приемлемая кислотность климата и теории о сохранившейся инфраструктуре. Беглый просмотр этих данных даёт следующую зацепку."
   },
   "206": {
    "en": "CLUE",
@@ -322,8 +322,8 @@
    "ru": "Если сообщить Родерику об этих подробностях, он отчитывает своих адептов и сервиторов за глупость и хвалит персонажей за усердие. "
   },
   "350": {
-   "en": "Should the party wish to examine the Captain’s effects, they find a heavily stained yet unremarkable @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Adeptus Administratum} uniform, a pair of boots and a silver ring.",
-   "ru": "Если отряд захочет осмотреть вещи капитана, персонажи найдут сильно запачканную, но ничем не примечательную форму @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Адептус Администратум}, пару сапог и серебряное кольцо."
+   "en": "Should the party wish to examine the Captain’s effects, they find a heavily stained yet unremarkable @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Adeptus Administratum} uniform, a pair of boots and a silver ring.",
+   "ru": "Если отряд захочет осмотреть вещи капитана, персонажи найдут сильно запачканную, но ничем не примечательную форму @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Адептус Администратум}, пару сапог и серебряное кольцо."
   },
   "354": {
    "en": "If the characters want to search the rest of the Medicae Ward for clues, they may attempt a ",
@@ -578,8 +578,8 @@
    "ru": "«Преданности»"
   },
   "594": {
-   "en": " landfall on Voll and subsequent battles against the planet’s larger @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi}, which rival the ",
-   "ru": " на Волл и последующие битвы с крупнейшими @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади} планеты, не уступающими "
+   "en": " landfall on Voll and subsequent battles against the planet’s larger @UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi}, which rival the ",
+   "ru": " на Волл и последующие битвы с крупнейшими @UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади} планеты, не уступающими "
   },
   "596": {
    "en": "Devotion",
@@ -934,16 +934,16 @@
    "ru": "«Температура резко падает, и фигуры на центральном гобелене начинают двигаться. Из гобелена будто вырываются ацинади — всех форм и размеров, они высыпают в Зал памяти, превращаясь и перестраиваясь во всё новые и новые формы»."
   },
   "1008": {
-   "en": "The @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi}, brought to life by Hinji’s unwilling projection of @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré}’s memories and his growing paranoia, begin to attack the characters. Tentacles and claws grow across the floor and walls, making the Hall ",
-   "ru": "@UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{Ацинади}, оживлённые невольной проекцией воспоминаний @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерика Нетекаре} и его растущей паранойи, которую создаёт Хинджи, нападают на персонажей. По полу и стенам разрастаются щупальца и клешни, превращая зал в "
+   "en": "The @UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi}, brought to life by Hinji’s unwilling projection of @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré}’s memories and his growing paranoia, begin to attack the characters. Tentacles and claws grow across the floor and walls, making the Hall ",
+   "ru": "@UUID[Compendium.apex-imperialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{Ацинади}, оживлённые невольной проекцией воспоминаний @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерика Нетекаре} и его растущей паранойи, которую создаёт Хинджи, нападают на персонажей. По полу и стенам разрастаются щупальца и клешни, превращая зал в "
   },
   "1010": {
    "en": "Difficult Terrain",
    "ru": "пересечённую местность"
   },
   "1012": {
-   "en": " and two @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ZIxRrvXoXCRKAYyI]{Acynadi Delta-5} spill out of the tapestries and begin to attack the party. If one is slain, another spawns to replace it at the start of the following round.",
-   "ru": ", а из гобеленов вываливаются два @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ZIxRrvXoXCRKAYyI]{ацинади Дельта-5} и нападают на отряд. Если одного из них убивают, в начале следующего раунда на его месте появляется другой."
+   "en": " and two @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.ZIxRrvXoXCRKAYyI]{Acynadi Delta-5} spill out of the tapestries and begin to attack the party. If one is slain, another spawns to replace it at the start of the following round.",
+   "ru": ", а из гобеленов вываливаются два @UUID[Compendium.apex-imperialis.navis-voll-actors.Actor.ZIxRrvXoXCRKAYyI]{ацинади Дельта-5} и нападают на отряд. Если одного из них убивают, в начале следующего раунда на его месте появляется другой."
   },
   "1016": {
    "en": "As each round begins the tapestry shifts, forming a memory Old Hinji has unwillingly projected. ",

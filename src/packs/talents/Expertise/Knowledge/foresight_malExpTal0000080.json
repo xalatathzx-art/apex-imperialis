@@ -2,7 +2,7 @@
   "name": "Foresight",
   "type": "talent",
   "_id": "malExpTal0000080",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Spend 10min analyzing a problem: +1SL for next related intelligence based check</span></p><hr><p><span style=\"font-family: Arial\"><em>By careful consideration of all the possible consequences and examination of all evidence and information, you can identify the best path for success. By spending ten minutes studying or analyzing a problem, you gain a +1SL bonus to your next Intelligence based test. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

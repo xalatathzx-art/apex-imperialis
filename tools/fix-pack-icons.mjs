@@ -16,7 +16,7 @@ import path from "node:path";
 import { ClassicLevel } from "./lib/level.mjs";
 
 const WRITE = process.argv.includes("--write");
-const VENDORED = "modules/navis-apexialis/assets/impmal-core/";
+const VENDORED = "modules/apex-imperialis/assets/impmal-core/";
 const PLACEHOLDER = `${VENDORED}tokens/unknown.webp`;
 
 const EXACT = {

@@ -1,5 +1,5 @@
 /**
- * Compile the Navis Apexialis source tree into Foundry LevelDB packs.
+ * Compile the Apex Imperialis source tree into Foundry LevelDB packs.
  *
  * Inverse of extract.mjs: reads src/packs/<pack>/**.json plus the folder
  * manifest beside them, splits embedded documents back into their own keys the

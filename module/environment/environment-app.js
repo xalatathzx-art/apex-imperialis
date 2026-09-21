@@ -10,7 +10,7 @@ export class EnvironmentApp extends Base {
     window: { title: "NAVIS.Environment.Title", resizable: true }, position: { width: 680, height: "auto" },
     form: { closeOnSubmit: false, submitOnChange: true, handler: this.submit }
   };
-  static PARTS = { form: { template: "modules/navis-apexialis/templates/apps/environment.hbs" } };
+  static PARTS = { form: { template: "modules/apex-imperialis/templates/apps/environment.hbs" } };
 
   async _prepareContext(options) {
     const context = await super._prepareContext(options);

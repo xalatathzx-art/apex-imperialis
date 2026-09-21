@@ -2,7 +2,7 @@
   "name": "Combat Formation",
   "type": "talent",
   "_id": "malExpTal0000002",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Every character with Drilled talent gains +1 for each Drilled character</span></p><hr><p><span style=\"font-family: Arial\"><em>You make sure your team is constantly alert and prepared for danger, planning out their actions for many contingencies if attacked. Any other character that has the Drilled Talent alongside you gains +1 Initiative (including yourself).  </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

@@ -2,7 +2,7 @@
   "name": "Talented (Melee)",
   "type": "talent",
   "_id": "malExpTal0000038",
-  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "img": "modules/apex-imperialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Once/session: re-roll Melee check (take better)</span></p><hr><p><span style=\"font-family: Arial\"><em>You have a natural affinity towards Melee. You must have two Advances in Melee. Once per session, you may reroll any Test for Melee even if the result is already a success. </em></span></p>",
@@ -37,7 +37,7 @@
   },
   "effects": [],
   "flags": {
-    "navis-apexialis": {
+    "apex-imperialis": {
       "source": "impmal-malexp",
       "sourceVersion": "v1.4.0"
     }

@@ -1,5 +1,5 @@
 /**
- * Navis Apexialis — entry point.
+ * Apex Imperialis — entry point.
  *
  * Everything here extends the impmal system config rather than replacing any of
  * it, so the module layers cleanly over a stock install and over impmal-core.
@@ -21,7 +21,7 @@ import { registerSpecialisationLanguageCompatibility } from "./specialisation-la
 import { registerSpeciesModel, registerSpeciesSheet } from "./species/index.js";
 import { registerTerminology } from "./terminology.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 
 // Babele announces itself from its own `init` hook, and module order decides
 // whether that lands before or after ours — so this one is armed as the module
@@ -105,7 +105,7 @@ Hooks.once("ready", () => {
   // together means every talent, weapon and NPC appears twice.
   if (game.modules.get("impmal-malexp")?.active) {
     ui.notifications.warn(
-      "Navis Apexialis already contains everything from Maledictum Expanded. " +
+      "Apex Imperialis already contains everything from impmal-malexp. " +
       "Disable impmal-malexp to avoid duplicate compendium entries.",
       { permanent: true }
     );

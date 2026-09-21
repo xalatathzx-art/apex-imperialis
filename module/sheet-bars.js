@@ -4,7 +4,7 @@ import {
 import { matchesSkillSearch } from "./skill-search.js";
 import { usesNpcSheet } from "./refit.js";
 
-const MODULE_ID = "navis-apexialis";
+const MODULE_ID = "apex-imperialis";
 const MARK = "navis-bar-readout";
 const TWF_MARK = "navis-twf-off";
 const PICK_MARK = "navis-spec-pick";
