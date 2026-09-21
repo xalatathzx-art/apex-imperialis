@@ -2,7 +2,7 @@
   "name": "Bullet Hell",
   "type": "talent",
   "_id": "malExpTal0000128",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">1/combat when using Rapid Fire: increase RF rating by BS-B (without spending more ammo)</span></p><hr><p><span style=\"font-family: Arial\"><em>You discharge a hailstorm of lead from your shooter, spent casings puddling around your feet. Once per encounter, when using a weapon with the Rapid Fire (X) Trait, increase the rating by your Ballistic Skill Bonus without increasing the amount of ammunition consumed.</em></span></p>",

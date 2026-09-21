@@ -34,10 +34,10 @@ const MINOR_POWERS = "JournalEntry.3mzwixuzgerGUpu1.JournalEntryPage.xoUemA7abdm
 const DISCIPLINE_PAGE = "JournalEntry.3mzwixuzgerGUpu1.JournalEntryPage.V5zDWussZivkFavj";
 const PSYCHIC_MASTERY = "JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#psychic-mastery-(wil)";
 
-const PSYNISCIENCE = "Compendium.impmal-core.items.Item.lBzdm76EnuuoGfMq";
-const NAVIGATION_WARP = "Compendium.impmal-core.items.Item.RXUhvWSFQ3L4tkqv";
-const HOLY_ICON = "Compendium.impmal-core.items.Item.oaY0wS7LewD6DXK6";
-const AUSPEX = "Compendium.impmal-core.items.Item.dO7XoDXD9QYTy6zZ";
+const PSYNISCIENCE = "Compendium.navis-apexialis.navis-core-items.Item.lBzdm76EnuuoGfMq";
+const NAVIGATION_WARP = "Compendium.navis-apexialis.navis-core-items.Item.RXUhvWSFQ3L4tkqv";
+const HOLY_ICON = "Compendium.navis-apexialis.navis-core-items.Item.oaY0wS7LewD6DXK6";
+const AUSPEX = "Compendium.navis-apexialis.navis-core-items.Item.dO7XoDXD9QYTy6zZ";
 const RANDOM_TALENTS = "RollTable.9SLhM8FOgluaUwvO";
 
 export const byName = {

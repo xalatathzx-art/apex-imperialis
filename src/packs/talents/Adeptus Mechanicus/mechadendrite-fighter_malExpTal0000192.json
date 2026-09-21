@@ -2,7 +2,7 @@
   "name": "Mechadendrite Fighter",
   "type": "talent",
   "_id": "malExpTal0000192",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Extra Reaction. Can only be used to attack with Mechadendrite</span></p><hr><p><span style=\"font-family: Arial\"><em>You gain an additional Reaction that may only be used to attack with a Mechadendrite.</em></span></p>",

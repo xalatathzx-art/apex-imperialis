@@ -2,7 +2,7 @@
   "name": "Swift Suture",
   "type": "talent",
   "_id": "malExpTal0000096",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">End Bleeding (Minor) condition when succeeding a Medicae test on a patient</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever you succeed on a Medicae Test, you also end the Bleeding (Minor) Condition if your patient has it.</em></span></p>",

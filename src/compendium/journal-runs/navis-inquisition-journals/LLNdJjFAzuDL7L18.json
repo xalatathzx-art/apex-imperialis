@@ -1,0 +1,165 @@
+{
+ "journal": "SJPyRkdBEOCtmD8R",
+ "journalName": "Sector Threats",
+ "page": "LLNdJjFAzuDL7L18",
+ "pageName": "The Storm's Eye",
+ "name": "",
+ "runs": {
+  "6": {
+   "en": "The Storm's Eye",
+   "ru": ""
+  },
+  "16": {
+   "en": "Come to your rightful place in the eye of the storm. Watch as your old masters and oppressors are caught in the roil!",
+   "ru": ""
+  },
+  "24": {
+   "en": "Threat Overview",
+   "ru": ""
+  },
+  "34": {
+   "en": "The Storm’s Eye",
+   "ru": ""
+  },
+  "36": {
+   "en": " is a cult that secretly worships Tzeentch.",
+   "ru": ""
+  },
+  "44": {
+   "en": "They have wandering cells working across the system, led by a central dark commune of powerful but cautious fanatics.",
+   "ru": ""
+  },
+  "52": {
+   "en": "They seek to open a Warp rift to engulf the entire system in the name of the Changes of the Ways.",
+   "ru": ""
+  },
+  "62": {
+   "en": "Note",
+   "ru": ""
+  },
+  "64": {
+   "en": ": The Storm’s Eye can be placed in any planetary system you require.",
+   "ru": ""
+  },
+  "70": {
+   "en": "People drawn to the Storm’s Eye are led to believe they are joining a splinter cult of the Imperial Creed. Their leadership proclaims they will raise hard-working Imperial citizens and offer the downtrodden a place to fit in, work hard, and recognise their accomplishments. Simultaneously, they claim to shelter citizens from an impending doom — a resurgence of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#silence-and-darkness]{Noctis Aeterna} they claim will happen in the coming years. Their fearmongering easily attracts the lowborn, downtrodden of society. Before their recruits know what is happening, they unwittingly participate in darker and darker rituals. This same act also works on bored nobles and curious intellectuals, anyone who thinks they could do a better job than those in power of running society. They quickly fall sway to the whispers of the Storm’s Eye and their promises of more.",
+   "ru": ""
+  },
+  "74": {
+   "en": "Each cell is compartmentalised, aware that others exist, but not where or how many. Above the cells sit the dark commune, the cult’s leadership, who weave their machinations through cyphered vox traffic and intermediaries. Once a cell has been thoroughly indoctrinated and has accepted Tzeentch as its true master, the cell is splintered as its members go about starting up a new cell, spreading the winds of change and proclaiming safety within the Storm’s Eye. As such, a cell rarely stays in one place for long.",
+   "ru": ""
+  },
+  "80": {
+   "en": "Taliana Gaulista",
+   "ru": ""
+  },
+  "82": {
+   "en": " currently leads the dark commune. She recently took over and is still working on figuring out how best to step into the shoes of her predecessor. She is pragmatic and cautious, though not above instigating larger-scale operations than what the cult is used to. The very storm they preach of is one of their own design; they plan to unleash a Warp rift to engulf the system, giving it over to the Lord of Change.",
+   "ru": ""
+  },
+  "86": {
+   "en": "They aim to do so by spreading throughout the system, embedding a cell into as many centres of population as possible. They believe that a synchronised psychic ritual — one they have been experimenting with for centuries — to call forth as many daemons as possible will break realspace and create a system-spanning Warp rift, affecting the actual change upon the system they desperately seek.",
+   "ru": ""
+  },
+  "92": {
+   "en": "STORM’S EYE STAT-BLOCKS",
+   "ru": ""
+  },
+  "96": {
+   "en": "All the following stat-blocks can be found in ",
+   "ru": ""
+  },
+  "98": {
+   "en": "Imperium Maledictum",
+   "ru": ""
+  },
+  "100": {
+   "en": ". Some among them, particularly high-ranking members and leaders, carry the ",
+   "ru": ""
+  },
+  "102": {
+   "en": "Mark of Tzeentch",
+   "ru": ""
+  },
+  "112": {
+   "en": "Use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ppicZvgr0bEuhWeh]{Cultist} stat-block to represent average Storm’s Eye members.",
+   "ru": ""
+  },
+  "120": {
+   "en": "Each cell has around a dozen @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.utelXH1DahFI5iHt]{Accursed Cultists}, with a @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.vvgA1lyNkcTDw1xP]{Rogue Psyker} or two among them.",
+   "ru": ""
+  },
+  "128": {
+   "en": "Use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.pGE97yqMKNMkyzgL]{Cult Leader} stat-block to represent ",
+   "ru": ""
+  },
+  "130": {
+   "en": "Taliana Gaulista",
+   "ru": ""
+  },
+  "140": {
+   "en": "Use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.7GvkaaVAd69ORno0]{Chaos Spawn} stat-block to represent ",
+   "ru": ""
+  },
+  "142": {
+   "en": "Getharius Malicain",
+   "ru": ""
+  },
+  "154": {
+   "en": "Resources",
+   "ru": ""
+  },
+  "164": {
+   "en": "The cult’s primary resource is its reach and capability to hide. It has cells hidden in every aspect of Imperial society, from groups of dilettantes in hive spires to organised dregs working in the system’s manufactorums. They have loyal members among voidship crews and local merchants who see that the cult remains agile. Among the local Adeptus Terra is a cell within the local @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Ministorum} and @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Administratum} that doctor papers and strikes the cult's existence from public record.",
+   "ru": ""
+  },
+  "168": {
+   "en": "However, their disconnected cell structure means getting these assets to bear against a particular problem would take time and effort. A full-scale mobilisation of the entire Storm’s Eye is possible, but it would mean exposing the cult's leadership and every cell in it to reprisal. The dark commune would only order this if they are directly threatened or think they can enact the final stages of their centuries-long plan to open the Warp rift.",
+   "ru": ""
+  },
+  "172": {
+   "en": "Methods",
+   "ru": ""
+  },
+  "176": {
+   "en": "The Storm’s Eye is interested in subtle changes and spreading its influence slowly over time. They favour exploiting any societal weakness they can find. They foment sedition, insurrection, anarchy, criminal activity, and rebellion wherever they find it. Generally, they like to get others to do their work for them. Why fight @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.CsFqLJu3uHM45otd]{Arbites} when you can get a gang war started that will pull the Arbites into conflict? Why get involved in noble politics if you can instead set them against each other with a careful reveal of the truth at an inopportune time?",
+   "ru": ""
+  },
+  "180": {
+   "en": "Through information gathering from cells, the dark commune learns many secrets, secrets they use to ensure their members’ safety or gain leverage on those around them. Officers with secret dalliances, officials on the take, and corrupt @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Ministorum} officials are all assets within the Storm's Eyes network.",
+   "ru": ""
+  },
+  "184": {
+   "en": "Secrets",
+   "ru": ""
+  },
+  "188": {
+   "en": "The former leader of the cult was ",
+   "ru": ""
+  },
+  "190": {
+   "en": "Getharius Malicain",
+   "ru": ""
+  },
+  "192": {
+   "en": ". He was a fanatic who, over time, became afflicted with various mutations. As ",
+   "ru": ""
+  },
+  "194": {
+   "en": "Taliana Gaulista",
+   "ru": ""
+  },
+  "196": {
+   "en": " rose through the cult’s ranks, she took the chance to tamper with Gatharius’s last ritual, which caused him to turn entirely into a Chaos Spawn.",
+   "ru": ""
+  },
+  "200": {
+   "en": "Since then, she has kept Getharius locked away in an abandoned void station. None of the dark commune wish to harm him; some have begun referring to him more reverently, whispering about his strong connection with the Lord of Change. Taliana is unsure what to do with Getharius but often parades unfaithful members in front of him to test their mettle and show the cult’s power.",
+   "ru": ""
+  },
+  "204": {
+   "en": "Long ago, Inquisitorial agents infiltrated one of the cells closest to the dark commune. However, they failed to reach the cult’s leadership before the cell they were investigating sacrificed itself to keep the commune from being discovered. The Inquisitor’s notes from the investigation are archived on @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W.JournalEntryPage.Y1wjtyi7JdgHxQiF#mare-cinis]{Mare Cinis}. While the discovered cyphers they once used to communicate are long out of date, they might serve as a starting point for any investigators picking up the trail.",
+   "ru": ""
+  }
+ }
+}

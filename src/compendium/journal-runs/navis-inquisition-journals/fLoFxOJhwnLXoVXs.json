@@ -1,0 +1,141 @@
+{
+ "journal": "nePFHZRojb7rqIn7",
+ "journalName": "Open Case Files",
+ "page": "fLoFxOJhwnLXoVXs",
+ "pageName": "Dog Days",
+ "name": "",
+ "runs": {
+  "2": {
+   "en": "Kastan Marsd, an Interrogator from @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud}'s retinue has been independently investigating daemonic activity across @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy]{Persepolis}. In his zeal, he has allowed himself to be baited into a trap and disappeared three cycles ago, deep within the Abyssal Levels of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy#hive-skarthius]{Hive Skarthius}.",
+   "ru": ""
+  },
+  "6": {
+   "en": "This Case File works best when used as part of a hive-based investigation, although the specifics of the hive can be altered to fit your planet of choice. The characters may have met Interrogator Marsd at a previous @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W.JournalEntryPage.Y1wjtyi7JdgHxQiF]{Conclave }, discovered his disappearance through a known @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.2TukBjlkS5RG5Qka.JournalEntryPage.cRcDNREGRQvZvuPl]{Contact}, or mentioned via Inquisitor @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud} herself.",
+   "ru": ""
+  },
+  "10": {
+   "en": "Hook",
+   "ru": ""
+  },
+  "20": {
+   "en": "Through a network of favours almost as labyrinthine as the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.cvpsLwcsXf4myIpK]{Adeptus Administratum}, the characters' Patron has been called upon to investigate the disappearance — this could be as a favour to Inquisitor @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud}, or the characters' Patron may seek to ply information from Marsd upon his rescue about Raud before she can retrieve him herself.",
+   "ru": ""
+  },
+  "24": {
+   "en": "Shortly after they arrive in @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy#hive-skarthius]{Hive Skarthius}, the characters are approached by a @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.Y6oJff3F4qo2Xhlx]{Servo-skull} bearing Inquisitorial insignias. It has been combing the hive’s voidport for someone with Inquisitorial clearance for some time. The servo-skull is Interrogator Marsd’s failsafe, set to activate if he disappears. It refers the characters to an address in the mid-hive that Interrogator Marsd has been using as a safe house. The servo-skull wipes its memory and deactivates as the characters move on.",
+   "ru": ""
+  },
+  "28": {
+   "en": "Response",
+   "ru": ""
+  },
+  "32": {
+   "en": "The address the characters have been directed to is a warehouse in the hive’s middle layers. It is a squat and unwelcoming ferrocrete building near a small cargo port for access. Immediately, the characters can see that a group of enforcers have cordoned off the building. Four @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.gQxTENJSdTQTVfDM]{Enforcers} guard the cargo port, refusing to let anyone inside. They are led by Proctor Sai Darak, who does whatever he can to stymie the investigation without drawing suspicion.",
+   "ru": ""
+  },
+  "36": {
+   "en": "Darak and a handful of her enforcers are secretly tied to the cult the characters encounter later, and are responsible for Marsd’s disappearance. Within, characters can find the remains of Interrogator Marsd’s current investigation.",
+   "ru": ""
+  },
+  "40": {
+   "en": "Papers detailing maps of the Abyssal Levels, enforcer arrest transcripts, and detailed medicae reports on many patients are found scattered across a large holo-table in the office overlooking the warehouse. Going through all of them takes time, and gleaning any helpful information is a ",
+   "ru": ""
+  },
+  "42": {
+   "en": "Challenging (+0) Extended Logic (Investigation)",
+   "ru": ""
+  },
+  "44": {
+   "en": " Test requiring a total of 8 SL, with one Test allowed per hour. Piecing together the clues reveals that an inordinate number of people who voyage into the Iron Sprawl district of the lower hive return with no memory of their time there and strange bruises and scars covering their bodies.",
+   "ru": ""
+  },
+  "48": {
+   "en": "Characters can make a ",
+   "ru": ""
+  },
+  "50": {
+   "en": "Hard (−20) Tech (Security)",
+   "ru": ""
+  },
+  "52": {
+   "en": " Test to access Marsd’s holo-table and retrieve a map of the Iron Sprawl with a couple of locations of interest marked on it. If no one succeeds, the characters can obtain a map or guidance to the area elsewhere, but this slows down their investigation. The warehouse also contains a battered ground vehicle whose engine rests on a nearby table, a sparse living space, and all the equipment needed to maintain a @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.mVvzTcb8LJKDroT7]{cyber-mastiff}.",
+   "ru": ""
+  },
+  "56": {
+   "en": "The Iron Sprawl itself is a twisting maze of tunnels, dead ends, and flooded maintenance passages. Corrosion speckles every surface, and the air feels oily. Characters can make ",
+   "ru": ""
+  },
+  "58": {
+   "en": "Hard (−20) Rapport (Inquiry)",
+   "ru": ""
+  },
+  "60": {
+   "en": " Tests to interrogate the locals; they are cautious of talking to outsiders, but the people who live and work here remember a man matching the Interrogator’s description. Failing these Tests can draw the unsavoury attention of local @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{Gangers}. By the end of their inquiries, they are directed to a place called the Cistern.",
+   "ru": ""
+  },
+  "64": {
+   "en": "The Cistern is larger than some cathedrals and a mass of Humanity toils to repair the mechanisms in this part of the Abyssal Levels. Workshops line the walls, some stacked five or six high before reaching the ceiling, and the smell of unwashed menials sticks in the back of the throat. A successful ",
+   "ru": ""
+  },
+  "66": {
+   "en": "Difficult (−10) Presence",
+   "ru": ""
+  },
+  "68": {
+   "en": " Test (Specialisation determined by the character’s method) is required to obtain the information for free, otherwise, a bribe is called for. Someone remembers seeing a man matching the Interrogators’ description leading a @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.mVvzTcb8LJKDroT7]{cyber-mastiff} into a sealed area of the Iron Sprawl less than a few hours walk from the Cistern. They also warn the characters about an exaction squad hunting an escaped criminal in the area (a cover for the heretic enforcers’ activities).",
+   "ru": ""
+  },
+  "72": {
+   "en": "Resolution",
+   "ru": ""
+  },
+  "82": {
+   "en": "Following the directions, the characters find a bulkhead recently forced open. Years-old purity seals that used to hang from it, purporting to ward against daemons, lie cracked on the floor. Despite endemic overcrowding, no one lives nearby, and the corridors beyond the bulkhead bear the telltale marks of promethium burns.",
+   "ru": ""
+  },
+  "86": {
+   "en": "The twisting, scorched passages beyond are seemingly empty, but the characters hear a distorted sound akin to a dog barking. Eventually, they come across a @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.mVvzTcb8LJKDroT7]{Cyber-mastiff} with an Inquisitorial seal hanging from its collar. It has been clawing at the door to a sealed hab-block. The characters can bypass the door or break it down. Still, whatever they choose, the cyber-mastiff ensures their entrance is not quiet, and the cultists within, who are attempting to turn the Interrogator into a @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.M6XWkYc0lfuKl2hU]{daemonhost}, are alerted to their presence.",
+   "ru": ""
+  },
+  "90": {
+   "en": "Zones across the interior of the hab block are ",
+   "ru": ""
+  },
+  "92": {
+   "en": "Poorly Lit",
+   "ru": ""
+  },
+  "94": {
+   "en": ". Some close to the central communal spaces are ",
+   "ru": ""
+  },
+  "96": {
+   "en": "Warp-touched",
+   "ru": ""
+  },
+  "98": {
+   "en": ". Broken furniture scattered throughout the hab can be used as ",
+   "ru": ""
+  },
+  "100": {
+   "en": "Light Cover",
+   "ru": ""
+  },
+  "102": {
+   "en": ". @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.Eirl3ldJXIrs2frc]{Interrogator} Marsd is unconscious and tied to a table in the central space, daubed with heretical runes. If the characters do not hold the cyber-mastiff back, it does everything possible to break the table and drag him free. It will attack any cultist who gets in its way.",
+   "ru": ""
+  },
+  "106": {
+   "en": "The cult are members of the enforcer team who were involved in the cleanup of this area during a past incident. Proctor Darak and one additional fallen enforcer are present for each combat-orientated member of the party (use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.gQxTENJSdTQTVfDM]{Enforcers} and @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ppicZvgr0bEuhWeh]{Cultists} profiles).",
+   "ru": ""
+  },
+  "110": {
+   "en": "Wrapping up the investigation, the characters learn that Darak is one of the enforcers who cleared the hab of heresy a year prior and are now within the thrall of a daemon’s machinations. They felt spurned in their duties, which the cult plied into influence over them. They promised them whatever they desired in return for aiding the cult’s ‘master’, a daemon of Slaanesh who once almost managed to manifest in the depths of the hive before its cult was purged. Acting for the daemon, the cult pressed them to create a host for it, though each attempt ended up in bloody failure. The characters also learn that the original call for the Inquisition’s aid was intercepted by someone higher up in the enforcers' chain of command or by someone on the seat of the planetary council — which is where Interrogator Marsd’s inquiry points next.",
+   "ru": ""
+  },
+  "114": {
+   "en": "If the characters are successful, @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.Eirl3ldJXIrs2frc]{Interrogator} Marsd is recovered. His wounds are extensive and will take significant time to recover fully. In addition to standard XP and solar rewards, the characters' Influence with the Ordo Malleus increases by 1. If Marsd’s @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.mVvzTcb8LJKDroT7]{cyber-mastiff} survives, Marsd may be added as an @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-malleus]{Ordo Malleus} Contact for any character who cares for the familiar during his recuperation.",
+   "ru": ""
+  }
+ }
+}

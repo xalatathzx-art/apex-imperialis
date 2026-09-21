@@ -1,0 +1,277 @@
+{
+ "journal": "mOfAsI4kLKUGTLXd",
+ "journalName": "Paradigm Shift",
+ "page": "zxtdKCbEeChB51rY",
+ "pageName": "Part 3: The Tunnels",
+ "name": "Часть 3: «Туннели»",
+ "runs": {
+  "8": {
+   "en": "This part of the adventure is intended to be eerie and occasionally horrifying. Most of the tunnel areas are unlit, and the characters must find their own source of light or navigate in darkness. The tunnels should feel maze-like and unfathomable.",
+   "ru": "Эта часть приключения задумана жуткой, а местами и пугающей. Большая часть туннелей не освещена, и персонажам придётся искать собственный источник света или пробираться в темноте. Туннели должны казаться запутанным и непостижимым лабиринтом."
+  },
+  "12": {
+   "en": "Characters would be advised to hide from or flee some of the encounters here. There are many hiding places in the tunnels, crevices to squeeze into, debris to hide under or behind. In some places, pipelines or wires run across the ceilings as a reminder of the refinery above, and offer a handhold if characters need to hide in a hurry.",
+   "ru": "Персонажам стоит прятаться от некоторых встреч или бежать от них. В туннелях полно укрытий: щелей, в которые можно протиснуться, и завалов, под которыми или за которыми можно спрятаться. Кое-где по потолку тянутся трубопроводы или провода — напоминание о заводе наверху, — за них можно ухватиться, если нужно спрятаться второпях."
+  },
+  "16": {
+   "en": "Various threats roam freely, you can introduce locations and random encounters as required (see the @UUID[Compendium.navis-apexialis.navis-voll-tables.RollTable.jBVqRmfuErptNaGv]{Maltus Refinery VI Tunnel Encounter}s Table). The characters should be able to avoid some of these encounters if they’re careful; the only encounter they cannot avoid is with the Beastmen Shaman @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Arkt Talgore} in The Shaman’s Lair (2E), lying between them and the last remaining exit.",
+   "ru": "Здесь свободно бродят разные угрозы; вводите места и случайные встречи по мере необходимости (см. таблицу @UUID[Compendium.navis-apexialis.navis-voll-tables.RollTable.jBVqRmfuErptNaGv]{«Встречи в тоннелях очистительного завода «Мальтус VI»»}). При осторожности персонажи должны суметь избежать некоторых из этих встреч; единственная неизбежная встреча — с шаманом зверолюдов @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Арктом Талгором} в логове шамана (2E), которое лежит между ними и последним оставшимся выходом."
+  },
+  "20": {
+   "en": "@Embed[Compendium.navis-apexialis.navis-voll-tables.RollTable.jBVqRmfuErptNaGv noCenter=true description=bottom]{Rumour}",
+   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-tables.RollTable.jBVqRmfuErptNaGv noCenter=true description=bottom]{Встреча}"
+  },
+  "24": {
+   "en": "Tunnel Locations",
+   "ru": "Места в туннелях"
+  },
+  "34": {
+   "en": "The tunnels under Maltus Refinery VI are many and winding, a criss-crossing tangle of metallic walkways, rocky burrows and crumbling foundations, often interspersed with reaches of acidic runoff from the manufactorum above. It’s a maddening warren, home to the Chaos-worshipping Beastmen, and perhaps older, stranger foes.",
+   "ru": "Туннелей под «Мальтусом VI» много, и они извилисты — перепутанный клубок металлических мостков, каменных нор и осыпающихся фундаментов, часто перемежающихся потоками кислотных стоков с мануфакторума наверху. Это сводящий с ума лабиринт нор — дом поклоняющихся Хаосу зверолюдов, а возможно, и врагов более древних и странных."
+  },
+  "38": {
+   "en": "2A. Northern Tunnel Exit",
+   "ru": "2A. Северный выход из туннеля"
+  },
+  "42": {
+   "en": "As the party enters the tunnels, read the following:",
+   "ru": "Когда отряд входит в туннели, зачитайте следующее:"
+  },
+  "48": {
+   "en": "‘The tunnels slope down, far below the refinery. It’s dark and humid, the rough walls dripping moisture. Every sound echoes, so each single drip or footstep sounds like many. It would be easy to lose your way in these tunnels, and wander forever through the blackness.’",
+   "ru": "«Туннели уходят вниз, глубоко под завод. Здесь темно и душно, с шершавых стен сочится влага. Каждый звук отдаётся эхом, так что любая капля или шаг звучат как множество. В этих туннелях легко заблудиться и вечно блуждать во тьме»."
+  },
+  "54": {
+   "en": "Each character can make a ",
+   "ru": "Каждый персонаж может пройти "
+  },
+  "56": {
+   "en": "Challenging (+0) Awareness (Sight)",
+   "ru": "Среднюю (+0) проверку Бдительности (Зрение)"
+  },
+  "58": {
+   "en": " or ",
+   "ru": " или "
+  },
+  "60": {
+   "en": "(Hearing",
+   "ru": "(Слух"
+  },
+  "62": {
+   "en": ") or ",
+   "ru": ") либо "
+  },
+  "64": {
+   "en": "Intuition (Surroundings)",
+   "ru": "Чутья (Окружение)"
+  },
+  "66": {
+   "en": " Test to detect two potential ways forward. A blood trail leads to @UUID[.zxtdKCbEeChB51rY#2b.-mesks-cage]{Mesk’s Cage (2B)}, and the sound of far-off chanting and flickers of light point towards the @UUID[.zxtdKCbEeChB51rY#2c.-beastmens-ritual]{Beastemen’s Ritual (2C)}. If everyone fails their Test, the party might stumble into either encounter, and any enemies could gain the drop on them. ",
+   "ru": ", чтобы найти два возможных пути дальше. Кровавый след ведёт к @UUID[.zxtdKCbEeChB51rY#2b.-mesks-cage]{клетке Меска (2B)}, а далёкое пение и отблески света указывают на @UUID[.zxtdKCbEeChB51rY#2c.-beastmens-ritual]{ритуал зверолюдов (2C)}. Если все провалят проверку, отряд может наткнуться на любую из этих сцен, и противники могут застать персонажей врасплох. "
+  },
+  "70": {
+   "en": "2B. Mesk’s Cage",
+   "ru": "2B. Клетка Меска"
+  },
+  "74": {
+   "en": "The former leader of the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastmen} is trapped in a cage, suspended from the ceiling of an unlit cavern. @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.YWOtDHG1vScQKCB4]{Mesk} lies weakly at the bottom of the cage, clothed in thin rags, his limbs dangling in the air. He’s battered and starving, and he’s given up any hope of rescue. He believes all the Beastmen have embraced Chaos, and he’s just waiting to die.",
+   "ru": "Бывший вожак @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{зверолюдов} заперт в клетке, подвешенной к потолку неосвещённой пещеры. @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.YWOtDHG1vScQKCB4]{Меск} обессиленно лежит на дне клетки, одетый в тонкие лохмотья, его конечности свисают в воздухе. Он избит и истощён и потерял всякую надежду на спасение. Он считает, что все зверолюды приняли Хаос, и просто ждёт смерти."
+  },
+  "78": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.YWOtDHG1vScQKCB4]{Mesk} willingly answers any questions he can, but doesn’t plead for help. He has given up, and unless a loyal member of the herd is with the characters, the only way to help him is to appeal towards his deeper desire for revenge. The thought of sticking a knife into @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Arkt Talgor}e’s back would be a moment worth living for. If the characters rescue @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.YWOtDHG1vScQKCB4]{Mesk} and outfit him with a weapon, they gain +1 Superiority for the upcoming encounter in the @UUID[.zxtdKCbEeChB51rY#2e.-the-shamans-lair]{Shaman’s Lair (2E)}. ",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.YWOtDHG1vScQKCB4]{Меск} охотно отвечает на все вопросы, на какие может, но о помощи не просит. Он сдался, и если с персонажами нет верного члена стада, единственный способ помочь ему — воззвать к его глубинной жажде мести. Мысль вонзить нож в спину @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Аркта Талгора} — ради такого мгновения стоит жить. Если персонажи спасут @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.YWOtDHG1vScQKCB4]{Меска} и снабдят его оружием, они получают +1 превосходство в предстоящей схватке в @UUID[.zxtdKCbEeChB51rY#2e.-the-shamans-lair]{логове шамана (2E)}. "
+  },
+  "82": {
+   "en": "The cage is made from old pipes and strips of metal scavenged from the refinery and is suspended via a heavy chain passed over a rusty girder. Lowering the cage safely requires making a ",
+   "ru": "Клетка сделана из старых труб и полос металла, добытых на заводе, и подвешена на тяжёлой цепи, перекинутой через ржавую балку. Чтобы безопасно опустить клетку, нужна "
+  },
+  "84": {
+   "en": "Hard (−20) Athletics (Might)",
+   "ru": "Сложная (−20) проверка Атлетики (Мощь)"
+  },
+  "86": {
+   "en": " Test, wherein each character involved lowers the Difficulty of the Test by 1 step. If the chain is broken or the cage dropped, it splits open when it hits the ground, dealing 5 Damage to @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.YWOtDHG1vScQKCB4]{Mesk}.",
+   "ru": ", причём каждый участвующий персонаж снижает сложность проверки на 1 ступень. Если цепь порвётся или клетку уронят, при ударе о землю она раскалывается, нанося @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.YWOtDHG1vScQKCB4]{Меску} 5 урона."
+  },
+  "92": {
+   "en": "Herdcrafted Cleaver",
+   "ru": "Тесак стада"
+  },
+  "96": {
+   "en": "Many of the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastmen} carry weapons they’ve made themselves in the refinery, using shards of metal broken from the dormant machinery and whatever other materials they can find. With fires and forges at their disposal, these cleavers are well-made in a style familiar to the Beastmen. They function as large knives and are used to fight, butcher meat, or make sacrifices to Chaos.",
+   "ru": "Многие @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{зверолюды} носят оружие, которое сделали сами на заводе из обломков металла, отбитых от бездействующих механизмов, и любых других материалов, какие смогли найти. Раз у них под рукой огонь и горны, эти тесаки добротно сделаны в привычном для зверолюдов стиле. Они служат большими ножами, которыми дерутся, разделывают мясо или приносят жертвы Хаосу."
+  },
+  "100": {
+   "en": "These cleavers would be considered an unusual item in @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth's} black markets, so they are ",
+   "ru": "На чёрных рынках @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{улья Рокарт} такие тесаки сочли бы диковинкой, поэтому их доступность — "
+  },
+  "102": {
+   "en": "Scarce",
+   "ru": "«Необычная»"
+  },
+  "104": {
+   "en": ". Arming @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.YWOtDHG1vScQKCB4]{Mesk} with a @UUID[Compendium.navis-apexialis.navis-voll-items.Item.tqGb4ULjvQP5x7AK]{Herdcrafted Cleaver}, if the characters have recovered one, would remind him of his former pride in his Herd and make him a willing ally when fighting @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Talgore}.",
+   "ru": ". Если персонажи раздобыли @UUID[Compendium.navis-apexialis.navis-voll-items.Item.tqGb4ULjvQP5x7AK]{тесак стада} и вооружат им @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.YWOtDHG1vScQKCB4]{Меска}, это напомнит ему о былой гордости за своё стадо и сделает его охотным союзником в бою с @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Талгором}."
+  },
+  "110": {
+   "en": "2C. Beastmen’s Ritual",
+   "ru": "2C. Ритуал зверолюдов"
+  },
+  "114": {
+   "en": "Strange guttural chanting echoes from the tunnel’s walls, and a flickering red glow casts deep, squirming shadows up ahead. If the players continue, they find a chamber ablaze with thick brown candles that fill the air with a meaty stench. A pair of @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.TRcwwntLPqt7KaJy]{Mutated Beastmen} wearing hoods over their horned heads are circling a similarly hooded figure on its knees in the centre of the chamber. Its hands, bound behind it, look distinctly Human, as do its bare and bloodied feet. The chanting Mutated Beastmen are preparing their blades, whetting them and wiping them down as best they can. This unfortunate victim is an unwilling part of some tainted ritual, awaiting the attention of the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Shaman}.",
+   "ru": "От стен туннеля отражается странное гортанное пение, а мерцающее красное свечение отбрасывает впереди глубокие извивающиеся тени. Если игроки пойдут дальше, они найдут зал, пылающий толстыми бурыми свечами, наполняющими воздух мясным смрадом. Двое @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.TRcwwntLPqt7KaJy]{мутировавших зверолюдов} с капюшонами на рогатых головах кружат вокруг фигуры в таком же капюшоне, стоящей на коленях в центре зала. Её связанные за спиной руки выглядят явно человеческими, как и босые окровавленные ноги. Поющие мутировавшие зверолюды готовят клинки, точат их и как могут вытирают. Эта несчастная жертва — невольная участница какого-то порченого ритуала и ждёт внимания @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{шамана}."
+  },
+  "118": {
+   "en": "If the players rescue the victim, the hood comes off, and the figure is revealed to have the horns and bovine features of the Beastmen, although there’s still something Human about them. They can’t speak but only bray mournfully, and if left alive, run off into the tunnels (use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZUWBWGM4eH7xFZ8P]{Dreg} stat-block to represent this pitiful creature).",
+   "ru": "Если игроки спасут жертву, капюшон спадает, и оказывается, что у фигуры рога и бычьи черты зверолюдов, хотя в ней всё ещё есть что-то человеческое. Она не может говорить, лишь жалобно ревёт, и, если оставить её в живых, убегает в туннели (для этого жалкого создания используйте профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZUWBWGM4eH7xFZ8P]{отброса})."
+  },
+  "122": {
+   "en": "2D. Acynadi Den",
+   "ru": "2D. Логово ацинади"
+  },
+  "126": {
+   "en": "The tunnels open up into a shallow cavern waterlogged by acidic runoff. Strangely, signs of life among the pools — clusters of sizable dormant @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi }— are visible. Rusted pipes run through the cavern, boiling the runoff into steam that fills the chamber. The @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastmen} have been harvesting them as an additional source of meat.",
+   "ru": "Туннели выходят в неглубокую пещеру, затопленную кислотными стоками. Как ни странно, среди луж видны признаки жизни — скопления крупных спящих @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади}. Через пещеру тянутся ржавые трубы, от жара которых стоки вскипают паром, заполняющим зал. @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Зверолюды} промышляют ими как дополнительным источником мяса."
+  },
+  "130": {
+   "en": "If the characters succeed at a ",
+   "ru": "Если персонажи пройдут "
+  },
+  "132": {
+   "en": "Difficult (−10) Stealth (Move Silently)",
+   "ru": "Трудную (−10) проверку Скрытности (Бесшумное движение)"
+  },
+  "134": {
+   "en": " Test, they pass unharmed through the chamber. For each character who fails, the party is attacked by one @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ZIxRrvXoXCRKAYyI]{Acynadi Delta-5}. If all characters fail, they are attacked by an @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.8dS1s1UvVXyt6dyv]{Acynadi Gamma-7} instead.",
+   "ru": ", они невредимыми минуют зал. За каждого провалившего персонажа на отряд нападает один @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ZIxRrvXoXCRKAYyI]{ацинади Дельта-5}. Если проваливают все, вместо них нападает @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.8dS1s1UvVXyt6dyv]{ацинади Гамма-7}."
+  },
+  "138": {
+   "en": "The entire chamber is ",
+   "ru": "Весь зал — "
+  },
+  "140": {
+   "en": "Difficult Terrain",
+   "ru": "пересечённая местность"
+  },
+  "142": {
+   "en": ". If any of the pipes is damaged, the related Zone becomes a ",
+   "ru": ". Если повредить какую-либо трубу, соответствующая зона становится "
+  },
+  "144": {
+   "en": "Minor Hazard",
+   "ru": "слегка опасной местностью"
+  },
+  "146": {
+   "en": ". Passing through the acynadi den allows the characters to enter the @UUID[.zxtdKCbEeChB51rY#2e.-the-shamans-lair]{Shaman’s Lair (2E)} from a point of vantage, also granting them +1 Superiority in the upcoming encounter. However, they do not gain this Superiority if they use any ",
+   "ru": ". Пройдя через логово ацинади, персонажи попадают в @UUID[.zxtdKCbEeChB51rY#2e.-the-shamans-lair]{логово шамана (2E)} с выгодной позиции, что также даёт им +1 превосходство в предстоящей схватке. Однако этого превосходства они не получают, если используют в зале какое-либо оружие или снаряжение со свойством "
+  },
+  "148": {
+   "en": "Loud",
+   "ru": "«Громкое»"
+  },
+  "150": {
+   "en": " weaponry or equipment in the chamber.",
+   "ru": "."
+  },
+  "154": {
+   "en": "2E. The Shaman’s Lair",
+   "ru": "2E. Логово шамана"
+  },
+  "164": {
+   "en": "The Beastmen Shaman @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Arkt Talgore} conducts unholy rites in his gruesome lair. Here, the air smells of sulphur and blood, and any Psykers in the party can feel the painful, maddening presence of Chaos nipping at them from the Warp. The lair is cluttered with empty crates that serve as furniture, barrels with dismembered limbs protruding from the top, and odd items taken from the refinery or stolen from the nearest habsprawls: bits of old machinery, a broken cart, piles of rags, all items the party might use as cover if they seek to enter the lair unseen. These are scattered all over the Lair, with four surrounding Zones and a central Zone as follows.",
+   "ru": "Шаман зверолюдов @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Аркт Талгор} вершит нечестивые обряды в своём жутком логове. Здесь пахнет серой и кровью, а псайкеры в отряде чувствуют мучительное, сводящее с ума присутствие Хаоса, покусывающего их из варпа. Логово завалено пустыми ящиками, служащими мебелью, бочками, из которых торчат отрубленные конечности, и всякой всячиной, унесённой с завода или украденной из ближайших жилых кварталов: обломками старых механизмов, сломанной тележкой, грудами тряпья — всем этим отряд может воспользоваться как укрытием, если захочет проникнуть в логово незамеченным. Всё это разбросано по логову, которое делится на четыре окружающие зоны и центральную, как описано ниже."
+  },
+  "168": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Talgore} has also had his followers erect a false herdstone in the centre of the cavern, a great lump of rock into which they’ve carved Chaos symbols, before pouring the blood of sacrifices into the grooves. A Human corpse lies drained and dead at its base. This stone is a source of Corruption — characters who end their turn within this central Zone make a ",
+   "ru": "Кроме того, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Талгор} велел последователям воздвигнуть в центре пещеры ложный камень стада — огромную глыбу, в которой вырезали символы Хаоса, а затем залили в борозды кровь жертв. У его подножия лежит обескровленный человеческий труп. Этот камень — источник порчи: персонажи, заканчивающие ход в центральной зоне, проходят "
+  },
+  "170": {
+   "en": "Challenging (+0) Discipline (Psychic)",
+   "ru": "Среднюю (+0) проверку Дисциплины (Психическое)"
+  },
+  "172": {
+   "en": " Test to resist 1 Corruption Point. Making physical contact with the stone is ",
+   "ru": ", чтобы противостоять 1 очку порчи. Физический контакт с камнем — это "
+  },
+  "174": {
+   "en": "Moderate Exposure",
+   "ru": "умеренное воздействие"
+  },
+  "176": {
+   "en": ", requiring a ",
+   "ru": ", требующее "
+  },
+  "178": {
+   "en": "Challenging (+0) Fortitude",
+   "ru": "Средней (+0) проверки Стойкости"
+  },
+  "180": {
+   "en": " Test to resist 2 Corruption Points. Every SL reduces the number of Corruption Points gained by 1. Damaging the false herdstone at the beginning of the encounter, or during, grants the party +1 Superiority.",
+   "ru": ", чтобы противостоять 2 очкам порчи. Каждая КУ уменьшает число получаемых очков порчи на 1. Повреждение ложного камня стада в начале схватки или во время неё даёт отряду +1 превосходство."
+  },
+  "184": {
+   "en": "If the party enters without @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Talgore}’s knowledge, they see him sprinkling clouds of corrosive chemical dust, taken from the refinery, over herdstone and followers alike. This hisses on contact, singeing the fur and skin of those it lands on, but they don’t react. Talgore mutters as he works, invoking the gods of Chaos, and preaching to his followers. Some of what he says sound like grunts or wordless bellows to the characters, but some they can understand:",
+   "ru": "Если отряд проникнет внутрь без ведома @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Талгора}, персонажи увидят, как он посыпает облаками едкой химической пыли, взятой с завода, и камень стада, и последователей. Пыль шипит при соприкосновении, опаляя шерсть и кожу тех, на кого попадает, но они не реагируют. Талгор бормочет за работой, взывая к богам Хаоса и проповедуя последователям. Кое-что из сказанного звучит для персонажей как хрюканье или бессловесный рёв, но кое-что им понятно:"
+  },
+  "190": {
+   "en": "‘Rise up! Show them your strength! Death to humans and glory for the Herd!’",
+   "ru": "«Восстаньте! Покажите им свою силу! Смерть людям и слава стаду!»"
+  },
+  "196": {
+   "en": "There is a @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastman} here for every character (including allied NPCs), plus the Shaman @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Arkt Talgore} himself. While the party may enter unseen, passing to the exit at the far end of the chamber, beyond the Shaman’s makeshift throne, is difficult. It is possible to escape without fighting the Shaman, and there are a number of Hazards that might be used to the character’s advantage:",
+   "ru": "Здесь находится по одному @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{зверолюду} на каждого персонажа (включая союзных NPC), а также сам шаман @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Аркт Талгор}. Отряд может войти незамеченным, но пройти к выходу в дальнем конце зала, за самодельным троном шамана, трудно. Сбежать, не сражаясь с шаманом, возможно, и есть ряд опасностей, которые персонажи могут обратить себе на пользу:"
+  },
+  "204": {
+   "en": "The barrel of chemical dust near the Shaman could be upturned over a character to cause 10 Damage, or knocked over to cause 5 Damage to all opposing characters within Close Range.",
+   "ru": "Бочку с химической пылью рядом с шаманом можно опрокинуть на персонажа, нанеся 10 урона, или сбить, нанеся 5 урона всем противникам на ближней дистанции."
+  },
+  "212": {
+   "en": "Any @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastmen} allies are sickened by the perversion they see here and cannot resist attacking the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Shaman} outright. This should keep him occupied for a few turns.",
+   "ru": "Любые союзные @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{зверолюды} испытывают отвращение к увиденному здесь извращению и не могут удержаться, чтобы не напасть на @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{шамана} напрямую. Это должно занять его на несколько ходов."
+  },
+  "220": {
+   "en": " A crazed @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.utelXH1DahFI5iHt]{Accursed Cultist} has been chained, unarmed, to one of the walls. It strains at its bonds, reaching its grasping tentacles towards whoever comes nearest, herd or Human doesn’t matter to this maddened creature. If released, it attacks indiscriminately, and may seek to escape backwards in the tunnels.",
+   "ru": " К одной из стен прикован безоружный обезумевший @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.utelXH1DahFI5iHt]{проклятый культист}. Он рвётся из оков, протягивая хватающие щупальца к тому, кто окажется ближе, — стадо или человек, этому безумному созданию всё равно. Если его освободить, он атакует без разбора и может попытаться сбежать назад в туннели."
+  },
+  "228": {
+   "en": "If the characters left the two @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.TRcwwntLPqt7KaJy]{Mutated Beastmen} undisturbed at the @UUID[.zxtdKCbEeChB51rY#2c.-beastmens-ritual]{Beastmen’s Ritual (2C)}, they’ll join the fight four rounds in, after hearing any commotion.",
+   "ru": "Если персонажи не тронули двух @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.TRcwwntLPqt7KaJy]{мутировавших зверолюдов} на @UUID[.zxtdKCbEeChB51rY#2c.-beastmens-ritual]{ритуале зверолюдов (2C)}, те, услышав шум, присоединяются к бою на четвёртом раунде."
+  },
+  "232": {
+   "en": "After the encounter, a tunnel at the back of the Shaman’s Lair can take them back to the Lower Hive, a hidden exit just outside the area surrounding the manufactorum, bypassing the closed-off entrances behind them in the upper floors. If they go back and aim to exit from the refinery’s gates, they’re still sealed, and a band of @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{Gangers} wait to ambush them — paid off by @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Felputh} to ensure no one escapes.",
+   "ru": "После схватки туннель в глубине логова шамана может вывести персонажей обратно в нижний улей — к потайному выходу сразу за пределами района вокруг мануфакторума, минуя перекрытые входы на верхних этажах позади. Если персонажи вернутся и попытаются выйти через ворота завода, те по-прежнему запечатаны, а в засаде их поджидает шайка @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{бойцов банды}, которым @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Фелпут} заплатил, чтобы никто не ушёл."
+  },
+  "242": {
+   "en": "Dealing with Lord Felputh",
+   "ru": "Как поступить с лордом Фелпутом"
+  },
+  "246": {
+   "en": "The adventure’s conclusion lies with how the party seeks to deal with @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh}. If @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Kant Sandik} becomes an ally, she offers to arrange a meeting with Lord Felputh, or they may seek to return to the Hive Spires of their own accord. The party has some time to prepare, since everyone has been convinced they’ve become blockaded within the manufactorum.",
+   "ru": "Развязка приключения зависит от того, как отряд решит поступить с @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лордом Фелпутом}. Если @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Кант Сандик} стала союзницей, она предлагает устроить встречу с лордом Фелпутом, или же персонажи могут сами вернуться к шпилям улья. У отряда есть немного времени на подготовку, поскольку все уверены, что персонажи оказались заперты на мануфакторуме."
+  },
+  "252": {
+   "en": "Exposing Felputh",
+   "ru": "Разоблачение Фелпута"
+  },
+  "254": {
+   "en": ": If the characters reveal that not only did @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh} bring @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastmen} into work in his factory, but that those Beastmen corrupted Human labourers and spread Chaos, then he’s likely to lose everything, including his life.",
+   "ru": ": если персонажи раскроют, что @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорд Фелпут} не только привёз @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{зверолюдов} работать на своём заводе, но и что эти зверолюды совратили рабочих-людей и распространили Хаос, он, скорее всего, потеряет всё, включая жизнь."
+  },
+  "258": {
+   "en": "If he can convince the party to lie about what they’ve seen, and let him spread the word that his problems are caused by rampant mutancy in the surrounding habsprawls, nothing to do with him at all, he can call for the whole area to be purged and no one would ever know he was to blame.",
+   "ru": "Если он сумеет убедить отряд солгать о том, что они видели, и позволит ему распустить слух, что его беды вызваны повальной мутацией в окрестных жилых кварталах и вовсе не связаны с ним, он сможет потребовать зачистки всего района, и никто никогда не узнает, что виноват он."
+  },
+  "262": {
+   "en": "The characters may accept a bribe of 1000 solars each to keep @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Felputh}’s secret. Whether the party’s Patron would approve of their choice depends on their faction and motivations, so the players may have to consider keeping this secret from their Patron. ",
+   "ru": "Персонажи могут принять взятку по 1000 соляров каждому за сохранение тайны @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Фелпута}. Одобрит ли покровитель отряда такой выбор, зависит от его фракции и мотивации, так что игрокам, возможно, придётся подумать о том, чтобы скрыть эту тайну и от покровителя. "
+  },
+  "268": {
+   "en": "Punishing Felputh",
+   "ru": "Наказание Фелпута"
+  },
+  "270": {
+   "en": ": Alternatively, the party may be determined to bring @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh} to justice, either of their own making or by informing the Macharian Vigilites or an agent of the Inquisition of the Chaos worship going on under his watch. In this case, the refinery is purged, the tunnels sealed off, and a new noble takes over his holdings, taking on the burden of repairs so the refinery is soon operational again.",
+   "ru": ": с другой стороны, отряд может твёрдо решить привлечь @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорда Фелпута} к ответу — своими силами или сообщив махарийским вигилам либо агенту Инквизиции о поклонении Хаосу, творившемся под его надзором. В таком случае завод зачищают, туннели замуровывают, а владения Фелпута переходят к новому дворянину, который берёт на себя бремя ремонта, и вскоре завод снова начинает работать."
+  }
+ }
+}

@@ -2,7 +2,7 @@
   "name": "Feedback Screech",
   "type": "talent",
   "_id": "malExpTal0000189",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Action: every unprotected creature within Medium range (and hearing): Discipline+0 or get Stunned</span></p><hr><p><span style=\"font-family: Arial\"><em>As an Action, you can force all unprotected creatures within Medium Range who have the ability to hear must make a successful Challenging (+0) Discipline Test or become Stunned on their next turn as they involuntarily react to the cacophonous shriek.</em></span></p>",

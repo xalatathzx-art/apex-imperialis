@@ -1,0 +1,46 @@
+{
+ "journal": "BbyZqcWs3HbrAO3Y",
+ "journalName": "The Inquisition's Armoury",
+ "page": "aNrSof1WnDFNU8Pc",
+ "pageName": "The Inquisition Armoury",
+ "name": "Арсенал Инквизиции",
+ "runs": {
+  "8": {
+   "en": "The Imperium is plagued with war and strife, conspiracy and heresy. The Inquisition, and those who serve it, delve deeper into the darkness than anyone else, bringing with them the Emperor’s light — and often, his fury. For this duty, the Inquisition must be well-equipped. This chapter contains a selection of wargear used by the Inquisition on the front lines of the hidden war for the soul of the Imperium, along with new essential tools for espionage and investigation.",
+   "ru": "Империум терзают войны и раздоры, заговоры и ереси. Инквизиция и те, кто ей служит, погружаются во тьму глубже всех прочих, неся с собой свет Императора — а нередко и Его ярость. Для этого долга Инквизиция должна быть хорошо снаряжена. В этой главе собрано снаряжение, которым Инквизиция пользуется на передовой тайной войны за душу Империума, а также новые незаменимые инструменты для шпионажа и расследований."
+  },
+  "12": {
+   "en": "Availability",
+   "ru": "Доступность"
+  },
+  "16": {
+   "en": "The iconic arsenal of the Inquisition is beyond rare among open markets or traders. Some weaponry takes years to craft, wrought from materials almost impossible to acquire, and anointed by the most faithful of the Ministorum. Others are appropriated from the enemy itself, reverse-engineered tools of the xenos, or handcrafted along the Radical path, from secrets torn from the enemy and used to shape weapons, fighting Chaos with Chaos.",
+   "ru": "Знаменитый арсенал Инквизиции больше чем редок на открытых рынках и у торговцев. Некоторое оружие изготавливают годами из почти недобываемых материалов и освящают вернейшие из Министорума. Другое отнимают у самого врага, воссоздают по образцу орудий ксеносов или изготавливают на пути радикала — из тайн, вырванных у врага и пущенных на создание оружия, сражаясь с Хаосом его же средствами."
+  },
+  "20": {
+   "en": "Rare equipment might be possible to locate across a breadth of worlds using an Availability Test; see @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.k5sND1C17nY9xB1G]{Trading Equipment}. Many of the items found in this chapter, however, are Exotic. These items might be unknown to many acolytes without specialised knowledge or research and beyond discovery in simple bartering. Exotic items are only available if the GM determines they are.",
+   "ru": "Редкое снаряжение можно найти на множестве миров с помощью проверки доступности; см. раздел @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.k5sND1C17nY9xB1G]{«Торговля снаряжением»}. Однако многие предметы из этой главы диковинны. Многие аколиты без особых знаний или изысканий могут и не подозревать о них, и их не найти простым торгом. Диковинные предметы доступны, только если так решит ведущий."
+  },
+  "26": {
+   "en": "PATRON REQUISITION",
+   "ru": "СНАБЖЕНИЕ ОТ ПОКРОВИТЕЛЯ"
+  },
+  "30": {
+   "en": "Many Patrons firmly believe in using the right tool for the job, Inquisitors do not differ. As research or investigations begin to turn up more information, hints of the dangers ahead, or the peculiar nature of some of those threats, an Inquisitor might provide their acolytes with wargear that would otherwise be impossible to acquire.",
+   "ru": "Многие покровители твёрдо верят в то, что для каждой работы нужен свой инструмент, и инквизиторы тут не исключение. Когда изыскания или расследования начинают приносить больше сведений, намёков на грядущие опасности или особую природу некоторых угроз, инквизитор может снабдить аколитов снаряжением, которое иначе было бы невозможно раздобыть."
+  },
+  "36": {
+   "en": "Icons of Ordo and Philosophy",
+   "ru": "Символы ордосов и философий"
+  },
+  "40": {
+   "en": "The Holy Orders of the Inquisition are known to differ not only in their approach but in their preferred tools. Such pieces of wargear become commonplace among their warriors, even symbolic. Many within the Orders can recognise a Malleus acolyte by the Daemonhammer they carry or a Hereticus acolyte by the Inferno Pistol strapped to their thigh.",
+   "ru": "Святые ордосы Инквизиции, как известно, различаются не только подходом, но и предпочитаемыми инструментами. Такое снаряжение становится для их воинов обычным и даже символичным. Многие в ордосах узнают аколита Маллеус по демоническому молоту, а аколита Еретикус — по инферно-пистолету, пристёгнутому к бедру."
+  },
+  "44": {
+   "en": "Beyond these philosophical and methodological differences, Inquisitors across the spectrum of doctrine and darkness attain vastly different wargear. Various equipment throughout this chapter may note that certain items are limited to specific Ordos or specific to the Puritan or Radical Inquisitors and are, therefore, only possible to acquire with the agreement of the GM and a compelling narrative explanation.",
+   "ru": "Помимо этих философских и методических различий, инквизиторы по всему спектру доктрин и тьмы обзаводятся самым разным снаряжением. В описаниях снаряжения этой главы может указываться, что некоторые предметы доступны лишь определённым ордосам либо только инквизиторам-пуританам или радикалам, а значит, раздобыть их можно лишь с согласия ведущего и при убедительном сюжетном обосновании."
+  }
+ },
+ "journalRu": "Арсенал Инквизиции"
+}

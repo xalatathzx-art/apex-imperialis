@@ -2,7 +2,7 @@
   "name": "ЭФМ Цепи",
   "type": "navis-apexialis.implant",
   "_id": "navisImp00000098",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00007",
   "sort": 9800,
   "system": {

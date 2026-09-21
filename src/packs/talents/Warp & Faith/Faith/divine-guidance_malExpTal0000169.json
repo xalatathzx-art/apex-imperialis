@@ -2,7 +2,7 @@
   "name": "Divine Guidance",
   "type": "talent",
   "_id": "malExpTal0000169",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Action, spend FP to gain imperial ally within hearing range: +2SL on Ranged attacks for 1 round</span></p><hr><p><span style=\"font-family: Arial\"><em>As an action, you may spend a Fate Point to grant one Imperial ally within hearing range +2 SL to Ranged Attacks for 1 Round. </em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "Faithful (Imperial Cult) Talent, 2 Advances in Ranged",
-      "script": "return this.actor.system.skills.ranged.advances >= 2 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful(Imperial Cult)\")"
+      "script": "return this.actor.system.skills.ranged.advances >= 2 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful (imperial Cult)\")"
     },
     "test": {
       "difficulty": "challenging",

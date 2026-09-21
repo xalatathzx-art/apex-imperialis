@@ -2,7 +2,7 @@
   "name": "Furious Zeal",
   "type": "talent",
   "_id": "malExpTal0000176",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">+2 damage against hated enemies in melee</span></p><hr><p><span style=\"font-family: Arial\"><em>You may add +2 Damage to any melee attacks you inflict against targets included in your Hatred talent.</em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "Hatred Talent, Faithful (Imperial Cult) Talent",
-      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Hatred\") && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful(Imperial Cult)\")"
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Hatred\") && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful (imperial Cult)\")"
     },
     "test": {
       "difficulty": "challenging",

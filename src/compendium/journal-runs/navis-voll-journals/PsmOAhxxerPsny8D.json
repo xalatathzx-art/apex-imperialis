@@ -1,0 +1,237 @@
+{
+ "journal": "yAAIQKv8lK49HRLz",
+ "journalName": "Implacable",
+ "page": "PsmOAhxxerPsny8D",
+ "pageName": "Part 1: Faltering Tithe",
+ "name": "Часть 1: «Под угрозой десятина»",
+ "runs": {
+  "8": {
+   "en": "To call the Precinct Fortress Majoris a ‘fortress’ is a misnomer, or a staggering understatement. It is in fact the entire bottom level of the Upper Hive of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth} — a maze of dark rockcrete, the headquarters of the Macharian Vigilites on Voll, and the main checkpoint through which everything and everyone travelling from Upper to Lower Hive, or vice-versa, must pass.",
+   "ru": "Называть участковую крепость «Майорис» «крепостью» неверно — или же это колоссальное преуменьшение. На деле это весь нижний уровень верхнего улья @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта} — лабиринт тёмного феррокрита, штаб махарийских вигилов на Волле и главный контрольный пункт, через который обязан пройти всё и все, кто направляется из верхнего улья в нижний или обратно."
+  },
+  "12": {
+   "en": "A flash of their passes easily gets the characters into the very heart of the Maglev Nexus and they may well marvel at how notably smooth and swift their ride is. Heavily armed @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.KTlRprKRb8XzlnAD]{Gun Servitors} and steely-eyed @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.GuqQhiqch248agDB]{Vigilites} immediately track them as they exit the Maglift with immediate demands to see their identification. A ",
+   "ru": "Стоит персонажам показать пропуска, и их без труда пропускают в самое сердце маглев-узла, где они вполне могут подивиться, насколько плавно и быстро идёт маглифт. Как только они выходят из маглифта, в них тут же впиваются взглядом тяжеловооружённые @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.KTlRprKRb8XzlnAD]{орудийные сервиторы} и стальноглазые @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.GuqQhiqch248agDB]{вигилы}, немедленно требующие предъявить документы. "
+  },
+  "14": {
+   "en": "Routine (+20) Intuition (People)",
+   "ru": "Рутинная (+20) проверка Чутья (Люди)"
+  },
+  "16": {
+   "en": " Test notes that the Vigilites on guard immediately stiffen and become very polite indeed once they’ve authenticated the party’s passes. The sentries readily direct the characters on the best way to get to Block 3 if asked.",
+   "ru": " позволяет заметить, что дежурные вигилы, проверив подлинность пропусков, сразу вытягиваются в струнку и становятся весьма вежливы. Если персонажи спросят, часовые охотно объяснят, как лучше добраться до блока 3."
+  },
+  "20": {
+   "en": "Captain Vern’s Office",
+   "ru": "Кабинет капитана Верна"
+  },
+  "24": {
+   "en": "The characters are stopped several times along the way to Captain Vern’s office, but a flash of their passes always sees quick salutes, and the characters are immediately waved on. Block 3 proves to effectively be a large marshalling yard where squads of Vigilites run through hand-to-hand drills and crowd control tactics.",
+   "ru": "По пути к кабинету капитана Верна персонажей останавливают несколько раз, но стоит показать пропуска, как им быстро отдают честь и тут же пропускают. Блок 3 оказывается по сути большим плацем, где отделения вигилов отрабатывают рукопашный бой и тактику разгона толпы."
+  },
+  "28": {
+   "en": "Vern’s office is a relatively simple affair attached to the yard. It’s filled with shelves packed with dataslates. Any organisation, if it exists, must clearly be particularly arcane. Various pieces of mismatched furniture lie about the room and a massive weapons locker dominates one entire wall. Captain Vern is a veritable grox of a man, eschewing the typical Vigilite carapace armour for a sturdy-looking great coat. His dark hair is flecked with grey. He regards the characters as they enter his office with one sharp green eye and one silver-pale augmetic lens which audibly whirrs and clicks as he studies them.",
+   "ru": "Кабинет Верна — относительно простое помещение, пристроенное к плацу. Он заставлен полками, забитыми инфопланшетами. Если здесь и есть какой-то порядок, он явно весьма загадочен. По комнате расставлена разномастная мебель, а целую стену занимает огромный оружейный шкаф. Капитан Верн — настоящий грокс, а не человек: вместо обычной для вигилов панцирной брони он носит крепкую на вид шинель. В тёмных волосах пробивается седина. Когда персонажи входят, он разглядывает их одним острым зелёным глазом и серебристо-бледной аугметической линзой, которая слышно жужжит и щёлкает, пока он их изучает."
+  },
+  "32": {
+   "en": "Roleplaying Captain Matis Vern",
+   "ru": "Отыгрыш капитана Матиса Верна"
+  },
+  "36": {
+   "en": "Captain Vern possesses a surprisingly genial manner and welcomes the characters with no small sense of relief. He is clearly frustrated, not to mention concerned, though he does his best to keep the last emotion to himself. Use the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.GuqQhiqch248agDB]{Vigilite} stat-block to represent Captain Vern if needed. If asked about his connection to the party’s Patron, he smiles and taps his augmetic eye. ‘Our mutual friend saved me from getting gutted by the Throne-cursed cur who did ",
+   "ru": "Капитан Верн на удивление радушен и встречает персонажей с немалым облегчением. Он явно раздосадован, не говоря уже о беспокойстве, хотя старается держать последнее при себе. При необходимости используйте для капитана Верна профиль @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.GuqQhiqch248agDB]{вигила}. Если спросить о его связи с покровителем отряда, он улыбается и постукивает по аугметическому глазу. «Наш общий друг спас меня, когда меня чуть не выпотрошил проклятый Троном пёс, который сделал "
+  },
+  "38": {
+   "en": "this",
+   "ru": "вот это"
+  },
+  "40": {
+   "en": ".’ He picks up a dataslate, checking details as he speaks.",
+   "ru": "». Он берёт инфопланшет и сверяется с подробностями по ходу разговора."
+  },
+  "46": {
+   "en": "On The Vertexis:",
+   "ru": "О Вертексисе:"
+  },
+  "50": {
+   "en": "‘Cults come and go in Rokarth at a fast pace. A few citizens got themselves a glimpse of our perpetrator at some point. Dressed in a black, gaunt pale face, carrying a scythe of all things. They call ‘im The Harbinger. Claim they’re loyal to the Imperium, that he’s an angel of the Emperor, come to punish the guilty. You’ll see their murals about. We erase them and eliminate anyone we catch putting them up. But they always return. Just addled scum.’",
+   "ru": "«Культы в Рокарте появляются и исчезают быстро. Несколько горожан как-то умудрились мельком увидеть нашего преступника. В чёрном, лицо измождённое, бледное, да ещё и с косой, подумать только. Зовут его Предвестником. Говорят, что верны Империуму, что он ангел Императора, пришедший карать виновных. Увидите их фрески. Мы их стираем и уничтожаем всех, кого ловим за рисованием. Но они всегда появляются снова. Просто свихнувшееся отребье»."
+  },
+  "58": {
+   "en": "On the Killings",
+   "ru": "Об убийствах"
+  },
+  "62": {
+   "en": "‘Near as we can tell, about half a year ago is when the relevant murders began. Pretty much every night cycle since, regularly as clockwork, though the scale varies. I have a slate here for you with autopsy reports. Don’t eat afore you read. Our killer doesn’t discriminate much. No motivations that we can identify. Whole habs butchered. Few survivors. Likes blades, but not exclusively. Leaves a big mess. We thought he was a pattern killer, higher-ups didn’t much care — nobody in the Spire was getting hit. But then the sabotages began.’",
+   "ru": "«Насколько мы можем судить, эти убийства начались примерно полгода назад. С тех пор чуть ли не каждый ночной цикл, как по часам, хотя масштаб разный. У меня тут для вас планшет с заключениями вскрытий. Не ешьте перед чтением. Наш убийца особо не разбирает. Никаких мотивов, которые мы могли бы установить. Целые жилые блоки вырезаны. Выживших мало. Любит клинки, но не только. Оставляет жуткий беспорядок. Мы думали, это серийный убийца, начальству было плевать — в шпиле-то никого не трогали. Но потом начались диверсии»."
+  },
+  "70": {
+   "en": "On the Case",
+   "ru": "О деле"
+  },
+  "74": {
+   "en": "‘At this point, all I’ve hit are deadwalls. We’ve had scores of savants scouring over the datapoints, but no useful connections among the victims have been discerned. However, we’re not allowed access to the Administratum’s or Imperial Navy's full records. That’s why I’m hoping you lot can shake something free. Go where I can’t. I think you should know why you’re here. It’s not just ‘cause of the Tithe. I had a squad, some of my best. Set up a trap for the Harbinger. That thing slaughtered them all, took them apart like they were nothing. Killed a squad of ten Vigilites in mere moments. I don’t know what this thing is, but like I told your boss, I don’t think it’s Human. Find this thing before more of my officers get butchered, but don’t engage it at close quarters if you can help it.’",
+   "ru": "«Пока что я только упираюсь в тупики. Десятки савантов прочёсывали данные, но полезных связей между жертвами не нашли. Однако доступа к полным записям Администратума или Имперского флота нам не дают. Поэтому я надеюсь, что вы что-нибудь да расшевелите. Пойдёте туда, куда мне хода нет. Думаю, вам стоит знать, зачем вы здесь. Дело не только в десятине. У меня было отделение, одни из лучших. Устроили Предвестнику ловушку. Эта тварь их всех перерезала, разобрала на части, будто они пустое место. Убила отделение из десяти вигилов за считаные мгновения. Не знаю, что это за тварь, но, как я уже сказал вашему начальнику, не думаю, что это человек. Найдите её, пока ещё кого-то из моих офицеров не зарезали, но по возможности не вступайте с ней в ближний бой»."
+  },
+  "80": {
+   "en": "Vern answers what questions he can, but mostly notes, ",
+   "ru": "Верн отвечает на вопросы, на какие может, но чаще всего замечает: "
+  },
+  "82": {
+   "en": "‘All in the file.’",
+   "ru": "«Всё в деле»."
+  },
+  "84": {
+   "en": " If the characters wish to speak with one of the more coherent survivors, he arranges it for the next day. He offers them a private vox channel to contact him for support as needed, and asks to be apprised if possible. Finally, he ruefully shakes his head, saying there’s one last situation the characters have to deal with.",
+   "ru": " Если персонажи захотят поговорить с одним из наиболее вменяемых выживших, он устраивает встречу на следующий день. Он предлагает им закрытый вокс-канал для связи при необходимости и просит по возможности держать его в курсе. Наконец, он удручённо качает головой и говорит, что персонажам осталось разобраться ещё с одним делом."
+  },
+  "90": {
+   "en": "‘There’s a man, Administratum. Master Morlay. He’ll be waiting for you, outside the fortress, Upper Hive Gate 6. He might be useful. Maybe not. But you should probably see him, he’s got some pull.’",
+   "ru": "«Есть один человек, из Администратума. Мастер Морлей. Он будет ждать вас за пределами крепости, у ворот 6 верхнего улья. Может, пригодится. А может, и нет. Но повидаться с ним, пожалуй, стоит, у него есть связи»."
+  },
+  "96": {
+   "en": "Grim Reading",
+   "ru": "Мрачное чтиво"
+  },
+  "100": {
+   "en": "The sheer scale of the killings listed on Captain Vern’s dataslate is daunting — well over three thousand autopsy files, including some listed as ‘",
+   "ru": "Масштаб убийств, перечисленных в планшете капитана Верна, ошеломляет — больше трёх тысяч протоколов вскрытия, в том числе с пометкой «"
+  },
+  "102": {
+   "en": "corpus inconclusive",
+   "ru": "тело неопознаваемо"
+  },
+  "104": {
+   "en": "’ — noting the number of victims in several incidents was undiscernible as extensive tissue breakdown due to ‘",
+   "ru": "»: в них отмечено, что число жертв в нескольких случаях установить не удалось, поскольку обширный распад тканей из-за «"
+  },
+  "106": {
+   "en": "exposure to caustic elements",
+   "ru": "воздействия едких веществ"
+  },
+  "108": {
+   "en": "’ had rendered differentiating victims effectively impossible with the resources available to the Vigilites’ verispex. There are clearly countless more victims than even the investigating Vigilites can account for.",
+   "ru": "» сделал различение жертв практически невозможным при имеющихся у вериспексов вигилов средствах. Очевидно, жертв бесчисленно больше, чем могут учесть даже ведущие расследование вигилы."
+  },
+  "112": {
+   "en": "It takes a successful ",
+   "ru": "Чтобы заставить себя дочитать обширные перечни жутких смертей в отчётах достаточно долго и найти что-то полезное, персонаж должен преуспеть в "
+  },
+  "114": {
+   "en": "Routine (+20) Discipline (Composure)",
+   "ru": "Рутинной (+20) проверке Дисциплины (Самообладание)"
+  },
+  "116": {
+   "en": " Test for a character to force themselves to continue to read the extensive litanies of gruesome deaths listed in the reports long enough to pick up anything useful. For each level of success, they manage to understand the key details of one of the four following paragraphs:",
+   "ru": ". За каждую степень успеха он разбирается в ключевых подробностях одного из четырёх следующих абзацев:"
+  },
+  "122": {
+   "en": "Weaponry",
+   "ru": "Оружие"
+  },
+  "124": {
+   "en": ": Of those still intact, the bulk of the autopsies for those killed in habs indicate cause of death as deep lacerations, typically with a bladed weapon that was likely powered in some way, but not a chain weapon, as the cuts were too clean. Some died from blunt force trauma, typically from a precise blow that crushed a windpipe or a broken neck. ",
+   "ru": ": у тех тел, что остались целы, большинство вскрытий погибших в жилых блоках указывает причиной смерти глубокие рваные раны — как правило, от клинкового оружия, вероятно каким-то образом силового, но не цепного, поскольку разрезы слишком чистые. Некоторые умерли от тупой травмы — обычно от точного удара, раздробившего трахею, или от перелома шеи. "
+  },
+  "130": {
+   "en": "Unusual Munitions",
+   "ru": "Необычные боеприпасы"
+  },
+  "132": {
+   "en": ": A few were shot with unusual munitions that exploded after impact. The summary report notes, with clear reluctance, that while such rounds certainly resembled those of sacred bolt weaponry, their likely calibre was not at all standard.",
+   "ru": ": в нескольких стреляли необычными боеприпасами, взрывавшимися после попадания. В итоговом отчёте с явной неохотой отмечено, что, хотя такие снаряды определённо напоминали снаряды священного болтерного оружия, их вероятный калибр был совсем не стандартным."
+  },
+  "138": {
+   "en": "Toxins",
+   "ru": "Яды"
+  },
+  "140": {
+   "en": ": The Vigilite autopsies are listed in a separate file. Several have appended toxicology reports that indicate they were exposed to a particularly virulent toxin, likely introduced via laceration with a multi-bladed weapon that readily cut through carapace armour. Several showed extreme nerve degeneration, which happened pre-mortem within mere moments of exposure. Likely exceedingly painful. One’s breastplate had been partially melted by what appeared to be a random spray of a particularly powerful corrosive compound, traces of which matched none of the many acids and corrosives found on Voll, a stunning conclusion the verispex confirmed with the @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#dilaquo]{Mercator Dilaquo}.",
+   "ru": ": вскрытия вигилов вынесены в отдельный файл. К нескольким приложены токсикологические заключения: они подверглись воздействию особо сильного яда, вероятно, введённого через раны от многолезвийного оружия, легко прорезавшего панцирную броню. У нескольких наблюдалась крайняя дегенерация нервов, наступившая ещё при жизни, за считаные мгновения после воздействия. Вероятно, это было чрезвычайно мучительно. Нагрудник одного из них был частично расплавлен тем, что походило на случайные брызги особо мощного едкого вещества, следы которого не совпали ни с одной из многочисленных кислот и едких веществ Волла, — ошеломляющий вывод, подтверждённый вериспексами у @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#dilaquo]{Меркатор Дилакво}."
+  },
+  "146": {
+   "en": "Sabotage",
+   "ru": "Диверсии"
+  },
+  "148": {
+   "en": ": A file marked as sabotage contains ten detailed industrial incidents. The common thread throughout the incidents is that, while they appeared to be accidents at first, they were all perfectly executed to cause maximum carnage. Several indicate the use of a @UUID[Compendium.navis-apexialis.navis-core-items.Item.99dVOsy85KLNtGTj]{Melta Bomb}, which is not at all a common or inexpensive munition.",
+   "ru": ": в файле с пометкой «диверсии» — десять подробно описанных производственных происшествий. Их объединяет то, что поначалу они казались несчастными случаями, но все были безупречно исполнены, чтобы вызвать максимальные жертвы. В нескольких указано применение @UUID[Compendium.navis-apexialis.navis-core-items.Item.99dVOsy85KLNtGTj]{мельта-бомбы} — отнюдь не распространённого и не дешёвого боеприпаса."
+  },
+  "152": {
+   "en": "The Master Awaits",
+   "ru": "Мастер ждёт"
+  },
+  "156": {
+   "en": "The characters can choose whether they meet with the Master or not. A ",
+   "ru": "Персонажи сами решают, встречаться с мастером или нет. "
+  },
+  "158": {
+   "en": "Challenging (+0) Lore (Adeptus Terra ",
+   "ru": "Средняя (+0) проверка Знаний (Адептус Терра "
+  },
+  "160": {
+   "en": "or",
+   "ru": "или"
+  },
+  "162": {
+   "en": " Voll)",
+   "ru": " Волл)"
+  },
+  "164": {
+   "en": " Test notes that Master Morlay is an Adeptus Administratum Master whose main job is coordinating hive-wide festivals, chief among them Halion’s Triumph. Failure to meet up with Morlay, he considers it an insult and results in greater difficulties during @UUID[.5GjYiCc0FBtc8dhc]{Part 4: Old Records}.",
+   "ru": " подсказывает, что мастер Морлей — мастер Адептус Администратум, чья главная работа — координировать общеульевые празднества, прежде всего Триумф Халиона. Если персонажи не встретятся с Морлеем, он сочтёт это оскорблением, что приведёт к большим трудностям в @UUID[.5GjYiCc0FBtc8dhc]{части 4: «Старые записи»}."
+  },
+  "168": {
+   "en": "If the characters head to Upper Hive Gate 6, they find a slight man in once-sumptuous dark robes covered in flowing silvery script, which have seen a lot of use and appear worn. He occasionally pulls heavily on a massive, long-stemmed wooden pipe with engraved bone and metal plates. A group of rough-looking sorts, all wearing brightly scintillant jackets, surround him, acting as bodyguards.",
+   "ru": "Если персонажи отправятся к воротам 6 верхнего улья, они найдут там щуплого мужчину в некогда роскошных тёмных одеждах, покрытых струящимися серебристыми письменами; одежды явно видали виды и заметно поношены. Время от времени он глубоко затягивается огромной деревянной трубкой с длинным чубуком, украшенной резными пластинами из кости и металла. Его окружает группа грубоватых на вид типов в ярких переливающихся куртках — телохранители."
+  },
+  "172": {
+   "en": "A ",
+   "ru": " "
+  },
+  "174": {
+   "en": "Routine (+20) Lore (Voll)",
+   "ru": "Рутинная (+20) проверка Знаний (Волл)"
+  },
+  "176": {
+   "en": " Test recognises the distinct jackets, marking them as members of the Mercator Carnem — the Meat Guild of Voll. Sporadically, he snaps his fingers and points, causing one of these minions to lean over and relight his pipe. Use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.vds8HRa533wcv1Pq]{Administratum Adept} to represent Morlay, and the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZIodTiyH9W5QBRU9]{Astra Militarum Trooper} to represent his guards, if required.",
+   "ru": " позволяет узнать эти приметные куртки — их носят члены Меркатор Карнем, мясной гильдии Волла. Время от времени он щёлкает пальцами и указывает на трубку, и один из прислужников наклоняется, чтобы разжечь её заново. При необходимости используйте для Морлея профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.vds8HRa533wcv1Pq]{адепта Администратума}, а для его охраны — @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZIodTiyH9W5QBRU9]{солдата Астра Милитарум}."
+  },
+  "182": {
+   "en": "‘Ah, here at last. Exquisite. I am Master Nixious Morlay. I’m told you’ve come to set my festival to rights. Exacting business. I am briefly at your disposal.’ ",
+   "ru": "«А, наконец-то. Изысканно. Я мастер Никсиус Морлей. Мне сказали, что вы пришли навести порядок на моём празднике. Кропотливое дело. Ненадолго я в вашем распоряжении». "
+  },
+  "188": {
+   "en": "Morlay tends to speak in measured bursts, with unusual liberal adjective use as punctuation. A ",
+   "ru": "Морлей говорит размеренными очередями, щедро расставляя необычные прилагательные вместо знаков препинания. "
+  },
+  "190": {
+   "en": "Difficult (−10) Intuition (People)",
+   "ru": "Трудная (−10) проверка Чутья (Люди)"
+  },
+  "192": {
+   "en": " Test reveals that he is very worried, though he conceals it well. Morlay asks the characters if they are aware of the supreme importance of @UUID[.GjnFA1lCGKEla9yA#halions-triumph]{Halion’s Triumph} and relays various details about it, including that he must return to work on at once. This serves as his preamble to offering his services in assisting with this ",
+   "ru": " показывает, что он очень встревожен, хотя и хорошо это скрывает. Морлей спрашивает персонажей, осознают ли они высочайшую важность @UUID[.GjnFA1lCGKEla9yA#halions-triumph]{Триумфа Халиона}, и рассказывает о нём разные подробности, в том числе о том, что ему немедленно нужно вернуться к работе. Это служит ему вступлением к предложению своих услуг в этом "
+  },
+  "194": {
+   "en": "‘vexatious affair.",
+   "ru": "«досадном деле»."
+  },
+  "200": {
+   "en": "What Morlay offers is effectively 2 @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#temporary-influence]{Temporary Influence} with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Adeptus Administratum}, particularly useful if the characters have no such Influence with that Faction among their members. But the cost of invoking Morlay’s Influence is that the Master knows exactly what sorts of questions the characters are asking, what they learned, and he expects regular updates on their progress with the case. He can also offer the services of his Mercator Carnem allies if the characters feel they need some muscle; however, the Meat Guild’s members ultimately answer to Morlay — which may be a problem for the party once the Master decides it is time for the characters to move on.",
+   "ru": "По сути Морлей предлагает 2 @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#temporary-influence]{временного влияния} у @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Адептус Администратум}, что особенно полезно, если ни у кого из персонажей нет влияния у этой фракции. Но цена обращения к влиянию Морлея в том, что мастер точно знает, какие вопросы задают персонажи и что они узнали, и ждёт регулярных отчётов о ходе дела. Он также может предложить услуги своих союзников из Меркатор Карнем, если персонажам нужна грубая сила; однако члены мясной гильдии в конечном счёте подчиняются Морлею — что может стать для отряда проблемой, когда мастер решит, что персонажам пора заняться другими делами."
+  },
+  "204": {
+   "en": "Characters who take Morlay up on the offer are given a copy of his personal sigil and a vox channel by which he can be reached. He requests regular reports of their progress. He looks visibly put out if they decline his offer, noting, ‘",
+   "ru": "Персонажи, принявшие предложение Морлея, получают копию его личной печати и вокс-канал для связи с ним. Он просит регулярно докладывать о ходе дела. Если персонажи откажутся, он заметно обижается и замечает: «"
+  },
+  "206": {
+   "en": "Superlative, to be so gifted at your work",
+   "ru": "Превосходно — быть столь одарёнными в своём деле"
+  },
+  "208": {
+   "en": ".’ He reacts by withdrawing in a huff but sets his Mercator Carnem agents to monitor the characters’ movements and cause them further trouble during @UUID[.5GjYiCc0FBtc8dhc]{Part 4: Old Records}.",
+   "ru": "». Затем он уходит, надувшись, но поручает своим агентам из Меркатор Карнем следить за передвижениями персонажей и доставлять им новые неприятности в @UUID[.5GjYiCc0FBtc8dhc]{части 4: «Старые записи»}."
+  }
+ }
+}

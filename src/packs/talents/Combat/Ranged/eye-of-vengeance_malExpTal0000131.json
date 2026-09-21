@@ -2,7 +2,7 @@
   "name": "Eye of Vengeance",
   "type": "talent",
   "_id": "malExpTal0000131",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">May spend FP to add BS-B to both damage and Penetration (if weapon has it)</span></p><hr><p><span style=\"font-family: Arial\"><em>Before making a Ranged Attack, you can spend a Fate Point. If you do so, you add your Ballistic Skill Bonus to both your Damage and your Penetrating Trait if your weapon has it. </em></span></p>",

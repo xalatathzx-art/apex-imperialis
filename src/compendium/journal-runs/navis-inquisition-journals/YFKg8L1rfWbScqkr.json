@@ -1,0 +1,305 @@
+{
+ "journal": "brh2O5CexxurRbM7",
+ "journalName": "The Inquisition",
+ "page": "YFKg8L1rfWbScqkr",
+ "pageName": "The Holy Orders",
+ "name": "",
+ "runs": {
+  "8": {
+   "en": "Three Ordos Majoris serve as the backbone of the Inquisition: Hereticus, Malleus, and Xenos. The Ordo Hereticus prevents psykers, mutants, and heretics from tearing the Imperium apart from within, battling against the burgeoning malevolence in any Human soul. The Ordo Malleus battles the foul Warp entities and executes those vile or foolish enough to help them. The Ordo Xenos are sworn to eradicate the taint of xenos from the galaxy and assure Humanity’s domination beyond the Imperium’s borders. Sometimes, Ordos Minoris are formed to deal with a localised, specific, or short-lived concern, at least by the standards of the Imperium; the work of the three Ordos Majoris is already an unrelenting toil against impossible odds. The fight for Humanity’s survival is a ferocious battle that will only end if the Imperium is lost, something Inquisitors will do anything to prevent — sacrificing armies, worlds, or even damning their own souls.",
+   "ru": ""
+  },
+  "12": {
+   "en": "An Inquisitor’s Ordo reflects their focus and the threats they actively seek out. Many Inquisitors are single-minded in their pursuit of their enemy and, once committed to rooting out a particular foe, are unlikely to waver for decades or even centuries. Each Ordo functions as a loose organisation of individuals, by necessity united under a common cause, but each guarding their secrets closely. Ostensibly this restricts the spread of dangerous information, though the motivation for doing so can be competitive, or even political. Knowledge is power, and projection of power is an Inquisitor’s stock in trade.",
+   "ru": ""
+  },
+  "16": {
+   "en": "An Inquisitor’s place in the hierarchy of their Ordo is a shifting estimation of their current power, prestige, and the resources they can reliably call upon. Even the title of Inquisitor Lord is claimed or bestowed rather than by measured rank and ascension. These Inquisitors are universally acclaimed by their peers or otherwise begrudgingly acknowledged for wielding the most power and respect amongst a sector’s Inquisition. In the Macharian Sector, this title belonged to Inquisitor Lord Hieronymo Drake — a dauntless man who brought Inquisitors within the sector together to cooperate and share resources to combat the sector’s heresies.",
+   "ru": ""
+  },
+  "20": {
+   "en": "That said, Inquisitors famously answer to none but the God-Emperor Himself; in truth, they are always answerable to each other. Constant scrutiny for signs of heresy or corruption further erodes trust between secretive and strong-willed individuals, honing their paranoia to a fine edge.",
+   "ru": ""
+  },
+  "36": {
+   "en": "Ordo Hereticus",
+   "ru": ""
+  },
+  "46": {
+   "en": "Across the Imperium, the stoic agents of the Ordo Hereticus fight heresy in all its forms: rogue psykers, Chaos cultists, dangerous mutants, and heretical preachers. These insidious enemies root themselves within Human society, so Inquisitors of this Ordo are expert investigators first and foremost. They must be able to detect and identify a myriad of taints and corruptions and know how to subdue or destroy their foes while protecting themselves from hideous mutants and the nightmarish powers of psykers, at least long enough to complete their mission. While the mass of Humanity is weak and corruptible, these Inquisitors are resolute, resisting temptation while mercilessly purging heresy in all its grotesque manifestations.",
+   "ru": ""
+  },
+  "50": {
+   "en": "There are more Ordo Hereticus Inquisitors throughout the Imperium than any other Ordo. Where the reputation of these Inquisitors precedes them, they inspire fear and awe more than any other. Citizens call them ‘witch hunters’, and the stories whispered about them have created a fearsome reputation. Some Inquisitors play into this reputation to ensure honesty and compliance with those they encounter.",
+   "ru": ""
+  },
+  "54": {
+   "en": "Other Inquisitors might question the reliability of testimony from terrified locals and attempt to allay their fears. Of course, stories of ruthless Inquisitors are indeed true. The nature of an Inquisitor’s dangerous hunt demands that they are unforgiving, and often, an Inquisitor decides to destroy a suspected heretic or psyker without confirming their ultimate guilt since wasting time to consider the truth could be otherwise disastrous.",
+   "ru": ""
+  },
+  "58": {
+   "en": "Goals",
+   "ru": ""
+  },
+  "62": {
+   "en": "Where the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.HURMpEU0Nnc93Ocv]{Adeptus Ministorum} shepherds their innumerate flock, the Ordo Hereticus hunts among the herd for those that turn from the Emperor’s light, seeking to eradicate heretical cults before they can begin to challenge the Imperium’s rule. The uncompromising brutality of daily life in the Imperium leads to many desperate citizens turning to the Ruinous Powers for answers, relief, and succour. Inquisitors of the Ordo Hereticus know these weak-willed and apostate individuals are the kindling that can strike a wildfire. They must uncover and destroy these cults before they threaten to burn down the Imperium.",
+   "ru": ""
+  },
+  "66": {
+   "en": "Hunting psykers, mutants, and all forms of heresy across the Imperium of Man is a gargantuan but necessary task. A powerful psyker might walk unnoticed among innocent citizens, ignorant of their own perilous powers, and even the smallest mutation might be evidence of greater corruption within that could spread like a fungal rot. If left unpunished, minor heresies, such as carrying traditional talismans, can lead to more serious ones. Heretical preachers might quickly turn an otherwise compliant workforce into a dangerous mob in a surprisingly short space of time.",
+   "ru": ""
+  },
+  "70": {
+   "en": "For the Imperium to survive on such a titanic scale, it must employ the dangerous powers of the psyker, captured and controlled by the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.upGG1JZPDbC7dpJJ]{Adeptus Astra Telepathica}. Rogue psykers capable of twisting reality leave themselves vulnerable to the predation of vile daemons that bolster their maleficent might. Yet the Black Ships cannot be everywhere at once. When a psyker eludes capture, the witch hunters of the Ordo Hereticus must hunt them down.",
+   "ru": ""
+  },
+  "74": {
+   "en": "Philosophies",
+   "ru": ""
+  },
+  "78": {
+   "en": "Puritan Inquisitors of the Ordo Hereticus consider any psychic tendency, slight mutation, or ill-advised comment on the Emperor’s rule a form of heresy and punish accordingly. They believe any taint must be cleansed, as even the slightest corruption begins small but, left unchecked, grows and spreads like a contagion across a world and may even spread to others. Some, like @UUID[.yds9IfgKQlwxLqq6]{Monodominant} Inquisitors, are even uncomfortable with the use of sanctioned psykers despite knowing they are essential to the Imperium. They are constantly alert for evidence that any psyker needs to be destroyed rather than used as a tool.",
+   "ru": ""
+  },
+  "82": {
+   "en": "Radical Inquisitors of the Ordo, such as those who follow the @UUID[.vJmDVccuyJJLooV4]{Polypsykana} philosophy, instead use sanctioned psykers to aid their work or might even be one themselves. They are not more forgiving than their Puritan counterparts but are more willing to see heretics and their methods as tools to be adequately exploited towards their mission’s goals. In that sense, they might prefer to capture a rogue psyker rather than outright purge them — but that psyker’s life now hangs in the balance; stepping out of line for even a moment will cost them dearly.",
+   "ru": ""
+  },
+  "86": {
+   "en": "Techniques",
+   "ru": ""
+  },
+  "90": {
+   "en": "Inquisitors of the Ordo Hereticus are specialists who have each developed their own ways to expose and neutralise unsanctioned psykers and other heretics. They must be shrewd to protect themselves from the dangers they might encounter, using espionage, military tactics, or even psychic powers to survive. They organise planetwide witch hunts, coordinating operations so swift and brutal that all rogue psykers are contained before they can unleash unholy powers. Cults are infiltrated or stalked from the shadows and raided once their corrupt leaders are exposed. Mutants are sought and identified at all levels of society, then tracked to their dwellings, leading Inquisitors to whatever spire, ramshackle town, or derelict voidship is the source of mutation.",
+   "ru": ""
+  },
+  "94": {
+   "en": "Many Inquisitors carry tools to identify psykers, such as arcane @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.7zxAcZPjoFW6mDR5]{psyocculums}, specialist weapons like blessed stake launchers to fight them, and protective tools such as blessed incense to protect themselves. Capturing a psyker is arduous, and if the means for nullifying a psyker’s power is not available, the Inquisitor must keep them otherwise incapacitated. Captured psykers might be put on a Black Ship if one is available nearby, or an Inquisitor may transport them to a null-prison for containment until one arrives. Psykers deemed too dangerous to capture must be otherwise purged — a public display will remind any locals of the dangers in harbouring such individuals and the threat of their unsanctioned powers.",
+   "ru": ""
+  },
+  "116": {
+   "en": "Ordo Malleus",
+   "ru": ""
+  },
+  "122": {
+   "en": "Few truly know of the daemon hunters’ existence, the most mysterious of the Ordos Majoris. The Ordo Malleus have hidden their work and redacted their charge from public view since their inception. Their grim duty is to battle horrors that defy mortal comprehension, and their primary goal is to detect and prevent daemonic incursions from even occurring in the first place. Inquisitors of the Ordo Malleus are forever on the watch for a rogue psyker with inexplicable powers, a daemonic cult on the rise, or a void anomaly that defies understanding — any might create a rift to the Warp, allowing daemons to swarm into reality via the Warp.",
+   "ru": ""
+  },
+  "126": {
+   "en": "These Inquisitors are understandably wary of psykers and often find themselves working alongside, or occasionally at odds with, Inquisitors from the Ordo Hereticus. Their agents are regularly exposed to potent sources of corruption and frequently become overwhelmed and fall victim to daemonic influence or even outright possession. Even within their tightknit Ordo, Malleus agents spend significant time policing and purging their own — they must drive back daemons ideally before they breach realspace, or otherwise destroy them, even if it means taking their comrades’ life.",
+   "ru": ""
+  },
+  "130": {
+   "en": "Goals",
+   "ru": ""
+  },
+  "134": {
+   "en": "The main goal of the Ordo Malleus is to protect Humanity from the influence and presence of Warp entities. They prevent daemons from entering realspace wherever possible by hunting down and destroying any daemonic artefacts, cults, or rogue psykers whose powers risk the integrity of realspace. Their armies of savants scrutinise proscribed texts under the watchful gaze of hexagrammically warded enforcers while sanctioned psykers and prognosticars scry arcane portents, attempting to predict where these potential breaches in the Immaterium will take place long before they occur.",
+   "ru": ""
+  },
+  "138": {
+   "en": "As if this task was not challenging enough, the Ordo’s secondary goal is to protect all citizens from learning about daemons. Knowledge of their very existence is enough to drive some citizens mad with fear. Yet that dread, spread by malefic whispers and temptation, is the root of damnable curiosity, driving some to heretical practices to grasp daemonic power for themselves. Daemons are by nature terrifying and manipulating, and anyone who makes contact with them, even for an instant, risks corruption. Methods for suppressing such knowledge can range from mind cleansing to outright eradicating the persons or groups involved. In extreme cases, whole worlds have been quarantined or destroyed to keep these terrible secrets safe.",
+   "ru": ""
+  },
+  "142": {
+   "en": "Philosophies",
+   "ru": ""
+  },
+  "146": {
+   "en": "The most Puritan members of the Ordo Malleus destroy anything related to daemonic activity they encounter on sight, burning tomes of forbidden knowledge, killing anyone who has seen or even heard of a daemon, and eradicating every last physical trace of any daemons they defeat.",
+   "ru": ""
+  },
+  "150": {
+   "en": "By contrast, their more Radical colleagues wish to learn from daemonic tomes, interrogate anyone who has encountered these vile monsters, and dissect anything left after a fight. Most Inquisitors of the Ordo fall somewhere between the two extremes, and each must rely on their own judgement to know what is right.",
+   "ru": ""
+  },
+  "154": {
+   "en": "Even some Puritans, such as @UUID[.0vHms9BJQGOVa0dO]{Thorians}, believe the study of Chaos necessary, but Radical Inquisitors tempt themselves to go too far, at least in the eyes of their brethren. Those who summon daemons to interrogate or to bind and use as a @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.M6XWkYc0lfuKl2hU]{daemonhost} may find other Inquisitors investigating them for heretical practices, if not confronting them directly. @UUID[.zilJJMaYtaWZrNtO]{Horusians} might allow a daemon to possess their flesh, supposedly to build an immunity. Use of such methods are only discovered if the process goes demonstrably wrong, since Inquisitors and acolytes are forced to work in the shadows to avoid condemnation from their brethren.",
+   "ru": ""
+  },
+  "158": {
+   "en": "Techniques",
+   "ru": ""
+  },
+  "162": {
+   "en": "Some Inquisitors of the Ordo Malleus wear suits of sanctified armour or carry weapons blessed by the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.HURMpEU0Nnc93Ocv]{Adeptus Ministorum}. They seek to use anything that might give them an advantage against the daemons they face, including everything from flamers and bolters to fleets of voidships. While preventing a daemon incursion can mean leaving the armour behind to infiltrate a daemonic cult or catch an unwary psyker, their missions often require firepower sooner or later. Even an undercover Inquisitor of the Ordo Malleus is likely to always keep weapons on them. Daemons come in a variety of foul forms. Many can be harmed by flame, lasfire, or humble frag grenades — an Inquisitor should always be prepared and ensure they have access to a varied arsenal that can destroy every foe they find.",
+   "ru": ""
+  },
+  "166": {
+   "en": "Battling daemons is a demanding duty, and some are so large and powerful that even the best weapons of the Imperium seem inadequate. Some Ordo Malleus Inquisitors turn to less orthodox means to take them down. They may attempt to turn the daemon’s weapons against them or use xenos-made armaments to make victory more likely. Some study daemonic tomes to learn effective ways of countering or controlling daemons, while others go so far as to bind a daemon to a host, and force a daemon to join the fight against their own kind.",
+   "ru": ""
+  },
+  "188": {
+   "en": "Ordo Xenos",
+   "ru": ""
+  },
+  "194": {
+   "en": "The alien hunters of the Ordo Xenos work to protect the Imperium of Man from any and all xenos threats. Whether this means annihilating a xenos species so far as to scour their presence from the galaxy or merely preventing or delaying their ingress into Imperial sectors depends on the Inquisitor and their chosen target. Some Inquisitors consider anything of xenos origin to be inherently impure, so eradicate xenos artefacts and ruins as well as the xenos themselves on sight. Other Inquisitors willingly overlook such things, focusing solely on the threat of invasion and ways to use a species’ strength against itself. There are still fringe locales in the Macharian Sector where xenos trade with or even live among Humans, and such is repellant to Puritan Inquisitors. At the same time, the more Radical differentiate between hostile and relatively benign xenos and reserve their hostility for species they believe pose a significant threat.",
+   "ru": ""
+  },
+  "198": {
+   "en": "While daemons and psykers appear in varied nightmarish forms and capabilities, respectively, xenos are the most diverse foes the Inquisition faces. Xenos species range from the brutal Orks to the technologically advanced T’au, from the flesh-eating Tyranids to the mysterious Aeldari, and many more species barely understood or undiscovered across the galaxy. On the one hand, this means that the Inquisitors of the Ordo Xenos aim to be ready for anything. On the other hand, it means that most Inquisitors specialise in one xenos species for most of their accursed career.",
+   "ru": ""
+  },
+  "202": {
+   "en": "Goals",
+   "ru": ""
+  },
+  "206": {
+   "en": "The primary goal of the Ordo Xenos is to protect the Imperium of Man from the threat of xenos, following the God-Emperor’s ancient will that Humanity rules the stars and all other species expunged.",
+   "ru": ""
+  },
+  "210": {
+   "en": "Inquisitors might hunt xenos who infiltrate Imperial worlds, find and prevent the smuggling of xenos artefacts and technologies, or visit xenos ruins to learn about their foes or remove any trace of them. Even the most Puritan Inquisitors acknowledge that learning about the innumerate xenos species is essential since understanding the alien enables Inquisitors to better hunt and kill them and might even make it possible to anticipate their attacks.",
+   "ru": ""
+  },
+  "214": {
+   "en": "Inquisitors must be alert for signs of incoming invasion and more subtle infiltration of Imperial worlds. Not all xenos rely on brute force tactics; some take advantage of the desperation of the Imperium’s poor and oppressed citizenry. Xenos cults, particularly Genestealer Cults, are incredibly dangerous and a prime example of the insidious, corrupting nature of xenos — if a Genestealer Cult is not discovered and destroyed in time, it can overrun the world and make it a foothold for spreading influence to other worlds, damning them all to the fate of Tyranid invasion.",
+   "ru": ""
+  },
+  "218": {
+   "en": "Philosophies",
+   "ru": ""
+  },
+  "222": {
+   "en": "Most Ordo Xenos Inquisitors learn what they can about the enemy’s biology, technology, and society to better understand and combat them. However, where Puritan Inquisitors might examine xenos tech before quickly destroying it, Radical Inquisitors study these artefacts far more closely, often adding them to their arsenal. Both study xenos societies and lore, but the Radical might do so with first-hand experience, or even seek out potential alien collaborators. Puritan Inquisitors are aware that some xenos species are less dangerous than others, but see it as no excuse to risk corruption.",
+   "ru": ""
+  },
+  "226": {
+   "en": "Radical Inquisitors of the Ordo Xenos believe in using the enemy’s weapons against them, or even against other xenos. The infamous Fidus Kryptman once orchestrated a protracted war between the Orks and a Tyranid Hive Fleet to stave off their invasion of the Imperium, a move considered a master stroke by some, despite the vast collateral damage. Conversely, the most dogmatic Inquisitors typically keep their distance, using the likes of servitors to examine alien technology and disposing of them afterwards. A @UUID[.yds9IfgKQlwxLqq6]{Monodominant} might consider even this too dangerous and simply destroy any xenos artefact on sight. An @UUID[.UAWh0hEvWDwob6CT]{Isstvanist} might use xenos tech to conduct false flag operations, provoking a wider war. Within an Ordo that has so many varied fields of study, disagreements are frequent, and often lead to Inquisitors clashing with one another.",
+   "ru": ""
+  },
+  "230": {
+   "en": "Techniques",
+   "ru": ""
+  },
+  "234": {
+   "en": "The techniques of an Ordo Xenos Inquisitor vary depending on the nature of their foe, as most specialise in countering one particular alien threat. However, any Inquisitor might encounter an unexpected xenos on their travels; their duty is to destroy them and record such encounters for future study.",
+   "ru": ""
+  },
+  "238": {
+   "en": "When opportunities arise, xenos are captured and dissected to learn about their biology and any weaknesses. This is especially true of newly discovered species. The Ordo Xenos maintain vast archiviums of information on xenos threats. Many Inquisitors also rely on networks of contacts and informants among @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.h6Z6Ia2q5RkRUlDG]{Rogue Traders} to stay abreast of xenos activity across the sector. Some have contacts within the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus}, who are often key in identifying and understanding alien technologies.",
+   "ru": ""
+  },
+  "242": {
+   "en": "Part of the Ordo’s remit is to control the spread of information about xenos species within the Imperium. This involves everything from propaganda techniques to mind erasure and servitorisation. Citizens are better protected if they are n’ot aware of the threats faced by the Imperium, and better submit to the God-Emperor’s will if they believe the dominance of Mankind is inevitable. The Ordo’s Inquisitors spend considerable time cleaning up the aftermath of xenos incursions, as it is crucial to ensure the Imperium’s borders appear essentially impenetrable.",
+   "ru": ""
+  },
+  "256": {
+   "en": "Forces of the Imperium",
+   "ru": ""
+  },
+  "260": {
+   "en": "One Inquisitor, their retinue, and, by extension, their acolyte cells are rarely enough to investigate a potential threat thoroughly. They are undoubtedly insufficient to march against their enemies on a broader scale, let alone wage an emergent war. Inquisitors need to rely upon the local forces of the Imperium to do so, wielding their limitless authority to order them into battle.",
+   "ru": ""
+  },
+  "264": {
+   "en": "Beyond forces drawn from the leading institutions of the Adeptus Terra, the Inquisition has ties with unique specialist forces across the Imperium and within the Macharian Sector that can bring nigh-apocalyptic might to bear if they are justified in being called upon.",
+   "ru": ""
+  },
+  "268": {
+   "en": "The Deathwatch",
+   "ru": ""
+  },
+  "272": {
+   "en": "Known as the Shield that Slays, these Space Marines are stationed across the galaxy, watching for and fighting back xenos invasions wherever they find them — deployed in precision-action kill teams, they cut to the heart of a xenos threat and purge it from within. The positions and quantity of their Watch Fortress bases in the Macharian Sector is a secret shared between the Deathwatch and the sector’s Inquisitors.",
+   "ru": ""
+  },
+  "276": {
+   "en": "The Deathwatch works closely with Ordo Xenos Inquisitors, particularly when evaluating or developing strategies to purge their shared enemies and build upon each other’s battlefield intelligence. However, one organisation is not subservient to the other; like an Inquisitor’s limitless authority, the Deathwatch has autonomy and sacred oaths that are not to be trifled with.",
+   "ru": ""
+  },
+  "280": {
+   "en": "The Adepta Sororitas",
+   "ru": ""
+  },
+  "284": {
+   "en": "Members of the Adepta Sororitas share the fundamental aims of the Ordo Hereticus, so they are natural allies. Any Sister encountered is duty-bound to aid in the fight against heresy, and though they might lack subtlety, they can be a great boon to any acolyte cell. As a whole, they are a formidable fighting force, a spearhead that draws with it the militant might of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Ministorum}.",
+   "ru": ""
+  },
+  "288": {
+   "en": "Their power armour-clad Orders Militant lead the charge on the battlefield, followed by scores of Ecclesiarchical crusaders, death cult assassins, and legions of faithful Frateris Militia. Together, they are a force that epitomises the might of faith in the God-Emperor and his Imperium. As such, Radical acolytes should watch their behaviour around these excessively devout and puritanical warriors, lest they become placed on the wrong side of the Sisters’ crusade, in among the heretics.",
+   "ru": ""
+  },
+  "292": {
+   "en": "The Order Famulous of the Hallowed Glass, based on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.0g60Fj0fRMDfzYGB]{Macharia}, works closely with the sector’s Inquisitors. Since the aftermath of the Macharian Crusade, their task has been to effectively police noble houses across the sector, which might require discreet investigation and the threat of force, to prevent another @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#the-macharian-heresy]{Macharian Heresy from taking root.",
+   "ru": ""
+  },
+  "296": {
+   "en": "Based on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.Cx5xblXFKBJu9lrf]{Saint Isidore’s Rest}, the Order Militant of the Charred Veil operates primarily within the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.UbH7oOtTYfjFlKRt]{Gallosque Nebula} and has a fortress cathedral on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.0g60Fj0fRMDfzYGB]{Macharia}. They support missionary expeditions sent to worlds wrought with heresy or not yet fully converted to the God-Emperor’s service. These sisters have vast experience fighting Orks, having defended their shrine world countless times from xenos invasions.",
+   "ru": ""
+  },
+  "306": {
+   "en": "The Grey Knights",
+   "ru": ""
+  },
+  "310": {
+   "en": "The Grey Knights are the most secretive, deadly, and most specialised of all Space Marine Chapters. They are based on Saturn’s moon of Titan, a closely guarded secret even among Inquisitors of the Ordo Malleus.",
+   "ru": ""
+  },
+  "314": {
+   "en": "Furthermore, they maintain clandestine patrols and other secret bases across all sectors of the Imperium from where they can rapidly deploy. Their Prognosticars — specialist psykers within their order — burn their minds to ruin in desperate efforts to detect fluctuations in the Warp from great distances. This allows the Knights to set off towards incursions long before their daemonic scheming begins. It is not unheard of for Inquisitors who request their aid to find one of their Strike Cruisers already inbound to their location.",
+   "ru": ""
+  },
+  "318": {
+   "en": "These mysterious Space Marines are the God-Emperor’s finest daemon hunters, each an accomplished and dominating psyker. Their knowledge of hunting daemons is second to none and closely guarded; even the most long-lived Ordo Malleus Inquisitors would only scratch the surface of their knowledge and capabilities. Yet each organisation has its role in safeguarding the Imperium from the horrors of the Warp. The Grey Knights are the God-Emperor’s holy hammer — a blunt-edged vengeful manifestation made to enact total obliteration — while the Ordo Malleus is His deft eyes, ears, and exacting judgement, able to work within the Imperium without raising suspicion.",
+   "ru": ""
+  },
+  "324": {
+   "en": "ESCALATION",
+   "ru": ""
+  },
+  "328": {
+   "en": "The information outlined in the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq]{Inquisition Player’s Guide} covers the breadth of options available and their potential ramifications, from local Vigilite squads to ceramite-clad Space Marines. Players and GMs should understand what bringing these forces to bear means for their current investigation, the local populace, and the locales in which they operate. As GM, your players and their characters must understand why they cannot solve a problem simply by crash-landing a drop pod of Space Marines on it. The forces of the Imperium are vast and powerful, but most lack subtlety in their approach and cause collateral damage. Espionage and intelligence are the true tools of the Inquisition; employing the God-Emperor’s mightiest warriors should only be viewed as a last resort when circumstances are far beyond reproach.",
+   "ru": ""
+  },
+  "334": {
+   "en": "The Macharian Sector",
+   "ru": ""
+  },
+  "338": {
+   "en": "Centuries ago, after Lord Solar Macharius’ death, the seventy bloody years of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#the-macharian-heresy]{Macharian Heresy} began. It brought uprisings and mass heresy across hundreds of worlds in the sector, and many took the opportunity to throw off Imperial rule. In this turbulent period, Adeptus Astartes and Adepta Sororitas were dispatched in vast numbers to restore order. Several Inquisitors arrived to help crush dissent, including the infamous Fidus Kryptman of the @UUID[.YFKg8L1rfWbScqkr#ordo-xenos]{Ordo Xenos}.",
+   "ru": ""
+  },
+  "342": {
+   "en": "His bold and brutal tactics crushed insurgence on multiple worlds and brought whole systems back into the God-Emperor’s domain using merciless methods. Kryptman set the bar for Inquisitors operating in the sector, demanding discretion, ruthlessness, and utmost ingenuity. By the end of the era, he was named Hero of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#the-macharian-heresy]{Macharian Heresy}.",
+   "ru": ""
+  },
+  "346": {
+   "en": "Even after the worst of the fighting and the epoch brought to a close, some worlds continued to resist when @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#machariuss-generals]{General Sejanus’s} armies tried to wrest back control. In contrast, others submitted reluctantly, only to cause trouble later. Despite greater heresies left in the past, shadow wars constantly threaten to ravage the sector, wrought by ongoing rebellions and underhanded power grabs. Since the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#silence-and-darkness]{Noctis Aeterna}, only a handful of Inquisitors remain in operation, yet they are needed now more than ever.",
+   "ru": ""
+  },
+  "350": {
+   "en": "Rogue psykers are a growing concern across the sector. Due to the Noctis Aeterna, many Black Ships were lost to the Warp, and others were considerably delayed in fulfilling their duties. Some planets are sitting upon a surplus of captive psykers with little space left to put any more. Others have taken to executing the excess but fear failing to fulfil their tithe. Either way, more rogue psykers have slipped through the cracks of Lex and bureaucracy and are free to plot and garner their terrible powers.",
+   "ru": ""
+  },
+  "354": {
+   "en": "The @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.HURMpEU0Nnc93Ocv]{Adeptus Ministorum} struggles to stamp out or re-educate wayward Imperial cults on many worlds. Divergence from the Imperial Creed in any way is outright heresy. The masses stand divided between wild interpretations and false prophecies. This gap has left room for apocryphal preachers and pretenders to step in and sway countless souls towards heresy under the influence of vile xenos or the Ruinous Powers.",
+   "ru": ""
+  },
+  "358": {
+   "en": "Many heresies stem from the sector’s noble houses, some still originating from the power grab that punctuated the beginning of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#the-macharian-heresy]{Macharian Heresy}.",
+   "ru": ""
+  },
+  "362": {
+   "en": "The sector’s nobility engages in underhanded plots and quiet betrayals, allowing them to slither into positions of power or keep what they believe is their rightful place. The worst of them are backed by xenos or daemonic influence. Here, the Inquisition must tread carefully not to upset the balance of power.",
+   "ru": ""
+  },
+  "366": {
+   "en": "Several xenos species are known to have an interest in the sector, some having occupied worlds prior to @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW]{Lord Solar Macharius's} conquest. Rumours say there are planets where they surreptitiously maintain control and expanses of the void where they quietly hide and watch the Imperium like a predator preparing to strike. Too many inexplicably slip past the sector’s borders; the Inquisition must prevent these incursions.",
+   "ru": ""
+  },
+  "370": {
+   "en": "Worse still, there is growing evidence of daemonic interference across the sector, particularly in the Yix and Andosk Subsectors and the fringes of the mysterious Ayzinith Abyss. The Ruinous Powers are manipulating heretical cults across the sector, urging them to conduct profane rituals with the ultimate goal of opening Warp rifts, allowing daemons to slip into reality and lay waste or claim to the Imperium.",
+   "ru": ""
+  },
+  "374": {
+   "en": "Inquisitor Lord Hieronymo Drake’s death during the Noctis Aeterna left a power vacuum in the Macharian Inquisition — respected by all Inquisitors of the sector; he was crucial in ensuring Inquisitors had the support they needed to fight the Imperium’s enemies. In the wake of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#silence-and-darkness]{Days of Blinding}, his former apprentice, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Sylvestrine Horst}, calls the Macharian Inquisition to Conclave. She hopes to strengthen unity among the Inquisitors of the sector in the halls of @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W.JournalEntryPage.Y1wjtyi7JdgHxQiF#mare-cinis]{Mare Cinis} — the Inquisition’s holding on Suluk, a moon of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy]{Persepolis}. It will soon host some of the most influential and powerful Humans in the Imperium. Together, united or divided, they will determine the fate of the Macharian Sector.",
+   "ru": ""
+  },
+  "380": {
+   "en": "This is the current state of the Macharian Sector and setup to @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W]{The Heresies Macharia}. There you can begin the decades-long campaign to save the Sector. The Macharian Inquisition’s most prominent Inquisitors are described in @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40]{Roleplaying Inquisitors}; each plays a part in the Heresies to come and can act as Patron to your players, tentative ally, or secret enemy.",
+   "ru": ""
+  }
+ }
+}

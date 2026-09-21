@@ -24,7 +24,7 @@ const SPEED = U("JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL
 const FUMBLE = U("JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.Rjw4KykpjGJlGYEk#fumbles", "фиаско");
 const TWO_HANDED = U("JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#two-handed", "Двуручное");
 
-const I = "Compendium.impmal-core.items.Item";
+const I = "Compendium.navis-apexialis.navis-core-items.Item";
 const AMBIDEXTROUS = U(`${I}.Ck6P6S7KhYUXGxbs`, "Амбидекстрия");
 const AMP_HAND = U(`${I}.vHHDZjKvukQuDV1z`, "ампутации кисти");
 const SIGN_LANGUAGE = U(`${I}.z3pFUwFlp4BJf1oJ`, "язык жестов");

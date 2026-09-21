@@ -1,0 +1,517 @@
+{
+ "journal": "FNEW8e33IisZh27W",
+ "journalName": "The Heresies Macharia",
+ "page": "bUgRB72Mw5eaLfL6",
+ "pageName": "Conclave IV",
+ "name": "",
+ "runs": {
+  "6": {
+   "en": "Conclave IV",
+   "ru": ""
+  },
+  "16": {
+   "en": "House Tavol has mistakenly dealt with traitors and risks the scrutiny of the Inquisition. A strange Imperial voidship is haunting the Gallosque Nebula. Inquisitor Raud reveals the fate of Halikarn’s undercover agent.",
+   "ru": ""
+  },
+  "22": {
+   "en": "Dramatis Personae",
+   "ru": ""
+  },
+  "26": {
+   "en": "In attendance at the fourth Conclave are: @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Sylvestrine Horst}, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.W50MW8gfyrDts9g3]{Aegidius Halikarn}, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud}, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Kai Varol}, and @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.sNDdDGlvY5m1HQ4R]{Ksenia Baek}. @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.gRAiiRJkLKviH0K5]{Konstan Serranus} is noticeably absent.",
+   "ru": ""
+  },
+  "30": {
+   "en": "Intrigues",
+   "ru": ""
+  },
+  "34": {
+   "en": "If the characters seek information on the black market and arms movements, particularly in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.d0lv2v4FkeIb43jj]{Drimor Subsector}, they could approach Antonius Tavnir, a @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#the-defiant]{House Tavol} agent. In return, Tavnir seeks protection and assurances from the Conclave that he will live to see the end of his problems (see @UUID[.bUgRB72Mw5eaLfL6#strife-iv-a-traitors-in-tavol]{Strive IV-A: Traitors in Tavol}). But Tavnir is loyal first to ",
+   "ru": ""
+  },
+  "36": {
+   "en": "Inquisitor",
+   "ru": ""
+  },
+  "38": {
+   "en": " @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Raud}; the Inquisitor will learn about anything the characters gain from Tavnir.",
+   "ru": ""
+  },
+  "44": {
+   "en": "Inquisitor Kai Varol",
+   "ru": ""
+  },
+  "46": {
+   "en": " (@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Eskender Thracius}) is keen to talk directly to the characters. Depending on his relationship with the players' Patron, he may reach out directly or through a proxy, such as one of his acolytes. He will happily entertain them personally if they seek information on any xenos entities in the sector, especially anything @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#aeldari]{Aeldari}-related. Varol hopes to find a suitable candidate to become a double agent in his service. He will approach them privately before the Conclave adjourns, sowing seeds of dissent and offering protections whilst potentially holding some form of blackmail against them.",
+   "ru": ""
+  },
+  "52": {
+   "en": "Inquisitor Varol",
+   "ru": ""
+  },
+  "54": {
+   "en": " also speaks openly about gathering more information about @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#tyranids]{Genestealer Cult} activity across the sector, imploring the other Inquisitors to talk to their contacts after finding more strange correlations in his own gathered datasets.'",
+   "ru": ""
+  },
+  "64": {
+   "en": "Strife IV-A ",
+   "ru": ""
+  },
+  "68": {
+   "en": "Traitors in Tavol",
+   "ru": ""
+  },
+  "76": {
+   "en": "Noble House politics has spilled over into the Inquisition’s Conclave. House Tavol fights within itself, split between purity and profits. The nobles have stoked the fires of heresy, and now the Inquisition must serve them justice.",
+   "ru": ""
+  },
+  "84": {
+   "en": "Antonius Tavnir, a @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#the-defiant]{House Tavol} agent, has been brought before the Conclave by ",
+   "ru": ""
+  },
+  "86": {
+   "en": "Inquisitor",
+   "ru": ""
+  },
+  "88": {
+   "en": " @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Raud}. The agent has evidence that others within House Tavol have mistakenly supplied arms to Traitor Guard regiments, thought loyal, across planets in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.d0lv2v4FkeIb43jj]{Drimor Subsector}.",
+   "ru": ""
+  },
+  "92": {
+   "en": "Tavnir is taking a significant risk in revealing this information to the Inquisition, so much so that ",
+   "ru": ""
+  },
+  "94": {
+   "en": "Inquisitor",
+   "ru": ""
+  },
+  "96": {
+   "en": " @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Raud} was forced to extract him. He and many facets of his house are now woefully at the mercy of the Inquisition.",
+   "ru": ""
+  },
+  "104": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud} has ordered the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.HURMpEU0Nnc93Ocv]{Adeptus Ministorum} and @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum} to deal with the Traitor Guard. She believes Tavnir and @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#the-defiant]{House Tavol} should be left to continue operating as they were (fruitful branches of her existing spy network for some time) and requires a team to re-insert the agent into the house’s hierarchy.",
+   "ru": ""
+  },
+  "112": {
+   "en": "But @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Sylvestrine Horst} opposes her, calling for the house to be fiercely investigated to uncover any further 'mistakes' and then summarily dismantled.",
+   "ru": ""
+  },
+  "120": {
+   "en": "Operation",
+   "ru": ""
+  },
+  "126": {
+   "en": "Characters depart to investigate House Tavol, dragging Antonius Tavnir with them. Each day they tarry, the traitor regiments grow in power, and heresy within House Tavol digs in deeper.",
+   "ru": ""
+  },
+  "132": {
+   "en": "Either outcome requires the party to escort Tavnir. They must track down and silence the other house traders who know Tavnir is a double agent, allowing him to retake his position. Otherwise, they can use Tavnir to dig deeper into the house’s records to find further signs of heretical trade. While investigating various @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#the-defiant]{Tavol} holdings and NPCs around Drimor, new heresies come to light:",
+   "ru": ""
+  },
+  "136": {
+   "en": "One of the Traitor Guard regiments, stationed on the mining world of Krakau, contains hidden worshippers of @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.iJzmX5SguvLyGws1#nurgle-clues]{Nurgle}. In response to increased @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#tyranids]{Genestealer Cult} activity opposing them, they sought weaponry from Tavol. The two heretic organisations secretly vie for control of the planet under the noses of the ruling nobility. Without intervention, their conflict threatens to spill into the local populace and overthrow the local rulers.",
+   "ru": ""
+  },
+  "140": {
+   "en": "A second regiment is stationed on the feral world of Barbarosk. The traitor regiments have been bolstering their numbers, recruiting from the local populace by preaching twisted narratives of the God-Emperor’s truths. They paint the people of Kharmin, a nearby system, as heretics. They have been moving troops to Kharmin under the guise of material supplies from the feral world, planning to assault the capital hive.",
+   "ru": ""
+  },
+  "144": {
+   "en": "The characters can discover that Tavnir set up the original deals to incriminate his competition in the house and elevate his position, abusing his agency under ",
+   "ru": ""
+  },
+  "146": {
+   "en": "Inquisitor",
+   "ru": ""
+  },
+  "148": {
+   "en": " @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Raud}. If found out, ",
+   "ru": ""
+  },
+  "150": {
+   "en": "Raud",
+   "ru": ""
+  },
+  "152": {
+   "en": " is not kind in her retribution and orders the characters to execute Tavnir once their operation is complete.",
+   "ru": ""
+  },
+  "156": {
+   "en": "Outcome",
+   "ru": ""
+  },
+  "160": {
+   "en": "If the characters follow ",
+   "ru": ""
+  },
+  "162": {
+   "en": "Inquisitor",
+   "ru": ""
+  },
+  "164": {
+   "en": " @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Raud}’s proposition and succeed, they and their Patron gain favour with ",
+   "ru": ""
+  },
+  "166": {
+   "en": "Raud",
+   "ru": ""
+  },
+  "168": {
+   "en": " and @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#the-defiant]{House Tavol}, influential contacts and allies for future operations. Additionally, their Patron gains +1 Legitimacy. If the characters favour @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Sylvestrine Horst}’s opposing plan, ",
+   "ru": ""
+  },
+  "170": {
+   "en": "Horst",
+   "ru": ""
+  },
+  "172": {
+   "en": " cuts through House Tavol viciously, gaining +1 Legitimacy. Many cunning nobles receive warnings from Tavnir and scatter to the void. House Tavol becomes a troublesome enemy of the Inquisition, working deeper in the shadows.",
+   "ru": ""
+  },
+  "182": {
+   "en": "Strife IV-B ",
+   "ru": ""
+  },
+  "186": {
+   "en": "The Lost Recongregator",
+   "ru": ""
+  },
+  "194": {
+   "en": "Inquisitor Raud announces to the Conclave that Mordo Talut, one of Inquisitor Halikarn’s long-standing acolytes, has been arrested for treason on Jenesse. A surprised Halikarn scrambles to investigate.",
+   "ru": ""
+  },
+  "202": {
+   "en": "Local authorities in Hive Nostra have arrested a long-serving deep-cover acolyte named Mordo Talut. He is currently being held and charged with treason against the Planetary Governor. @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.W50MW8gfyrDts9g3]{Halikarn} is surprised by this development; Mordo has always been an exceedingly cautious Interrogator.",
+   "ru": ""
+  },
+  "210": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud} strongly suggests that @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.W50MW8gfyrDts9g3]{Halikarn} cleans up his mess by silencing this acolyte before any of the Inquisition’s secrets are spilt or extract him before his execution. Mordo invoked Halikarn’s name, which has stayed in his captor’s hand for now.",
+   "ru": ""
+  },
+  "218": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Sylvestrine Horst} offers her aid in @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.W50MW8gfyrDts9g3]{Halikarn}’s stead, claiming that a number of her Faceless operatives are already working in the subsector; she hopes to gain ",
+   "ru": ""
+  },
+  "220": {
+   "en": "Halikarn’s",
+   "ru": ""
+  },
+  "222": {
+   "en": " favour.",
+   "ru": ""
+  },
+  "230": {
+   "en": "Furthermore, the other Inquisitors present now acutely suspect that @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Raud} has informants in all of their networks.",
+   "ru": ""
+  },
+  "238": {
+   "en": "Operation",
+   "ru": ""
+  },
+  "244": {
+   "en": "Characters depart for Jenesse, aiming to find Mordo Talut and investigate the Nostrafax nobility. Hive Nostra is rife with hidden heresies, and signs point to other ancient troubles in the system.",
+   "ru": ""
+  },
+  "250": {
+   "en": "Characters sent to investigate Mordo Talut’s arrest meet with ",
+   "ru": ""
+  },
+  "252": {
+   "en": "Inquisitor",
+   "ru": ""
+  },
+  "254": {
+   "en": " @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.W50MW8gfyrDts9g3]{Halikarn} before they depart. ",
+   "ru": ""
+  },
+  "256": {
+   "en": "Halikarn",
+   "ru": ""
+  },
+  "258": {
+   "en": " would prefer Mordo Talut be extracted safely, seeming almost sentimental towards this acolyte, but understands if they have no choice except to eliminate him. He reveals that Mordo was digging into the legitimacy of noble houses in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.y6qA7KARTXADwzeV]{Cytheris Subsector}, believing they might be harbouring descendants of General Lysander, one of Macharius’ generals who betrayed the Imperium after the Lord Solar’s death. @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#machariuss-generals]{General Lysander's betrayal} was so dire that all titles and rights granted to his household were stripped away. Nevertheless, a few of his more ambitious descendants still lay claim to the traitor's name and privileges, which, by Imperial Lex, burdens them with his guilt as well.",
+   "ru": ""
+  },
+  "262": {
+   "en": "Investigating Hive Nostra, the capital hive of Jenesse, characters can discover that Mordo Talut was taken into custody by the Planetary Governor's personal guard. Strangely, these guards are present at positions of power all across the hive and stave off the characters’ investigation as best they can. Infiltrating House Nostrafax, they can learn that Governor Nostrafax disappeared some time ago with Mordo in tow. The officers in his personal guard (also appointed members of the Nostrafax family) have taken control of the local government, enacting an underhanded martial law meant to hold Nostrafax’s place until his eventual return.",
+   "ru": ""
+  },
+  "266": {
+   "en": "Characters can learn from the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.gQxTENJSdTQTVfDM]{Vigilites} or Nostrafax’s staff that the Governor and Mordo left Jenesse aboard the ",
+   "ru": ""
+  },
+  "268": {
+   "en": "Sorrow of Juun",
+   "ru": ""
+  },
+  "270": {
+   "en": ", an Imperial frigate. They can track the ",
+   "ru": ""
+  },
+  "272": {
+   "en": "Sorrow",
+   "ru": ""
+  },
+  "274": {
+   "en": " by securing local contacts in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus} and @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.HlxK2pbpx2Uio6bU]{Imperial Fleet}, as both factions monitor the movements of voidships through the system. Mechanicus agents see the opportunity to wrest plentiful favours and influence from the characters. Meanwhile, by securing and analysing data from the Imperial Fleet, characters can discover evidence of scrubbed star charts and records, indicating potential traitors within the local fleet.",
+   "ru": ""
+  },
+  "278": {
+   "en": "The ",
+   "ru": ""
+  },
+  "280": {
+   "en": "Sorrow’s",
+   "ru": ""
+  },
+  "282": {
+   "en": " trail leads to Aegos, a world hidden within the nearby Argent Zone, one forbidden approach by Inquisitorial decree. This apparent feudal world is home to settled remnants of the traitor @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#machariuss-generals]{Lysander’s} family and forces. Living and plotting from their secluded fiefdom, they have been slowly seeding their lineage back into Imperial nobility and the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.HlxK2pbpx2Uio6bU]{Imperial Fleet} via Jenesse’s houses for some time, seeking to re-emerge once they have gathered enough influence. Nostrafax is a high-ranking member of this lineage.",
+   "ru": ""
+  },
+  "286": {
+   "en": "Mordo Talut is trapped on Aegos. Nostrafax and his family ponder what to do with him whilst seeking to extract information — what does @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.W50MW8gfyrDts9g3]{ Halikarn} know of their plans? The characters could infiltrate the feudal planet and quietly extract Mordo, as ",
+   "ru": ""
+  },
+  "288": {
+   "en": "Halikarn",
+   "ru": ""
+  },
+  "290": {
+   "en": " desires. Alternatively, they could seek a greater Inquisitorial force to bear upon Aegos to cleanse it of traitors. Houses on Jenesse that oppose Nostrafax’s rule may be able to back them in this endeavour.",
+   "ru": ""
+  },
+  "294": {
+   "en": "Outcome",
+   "ru": ""
+  },
+  "298": {
+   "en": "If the characters are successful, they gain @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.W50MW8gfyrDts9g3]{Halikarn}’s favour and +1 Legitimacy for their Patron. ",
+   "ru": ""
+  },
+  "300": {
+   "en": "Halikarn",
+   "ru": ""
+  },
+  "302": {
+   "en": " now knows that an Inquisitor was once involved with the sector’s re-written histories, someone who initially saved Lysander’s remnants but is unsure who it may have been. Otherwise, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Horst}’s Faceless agents make a mess of the situation on Jenesse and Aegos. They manage to dispose of Mordo and scrub the records of the operative’s presence, earning Horst +1 Legitimacy. Many of the traitor Lysander’s descendants escape and their heresies linger to resurface in the future.",
+   "ru": ""
+  },
+  "312": {
+   "en": "Strife IV-C ",
+   "ru": ""
+  },
+  "316": {
+   "en": "The Vice of Eternan",
+   "ru": ""
+  },
+  "324": {
+   "en": "The ",
+   "ru": ""
+  },
+  "326": {
+   "en": "Vice of Eternan",
+   "ru": ""
+  },
+  "328": {
+   "en": ", after having wrecked a voidport in the Paleon system, is now blinking in and out of realspace. This rogue voidship moves across the sector in fits and spurts, astray in the Warp for reasons unknown.",
+   "ru": ""
+  },
+  "342": {
+   "en": "In the preceding year, ",
+   "ru": ""
+  },
+  "344": {
+   "en": "The Vice of Eternan",
+   "ru": ""
+  },
+  "346": {
+   "en": ", an @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.HlxK2pbpx2Uio6bU]{Imperial Fleet} transport ship, suffered a catastrophe whilst taking on cargo at a @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.A9cvKlA41X8qPyEw]{Paleon}-orbiting port. Still moored to the station, the voidship suddenly dove into the Warp, wrecking much of the port and killing thousands of crew, travellers, and dock workers.",
+   "ru": ""
+  },
+  "350": {
+   "en": "Such an event would not usually interest the Inquisition, but since the ",
+   "ru": ""
+  },
+  "352": {
+   "en": "Vice’s",
+   "ru": ""
+  },
+  "354": {
+   "en": " disappearance, the voidship has been blinking in and out of realspace, detected at different coordinates throughout the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.UbH7oOtTYfjFlKRt]{Gallosque Nebula}. Whenever it resurfaces, local vox networks have recorded unholy screaming across their channels, and its presence seems to disturb astropath choirs in the Gallosque Subsector.",
+   "ru": ""
+  },
+  "362": {
+   "en": "Kharket Graan, an astropath in the service of ",
+   "ru": ""
+  },
+  "364": {
+   "en": "Inquisitor",
+   "ru": ""
+  },
+  "366": {
+   "en": " @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.sNDdDGlvY5m1HQ4R]{Ksenia Baek}, claims they have visions of the ship's future appearances.",
+   "ru": ""
+  },
+  "376": {
+   "en": "Inquisitor",
+   "ru": ""
+  },
+  "378": {
+   "en": " @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.sNDdDGlvY5m1HQ4R]{Baek} seeks to hunt the voidship and simply wipe it out before it causes any more issues, but she is reticent to deal with it, claiming to be heavily occupied with other matters.",
+   "ru": ""
+  },
+  "388": {
+   "en": "Inquisitor",
+   "ru": ""
+  },
+  "390": {
+   "en": " @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Raud} wishes to investigate the events surrounding the disaster carefully and unravel the mystery rather than destroy the ship outright.",
+   "ru": ""
+  },
+  "398": {
+   "en": "Operation",
+   "ru": ""
+  },
+  "404": {
+   "en": "The characters begin their hunt for the Vice of Eternan, hoping to investigate its mysteries or ensure its destruction before it causes another wide-scale disaster in the sector.",
+   "ru": ""
+  },
+  "410": {
+   "en": "The first task for any group of characters to tackle this issue is to gather a battlegroup of Imperial voidships to travel to the ",
+   "ru": ""
+  },
+  "412": {
+   "en": "Vice’s",
+   "ru": ""
+  },
+  "414": {
+   "en": " next emergence point. The astropath, Kharket Graan, projects they have some time to get into position within a strait of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.UbH7oOtTYfjFlKRt]{Gallosque Nebula}. That’s where the voidship will appear next, but all must depart immediately. Their Patron has acquired a Gellar Field stabilisation array from ",
+   "ru": ""
+  },
+  "416": {
+   "en": "Inquisitor",
+   "ru": ""
+  },
+  "418": {
+   "en": " @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.sNDdDGlvY5m1HQ4R]{Baek}, a rare and precious device reluctantly provided by the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus}. Such a powerful device could keep the Vice anchored long enough to investigate.",
+   "ru": ""
+  },
+  "422": {
+   "en": "As soon as the ",
+   "ru": ""
+  },
+  "424": {
+   "en": "Vice",
+   "ru": ""
+  },
+  "426": {
+   "en": " appears, the party are sent aboard, along with the stabilisation array’s attendant Tech-Priests, and backed up by a security team of Navy Breachers to protect them. Installing the stabilisation array is no simple task; emitters must be placed at different points across the ship and then protected against interference.",
+   "ru": ""
+  },
+  "430": {
+   "en": "Aboard, it becomes apparent that @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#tyranids]{Genestealer Cultists} attacked the ship as the Vice was taking on cargo. The cultists have been locked in skirmishes with the remaining crew since the incident occurred. Currently, the cultists have control over the ship’s engine room, desperately trying to hold their ground and wrestle control of the ship’s damaged engines to prevent the next Warp transition.",
+   "ru": ""
+  },
+  "436": {
+   "en": "Matter of Time",
+   "ru": ""
+  },
+  "440": {
+   "en": "The Warp has not been kind to the ",
+   "ru": ""
+  },
+  "442": {
+   "en": "Vice",
+   "ru": ""
+  },
+  "444": {
+   "en": " and its crew — characters learn that events on the ship have only occurred within a week of the initial attack, and each transition seems to break even more of the voidship’s functions and integrity. Consider the possibility that the ",
+   "ru": ""
+  },
+  "446": {
+   "en": "Vice",
+   "ru": ""
+  },
+  "448": {
+   "en": " threatens to make a Warp transition before the stabilisation array is put in place and what that could mean for the characters to be trapped aboard.",
+   "ru": ""
+  },
+  "454": {
+   "en": "The Cult’s Magus learned that the ship was secretly transporting a complement of incarcerated psykers to a holding facility elsewhere in the sector — to be later picked up by a Black Ship en route to Terra. The Magus needs the psykers to fuel their experiments towards forming the @UUID[.jt0zc7az5xNehcIZ#the-heralds-howl]{Herald’s Howl}. Their keeper, Ulena Cadavore (@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.VWoY9PpvbDqQYv8X]{Black Ship Crewmember}), has been doing her best to keep her volatile cargo out of their hands, though most of her fellow guards are now dead. The psychic screams felt in the sector result from the incarcerated psykers' containment failing, tortured by the rapid Warp transitions and presence of the malignant Broodmind.",
+   "ru": ""
+  },
+  "458": {
+   "en": "The remaining crew are protecting themselves in pockets all over the ship. Very few of them are left, having been picked off gradually by a @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.KvLrPAQ0gmIWSvfX]{Purestrain Genestealer}. The Magus believes that the Genestealer will singlehandedly win their war of attrition, allowing them total control of the ship.",
+   "ru": ""
+  },
+  "462": {
+   "en": "Outcome",
+   "ru": ""
+  },
+  "466": {
+   "en": "If the characters can secure the ",
+   "ru": ""
+  },
+  "468": {
+   "en": "Vice of Eternan",
+   "ru": ""
+  },
+  "470": {
+   "en": " and purge it of xenos taint, their Patron gains the @UUID[Compendium.navis-apexialis.navis-core-items.Item.oXyZ2hmINFVN3EPT]{Voidship} Boon and +1 Legitimacy. If the ",
+   "ru": ""
+  },
+  "472": {
+   "en": "Vice",
+   "ru": ""
+  },
+  "474": {
+   "en": " escapes back to the Warp, rumours of it grow every year as it continues to haunt space within the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.UbH7oOtTYfjFlKRt]{Gallosque Nebula} — where it appears next could cause further disaster.",
+   "ru": ""
+  },
+  "478": {
+   "en": "If ",
+   "ru": ""
+  },
+  "480": {
+   "en": "Inquisitor",
+   "ru": ""
+  },
+  "482": {
+   "en": " @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.sNDdDGlvY5m1HQ4R]{Baek} deals with this Operation alone, she gains +1 Legitimacy but secretly extracts the psykers on board to further her experiments (initially unaware that some have received the ‘Genestealer’s Kiss’). She destroys ",
+   "ru": ""
+  },
+  "484": {
+   "en": "The Vice of Eternan",
+   "ru": ""
+  },
+  "486": {
+   "en": " to cover her tracks, ultimately dooming anyone else aboard.",
+   "ru": ""
+  },
+  "496": {
+   "en": "Conclave IV Conclusion",
+   "ru": ""
+  },
+  "500": {
+   "en": "The fourth Conclave ends with the Inquisitors finding little satisfaction in their dealings. Of all those present, only ",
+   "ru": ""
+  },
+  "502": {
+   "en": "Inquisitor",
+   "ru": ""
+  },
+  "504": {
+   "en": " @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Raud} seems pleased with how things have gone, rattling the cages of the other Inquisitors. ",
+   "ru": ""
+  },
+  "506": {
+   "en": "Inquisitor",
+   "ru": ""
+  },
+  "508": {
+   "en": " @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Varol} departs early, his warnings of growing @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#tyranids]{Genestealer Cult} activity in the sector ringing in the ears of all those present. Despite these misgivings, most agree to meet again",
+   "ru": ""
+  }
+ }
+}

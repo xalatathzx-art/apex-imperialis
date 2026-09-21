@@ -3,7 +3,7 @@
   "name": "Acolyte Hybrid",
   "type": "npc",
   "_id": "ddkoCdiXHCRDuEd3",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Genestealer Mutation",
       "type": "trait",
       "_id": "pyipRtfK7PfdAGRF",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Iconward",
       "type": "trait",
       "_id": "NC3hYo6LJvZjIr5e",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Multi-Limbed",
       "type": "trait",
       "_id": "dSeTYdhZUX07a7Tp",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -426,7 +426,7 @@
       "name": "Resurgence",
       "type": "trait",
       "_id": "NJbZMddob8BlObsU",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -486,7 +486,7 @@
       "name": "Autopistol",
       "type": "weapon",
       "_id": "XXBFTY8TdLUW3PTq",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -563,7 +563,7 @@
       "name": "Bonesword",
       "type": "weapon",
       "_id": "vG0g2MpqzzBV3S4b",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -629,7 +629,7 @@
       "name": "Claws",
       "type": "weapon",
       "_id": "zhkWvI5wcGN1kKZa",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",

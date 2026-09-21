@@ -2,7 +2,7 @@
   "name": "Mastery (Fortitude)",
   "type": "talent",
   "_id": "malExpTal0000012",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Spend FP to auto-succeed on selected Fortitude, scored SL = associated stat bonus</span></p><hr><p><span style=\"font-family: Arial\"><em>You must have 4 Advances in Fortitude and the Talented(Fortitude) on. You can spend a Fate Point to automatically pass a Fortitude Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "4 Advances in Fortitude, Talented (Fortitude) Talent",
-      "script": "return this.actor.system.skills.fortitude.advances >= 4 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Talented(Fortitude)\")"
+      "script": "return this.actor.system.skills.fortitude.advances >= 4 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Talented (Fortitude)\")"
     },
     "test": {
       "difficulty": "challenging",

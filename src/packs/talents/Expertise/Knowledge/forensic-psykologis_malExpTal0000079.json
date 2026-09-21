@@ -2,7 +2,7 @@
   "name": "Forensic Psykologis",
   "type": "talent",
   "_id": "malExpTal0000079",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Grants the bonus of Forensic Expert to Presence (Interrogation)</span></p><hr><p><span style=\"font-family: Arial\"><em>Relating to the study of the study of the mind, behavior, and criminal responsibility. Especially prized amongst the Inquisition. This field grants bonuses to Presence (Interrogation) tests as appropriate</em></span></p>",

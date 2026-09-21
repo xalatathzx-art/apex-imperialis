@@ -1,7 +1,8 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import {
-  normaliseName, isBaseSpecialisation, groupBySkill, ownedSpecialisation, rollSpecialisation
+  normaliseName, canonicalSpecialisationName, displaySpecialisationName,
+  isBaseSpecialisation, groupBySkill, ownedSpecialisation, specialisationTotal, rollSpecialisation
 } from "../module/skill-specialisations.js";
 
 const spec = (skill, name, extra = {}) =>
@@ -32,7 +33,7 @@ test("the catalogue groups by skill, drops repeats and sorts", () => {
     spec("awareness", " СЛУХ "), spec("athletics", "Бег"),
     spec("awareness", "Психическое чутьё", { restricted: true })
   ]);
-  assert.deepEqual(groups.awareness, ["Зрение", "Психическое чутьё", "Слух"]);
+  assert.deepEqual(groups.awareness, ["Зрение", "Слух"]);
   assert.deepEqual(groups.athletics, ["Бег"]);
 });
 
@@ -46,6 +47,36 @@ test("a bought specialisation is found on the sheet despite spacing", () => {
   assert.ok(ownedSpecialisation(actor, "awareness", "слух"));
   assert.equal(ownedSpecialisation(actor, "awareness", "Зрение"), undefined);
   assert.equal(ownedSpecialisation(actor, "intuition", "Слух"), undefined);
+});
+
+test("English system labels find their Russian owned equivalent", () => {
+  const actor = { items: [
+    { id: "pistol", type: "specialisation", name: "Пистолеты", system: { skill: "ranged" } },
+    { id: "dodge", type: "specialisation", name: "Уклонение", system: { skill: "reflexes" } }
+  ] };
+  assert.equal(canonicalSpecialisationName("Pistols"), canonicalSpecialisationName("Пистолеты"));
+  assert.equal(ownedSpecialisation(actor, "ranged", "Pistols")?.id, "pistol");
+  assert.equal(ownedSpecialisation(actor, "reflexes", "Dodge")?.id, "dodge");
+  assert.equal(displaySpecialisationName("Pistols", "ru"), "Пистолеты");
+});
+
+test("Dodge display uses the owned specialisation total over base Reflexes", () => {
+  const actor = {
+    system: { skills: { reflexes: { total: 63 } } },
+    items: [{ id: "dodge", type: "specialisation", name: "Уклонение", system: { skill: "reflexes", total: 68 } }]
+  };
+  assert.equal(specialisationTotal(actor, "reflexes", "Dodge"), 68);
+});
+
+test("the catalogue folds translated aliases into one entry", () => {
+  const groups = groupBySkill([
+    spec("ranged", "Pistols"),
+    spec("ranged", "Пистолеты"),
+    spec("reflexes", "Dodge"),
+    spec("reflexes", "Уклонение")
+  ]);
+  assert.deepEqual(groups.ranged, ["Pistols"]);
+  assert.deepEqual(groups.reflexes, ["Dodge"]);
 });
 
 test("rolling uses the owned item when there is one, so advances count", () => {

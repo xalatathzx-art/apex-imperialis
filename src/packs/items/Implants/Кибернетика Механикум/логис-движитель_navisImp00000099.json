@@ -2,7 +2,7 @@
   "name": "Логис Движитель",
   "type": "navis-apexialis.implant",
   "_id": "navisImp00000099",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00007",
   "sort": 9900,
   "system": {

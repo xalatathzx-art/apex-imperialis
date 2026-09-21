@@ -8,7 +8,19 @@
  * them in English, and carries the book's line for that specialism.
  */
 
+import { byName as MECHANICUS_NPCS } from "./impmal-core.actors.telepathica-mechanicus-administratum.mjs";
+
 export const label = "Актёры (Основная книга)";
+
+/*
+ * impmal ships both servitors with the Manufactorum Labourer's paragraph as
+ * their notes — a copy-paste slip in the English. It is translated as it
+ * stands, from the Labourer's own entry, so the two cannot drift apart; only
+ * the heading link to the Adeptus Mechanicus page is the servitors' own.
+ */
+const SERVITOR_NOTES =
+  "<p>@UUID[JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Адептус Механикус}</p>"
+  + MECHANICUS_NPCS["Manufactorum Labourer"].description;
 
 export const byName = {
   /* ── Адептус Механикус (стр. 323–324) ────────────────────────────────── */
@@ -22,7 +34,7 @@ export const byName = {
       "Heavily Augmented": {
         name: "Глубокая аугментация",
         description:
-          "<p>У техножреца установлены @UUID[Compendium.impmal-core.items.Item.zK3ii7HUPfnQGKtg]{аугметические руки}, @UUID[Compendium.impmal-core.items.Item.PS24p896oNkNxwc4]{аугметические ноги}, @UUID[Compendium.impmal-core.items.Item.6VeObvauzrXSw5nO]{аугметическое сердце}, @UUID[Compendium.impmal-core.items.Item.gMiilnjEIZawYcfG]{аугметическая дыхательная система} и @UUID[Compendium.impmal-core.items.Item.HkhEg8qCUV0oZxOt]{аугметические органы чувств}, @UUID[Compendium.impmal-core.items.Item.DN4ZI8z7SqJjsney]{ремесленный механодендрит}, @UUID[Compendium.impmal-core.items.Item.2SkHTUxjqUxiyW6b]{оптический механодендрит} и @UUID[Compendium.impmal-core.items.Item.wRIE5K6YuMtymmm0]{биомеханический канал связи}. Преимущества аугметики уже включены в профиль.</p>"
+          "<p>У техножреца установлены @UUID[Compendium.navis-apexialis.navis-core-items.Item.zK3ii7HUPfnQGKtg]{аугметические руки}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.PS24p896oNkNxwc4]{аугметические ноги}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.6VeObvauzrXSw5nO]{аугметическое сердце}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.gMiilnjEIZawYcfG]{аугметическая дыхательная система} и @UUID[Compendium.navis-apexialis.navis-core-items.Item.HkhEg8qCUV0oZxOt]{аугметические органы чувств}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.DN4ZI8z7SqJjsney]{ремесленный механодендрит}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.2SkHTUxjqUxiyW6b]{оптический механодендрит} и @UUID[Compendium.navis-apexialis.navis-core-items.Item.wRIE5K6YuMtymmm0]{биомеханический канал связи}. Преимущества аугметики уже включены в профиль.</p>"
       },
       "Augmetic Heart": {
         name: "Аугметическое сердце",
@@ -54,6 +66,7 @@ export const byName = {
 
   "Gun Servitor": {
     name: "Орудийный сервитор",
+    description: SERVITOR_NOTES,
     items: {
       "Programmed to Serve": {
         name: "Программа служения",
@@ -64,12 +77,13 @@ export const byName = {
       "Gun Servitor": {
         name: "Орудийный сервитор",
         description:
-          "<p>На орудийного сервитора установлено одно орудие из этого списка; чтобы его снять, нужна <strong>сложная (−20) проверка Техники (Аугметика)</strong>: @UUID[Compendium.impmal-core.items.Item.rMIaVi1gx3wUghfU]{Тяжёлый болтер}, <strong>Мультимельта</strong>, <strong>Плазменная пушка</strong>.</p>"
+          "<p>На орудийного сервитора установлено одно орудие из этого списка; чтобы его снять, нужна <strong>сложная (−20) проверка Техники (Аугметика)</strong>: @UUID[Compendium.navis-apexialis.navis-core-items.Item.rMIaVi1gx3wUghfU]{Тяжёлый болтер}, <strong>Мультимельта</strong>, <strong>Плазменная пушка</strong>.</p>"
       }
     }
   },
   "Medicae Servitor": {
     name: "Медицинский сервитор",
+    description: SERVITOR_NOTES,
     items: {
       "Programmed to Serve": {
         name: "Программа служения",

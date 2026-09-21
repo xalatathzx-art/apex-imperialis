@@ -2,7 +2,7 @@
   "name": "Бионические ноги: двусоставные",
   "type": "navis-apexialis.implant",
   "_id": "navisImp00000004",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00002",
   "sort": 400,
   "system": {

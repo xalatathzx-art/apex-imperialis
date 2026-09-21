@@ -1,0 +1,105 @@
+{
+ "journal": "UHAAGHOTknUiUTUj",
+ "journalName": "Familiars",
+ "page": "aul6tv8Zh6mX52Ly",
+ "pageName": "Training A Psyber-Familiar",
+ "name": "Обучение псиберфамильяра",
+ "runs": {
+  "8": {
+   "en": "Familiars have extremely streamlined souls compared to the galaxy’s sentient races; desire, betrayal, and all the other complex emotions that form the tides and currents of the Warp are mostly absent from such creatures. As such, few Familiars have more than the barest flicker of soul presence in the Immaterium. That connection, weak though it is, can be strengthened and made useful in service to the Imperium.",
+   "ru": "По сравнению с разумными расами галактики души фамильяров предельно упрощены: желание, предательство и все прочие сложные чувства, образующие приливы и течения варпа, у таких существ в основном отсутствуют. Поэтому мало у каких фамильяров присутствие души в имматериуме больше едва заметного мерцания. Эту связь, пусть и слабую, можно укрепить и обратить на пользу Империуму."
+  },
+  "12": {
+   "en": "Psykers with wealth and connections may opt to turn their Familiar into a Psyber-Familiar. It is difficult to find any Tech-Priest with the knowledge required to perform the procedure, and harder still to gather the necessary resources. The Familiar receives extensive brain surgery and augmetic implants of inscrutable function, along with gruelling hypno-training and nerve stimulation to develop the neural pathways allowing a greater sense of the Warp and the souls of living things. If the procedure succeeds, both Familiar and Master must spend a great deal of time in meditative training to link their souls; in so doing, the abstract bonds of loyalty, love, and duty between Master and Familiar transform into authentic, tangible things.",
+   "ru": "Псайкеры с деньгами и связями могут решить превратить своего фамильяра в псиберфамильяра. Найти техножреца, обладающего знаниями для этой процедуры, трудно, а собрать необходимые ресурсы — ещё труднее. Фамильяру проводят обширную операцию на мозге и вживляют аугметические имплантаты непостижимого назначения, а также подвергают изнурительной гипнотренировке и стимуляции нервов, чтобы развить нейронные пути, дающие более тонкое ощущение варпа и душ живых существ. Если процедура удаётся, фамильяру и хозяину предстоит провести много времени в медитативных упражнениях, чтобы связать свои души; так отвлечённые узы преданности, любви и долга между хозяином и фамильяром превращаются в подлинные, осязаемые."
+  },
+  "16": {
+   "en": "A Psyker and Psyber-Familiar confer the following advantages to each other:",
+   "ru": "Псайкер и псиберфамильяр дают друг другу следующие преимущества:"
+  },
+  "24": {
+   "en": "The Master’s @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1.JournalEntryPage.buydA5mPJln97Qk5]{Warp Threshold} is increased by the Psyber-Familiar’s Willpower bonus (WilB).",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1.JournalEntryPage.buydA5mPJln97Qk5]{Порог варпа} хозяина увеличивается на бонус Силы воли (бСВ) псиберфамильяра."
+  },
+  "32": {
+   "en": "Each can sense the location and health status of the other (Their current Wounds and Conditions, for example) over any distance. Within Long Range, this is a free action. Over longer distances, a ",
+   "ru": "Каждый может чувствовать местоположение и состояние здоровья другого (например, текущие раны и состояния) на любом расстоянии. В пределах дальней дистанции это свободное действие. На больших расстояниях требуется "
+  },
+  "34": {
+   "en": "Challenging (+0) Willpower (Psychic Mastery)",
+   "ru": "Средняя (+0) проверка Силы воли (Психическое мастерство)"
+  },
+  "36": {
+   "en": " Test is required, increasing the Difficulty depending on the distance. Finding your Psyber-Familiar anywhere in a hab-block might be ",
+   "ru": ", сложность которой растёт с расстоянием. Найти своего псиберфамильяра где-либо в жилом блоке может потребовать "
+  },
+  "38": {
+   "en": "Challenging (+0)",
+   "ru": "Средней (+0)"
+  },
+  "40": {
+   "en": ", while pinpointing it within a whole hive city would be ",
+   "ru": " проверки, найти его точное положение в целом городе-улье — "
+  },
+  "42": {
+   "en": "Difficult (−10), Hard (−20)",
+   "ru": "Трудной (−10), Сложной (−20)"
+  },
+  "44": {
+   "en": " within the scope of a continent, and so on. Further training and Talents can develop the psychic bond even further, allowing the Master to look through their Familiar’s eyes or extend the range of the Master’s psychic powers, and more.",
+   "ru": " — в пределах континента и так далее. Дальнейшее обучение и таланты могут ещё больше развить психическую связь, позволяя хозяину смотреть глазами фамильяра, увеличивать дальность своих психических сил и многое другое."
+  },
+  "52": {
+   "en": "To upgrade an existing Familiar to a Psyber-Familiar, a Character must first have the required @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.bKmzN9rjDaOIL7Uo]{Familiar Bonded} Talent. The Master must pay Solars equal to the Familiar’s base cost for the procedure. Then make the following changes to the Familiar’s statistics:",
+   "ru": "Чтобы улучшить имеющегося фамильяра до псиберфамильяра, персонаж должен сначала иметь необходимый талант @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.bKmzN9rjDaOIL7Uo]{«Связь с фамильяром»}. За процедуру хозяин должен заплатить соляры в размере базовой стоимости фамильяра. Затем внесите следующие изменения в параметры фамильяра:"
+  },
+  "60": {
+   "en": "Willpower maximum increases by +20. Willpower increases by +5. The Master chooses another Characteristic to increase by +5.",
+   "ru": "Максимум Силы воли повышается на +20. Сила воли повышается на +5. Хозяин выбирает ещё одну характеристику, которая повышается на +5."
+  },
+  "68": {
+   "en": "The Familiar gains 1 Advance in the following Skills (or Specialisations, if they already have the Skill): Awareness (Psyniscience), Discipline (Psychic), and Psychic Mastery.",
+   "ru": "Фамильяр получает по 1 улучшению в следующих умениях (или специализациях, если умение у него уже есть): Бдительность (Психическое чутьё), Дисциплина (Психическое) и Психическое мастерство."
+  },
+  "76": {
+   "en": "Wounds increase by their Master’s Willpower Bonus.",
+   "ru": "Раны увеличиваются на бонус Силы воли хозяина."
+  },
+  "84": {
+   "en": "Psyber-Familiar Talents",
+   "ru": "Таланты псиберфамильяров"
+  },
+  "94": {
+   "en": "These Talents can only be purchased by Psyber-Familiars. It costs 100 XP (of the Master’s or the Familiar’s combined XP) to gain a new @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.ZoyVpQ2Wtbz5JA3x]{Talent}, following the same rules for player characters.",
+   "ru": "Эти таланты могут покупать только псиберфамильяры. Новый @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.ZoyVpQ2Wtbz5JA3x]{талант} стоит 100 ОО (из общего опыта хозяина или фамильяра) и приобретается по тем же правилам, что и для персонажей игроков."
+  },
+  "98": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.dBLFHDcalwuuvSnT]{Abhor The Witch}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.dBLFHDcalwuuvSnT]{Возненавидь ведьму}"
+  },
+  "102": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.y2FyMcWww25m7jj7]{Borrow Senses}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.y2FyMcWww25m7jj7]{Заимствованные чувства}"
+  },
+  "106": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Mlcmf42iZlOXbwzq]{Castigating Echoes}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Mlcmf42iZlOXbwzq]{Карающее эхо}"
+  },
+  "110": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Klu1n4QDwPjSW73E]{Purgation Aide}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Klu1n4QDwPjSW73E]{Помощник очищения}"
+  },
+  "114": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.SW5vQomumsjiXLN0]{Soul-Ground}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.SW5vQomumsjiXLN0]{Заземление души}"
+  },
+  "118": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Vdgkr2VheF40Qzht]{Warp Buffer}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Vdgkr2VheF40Qzht]{Варп-буфер}"
+  },
+  "122": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.OBdsd7lteeRmJQ8I]{Warp Relay}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.OBdsd7lteeRmJQ8I]{Варп-ретранслятор}"
+  }
+ }
+}

@@ -2,7 +2,7 @@
   "name": "Naga",
   "type": "navis-apexialis.species",
   "_id": "navisSpc00000007",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder001",
   "sort": 700,
   "system": {
@@ -107,7 +107,7 @@
     {
       "_id": "navisSpFx0000007",
       "name": "Naga — physiology",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "changes": [
         {
           "key": "system.combat.wounds.max",

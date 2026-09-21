@@ -2,7 +2,7 @@
   "name": "Wyrdvane",
   "type": "talent",
   "_id": "malExpTal0000218",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Redirect Perils of the Warp effect from anyone within Medium range (including self) to another character within Medium range</span></p><hr><p><span style=\"font-family: Arial\"><em>You have learned to channel and redirect the worst effects of the Immaterium. You can redirect the effects of the Perils of the Warp rolls from any character within Medium Range of yourself, including yourself, onto another character of your choosing within Medium Range. </em></span></p>",

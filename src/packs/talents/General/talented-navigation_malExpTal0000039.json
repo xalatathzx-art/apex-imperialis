@@ -2,7 +2,7 @@
   "name": "Talented (Navigation)",
   "type": "talent",
   "_id": "malExpTal0000039",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Once/session: re-roll Navigation check (take better)</span></p><hr><p><span style=\"font-family: Arial\"><em>You have a natural affinity towards Navigation. You must have two Advances in Navigation. Once per session, you may reroll any Test for Navigation even if the result is already a success. </em></span></p>",

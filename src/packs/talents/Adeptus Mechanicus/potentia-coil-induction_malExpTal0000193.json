@@ -2,7 +2,7 @@
   "name": "Potentia Coil Induction",
   "type": "talent",
   "_id": "malExpTal0000193",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">When: close to power source: Can remove Fatigue with a Fortitude check. Minor = +10, Major (-10)</span></p><hr><p><span style=\"font-family: Arial\"><em>When you are in the presence of a suitable power source, such as a portable generator or the power plant of a vehicle, you may make an Ordinary (+10) Fortitude Test as an Action and remove the Fatigued (Minor) Condition. You may make a Difficult (-10) Fortitude Test to remove the Fatigued (Major) Condition. </em></span></p>",

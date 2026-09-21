@@ -2,7 +2,7 @@
   "name": "Rite of Synchronized Steel",
   "type": "talent",
   "_id": "malExpTal0000201",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">When MIU/VIC linked to vehicle:use Intelligence instead Agility for Piloting</span></p><hr><p><span style=\"font-family: Arial\"><em>While linked to a vehicle with your MIU or VIC implant, you may use your Intelligence characteristic instead of Agility for the Piloting Skill. This may not be used with jump packs or similar devices. </em></span></p>",

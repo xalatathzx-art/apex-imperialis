@@ -2,7 +2,7 @@
   "name": "Shielding Faith",
   "type": "talent",
   "_id": "malExpTal0000182",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On Deny the Witch: spend FP to auto-succeed with WpB SL. Target must test against being Frightened</span></p><hr><p><span style=\"font-family: Arial\"><em>When attempting to Deny The Witch, you may spend a Fate Point to automatically pass the test with a number of Success Levels equal to your Willpower Bonus. If you do so, the Psyker must immediately test against being Frightened.</em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "Faithful (Imperial Cult) Talent, Emperor’s Aegis",
-      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful(Imperial Cult)\") && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Emperor’s Aegis\")"
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful (imperial Cult)\") && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Aegis of the Emperor\")"
     },
     "test": {
       "difficulty": "challenging",

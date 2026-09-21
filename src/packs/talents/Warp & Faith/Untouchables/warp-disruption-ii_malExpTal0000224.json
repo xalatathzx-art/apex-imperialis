@@ -2,7 +2,7 @@
   "name": "Warp Disruption II",
   "type": "talent",
   "_id": "malExpTal0000224",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On Daemon starts turn within Short Range of you: it must test Dicipline-10 test or suffer 3+WpB damage ignoring armor</span></p><hr><p><span style=\"font-family: Arial\"><em>Daemons within Short Range of you must make a Difficult (-10) Willpower Test at the start of their turn as long as they remain within Short Range of you. If they fail this test, they are suffer 3 + WilB Damage that ignores Armor. </em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "Warp Disruption talent",
-      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Warp Discruption\")"
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Warp Disruption\")"
     },
     "test": {
       "difficulty": "challenging",

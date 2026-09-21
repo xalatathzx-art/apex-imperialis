@@ -19,7 +19,7 @@
 const U = (uuid, label) => `@UUID[${uuid}]{${label}}`;
 const p = (...parts) => `<p>${parts.join("")}</p>`;
 
-const ITEM = "Compendium.impmal-core.items.Item";
+const ITEM = "Compendium.navis-apexialis.navis-core-items.Item";
 /** Страницы журнала «Техника» из этой же книги. */
 const VEH = "JournalEntry.fpiV4F49v3gxmipn.JournalEntryPage";
 
@@ -196,7 +196,7 @@ export const NPC_GEAR = {
         "оружие), Скрытность (Бесшумное движение).") +
       p("Имперскую планету, как правило, наносят на карты сразу после завоевания. Этим занимаются ",
         "разведывательные полки ",
-        U("Compendium.impmal-core.journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd",
+        U("Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd",
           "Астра Милитарум"), ", что ведут съёмку с лёгких боевых машин, рыская по вражеской ",
         "земле. Цену за изготовление этих карт почти всегда платят кровью.")
   },

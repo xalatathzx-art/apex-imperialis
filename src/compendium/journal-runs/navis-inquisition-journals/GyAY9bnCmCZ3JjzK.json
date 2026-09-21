@@ -1,0 +1,117 @@
+{
+ "journal": "xxcZ1PUz0t1ycevK",
+ "journalName": "Running Inquisition Adventures",
+ "page": "GyAY9bnCmCZ3JjzK",
+ "pageName": "Signs of Xenos",
+ "name": "",
+ "runs": {
+  "2": {
+   "en": "Marks of Heresy reflect the influence of xenos in many diverse ways. They generally reflect the character of the xenos species in question but otherwise represent a collection of physical marks on the body, augments, implants and other biochemical changes, and illicit weapons and other technology. The following Marks do not present an exhaustive list. You can certainly use them in your own games, but you could also use them as inspiration for xenos Marks that better suit your needs.",
+   "ru": ""
+  },
+  "6": {
+   "en": "Aeldari",
+   "ru": ""
+  },
+  "16": {
+   "en": "The Imperium knows very little about the Aeldari other than what the Ordo Xenos has gathered at great expense or through opportune interrogations. From their point of view, the Aeldari remain essentially unknowable aliens, capable of enacting capricious plots and, therefore, not to be trusted. Even their presence in the Macharian Sector is unknown — unlike the more straightforward enemy their Drukhari brethren present, who raid and pirate within Imperial space.",
+   "ru": ""
+  },
+  "20": {
+   "en": "Aeldari trade their goods and services with Humanity only where it benefits them. While they act as invaluable contacts or mercenaries, especially when exploring the unknown parts of the sector, anything traded in their favour is another small foothold against the Imperium. Do not forget that they look down upon Humanity as a lesser species; some foresee an end for Humanity that mirrors the destruction of their own kind, a succumbing to the Ruinous Powers. Some Aeldari fear this, not for the pity of Humanity’s end, but for the resulting galaxy-wide destruction that could swallow up the rest of their kind.",
+   "ru": ""
+  },
+  "24": {
+   "en": "Drukhari",
+   "ru": ""
+  },
+  "28": {
+   "en": "To the twisted, cruel Drukhari, Humans are simply another type of potential captive — or victim. Exploiting the strange netherworld realm known as the Webway, their incursions are usually focused on causing painful bloodshed and taking prisoners to fates that can be literally worse than death. Drukhari collaborators help facilitate these interdimensional raids and cover up their aftermath, paving the way for further raids.",
+   "ru": ""
+  },
+  "32": {
+   "en": "Drukhari collaborators are most likely unwilling in the role, but if the alternative is agonising death or worse, then the heresy of collaboration may seem the lesser of evils. If the Drukhari choose to mark their reluctant confederates, it will invariably be in a painful way — brands and amputations are common. Likewise, Drukhari may provide potent drugs to their ‘allies’, granting them temporary, superhuman abilities. But the cost is predictably terrible, as these drugs are designed for Drukhari physiology and are likely to inflict crippling addiction and other side effects on Humans.",
+   "ru": ""
+  },
+  "36": {
+   "en": "The Leagues of Votann",
+   "ru": ""
+  },
+  "40": {
+   "en": "The Kin of the Leagues of Votann are often known to the Imperium by the somewhat pejorative term ‘Squats’, and many believe their classification varies between abhuman and true xenos. As such, they are often mistaken for harmless citizens of the Imperium, but acolytes of the Inquisition should always err on the side of classifying the kin as outright xenos. Their culture represents as much of an existential threat to the Imperium as any other xenos culture — their supposedly superior technology is clearly outside the God-Emperor’s and Omnissiah’s sanction, especially the rumoured living machines that co-exist with them.",
+   "ru": ""
+  },
+  "44": {
+   "en": "To the Inquisition, the exact scale of empire the Leagues of Votann represent is yet to be fully understood. They have only recorded encounters with minor scouting and prospecting fleets at the edges of the Imperium. However, some League representatives are smart enough to avoid Inquisition detection. Some are eager to accept mercenary and simple trade contracts with representatives of the Imperium as a practical means to garner wealth and, more insidiously, intelligence on Imperial assets.",
+   "ru": ""
+  },
+  "48": {
+   "en": "Necrons",
+   "ru": ""
+  },
+  "52": {
+   "en": "A soulless machine species that despises all living things, the Necrons are unlikely to willingly deal with Human collaborators. To the extent that they will do anything but attempt to destroy life that gets in their way, they may at least initially attempt some infiltration. Awakening a tomb world and preparing it for battle takes time, and any information gained in the meantime could be useful to ensure victory.",
+   "ru": ""
+  },
+  "56": {
+   "en": "When Necrons seek to control an enemy species, they use strange implants or devices known as ‘mindshackle scarabs’ to override and influence people’s behaviours. Their stiff, stilted manner might trigger an acolyte’s suspicion, with the revelation of implanted tech confirming their altered nature. Perhaps more dangerous is the very allure of their mysterious technology, drawing the attention of hereteks and those susceptible to techheresy. These heretics toy with powers beyond their comprehension, unaware or ignorant of the collateral damage their experiments are sure to produce.",
+   "ru": ""
+  },
+  "60": {
+   "en": "T'au Empire",
+   "ru": ""
+  },
+  "64": {
+   "en": "T’au infiltration into the Imperium is not uncommon. Dedicated to pursuing their foul ‘greater good’, T’au leaders often try to recruit spies and other agents among the native population of a planet or system they seek to add to their Empire. Swayed by gifts of advanced technology and possibly promised great power under a new T’au regime, such confederates may provide their T’au handlers with information, or even engage in acts of sabotage. The point, of course, is to pave the way for a subsequent T’au incursion, or even an outright invasion of Humanity’s space.",
+   "ru": ""
+  },
+  "68": {
+   "en": "The most likely Marks indicative of a T’au intrusion into the Imperium is suspiciously advanced tech in the hands of Imperial citizens. Sophisticated scanners and recording devices used for spying, clandestine communications gear, and characteristic T’au pulse weapons are all possible things to implicate someone in collaboration with the T’au. Regarding behaviour, watch for talk about their ‘greater good’ or any vast open-mindedness on display. Inquisition reports suggest that the T’au Ethereal caste has been experimenting with broadening pheromone-based control to afflict other species, including Humans.",
+   "ru": ""
+  },
+  "72": {
+   "en": "Orks",
+   "ru": ""
+  },
+  "76": {
+   "en": "Orks are rarely interested in other species’ cultures, generally preferring a good punch-up over subtle or insidious infiltration that other species may attempt. However, some Warbosses enjoy scheming, so they may infiltrate Human settlements to seek targets and resources. They are scavengers — signs of their presence often result in effigies made of scrap, various gubbins welded or bolted on, miscellaneous glyphs, and brutish sigils otherwise painted or scratched into the original item.",
+   "ru": ""
+  },
+  "80": {
+   "en": "Tyranids",
+   "ru": ""
+  },
+  "84": {
+   "en": "Tyranids are ravening, existential horrors that exist solely to consume. Within the Imperium, a subset of heretics worships these monsters, working within targeted worlds to pave the way for a subsequent invasion by a Tyranid Hive Fleet. These so-called Genestealer Cults insert themselves into the doomed society, sowing chaos and spreading the gospels of false xenos gods. If they successfully establish a firm foothold, then their psychic emanations aim to draw the nearest hive fleet to consume the world, cultists and all.",
+   "ru": ""
+  },
+  "88": {
+   "en": "Genestealer Cults are profoundly secret societies. Their highest ranking members are often vile hybrids of Human and xenos genetics. They seek to exploit Human fears, desires, and other weaknesses to draw adherents to their ranks. Hybrid cultists are generally obvious, so tend to remain out of sight, but later generations may appear Human enough to remain undetected by the naked eye.",
+   "ru": ""
+  },
+  "94": {
+   "en": "Genestealer Cult Symbology",
+   "ru": ""
+  },
+  "98": {
+   "en": "Like Chaos cults, Genestealer Cults work with an established pattern in their symbology and cyphers. See also, the (@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.KN6hJOFxExaZ7fYL#witch-marks-and-other-heresies]{Genestealer Mutation heretical mark}).",
+   "ru": ""
+  },
+  "106": {
+   "en": "Most cults have their own variant of the coiling, insecto-serpentine glyph known as the wyrm-form.",
+   "ru": ""
+  },
+  "114": {
+   "en": "This wyrm-form can be expressed in hidden tattoos or graffiti to mark territories or send warnings to other cultists.",
+   "ru": ""
+  },
+  "122": {
+   "en": "Talismanic variants of the wyrm-form icon can appear in modified weaponry, even in functional aspects, the curve sharpened into a blade.",
+   "ru": ""
+  },
+  "130": {
+   "en": "As cults rise in an area, they will brazenly deface Imperial iconography with their own. This can be a sign that their uprising is soon to begin.",
+   "ru": ""
+  }
+ }
+}

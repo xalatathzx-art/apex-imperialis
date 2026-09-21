@@ -2,7 +2,7 @@
   "name": "Annihilate Them!",
   "type": "talent",
   "_id": "malExpTal0000085",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Once/Encounter: test Presence-30 (+5 for each participating ally). On success: allies charge as a joint, out-of-order action</span></p><hr><p><span style=\"font-family: Arial\"><em>Once per encounter as an action, make a Very Hard (-30) Presence (Leadership) Test with a +5 Bonus for each ally participating in this action. If you succeed, your allies rush forward with you in a joint Charge Action. The allies that were part of this charge can take their turn normally on their subsequent turn, but do not gain the benefits of Charging and are likely starting their turn in melee.  </em></span></p>",

@@ -3,7 +3,7 @@
   "name": "Knarloc",
   "type": "npc",
   "_id": "fSf7TWF7N5XIBziq",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Mountable",
       "type": "trait",
       "_id": "cmhmiga7NwQpZb9B",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Multiple Varieties",
       "type": "trait",
       "_id": "BXhN5tZbaBigW1ts",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Beak and Claw",
       "type": "weapon",
       "_id": "w2cTGQwShH47cbQK",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",

@@ -2,7 +2,7 @@
   "name": "Vitality Coils",
   "type": "talent",
   "_id": "malExpTal0000203",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">1/session, needs power source, Action: Fortitude+0 check to heal SL+IntB wounds. Cannot remove critical wounds. On fail: suffer SL damage</span></p><hr><p><span style=\"font-family: Arial\"><em>Once per session, when in the presence of a suitable power source such as a portable generator or the power plant of a vehicle, you may make a Challenging (+0) Fortitude Test as an action. If you succeed, you may heal a number of wounds equal to your success levels, plus your Intelligence Bonus. You cannot remove Critical Wounds this way, and if you fail the test, you suffer damage equal to your negative success levels. </em></span></p>",

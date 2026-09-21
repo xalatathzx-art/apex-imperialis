@@ -2,7 +2,7 @@
   "name": "Маглев Спирали",
   "type": "navis-apexialis.implant",
   "_id": "navisImp00000103",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00007",
   "sort": 10300,
   "system": {

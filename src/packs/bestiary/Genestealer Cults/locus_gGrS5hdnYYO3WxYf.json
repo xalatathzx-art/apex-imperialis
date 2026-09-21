@@ -3,7 +3,7 @@
   "name": "Locus",
   "type": "npc",
   "_id": "gGrS5hdnYYO3WxYf",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Counter Attack",
       "type": "trait",
       "_id": "VgHJ4hq3cNuNAfqp",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Ever Vigilant Bodyguard",
       "type": "trait",
       "_id": "1Vmkw4PMEiul5kik",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Genestealer Mutation",
       "type": "trait",
       "_id": "Z7XKicr9vBdJ9F6s",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -426,7 +426,7 @@
       "name": "Sudden Assault",
       "type": "trait",
       "_id": "JrvNiJaE3UjfHTo4",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -486,7 +486,7 @@
       "name": "2x Locus Blades",
       "type": "weapon",
       "_id": "aQcErxoQ5EmzQPW5",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -557,7 +557,7 @@
       "name": "Toxinspike Tail",
       "type": "weapon",
       "_id": "jlhbnvlOzqGZmlD9",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -628,7 +628,7 @@
       "name": "Neurotraumal Rod",
       "type": "weapon",
       "_id": "zuwIER34a4JZLqEp",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -698,7 +698,7 @@
       "name": "Dodge",
       "type": "specialisation",
       "_id": "rj4CYJ1UZRCvLYlb",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -727,7 +727,7 @@
       "name": "One-Handed",
       "type": "specialisation",
       "_id": "0FB8My5Lm6r2dyxt",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

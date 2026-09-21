@@ -22,12 +22,12 @@ const p = (...parts) => `<p>${parts.join("")}</p>`;
 /** «Когномены» — прозвища предмета, как их печатает книга. */
 const cognomens = (...names) => p("<strong>Когномены</strong>: ", names.join(", "), ".");
 
-const CORE = "Compendium.impmal-core.journals.JournalEntry";
+const CORE = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
 const IMP = `${CORE}.GPqYZykonC12TJb1.JournalEntryPage`;
 const SECTOR = `${CORE}.B7MZBBT3bNew9N96.JournalEntryPage`;
 const RULES = `${CORE}.hdElQAwiBr5AyoRf.JournalEntryPage`;
-const ITEM = "Compendium.impmal-core.items.Item";
-const REQ_ITEM = "Compendium.impmal-requisition.items.Item";
+const ITEM = "Compendium.navis-apexialis.navis-core-items.Item";
+const REQ_ITEM = "Compendium.navis-apexialis.navis-requisition-items.Item";
 
 const MILITARUM = U(`${IMP}.r6JYS3jOfrAEorvd`, "Астра Милитарум");
 const MECHANICUS = U(`${IMP}.nYfLVXh10BKR47Kj`, "Адептус Механикус");

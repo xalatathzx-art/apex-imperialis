@@ -1,0 +1,73 @@
+{
+ "journal": "2TukBjlkS5RG5Qka",
+ "journalName": "Inquisition Contacts",
+ "page": "gsGyUas4n5zpSKRf",
+ "pageName": "Zarin Varuna, Logistics Officer",
+ "name": "",
+ "runs": {
+  "6": {
+   "en": "Zarin Varuna, Logistics Officer",
+   "ru": ""
+  },
+  "16": {
+   "en": "Did you hear what happened on Somrot? No? Well, what if I told you the local Mechanicus found an Aeldari artefact buried underground? Hand over those solars and I’ll tell you the rest…",
+   "ru": ""
+  },
+  "28": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ncXwqNsh38L8CyRo]{Zarin Varuna} is a dutiful servant of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#rogue-traders-of-note]{Hawkscar Dynasty} and a logistics officer aboard the ",
+   "ru": ""
+  },
+  "30": {
+   "en": "Innocent",
+   "ru": ""
+  },
+  "32": {
+   "en": ", the voidship of the infamous Captain Ion Hawkscar. He is a cheerful yet wary man who has made careful, but largely successful, contact with individuals from a number of xenos species and works as an information broker for his captain. Zarin has a long roster of contacts throughout the sector due to the nature of his vocation and the vast distances plied by his captain.",
+   "ru": ""
+  },
+  "36": {
+   "en": "Some think @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ncXwqNsh38L8CyRo]{Zarin} is simply a scapegoat for Captain Hawkscar, allowing his captain a measure of plausible deniability if he were ever discovered to be making contact with xenos entities. Zarin knows this is true, but does the hard work regardless, rewarded with sufficient autonomy to make his own deals and decisions. That said, he only trades in information and strictly stays away from the Silent Trade, striving never to be caught red-handed with any heretical xenos technology.",
+   "ru": ""
+  },
+  "40": {
+   "en": "The true worth of @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ncXwqNsh38L8CyRo]{Zarin}’s work is his contact with certain Craftworld @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#aeldari]{Aeldari} and elements of the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#the-leagues-of-votann]{Leagues of Votann} within the Macharian Sector and along its borders. He primarily made contact at Hawkscar’s behest to ensure the Dynasty was steering clear of any problematic xenos claims or traps at the reaches of the sector. He found that the xenos were eager to trade for similar information on Imperial movements and holdings in the sector, which he provided, but Zarin has never relinquished information that could interfere with Hawkscar’s interests. Furthermore, Zarin often arranges for xenos guides and mercenaries to complete missions without his captain’s knowledge, occasionally trading the service of his personnel (including himself) to xenos forces.",
+   "ru": ""
+  },
+  "44": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ncXwqNsh38L8CyRo]{Zarin} is a versatile Contact; he travels wherever the ",
+   "ru": ""
+  },
+  "46": {
+   "en": "Innocent",
+   "ru": ""
+  },
+  "48": {
+   "en": " goes in the sector and can travel freely from orbit to planet with his own Arvus Lighter. He is often accompanied by three @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.pXsZLEawZr8Tf8Ym]{Armsmen} named Nila Lensk, Laskor Rausch, and Ekhter Viers, who protect him and the Lighter.",
+   "ru": ""
+  },
+  "52": {
+   "en": "Requests",
+   "ru": ""
+  },
+  "60": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ncXwqNsh38L8CyRo]{Zarin} declares that he will never work with the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#drukhari]{Drukhari} again. In one particularly disastrous deal with them, Zarin believes he became marked for assassination (or ‘consumption’, he is not exactly sure) by a Kabalite Warrior named Vivithrax Vhrex. He knows of the abandoned Imperial void station in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.d0lv2v4FkeIb43jj]{Drimor Subsector} the Kabal often uses and would feel greater peace of mind if the Kabal, or at least Vhrex, were no more.",
+   "ru": ""
+  },
+  "68": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ncXwqNsh38L8CyRo]{Zarin} believes that one of the armsmen assigned to him is informing captain Hawkscar of his various deals and actions. Effectively, someone to replace Zarin if the captain tires of him. He would appreciate it if someone could figure out who it is without the armsmen knowing they are being investigated. If Zarin knew, he could better control the information flow and ensure his essential position within the Innocent’s crew.",
+   "ru": ""
+  },
+  "76": {
+   "en": "Rewards",
+   "ru": ""
+  },
+  "84": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ncXwqNsh38L8CyRo]{Zarin} has a significant portion of xenos presence in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.d0lv2v4FkeIb43jj]{Drimor Subsector} mapped out — many parts he is sure the Inquisition know nothing about. He would only pass on such volatile information to those he truly trusted.",
+   "ru": ""
+  },
+  "92": {
+   "en": "With sufficient influence, @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ncXwqNsh38L8CyRo]{Zarin} can arrange face-to-face meetings with local xenos entities and broker the employ of xenos mercenaries among the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#aeldari]{Aeldari} and @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#the-leagues-of-votann]{Votann} factions he maintains contact with.",
+   "ru": ""
+  }
+ }
+}

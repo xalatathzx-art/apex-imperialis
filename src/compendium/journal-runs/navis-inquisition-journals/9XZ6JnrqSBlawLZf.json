@@ -1,0 +1,181 @@
+{
+ "journal": "BbyZqcWs3HbrAO3Y",
+ "journalName": "The Inquisition's Armoury",
+ "page": "9XZ6JnrqSBlawLZf",
+ "pageName": "Grenades And Explosives",
+ "name": "Гранаты и взрывчатка",
+ "runs": {
+  "2": {
+   "en": "The Holy Orders have a unique array of Grenades and Explosives that act towards debilitating the enemy rather than causing them direct harm, making them effective tools for capturing opponents or placing them in a weakened state to better deal with later. General rules for using @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.Slqoyw0d5t8b9amF]{Grenades and Explosives} are outlined in ",
+   "ru": "V АРСЕНАЛ ИНКВИЗИЦИИ\nВместо этого персонаж может попытаться взять врага\nв захват и прицепить на него нейромину.\nОбездвиженный благодаря захвату противник обязан\nпредпринять трудную (-10) проверку Рефлексов\n(Уклонение), чтобы избежать этого. В случае провала\nмина закрепляется на цели и оглушает её на 1к5\nраундов.\nГАЛЛЮЦИНОГЕННАЯ ГРАНАТА\nТакие гранаты выпускают облака невидимого\nгаллюциногенного газа или изменяющих сознание\nэнергий, вызывающих краткосрочные иллюзии. Иногда\nвоздействие такой гранаты заставляет врага бродить\nвокруг, гоняясь за иллюзией, видимой только ему. В\nиных случаях противник может испытать приступы\nпаранойи, бреда или агрессии. Хотя воздействие\nкраткосрочно, такие гранаты остаются отличным\nсредством управления толпой.\nГаллюциногеннаягранатапокрываетцелевуюзонугазом\nна три раунда. Существа, начинающие свой ход в этой\nзоне или входящие в эту зону в течение своего хода,\nдолжны пройти трудную (-10) проверку Стойкости\n(Яды) или подвергнуться воздействию галлюцинаций\nна 1к10 раундов (сделайте бросок по таблице ниже).\nПерсонажи в силовой или иной герметичной броне,\nлибо носящие фильтры-затычки или иные средства\nзащиты, могут воспользоваться теми преимуществами,\nчто им предоставляет это снаряжение.\nВЗРЫВЧАТКА\nСвятые Ордосы обладают уникальными арсеналами\nгранат и взрывчатки, которые способны обезвредить\nврага, не нанося ему прямого вреда, а ослабляя и\nпозволяя аколитам взять его живым. Общие правила\nиспользования гранат и взрывчатки описаны на стр.\n134 книги правил, а свойства оружия и брони – там\nже, на стр. 124-125.\nЭМПИРЕЙСКИЕ НЕЙРОМИНЫ\nСчитается, что технологии производства таких\nмаленьких, напоминающих гранаты, вещиц, были\nнайдены на одном из Призрачных миров. Нейромины\nмогут прикрепляться к противнику и посылать\nэнергетические импульсы прямо в мозг цели, нарушая\nмоторные функции и лишая возможности действовать.\nЭффект временный – нейромина растрачивает заряд за\nнесколько секунд, но этого достаточно, чтобы поймать\nврага в миг уязвимости.\nПерсонаж может попытаться установить нейромину\nв зоне – она сработает, как только враг войдёт в эту\nзону. Мина пытается закрепиться на жертве, но жертва\nможет попытаться пройти трудную (-10) проверку\nРефлексов(Уклонение), чтобы избежать этого. В случае\nпровала мина закрепляется на цели и оглушает её на\n1к5 раундов.\nНЕОБЫЧНЫЕ БОЕПРИПАСЫ\nНазвание Урон Цена Дост. Подходиит к.... Свойства\nБОЛТЕРНОЕ ОРУЖИЕ\nБлагословенные\nбоеприпасы +X x2 Диков. Любые стабберы, болтеры и арбалеты –\nАдский огонь +2 x2 Диков. Оружие “Экзитус” Сост. (Отравление)\nПробиватель\nщитов\n+0 x3 Диков. Оружие “Экзитус” Разрывающее (6)\nТурбоприкатель\n+2 x3 Диков. Оружие “Экзитус” Бронебойное (8)\nОтравл. колья +0 x2 Диков. Арбалеты Сост. (Отравление)\nПси-болты +0 x3 Диков. Болтерное оружие –\nКолья \"Пургатус” +0 x2 Диков. Арбалеты Разрывающее (X)\nСеребряные колья +0 x2 Диков. Арбалеты Сост. (Оглушение)\nОсквернённые\nбоеприпасы\n+X x2 Диков. Стабберное оружие кроме дробовиков –\n\nV АРСЕНАЛ ИНКВИЗИЦИИ\nПСИХОПАРАЛИТИЧЕСКИЕ ГРАНАТЫ\nПсихопаралитическиегранатымощнеегалюциногенных\n– они начинены приторным нервно-паралитическим\nгазом, что вызывает видения. Психическая природа\nвоздействия означает, что защититься от воздействия\nтаких гранат будет непросто.\nПсихопаралитическая граната покрывает целевую\nзону газом на пять раундов. Существа, начинающие\nсвой ход в этой зоне или входящие в эту зону в\nтечение своего хода, должны пройти очень сложную\n(-30) проверку Стойкости (Неустанность) @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.Slqoyw0d5t8b9amF]{Grenades and Explosives}"
+  },
+  "6": {
+   "en": "Imperium Maledictum",
+   "ru": "или\nподвергнуться воздействию галлюцинаций на 1к10\nраундов(сделайтебросокпотаблицениже).Персонажи\nв силовой или иной герметичной броне, либо\nносящие"
+  },
+  "10": {
+   "en": ", along with related @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#weapons-and-armour-traits]{Weapon and Armour Traits}.",
+   "ru": "фильтры-затычки или иные средства защиты,\nмогут воспользоваться теми преимуществами, что им\nпредоставляет это снаряжение.\nВОЗМОЖНО?\nГаллюциногенные и психопаралитические гранаты\n– прекрасный способ обратиться к прошлому\nперсонажей и ввести его фрагменты в иллюзии\nи видения. Погибший друг, приносящий\nсвоевременное предупреждение, проявление\nподавленных страхов, забытая встреча, что\nвнезапно оказалась очень важной – хитроумный\nведущий может использовать такие сцены,\nчтобы влиять на действия персонажей. Ведущий\nможет игнорировать т т та а аб б бл л ли и иц ц цу у у в в во о оз з зд д де е ей й йс с ст т тв в ви и ия я я\nг г га а ал л лл л лю ю юц ц ци и ин н но о ог г ге е ен н но о ов в в, если придумал что-то более\nподходящееи увлекательное!\nЗДЕЙСТВИЕ ГАЛЛЮЦИНОГЕНОВ \nК100 Эффект\n01–10\nЛожная смерть: персонаж верит, что умер и получает состояния Сбит с ног и Беспомощность до конца действия\nгаллюциногена.\n11–20\nВеличайший страх: до конца действия галлюциногена персонаж получает состояние Страх, вызванное чео в этой зоне, что может видеть только он.\n21–30\nСмертельный враг: до конца действия галлюциногена персонажа одолевает паранойя и убийственная ярость,\nв которой он бросается на ближайшего врага.\n31–40\nБесконечное падение: мир резко меняется и вращается на новой ужасной оси. До конца действия галлюциногена\nперсонаж будет двигаться на полной скорости в случайном направлении, меняя его каждый ход.\n41–50\nЕсли я не двигаюсь, ты меня не видишь!: чтобы спрятаться от какой-то видимой ему @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#weapons-and-armour-traits]{Weapon and Armour Traits}"
+  },
+  "22": {
+   "en": "How can this be?!",
+   "ru": "опасности персонаж\nнемедленно падает (считается Сбитым с ног) и до конца действия галлюциногена отказывается вставать"
+  },
+  "26": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.nd8zBS07KVlPzaAd]{Hallucinogen} and @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.rT0gpcguAkqemsFr]{Psychotroke} Grenades are an excellent way for the GM to engage with characters, tailoring their induced visions to elements of their backstory. A lost friend bearing a timely warning, a latent fear made manifest, or a forgotten encounter that might suddenly prove relevant — a canny GM can evoke these elements and provide suitable disruption to the character’s current actions. GMs should feel free to ignore the @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.Dy8XzuHFhHpVFytC]{Hallucinogenic Effects} Table if such a tailored vision would be more appropriate and engaging!",
+   "ru": "или\nпредпринимать иные действия. Он может предпринимать реакции по общим правилам.\n51–60\nОни уже на мне!: поддавшись иллюзии, персонаж верит, что по его телу карабкаются жуки или крысы (или\nчто его тело плавится или горит). До конца действия галлюциногена он считается оглушённым.\n61–70\nПотерян в пустоте / Свет Императора!: персонаж верит, что его поглощает тьма или что он теряется в вспышке\nсверхъестественного света. до конца действия галлюциногена персонаж действует так, будто он слеп.\n71–80\nЯ тону!: персонаж верит, что пол осыпается или плавится, отчего отчаянно пытается бежать. До конца\nдействия галлюциногена скорость персонажа падает до медленной.\n81–90\nЧто-то в стенах: персонаж видит жутких чудовищ, выходящих их стен или прямо и земли и атакует их до\nконца действия галлюциногена. Случайно определите направление его атаки – если на линии огня есть другие\nсущества, случайно определите, кто будет целью.\n91–00\nПойман в лабиринт: персонаж думает, что поле боя изменилось, на нём появились новые преграды или что\nего заманили в искусную ловушку. До конца действия галлюциногена персонаж не может покинуть свою\nтекущую зону, потому что верит, что её окружают непреодолимые преграды.\n\nV АРСЕНАЛ ИНКВИЗИЦИИ\nАНТИПСАЙКЕРСКИЕ ГРАНАТЫ\nТакие гранаты – редкое и ценное оружие,\nиспользующее психореактивные частицы, чтобы\nвоздействовать на Имматериум в небольшом\nрадиусе и, благодаря этому, ослаблять псайкеров и\nвоздействие психосил. Такие гранаты доступны\nтолько самым преданным слугам Империума;\nсекрет их создания заключён в субстанции, которая\nсчитается побочным продуктом работы\nАстрономикана.\nВсе обладатели порога в зоне, где\nвзорвалась такая граната, обязаны\nпройти трудную (-10) проверку\nПсихического мастерства. В случае\nпровала они оглушены. Также любой\nобладатель порога в этой зоне уменьшает\nсвой порог на 2. Некоторые существа\n(например, нечистые псайкеры) могут\nне заметить такую опасность в силу\nмалой восприимчивости или отсутствия\nдисциплины. Эффект длится три раунда.\nРАД-ГРАНАТЫ\nТакие сложные в производстве гранаты содержат\nсмертоносные частицы. Когда гранаты взрывается,\nчастицы заражают местность на несколько секунд –\nмощная радиация ослабляет врагов, после чего\nрассеивается,ипротивникаможнобезстрахаатаковать.\nКогда такая граната детонирует, все существа в её зоне\nдолжны пройти трудную (-10) проверку Стойкости\n(Неустанность). В случае провала они немедленно\nполучают пять очков урона (как будто оказались в\nслегка опасной зоне) и получают состояние Усталость\n(Малая).\nГРАНАТЫ И ВЗРЫВЧАТКА\nНазвание ENC Цена Дост. Свойства\nЭмпирейские\nнейромины\nИнженерное дело – 1 1000 Диков.\nГромкое, Сост. (Оглушение),\nНепредсказуемое\nГаллюцногенные\nгранаты\nМетательное, Тяжёлое – 0 200 Диков.\nВзрыв, Громкое,\nНепредсказуемое\nПсихопаралит.\nгранаты\nМетательное, Тяжёлое – 0 300 Диков.\nВзрыв, Громкое,\nНепредсказуемое\nАнтипсайкерские\nгранаты\nМетательное, Тяжёлое – 0 400 Диков.\nВзрыв, Состояние (Оглушение),\nГромкое, Непредсказуемое\nРад-гранаты Метательное, Тяжёлое – 0 400 Диков.\nВзрыв, Состояние (Усталость),\nГромкое, Непредсказуемое\nВес Урон @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.nd8zBS07KVlPzaAd]{Hallucinogen} @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.rT0gpcguAkqemsFr]{Psychotroke} @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.Dy8XzuHFhHpVFytC]{Hallucinogenic Effects}"
+  },
+  "40": {
+   "en": "Grenades And Explosives",
+   "ru": "V АРСЕНАЛ ИНКВИЗИЦИИ Вместо этого персонаж может попытаться взять врага в захват и прицепить на него нейромину. Обездвиженный благодаря захвату противник обязан предпринять трудную (- ) проверку Рефлексов (Уклонение), чтобы избежать этого. В случае провала мина закрепляется на цели и оглушает её на  к  раундов. ГАЛЛЮЦИНОГЕННАЯ ГРАНАТА Такие гранаты выпускают облака невидимого галлюциногенного газа или изменяющих сознание энергий, вызывающих краткосрочные иллюзии. Иногда воздействие такой гранаты заставляет врага бродить вокруг, гоняясь за иллюзией, видимой только ему. В иных случаях противник может испытать приступы паранойи, бреда или агрессии. Хотя воздействие краткосрочно, такие гранаты остаются отличным средством управления толпой. Галлюциногеннаягранатапокрываетцелевуюзонугазом на три раунда. Существа, начинающие свой ход в этой зоне или входящие в эту зону в течение своего хода, должны пройти трудную (- ) проверку Стойкости (Яды) или подвергнуться воздействию галлюцинаций на  к  раундов"
+  },
+  "52": {
+   "en": "Name",
+   "ru": "(сделайте бросок по таблице ниже). Персонажи в силовой или иной герметичной броне, либо носящие фильтры-затычки или иные средства защиты, могут воспользоваться теми"
+  },
+  "60": {
+   "en": "Specialisation",
+   "ru": "преимуществами, что им предоставляет это снаряжение. ВЗРЫВЧАТКА Святые Ордосы обладают уникальными арсеналами гранат и взрывчатки, которые способны обезвредить врага, не нанося ему прямого вреда, а ослабляя и позволяя аколитам взять его живым. Общие правила использования гранат и взрывчатки описаны на стр.   книги правил, а свойства оружия и брони – там же, на стр.  - . ЭМПИРЕЙСКИЕ НЕЙРОМИНЫ Считается, что технологии производства таких маленьких, напоминающих гранаты, вещиц, были найдены на одном из Призрачных миров. Нейромины могут прикрепляться к противнику и посылать энергетические импульсы прямо в мозг"
+  },
+  "68": {
+   "en": "Dam",
+   "ru": "цели, нарушая моторные функции и лишая возможности действовать. Эффект временный – нейромина растрачивает заряд за несколько"
+  },
+  "76": {
+   "en": "Enc",
+   "ru": "секунд, но этого достаточно, чтобы поймать врага в миг уязвимости. Персонаж может попытаться установить нейромину в зоне – она"
+  },
+  "84": {
+   "en": "Cost",
+   "ru": "сработает, как только враг войдёт в эту зону. Мина пытается закрепиться на жертве, но жертва может попытаться пройти трудную (- ) проверку Рефлексов(Уклонение), чтобы избежать"
+  },
+  "92": {
+   "en": "Avail",
+   "ru": "этого. В случае провала мина закрепляется на цели и оглушает её на  к  раундов. НЕОБЫЧНЫЕ БОЕПРИПАСЫ Название Урон Цена Дост. Подходиит к.... Свойства БОЛТЕРНОЕ ОРУЖИЕ Благословенные боеприпасы +X x2 Диков. Любые"
+  },
+  "100": {
+   "en": "Traits",
+   "ru": "стабберы, болтеры и арбалеты – Адский огонь +  x2 Диков. Оружие “Экзитус” Сост. (Отравление) Пробиватель щитов +  x3 Диков. Оружие “Экзитус” Разрывающее ( ) Турбопро- никатель +  x3 Диков. Оружие “Экзитус” Бронебойное ( ) Отравл. колья +  x2 Диков. Арбалеты Сост."
+  },
+  "114": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.6DsuDxmMdfE2VAUJ]{Empyrean Brain Mine}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.6DsuDxmMdfE2VAUJ]{Empyrean Brain Mine}"
+  },
+  "118": {
+   "en": "Engineering",
+   "ru": "(Отравление) Пси-болты +  x3 Диков. Болтерное оружие – Колья \"Пургатус” +  x2 Диков. Арбалеты Разрывающее (X) Серебряные колья +  x2 Диков. Арбалеты Сост. (Оглушение) Осквернённые боеприпасы +X x2 Диков. Стабберное оружие кроме дробовиков –   V АРСЕНАЛ ИНКВИЗИЦИИ ПСИХОПАРАЛИТИЧЕСКИЕ ГРАНАТЫ Психопаралитическиегранатымощнеегалюциногенных – они начинены приторным нервно-паралитическим газом, что вызывает видения. Психическая природа воздействия означает, что защититься от"
+  },
+  "126": {
+   "en": "1",
+   "ru": "воздействия таких гранат будет непросто."
+  },
+  "130": {
+   "en": "1000",
+   "ru": "Психопаралитическая граната покрывает целевую зону газом на пять раундов. Существа, начинающие свой ход в этой зоне или входящие в эту зону в течение своего хода, должны пройти"
+  },
+  "134": {
+   "en": "Exotic",
+   "ru": "очень сложную (- ) проверку Стойкости (Неустанность) или подвергнуться воздействию галлюцинаций на  к  раундов(сделайтебросокпотаблицениже).Персонажи в силовой или иной герметичной броне, либо носящие фильтры-затычки или иные средства защиты, могут воспользоваться"
+  },
+  "138": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#loud]{Loud}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#inflict-(condition)]{Inflict}(@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Stunned}), @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#unstable]{Unstable}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#loud]{Loud} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#inflict-(condition)]{Inflict} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Stunned} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#unstable]{Unstable}"
+  },
+  "146": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.nd8zBS07KVlPzaAd]{Hallucinogen Grenade}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.nd8zBS07KVlPzaAd]{Hallucinogen Grenade}"
+  },
+  "150": {
+   "en": "Thrown, Ordnance",
+   "ru": "теми преимуществами, что им предоставляет это снаряжение. ВОЗМОЖНО? Галлюциногенные и психопаралитические гранаты – прекрасный способ обратиться к прошлому персонажей и ввести его фрагменты в иллюзии и видения. Погибший друг, приносящий своевременное предупреждение, проявление подавленных страхов, забытая встреча, что внезапно оказалась очень важной – хитроумный ведущий может использовать такие сцены, чтобы влиять на действия персонажей. Ведущий может игнорировать т т та а аб б бл л ли и иц ц цу у у в в во о оз з зд д де е ей й йс с ст т тв в ви и ия я я г г га а ал л лл л лю ю юц ц ци и ин н но о ог г ге е ен н но о ов в в, если придумал что-то более подходящееи увлекательное! ЗДЕЙСТВИЕ"
+  },
+  "158": {
+   "en": "0",
+   "ru": "ГАЛЛЮЦИНОГЕНОВ К  Эффект  –  Ложная смерть:"
+  },
+  "162": {
+   "en": "200",
+   "ru": "персонаж верит, что умер и получает состояния Сбит с ног и Беспомощность до конца действия галлюциногена.  –  Величайший страх: до"
+  },
+  "166": {
+   "en": "Exotic",
+   "ru": "конца действия галлюциногена персонаж получает состояние Страх, вызванное чем- то в этой зоне, что может видеть только он.  –  Смертельный враг: до конца действия галлюциногена персонажа одолевает паранойя и убийственная ярость, в которой он бросается на ближайшего"
+  },
+  "170": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#blast]{Blast}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#loud]{Loud}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#unstable]{Unstable}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#blast]{Blast} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#loud]{Loud} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#unstable]{Unstable}"
+  },
+  "178": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.rT0gpcguAkqemsFr]{Psychotroke Grenade}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.rT0gpcguAkqemsFr]{Psychotroke Grenade}"
+  },
+  "182": {
+   "en": "Thrown, Ordnance",
+   "ru": "врага.  –  Бесконечное падение: мир резко меняется и вращается на новой ужасной оси. До конца действия галлюциногена персонаж будет двигаться на полной скорости в случайном направлении, меняя его каждый ход.  –  Если я не двигаюсь, ты меня не видишь!: чтобы спрятаться от какой-то видимой ему опасности персонаж немедленно падает (считается Сбитым с ног) и до конца действия галлюциногена отказывается вставать или предпринимать иные действия. Он может предпринимать реакции по общим правилам.  –  Они уже на мне!: поддавшись иллюзии, персонаж верит, что по его телу карабкаются жуки или крысы (или что его тело плавится или горит). До конца действия галлюциногена он считается оглушённым.  –  Потерян в"
+  },
+  "190": {
+   "en": "0",
+   "ru": "пустоте / Свет Императора!: персонаж верит,"
+  },
+  "194": {
+   "en": "300",
+   "ru": "что его поглощает тьма или что он теряется в вспышке сверхъестественного света. до конца действия галлюциногена персонаж действует"
+  },
+  "198": {
+   "en": "Exotic",
+   "ru": "так, будто он слеп.  –  Я тону!: персонаж верит, что пол осыпается или плавится, отчего отчаянно пытается бежать. До конца действия галлюциногена скорость персонажа падает до медленной.  –  Что-то в стенах: персонаж видит жутких чудовищ, выходящих их стен или прямо"
+  },
+  "202": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#blast]{Blast}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#loud]{Loud}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#unstable]{Unstable}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#blast]{Blast} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#loud]{Loud} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#unstable]{Unstable}"
+  },
+  "210": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.VJefArB2caEMaXuF]{Psyk-Out Grenade}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.VJefArB2caEMaXuF]{Psyk-Out Grenade}"
+  },
+  "214": {
+   "en": "Thrown, Ordnance",
+   "ru": "и земли и атакует их до конца действия галлюциногена. Случайно определите направление его атаки – если на линии огня есть другие существа, случайно определите, кто будет целью.  –  Пойман в лабиринт: персонаж думает, что поле боя изменилось, на нём появились новые преграды или что его заманили в искусную ловушку. До конца действия галлюциногена персонаж не может покинуть свою текущую зону, потому что верит, что её окружают непреодолимые преграды.   V АРСЕНАЛ ИНКВИЗИЦИИ АНТИПСАЙКЕРСКИЕ ГРАНАТЫ Такие гранаты – редкое и ценное оружие, использующее психореактивные частицы, чтобы воздействовать на Имматериум в небольшом радиусе и, благодаря этому, ослаблять псайкеров и воздействие психосил. Такие гранаты"
+  },
+  "222": {
+   "en": "0",
+   "ru": "доступны только самым преданным слугам"
+  },
+  "226": {
+   "en": "400",
+   "ru": "Империума; секрет их создания заключён в субстанции, которая считается побочным продуктом работы Астрономикана. Все обладатели порога"
+  },
+  "230": {
+   "en": "Exotic",
+   "ru": "в зоне, где взорвалась такая граната, обязаны пройти трудную (- ) проверку Психического мастерства. В случае провала они оглушены. Также любой обладатель порога в этой зоне уменьшает свой порог на  . Некоторые существа (например, нечистые псайкеры) могут не заметить"
+  },
+  "234": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#blast]{Blast}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#inflict-(condition)]{Inflict}(@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Stunned}), @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#loud]{Loud}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#unstable]{Unstable}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#blast]{Blast} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#inflict-(condition)]{Inflict} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Stunned} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#loud]{Loud} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#unstable]{Unstable}"
+  },
+  "242": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.cQ8b5ItfeDM4fGJg]{Rad Grenade}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.cQ8b5ItfeDM4fGJg]{Rad Grenade}"
+  },
+  "246": {
+   "en": "Thrown, Ordnance",
+   "ru": "такую опасность в силу малой восприимчивости или отсутствия дисциплины. Эффект длится три раунда. РАД-ГРАНАТЫ Такие сложные в производстве гранаты содержат смертоносные частицы. Когда гранаты взрывается, частицы заражают местность на несколько секунд – мощная радиация ослабляет врагов, после чего рассеивается,ипротивникаможнобезстрахаатаковать. Когда такая граната детонирует, все существа в её зоне должны пройти трудную (- ) проверку Стойкости (Неустанность). В случае провала они немедленно получают пять очков урона (как будто оказались в слегка опасной зоне) и получают состояние Усталость (Малая). ГРАНАТЫ И ВЗРЫВЧАТКА Название ENC Цена Дост. Свойства Эмпирейские нейромины Инженерное дело –     Диков."
+  },
+  "254": {
+   "en": "0",
+   "ru": "Громкое, Сост. (Оглушение), Непредсказуемое"
+  },
+  "258": {
+   "en": "400",
+   "ru": "Галлюцногенные гранаты Метательное, Тяжёлое –     Диков. Взрыв, Громкое, Непредсказуемое Психопаралит. гранаты Метательное, Тяжёлое –"
+  },
+  "262": {
+   "en": "Exotic",
+   "ru": "Диков. Взрыв, Громкое, Непредсказуемое Антипсайкерские гранаты Метательное, Тяжёлое –     Диков. Взрыв, Состояние (Оглушение), Громкое, Непредсказуемое Рад-гранаты Метательное, Тяжёлое –     Диков. Взрыв, Состояние (Усталость), Громкое, Непредсказуемое Вес Урон"
+  },
+  "266": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#blast]{Blast}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#inflict-(condition)]{Inflict}(@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#fatigued]{Fatigued}), @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#loud]{Loud}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#unstable]{Unstable}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#blast]{Blast} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#inflict-(condition)]{Inflict} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#fatigued]{Fatigued} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#loud]{Loud} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#unstable]{Unstable}"
+  }
+ }
+}

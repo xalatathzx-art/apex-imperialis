@@ -2,7 +2,7 @@
   "name": "Sound Constitution",
   "type": "talent",
   "_id": "malExpTal0000067",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">+X wounds (increases by 1 each time the talent is bought)</span></p><hr><p><span style=\"font-family: Arial\"><em>You gain one additional wound each time you have purchased this talent. Note the number of times this talent has been taken, such as Sound Constitution (3).</em></span></p>",
@@ -38,7 +38,7 @@
   "effects": [
     {
       "name": "Sound Constitution",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "_id": "ze43FwW17DjlNUne",
       "type": "base",
       "system": {

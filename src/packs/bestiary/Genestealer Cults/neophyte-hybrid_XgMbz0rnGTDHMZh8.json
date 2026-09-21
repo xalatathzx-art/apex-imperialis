@@ -3,7 +3,7 @@
   "name": "Neophyte Hybrid",
   "type": "npc",
   "_id": "XgMbz0rnGTDHMZh8",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Genestealer Mutation",
       "type": "trait",
       "_id": "3DMnBQhwNfeuN10g",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Resurgence",
       "type": "trait",
       "_id": "eMJe6KIGHM8RDTyU",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Autogun",
       "type": "weapon",
       "_id": "LYqPRckMJlrHb4Lx",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -443,7 +443,7 @@
       "name": "Stub Pistol",
       "type": "weapon",
       "_id": "0EmcO8okYOKjs38I",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -519,7 +519,7 @@
       "name": "Knife",
       "type": "weapon",
       "_id": "rpLwGKOF5QcoZ2C8",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -593,7 +593,7 @@
       "name": "Might",
       "type": "specialisation",
       "_id": "oG2tmMRTwjDSkq3i",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

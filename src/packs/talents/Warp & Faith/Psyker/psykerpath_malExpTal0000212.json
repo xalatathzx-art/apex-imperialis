@@ -2,7 +2,7 @@
   "name": "Psykerpath",
   "type": "talent",
   "_id": "malExpTal0000212",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On Perils of the Warp:may spend FP to ignore all ill effect. It does not cancel the effects on others though!</span></p><hr><p><span style=\"font-family: Arial\"><em>After being forced to roll on the Perils of the Warp Table, you may spend a Fate Point to avoid suffering any ill effects from the result. If the result would affect others or the environment, the effects still apply to everyone but the psyker. This includes being possessed or consumed by the warp. </em></span></p>",

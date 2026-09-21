@@ -1,0 +1,77 @@
+{
+ "journal": "brh2O5CexxurRbM7",
+ "journalName": "The Inquisition",
+ "page": "zilJJMaYtaWZrNtO",
+ "pageName": "Horusian",
+ "name": "",
+ "runs": {
+  "12": {
+   "en": "Horusian",
+   "ru": ""
+  },
+  "20": {
+   "en": "\"We all serve the God-Emperor and work with what tools we can… Why, then, must we all be at odds?\"",
+   "ru": ""
+  },
+  "28": {
+   "en": "Horusian Tenets:",
+   "ru": ""
+  },
+  "38": {
+   "en": "One day, the God-Emperor will return, requiring an appropriate vessel to embody.",
+   "ru": ""
+  },
+  "46": {
+   "en": "The power of the Warp can be harnessed to create a Divine Avatar or facilitate the process of transferring the God-Emperor’s soul from its current form into the body of a living god.",
+   "ru": ""
+  },
+  "56": {
+   "en": "Modus Operandi:",
+   "ru": ""
+  },
+  "68": {
+   "en": "Maintain strength and status as an upstanding Inquisitor of the Holy Orders. Find ways to pursue necessary research in secret and gather trusted acolytes to your actual cause. Pursue daemonic activity as a means to gather knowledge and test theories.",
+   "ru": ""
+  },
+  "74": {
+   "en": "Horusians follow an offshoot of @UUID[.s88kgPSDiogPL4aB]{Xanthism} and are experts in the nature of daemons and the power of the Warp. For this reason, many are members of the Ordo Malleus, though their views are certainly considered Radical by the rest of their Ordo. Horusians hope for the resurrection of the Emperor but believe that a simple Human form is not enough to house Him. Therefore, they seek ways to create vessels suitable for the God-Emperor’s soul and search for ways to harness the power of the Warp. Most controversially, they hope to one day create a being like the Primarch Horus, a Warp-infused warrior raised as a new — and less destructive — leader of Mankind.",
+   "ru": ""
+  },
+  "80": {
+   "en": "Roleplaying a Horusian:",
+   "ru": ""
+  },
+  "90": {
+   "en": "Horusians are extremists for their cause but refrain from openly displaying their fanaticism unless pushed to the edge. Long-lived Horusians are masters of self-control.",
+   "ru": ""
+  },
+  "98": {
+   "en": "They know their beliefs are heretical in the eyes of the Imperium. To survive, they must maintain levels of subterfuge that can rebuff the Inquisition itself. They would not suffer a breach in their security from anyone, especially their acolytes.",
+   "ru": ""
+  },
+  "106": {
+   "en": "Horusians constantly test the loyalties of their acolytes, putting them into situations to show their trustworthiness. They are only brought into the Inquisitor’s retinue when they prove utterly loyal or enthusiastically believe in the Horusian philosophy.",
+   "ru": ""
+  },
+  "114": {
+   "en": "The powers of the Warp should never be viewed as a fast route to success, but this is precisely what Horusians are doing. They are constantly battling with temptation.",
+   "ru": ""
+  },
+  "124": {
+   "en": "A new host",
+   "ru": ""
+  },
+  "128": {
+   "en": "The party’s Patron has discovered a heretical cult on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.JbRBjmzRfWtxIo40]{Leonova}, who appear close to creating a @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.M6XWkYc0lfuKl2hU]{daemonhost}. The party has been tasked with infiltrating the cult and ensuring their plans come to fruition but do not spill out of control. Afterwards, purge the cult, retrieve the daemonhost, and work with a local smuggling cartel to deliver it to a secure location.",
+   "ru": ""
+  },
+  "132": {
+   "en": "Watchful eyes",
+   "ru": ""
+  },
+  "136": {
+   "en": "The party’s Patron believes another Inquisitor’s agents are watching them for signs of heresy. The party must uncover these spies and find a suitable way to dispose of them — either prove to the spies that the Inquisitor is above board or find a way to dispose of them that will not raise further suspicions from their Inquisitor.",
+   "ru": ""
+  }
+ }
+}

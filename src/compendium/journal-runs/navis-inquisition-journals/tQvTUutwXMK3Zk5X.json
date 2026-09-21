@@ -1,0 +1,113 @@
+{
+ "journal": "SJPyRkdBEOCtmD8R",
+ "journalName": "Sector Threats",
+ "page": "tQvTUutwXMK3Zk5X",
+ "pageName": "Momas The Murmurer",
+ "name": "",
+ "runs": {
+  "6": {
+   "en": "Momas the Murmurer",
+   "ru": ""
+  },
+  "16": {
+   "en": "You can hand me that parcel, or I can reach into your mind and make the hands holding the parcel my own. Either way, I leave here with what I want.",
+   "ru": ""
+  },
+  "24": {
+   "en": "Threat Overview",
+   "ru": ""
+  },
+  "32": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.iuJElT9PKfrFYQTp]{Momas the Murmurer} is a mysterious psychic entity that coerces and influences individuals throughout the sector for its own mysterious ends.",
+   "ru": ""
+  },
+  "40": {
+   "en": "In truth, this psychic monster is a rogue psyker named ",
+   "ru": ""
+  },
+  "42": {
+   "en": "Balen Kho",
+   "ru": ""
+  },
+  "44": {
+   "en": ", his powers amplified by a powerful machine built during the Macharian Heresy.",
+   "ru": ""
+  },
+  "52": {
+   "en": "Kho’s will is no longer entirely his own, and for reasons he no longer fully understands, he seeks to build a network of influence across the sector, shuttling odd components and construction materials to the world on which the machine is based.",
+   "ru": ""
+  },
+  "62": {
+   "en": "Note",
+   "ru": ""
+  },
+  "64": {
+   "en": ": The Emanation Engine’s underground facility can be located on any relatively populated world in the Macharian Sector. The Inquisitor, Kho’s nemesis, could be any operating in the Macharian Sector or the characters' Patron.",
+   "ru": ""
+  },
+  "70": {
+   "en": "For decades now, a whispered fear has passed among citizens on worlds across the Macharian Sector — that of @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.iuJElT9PKfrFYQTp]{Momas the Murmurer}. Though details vary, the rumours concern an entity that can possess anyone anywhere at any time, commandeering their bodies like puppets before vacating without a trace. None are sure of its exact nature — or if it is anything more than a myth. Some believe the Murmurer to be a xenos bent on disrupting the sector. Others suspect it may be the work of a heretic cult with access to an astropathic choir. Those aware of the Empyrean fear it could be a daemon reaching across the veil to meddle in realspace.",
+   "ru": ""
+  },
+  "74": {
+   "en": "The Murmurer is — at least in part — a rogue pysker, a Human telepath named Balen Kho. Though powerful in his own right, Kho’s powers are amplified and extended through his link to a device called the Emanation Engine, located deep below the surface of a forge world. Xenarite Tech-Priests, now all long dead, built this machine in league with a Radical @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-hereticus]{Ordo Hereticus} Inquisitor during the Macharian Crusade, using blasphemous technology and forbidden lore. Its original intent was to amplify a psyker’s powers, allowing them to spy upon the Imperium’s populace from a great distance without traditional surveillance devices.",
+   "ru": ""
+  },
+  "78": {
+   "en": "Ultimately, the Emanation Engine exceeded expectations, allowing psykers to not only extend their psyniscience throughout the sector, but also project their powers and potentially @UUID[Compendium.navis-apexialis.navis-core-items.Item.FlK5TFyjJNmgnExw]{dominate} the minds they sought to observe. In a rare moment of insight, the Xenarites recognised their creation was too dangerous, especially in the hands of a Radical Inquisitor. They clashed with the Inquisitor’s forces and ultimately succeeded, leaving the Emanation Engine abandoned and buried deep below the planet’s crust.",
+   "ru": ""
+  },
+  "82": {
+   "en": "Kho discovered the machine, he believes, quite by accident. Little more than a manufactorum overseer troubled by occasional flashes of psychic insight, one particularly vivid vision led him through the deep tunnels beneath the forge world. He seemed to already know the path, the long-forgotten binharic access codes for bulkhead doors coming unbidden to his lips. Deep below the planet’s crust, Kho found an empty seat amidst conduits thrumming with energy. Drawn by his visions, Kho stepped within and opened his mind to the arcane machine. It amplified his powers immensely, allowing him from that moment to reach across interstellar distances to tamper with minds throughout the sector.",
+   "ru": ""
+  },
+  "86": {
+   "en": "The power the device granted Kho was intoxicating. He began by taking petty revenge on those who had troubled him — a strict supervisor, a rival overseer, a wayward friend — but was quickly intoxicated by the power he now held. It was not absolute — strong minds could still resist him, other psykers could sense his presence, and he could hold only the weakest minds in thrall for any substantial length of time — but nevertheless, he has become extremely formidable. His ambitions have grown, and indeed are no longer entirely his own.",
+   "ru": ""
+  },
+  "90": {
+   "en": "The strange phenomena of unusual behaviour and periods of amnesia — all signs of Kho’s possession of an individual — have given rise to the myth of @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.iuJElT9PKfrFYQTp]{Momas the Murmurer}, due to the mutterings his victims are prone to. These soft utterances are Kho’s own thoughts, bleeding through to his victim's mind. Oddly, if listened to carefully, the words spoken are almost entirely pleas for help — or death.",
+   "ru": ""
+  },
+  "94": {
+   "en": "Resources",
+   "ru": ""
+  },
+  "98": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.iuJElT9PKfrFYQTp]{The Murmurer} has manipulated the Macharian Sector for decades, building a vast network of informants, minions, and accomplices. Though this power base has no formal structure, virtually every faction and organisation within the sector has at least a few members at various levels working for the Murmurer. Even without his psychic panoply, the Murmurer’s vast reach and access allow him and his representatives to use conventional motivators like bribes, blackmail, and threats to compel people into serving the cause. Through this network, the Murmurer can access virtually any resource or information. Should the need arise, the Murmurer can possess any of these agents at any time, their minds made especially pliant by careful psychic preparations.",
+   "ru": ""
+  },
+  "102": {
+   "en": "Methods",
+   "ru": ""
+  },
+  "106": {
+   "en": "Though @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.iuJElT9PKfrFYQTp]{the Murmurer} wields incredible power, his will remains singular and can only direct his attention to one subject at a time. He is in no way omnipotent. He focuses on overseeing crucial activities, leaving the day-to-day operations of his shadow empire to his subordinates.",
+   "ru": ""
+  },
+  "110": {
+   "en": "When dealing with situations directly, @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.iuJElT9PKfrFYQTp]{the Murmurer} operates almost exclusively through dominated proxies, hijacking their bodies to physically interact, abandoning them once they no longer serve his purposes. Enamoured with the Murmurer persona’s ephemeral nature, Kho loves to boast. He taunts witnesses through his proxies, informing them they have been graced by his presence, reminding them that anyone they meet could be him, sometimes dominating a series of bystanders to speak a single sentence just to prove the point.",
+   "ru": ""
+  },
+  "114": {
+   "en": "Secrets",
+   "ru": ""
+  },
+  "118": {
+   "en": "If one were to ask Kho his motivations, he would struggle to explain them. Sometimes, he believes he is seeking revenge, at other times, he is protecting himself or improving the Imperium in some way. All that is certain is that he is gathering power and influence for some purpose, his proxies occupying roles across the sector.",
+   "ru": ""
+  },
+  "122": {
+   "en": "In fact, Kho’s own will was long ago subsumed by the machine itself. Not unlike his dominated victims, Kho’s personality is now little more than a mask worn by the machine. The Xenarite Tech-Priests who built it made extensive use of xenos technology salvaged from a dead and airless world graced by crumbling ruins and little else, in orbit around a star whose heat was spent long ago. In doing so, they awoke an alien will within the machine. This entity has but one purpose — to return to the blessed silence it once knew, and it is using Kho to achieve this goal.",
+   "ru": ""
+  },
+  "126": {
+   "en": "Slowly but surely, it has used Kho's resources to expand its form. Even now, on the forge world above, labourers build devices based on schematics no Human mind could conceive of, connecting them to the Emanation Engine below, thinking all their work is approved by the Forge Lord, for indeed he has at times graced their presence and said as much — even if he does not recall doing so. If the device is finished, it will allow Kho to reach into every mind in the sector at once and, though he will not understand why he wishes to do so, snuff them out.",
+   "ru": ""
+  },
+  "130": {
+   "en": "Within the Engine, much of Kho has long rotted away, as the machine had little need for anything other than his mind. From time to time, Kho will consider leaving the machine, only to find the thought unaccountably uncomfortable. @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.iuJElT9PKfrFYQTp]{The Murmurer} requires Kho’s psychic ability to function, and until it is done with him, he will not be allowed to die.",
+   "ru": ""
+  }
+ }
+}

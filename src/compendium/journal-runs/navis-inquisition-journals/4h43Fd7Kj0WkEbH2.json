@@ -1,0 +1,193 @@
+{
+ "journal": "nePFHZRojb7rqIn7",
+ "journalName": "Open Case Files",
+ "page": "4h43Fd7Kj0WkEbH2",
+ "pageName": "Lost in Transit",
+ "name": "",
+ "runs": {
+  "2": {
+   "en": "Captain Barik Thale, a recently promoted @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.HlxK2pbpx2Uio6bU]{Imperial Fleet} officer, was found dead within a cargo container in a storage area of the hive’s voidport during a routine inspection of the world’s tithe. A lone corpse — even that of a fleet officer — rarely elicits much response in @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf]{Hive Rokarth}. However, as his weight had been included in that day’s accounting of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.59y8WFXTbwKRwiRI]{Voll’s} tithe, a potential violation was flagged, and the @UUID[Compendium.impmal-starter-set.actors.Actor.O49jTi2TzoFQH5GT]{Macharian Vigilites} were obliged to investigate. This was expected to be perfunctory, as all involved wished to see the matter swiftly resolved and shipments resume, but a weapon of xenos origin was found on Captain Thale’s corpse. With all eyes on the hive’s governor, and the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Administratum} beginning to rack up punitive additions to Voll’s tithe, the Inquisition were at last called upon.",
+   "ru": ""
+  },
+  "6": {
+   "en": "This Case File works best set in a populated hive city; it features much travel between hive levels and a cast of characters from across a hive’s societal classes.",
+   "ru": ""
+  },
+  "10": {
+   "en": "Hook",
+   "ru": ""
+  },
+  "20": {
+   "en": "The characters arrive to find the offending cargo container guarded by Vigilite Emilia Tark, a handful of irate @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Administratum} clerks, and Maul Berisk, a representative of the ruling @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#castyx]{House Castyx}. Vigilite Tark is dour-faced and overworked and simply wants to hand over this politically fraught investigation as soon as possible. Berisk is present to greet the agents and direct them to conclude their investigation as quickly as possible. The Administratum clerks simply wish to finish processing their now staggering amount of paperwork.",
+   "ru": ""
+  },
+  "24": {
+   "en": "Response",
+   "ru": ""
+  },
+  "28": {
+   "en": "Inside the container is Thale’s body, nestled among a collection of medicae supplies destined for delivery to the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum’s} frontline. Of significance is the rather large hole in one plasteel wall of the container, which Tark is reluctant to admit is the result of one of her officers accidentally discharging the gun. The weapon itself, a squat-looking pistol of robust design, lies where it was dropped next to Thale’s body.",
+   "ru": ""
+  },
+  "32": {
+   "en": "Any character with even a single Advance in ",
+   "ru": ""
+  },
+  "34": {
+   "en": "Ranged",
+   "ru": ""
+  },
+  "36": {
+   "en": " can tell that this is no mere las weapon. Anyone making a ",
+   "ru": ""
+  },
+  "38": {
+   "en": "Difficult (−10) Tech (Engineering)",
+   "ru": ""
+  },
+  "40": {
+   "en": " Test can identify the weapon as some kind of ion blaster, used by certain xenos species, most notably the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#tau-empire]{T'au} or @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#the-leagues-of-votann]{Leagues of Votann}.",
+   "ru": ""
+  },
+  "44": {
+   "en": "Inspection of the corpse reveals it is several days old, though much of this was spent awaiting the characters' arrival, which Tark or Berisk can both confirm. Further inspection reveals that he is missing medals on his uniform from his recent promotion, but a hefty pouch packed with solars has been left behind — if this was a robbery, it was poorly executed, which anyone with an @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionist} background or who makes a successful ",
+   "ru": ""
+  },
+  "46": {
+   "en": "Routine (+20) Logic (Investigation)",
+   "ru": ""
+  },
+  "48": {
+   "en": " Test can easily tell.",
+   "ru": ""
+  },
+  "54": {
+   "en": "Ion Pistol",
+   "ru": ""
+  },
+  "58": {
+   "en": "A pistol designed by the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#the-leagues-of-votann]{Leagues of Votann}, the Ion Pistol and its larger variant, the Ion Blaster, are advanced weapons, utilising technology proscribed by the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus}. It bears markings that a successful ",
+   "ru": ""
+  },
+  "60": {
+   "en": "Difficult (−10) Lore (Xenos)",
+   "ru": ""
+  },
+  "62": {
+   "en": " Test can identify as belonging to the Leagues of Votann. They mark the weapon as having come from the forge of someone named Theyn Hyvor.",
+   "ru": ""
+  },
+  "68": {
+   "en": "Ion Pistol",
+   "ru": ""
+  },
+  "72": {
+   "en": "Ranged",
+   "ru": ""
+  },
+  "74": {
+   "en": " (Pistol), 7 + SL Damage, Medium Range. ",
+   "ru": ""
+  },
+  "76": {
+   "en": "Rend (2), Supercharge (4)",
+   "ru": ""
+  },
+  "84": {
+   "en": "In fact, this was a deliberate execution perpetrated by the person who sold the weapon to Thale, who was concerned he was being a little too indiscreet with it. The killer would have retrieved the weapon if they had the time but were interrupted while attempting to stage a common mugging and dumped Thale’s body in the cargo crate. Anyone examining the body can tell Thale was shot cleanly with a las weapon. The shot was administered from above. A ",
+   "ru": ""
+  },
+  "86": {
+   "en": "Challenging (+0) Logic (Investigation)",
+   "ru": ""
+  },
+  "88": {
+   "en": " Test reveals this is a likely sign that Thale was kneeling at the time.",
+   "ru": ""
+  },
+  "92": {
+   "en": "The port’s security logs indicate there were no unauthorised entries to the port around the time of the murder, but a high-level override code with @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#castyx]{House Castyx} designation was used around this time. This is not unusual, and Berisk will be outraged at any suggestion of his house’s involvement.",
+   "ru": ""
+  },
+  "96": {
+   "en": "He can (truthfully) explain that the code cannot be traced to any individual but could have been accessed by any ranking member of his house or its client dynasties — far too many people to investigate practically.",
+   "ru": ""
+  },
+  "100": {
+   "en": "Beneath the Hive",
+   "ru": ""
+  },
+  "104": {
+   "en": "Their Vigilite contact suggests that a weapons dealer named Hector Crug may prove useful. She grudgingly admits that the Vigilites are unlikely to get any information from the man, given his distrust of them.",
+   "ru": ""
+  },
+  "108": {
+   "en": "Crug’s store is a small rockcrete shack with a broken, gaudy sign backlit by flickering lumens at annoying, unpredictable intervals. Crug is reluctant to help but can be convinced to talk with a payment of one-thousand solars, or a favour that probably involves having someone killed or a credible threat of violence.",
+   "ru": ""
+  },
+  "112": {
+   "en": "When Crug agrees to tell the characters what he knows, he retreats to a small back room to recover his records. After a sudden shout, he returns surrounded by three squat, well-armed, armoured figures holding Crug at gunpoint, demanding to know the characters’ interest is in the weapon. Their own weapons are strikingly similar to the one found near Thale’s body, and they speak Low Gothic in a thick but unplaceable accent. Characters can make a ",
+   "ru": ""
+  },
+  "114": {
+   "en": "Difficult (−10) Lore (Xenos)",
+   "ru": ""
+  },
+  "116": {
+   "en": " Test to realise these people are no mere abhuman Squats, but xenos Kin of the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#the-leagues-of-votann]{Leagues of Votann}.",
+   "ru": ""
+  },
+  "120": {
+   "en": "Their leader, Theyn Hyvor, demands the characters surrender the ion weapon if they have it. Characters can make a ",
+   "ru": ""
+  },
+  "122": {
+   "en": "Difficult (−10) Presence (Leadership)",
+   "ru": ""
+  },
+  "124": {
+   "en": " or ",
+   "ru": ""
+  },
+  "126": {
+   "en": "Rapport (Charm)",
+   "ru": ""
+  },
+  "128": {
+   "en": " Test to diffuse the situation, becoming ",
+   "ru": ""
+  },
+  "130": {
+   "en": "Routine (+20)",
+   "ru": ""
+  },
+  "132": {
+   "en": " if they return the weapon. Hyvor can explain that he has been tracing several weapons and pieces of technology stolen from his people by raiders (including an Ironkin’s cerebral unit, though he will not be forthcoming with this information). Hyvor insists his people did not kill Thale but merely want the weapons back or a fair trade for them.",
+   "ru": ""
+  },
+  "136": {
+   "en": "Seeing the opportunity to save his skin, Crug finally spills what he knows. The weapons were recently sold by one @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.2TukBjlkS5RG5Qka.JournalEntryPage.oCoWi7HnppfXcryy]{Celestina Visconti}, a socialite with extensive contacts among the nobility. Visconti is a minor client of House Castyx, which is how Celestina accessed the port and eliminated Thale. She is a key lynchpin in the Silent Trade, the illegal black market for xenos technology in the Macharian Sector. If Crug dies, this information can be recovered from a dataslate on his person.",
+   "ru": ""
+  },
+  "140": {
+   "en": "The Kin will agree to let the characters handle things if they promise, truthfully or not, to return any weapons and tech that remain with Celestina. She can be found in a lavish (for Rokarth) suite of apartments. Celestina is a graceful socialite with an ease of speech that catches many off guard, but she keeps one of the ion pistols nearby should she need it.",
+   "ru": ""
+  },
+  "144": {
+   "en": "If the characters reveal they are Inquisitorial agents or threaten violence, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.2TukBjlkS5RG5Qka.JournalEntryPage.oCoWi7HnppfXcryy]{Celestina} will offer a deal, trading her safety for what she knows about the Silent Trade and especially the Rogue Trader @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.SJPyRkdBEOCtmD8R.JournalEntryPage.AsvUSCAPODzDNPr6]{Xandro Cosmar}, from whom she acquired the weapons and related tech. Otherwise, this information is available in a dataslate of blackmail information she has retained as insurance. Celestina explains that she had Thale killed after he waved his newly purchased weapon around several Macharian Vigilites, whom she had to pay off. She was afraid the weapon would lead back to her, which, evidently, it has.",
+   "ru": ""
+  },
+  "148": {
+   "en": "While occupying the characters with this story, Celestina has had her bodyguards — a trio of former Vigilites lured into her employ by her wealth — into a position to ambush the characters. If they do not cut a deal with Celestina for her continued freedom, she silently orders them to attack and lunges for her own hidden weapon. Use the Astra Miliatrum @UUID[Compendium.navis-apexialis.navis-core-items.Item.060QdCc5DdlQwdhI]{Trooper} statblock to represent Celestina’s bodyguards. The remaining weapons and tech can be recovered from a locked storage area hidden beneath Celestina’s quarters.",
+   "ru": ""
+  },
+  "152": {
+   "en": "Resolution",
+   "ru": ""
+  },
+  "156": {
+   "en": "Removing @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.9kYI2Oshwn0wqWUo]{Celestina} will be a blow to the Silent Trade on @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf]{Rokarth}, though she might also make a useful Contact. Resolving issues with the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#the-leagues-of-votann]{Votann} peacefully grants the characters' Patron the @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.S56anxusJpE26v03]{Arms of the Alien} Boon . Consider carefully how their Patron might feel about this — Radical Patrons will be more open to cutting a deal with the xenos. In addition to standard XP and solar rewards, the characters' Influence with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.cvpsLwcsXf4myIpK]{Adeptus Administratum} increases by 1, as does their Patron’s.",
+   "ru": ""
+  }
+ }
+}

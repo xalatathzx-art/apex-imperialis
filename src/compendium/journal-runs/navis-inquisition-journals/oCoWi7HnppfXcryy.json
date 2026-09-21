@@ -1,0 +1,69 @@
+{
+ "journal": "2TukBjlkS5RG5Qka",
+ "journalName": "Inquisition Contacts",
+ "page": "oCoWi7HnppfXcryy",
+ "pageName": "Celestina Visconti, Socialite",
+ "name": "",
+ "runs": {
+  "6": {
+   "en": "Celestina Visconti, Socialite",
+   "ru": ""
+  },
+  "16": {
+   "en": "Fine work, wouldn’t you say? Such graceful lines and splendid angles on a sculpture meant to show the God-Emperor at His most human... no wonder the sculptor who made it turned out to be a daemon-worshipping heretic. Now, did I ever mention to you that this was just the first one in a matched set of three?",
+   "ru": ""
+  },
+  "28": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.9kYI2Oshwn0wqWUo]{Celestina Visconti} is the assumed name of a Highborn socialite who has a taste for the arts. She is famous for her wit, charm, and beauty and is a constant presence in high society. With her luminary status among the wealthy and the elite, few suspect she is a Progena, a graduate of a @UUID[Compendium.navis-apexialis.navis-core-items.Item.7E0Gkel1gSaxTgVu]{Schola Progenium}. Her noble title is a fabrication — instead, she has been specially trained to serve as the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.HURMpEU0Nnc93Ocv]{Adeptus Ministorum’s} eyes and ears among the gilded halls of hive city nobility.",
+   "ru": ""
+  },
+  "32": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.9kYI2Oshwn0wqWUo]{Celestina }is a petite lady who has been the beneficiary of countless cosmetic and rejuvenat procedures intended to keep her appearance youthful. Her face is stretched and fastened by various hooks while gilded tubes and wires snake through a gap between her face and the rest of her visage. Most notable, however, is that her face moves like an animatronic puppet as her eyebrows, lips, and chin shift until they form her intended expression — a process that lags a second or two longer than it naturally would.",
+   "ru": ""
+  },
+  "36": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.9kYI2Oshwn0wqWUo]{Celestina }is never without @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.Y6oJff3F4qo2Xhlx]{Modesta}, her assistant servoskull. Modesta’s chassis was made from the skull of a former peer, one who Celestina had to kill to ensure her graduation. It is covered in brass shell casings beaten flat, punctuated with a dagger embedded in Modesta’s forehead. The glass eye of the blade’s former wielder, a heretic who discovered Celestina’s true allegiance, sits in one of Modesta’s eye sockets, a steadfast reminder to her that she is always being watched.",
+   "ru": ""
+  },
+  "40": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.9kYI2Oshwn0wqWUo]{Celestina }revels in the lifestyle afforded by her role as a covert operative among the Imperium’s upper class. Given years to cultivate her assumed identity, Celestina can grant favoured characters access to exclusive hive spire locations to assist their investigations. Yet despite the love for her lifestyle, Celestina knows she must constantly prove her worth as a spy to the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.HURMpEU0Nnc93Ocv]{Adeptus Ministorum}. As such, she is not above planting evidence to throw a scapegoat or two at her handlers to remain in their good graces.",
+   "ru": ""
+  },
+  "44": {
+   "en": "The blade sheathed in @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.Y6oJff3F4qo2Xhlx]{Modesta}'s forehead is a Knife with the ",
+   "ru": ""
+  },
+  "46": {
+   "en": "Inflict (Poisoned)",
+   "ru": ""
+  },
+  "48": {
+   "en": " Trait and @UUID[Compendium.navis-apexialis.navis-core-items.Item.rD6BtFSjpfupZss1]{Mono-edge} Modification. It can only be drawn by Celestina’s hand or with her permission.",
+   "ru": ""
+  },
+  "52": {
+   "en": "Requests",
+   "ru": ""
+  },
+  "60": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.9kYI2Oshwn0wqWUo]{Celestina's} charms have attracted the wrong kind of attention… again. She discreetly tells the characters to convince a rather aggressive suitor from a notable @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#rogue-traders-of-note]{Rogue Trader Dynasty} to leave her well alone.",
+   "ru": ""
+  },
+  "68": {
+   "en": "A local @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.cvpsLwcsXf4myIpK]{Adeptus Administratum} official is threatening @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.9kYI2Oshwn0wqWUo]{Celestina}'s cover. Their audit of the various nobility in the hive city means they will be able to trace her funding back to a dark corner of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Ministorum} and, thereby, her patron. She requests the characters dig up something she can use as blackmail on the official so that she can counter his audit with some dirt of her own.",
+   "ru": ""
+  },
+  "76": {
+   "en": "Rewards",
+   "ru": ""
+  },
+  "84": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.9kYI2Oshwn0wqWUo]{Celestina's} word is enough to open a host of doors in exclusive locations and the homes of the elite in the hive city. As long as the players keep up appearances as part of her entourage, she can drag them to almost any social function.",
+   "ru": ""
+  },
+  "92": {
+   "en": "As an agent of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.HURMpEU0Nnc93Ocv]{Adeptus Ministorum}, @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.9kYI2Oshwn0wqWUo]{Celestina} can pass on information to her handlers at the top of the Ministorum hierarchy and vice versa. Beneficial, if the players require Ministorum support at a moment’s notice.",
+   "ru": ""
+  }
+ }
+}

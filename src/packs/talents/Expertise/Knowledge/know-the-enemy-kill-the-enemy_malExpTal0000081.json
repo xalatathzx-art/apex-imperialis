@@ -2,7 +2,7 @@
   "name": "Know the Enemy; Kill the Enemy",
   "type": "talent",
   "_id": "malExpTal0000081",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">1/Encounter: choose enemy type, test appropriate Forbidden Lore -20 check. On success for SL turns: allies may re-roll one missed attack per turn against type</span></p><hr><p><span style=\"font-family: Arial\"><em>Once per encounter, you may use this talent and choose a type of enemy (Orks, Eldar, Heretics, or anyother that is deemed appropriate by your GM) and make a Hard (-20) Lore (Forbidden) Test specializing in that foe (i.e. Lore (Forbidden – Orks)) If successful, any ally within communication range may re-roll one missed attack per Round against the chosen enemy for a number of Rounds equal to the Success Levels on the test.</em></span></p>",

@@ -3,7 +3,7 @@
   "name": "XV8 Crisis Battlesuit",
   "type": "npc",
   "_id": "zhCTTr10tJZBAiKs",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Battlesuit Jump Pack",
       "type": "trait",
       "_id": "GEs1yDHeEPhXMBGv",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "For the Greater Good",
       "type": "trait",
       "_id": "bqCcj0Vf9gobzdkp",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Burst Cannon",
       "type": "weapon",
       "_id": "nqYREz1KOFp1VhQS",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -440,7 +440,7 @@
       "name": "Missile Pods w/ Frag Missiles",
       "type": "weapon",
       "_id": "vK4UMHuPBZF3Jr6W",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -516,7 +516,7 @@
       "name": "Plasma Rifle",
       "type": "weapon",
       "_id": "vYeMQhRHPulBHd54",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -594,7 +594,7 @@
       "name": "Leadership",
       "type": "specialisation",
       "_id": "Ou9LC94zGeUMnySS",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -623,7 +623,7 @@
       "name": "Ordnance",
       "type": "specialisation",
       "_id": "YQzrTh03jZmp4WiL",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

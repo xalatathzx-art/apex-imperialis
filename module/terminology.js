@@ -59,12 +59,20 @@ export function registerTerminology() {
   rawConfig = foundry.utils.deepClone(game.impmal?.config ?? {});
   rawStatusEffects = foundry.utils.deepClone(CONFIG.statusEffects ?? []);
 
-  Hooks.once("i18nInit", applyBookTerminology);
+  Hooks.once("i18nInit", () => {
+    // The language question is asked here rather than beside the other two
+    // conditions, because `init` does not yet know the answer: `game.i18n.lang`
+    // holds the server's default until Foundry loads the client's choice, which
+    // it does between `init` and `i18nInit`. Asking early reads "en" on an
+    // English-default server and drops the book's vocabulary for everyone.
+    if (game.i18n.lang !== "ru") return;
+
+    applyBookTerminology();
+  });
 }
 
-/** Only when Russian is on, the setting is on, and something else is competing. */
+/** Only when the setting is on and another Russian translation is competing. */
 function shouldOverride() {
-  if (game.i18n.lang !== "ru") return false;
   if (!game.settings.get(MODULE_ID, SETTING)) return false;
 
   return game.modules.some(

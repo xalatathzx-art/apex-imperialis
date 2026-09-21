@@ -2,7 +2,7 @@
   "name": "Фрейм Эксплоратор",
   "type": "navis-apexialis.implant",
   "_id": "navisImp00000111",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00007",
   "sort": 11100,
   "system": {

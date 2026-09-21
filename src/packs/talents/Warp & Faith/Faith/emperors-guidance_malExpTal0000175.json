@@ -2,7 +2,7 @@
   "name": "Emperor's Guidance",
   "type": "talent",
   "_id": "malExpTal0000175",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Anytime-Free action: spend FP to increase Penetrating+2 until end of next turn</span></p><hr><p><span style=\"font-family: Arial\"><em>As an any-time Free Action, you may spend a Fate Point to increase the quality of the Penetrating Trait of your weapon by +2 until the end of your next turn. </em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "Faithful (Imperial Cult) Talent, 1 Advance in Ranged",
-      "script": "return this.actor.system.skills.ranged.advances >= 1 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful(Imperial Cult)\")"
+      "script": "return this.actor.system.skills.ranged.advances >= 1 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful (imperial Cult)\")"
     },
     "test": {
       "difficulty": "challenging",

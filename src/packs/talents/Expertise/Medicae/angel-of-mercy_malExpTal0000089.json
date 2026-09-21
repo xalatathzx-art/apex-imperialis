@@ -2,7 +2,7 @@
   "name": "Angel of Mercy",
   "type": "talent",
   "_id": "malExpTal0000089",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">+1SL to determine healed wounds. May split number of healed wounds between multiple characters</span></p><hr><p><span style=\"font-family: Arial\"><em>You are unyielding in rendering medical assistance to as many as you can, never resting when there is work to be done. Add +1SL to your Medicae Tests when determining how many wounds you can heal.Additionally, you may split the number of wounds you heal between multiple characters</em></span></p>",

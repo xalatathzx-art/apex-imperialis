@@ -2,7 +2,7 @@
   "name": "Flash of Insight",
   "type": "talent",
   "_id": "malExpTal0000072",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Spend FP to reveal a clue or lead to progress investigation</span></p><hr><p><span style=\"font-family: Arial\"><em>When stuck in an investigation, you may spend one Fate Point to reveal a single clue or lead to aid in the progression of your efforts. </em></span></p>",

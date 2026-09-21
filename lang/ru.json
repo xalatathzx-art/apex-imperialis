@@ -1,4 +1,5 @@
 {
+  "IMPMAL.FactionDepartmentoMunitorum": "Департаменто Муниторум",
   "TYPES.Actor.character": "Персонаж игрока",
   "TYPES.Actor.npc": "Неигровой персонаж",
   "TYPES.Actor.patron": "Покровитель",
@@ -831,6 +832,9 @@
             "characterisics": {
               "base": {
                 "label": "Характеристика"
+              },
+              "value": {
+                "label": "Значение"
               }
             }
           }
@@ -1109,7 +1113,6 @@
   "IMPMAL.FactionOrdoXenos": "Инквизиция (Ордо Ксенос)",
   "IMPMAL.FactionOrdoMalleus": "Инквизиция (Ордо Маллеус)",
   "IMPMAL.FactionOrdoHereticus": "Инквизиция (Ордо Еретикус)",
-  "IMPMAL.FactionDepartmentoMunitorum": "Департаменто Муниторум",
   "IMPMAL.FactionAndOrdo": "Служба и ордо",
   "IMPMAL.Crossbow": "Арбалетное",
   "IMPMAL.Graviton": "Гравитонное",
@@ -1121,7 +1124,6 @@
   "IMPMAL.Daemonbane": "Демоноборческое",
   "IMPMAL.Null": "Нулевое",
   "IMPMAL.Tainted": "Осквернённое",
-  "TYPES.Actor.impmal-inquisition.familiar": "Фамильяр",
   "IMPMAL.Subtlety": "Незаметность",
   "IMPMAL.Philosophy": "Философия",
   "IMPMAL.Instincts": "Инстинкты",
@@ -1149,6 +1151,15 @@
       "coward": "Пытается отступить, если ему угрожают или он потерял хотя бы одну рану."
     }
   },
+  "TYPES.Actor.familiar": "Фамильяр",
+  "IMPMAL.CharacteristicChoices": "Выбор характеристик",
+  "IMPMAL.FlyerHovercraft": "Летающий (на воздушной подушке)",
+  "IMPMAL.Group": "Группа",
+  "IMPMAL.GroupSelectionTooltip": "Группировка: каждая строка — отдельный вариант выбора. Чтобы объединить варианты, дайте им одинаковое значение группы.",
+  "IMPMAL.Overwatch": "Наготове",
+  "IMPMAL.Spec": "Спец.",
+  "IMPMAL.TriggerComputeDamage": "Расчёт урона",
+  "IMPMAL.TriggerTargeted": "При выборе целью",
   "NAVIS.Species.Type": "Вид",
   "NAVIS.Species.SubType": "Подвид",
   "NAVIS.Species.Sheet": "Лист вида",
@@ -1463,6 +1474,8 @@
   "NAVIS.Techno.AttackMelee": "Ближняя",
   "NAVIS.Techno.OpposedDodge": "Уклонение должно сравняться по КУ",
   "NAVIS.Techno.RelaunchNeeded": "Navis Apexialis: тип предмета «Техночудо» не зарегистрирован в этом мире. Вернитесь в Setup и запустите мир заново — включение модуля посреди сессии не добавляет его типов документов.",
+  "NAVIS.Sheet.PreservationShort": "Сохранение",
+  "NAVIS.Sheet.CombatShort": "Бой",
   "NAVIS.Implant.Type": "Имплант",
   "NAVIS.Implant.Sheet": "Лист импланта",
   "NAVIS.Implant.Quality": "Уровень",
@@ -1612,5 +1625,8 @@
   "NAVIS.Implant.Mechanics.Summary.WeaponTrait": "Оружие: {trait}",
   "NAVIS.Implant.Mechanics.Summary.Immunity": "Иммунитет: {condition}",
   "NAVIS.Implant.Mechanics.Summary.Mount": "Гнездо: {name}",
-  "NAVIS.Implant.Mechanics.Summary.MountEmpty": "пусто"
+  "NAVIS.Implant.Mechanics.Summary.MountEmpty": "пусто",
+  "NAVIS.SkillSearch.Label": "Поиск навыка или специализации",
+  "NAVIS.SkillSearch.Placeholder": "Найти навык или специализацию",
+  "TYPES.Actor.impmal-inquisition.familiar": "Фамильяр"
 }

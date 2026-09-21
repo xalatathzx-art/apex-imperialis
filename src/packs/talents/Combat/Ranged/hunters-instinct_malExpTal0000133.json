@@ -2,7 +2,7 @@
   "name": "Hunter's Instinct",
   "type": "talent",
   "_id": "malExpTal0000133",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Ranged attacks against enemies out of Cover: +1 damage</span></p><hr><p><span style=\"font-family: Arial\"><em>Far too frequently, Imperial Forces find themselves facing off against brutishly large enemies, or targets so huge and tough that the idea of taking cover is laughable. In such cases, a calm eye for weak points can do surprising damage. Your ranged attacks against enemies not in cover deal 1 extra damage.</em></span></p>",

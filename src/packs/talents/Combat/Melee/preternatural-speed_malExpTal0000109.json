@@ -2,7 +2,7 @@
   "name": "Preternatural Speed",
   "type": "talent",
   "_id": "malExpTal0000109",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Charge (up to) an additional zone further than normal.</span></p><hr><p><span style=\"font-family: Arial\"><em>When making a Charge Action, you may move an additional zone than usual.</em></span></p>",

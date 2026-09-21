@@ -2,7 +2,7 @@
   "name": "Anophobic",
   "type": "talent",
   "_id": "malExpTal0000204",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Can re-roll tests to resist Frightened</span></p><hr><p><span style=\"font-family: Arial\"><em>Your time on Terra changed your persona forever. Whatever the cause, psykers like you are left viewing the galaxy differently from the common man. After the sanctioning ritual, what fear can come close to that experience? You can re-roll tests to resist the Frightened Condition. </em></span></p>",

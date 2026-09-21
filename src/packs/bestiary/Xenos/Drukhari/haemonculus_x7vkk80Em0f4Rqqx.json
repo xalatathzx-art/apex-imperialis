@@ -3,7 +3,7 @@
   "name": "Haemonculus",
   "type": "npc",
   "_id": "x7vkk80Em0f4Rqqx",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Clone Field",
       "type": "trait",
       "_id": "yDDtGjX5XGhGbmut",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Haemonculus Secrets",
       "type": "trait",
       "_id": "Eqh7d5M0owgENZCD",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Power from Pain",
       "type": "trait",
       "_id": "kN9RXoZ4VJe1NBvP",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -426,7 +426,7 @@
       "name": "Stinger Pistol",
       "type": "weapon",
       "_id": "vebC9SzDDpNJJHrb",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -507,7 +507,7 @@
       "name": "Scissorhands",
       "type": "weapon",
       "_id": "tyOJyDcoo86LuYUE",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -582,7 +582,7 @@
       "name": "Pain",
       "type": "specialisation",
       "_id": "tCMpGj63Acu30whO",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -611,7 +611,7 @@
       "name": "Forbidden",
       "type": "specialisation",
       "_id": "syVydMQm3LI9jq9T",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -640,7 +640,7 @@
       "name": "Forbidden",
       "type": "specialisation",
       "_id": "i4vJtfBXzcPB2dZk",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -669,7 +669,7 @@
       "name": "Intimidation",
       "type": "specialisation",
       "_id": "jWbeJcOrNu6xHt92",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -698,7 +698,7 @@
       "name": "Interrogation",
       "type": "specialisation",
       "_id": "k4RXj1hI1p2ykPGv",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -727,7 +727,7 @@
       "name": "Deception",
       "type": "specialisation",
       "_id": "kAfPMriJQidiGZ5Q",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -756,7 +756,7 @@
       "name": "Augmetics",
       "type": "specialisation",
       "_id": "GE1p92X8YZVfgz1A",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

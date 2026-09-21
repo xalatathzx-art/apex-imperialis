@@ -1,0 +1,437 @@
+{
+ "journal": "uzQAAUFfkNu8TZOi",
+ "journalName": "Radical Methods",
+ "page": "yMUESh1wlAuqgNSp",
+ "pageName": "Possession & Exorcism",
+ "name": "Одержимость и экзорцизм",
+ "runs": {
+  "2": {
+   "en": "Among the enemies of the Imperium, even amidst the enemies of Chaos itself, there are few who are so corrupting and so malicious as the daemon. One of the greatest dangers such entities pose is their ability to possess a living soul, walking realspace in their shoes, with the potential to wreak unchecked havoc. While psykers are typically the most vulnerable, any creature — excluding those with the Pariah Gene — could face the danger of possession. The daemon could hide within its vessel for a time before any of the signs of possession manifest, allowing it to scheme and plot. And a possessed psyker, empowered by the madness and power of a daemon could unleash cataclysmic misery upon whole worlds.",
+   "ru": "Среди врагов Империума — и даже среди порождений самого Хаоса — мало кто столь же развращает и столь же злонамерен, как демон. Одна из величайших опасностей, исходящих от таких сущностей, — их способность овладевать живой душой, ходить по материальному миру в чужом теле и сеять ничем не сдерживаемый хаос. Уязвимее всего обычно псайкеры, но опасность одержимости грозит любому существу, кроме носителей гена парии. Демон может какое-то время скрываться в своём сосуде, прежде чем проявятся хоть какие-то признаки одержимости, и строить козни. А одержимый псайкер, наделённый безумием и мощью демона, способен обрушить катастрофические бедствия на целые миры."
+  },
+  "6": {
+   "en": "The dangers of possession can arise in a campaign that faces Chaos, and the threats of daemons and the Immaterium. This might involve investigating and eliminating a Chaos-worshipping cult who seek to summon a daemon, offering one of their members as a host, or they might be tracking an individual already possessed, leaving a trail of destruction and corruption in their wake. The danger of daemonic possession could even be levelled against NPCs, such as those who fight alongside the characters or serve as Contacts and informants. Worse still, the characters themselves could face the danger of possession.",
+   "ru": "Опасность одержимости может возникнуть в кампании, где персонажи противостоят Хаосу и угрозам демонов и имматериума. Это может быть расследование и уничтожение культа поклонников Хаоса, стремящегося призвать демона и предлагающего в качестве вместилища одного из своих членов, или выслеживание уже одержимого, оставляющего за собой след разрушений и порчи. Опасность демонической одержимости может нависнуть даже над NPC — например, над теми, кто сражается бок о бок с персонажами или служит им контактами и осведомителями. Хуже того, опасность одержимости может грозить и самим персонажам."
+  },
+  "12": {
+   "en": "Defining Daemonhost",
+   "ru": "Что такое демонхост"
+  },
+  "16": {
+   "en": "Daemons and daemonhosts are Chaos incarnate. Much information surrounding daemons and how they function is vague and sometimes contradictory. Daemonhost is a term used for a mortal whose body has been prepared to host a daemon’s will or has been used in the past. However, the specifics of possessing a physical body vary greatly. As a GM, you can play into this, or determine how it works for your campaign in a way that better serves your narrative.",
+   "ru": "Демоны и демонхосты — воплощённый Хаос. Многие сведения о демонах и о том, как они действуют, туманны, а порой и противоречивы. Демонхостом называют смертного, чьё тело подготовлено, чтобы вместить волю демона, или уже служило для этого прежде. Однако подробности овладения физическим телом сильно различаются. Как ведущий вы можете обыграть это или решить, как это устроено в вашей кампании, так, чтобы лучше служить повествованию."
+  },
+  "22": {
+   "en": "Transparency And Consent",
+   "ru": "Открытость и согласие"
+  },
+  "26": {
+   "en": "Daemonic possession is not something to be trifled with — it is a horrendous fate from which most never recover, a loss of agency and identity every bit as substantial as death itself. As a GM, you should be careful before allowing a player character to fall victim to possession. It robs them of their agency, and, if handled authentically, will ultimately alter the player character's personality, goals, values, and more. Survivors of daemonic possession are rare, their insights into the nature of daemons are often valuable, but only if their psyche has survived the experience.",
+   "ru": "С демонической одержимостью не шутят: это чудовищная участь, от которой большинство так и не оправляется, — утрата воли и личности, ничуть не менее значимая, чем сама смерть. Как ведущий вы должны хорошенько подумать, прежде чем позволить персонажу игрока стать жертвой одержимости. Это лишает игрока свободы решений, а при честном отыгрыше в итоге изменит характер персонажа, его цели, ценности и многое другое. Выжившие после демонической одержимости редки, их понимание природы демонов часто ценно — но лишь если их психика пережила это испытание."
+  },
+  "30": {
+   "en": "As a GM, you should not inflict this fate upon a character unless you are certain their player is an enthusiastic participant in the dark storytelling that must, by necessity, follow. This can be done simply by asking them, either at the table or between games. During play, be sure to telegraph what is happening and give them plenty of opportunity to plausibly escape. Make it clear, for example, that they are entering the lair of an unnatural entity, or that a cult they risk capturing has designs on binding a daemon into mortal flesh. As with most storytelling, foreshadowing a threat will make it more impactful, and will avoid springing a threat on players without the opportunity to prepare for it. Inform players that they can burn @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.8UpBUTEErWslyTdW]{Fate} to avoid possession (permanently reduce their fate to overcome a dire circumstance), giving them the opportunity to veto the experience should they wish.",
+   "ru": "Не обрекайте персонажа на такую участь, если не уверены, что его игрок с воодушевлением участвует в мрачном повествовании, которое неизбежно за этим последует. Для этого достаточно просто спросить — за столом или между играми. Во время игры обязательно заранее показывайте, что происходит, и давайте персонажу вдоволь правдоподобных возможностей спастись. Ясно дайте понять, например, что персонажи входят в логово противоестественной сущности или что культ, который они рискуют брать, намерен заключить демона в смертную плоть. Как и в любом повествовании, предвосхищение угрозы делает её весомее и не позволяет обрушить её на игроков без возможности подготовиться. Сообщите игрокам, что они могут сжечь @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.8UpBUTEErWslyTdW]{Судьбу}, чтобы избежать одержимости (навсегда уменьшив Судьбу, чтобы преодолеть отчаянное положение), — так у них будет возможность при желании отказаться от этого опыта."
+  },
+  "34": {
+   "en": "If you think a player character becoming possessed may be a significant feature of your game, it is best to talk to your players about it well in advance. The best time to do this is session zero, as presented in @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.f5PuitUGgp6jQz5K.JournalEntryPage.I3c3gLHRa8Fv3kV9#session-zero]{Imperium Maledictum}, and should certainly be discussed if your players are considering working for an @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-malleus]{Ordo Malleus} Patron.",
+   "ru": "Если вы считаете, что одержимость персонажа игрока может стать важной частью вашей игры, лучше обсудить это с игроками заранее. Лучшее время для этого — нулевая сессия, описанная в книге @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.f5PuitUGgp6jQz5K.JournalEntryPage.I3c3gLHRa8Fv3kV9#session-zero]{Imperium Maledictum}, и это непременно стоит обсудить, если игроки подумывают работать на покровителя из @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-malleus]{Ордо Маллеус}."
+  },
+  "38": {
+   "en": "As always, remember the golden rule — ",
+   "ru": "Как всегда, помните золотое правило: "
+  },
+  "40": {
+   "en": "Imperium Maledictum",
+   "ru": "Imperium Maledictum"
+  },
+  "42": {
+   "en": " is a game and should be enjoyed by all its participants. If something would make a player, as opposed to their character, uncomfortable, just don’t do it.",
+   "ru": " — это игра, и она должна приносить удовольствие всем участникам. Если что-то будет неприятно игроку, а не его персонажу, просто не делайте этого."
+  },
+  "46": {
+   "en": "The Effects of Possession",
+   "ru": "Действие одержимости"
+  },
+  "56": {
+   "en": "Daemonic possession varies greatly, united only by the severe danger it poses. Over time, or rather quickly in the case of a sudden and forceful possession, the vessel will become twisted by the unnatural energies of the Warp, twisting into a horrible abomination. Daemonic possession has a limited duration. Eventually, the vessel will be consumed and destroyed, causing the daemon to return to the Warp, becoming exorcised. A possessing daemon has wildly different goals from another, they might simply seek wanton destruction or a more complex and subtle plan of corruption. Only the extremely fortunate individual can survive the harrowing process of possession and then undergo the rigours of exorcism, removing the daemon, and leaving the vessel alive.",
+   "ru": "Демоническая одержимость бывает очень разной, и объединяет её лишь смертельная опасность. Со временем — или очень быстро в случае внезапного и насильственного овладения — сосуд искажается противоестественными энергиями варпа, превращаясь в жуткую мерзость. Демоническая одержимость длится ограниченное время. В конце концов сосуд будет поглощён и уничтожен, а демон вернётся в варп, то есть будет изгнан. Цели у разных демонов совершенно разные: один может стремиться лишь к бессмысленному разрушению, другой — к более сложному и тонкому замыслу развращения. Лишь исключительно удачливый человек может пережить мучительный процесс одержимости, а затем и суровое испытание экзорцизмом, при котором демона изгоняют, а сосуд остаётся жив."
+  },
+  "60": {
+   "en": "Characters who face possession will not typically face a dramatic and total possession. Instead, it will normally be the result of failing to deal with the consequences of exposing oneself to various things; forbidden tomes, forbidden knowledge, bargaining for secrets, or exposure to psychic powers and perils of the Warp. When the narrative opportunity arises, it should be clear to the players the consequences of engagement and failure. The controlling player and the GM should work together to understand how the daemon affects the character, and how this affects roleplaying. Determine how the daemon might prey upon specific emotions or motivations of the player, and how the daemon might twist these for its own goals. This is also true of NPC possession, as a GM consider how the presence of the daemon can affect an NPC’s personality over time. The GM should consider the type of possessing daemon. Sometimes this will be a natural effect of the narrative; if the characters are specifically hunting a daemonic nemesis, you should have a strong idea who this daemon is, what it wants, and what it is capable of.",
+   "ru": "Персонажей обычно не постигает внезапная и полная одержимость. Как правило, она становится следствием того, что они не справились с последствиями соприкосновения с разными вещами: запретными томами, запретными тайнами, торгом за секреты или воздействием психических сил и опасностей варпа. Когда для этого появляется сюжетная возможность, игрокам должно быть ясно, чем грозит вмешательство и неудача. Управляющий персонажем игрок и ведущий должны вместе разобраться, как демон влияет на персонажа и как это сказывается на отыгрыше. Определите, как демон может играть на конкретных чувствах или побуждениях персонажа и как он может искажать их ради своих целей. То же верно и для одержимости NPC: как ведущий подумайте, как присутствие демона со временем может повлиять на характер NPC. Ведущему стоит продумать и тип вселившегося демона. Иногда он естественно вытекает из повествования: если персонажи охотятся за определённым демоническим врагом, у вас должно быть чёткое представление, кто этот демон, чего он хочет и на что способен."
+  },
+  "68": {
+   "en": "Example",
+   "ru": "Пример"
+  },
+  "76": {
+   "en": "Icharus, the acolyte who recovered a daemonic black cube from a raid on cultists, has used the cube to learn more about their enemies, and has gleaned forbidden knowledge from the daemon trapped within. Throughout their investigations, Icharus has earned Corruption from the cube, and in his latest attempt to learn something from the cube, he miserably fails his Discipline Test. The GM knows that the daemon wants out of the cube, and Icharus has suffered Corruption from its use.",
+   "ru": "Икарус — аколит, добывший демонический чёрный куб во время налёта на культистов, — использовал куб, чтобы больше узнать о врагах, и извлёк запретные тайны из заточённого в нём демона. По ходу расследований Икарус получал от куба порчу, и при последней попытке что-то узнать у куба он с треском проваливает проверку Дисциплины. Ведущий знает, что демон хочет выбраться из куба, а Икарус уже получил порчу от его использования."
+  },
+  "84": {
+   "en": "A bridge has been made, and with the player previously well-informed about the consequences, the GM decides that the box fails to answer, and Icharus gains Corruption. Worse still, though Icharus will not know immediately, the daemon has begun to possess him. The GM can use the bestiary to find the profile of a daemon that matches; a @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.CAvzgSBWrbnHu8zi]{Pink Horror}, a daemon of Tzeentch, matches the kind of daemon that would be bound to such an item.",
+   "ru": "Мост наведён, и, поскольку игрок заранее был хорошо осведомлён о последствиях, ведущий решает, что ящик не отвечает, а Икарус получает порчу. Хуже того, хотя Икарус сразу этого не узнает, демон начал овладевать им. Ведущий может найти в бестиарии подходящий профиль демона: @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.CAvzgSBWrbnHu8zi]{розовый ужас}, демон Тзинча, как раз подходит к демону, которого могли заключить в подобный предмет."
+  },
+  "92": {
+   "en": "Characters possessed by daemons ignore the upper cap limits of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.PuzopCeKzYgcYAwh]{Corruption}, ignoring when they have more Mutations than their Toughness Bonus or Malignancies more than their Willpower Bonus. Under daemonic possession, their Corruption levels can skyrocket, relating to how deeply the daemon has dug their claws into the character’s soul.",
+   "ru": "Одержимые демонами персонажи игнорируют верхние пределы @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.PuzopCeKzYgcYAwh]{порчи}, не обращая внимания на то, что мутаций у них больше бонуса Выносливости, а осквернений — больше бонуса Силы воли. Под демонической одержимостью уровень порчи может взлететь до небес — в зависимости от того, насколько глубоко демон вонзил когти в душу персонажа."
+  },
+  "96": {
+   "en": "As a possessed character gains Corruption, they progress along the Possession Tracker. When they are first possessed, the character gains 2d10 Corruption immediately — which can cause them to gain Mutations or Malignancies as normal. When a character gains enough Corruption to reach the threshold of another possession type, they change.",
+   "ru": "Получая порчу, одержимый персонаж продвигается по шкале одержимости. При первом овладении персонаж сразу получает 2к10 порчи — что может, как обычно, дать ему мутации или осквернения. Когда персонаж получает столько порчи, что достигает порога другого типа одержимости, его одержимость меняется."
+  },
+  "112": {
+   "en": "Possession Tracker",
+   "ru": "Шкала одержимости"
+  },
+  "124": {
+   "en": "Corruption Levels",
+   "ru": "Уровень порчи"
+  },
+  "132": {
+   "en": "Possession Type",
+   "ru": "Тип одержимости"
+  },
+  "140": {
+   "en": "Resisting/Controlling the Daemon",
+   "ru": "Сопротивление демону / контроль над ним"
+  },
+  "154": {
+   "en": "01-30",
+   "ru": "01–30"
+  },
+  "158": {
+   "en": "The Puppet",
+   "ru": "Марионетка"
+  },
+  "162": {
+   "en": "Difficult (-10)",
+   "ru": "Трудная (−10)"
+  },
+  "170": {
+   "en": "31-60",
+   "ru": "31–60"
+  },
+  "174": {
+   "en": "The Gateway",
+   "ru": "Врата"
+  },
+  "178": {
+   "en": "Hard (-20)",
+   "ru": "Сложная (−20)"
+  },
+  "186": {
+   "en": "61-99",
+   "ru": "61–99"
+  },
+  "190": {
+   "en": "The Vessel",
+   "ru": "Сосуд"
+  },
+  "194": {
+   "en": "Very Hard (-30)",
+   "ru": "Очень сложная (−30)"
+  },
+  "202": {
+   "en": "100",
+   "ru": "100"
+  },
+  "206": {
+   "en": "The Chosen",
+   "ru": "Избранный"
+  },
+  "210": {
+   "en": "Impossible",
+   "ru": "Невозможно"
+  },
+  "224": {
+   "en": "The Puppet (01-30 Corruption)",
+   "ru": "Марионетка (порча 01–30)"
+  },
+  "228": {
+   "en": "A subtle form of possession, the daemon remains within the Warp but uses a conduit or channel to the victim to begin to suffuse their soul with part of its daemonic essence. The puppet is usually unaware of what is occurring, but the daemon can begin to exhibit control over the puppet’s actions, behaviours, and even their perceptions.",
+   "ru": "Скрытая форма одержимости: демон остаётся в варпе, но через проводник или канал к жертве начинает пропитывать её душу частью своей демонической сущности. Марионетка обычно не подозревает о происходящем, но демон уже может начать управлять её поступками, поведением и даже восприятием."
+  },
+  "232": {
+   "en": "At this stage, the daemon can attempt to exert minor control over the possessed character by encouraging and empowering certain behaviours. When the possessed character attempts a Skill Test that matches the Skills of the possessing daemon, the GM can have the daemon add +2 SL to the Test, but the character gains 2 Corruption. The possessed character can attempt to resist with a ",
+   "ru": "На этой стадии демон может пытаться слегка управлять одержимым персонажем, поощряя и усиливая определённое поведение. Когда одержимый персонаж проходит проверку умения, совпадающего с умениями вселившегося демона, ведущий может от имени демона добавить к проверке +2 КУ, но персонаж получает 2 порчи. Одержимый персонаж может попытаться сопротивляться, пройдя "
+  },
+  "234": {
+   "en": "Challenging (+0) Discipline (Composure)",
+   "ru": "Среднюю (+0) проверку Дисциплины (Самообладание)"
+  },
+  "236": {
+   "en": " Test, decreasing Corruption gained by 1 point for every positive SL.",
+   "ru": "; каждая положительная КУ уменьшает получаемую порчу на 1."
+  },
+  "240": {
+   "en": "The Gateway (31-60 Corruption)",
+   "ru": "Врата (порча 31–60)"
+  },
+  "244": {
+   "en": "The victim becomes aware of the possessing daemon — perhaps as it progresses from a prior possession — and the daemon begins to exert more influence over the victim, temporarily taking full control in violent or chaotic blackout moments.",
+   "ru": "Жертва осознаёт присутствие вселившегося демона — возможно, по мере перехода с предыдущей стадии, — а демон начинает сильнее влиять на жертву, временно полностью захватывая контроль в мгновения неистового или хаотичного помрачения."
+  },
+  "248": {
+   "en": "During moments of heightened emotion, when the character is at risk of gaining Corruption, or when the GM decides it serves the narrative, the daemon can attempt to exert control over the character. The controlling character can attempt to resist by making a ",
+   "ru": "В моменты сильных чувств, когда персонажу грозит порча, или когда ведущий решит, что это служит повествованию, демон может попытаться захватить контроль над персонажем. Управляющий персонаж может попытаться сопротивляться, пройдя проверку "
+  },
+  "250": {
+   "en": "Discipline (Composure)",
+   "ru": "Дисциплины (Самообладание)"
+  },
+  "252": {
+   "en": " Test, the Difficulty determined by the ",
+   "ru": ", сложность которой определяется таблицей "
+  },
+  "254": {
+   "en": "Possession Tracker",
+   "ru": "«Шкала одержимости»"
+  },
+  "256": {
+   "en": " Table. If they fail, the daemon takes control for a number of minutes of narrative time, or 1d5 rounds plus 1 additional round for every −1 SL. Additionally, the character suffers 1 Corruption for every −1 SL on a failed Test.",
+   "ru": ". При провале демон захватывает контроль на несколько минут повествовательного времени или на 1к5 раундов плюс 1 раунд за каждую −1 КУ. Кроме того, при проваленной проверке персонаж получает 1 порчу за каждую −1 КУ."
+  },
+  "262": {
+   "en": "Unleash the Daemon",
+   "ru": "Высвобождение демона"
+  },
+  "266": {
+   "en": "A possessed character can draw upon the daemonic energies within them to gain leverage during a battle or gain an edge when making a Test. The controlling character makes a ",
+   "ru": "Одержимый персонаж может черпать демоническую энергию внутри себя, чтобы получить перевес в бою или преимущество при проверке. Управляющий персонаж проходит проверку "
+  },
+  "268": {
+   "en": "Discipline (Composure)",
+   "ru": "Дисциплины (Самообладание)"
+  },
+  "270": {
+   "en": " Test, the Difficulty determined by the ",
+   "ru": ", сложность которой определяется таблицей "
+  },
+  "272": {
+   "en": "Possession Tracker",
+   "ru": "«Шкала одержимости»"
+  },
+  "274": {
+   "en": " Table. If they succeed, they can choose to gain one of the following bonuses:",
+   "ru": ". При успехе он может выбрать один из следующих бонусов:"
+  },
+  "282": {
+   "en": "+2 SL to a Skill Test that matches the possessing daemons type, such as ",
+   "ru": "+2 КУ к проверке умения, соответствующего типу вселившегося демона, например "
+  },
+  "284": {
+   "en": "Awareness",
+   "ru": "Бдительности"
+  },
+  "286": {
+   "en": " or ",
+   "ru": " или "
+  },
+  "288": {
+   "en": "Lore",
+   "ru": "Знаний"
+  },
+  "290": {
+   "en": " for Tzeentchian Daemons; ",
+   "ru": " для демонов Тзинча; "
+  },
+  "292": {
+   "en": "Rapport",
+   "ru": "Взаимопонимания"
+  },
+  "294": {
+   "en": " or ",
+   "ru": " или "
+  },
+  "296": {
+   "en": "Reflexes",
+   "ru": "Рефлексов"
+  },
+  "298": {
+   "en": " for Slaaneshi Daemons; ",
+   "ru": " для демонов Слаанеш; "
+  },
+  "300": {
+   "en": "Fortitude",
+   "ru": "Стойкости"
+  },
+  "302": {
+   "en": " or ",
+   "ru": " или "
+  },
+  "304": {
+   "en": "Medicae",
+   "ru": "Медики"
+  },
+  "306": {
+   "en": " for Nurgle Daemons; and ",
+   "ru": " для демонов Нургла и "
+  },
+  "308": {
+   "en": "Athletics",
+   "ru": "Атлетики"
+  },
+  "310": {
+   "en": " for Khornate Daemons.",
+   "ru": " для демонов Кхорна."
+  },
+  "318": {
+   "en": "Gain the use of a Talent associated with the daemon, or at the GM’s discretion, for a number of hours equal to the character’s WilB + the decimal number of their current Corruption.",
+   "ru": "Возможность пользоваться талантом, связанным с демоном (или на усмотрение ведущего), в течение числа часов, равного бонусу Силы воли персонажа + число десятков его текущей порчи."
+  },
+  "326": {
+   "en": "The character gains a surge of vitality and recovers Wounds equal to their WilB + the decimal number of their current Corruption.",
+   "ru": "Персонаж получает прилив жизненных сил и восстанавливает раны, равные его бонусу Силы воли + число десятков его текущей порчи."
+  },
+  "334": {
+   "en": "The controlling character then gains 1d5 Corruption. If the character fails their Test, they still gain the boon for a single Action or a single minute of narrative time, but the daemon then takes control as if the character had failed to resist the daemon.",
+   "ru": "Затем управляющий персонаж получает 1к5 порчи. Если персонаж проваливает проверку, он всё равно получает благо на одно действие или одну минуту повествовательного времени, но затем демон захватывает контроль, как если бы персонаж не смог ему противостоять."
+  },
+  "340": {
+   "en": "The Vessel (61-99 Corruption)",
+   "ru": "Сосуд (порча 61–99)"
+  },
+  "344": {
+   "en": "In the case of sudden possession, or as the result of the daemon gaining more control, the victim’s mind and soul are imprisoned and put to one side, and the daemon wears their flesh without restraint. It is only a matter of time before the rampant mutations and corruption become untenable for the flesh. There are very brief windows wherein the victim can, for mere minutes, gain some control over their body once more.",
+   "ru": "При внезапном овладении или по мере усиления власти демона разум и душа жертвы оказываются заперты и отодвинуты в сторону, а демон без удержу носит её плоть. Лишь вопрос времени, когда бесконтрольные мутации и порча станут для плоти невыносимы. Бывают очень короткие окна, когда жертва может на считаные минуты вновь обрести некоторую власть над своим телом."
+  },
+  "348": {
+   "en": "Possessed characters can fight for control of their body and attempt to wrest it away from the daemon for a very short period of time. The character can do this a number of times per day equal to their Willpower Bonus (WilB). They make a ",
+   "ru": "Одержимые персонажи могут бороться за контроль над телом и пытаться вырвать его у демона на очень короткое время. Персонаж может делать это число раз в день, равное его бонусу Силы воли (бСВ). Он проходит проверку "
+  },
+  "350": {
+   "en": "Fortitude (Endurance)",
+   "ru": "Стойкости (Неустанность)"
+  },
+  "352": {
+   "en": " Test, Difficulty equal to resisting the daemon in the ",
+   "ru": " со сложностью, равной сложности сопротивления демону по таблице "
+  },
+  "354": {
+   "en": "Possession Tracker",
+   "ru": "«Шкала одержимости»"
+  },
+  "356": {
+   "en": " Table. If they are successful, they assume control for 1d5 rounds plus 1 additional round for every +1 SL on the Test, or if using narrative time, the same number of minutes.",
+   "ru": ". При успехе он получает контроль на 1к5 раундов плюс 1 раунд за каждую +1 КУ в проверке — или, если используется повествовательное время, на столько же минут."
+  },
+  "360": {
+   "en": "The Chosen (100+ Corruption)",
+   "ru": "Избранный (порча 100+)"
+  },
+  "364": {
+   "en": "Those devoted to Chaos may open themselves up to a daemon, freely allowing it to possess their body and wreak havoc, or an unfortunate character may have had one trapped inside them for a considerable amount of time, scraping away at its confines, aiming to take total control. The character is possessed as normal, but the daemon gains full control immediately.",
+   "ru": "Преданные Хаосу могут открыться демону, добровольно позволив ему завладеть телом и сеять хаос, а несчастный персонаж может долгое время носить демона в себе, пока тот скребётся в своих стенах, стремясь захватить полный контроль. Персонаж становится одержимым как обычно, но демон сразу получает полный контроль."
+  },
+  "368": {
+   "en": "Whenever the chosen daemonhost is required to make a Test or take an Action, they can assume the characteristics of the vessel or the daemon, gaining 2 Corruption each time they use the daemons characteristics. Furthermore, the daemon can Unleash the Daemon anytime it chooses, gaining Corruption and warping their flesh vessel without restraint.",
+   "ru": "Всякий раз, когда избранному демонхосту нужно пройти проверку или совершить действие, он может использовать характеристики сосуда или демона, получая 2 порчи каждый раз, когда использует характеристики демона. Кроме того, демон может в любой момент по своему выбору высвободить демона, получая порчу и без удержу искажая свой плотский сосуд."
+  },
+  "372": {
+   "en": "A character who gains 100 Corruption while possessed will gain this possession type. There is no hope for a character when they reach this point. The daemon within can choose at any time to wholly sacrifice the vessel to manifest in realspace.",
+   "ru": "Персонаж, набравший 100 порчи в состоянии одержимости, получает этот тип одержимости. Для персонажа, дошедшего до этой точки, надежды нет. Демон внутри может в любой момент полностью пожертвовать сосудом, чтобы воплотиться в материальном мире."
+  },
+  "378": {
+   "en": "The @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.M6XWkYc0lfuKl2hU]{Daemonhost} represents a character in The Vessel stages (61–99 Corruption). They begin with 70 Corruption, or otherwise choose a number within this range when deploying them.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.M6XWkYc0lfuKl2hU]{Демонхост} представляет персонажа на стадии «Сосуд» (порча 61–99). Он начинает с 70 порчи — или выберите число в этом диапазоне, вводя его в игру."
+  },
+  "384": {
+   "en": "Exorcising Daemon",
+   "ru": "Изгнание демона"
+  },
+  "388": {
+   "en": "Mortals who become possessed by a daemon rapidly succumb to the suffusing Warp energies, the rampant and unceasing corrosive stain upon their souls, and the madness that seeps into the mind twists their perceptions and taints their thoughts. Senior members of the Inquisition and @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.HURMpEU0Nnc93Ocv]{Adeptus Ministorum} argue about the potential for exorcism, what methods work, when and why to attempt it, and whether it is even possible. Many would insist that once possessed, it is better to destroy both the vessel and the daemon and be done with it, while some more Radical Inquisitors see the potential use in a mind and soul touched by the Warp and the powers of a daemon.",
+   "ru": "Смертные, которыми овладел демон, быстро поддаются пропитывающей их энергии варпа, безудержному и неустанному разъедающему пятну на душе, а безумие, просачивающееся в разум, искажает восприятие и отравляет мысли. Высокопоставленные члены Инквизиции и @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.HURMpEU0Nnc93Ocv]{Адептус Министорум} спорят о возможности экзорцизма: какие методы работают, когда и зачем его пытаться проводить и возможен ли он вообще. Многие настаивают, что одержимого лучше уничтожить вместе с демоном и покончить с этим, тогда как некоторые более радикальные инквизиторы видят возможную пользу в разуме и душе, тронутых варпом и силой демона."
+  },
+  "392": {
+   "en": "An exorcism can be attempted for a possessed individual. It is believed an exorcism, rooted in the occult and forbidden, can take many forms. Preparations, and methods, vary greatly. Some are approached as a test of faith, surrounded by icons of the Emperor, specially crafted incense choking the air, and clerics singing and chanting hymns and prayers. A more profane approach might involve symbols of banishment, occult and forbidden phrases and words of power, and the sacrifice of pure and corrupt souls in exchange for the vessel. Daemons are so multitudinous in form and will that no singular method works against all.",
+   "ru": "Одержимого можно попытаться подвергнуть экзорцизму. Считается, что экзорцизм, уходящий корнями в оккультное и запретное, может принимать множество форм. Подготовка и методы сильно различаются. К одним подходят как к испытанию веры: вокруг — иконы Императора, воздух душат особые благовония, клирики поют и читают гимны и молитвы. Более нечестивый подход может включать символы изгнания, оккультные и запретные речения и слова силы, а также принесение в жертву чистых и порочных душ в обмен на сосуд. Демоны столь многообразны по форме и воле, что ни один метод не действует против всех."
+  },
+  "396": {
+   "en": "The potential for exorcism is a decision left to the GM. It might involve an Extended Test at a Difficulty determined by the current Corruption, as seen in the ",
+   "ru": "Возможен ли экзорцизм, решает ведущий. Это может быть продолжительная проверка со сложностью, определяемой текущей порчей по таблице "
+  },
+  "398": {
+   "en": "Possession Tracker",
+   "ru": "«Шкала одержимости»"
+  },
+  "400": {
+   "en": " Table. The Extended Test could use ",
+   "ru": ". В продолжительной проверке можно использовать "
+  },
+  "402": {
+   "en": "Lore (Forbidden)",
+   "ru": "Знания (Запретное)"
+  },
+  "406": {
+   "en": "Psychic Mastery (Various)",
+   "ru": "Психическое мастерство (различные)"
+  },
+  "408": {
+   "en": ", and ",
+   "ru": " и "
+  },
+  "410": {
+   "en": "Discipline (Composure)",
+   "ru": "Дисциплину (Самообладание)"
+  },
+  "412": {
+   "en": " or ",
+   "ru": " или "
+  },
+  "414": {
+   "en": "Discipline (Psychic)",
+   "ru": "Дисциплину (Психическое)"
+  },
+  "416": {
+   "en": ", though the GM may reward creativity or careful and thematic preparation. The SL of the Extended Test is determined by the Corruption total of the possessed individual. When the SL reaches the Corruption total, the daemon is exorcised, and the character regains total control over their body once more. They immediately gain the @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.YacxYO0U5ssj2aee]{Tainted Vessel} Talent at no cost.",
+   "ru": ", хотя ведущий может вознаградить изобретательность или тщательную тематическую подготовку. Требуемое число КУ продолжительной проверки определяется общей порчей одержимого. Когда сумма КУ достигает суммы порчи, демона изгоняют, и персонаж снова полностью обретает власть над своим телом. Он сразу бесплатно получает талант @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.YacxYO0U5ssj2aee]{«Осквернённый сосуд»}."
+  },
+  "422": {
+   "en": "Summoning Daemons",
+   "ru": "Призыв демонов"
+  },
+  "426": {
+   "en": "Cultists, in their accursed rituals, often attempt to use a daemonhost to summon daemons into realspace. As the GM, you can handle this in a purely narrative sense or reverse the method of exorcism previously described to track how far along their summoning ritual they are, corrupting the vessel over several rounds or days given their timescale. Consider the cult making an appropriate Test and adding their SL to the vessel’s Corruption, eventually reaching 100 Corruption or beyond to manifest the daemon.",
+   "ru": "Культисты в своих проклятых ритуалах часто пытаются с помощью демонхоста призвать демонов в материальный мир. Как ведущий вы можете решать это чисто повествовательно или обратить описанный выше метод экзорцизма, чтобы отслеживать, насколько продвинулся ритуал призыва, развращая сосуд на протяжении нескольких раундов или дней в зависимости от масштаба времени. Можно заставить культ проходить подходящую проверку и прибавлять её КУ к порче сосуда, пока та не достигнет 100 или больше и демон не воплотится."
+  },
+  "432": {
+   "en": "Binding Daemons",
+   "ru": "Связывание демонов"
+  },
+  "436": {
+   "en": "Characters can attempt to bind daemons, taking their essence from the Warp and containing it within a physical medium — be it a damned Daemonhost, holy relic, or technological construct thought to be strong enough to include it. Characters may wish to pursue this dangerous method to seal a threat away for an extended period, capture the daemon in question to extract fell knowledge from it, or exploit the monster for its raw power.",
+   "ru": "Персонажи могут попытаться связать демона, вырвав его сущность из варпа и заключив её в физический носитель — будь то проклятый демонхост, святая реликвия или технологическое устройство, считающееся достаточно прочным, чтобы его вместить. Персонажи могут пойти этим опасным путём, чтобы надолго запечатать угрозу, пленить демона, чтобы выведать у него зловещие знания, или использовать чудовище ради его грубой силы."
+  },
+  "440": {
+   "en": "Conducting the ritual requires the characters involved to make a Group Extended Test similar to the one described in @UUID[.yMUESh1wlAuqgNSp#exorcising-daemon]{Exorcising Daemons}, except here they should aim for a certain number of successes, determined by the daemon’s Role:",
+   "ru": "Проведение ритуала требует от участвующих персонажей групповой продолжительной проверки, подобной описанной в разделе @UUID[.yMUESh1wlAuqgNSp#exorcising-daemon]{«Изгнание демона»}, только здесь нужно набрать определённое число успехов, зависящее от роли демона:"
+  },
+  "448": {
+   "en": "Troop = 25 Successes (Minor Exposure)",
+   "ru": "Отряд — 25 успехов (слабое воздействие)"
+  },
+  "456": {
+   "en": "Elite = 50 Successes (Moderate Exposure)",
+   "ru": "Элитный — 50 успехов (умеренное воздействие)"
+  },
+  "464": {
+   "en": "Leader = 75 Successes (Major Exposure)",
+   "ru": "Предводитель — 75 успехов (сильное воздействие)"
+  },
+  "472": {
+   "en": "Additionally, characters can pursue the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.56xpJ7ADckt2kxHB#learn-a-true-name]{Learn a True Name} and @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.56xpJ7ADckt2kxHB#prepare-a-ritual-of-binding]{Prepare a Ritual of Binding} Long-term Endeavours in advance to prepare and strengthen themselves for a binding, gaining the benefits described in each Endeavour.",
+   "ru": "Кроме того, персонажи могут заранее заняться долгосрочными занятиями @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.56xpJ7ADckt2kxHB#learn-a-true-name]{«Узнать истинное имя»} и @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.56xpJ7ADckt2kxHB#prepare-a-ritual-of-binding]{«Подготовить ритуал связывания»}, чтобы подготовиться и укрепить себя перед связыванием, получая преимущества, описанные в каждом занятии."
+  },
+  "476": {
+   "en": "GMs are encouraged to generate complications throughout this ritual: have the daemon lash out at the characters, attempt to possess one of them, try to distract them, or affect the surroundings. Characters involved must make a Test to resist the levels of Corruption listed on this page. Substantial failures or Fumbles throughout the ritual could increase the Difficulty of their Extended Test or easily result in an effect generated from the @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.9aSbu2mswOOI43J1]{Psychic Phenomena} or @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.2YYlAUyaVIt4bZVa]{Perils of the Warp} Tables.",
+   "ru": "Ведущим советуем создавать осложнения на протяжении ритуала: пусть демон бьёт по персонажам, пытается овладеть одним из них, отвлекает их или воздействует на окружение. Участвующие персонажи должны проходить проверку, чтобы противостоять указанным на этой странице уровням порчи. Серьёзные провалы или фиаско во время ритуала могут повысить сложность продолжительной проверки или легко привести к эффекту из таблиц @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.9aSbu2mswOOI43J1]{«Психические феномены»} или @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.2YYlAUyaVIt4bZVa]{«Прорывы Варпа»}."
+  },
+  "480": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.56xpJ7ADckt2kxHB#prepare-a-ritual-of-binding]{Binding a daemonhost} this way results in the host starting with Corruption equal to the successes on the corresponding Extended Test thresholds listed on this page. Physical contact with relics used to bind a daemon becomes a source of Corruption, the amount depending on the Role of the daemon trapped within.",
+   "ru": "При @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.56xpJ7ADckt2kxHB#prepare-a-ritual-of-binding]{связывании демонхоста} таким способом сосуд начинает с порчей, равной числу успехов по соответствующим порогам продолжительной проверки на этой странице. Физический контакт с реликвиями, использованными для связывания демона, становится источником порчи; её количество зависит от роли заточённого демона."
+  }
+ }
+}

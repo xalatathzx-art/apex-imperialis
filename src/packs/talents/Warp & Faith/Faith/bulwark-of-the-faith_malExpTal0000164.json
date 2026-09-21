@@ -2,7 +2,7 @@
   "name": "Bulwark of the Faith",
   "type": "talent",
   "_id": "malExpTal0000164",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On success, resisting Daemon fear: demon suffer damage=your SL (ignore armor)</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever you pass a test to not be Frightened from a Daemonic entity, the Daemon suffers 1 Damage ignoring armor for each Success Level on the test. </em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "Faithful (Imperial Cult) Talent",
-      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful(Imperial Cult)\")"
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful (imperial Cult)\")"
     },
     "test": {
       "difficulty": "challenging",

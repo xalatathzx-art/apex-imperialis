@@ -46,7 +46,7 @@ const RULES = "JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage";
 const COND = "JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe";
 const WEAPONS = ".wsM53RDPPrqwS3Te";
 const SECTOR_IMP = "JournalEntry.GPqYZykonC12TJb1.JournalEntryPage";
-const ITEM = "Compendium.impmal-core.items.Item";
+const ITEM = "Compendium.navis-apexialis.navis-core-items.Item";
 
 /* ── Арсенал (вводная), стр. 118–119 ────────────────────────────────────
  *
@@ -55,7 +55,7 @@ const ITEM = "Compendium.impmal-core.items.Item";
  * над «Покупкой и продажей». Здесь они стоят там же, где у C7.
  */
 const armouryPage =
-  `<div class="journal-image float-right flip"><img height="520" src="modules/impmal-core/assets/images/ch4.webp" /></div>` +
+  `<div class="journal-image float-right flip"><img height="520" src="modules/navis-apexialis/assets/impmal-core/images/ch4.webp" /></div>` +
   p("В сорок первом тысячелетии никуда не спрятаться от насилия и опасностей. Вам нужно ",
     "выполнять приказы своего покровителя, а одно мастерство не поможет избежать всех бед ",
     "Махария. Те, кто раскрывают заговоры, сражаются с еретиками и погружаются во тьму сектора в ",
@@ -408,7 +408,7 @@ const weaponsPage =
     "<strong>Цена</strong>: обычная цена оружия в солярах. Второе число в скобках — цена одного стандартного магазина, если он нужен.",
     "<strong>Свойства</strong>: какие свойства есть у такого оружия."
   ) +
-  `<div class="journal-image float-right flip"><img height="150" src="modules/impmal-core/assets/images/spot-bolt-relic.webp" /></div>` +
+  `<div class="journal-image float-right flip"><img height="150" src="modules/navis-apexialis/assets/impmal-core/images/spot-bolt-relic.webp" /></div>` +
 
   h(3, "weapons-and-armour-traits", "Свойства оружия и брони") +
   p("Многие образчики оружия и доспехов обладают необычными чертами и качествами, что отражены в ",
@@ -645,7 +645,7 @@ const meleePage =
     "Омниссии обозначает ранг техножреца.") +
   p("Как правило, включённое силовое оружие наносит высокий урон и получает свойство ",
     U(`${WEAPONS}#penetrating-(rating)`, "Бронебойное"), ".") +
-  `<div class="journal-image fit"><img src="modules/impmal-core/assets/images/spread-melee.webp" /></div>` +
+  `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-core/images/spread-melee.webp" /></div>` +
   tableHead("Холодное оружие", "Название", "Специализация", "Цена", "Дост.") +
   sep("Цепное оружие", true) +
   itemRow("LpMWPp2PvNZyFDv6", "Цепной топор", "Одноручное оружие", "600", "Редкая") +
@@ -687,7 +687,7 @@ const grenadesPage =
     "Священного воспламенения и брось гранату одновременно с крещендо стихов I, II и III в ",
     "зависимости от расстояния, на котором находится цель»</em>") +
   `<p style="text-align:right">— боевое наставление скитарию</p>` +
-  `<div class="journal-image float-right flip"><img width="170" src="modules/impmal-core/assets/images/spot-grenade.webp" /></div>` +
+  `<div class="journal-image float-right flip"><img width="170" src="modules/navis-apexialis/assets/impmal-core/images/spot-grenade.webp" /></div>` +
   p("Всё оружие из этого раздела — одноразовая взрывчатка, которую нужно метать во врага, ",
     "запускать из гранатомёта или устанавливать возле цели. Она может разбрасывать вокруг ",
     "осколки, пробивать броню, выпускать ядовитые или удушающие газы и иным образом мешать врагу ",
@@ -918,7 +918,7 @@ const rangedPage =
     "накладывает состояние ", U(`${COND}#poisoned`, "Отравление (Малое)"), " или ",
     U(`${COND}#poisoned`, "Отравление (Серьёзное)"), ", если стрелок попал цели в голову.") +
   p("Специальное стрелковое оружие всегда имеет собственные свойства или уникальные их сочетания.") +
-  `<div class="journal-image fit"><img src="modules/impmal-core/assets/images/spread-ranged.webp" /></div>` +
+  `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-core/images/spread-ranged.webp" /></div>` +
   tableHead("Стрелковое оружие", "Название", "Специализация", "Цена (магазин)", "Дост.") +
   sep("Болтерное оружие", true) +
   itemRow("j3izHTzJJq7qKwc1", "Болт-пистолет", "Пистолеты", "4000 (400)", "Редкая") +
@@ -1006,8 +1006,8 @@ const rangedPage =
  * Русское издание (стр. 139) в описании флак-брони пишет «со свойствами Взрыв
  * и Разлёт», где у C7 «with the Blast or Spread Traits» — здесь «или».
  */
-const REFRACTOR_SLUG = "@uuid[compendium.impmal-core.items.item.ixetjksopxdmhxca]{refrac";
-const CONVERSION_SLUG = "@uuid[compendium.impmal-core.items.item.xclukpjknvewfzqi]{conver";
+const REFRACTOR_SLUG = "@uuid[Compendium.navis-apexialis.navis-core-items.item.ixetjksopxdmhxca]{refrac";
+const CONVERSION_SLUG = "@uuid[Compendium.navis-apexialis.navis-core-items.item.xclukpjknvewfzqi]{conver";
 
 const armourRow = (id, name, loc, armour, cost, avail) =>
   `<tr><td>${U(`${ITEM}.${id}`, name)}</td><td>${loc}</td><td>${armour}</td><td>${cost}</td><td>${avail}</td></tr>`;
@@ -1104,7 +1104,7 @@ const protectionPage =
     "проработать без подзарядки лишь количество часов, равное своему показателю очков брони. ",
     "Кроме того, если атака наносит вам критическое попадание, но не наносит ран, то критическое ",
     "попадание также игнорируется.") +
-  `<div class="journal-image fit"><img src="modules/impmal-core/assets/images/spread-armour.webp" /></div>` +
+  `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-core/images/spread-armour.webp" /></div>` +
   `<table class="impmal"><thead><tr class="title"><td colspan="5"><p>Доспехи</p></td></tr>` +
   `<tr class="subheader" style="font-size:20px"><td><p>Название</p></td><td><p>Зоны защиты</p></td>` +
   `<td><p>Очки брони</p></td><td><p>Цена</p></td><td><p>Доступность</p></td></tr></thead><tbody>` +
@@ -1245,7 +1245,7 @@ const toolsPage =
     "технологической поддержки не сделать вовсе. Хорошо снаряжённый герой может держать при себе ",
     "больше сведений, чем сумел бы запомнить, разогнать темноту или подавить силы Варпа. Нередко ",
     "наличие нужного инструмента — единственный способ избавиться от помехи в проверке.") +
-  `<div class="journal-image fit"><img src="modules/impmal-core/assets/images/spread-tools.webp" /></div>` +
+  `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-core/images/spread-tools.webp" /></div>` +
   tableHead("Инструменты", "Название", "Цена", "Дост.", "Вес") +
   gearRow("dO7XoDXD9QYTy6zZ", "Ауспик или сканер", "1000", "Необычная", "1") +
   gearRow("wazqwH6rG3lKCQUR", "Автоперо", "150", "Необычная", "2") +

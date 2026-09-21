@@ -3,7 +3,7 @@
   "name": "Wrack",
   "type": "npc",
   "_id": "HGtLUCtTPHM5QW9H",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Horrific Experiments",
       "type": "trait",
       "_id": "Pe1Roek8JO44uEUP",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Power from Pain",
       "type": "trait",
       "_id": "alwNoixXpA8LotfE",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Liquifier Gun",
       "type": "weapon",
       "_id": "SGz1945xM4xxwJ1i",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -443,7 +443,7 @@
       "name": "2x Poisoned Blades",
       "type": "weapon",
       "_id": "T8UO9VHPQfj3cWXl",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -514,7 +514,7 @@
       "name": "Pain",
       "type": "specialisation",
       "_id": "eQ6HvAlJVPRkydAk",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -543,7 +543,7 @@
       "name": "One-Handed",
       "type": "specialisation",
       "_id": "wXYIrxKPUgjqKR03",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

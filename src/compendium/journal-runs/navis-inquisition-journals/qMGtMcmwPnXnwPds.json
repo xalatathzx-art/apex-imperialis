@@ -1,0 +1,609 @@
+{
+ "journal": "FNEW8e33IisZh27W",
+ "journalName": "The Heresies Macharia",
+ "page": "qMGtMcmwPnXnwPds",
+ "pageName": "Conclave I",
+ "name": "",
+ "runs": {
+  "6": {
+   "en": "Conclave I",
+   "ru": ""
+  },
+  "16": {
+   "en": "For the first time since the end of the Noctis Aeterna, an Inquisitorial Conclave has been called on Suluk. In a glass-domed assembly chamber, with a view to the distant hive spires of Persepolis far below, six Inquisitors and their allies have gathered to determine the fate of the Macharian Sector.",
+   "ru": ""
+  },
+  "22": {
+   "en": "Dramatis Personae",
+   "ru": ""
+  },
+  "26": {
+   "en": "The six Inquisitors operating in the Macharian Sector, including their retinues and representative allies, are in attendance at the first Conclave. The GM should ensure that the characters can meet with or learn about each of the six Inquisitors during this first Conclave.",
+   "ru": ""
+  },
+  "30": {
+   "en": "Sylvestrine Horst",
+   "ru": ""
+  },
+  "40": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Horst} (@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-hereticus]{Ordo Hereticus}) bears herself with a calm determination. She has yet to appoint an Interrogator but is accompanied by a retinue of acolytes clad in gold masks, each one the face of an Imperial saint. They precede members of the Sisters Famulous from the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#the-adepta-sororitas]{Adepta Sororitas} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.A9cvKlA41X8qPyEw]{Order of the Hallowed Glass}.",
+   "ru": ""
+  },
+  "50": {
+   "en": "Konstan Serranus",
+   "ru": ""
+  },
+  "60": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.gRAiiRJkLKviH0K5]{Konstan Serranus} (@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-xenos]{Ordo Xenos}) is a dour and zealous man; his augmetic arm is a testament to his absolutism. A retinue of heavily augmented acolytes and a Magos representing the Tech-Priests of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.jB9sg2SDLZJGZrac]{Eskutchax} accompanies him.",
+   "ru": ""
+  },
+  "70": {
+   "en": "Alis Raud",
+   "ru": ""
+  },
+  "80": {
+   "en": "Tall, heavily armoured, and resolute, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud} (@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-malleus]{Ordo Malleus}) has all the bearing that many would imagine of an Inquisitor. Accompanying her are representatives of her myriad contacts — noble house agents, Rogue Trader associates, and Navis Imperialis officers.",
+   "ru": ""
+  },
+  "90": {
+   "en": "Aegidius Halikarn",
+   "ru": ""
+  },
+  "100": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.W50MW8gfyrDts9g3]{Aegidius Halikarn} (@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-hereticus]{Ordo Hereticus}) is watched warily by the other Inquisitors, for his pursuit of heretics is dogged and absolute, having excised corruption from within sacred Imperial institutions. The known Radical leads a compact retinue comprised of older yet hardened agents: former @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.bkP99HZ6JJ7IWd8U]{Tempestus Scions}, and other soldiers recruited from among the specialised ranks of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum}.",
+   "ru": ""
+  },
+  "110": {
+   "en": "Kai Varol",
+   "ru": ""
+  },
+  "122": {
+   "en": "Kai Varol",
+   "ru": ""
+  },
+  "124": {
+   "en": " (@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-xenos]{Ordo Xenos}, alias of @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Eskender Thracius}) comes across as wise and furtive, accompanied by specialists from the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.HlxK2pbpx2Uio6bU]{Imperial Fleet}. He mainly watches the proceedings, observing with cold calculation, speaking only when he feels the moment is right.",
+   "ru": ""
+  },
+  "134": {
+   "en": "Ksenia Baek",
+   "ru": ""
+  },
+  "144": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.sNDdDGlvY5m1HQ4R]{Ksenia Baek} (@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-hereticus]{Ordo Hereticus}) is an intense woman whose dominant psychic presence breeds discomfort in her peers. She leads a cadre of psykers, members of her retinue and representatives of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.upGG1JZPDbC7dpJJ]{Adeptus Astra Telepathica}.",
+   "ru": ""
+  },
+  "148": {
+   "en": "Intrigues",
+   "ru": ""
+  },
+  "152": {
+   "en": "The presence of so many Inquisitors, their retinues, and their allies provides characters with ample opportunity to make Contacts who may later prove helpful to them and their Patron. Among the attendees are:",
+   "ru": ""
+  },
+  "162": {
+   "en": "Antonius Tavnir",
+   "ru": ""
+  },
+  "164": {
+   "en": ", a representative of House Tavol of the @UUID[.bUgRB72Mw5eaLfL6]{Merchant Fleet}",
+   "ru": ""
+  },
+  "174": {
+   "en": "Sister Famulous Lysara",
+   "ru": ""
+  },
+  "176": {
+   "en": " of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.A9cvKlA41X8qPyEw]{Order of the Hallowed Glass}, operating among the nobility on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.si7mc5k5MVLqN049]{Xenophon}",
+   "ru": ""
+  },
+  "186": {
+   "en": "Magos Tal-Theta 661",
+   "ru": ""
+  },
+  "188": {
+   "en": " of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus} serving on the forge world @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.jB9sg2SDLZJGZrac]{Eskutchax}",
+   "ru": ""
+  },
+  "198": {
+   "en": "Knight-Centura Augustina",
+   "ru": ""
+  },
+  "200": {
+   "en": ", a @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.CBLdHnFWFqdhfRKx]{Sister of Silence} of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.OjmVcVX5lv76LsvL]{Adeptus Astra Telepathica}",
+   "ru": ""
+  },
+  "210": {
+   "en": "Kharket Graan",
+   "ru": ""
+  },
+  "212": {
+   "en": ", an astropath in service to @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.sNDdDGlvY5m1HQ4R]{Ksenia Baek}",
+   "ru": ""
+  },
+  "220": {
+   "en": "@UUID[.Y1wjtyi7JdgHxQiF#mare-cinis]{Mare Cinis} holds intrigues beyond the glut of attendees. The Inquisitorial base contains a wealth of information accessible to those with vermillion-level clearance, access to much of which can also be granted by an Inquisitor to their acolytes if justified. The datavaults and libraries include records of heretic activity dating back to the Macharian Crusade and beyond, ancient accounts passed down from Inquistitor to Inquisitor. However, access may be limited due to the sheer number of other acolytes competing for the same assets or information — but this may provide an opportunity for the characters to learn about what may be of interest to the other retinues.",
+   "ru": ""
+  },
+  "230": {
+   "en": "Strife I-A ",
+   "ru": ""
+  },
+  "234": {
+   "en": "The Void Stalker",
+   "ru": ""
+  },
+  "242": {
+   "en": "Inquisitor @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Eskender Thracius} of the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-xenos]{Ordo Xenos} is presumed dead. A shattered @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#aeldari]{Aeldari} battleship lies at the edge of the sector — one Inquisitor petitions for its immediate destruction, and another seeks to investigate, confirming the fate of Thracius.",
+   "ru": ""
+  },
+  "250": {
+   "en": "The tomb of thousands of @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#aeldari]{Aeldari} souls has claimed a new occupant — Inquisitor @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Eskender Thracius}. Tarran Selvir, the sole surviving acolyte of ",
+   "ru": ""
+  },
+  "252": {
+   "en": "Inquisitor Thracius",
+   "ru": ""
+  },
+  "254": {
+   "en": ", delivers the news of his master’s death. During an expedition aboard the Aeldari Void Stalker, he witnessed his master gunned down by remnants of the ship’s automated defences, a total freak accident.",
+   "ru": ""
+  },
+  "264": {
+   "en": "Kai Varol",
+   "ru": ""
+  },
+  "266": {
+   "en": " suggests contacting @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Valerius Nabopalassar} of the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-xenos]{Ordo Xenos} to study whatever Inquisitor @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Thracius} sought to recover.",
+   "ru": ""
+  },
+  "274": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.gRAiiRJkLKviH0K5]{Konstan Serranus} loathes the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#aeldari]{Aeldari} utterly and raises instead the vessel’s destruction. If the voidship, even in its shattered state, has brought about the death of an Inquisitor, it continues to pose a threat, making destruction imperative.",
+   "ru": ""
+  },
+  "282": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud} is unconcerned with the voidship’s fate but suggests @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Thracius}’s body is recovered to prove the Radical Inquisitor’s death.",
+   "ru": ""
+  },
+  "290": {
+   "en": "Operation",
+   "ru": ""
+  },
+  "296": {
+   "en": "The characters embark upon a long journey to the edge of the sector to investigate Inquisitor Thracius's death and scour the remains of an Aeldari vessel before it attracts undue attention.",
+   "ru": ""
+  },
+  "302": {
+   "en": "Regardless of whether the Void Stalker is to be destroyed or @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Thracius}’ field research recovered, ",
+   "ru": ""
+  },
+  "304": {
+   "en": "Kai Varol",
+   "ru": ""
+  },
+  "306": {
+   "en": " approaches characters undertaking this mission, offering to contact Selim @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#rogue-traders-of-note]{Iaysus}, a Rogue Trader whose voidship is already bound from @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy]{Persepolis} to the region where the wrecked @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#aeldari]{Aeldari} vessel was last sighted. Unbeknownst to the Conclave or characters undertaking this mission, Selim Iaysus and ",
+   "ru": ""
+  },
+  "308": {
+   "en": "Inquisitor Kai Varol",
+   "ru": ""
+  },
+  "310": {
+   "en": " are both aliases of ",
+   "ru": ""
+  },
+  "312": {
+   "en": "Inquisitor Eskender Thracius",
+   "ru": ""
+  },
+  "314": {
+   "en": ", whose past investigations into Aeldari technology had brought him dangerously close to being deemed ",
+   "ru": ""
+  },
+  "316": {
+   "en": "Excommunicate Traitoris",
+   "ru": ""
+  },
+  "318": {
+   "en": " by @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud}. Under his alias of Selim Laysus, ",
+   "ru": ""
+  },
+  "320": {
+   "en": "Thracius",
+   "ru": ""
+  },
+  "322": {
+   "en": " aims to ensure his field notes are recovered, either by characters undertaking this mission or by Selim’s voidsmen.",
+   "ru": ""
+  },
+  "328": {
+   "en": "The Void Stalker",
+   "ru": ""
+  },
+  "332": {
+   "en": "One of the largest classes of Aeldari voidship, the Inquisition has recorded sightings of these vessels dating back to the Gothic War. The Macharian Inquisition has no records of investigating such a vessel up close. Despite its wrecked state, surrounded by a debris field of its shattered stern and solar sails, parts of the voidship remain operational, including its voidshields and holofield. Characters can discover that the reason for its decimated state is pure accident — contact with a freak meteorite storm.",
+   "ru": ""
+  },
+  "338": {
+   "en": "A boarding action to recover the body of ",
+   "ru": ""
+  },
+  "340": {
+   "en": "Inquisitor",
+   "ru": ""
+  },
+  "342": {
+   "en": " @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Thracius} provides an opportunity for an assured controlled shipboard demolition, saving the expenditure of macro-tons of the God-Emperor’s ordinance. Upon approach, it becomes evident that the debris field is not the only hazard surrounding the Void Stalker; some of its automated defences remain operational, commanded by the souls of dead Aeldari still interred within the voidship’s operational technology. Small vessels approaching the wreck must run a gauntlet of starcannon and bright lance fire.",
+   "ru": ""
+  },
+  "352": {
+   "en": "Characters who board the Void Stalker find its crew long dead, unlit halls littered with desiccated Aeldari bodies. However, derelict @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.CuYIq94DC9jXSdCG]{Wraithguard}, wraithbone war constructs, still undertake guard patrols. The sound of their unmaintained forms scrapes against the vessel’s corridors, reverberating through voidsuits with an almost musical, sharp shrillness.",
+   "ru": ""
+  },
+  "356": {
+   "en": "Characters may come across the bodies of @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Thracius’} acolytes (save Selvir, the one survivor who fled), who fell while holding the position of ",
+   "ru": ""
+  },
+  "358": {
+   "en": "Thracius",
+   "ru": ""
+  },
+  "360": {
+   "en": "’ field laboratory close to the shattered remnants of the vessel’s bridge. The Inquisitor’s research is present, with stacks of cogitators watched by inert servo-skulls, but ",
+   "ru": ""
+  },
+  "362": {
+   "en": "Thracius",
+   "ru": ""
+  },
+  "364": {
+   "en": "’ corpse is absent.",
+   "ru": ""
+  },
+  "368": {
+   "en": "Upon reaching this area of the vessel, the characters begin to detect traces of other living creatures aboard the vessel, approaching their position. A team of House Iaysus @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.kYpTOdUezMczq5eC]{Voidsmen} also travelled to the Void Stalker, seeking to recover @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Thracius}’ research. Their orders, purportedly left by the late ",
+   "ru": ""
+  },
+  "370": {
+   "en": "Inquisitor",
+   "ru": ""
+  },
+  "374": {
+   "en": "Thracius",
+   "ru": ""
+  },
+  "376": {
+   "en": ", included commands to avoid any other operatives aboard and, if discovered, eliminate all witnesses.",
+   "ru": ""
+  },
+  "380": {
+   "en": "Outcome",
+   "ru": ""
+  },
+  "384": {
+   "en": "Whichever operation the characters undertake, their Patron gains +1 Legitimacy on their triumphant return. The failure to recover the body of @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Eskender Thracius} plants a seed of suspicion within the characters’ Patron. @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud}, who had already begun to suspect ",
+   "ru": ""
+  },
+  "386": {
+   "en": "Thracius",
+   "ru": ""
+  },
+  "388": {
+   "en": " of radicalism bordering on heresy, is incentivised to further investigate ",
+   "ru": ""
+  },
+  "390": {
+   "en": "Thracius",
+   "ru": ""
+  },
+  "392": {
+   "en": "’ last activities.",
+   "ru": ""
+  },
+  "396": {
+   "en": "If characters recover @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Thracius}’ research, their Patron gains the favour of ",
+   "ru": ""
+  },
+  "398": {
+   "en": "Kai Varol",
+   "ru": ""
+  },
+  "400": {
+   "en": " and Valerius Nabopalassar, an Aeldari specialist to whom the research is passed (secretly yet another of Thracius’ aliases).",
+   "ru": ""
+  },
+  "404": {
+   "en": "If the characters’ Patron does not take action, or should they fail to destroy the voidship, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.gRAiiRJkLKviH0K5]{Serranus} commandeers a small naval fleet to destroy the xenos voidship. He earns +1 Legitimacy and the ire of ",
+   "ru": ""
+  },
+  "406": {
+   "en": "Kai Varol",
+   "ru": ""
+  },
+  "408": {
+   "en": " (@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Thracius}). Robbed of his research, ",
+   "ru": ""
+  },
+  "410": {
+   "en": "Thracius",
+   "ru": ""
+  },
+  "412": {
+   "en": " will take action against ",
+   "ru": ""
+  },
+  "414": {
+   "en": "Serranus",
+   "ru": ""
+  },
+  "416": {
+   "en": " when the time is right.",
+   "ru": ""
+  },
+  "426": {
+   "en": "Strife I-B ",
+   "ru": ""
+  },
+  "430": {
+   "en": "Goros Pok",
+   "ru": ""
+  },
+  "438": {
+   "en": "Four prominent cults have risen to power on Goros Pok, each one is suspected of heresy. One Inquisitor seeks to cut the heads off each cult and let each body wither without leadership. Another suggests eradicating them, to quell any further uprisings on the planet.",
+   "ru": ""
+  },
+  "446": {
+   "en": "In the wake of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#silence-and-darkness]{Noctis Aeterna}, cult uprisings and civil unrest on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok} have become commonplace. The planet’s inhabitants struggle to cope with the growing mounds of rotting unclaimed agricultural produce and subsequent belief that the God-Emperor ignored their plight. Characters deployed to tackle this Strife could spend years investigating and purging these cults.",
+   "ru": ""
+  },
+  "454": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Sylvestrine Horst} argues that strike teams should be deployed to investigate each cult and subsequently eradicate its leadership. Surgically removing each cult’s leadership will cause the body to wither without their direction.",
+   "ru": ""
+  },
+  "462": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.W50MW8gfyrDts9g3]{Aegidius Halikarn} believes the Inquisition should eradicate the major cults entirely but through subterfuge, infiltration, and goading them into internecine conflicts between one another.",
+   "ru": ""
+  },
+  "470": {
+   "en": "Severina Melnyk, Interrogator to ",
+   "ru": ""
+  },
+  "472": {
+   "en": "Inquisitor",
+   "ru": ""
+  },
+  "474": {
+   "en": " @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.sNDdDGlvY5m1HQ4R]{Baek} presents an initial report on each of the major cults:",
+   "ru": ""
+  },
+  "484": {
+   "en": "The Blood-crop Combine",
+   "ru": ""
+  },
+  "486": {
+   "en": ", whose increasing blood sacrifices resemble Khornate cult practices.",
+   "ru": ""
+  },
+  "496": {
+   "en": "The Twisted Sickle",
+   "ru": ""
+  },
+  "498": {
+   "en": ", followers of an alleged three-armed saint, preaching of the God-Emperor’s return.",
+   "ru": ""
+  },
+  "508": {
+   "en": "The Harrower-In-Green",
+   "ru": ""
+  },
+  "510": {
+   "en": ", hold that the produce stored but uncollected was the Emperor’s will. They now gather and hold vast stockpiles of produce, jubilant in its rot as intended by Him on Terra.",
+   "ru": ""
+  },
+  "520": {
+   "en": "The Changing Season",
+   "ru": ""
+  },
+  "522": {
+   "en": ", of whom little is known, save for their association with ritual killings. But are a cause for concern due to confirmed Warp phenomena associated with each killing.",
+   "ru": ""
+  },
+  "530": {
+   "en": "Operation",
+   "ru": ""
+  },
+  "536": {
+   "en": "The characters begin a years-long mission on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok} to determine the fate of the suspect cults, the planet, and potential implications for the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.MzIWAwZ8jPAOydDi]{Yix Subsector}.",
+   "ru": ""
+  },
+  "548": {
+   "en": "Regardless of which plan of action they seek, characters are deployed to the surface of Goros Pok. They must first contact Confessor Verity Tiberius, who oversees the planet’s spiritual needs and has come to identify the major strains of unsettling zealotry that risk deviation from the Imperial Creed.",
+   "ru": ""
+  },
+  "552": {
+   "en": "Further investigation demands working alongside the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.cvpsLwcsXf4myIpK]{Adeptus Administratum}, who has become inundated with reports on cult activity, many of which they have yet to realise the importance of. The situation on Goros Pok is exceptionally fragile, and any mismanaged strike against these cults will likely spur mob violence rather than a shadow war, as one group of zealots assigns blame and labels of heresy to another. The planet’s enforcers do not have the resources to quell the rising of multiple cults or a full blown civil war, but they may be able to crack down on individual cults if given the correct guidance.",
+   "ru": ""
+  },
+  "556": {
+   "en": "In investigating each cult, characters can discover the following information, key in dealing with each one:",
+   "ru": ""
+  },
+  "566": {
+   "en": "The Blood-crop Combine",
+   "ru": ""
+  },
+  "568": {
+   "en": " continue to worship the God-Emperor, but some of their rites draw close to worshipping only the act of violence itself, ‘returning blood to the soil’. This cult is not beyond saving; only a few rising death cult members have swayed towards Khornate influence, and their salvation would bear a strong ally for the Inquisition on Goros Pok.",
+   "ru": ""
+  },
+  "576": {
+   "en": "Central to ",
+   "ru": ""
+  },
+  "578": {
+   "en": "The Twisted Sickle's",
+   "ru": ""
+  },
+  "580": {
+   "en": " worship is a three-armed woman bearing xenos-tainted genetics and a prodigious psychic capability to bend the wills of those around her. They are the beginnings of a @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#tyranids]{Genestealer Cult} cell whose goal is to disrupt supply chains out of Goros Pok, bloating the planet’s biomass and ripening it for Hive Fleet invasion.",
+   "ru": ""
+  },
+  "588": {
+   "en": "The ",
+   "ru": ""
+  },
+  "590": {
+   "en": "Harrower-In-Green",
+   "ru": ""
+  },
+  "592": {
+   "en": " was initially perceived as an aspect of the God-Emperor, but more and more of the cult’s rites worship Him by this name alone and pay no heed whatsoever to the teachings of the Imperial Creed. A shadow leadership of Nurgle cultists steer citizens towards greed and excess.",
+   "ru": ""
+  },
+  "602": {
+   "en": "The Changing Season",
+   "ru": ""
+  },
+  "604": {
+   "en": " sees the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.dOdB17RuClYozQ15]{Noctis Aeterna} as the death throes of a season some 10,000 Terran years long. A group of heretic psykers leading this group are guided by a voice from the Warp, under whose guidance they perform sacrificial rites to ‘ready the soil for the season’s turn’. Behind the scenes, a Tzeentchian daemon sees Goros Pok’s landscape as a prime target for manipulation and chaos.",
+   "ru": ""
+  },
+  "612": {
+   "en": "Outcome",
+   "ru": ""
+  },
+  "616": {
+   "en": "Characters who succeed in their operation on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok} earn +2 Legitimacy for their Patron.",
+   "ru": ""
+  },
+  "620": {
+   "en": "If they carried out @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Horst}’s plan of targeted strikes, the cults are curtailed with minimal impact to Goros Pok’s tithe production, and they earn the Inquisitor’s respect.",
+   "ru": ""
+  },
+  "624": {
+   "en": "If they play the cults against each other or eradicate them, their corruption will be purged from the world, but with it, the planet’s productivity falls dangerously low. Famine begins to spread on worlds reliant upon Goros Pok for sustenance.",
+   "ru": ""
+  },
+  "628": {
+   "en": "If the characters take no action in this Strife, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.W50MW8gfyrDts9g3]{Halikarn} and @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Raud} combine their resources to incite war between the four cults, earning both of them +1 Legitimacy, and the latter above results for the planet and sector.",
+   "ru": ""
+  },
+  "638": {
+   "en": "Strife I-C ",
+   "ru": ""
+  },
+  "642": {
+   "en": "The Fate of the Lucanus",
+   "ru": ""
+  },
+  "650": {
+   "en": "Reports from multiple sources claim unusual activity on Calvus Station, an isolated asteroid mining colony in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.4LYxCIJ2ansZ5wFk]{Andosk Subsector}. They claim sightings of a predatory xenos species, co-occurring with increased nonstandard worship practices among the populace.",
+   "ru": ""
+  },
+  "658": {
+   "en": "A strange report comes from the crew of the freighter Lucanus, brought to light and delivered to @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.gRAiiRJkLKviH0K5]{Konstan Serranus}. The voidship’s communications were scrambled on its most recent return to Calvus Station, other than a cacophonous screeching emitted by the vessel’s astropath, one that was felt by nearby choirs in the subsector.",
+   "ru": ""
+  },
+  "666": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.gRAiiRJkLKviH0K5]{Konstan Serranus} argues that the source of this corruption must be uncovered and excised, lest it pose a risk to navigation in the subsector.",
+   "ru": ""
+  },
+  "674": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.sNDdDGlvY5m1HQ4R]{Ksenia Baek} suggests capturing and studying the affected psyker (and any other psykers in the station) to curtail and understand the source of the unnerving psychic phenomenon.",
+   "ru": ""
+  },
+  "682": {
+   "en": "Operation",
+   "ru": ""
+  },
+  "688": {
+   "en": "The characters are sent to investigate Calvus Station and uncover the hidden xenos threat. Unbeknownst to them, this represents their first steps towards confronting the Herald’s Howl.",
+   "ru": ""
+  },
+  "700": {
+   "en": "VoidstationS",
+   "ru": ""
+  },
+  "704": {
+   "en": "Voidstations are space-tight structures of varying sizes, some small outposts, others as large as cities. All voidstations are built for a purpose, and most have some tie to the Imperial Fleet, acting as supply depots, orbital defences, or voiddocks. Some, like Calvus, are built into the sides of massive asteroids where their citizens work tirelessly to excavate the rare ores. Daily life is not unlike that in a hive city, but resources are often even more scarce. Life is more deadly too, with often only a thin plasteel wall between citizens and endless vacuum.",
+   "ru": ""
+  },
+  "710": {
+   "en": "Characters deployed to Calvus Station find the ",
+   "ru": ""
+  },
+  "712": {
+   "en": "Lucanus",
+   "ru": ""
+  },
+  "714": {
+   "en": " undergoing repairs, apparently after damage it suffered in transit. The crew claim this as an inconsequential delay, although the bridge is maintained off-limits by @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.kYpTOdUezMczq5eC]{voidsmen} on orders from the voidship’s officers, who are currently aboard the asteroid station.",
+   "ru": ""
+  },
+  "724": {
+   "en": "On Calvus Station, life appears to continue in its normal cycles of industrial drudgery, although many of the workers bear oddly similar appearances: hairlessness, visible veins on the head and neck, and heavy brow ridges. Any queries about these features are met with dismissal and claim that these features are merely the effect of the conditions of working in the asteroid field, between limited radiation shielding and artificially enhanced gravity",
+   "ru": ""
+  },
+  "728": {
+   "en": "Characters can meet with the station’s governor, Mordren Tiris. She claims that the officers are guests in her residence and that the astropath’s signals are due to them undergoing an augmetic installation and medical treatment after an incident during the vessel’s last voyage through the Warp. Shortly after meeting, Tiris tries to arrange the characters’ deaths through an industrial accident or by @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.KvLrPAQ0gmIWSvfX]{Purestrain Genestealers} attacking by night.",
+   "ru": ""
+  },
+  "732": {
+   "en": "In searching Calvus Station, characters can uncover that the vessel’s officers have been killed and that the station is under the subtle control of a @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#tyranids]{Genestealer Cult}, comprising some forty percent of the workers, with Governor Tiris at its head. The cult operates from a shrine complex in the bowels of the asteroid, which they will sell their lives to defend. Here, a coven of Genestealer Cult psykers, commanded by Tiris, are holding the captured astropath, trying to reach some other entity through the tortured astropath’s distorted psychic screaming.",
+   "ru": ""
+  },
+  "736": {
+   "en": "The chamber of the psykers is host to a piece of information with potentially vital significance — a star chart is scrawled across the ceiling in a vile parody of a painted Imperial chapel, depicting a great monstrous wyrm strewn across the Macharian Sector. Five dozen star systems seem to have been picked out with some special embellished symbolism, but its meaning, their exact coordinates, and which systems they represent are uncertain, even to the Genestealer Cultists present — the artwork conveyed a raw psychic image from the Patriarch, with no further details to aid in its interpretation.",
+   "ru": ""
+  },
+  "740": {
+   "en": "Outcome",
+   "ru": ""
+  },
+  "744": {
+   "en": "If the characters complete the mission, their Patron gains +1 Legitimacy. Recovering images of the Star Map suggests the potential of a broader Genestealer Cult threat lying in wait across the Macharian Sector, a significant concern for the Macharian Inquisitors at future Conclaves. They can claim the ",
+   "ru": ""
+  },
+  "746": {
+   "en": "Lucanus",
+   "ru": ""
+  },
+  "748": {
+   "en": " as an asset but need to find a crew to operate it — their Patron could help.",
+   "ru": ""
+  },
+  "752": {
+   "en": "If the characters fail to end the distorted psychic signal and the activities of the Genestealer Cult on Calvus Station, they complete their plan to hijack the ",
+   "ru": ""
+  },
+  "754": {
+   "en": "Lucanus",
+   "ru": ""
+  },
+  "756": {
+   "en": ". They gain greater logistical interconnectivity in setting up the Herald’s Howl.",
+   "ru": ""
+  },
+  "760": {
+   "en": "If no others undertake this mission, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.sNDdDGlvY5m1HQ4R]{Ksenia Baek} sends her acolytes to complete the mission, granting her +1 Legitimacy. Her operatives recover pict recordings of the Star Map, as well as the astropath and a Genestealer Cult psyker.",
+   "ru": ""
+  },
+  "770": {
+   "en": "Conclave I Conclusion",
+   "ru": ""
+  },
+  "774": {
+   "en": "The Inquisitors depart @UUID[.Y1wjtyi7JdgHxQiF#mare-cinis]{Mare Cinis} with growing concern at the deaths of two Inquisitors in quick succession, particularly @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud}, who had already begun to suspect @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Eskender Thracius} of heresy. Despite the large-scale chaos on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok}, the fate of the ",
+   "ru": ""
+  },
+  "776": {
+   "en": "Lucanus",
+   "ru": ""
+  },
+  "778": {
+   "en": " may have greater importance than anyone has yet realised.",
+   "ru": ""
+  }
+ }
+}

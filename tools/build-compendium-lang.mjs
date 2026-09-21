@@ -72,7 +72,7 @@ const MODULE_PACKS = "navis-apexialis";
  * Like `results`, a source file may write them as an array in the journal's own
  * order and the build keys them by page id.
  */
-const FIELDS = ["name", "description", "gmNotes", "characterNotes", "patronNotes", "requirement", "powerTarget", "playerNotes", "species", "role", "faction", "items", "results", "pages", "drawings", "regions"];
+const FIELDS = ["name", "description", "gmNotes", "characterNotes", "patronNotes", "requirement", "powerTarget", "playerNotes", "species", "role", "faction", "items", "results", "pages", "drawings", "notes", "regions"];
 
 /**
  * Names that are also code.
@@ -142,6 +142,18 @@ for (const file of sources) {
   byCollection.get(collection).push(file);
 }
 
+/**
+ * An actor's embedded items are a map, and two slices routinely describe
+ * different items of the same actor — one the book's traits, another its kit.
+ * A plain spread keeps whichever slice came last and drops the other's items.
+ */
+function mergeItems(a, b) {
+  if (!a?.items && !b?.items) return {};
+  const items = { ...(a?.items ?? {}) };
+  for (const [name, item] of Object.entries(b?.items ?? {})) items[name] = { ...(items[name] ?? {}), ...item };
+  return { items };
+}
+
 for (const [collection, files] of byCollection) {
   const pack = index[collection];
   const out = {};
@@ -171,7 +183,8 @@ for (const [collection, files] of byCollection) {
     // away and left its document untranslated.
     for (const [english, entry] of Object.entries(slice.byName ?? {})) {
       const key = `${entry.type ?? "*"} :: ${english}`;
-      source.byName[key] = { english, entry: { ...source.byName[key]?.entry, ...entry } };
+      const before = source.byName[key]?.entry ?? {};
+      source.byName[key] = { english, entry: { ...before, ...entry, ...mergeItems(before, entry) } };
     }
     source.label ??= slice.label ?? null;
   }
@@ -192,7 +205,10 @@ for (const [collection, files] of byCollection) {
       problems.push(`${collection}: no document named "${english}"${entry.type ? ` of type ${entry.type}` : ""}`);
       continue;
     }
-    for (const id of ids) entries[id] = { ...entry, en: english };
+    // A document may be described once by id (long rules text) and once by
+    // name (chapter index/name). Keep both: the name slice must not erase
+    // fields such as characterNotes or patronNotes from the id slice.
+    for (const id of ids) entries[id] = { ...(entries[id] ?? {}), ...entry, ...mergeItems(entries[id] ?? {}, entry), en: english };
   }
 
   for (const [id, entry] of Object.entries(entries)) {
@@ -269,6 +285,17 @@ for (const [collection, files] of byCollection) {
 
   if (pack.documentName === "RollTable") {
     const nameFor = (refPack, id) => {
+      const [refModule, refName] = refPack.split(".");
+      const refPrefix = {
+        "impmal-core": "navis-core",
+        "impmal-inquisition": "navis-inquisition",
+        "impmal-requisition": "navis-requisition",
+        "impmal-voll": "navis-voll"
+      }[refModule];
+      // The consolidated packs are written as navis-apexialis.<pack>.json. An
+      // unprefixed name here once read a stale copy from an earlier layout,
+      // which worked only as long as nobody cleaned the directory.
+      if (refPrefix) refPack = `navis-apexialis.${refPrefix}-${refName}`;
       const target = path.join(OUT, `${refPack}.json`);
       if (!fs.existsSync(target)) return null;
       referenced[refPack] ??= JSON.parse(fs.readFileSync(target, "utf8")).entries;
@@ -399,11 +426,19 @@ for (const [collection, files] of byCollection) {
   if (problems.length) continue;
 
   fs.mkdirSync(OUT, { recursive: true });
-  const target = path.join(OUT, `${collection}.json`);
+  const [moduleId, packName] = collection.split(".");
+  const migratedModule = {
+    "impmal-core": "navis-core",
+    "impmal-inquisition": "navis-inquisition",
+    "impmal-requisition": "navis-requisition",
+    "impmal-voll": "navis-voll"
+  }[moduleId];
+  const outputCollection = migratedModule ? `navis-apexialis.${migratedModule}-${packName}` : collection;
+  const target = path.join(OUT, `${outputCollection}.json`);
   fs.writeFileSync(target, `${JSON.stringify({ label: source.label ?? pack.label, entries: out }, null, 2)}\n`);
 
   const total = Object.keys(pack.entries).length;
-  written.push({ collection, done: Object.keys(out).length - shielded, total, shielded, rows, pages });
+  written.push({ collection: outputCollection, done: Object.keys(out).length - shielded, total, shielded, rows, pages });
 }
 
 if (problems.length) {

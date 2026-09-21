@@ -2,7 +2,7 @@
   "name": "Dug In Deep",
   "type": "talent",
   "_id": "malExpTal0000056",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Extra armor while in cover: Light +1, Medium/Heavy +2</span></p><hr><p><span style=\"font-family: Arial\"><em>You are an expert of defensive warfare, making maximum use of cover to reinforce your position. When targeted by an enemy whilst in Light Cover, you gain +1 Armor, and whilst in Medium or Heavy Cover you gain +2 Armor.</em></span></p>",

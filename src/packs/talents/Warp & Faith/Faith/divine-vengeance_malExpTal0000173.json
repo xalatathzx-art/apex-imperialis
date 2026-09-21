@@ -2,7 +2,7 @@
   "name": "Divine Vengeance",
   "type": "talent",
   "_id": "malExpTal0000173",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">First crit in combat: regain one FP</span></p><hr><p><span style=\"font-family: Arial\"><em>The first time in a combat encounter that you inflict a Critical hit upon an enemy, you regain 1 spent Fate Point. </em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "Faithful (Imperial Cult) Talent, 2 Advances in Ranged or 2 Advances in Melee",
-      "script": "return (this.actor.system.skills.ranged.advances >= 2 || this.actor.system.skills.melee.advances >= 2) && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful(Imperial Cult)\")"
+      "script": "return (this.actor.system.skills.ranged.advances >= 2 || this.actor.system.skills.melee.advances >= 2) && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful (imperial Cult)\")"
     },
     "test": {
       "difficulty": "challenging",

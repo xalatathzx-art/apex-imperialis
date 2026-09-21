@@ -2,7 +2,7 @@
   "name": "Серво-Обвязка",
   "type": "navis-apexialis.implant",
   "_id": "navisImp00000090",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00006",
   "sort": 9000,
   "system": {

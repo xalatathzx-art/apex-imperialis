@@ -1,0 +1,241 @@
+{
+ "journal": "DSccO5miF7LSJCVS",
+ "journalName": "Illicit Fabrications",
+ "page": "Wg3MpL7rSVOWhIlt",
+ "pageName": "Part 3: Toils Of The Twisted",
+ "name": "Часть 3: «Труды искажённых»",
+ "runs": {
+  "2": {
+   "en": "The party is confronted with an unlikely ally and the horrific fate of the manufactorum workers and must decide if they are willing to descend even deeper into the mystery.",
+   "ru": "Отряд сталкивается с неожиданным союзником и узнаёт об ужасной участи рабочих мануфакторума, и теперь персонажам предстоит решить, готовы ли они погрузиться в эту тайну ещё глубже."
+  },
+  "6": {
+   "en": "Lerna Harrog’s Story",
+   "ru": "История Лерны Харрог"
+  },
+  "10": {
+   "en": "The party may react violently to @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Harrog}. If so, she attempts to plead her case while dodging their attacks and hiding in the shadows. Her voice is halting, fearful and angry at once. She knows she is an abomination, and her memories are beginning to fade. She fears — correctly — that whatever Humanity she has left will soon be lost.",
+   "ru": "Отряд может встретить @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Харрог} враждебно. В таком случае она пытается объясниться, уворачиваясь от атак и прячась в тенях. Голос её прерывист, испуган и зол одновременно. Она знает, что стала мерзостью, и её воспоминания начинают угасать. Она боится — и не зря, — что то человеческое, что в ней осталось, скоро будет утрачено."
+  },
+  "14": {
+   "en": "She tries to explain that she wasn’t always like this, that something was done to her, and that once she realised that the characters were investigating the ruins, they might help her. Read aloud or paraphrase the following information:",
+   "ru": "Она пытается объяснить, что не всегда была такой, что с ней что-то сделали и что, поняв, что персонажи расследуют случившееся в руинах, она решила, что они могут ей помочь. Зачитайте вслух или перескажите следующее:"
+  },
+  "20": {
+   "en": "I was a worker in the manufactorum… all of us were once,’ she says, gesturing to the bodies. People with guns came and took us. Then there was another manufactorum, an… underfactorum, I heard someone call it, somewhere below. They wanted us to make something, but we couldn’t get it right. The man above would ask who wanted to be set free, and I volunteered. But that was a lie. I remember a vat and terrible pain, then darkness, and I woke up here.",
+   "ru": "Я работала на мануфакторуме… мы все когда-то там работали, — говорит она, указывая на тела. — Пришли люди с оружием и забрали нас. Потом был другой мануфакторум, какой-то… подфакторум, так его кто-то назвал, где-то внизу. Они хотели, чтобы мы что-то делали, но у нас не получалось как надо. Человек наверху спрашивал, кто хочет на свободу, и я вызвалась. Но это была ложь. Помню чан, страшную боль, потом тьму — и я очнулась здесь."
+  },
+  "26": {
+   "en": "Whether the party is chasing her or they are parlaying with her, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Harrog} leads them into a vast cistern in the Maintenance Spillways, which contains evidence related to her tragedy.",
+   "ru": "Гонится ли за ней отряд или ведёт с ней переговоры, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Харрог} приводит персонажей в огромную цистерну технических водосбросов, где хранятся свидетельства её трагедии."
+  },
+  "32": {
+   "en": "The Maintenance Spillways ",
+   "ru": "Технические водосбросы "
+  },
+  "36": {
+   "en": "Intended to provide emergency capacity to the massive chemical pipelines that thread their way through the level, the cistern has become a charnel house. Dozens of twisted corpses lie strewn about the chamber, their rotting forms massed against barred sewer grates. The remains of misshapen creatures and hideous mutants are strewn across the pit, but here and there, a recognisable limb or face can be made out amidst the horror. These are the remains of those who volunteered to undergo treatment with the stolen rejuvenat, their bodies tossed aside once it was clear the effects were not what was desired.",
+   "ru": "Цистерна, призванная принимать аварийный избыток из огромных химических трубопроводов, что вьются через этот уровень, превратилась в склеп. По залу разбросаны десятки изуродованных трупов, их гниющие тела навалены у зарешёченных стоков. Останки уродливых созданий и омерзительных мутантов усеивают яму, но то тут, то там среди этого ужаса можно различить узнаваемую конечность или лицо. Это останки тех, кто вызвался пройти процедуру украденным омолаживающим средством, — их тела выбросили, как только стало ясно, что результат не тот, какого ждали."
+  },
+  "40": {
+   "en": "Having tried to find the so-called ‘underfactorum’ many times, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Harrog} has never been successful and states that the longer this goes on, the more workers die or worse. Should the party mention @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Navrak}, Harrog is hit by a wave of pain, clutching her head and trembling; several seconds pass before she settles again. Harrog confirms that she believes Navrak was the man above in charge. Should the characters ask about a Tech-Priest, she affirms that one was present among the Knives. ",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Харрог} много раз пыталась найти так называемый «подфакторум», но безуспешно, и говорит, что чем дольше это продолжается, тем больше рабочих умирает — или хуже. Если отряд упомянет @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Наврака}, Харрог накрывает волна боли: она хватается за голову и дрожит, и проходит несколько секунд, прежде чем она приходит в себя. Харрог подтверждает, что, по её мнению, Наврак и был тем главным человеком наверху. Если персонажи спросят о техножреце, она подтверждает, что среди Ножей был один такой. "
+  },
+  "44": {
+   "en": "If the party spares @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Harrog}, she can lead them to the facility — she knows where it is, but has been too afraid to go there alone. If they attack Harrog, she still tries to point them in the right direction. If they slay her, the characters are on their own, but there are tracks to follow. A successful extended ",
+   "ru": "Если отряд пощадит @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Харрог}, она может отвести персонажей к объекту: она знает, где он, но слишком боялась идти туда одна. Если на Харрог нападут, она всё равно попытается указать верное направление. Если её убьют, персонажам придётся действовать самим, но есть следы, по которым можно пройти. Успешная продолжительная "
+  },
+  "46": {
+   "en": "Challenging (+0) Navigation (Tracking)",
+   "ru": "Средняя (+0) проверка Ориентирования (Следы)"
+  },
+  "48": {
+   "en": " Test requiring 10 SL total, with one Test allowed each hour, can bring them to the facility, mainly by tracing the spillways back in the direction the bodies appear to have come from.",
+   "ru": " с общей целью в 10 КУ, по одной проверке в час, приведёт их к объекту — в основном если идти по водосбросам туда, откуда, судя по всему, принесли тела."
+  },
+  "52": {
+   "en": "The Underfactorum ",
+   "ru": "Подфакторум "
+  },
+  "56": {
+   "en": "The spillways carry very little Human filth — what liquid flows through them is primarily chemical waste and, little better, any excess acid rain that had made its way down from above. Still, the stench of promethium and sweat can be made out as the characters approach the facility. Far more apparent are the cacophonous rattle of machinery and dull susurrations of captive @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{Manufactorum Labourers}. Dozens of tightly packed workers, pale and exhausted, operate hastily organised machinery amid an ancient manufactorum brought back to some semblance of function.",
+   "ru": "По водосбросам течёт очень мало человеческих нечистот — это в основном химические отходы и, ненамного лучше, избыток кислотного дождя, стекающего сверху. И всё же на подходе к объекту персонажи различают запах прометия и пота. Куда заметнее оглушительный лязг машин и глухой ропот пленных @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{рабочих с мануфакторума}. Десятки теснящихся рабочих, бледных и измождённых, управляют наспех собранными машинами посреди древнего мануфакторума, кое-как возвращённого к работе."
+  },
+  "60": {
+   "en": "A dozen armed @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{Gangers} guard a large central chamber, with twin metal staircases leading up to a metal gantry above. Bright green fluid collects into waiting tanks lining the walls.",
+   "ru": "Большой центральный зал охраняет дюжина вооружённых @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{бойцов банды}; две металлические лестницы ведут на металлический мостик наверху. Ярко-зелёная жидкость стекает в ёмкости, выстроившиеся вдоль стен."
+  },
+  "66": {
+   "en": "Sensible characters might judge this arrangement as too many gangers to overcome in a frontal assault. If the party seems set on rushing in, remind them they could gain some Superiority by scouting the area or taking up advantageous positions before the fighting begins. If they are determined to simply open fire, you should oblige them with a suitably brutal fight — feel free to arm a few gangers with heavy weaponry, such as a @UUID[Compendium.navis-apexialis.navis-core-items.Item.vEhnJA0i6WqddsNh]{Heavy Stubber}. In combat, many gangers spend their turns taking the Aim Action to make sure they hit their targets and avoid collateral damage; they have been explicitly warned against damaging the machinery.",
+   "ru": "Здравомыслящие персонажи, скорее всего, решат, что гангеров слишком много для лобовой атаки. Если отряд всё же рвётся в бой, напомните, что можно получить превосходство, разведав местность или заняв выгодные позиции до начала схватки. Если персонажи твёрдо намерены просто открыть огонь, устройте им подобающе жестокую схватку — можете вооружить нескольких гангеров тяжёлым оружием, например @UUID[Compendium.navis-apexialis.navis-core-items.Item.vEhnJA0i6WqddsNh]{тяжёлым стаббером}. В бою многие гангеры тратят ходы на действие «Прицеливание», чтобы наверняка попасть в цель и избежать сопутствующего ущерба: им строго-настрого запретили повреждать оборудование."
+  },
+  "72": {
+   "en": "A Brewing Madness",
+   "ru": "Зреющее безумие"
+  },
+  "76": {
+   "en": "Now, so close to the scene of her transformation, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Lerna Harrog}’s condition worsens. She clutches her head at a suitably dramatic point, her muffled screams threatening to give the characters away. It should be clear to them that Harrog’s time is running out.",
+   "ru": "Теперь, так близко к месту своего превращения, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Лерна Харрог} чувствует себя всё хуже. В подходящий драматический момент она хватается за голову, и её приглушённые крики грозят выдать персонажей. Им должно быть ясно, что время Харрог на исходе."
+  },
+  "82": {
+   "en": "Assuming the party did not rush in, they observe a shift change among the labourers. Workers file into makeshift cells within side chambers while the next group emerges to begin their shift. This process does not take long, but for this narrow window, there are no workers on the manufactorum floor — a moment the characters may take advantage of, if they act quickly or wait for the following shift change several hours hence.",
+   "ru": "Если отряд не бросился в бой очертя голову, персонажи видят пересменку. Рабочие гуськом уходят в самодельные камеры в боковых помещениях, а следующая смена выходит на работу. Это длится недолго, но в это короткое окно в цеху нет рабочих — моментом можно воспользоваться, если действовать быстро, либо дождаться следующей пересменки через несколько часов."
+  },
+  "86": {
+   "en": "Features of the Manufactorum",
+   "ru": "Особенности мануфакторума"
+  },
+  "90": {
+   "en": "Various Zones, features, and rooms across the Underfactorum shape the following encounters:",
+   "ru": "Следующие сцены определяются различными зонами, особенностями и помещениями подфакторума:"
+  },
+  "98": {
+   "en": "An iron grate at the centre of the manufactorum floor is partially concealed from sight; however, it appears to be locked tight and must be picked or cut through to be of use. This grate is a valuable escape route for later that leads to an exit point in @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth's}Lower Hive. ",
+   "ru": "Железная решётка в центре цеха частично скрыта от глаз, но, похоже, крепко заперта: чтобы ей воспользоваться, замок придётся вскрыть или решётку прорезать. Позже эта решётка станет ценным путём к отступлению — она ведёт к выходу в нижнем улье @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта}. "
+  },
+  "106": {
+   "en": "Behind another filthy grate lies the worker’s fetid abulation chamber. A single ganger guards it, but otherwise, it is a quiet place to hide or launch an attack from. The doorless entrance opens onto the manufactorum floor, and several discarded workers’ uniforms lie in a pile inside.",
+   "ru": "За другой грязной решёткой находится зловонная умывальня рабочих. Её охраняет единственный гангер, но в остальном это тихое место, где можно спрятаться или откуда можно начать атаку. Вход без двери выходит в цех, а внутри в куче лежат брошенные рабочие робы."
+  },
+  "114": {
+   "en": "A mouldering pipe leads to a small makeshift control room where cracked cogitator screens display pressure readouts. Two Manufactorum Workers attend these consoles while two Gangers sit at a small table playing cards, @UUID[Compendium.navis-apexialis.navis-core-items.Item.nyjv454gtdJ43klt]{Autoguns} leaning beside their chairs.",
+   "ru": "Заплесневелая труба ведёт в маленькую самодельную диспетчерскую, где на треснувших экранах когитаторов отображаются показания давления. За пультами следят двое рабочих мануфакторума, а двое бойцов банды сидят за столиком и играют в карты, прислонив @UUID[Compendium.navis-apexialis.navis-core-items.Item.nyjv454gtdJ43klt]{автоганы} к стульям."
+  },
+  "122": {
+   "en": "Through a small drain just big enough to squeeze through is a cell where vast numbers of prisoners are held, most of them lying prone, shivering, and exhausted. If the party has not dealt with him yet or has escaped their grasp, in an isolated cell, sitting on the floor, is @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Barsis Vand}. The man is desperate enough to mount an escape attempt if the characters can slip him a weapon, likely drawing guards away from other areas.",
+   "ru": "За небольшим стоком, в который едва можно протиснуться, находится камера, где держат множество пленников: большинство лежат, дрожа от холода и изнеможения. Если отряд ещё не разобрался с ним или он от них ускользнул, в отдельной камере на полу сидит @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Барсис Ванд}. Он в таком отчаянии, что попытается бежать, если персонажи сумеют передать ему оружие, и, скорее всего, отвлечёт охрану из других помещений."
+  },
+  "130": {
+   "en": "The gangers have a room set up as a makeshift barracks, containing seized contraband from the workers and a cache of spare weapons (@UUID[Compendium.navis-apexialis.navis-core-items.Item.nyjv454gtdJ43klt]{Autoguns} and @UUID[Compendium.navis-apexialis.navis-core-items.Item.85opt2usT8oNSZyt]{Stub Pistols}).",
+   "ru": "Одно помещение гангеры приспособили под казарму: там хранится изъятая у рабочих контрабанда и запас оружия (@UUID[Compendium.navis-apexialis.navis-core-items.Item.nyjv454gtdJ43klt]{автоганы} и @UUID[Compendium.navis-apexialis.navis-core-items.Item.85opt2usT8oNSZyt]{стаб-пистолеты})."
+  },
+  "138": {
+   "en": "With these options, it is up to the party to devise a plan to circumvent the gang's superior numbers. Here are some options they could pursue:",
+   "ru": "Учитывая все эти возможности, отряду предстоит придумать план, как обойти численный перевес банды. Вот несколько вариантов:"
+  },
+  "146": {
+   "en": "The workers are unarmed; finding a way to arm them would go a long way in stoking an uprising.",
+   "ru": "Рабочие безоружны; если найти способ их вооружить, это очень поможет поднять восстание."
+  },
+  "154": {
+   "en": "Breaking the imprisoned NPCs out of their cells would go a long way to stack the numbers in the party’s favour.",
+   "ru": "Освобождение пленных NPC из камер заметно склонит численный перевес в пользу отряда."
+  },
+  "162": {
+   "en": "The characters may attempt to pass themselves off as workers. Go undercover to gain information on the gangers—their patrol patterns, general strength and numbers, and the layout of the Underfactorum.",
+   "ru": "Персонажи могут попытаться выдать себя за рабочих. Действуя под прикрытием, можно узнать о гангерах — их маршрутах патрулей, силе и численности, а также о планировке подфакторума."
+  },
+  "170": {
+   "en": "Seizing the control room and overloading the pressure in the vats could work as a distraction to allow everyone to escape. But if they aren’t careful, everyone could be covered in the @UUID[Compendium.navis-apexialis.navis-voll-tables.RollTable.HPlvqxmfzkHy3gUG]{mutating rejuvenat chemicals}.",
+   "ru": "Если захватить диспетчерскую и поднять давление в чанах до предела, можно устроить отвлекающий манёвр и дать всем сбежать. Но при неосторожности всех может окатить @UUID[Compendium.navis-apexialis.navis-voll-tables.RollTable.HPlvqxmfzkHy3gUG]{мутагенными омолаживающими химикатами}."
+  },
+  "178": {
+   "en": "Completing any schemes also reward the party with 1 Superiority for the fight ahead. However, even the best-laid plans have complications. The following scene occurs just as they are about to enact their plan.",
+   "ru": "Каждый осуществлённый замысел также даёт отряду 1 превосходство в предстоящей схватке. Однако даже лучшие планы не обходятся без осложнений. Следующая сцена происходит, когда персонажи уже готовы воплотить свой план."
+  },
+  "182": {
+   "en": "Who Wants A Chance At Freedom?",
+   "ru": "Кто хочет шанс на свободу?"
+  },
+  "192": {
+   "en": "With laud hailer in hand, @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Kathor Navrak} emerges onto the gantry above and speaks words that boom over the din.",
+   "ru": "С громкоговорителем в руке на мостик наверху выходит @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Катор Наврак}, и его голос гремит над шумом."
+  },
+  "198": {
+   "en": "‘My friends, once more, a chance for freedom beckons! Test our latest formula and survive, and you can gain freedom!’",
+   "ru": "«Друзья мои, свобода снова манит вас! Испытайте нашу новейшую формулу, выживите — и обретёте свободу!»"
+  },
+  "204": {
+   "en": "A moment of hesitation passes, workers exchange looks, and several raise their hands. Life in the manufactorum is anything but pleasant, and any chance at escape, even one so risky and poorly understood, appeals to some. After all, none have returned after volunteering, so wherever they’re going must be better than here, or they’d come back.",
+   "ru": "Мгновение нерешительности: рабочие переглядываются, и несколько человек поднимают руки. Жизнь на мануфакторуме совсем не сладка, и любой шанс вырваться, даже такой рискованный и непонятный, кого-то да прельстит. В конце концов, никто из вызвавшихся не вернулся — значит, там, куда они ушли, лучше, чем здесь, иначе они бы вернулись."
+  },
+  "208": {
+   "en": "Gangers round up a volunteer and march him towards the stairs. At this moment, if @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Harrog} is still alive, the characters notice something moving through the shadows of the manufactorum. The mutant is making for the volunteer, moving swiftly, desperately even. The party has a short window of opportunity to intervene. If they choose not to, the following occurs:  ",
+   "ru": "Гангеры хватают добровольца и ведут его к лестнице. В этот момент, если @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Харрог} ещё жива, персонажи замечают, как что-то движется в тенях мануфакторума. Мутантка пробирается к добровольцу — быстро, почти отчаянно. У отряда есть короткое окно, чтобы вмешаться. Если персонажи не станут этого делать, происходит следующее:  "
+  },
+  "212": {
+   "en": "As the volunteer makes his way up the stairs, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Harrog}’s horrific voice barks from the shadows. ‘",
+   "ru": "Когда доброволец поднимается по лестнице, из теней раздаётся жуткий голос @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Харрог}: «"
+  },
+  "214": {
+   "en": "No! No more lies!",
+   "ru": "Нет! Хватит лжи!"
+  },
+  "216": {
+   "en": "’ She has had enough and leaps from the darkened recesses of a towering manufactorum engine. She lands hard amidst the gangers, knocking several to the ground. She bites and claws at them frantically, but the gangers soon recover, throwing her to the ground and levelling their weapons at her. The characters are given another quick chance to intervene. If they do nothing, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Harrog} breaks free but is wounded as the gangers fire upon her. She disappears into the tunnels, dripping blood. From then on, the gangers are alert and more watchful of intruders. Should the party attempt to look for Harrog later, they cannot find her.",
+   "ru": "» С неё довольно, и она прыгает из тёмной ниши громадного станка. Она тяжело приземляется среди гангеров, сбивая нескольких с ног, и неистово кусает и рвёт их когтями, но гангеры быстро приходят в себя, валят её на землю и наставляют на неё оружие. У персонажей появляется ещё один короткий шанс вмешаться. Если они ничего не сделают, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Харрог} вырывается, но гангеры открывают огонь и ранят её. Истекая кровью, она исчезает в туннелях. С этого момента гангеры настороже и внимательнее следят за чужаками. Если отряд позже попытается найти Харрог, это ему не удастся."
+  },
+  "220": {
+   "en": "The Rejuvenat Sepulchre ",
+   "ru": "Склеп омоложения "
+  },
+  "226": {
+   "en": "Beyond the stairs and the gantry above lies a chamber lined with stolen machinery and vast industrial piping. Walkways run between large vats set into the floor, their mechanical hatches yawning open, revealing bright green fluid that reeks of chemical putrescence.",
+   "ru": "За лестницей и мостиком наверху лежит зал, заставленный краденым оборудованием и огромными промышленными трубами. Между большими чанами, утопленными в пол, тянутся мостки; механические люки чанов распахнуты, открывая ярко-зелёную жидкость, от которой несёт химической гнилью."
+  },
+  "232": {
+   "en": "If the characters have infiltrated this area quietly, they witness the following. If not, events are far more hectic, with @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Navrak} trying to get his forces back under control and into defensive positions amidst the rejuvenat vats. ",
+   "ru": "Если персонажи проникли сюда тихо, они становятся свидетелями следующего. Если нет, всё происходит куда суматошнее: @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Наврак} пытается вновь взять своих людей под контроль и расставить их на оборонительные позиции среди омолаживающих чанов. "
+  },
+  "236": {
+   "en": "Once the characters reach the rejuvenat vats, they find it occupied by @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Kathor Navrak}, three of his most elite fighters (use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ncXwqNsh38L8CyRo]{Smuggler} stat-block to represent them), and @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Tybaris Arx}, the abducted Tech-Priest. The characters see the volunteer, a young man called Venck, next to the vats. If they do not intervene, Venck is lowered into the vat, his will holding until a look of horror crosses his face just as the acrid fluid reaches his neck. It is, of course, far too late for regrets now. The characters also notice several vats already have other volunteers sealed within, while others stand empty.",
+   "ru": "Добравшись до омолаживающих чанов, персонажи застают там @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Катора Наврака}, трёх его лучших бойцов (используйте для них профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ncXwqNsh38L8CyRo]{контрабандиста}) и @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Тибариса Аркса} — похищенного техножреца. Персонажи видят у чанов добровольца — юношу по имени Венк. Если они не вмешаются, Венка опускают в чан; он держится, пока едкая жидкость не доходит ему до шеи, и лишь тогда на его лице проступает ужас. Разумеется, сожалеть уже слишком поздно. Персонажи также замечают, что в нескольких чанах уже запечатаны другие добровольцы, а прочие стоят пустыми."
+  },
+  "242": {
+   "en": "Captured!",
+   "ru": "Попались!"
+  },
+  "246": {
+   "en": "If the gangers discover the party or somehow capture them earlier in the adventure, they are brought before the vats to be the next lucky ‘volunteers’. @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Navrak} takes the opportunity to explain his goals to characters who may not yet have figured out his role in all of this.",
+   "ru": "Если гангеры обнаружат отряд или каким-то образом схватят его раньше по ходу приключения, персонажей приводят к чанам, чтобы сделать следующими счастливыми «добровольцами». @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Наврак} пользуется случаем, чтобы объяснить свои цели тем персонажам, кто ещё не понял его роли во всём этом."
+  },
+  "252": {
+   "en": "Quite the troublemakers, aren’t we? I appreciate your interest in my research, but unfortunately, discretion is our watchword here. Still, there’s always the chance that our latest batch of rejuvenat has come out right!",
+   "ru": "Ну и смутьяны же вы, а? Ценю ваш интерес к моим исследованиям, но, к сожалению, осмотрительность у нас превыше всего. Впрочем, всегда есть шанс, что наша новая партия омолаживающего средства удалась!"
+  },
+  "258": {
+   "en": "@UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Navrak} then attempts to throw one of the characters into the vats. Depending on the situation, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Harrog} may choose to appear, Tech-Priest @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Tybaris Arx} may be able to assist, or the party may devise another means of escape. If not, one of the characters is tossed into a vat, leading to an array of possible outcomes (see the @UUID[Compendium.navis-apexialis.navis-voll-tables.RollTable.HPlvqxmfzkHy3gUG]{Crude Rejuvenat Effect} Table). To better demonstrate the dangers of the crude rejuvenat, consider presenting it to the party by putting a disposable NPC in first, and describe one of the worst results from the Table.",
+   "ru": "Затем @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Наврак} пытается бросить одного из персонажей в чан. В зависимости от ситуации может появиться @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Харрог}, на помощь может прийти техножрец @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Тибарис Аркс}, или же отряд может придумать другой способ спастись. Если нет, одного из персонажей бросают в чан, что может привести к самым разным последствиям (см. таблицу @UUID[Compendium.navis-apexialis.navis-voll-tables.RollTable.HPlvqxmfzkHy3gUG]{«Эффекты кустарного омоложения»}). Чтобы лучше показать опасность кустарного омолаживающего средства, можно сначала бросить в чан какого-нибудь второстепенного NPC и описать один из худших результатов по таблице."
+  },
+  "264": {
+   "en": "@UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Navrak} uses his vox to call for reinforcement if a fight breaks out. If the party hasn’t dealt with the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{Gangers} in the rest of the complex, they gradually rush to their leader’s aid. At the beginning of each subsequent round, two to three more appear by the chamber door.",
+   "ru": "Если начинается бой, @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Наврак} вызывает по воксу подкрепление. Если отряд не разобрался с @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{бойцами банды} в остальной части комплекса, они постепенно сбегаются на помощь главарю. В начале каждого следующего раунда у двери зала появляются ещё двое-трое."
+  },
+  "270": {
+   "en": "Take Cover!",
+   "ru": "В укрытие!"
+  },
+  "274": {
+   "en": "There are numerous pipes, vats, and other bits of mechanical equipment to take cover behind in any laboratory Zone. However, many of these contain precursor chemicals of one sort or another, and an unfortunate spray of gunfire may cause these toxic chemicals to spray anyone nearby.",
+   "ru": "В любой зоне лаборатории хватает труб, чанов и прочего оборудования, за которым можно укрыться. Однако во многих из них находятся те или иные химические прекурсоры, и неудачная очередь может окатить этими ядовитыми химикатами всех поблизости."
+  },
+  "278": {
+   "en": "If anyone @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#take-cover]{Takes Cover} in these Zones and becomes the target of a ranged attack, roll a [[/r 1d10]]. On a result of 8–10, a pipe or vat nearby is hit and ruptures as a result of the attack. Anyone within Immediate Range must make a ",
+   "ru": "Если кто-то @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#take-cover]{укрывается} в этих зонах и становится целью дистанционной атаки, бросьте [[/r 1d10]]. При результате 8–10 атака попадает в ближайшую трубу или чан, и те лопаются. Все на непосредственной дистанции должны пройти "
+  },
+  "280": {
+   "en": "Challenging (+0) Reflexes (Dodge)",
+   "ru": "Среднюю (+0) проверку Рефлексов (Уклонение)"
+  },
+  "282": {
+   "en": " Test or is hit by some chemical spray and must roll on the @UUID[Compendium.navis-apexialis.navis-voll-tables.RollTable.HPlvqxmfzkHy3gUG]{Crude Rejuvenat Effects} Table.",
+   "ru": ", иначе их окатывает химикатами и они должны бросить по таблице @UUID[Compendium.navis-apexialis.navis-voll-tables.RollTable.HPlvqxmfzkHy3gUG]{«Эффекты кустарного омоложения»}."
+  },
+  "288": {
+   "en": "@Embed[Compendium.navis-apexialis.navis-voll-tables.RollTable.HPlvqxmfzkHy3gUG noCenter=true description=bottom]{Description}",
+   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-tables.RollTable.HPlvqxmfzkHy3gUG noCenter=true description=bottom]{Описание}"
+  },
+  "292": {
+   "en": "At the beginning of the fourth round of combat, or at the beginning of any round in which the party is outnumbered two to one, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Lerna Harrog} appears if she has not done so already. Erupting from between the chemical vats. She sets upon @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Navrak} and his minions, taking the vengeance she has longed for. ",
+   "ru": "В начале четвёртого раунда боя или в начале любого раунда, когда противники превосходят отряд числом вдвое, появляется @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Лерна Харрог}, если она ещё не появилась. Вырвавшись из-за химических чанов, она набрасывается на @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Наврака} и его прихвостней, свершая месть, которой так долго жаждала. "
+  },
+  "296": {
+   "en": "The party should use this distraction to either press their advantage or flee. Doubtless, their Patron is likely disappointed if they choose the latter option, as it results in the loss of both @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Navrak}, who flees, and Tech-Priest @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Tybaris Arx}, whom Navrak takes with him in the hopes of setting up his operation elsewhere.",
+   "ru": "Отряду стоит воспользоваться этой суматохой, чтобы либо развить успех, либо бежать. Несомненно, покровитель будет разочарован, если персонажи выберут второе: так они упустят и @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Наврака}, который сбежит, и техножреца @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Тибариса Аркса}, которого Наврак заберёт с собой в надежде наладить своё дело в другом месте."
+  },
+  "300": {
+   "en": "If @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Harrog} died earlier in the adventure, then @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Tybaris Arx} may be able to assist the players, finally throwing off the yoke of Navrak’s intimidation and striking back at the gangers. However, Arx’s Augmetics are optimised for maintenance, not warfare, and the gangers might make short work of their captive.",
+   "ru": "Если @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Харрог} погибла раньше, игрокам может помочь @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Тибарис Аркс}: он наконец сбрасывает гнёт запугивания Наврака и даёт отпор гангерам. Однако аугметика Аркса создана для обслуживания, а не для войны, и гангеры могут быстро расправиться со своим пленником."
+  }
+ }
+}

@@ -3,7 +3,7 @@
   "name": "Dire Avengers",
   "type": "npc",
   "_id": "69rIO6tBuRK2j1If",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Aspect Armor",
       "type": "trait",
       "_id": "WqrAz2KrHhSyrntT",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Psychic Sensitivity",
       "type": "trait",
       "_id": "1Lzdw41CoXFkytae",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Defence Tactics",
       "type": "trait",
       "_id": "EztB1R0ElzOEksLx",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -426,7 +426,7 @@
       "name": "Avenger Shuriken Catapult",
       "type": "weapon",
       "_id": "PMwnkH7KDZQEQbZY",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -507,7 +507,7 @@
       "name": "Eldar Chainsword",
       "type": "weapon",
       "_id": "UDQZgbxYEe6i455L",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -581,7 +581,7 @@
       "name": "Psyniscience",
       "type": "specialisation",
       "_id": "vwWWstRRLvK88sKm",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -610,7 +610,7 @@
       "name": "Long Gun",
       "type": "specialisation",
       "_id": "G0VreISMnvGv6uDr",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

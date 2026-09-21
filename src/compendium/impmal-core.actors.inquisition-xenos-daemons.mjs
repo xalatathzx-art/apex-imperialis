@@ -26,7 +26,7 @@ export const byName = {
       "Ordo": {
         name: "Ордо",
         description:
-          "<p>Аколит принадлежит к одному из ордосов — см. @UUID[Compendium.impmal-core.journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.gPX8x39BLfGMPKCi#ordo-bonuses]{Преимущества ордосов}.</p>"
+          "<p>Аколит принадлежит к одному из ордосов — см. @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.gPX8x39BLfGMPKCi#ordo-bonuses]{Преимущества ордосов}.</p>"
       },
       "Truthfinder": {
         name: "Искатель истины",
@@ -59,7 +59,7 @@ export const byName = {
       "Ordo": {
         name: "Ордо",
         description:
-          "<p>Дознаватель принадлежит к одному из ордосов — см. @UUID[Compendium.impmal-core.journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.gPX8x39BLfGMPKCi#ordo-bonuses]{Преимущества ордосов}.</p>"
+          "<p>Дознаватель принадлежит к одному из ордосов — см. @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.gPX8x39BLfGMPKCi#ordo-bonuses]{Преимущества ордосов}.</p>"
       }
     }
   },
@@ -95,7 +95,7 @@ export const byName = {
       "The Price of Failure": {
         name: "Цена провала",
         description:
-          "<p>Если во время боя с вождём культа у персонажей есть 3 или больше очков превосходства, тот может вознести отчаянную мольбу Тёмным богам, прося их о помощи. Это занимает свободное действие. При этом вождь мгновенно превращается в @UUID[Compendium.impmal-core.actors.Actor.7GvkaaVAd69ORno0]{отродье Хаоса} и совершает свой ход.</p>"
+          "<p>Если во время боя с вождём культа у персонажей есть 3 или больше очков превосходства, тот может вознести отчаянную мольбу Тёмным богам, прося их о помощи. Это занимает свободное действие. При этом вождь мгновенно превращается в @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.7GvkaaVAd69ORno0]{отродье Хаоса} и совершает свой ход.</p>"
       },
       "Sanity is for the Weak": {
         name: "Здравомыслие — удел слабых",
@@ -158,7 +158,7 @@ export const byName = {
       "Malefic Psyker": {
         name: "Псайкер-малефик",
         description:
-          "<p>Нечистый псайкер владеет следующими психосилами:</p><p><strong>Малые психосилы</strong>: @UUID[Compendium.impmal-core.items.Item.iF1qxYZdS6GKxaVk]{Призыв вредителей}, @UUID[Compendium.impmal-core.items.Item.I6NTqen3Srp90dyW]{Аура ужаса}, @UUID[Compendium.impmal-core.items.Item.6piNqY3oQ4WVndT0]{Полёт}, @UUID[Compendium.impmal-core.items.Item.8Y2GkGqdRW4fgtt2]{Дурное знамение}, @UUID[Compendium.impmal-core.items.Item.dbY2lsnqcGTU9ySA]{Сглаз}, @UUID[Compendium.impmal-core.items.Item.4PwcP3ziykhvMnEr]{Нова}, @UUID[Compendium.impmal-core.items.Item.iHemd2KVEYx2olv7]{Психический удар}.</p><p><strong>Биомантия</strong>: @UUID[Compendium.impmal-core.items.Item.Z1iAai8os7wLhSD8]{Недуг}, @UUID[Compendium.impmal-core.items.Item.eYVRPE01hIztBgtI]{Биомолния}, @UUID[Compendium.impmal-core.items.Item.mfnf7gC27VsppIsN]{Кровоизлияние}, @UUID[Compendium.impmal-core.items.Item.a9DufcxlzYqbOVo7]{Пиявка}, @UUID[Compendium.impmal-core.items.Item.NEv8PYXJe0scDiL3]{Увядание}.</p><p><strong>Прорицания</strong>: @UUID[Compendium.impmal-core.items.Item.xfNouLz2vwT0L7Gr]{Вопрос Варпу}, @UUID[Compendium.impmal-core.items.Item.JD8KXpaybkhEvnUm]{Ясновиденье}, @UUID[Compendium.impmal-core.items.Item.CR3c7PVCtTdAEF1W]{Поворот судьбы}.</p><p><strong>Телекинез</strong>: @UUID[Compendium.impmal-core.items.Item.Q9XWNAmAzaLRgQ89]{Врата вечности}, @UUID[Compendium.impmal-core.items.Item.IoFNznc46ljGmm9H]{Погибельный вихрь}.</p><p><strong>Телепатия</strong>: @UUID[Compendium.impmal-core.items.Item.XnKX6A6hVzeXsGld]{Приказ}, @UUID[Compendium.impmal-core.items.Item.FlK5TFyjJNmgnExw]{Господство}, @UUID[Compendium.impmal-core.items.Item.sZluux2xrMuK4w1H]{Пси-допрос}, @UUID[Compendium.impmal-core.items.Item.61LtbSXGELhbGC6c]{Психический вопль}, @UUID[Compendium.impmal-core.items.Item.U4GZLrdv7mLbK6bz]{Кошмарные видения}.</p>"
+          "<p>Нечистый псайкер владеет следующими психосилами:</p><p><strong>Малые психосилы</strong>: @UUID[Compendium.navis-apexialis.navis-core-items.Item.iF1qxYZdS6GKxaVk]{Призыв вредителей}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.I6NTqen3Srp90dyW]{Аура ужаса}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.6piNqY3oQ4WVndT0]{Полёт}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.8Y2GkGqdRW4fgtt2]{Дурное знамение}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.dbY2lsnqcGTU9ySA]{Сглаз}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.4PwcP3ziykhvMnEr]{Нова}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.iHemd2KVEYx2olv7]{Психический удар}.</p><p><strong>Биомантия</strong>: @UUID[Compendium.navis-apexialis.navis-core-items.Item.Z1iAai8os7wLhSD8]{Недуг}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.eYVRPE01hIztBgtI]{Биомолния}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.mfnf7gC27VsppIsN]{Кровоизлияние}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.a9DufcxlzYqbOVo7]{Пиявка}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.NEv8PYXJe0scDiL3]{Увядание}.</p><p><strong>Прорицания</strong>: @UUID[Compendium.navis-apexialis.navis-core-items.Item.xfNouLz2vwT0L7Gr]{Вопрос Варпу}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.JD8KXpaybkhEvnUm]{Ясновиденье}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.CR3c7PVCtTdAEF1W]{Поворот судьбы}.</p><p><strong>Телекинез</strong>: @UUID[Compendium.navis-apexialis.navis-core-items.Item.Q9XWNAmAzaLRgQ89]{Врата вечности}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.IoFNznc46ljGmm9H]{Погибельный вихрь}.</p><p><strong>Телепатия</strong>: @UUID[Compendium.navis-apexialis.navis-core-items.Item.XnKX6A6hVzeXsGld]{Приказ}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.FlK5TFyjJNmgnExw]{Господство}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.sZluux2xrMuK4w1H]{Пси-допрос}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.61LtbSXGELhbGC6c]{Психический вопль}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.U4GZLrdv7mLbK6bz]{Кошмарные видения}.</p>"
       },
       "Source of Corruption": {
         name: "Источник порчи",
@@ -388,7 +388,7 @@ export const byName = {
       "Split": {
         name: "Раздвоение",
         description:
-          "<p>Когда розовый ужас погибает, он превращается в два @UUID[Compendium.impmal-core.actors.Actor.Boq9jjqKp2eDcVe8]{голубых ужаса}.</p>"
+          "<p>Когда розовый ужас погибает, он превращается в два @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.Boq9jjqKp2eDcVe8]{голубых ужаса}.</p>"
       },
       "Coruscating Flames": { name: "Сверкающее пламя" },
       "Daemonic Claws": { name: "Демонические когти" }
@@ -423,7 +423,7 @@ export const byName = {
       "Split": {
         name: "Раздвоение",
         description:
-          "<p>Когда голубой ужас погибает, он превращается в два @UUID[Compendium.impmal-core.actors.Actor.jPEYTvQIqOBwHU6q]{серных ужаса}.</p>"
+          "<p>Когда голубой ужас погибает, он превращается в два @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.jPEYTvQIqOBwHU6q]{серных ужаса}.</p>"
       },
       "Coruscating Flames": { name: "Сверкающее пламя" },
       "Daemonic Claws": { name: "Демонические когти" }

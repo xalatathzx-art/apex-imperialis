@@ -2,7 +2,7 @@
   "name": "Beastman",
   "type": "navis-apexialis.species",
   "_id": "navisSpc00000005",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder001",
   "sort": 500,
   "system": {

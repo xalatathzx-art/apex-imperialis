@@ -2,7 +2,7 @@
   "name": "Favored by the Warp",
   "type": "talent",
   "_id": "malExpTal0000206",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">May re-roll and pick rolls on Psychic Phenomena unless you got Persils of the Warp</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever you are being affected by Psychic Phenomena, as long as you are not subject to Perils of the Warp, you may roll a second time and choose which result you receive.</em></span></p>",

@@ -2,7 +2,7 @@
   "name": "Demoralizing Decapitation",
   "type": "talent",
   "_id": "malExpTal0000104",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Once/Encounter, killing Elite/Leader in melee: force enemies within Long Range to Discipline(Fear)-20. On Fail: Frightened and -1SL on all tests</span></p><hr><p><span style=\"font-family: Arial\"><em>Once per encounter when you kill an Elite or Leader level enemy in melee combat, you may force all enemies within Long Range to make a Hard (-20) Discipline (Fear) Test. Any enemy who fails this test counts as being Frightened and suffers a -1SL penalty on all tests until the end of combat.</em></span></p>",

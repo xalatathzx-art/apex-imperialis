@@ -2,7 +2,7 @@
   "name": "Скитарий Альфа",
   "type": "talent",
   "_id": "navisDbcTal00001",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p>Посвящение во внешние тайны Техножречества позволяет Скитарию лучше настроить свои Латы на совместимость с благословенными Модулями Скитарии.</p><p>Максимум ваших <strong>установленных</strong> и <strong>активных</strong> Модулей растёт на <strong>1</strong>.</p>",

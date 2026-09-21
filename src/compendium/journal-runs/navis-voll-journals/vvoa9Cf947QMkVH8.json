@@ -1,0 +1,225 @@
+{
+ "journal": "mOfAsI4kLKUGTLXd",
+ "journalName": "Paradigm Shift",
+ "page": "vvoa9Cf947QMkVH8",
+ "pageName": "Part 2: The Refinery",
+ "name": "Часть 2: «Очистительный завод»",
+ "runs": {
+  "2": {
+   "en": "Maltus Refinery VI is an enormous, ancient refinery in @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth's} Lower Hive. The sprawling mass of furnaces, storage tanks, refining mechanisms and pumping stations is fully enclosed within its walls. There was no relief from the blistering heat, poisonous smoke, and thunderous noise while the manufactorum was in operation. Pipes and funnels carried away waste products, and the mysterious produce of its workings rolled out in barrels stamped with the Cog Mechanicum. The refinery operated monotonously for generations, regardless of the labourers who were mangled in its workings or died slowly of Bloodlung as they worked.",
+   "ru": "«Мальтус VI» — огромный древний очистительный завод в нижнем улье @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{улья Рокарт}. Раскинувшееся нагромождение печей, резервуаров, очистительных механизмов и насосных станций целиком заключено в его стенах. Пока мануфакторум работал, от палящего жара, ядовитого дыма и оглушительного грохота не было спасения. Трубы и воронки уносили отходы, а загадочная продукция завода выкатывалась в бочках с клеймом Шестерни Механикус. Поколениями завод монотонно работал, невзирая на рабочих, искалеченных его механизмами или медленно умиравших от кровавого лёгкого прямо за работой."
+  },
+  "6": {
+   "en": "Though the refinery now lies quiet, the evidence of its centuries of industry shows everywhere. Every surface is thick with toxic filth, every pipe drips noxious fluids, or bears the strange whorls left by swirling gases. Some parts of the refinery are multi-levelled, standing on unsteady metal mesh floors, while other sections are more open, dominated by towering storage tanks or processing units. In some areas, lights are dim due to staining and corrosion, creating only a sickly orange glow. In others, there’s no light at all. Energy still being drawn from the Generatorum fizzes and pops among the refinery’s oily cogs and blood-stained wheels, vainly waiting for the machinery to move again.",
+   "ru": "Хотя сейчас завод затих, следы его многовековой работы видны повсюду. Каждая поверхность покрыта толстым слоем ядовитой грязи, с каждой трубы капают вредные жидкости или на ней видны странные завитки, оставленные клубящимися газами. Некоторые части завода многоуровневые, с шаткими полами из металлической сетки, другие — более открытые, где господствуют громадные резервуары или перерабатывающие установки. Местами свет тусклый из-за грязи и коррозии и даёт лишь болезненное оранжевое свечение. Местами света нет вовсе. Энергия, всё ещё поступающая из генераториума, шипит и потрескивает среди маслянистых шестерней и окровавленных колёс завода, тщетно ожидая, когда механизмы снова придут в движение."
+  },
+  "10": {
+   "en": "If the party forced or surmounted the front gate to enter, they are immediately attacked by a horde of @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastmen} double the number of characters in the party. If broken open, a pair of Beastmen work to hastily re-seal or barricade the gates behind them.",
+   "ru": "Если отряд проник внутрь, взломав или преодолев главные ворота, на него немедленно нападает орда @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{зверолюдов} вдвое больше числа персонажей. Если ворота были взломаны, двое зверолюдов принимаются спешно заново запечатывать или баррикадировать их за отрядом."
+  },
+  "14": {
+   "en": "If the characters entered via the , read the following:",
+   "ru": "Если персонажи проникли через вентиляционные шахты, зачитайте следующее:"
+  },
+  "20": {
+   "en": "‘After climbing up through the shafts, you reach an opening in the ceiling of the refinery and find yourself looking down at a gargantuan drum of black liquid. There appears to be no other way down other than by the rungs of a rusted ladder. Your hands have become coated in oily residue from the shaft, making it hard to grip; slipping here could be fatal.’",
+   "ru": "«Вскарабкавшись по шахтам, вы добираетесь до отверстия в потолке завода и видите внизу исполинский барабан с чёрной жидкостью. Похоже, спуститься можно только по перекладинам ржавой лестницы. Ваши руки покрылись маслянистым налётом из шахты, за них трудно ухватиться; сорваться здесь может быть смертельно»."
+  },
+  "26": {
+   "en": "The characters must lower themselves 100 feet to land on a gangway; the ladder down is usable but slippery, requiring a ",
+   "ru": "Персонажам нужно спуститься на 100 футов к мостку; лестницей пользоваться можно, но она скользкая, и для спуска требуется "
+  },
+  "28": {
+   "en": "Challenging (+0) Athletics (Climbing)",
+   "ru": "Средняя (+0) проверка Атлетики (Лазанье)"
+  },
+  "30": {
+   "en": " Test. Any character who fails falls into one of the vats below, each full of an unpleasantly slimy, foul-smelling but harmless liquid. This fall shouldn’t inflict any Damage or Conditions, but feel free to improvise a drawback for failure. From there, climbing down to the refinery floor puts the players at the @UUID[.vvoa9Cf947QMkVH8#1a.-wrecked-machinery-floor]{Wrecked Machinery Floor (1A)}.",
+   "ru": ". Провалившие падают в один из чанов внизу, полных неприятно склизкой, зловонной, но безвредной жидкости. Падение не должно наносить урона или накладывать состояний, но можете придумать какое-нибудь неудобство за провал. Оттуда, спустившись на пол завода, игроки оказываются в @UUID[.vvoa9Cf947QMkVH8#1a.-wrecked-machinery-floor]{разгромленном машинном цеху (1A)}."
+  },
+  "34": {
+   "en": "If the players entered via the ",
+   "ru": "Если игроки проникли через "
+  },
+  "36": {
+   "en": "Run-off Pipes",
+   "ru": "сточные трубы"
+  },
+  "38": {
+   "en": ", read the following:",
+   "ru": ", зачитайте следующее:"
+  },
+  "44": {
+   "en": "‘After trudging through the pipes, small enough that the tallest among you were forced to walk bent forward, you find yourselves in a large square container with a thick layer of neon purple sludge coating the metallic walls, and pooling at your feet.’",
+   "ru": "«Пробравшись по трубам — настолько узким, что самым высоким из вас пришлось идти согнувшись, — вы оказываетесь в большом квадратном контейнере, металлические стены которого покрыты толстым слоем неоново-фиолетовой слизи, собирающейся лужами у вас под ногами»."
+  },
+  "50": {
+   "en": "This container is 7 feet high, and the metallic walls have been reinforced with iron strips and thick bolts that make exiting an ",
+   "ru": "Контейнер высотой 7 футов, а его металлические стены укреплены железными полосами и толстыми болтами, так что выбраться из него — "
+  },
+  "52": {
+   "en": "Easy (+40) Athletics (Climbing)",
+   "ru": "Лёгкая (+40) проверка Атлетики (Лазанье)"
+  },
+  "54": {
+   "en": " Test. However, the purple slime is a poisonous residue. Unless the characters protect their flesh, each must make a ",
+   "ru": ". Однако фиолетовая слизь — ядовитый осадок. Если персонажи не защитят кожу, каждый должен пройти "
+  },
+  "56": {
+   "en": "Difficult (−10) Fortitude",
+   "ru": "Трудную (−10) проверку Стойкости"
+  },
+  "58": {
+   "en": " Test or receive the ",
+   "ru": ", иначе получает состояние "
+  },
+  "60": {
+   "en": "Poisoned (Minor)",
+   "ru": "«Отравление (Малое)»"
+  },
+  "62": {
+   "en": " Condition for the next two hours. Exiting the container brings the characters next to the @UUID[.vvoa9Cf947QMkVH8#1d.-desecrated-shrine]{Desecrated Shrine (1D)}.",
+   "ru": " на следующие два часа. Выбравшись из контейнера, персонажи оказываются рядом с @UUID[.vvoa9Cf947QMkVH8#1d.-desecrated-shrine]{осквернённым святилищем (1D)}."
+  },
+  "66": {
+   "en": "Once in the refinery, distant explosions echo through the cavernous space. These are the result of @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh}’s agents cutting off their exits. The characters won’t discover this unless @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Sandik} becomes an ally and warns them, or they try to leave the refinery via the ventilation shafts or run-off pipes. They then find these destroyed, their exits irrevocably blocked.",
+   "ru": "Как только персонажи оказываются на заводе, по огромному пространству эхом разносятся далёкие взрывы. Это агенты @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорда Фелпута} отрезают им пути отхода. Персонажи не узнают об этом, пока @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Сандик} не станет их союзницей и не предупредит их или пока они не попытаются покинуть завод через вентиляционные шахты или сточные трубы. Тогда они обнаружат, что те разрушены, а выходы безвозвратно завалены."
+  },
+  "70": {
+   "en": "Use the diagram to inform the characters of the nearest structures to their location so they can choose which areas to explore. Each labelled location is described in the following section. In addition, random encounter tables are also provided to increase the difficulty or extend the length of this part of the adventure. You may include as many or as few of these as necessary. The only information the players need to gain here is that the refinery is full of @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastmen} who worship Chaos, which should quickly become apparent.",
+   "ru": "Используйте схему, чтобы сообщить персонажам о ближайших к ним сооружениях, и дайте им выбрать, какие места обследовать. Каждое помеченное место описано в следующем разделе. Кроме того, приведены таблицы случайных встреч, чтобы повысить сложность или растянуть эту часть приключения. Используйте их столько, сколько нужно. Единственное, что игрокам нужно здесь узнать, — что завод полон @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{зверолюдов}, поклоняющихся Хаосу, и это должно быстро стать очевидным."
+  },
+  "74": {
+   "en": "If the players need reminding of their objective, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Sandik} can prompt them that they are there to establish what has taken over the refinery and halted its operation, so they can aid @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh} in fixing the problem. Once they’ve seen @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastmen}, however, Sandik’s objective is to trap or eliminate the characters and prevent them from exposing Lord Felputh’s shame. To conclude this part of the adventure, the characters must leave via the tunnel entrance at the north end of the refinery and enter the tunnels.",
+   "ru": "Если игрокам нужно напомнить об их цели, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Сандик} может подсказать, что они здесь, чтобы выяснить, что захватило завод и остановило его работу, и помочь @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорду Фелпуту} решить проблему. Однако как только персонажи увидят @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{зверолюдов}, цель Сандик — заманить персонажей в ловушку или устранить их, чтобы не дать им раскрыть позор лорда Фелпута. Чтобы завершить эту часть приключения, персонажи должны покинуть завод через вход в туннели в северной его части."
+  },
+  "80": {
+   "en": "Sandik’s Mission",
+   "ru": "Задание Сандик"
+  },
+  "84": {
+   "en": "Once it’s clear that the characters are aware of the Chaos-worshipping Beastmen, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Sandik} is on the lookout for a way to sabotage the party’s efforts in order to cover @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh}’s tracks. She may alert a @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastmen} patrol to their presence and flee herself, activate some machinery while they’re inside, or attempt to meet with a character alone and attack them. How dangerous and effective her efforts are is up to you.",
+   "ru": "Как только становится ясно, что персонажи знают о поклоняющихся Хаосу зверолюдах, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Сандик} ищет способ сорвать их усилия, чтобы замести следы @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорда Фелпута}. Она может навести на отряд патруль @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{зверолюдов} и сбежать сама, запустить какой-нибудь механизм, пока персонажи внутри, или попытаться встретиться с кем-то из персонажей наедине и напасть на него. Насколько опасны и действенны её попытки, решать вам."
+  },
+  "88": {
+   "en": "However, once the party knows of @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Sandik}’s betrayal, she tries to save herself. In a pinch, she proposes a deal: If the party or their Patron can protect her from @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Felputh}, she’ll work with them, for at least as long as it takes to get out of the refinery.",
+   "ru": "Однако как только отряд узнает о предательстве @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Сандик}, она пытается спасти себя. В крайнем случае она предлагает сделку: если отряд или его покровитель смогут защитить её от @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Фелпута}, она будет работать с ними — по меньшей мере до тех пор, пока они не выберутся с завода."
+  },
+  "94": {
+   "en": "@Embed[Compendium.navis-apexialis.navis-voll-tables.RollTable.10m912eLDoBpYITR noCenter=true description=bottom]{Rumour}",
+   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-tables.RollTable.10m912eLDoBpYITR noCenter=true description=bottom]{Встреча}"
+  },
+  "98": {
+   "en": "Refinery Locations",
+   "ru": "Места на заводе"
+  },
+  "108": {
+   "en": "During their traversal of the Maltus Refinery VI, be sure to convey to the party the sense of enormity within the facility and how multifaceted and confusing the surrounding machinery appears. The whole facility is littered with vats and broken machinery, and an eerie disquiet hangs in the air throughout, felt especially by any members of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus }present.",
+   "ru": "Во время перемещения по «Мальтусу VI» обязательно передайте отряду ощущение огромности предприятия и того, насколько многообразны и запутанны окружающие механизмы. Всё предприятие завалено чанами и сломанными машинами, а в воздухе повсюду висит жуткая тревога, особенно ощутимая для присутствующих членов @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус}."
+  },
+  "112": {
+   "en": "The party doesn’t need to visit all locations presented; be sure to lead them towards the @UUID[.vvoa9Cf947QMkVH8#1e.-northern-tunnel-entrance]{Northern Tunnels Entrance (1E)} to enter the next section of the manufactorum. Use the encounters in the @UUID[Compendium.navis-apexialis.navis-voll-tables.RollTable.10m912eLDoBpYITR]{Maltus Refinery VI Encounters} Table to add complications to their travel between locations or punish them for failed Tests.",
+   "ru": "Отряду не обязательно посещать все описанные места; обязательно направьте персонажей к @UUID[.vvoa9Cf947QMkVH8#1e.-northern-tunnel-entrance]{северному входу в туннели (1E)}, чтобы они попали в следующую часть мануфакторума. Используйте встречи из таблицы @UUID[Compendium.navis-apexialis.navis-voll-tables.RollTable.10m912eLDoBpYITR]{«Встречи на очистительном заводе «Мальтус VI»»}, чтобы осложнить переходы между местами или наказать за проваленные проверки."
+  },
+  "116": {
+   "en": "1A. Wrecked Machinery Floor",
+   "ru": "1A. Разгромленный машинный цех"
+  },
+  "120": {
+   "en": "In this section of the manufactorum, most of the machinery has been damaged or destroyed. Investigating, it looks to have been battered and torn apart, and many pieces are missing. Characters can make a ",
+   "ru": "В этой части мануфакторума большая часть механизмов повреждена или уничтожена. При осмотре видно, что их били и раздирали на части, и многих деталей не хватает. Персонажи могут пройти "
+  },
+  "122": {
+   "en": "Hard (−20) Logic (Investigation)",
+   "ru": "Сложную (−20) проверку Логики (Расследование)"
+  },
+  "124": {
+   "en": " Test, depending on their successes, reveal to them the following clues:",
+   "ru": "; в зависимости от успеха откройте им следующие зацепки:"
+  },
+  "134": {
+   "en": "1–3 SL",
+   "ru": "1–3 КУ"
+  },
+  "136": {
+   "en": ": A trail of wreckage leads north towards the @UUID[.vvoa9Cf947QMkVH8#1e.-northern-tunnel-entrance]{Northern Tunnel Entrance (1E)}, via the @UUID[.vvoa9Cf947QMkVH8#1d.-desecrated-shrine]{Descecrated Shrine (1D)}. Whatever was taken from here was dragged there (material the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastmen} have used to create their cages and effigies in the tunnels).",
+   "ru": ": след из обломков ведёт на север к @UUID[.vvoa9Cf947QMkVH8#1e.-northern-tunnel-entrance]{северному входу в туннели (1E)} через @UUID[.vvoa9Cf947QMkVH8#1d.-desecrated-shrine]{осквернённое святилище (1D)}. Всё, что забрали отсюда, утащили туда (материал, из которого @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{зверолюды} сделали свои клетки и идолов в туннелях)."
+  },
+  "142": {
+   "en": "4–5 SL",
+   "ru": "4–5 КУ"
+  },
+  "144": {
+   "en": ": Despite the wreckage, some tools and workbenches have been used recently. In particular, they find some long lengths of discarded metal that have been sharpened along one edge (some @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastmen} have been constructing their @UUID[Compendium.navis-apexialis.navis-voll-items.Item.tqGb4ULjvQP5x7AK]{Herdcrafted Cleavers} in this area).",
+   "ru": ": несмотря на разгром, некоторыми инструментами и верстаками недавно пользовались. В частности, персонажи находят длинные куски выброшенного металла, заточенные с одного края (здесь несколько @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{зверолюдов} мастерили свои @UUID[Compendium.navis-apexialis.navis-voll-items.Item.tqGb4ULjvQP5x7AK]{тесаки стада})."
+  },
+  "150": {
+   "en": "6+ SL:",
+   "ru": "6+ КУ:"
+  },
+  "152": {
+   "en": " If the characters are yet to discover the Beastmen, they find a chunk of organic material stuck between an array of wrecked cogs. Inspected further, this is revealed to be a tip of some animal’s horn, a strange thing to find on Voll altogether (part of a Beastman’s horn that broke off in the assault on the machinery).",
+   "ru": " если персонажи ещё не обнаружили зверолюдов, они находят застрявший между разбитыми шестернями кусок органики. При ближайшем рассмотрении выясняется, что это кончик рога какого-то животного — вообще странная находка для Волла (часть рога зверолюда, отломившаяся во время нападения на механизмы)."
+  },
+  "160": {
+   "en": "1B. The Pens",
+   "ru": "1B. Загоны"
+  },
+  "164": {
+   "en": "A large cage made of bent girders and lengths of sharp wire has been built against the wall of an enormous vertical drainage pipe. Several figures are visible through the twisted metal, but only one is upright. This is Bek, who has only recently been captured (use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{Manufactorum Labourer} stat-block to represent him). He begs the party to save him, and if they refuse to help, he intentionally screams to alert a @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastmen} patrol. The other four Human captives are either close to death or mortally wounded.",
+   "ru": "У стены огромной вертикальной сточной трубы сооружена большая клетка из гнутых балок и кусков острой проволоки. Сквозь искорёженный металл видны несколько фигур, но на ногах лишь одна. Это Бек, которого схватили совсем недавно (используйте для него профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{рабочего с мануфакторума}). Он умоляет отряд спасти его, а если персонажи откажутся помочь, нарочно кричит, чтобы привлечь патруль @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{зверолюдов}. Остальные четверо пленников-людей либо при смерти, либо смертельно ранены."
+  },
+  "168": {
+   "en": "If the characters have decided to look for missing citizens from the surrounding area (mentioned in a @UUID[Compendium.navis-apexialis.navis-voll-tables.RollTable.No9sZ8JS0BvcygHQ]{rumour}), they’ve been stored here. Bek has no idea what the Beastmen need them for; only that a captive is retrieved from the pen every day or so and taken further into the facility.",
+   "ru": "Если персонажи решили поискать пропавших жителей окрестностей (упомянутых в одном из @UUID[Compendium.navis-apexialis.navis-voll-tables.RollTable.No9sZ8JS0BvcygHQ]{слухов}), их держат здесь. Бек понятия не имеет, зачем они нужны зверолюдам; он знает лишь, что примерно раз в день одного пленника забирают из загона и уводят вглубь предприятия."
+  },
+  "172": {
+   "en": "1C. The Furnaces",
+   "ru": "1C. Печи"
+  },
+  "176": {
+   "en": "Three starved-looking @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastmen} huddle by a small fire they’ve started, surrounded by the cavernous furnaces. If the characters watch and listen, these Beastmen bemoan that their brethren have turned to Chaos, and consider their options now. If a character succeeds on a ",
+   "ru": "Трое изголодавшихся на вид @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{зверолюдов} жмутся к разведённому ими небольшому костру в окружении огромных печей. Если персонажи понаблюдают и прислушаются, они услышат, как эти зверолюды сетуют, что их собратья обратились к Хаосу, и обдумывают, как им теперь быть. Если персонаж пройдёт "
+  },
+  "178": {
+   "en": "Difficult (−10) Rapport (Charm)",
+   "ru": "Трудную (−10) проверку Взаимопонимания (Обаяние)"
+  },
+  "180": {
+   "en": " Test, these Beastmen can be talked to and give information to the players, but they are too afraid to enter the tunnels. Otherwise, these Beastmen flee rather than put up a fight and disappear into the manufactorum’s maze of machinery. ",
+   "ru": ", с этими зверолюдами можно поговорить, и они поделятся с игроками сведениями, но в туннели идти слишком боятся. В противном случае эти зверолюды предпочитают не драться, а бежать, исчезая в лабиринте механизмов мануфакторума. "
+  },
+  "186": {
+   "en": "Critical Information",
+   "ru": "Важная информация"
+  },
+  "190": {
+   "en": "Talking to any of the Beastmen at The Furnaces, or any the party encounters in the Tunnels (such as @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.YWOtDHG1vScQKCB4]{Mesk} or @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.J8fomG1IJs18g3F5]{Gelka}, or even some exposition from @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Arkt Talgore}) reveals to the party pieces of how the Beastmen got to the refinery — their capture from a Feral World, their travel across the Void in a Rogue Trader’s voidship, and their subsequent arrival at Maltus Refinery VI. This is vital information to pass on to the characters, as it implicates @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh}’s complicity. If they fail to retrieve this information from the NPCs, the characters should be able to recover shipping logs from cogitators and paper records kept in the refinery that line up with rumours and speculation they might have acquired earlier. Hard evidence may be required or at least reinforce how they wish to deal with Lord Felputh at the end of the adventure.",
+   "ru": "Разговор с любым из зверолюдов у печей или с теми, кого отряд встретит в туннелях (например, с @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.YWOtDHG1vScQKCB4]{Меском} или @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.J8fomG1IJs18g3F5]{Гелкой}, или даже рассказ @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Аркта Талгора}) открывает отряду, как зверолюды попали на завод: их поймали на диком мире, перевезли через пустоту на пустотном корабле вольного торговца, а затем доставили на «Мальтус VI». Эти сведения крайне важно передать персонажам, поскольку они доказывают соучастие @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорда Фелпута}. Если персонажам не удастся получить их от NPC, они должны суметь найти на заводе транспортные журналы в когитаторах и бумажные записи, согласующиеся со слухами и догадками, которые они могли собрать раньше. Неопровержимые улики могут понадобиться или хотя бы укрепить решимость персонажей в том, как поступить с лордом Фелпутом в конце приключения."
+  },
+  "196": {
+   "en": "1D. Desecrated Shrine",
+   "ru": "1D. Осквернённое святилище"
+  },
+  "200": {
+   "en": "At the centre of the refinery, a labourer’s shrine to the Glorious God-Emperor has been reduced to rubble. The party can spend an hour to restore the shrine, and all involved recover one spent Fate (or gain one temporary Fate they can spend but not burn, which they can use until the end of the adventure). They can also automatically pass the next Test they make to resist Corruption. ",
+   "ru": "В центре завода рабочее святилище славного Бога-Императора превращено в руины. Отряд может потратить час, чтобы восстановить святилище, и все участвовавшие восстанавливают одну потраченную Судьбу (или получают одну временную Судьбу, которую можно потратить, но нельзя сжечь, до конца приключения). Кроме того, они автоматически проходят следующую проверку на сопротивление порче. "
+  },
+  "204": {
+   "en": "They also notice hoofed footprints in the dust and rubble that seem to be heading north towards the tunnel entrance.",
+   "ru": "Персонажи также замечают в пыли и обломках следы копыт, которые, похоже, ведут на север, к входу в туннели."
+  },
+  "208": {
+   "en": "1E. Northern Tunnel Entrance",
+   "ru": "1E. Северный вход в туннели"
+  },
+  "212": {
+   "en": "A tunnel entrance at the northern end of the refinery is guarded by a pair of @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastmen}, ones loyal to @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Arkt Talgore}. A smeared trail of blood, left by bodies being dragged below, mars the entrance. Skulls, spikes and chaotic effigies surround the entrance, marking the tunnel entrance as the entrance to their territory.",
+   "ru": "Вход в туннель в северной части завода охраняют двое @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{зверолюдов}, верных @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Аркту Талгору}. Вход обезображен размазанным кровавым следом от тел, которые утаскивали вниз. Вокруг расставлены черепа, колья и идолы Хаоса, отмечающие вход в туннель как границу их территории."
+  },
+  "216": {
+   "en": "Once the characters find a way past the Beastmen guards here, whether by defeating or distracting them and sneaking past, they enter the tunnels and the next part of the adventure.",
+   "ru": "Когда персонажи найдут способ миновать здешних стражей — одолев их или отвлекши и прокравшись мимо, — они входят в туннели, и начинается следующая часть приключения."
+  }
+ }
+}

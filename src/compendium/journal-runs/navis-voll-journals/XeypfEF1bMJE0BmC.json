@@ -1,0 +1,369 @@
+{
+ "journal": "DSccO5miF7LSJCVS",
+ "journalName": "Illicit Fabrications",
+ "page": "XeypfEF1bMJE0BmC",
+ "pageName": "Part 1: Industrial Action",
+ "name": "Часть 1: «Производственный спор»",
+ "runs": {
+  "4": {
+   "en": "A thick choking smog rolls through the chaotic morass of makeshift habs, flowing like gaseous sludge from the vast exhaust vents of massive manufactorums looming high above. Weary faces peer between the gaps in corrugated panels while filthy, shoeless figures dig for scraps in the waste. Despite the disorientation caused by smog and dust pooling in the sickly light of ancient, dimming lumens.",
+   "ru": "Густой удушливый смог ползёт по хаотичному болоту самодельных жилищ, стекая, словно газообразная жижа, из огромных вытяжек громадных мануфакторумов, нависающих высоко над головой. Усталые лица выглядывают из щелей между листами профнастила, а грязные босые фигуры роются в отбросах в поисках объедков. Смог и пыль скапливаются в болезненном свете древних тускнеющих люменов, сбивая с толку."
+  },
+  "10": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Vand’}s makeshift shack is a rusting collection of sheet metal nested among the walkways and corridors of a massive crumbling hab building. The man is paranoid and will not allow anyone to enter before identifying themselves, though characters can make a ",
+   "ru": "Самодельная лачуга @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Ванда} — ржавое нагромождение листового металла, приютившееся среди переходов и коридоров огромного разваливающегося жилого здания. Хозяин параноидален и никого не впустит, пока гости не назовутся, хотя персонажи могут пройти "
+  },
+  "12": {
+   "en": "Routine (+20) Athletics (Might)",
+   "ru": "Рутинную (+20) проверку Атлетики (Мощь)"
+  },
+  "14": {
+   "en": " Test to send the ramshackle door flying inwards. Assuming they do not enter by force, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Barsis Vand} offers the characters a swig of surprisingly good spirits from a dirty glass bottle. With introductions made and social obligations performed, he provides them with the following information:",
+   "ru": ", чтобы вышибить хлипкую дверь внутрь. Если персонажи не вломятся силой, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Барсис Ванд} предлагает им хлебнуть на удивление хорошего спиртного из грязной стеклянной бутылки. Покончив со знакомством и светскими любезностями, он сообщает следующее:"
+  },
+  "20": {
+   "en": "‘An accident… You think an explosion that catastrophic would have happened with an Enginseer on site? It was sabotage! I was coming in for my shift, and I saw them heading into the manufactorum, armed to the teeth and carrying Militarum munitions crates. It was the Vylathi Knives, by their tattoos. I managed to keep my distance and stay out of sight, and then I saw the explosions. I’d bet it was the chems they were after… thieving, throne-cursed ganger scum.’",
+   "ru": "«Несчастный случай… Думаете, такой чудовищный взрыв мог случиться, когда на месте был техноадепт? Это была диверсия! Я шёл на смену и увидел, как они входят в мануфакторум — вооружённые до зубов и с ящиками боеприпасов Милитарума. Ножи Вилати, судя по татуировкам. Мне удалось держаться поодаль и не попасться на глаза, а потом я увидел взрывы. Бьюсь об заклад, им нужна была химия… ворьё, трижды проклятое Троном отребье из банды»."
+  },
+  "26": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Barsis Vand} (Calis DeGuar) is omitting his position as former Overseer and his dealings with the @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#the-vylathi-knives]{Vylathi Knives}, but his story is essentially true; he watched the whole thing unfold from a vid-screen in his former workstation. Characters can make a ",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Барсис Ванд} (Калис ДеГуар) умалчивает о том, что был смотрителем, и о своих делах с @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#the-vylathi-knives]{Ножами Вилати}, но в целом его рассказ правдив: он наблюдал за всем происходящим по вид-экрану на своём прежнем рабочем месте. Персонажи могут пройти "
+  },
+  "28": {
+   "en": "Hard (−20) Intuition (Human)",
+   "ru": "Сложную (−20) проверку Чутья (Люди)"
+  },
+  "30": {
+   "en": " Test to confirm his intentions, but only succeeding with 3 SL or more reveals that Vand is holding something back. Regardless, Vand suggests that the characters investigate the manufactorum for themselves if they have not already done so. If the characters ask Vand any other questions, he answers everything honestly so long as it doesn’t jeopardise his disguise.",
+   "ru": ", чтобы проверить его намерения, но лишь успех с 3 КУ и более показывает, что Ванд что-то недоговаривает. Так или иначе, Ванд предлагает персонажам самим осмотреть мануфакторум, если они ещё этого не сделали. На любые другие вопросы Ванд отвечает честно, пока это не угрожает его личине."
+  },
+  "34": {
+   "en": "Recovery Protocol ",
+   "ru": "Протокол изъятия "
+  },
+  "38": {
+   "en": "The party had best interview @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Vand} with some haste, as they are not the only ones looking for him. As soon as the characters have gotten everything they can from Vand, or if they have begun to accuse him of duplicity openly, their attention is drawn to events beyond the ramshackle walls of the shack.",
+   "ru": "Отряду лучше поспешить с допросом @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Ванда}: ищут его не только персонажи. Как только они вытянут из Ванда всё, что можно, или открыто обвинят его во лжи, их внимание привлекает происходящее за хлипкими стенами лачуги."
+  },
+  "42": {
+   "en": "A clamour of raised voices and commotion from outside turns to screams, and the unmistakable roar-hiss of a plasma discharge erupts from beyond the shack’s thin walls. A gurgled cry cuts through the din as @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Vand} rushes to the wall. Peering between metal plates, his eyes go wide, and he speaks one word, ‘Mechanicus.’ ",
+   "ru": "Гомон голосов и суматоха снаружи сменяются криками, и из-за тонких стен лачуги раздаётся ни с чем не сравнимый рёв-шипение плазменного разряда. Сквозь шум прорывается булькающий вопль, и @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Ванд} бросается к стене. Выглянув в щель между металлическими листами, он округляет глаза и произносит лишь одно слово: «Механикус». "
+  },
+  "46": {
+   "en": "The @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus} has begun its search for @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Tybaris Arx}, the Tech-Priest who was supposedly killed in the explosion at Manufactorum Vitus-II. Strange energy emissions indicate to them that the Tech-Priest is still alive, though his location is difficult to determine. Shack by shack, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{Skitarii Vanguard} file workers outside, scattering belongings and lining them up in densely packed groups while a tall @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.vsiOALilPnEe3dKg]{Skitarii Vanguard Alpha} with an elaborate plasma pistol approaches. Close by, a worker’s corpse smoulders, a length of plasteel rebar presumably wielded as a weapon now fused to his blistered hand in an ashen death grip.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус} начал поиски @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Тибариса Аркса} — техножреца, который якобы погиб при взрыве на мануфакторуме «Витус-II». Странные энергетические излучения указывают, что техножрец ещё жив, хотя определить, где он, непросто. Лачугу за лачугой @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{скитарии-авангарды} выгоняют рабочих наружу, раскидывая их пожитки и выстраивая людей плотными группами, а к ним приближается высокий @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.vsiOALilPnEe3dKg]{альфа скитариев-авангардов} с богато украшенным плазменным пистолетом. Неподалёку дымится труп рабочего: кусок пластальной арматуры, которым он, видимо, пытался драться, сплавился с его покрытой волдырями рукой в пепельной предсмертной хватке."
+  },
+  "50": {
+   "en": "Depending on their preference and their Influence with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus}, the characters are likely to choose one of two paths — flight or negotiation.",
+   "ru": "В зависимости от предпочтений и влияния у @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус} персонажи, скорее всего, выберут один из двух путей — бегство или переговоры."
+  },
+  "54": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Vand} makes his preference clear by peeling back a panel at the rear of his shack, allowing their escape, stating he has somewhere he can hide out if the characters have been courteous toward him, or attempting to sneak away if they have not.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Ванд} ясно даёт понять, что предпочитает он: отгибает панель в задней стене лачуги, открывая путь к бегству, и говорит, что ему есть где отсидеться, если персонажи были с ним любезны, — а если нет, пытается ускользнуть сам."
+  },
+  "58": {
+   "en": "Alternatively, the party may attempt to leave the shack and deal directly with the Skitarii forces. In this area of the Lower Hive habs, they are led by Landa-12, a @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.vsiOALilPnEe3dKg]{Skitarii Vanguard Alpha} whose body is far more machine than flesh. Landa-12’s command protocols have been set at their most severe and uncompromising, leaving the cybernetic warrior with little room for compassion or understanding, even towards others affiliated with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus}. Unless a character, or their Patron, has at least 3 Influence with the Adeptus Mechanicus, Landa-12 treats the party as potential suspects and questions them to determine if they are harbouring the vanished Tech-Priest.",
+   "ru": "Отряд может и выйти из лачуги, чтобы иметь дело со скитариями напрямую. В этой части жилых трущоб нижнего улья ими командует Ланда-12 — @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.vsiOALilPnEe3dKg]{альфа скитариев-авангардов}, чьё тело куда больше машина, чем плоть. Командные протоколы Ланды-12 выставлены на самый суровый и бескомпромиссный режим, почти не оставляя кибернетическому воину места для сострадания или понимания — даже к тем, кто связан с @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус}. Если ни у одного персонажа или его покровителя нет хотя бы 3 влияния у Адептус Механикус, Ланда-12 считает отряд возможными подозреваемыми и допрашивает, чтобы выяснить, не укрывают ли они пропавшего техножреца."
+  },
+  "62": {
+   "en": "These mostly amount to ‘",
+   "ru": "В основном всё сводится к вопросу «"
+  },
+  "64": {
+   "en": "Are you aware of the location of Tech-Priest Tyberis,’",
+   "ru": "Известно ли вам местонахождение техножреца Тибериса?"
+  },
+  "66": {
+   "en": " followed by the coda, ‘",
+   "ru": "» и заключению: «"
+  },
+  "68": {
+   "en": "Answer truthfully. I am empowered to execute anyone I suspect of lying, as even erroneous executions will encourage others to be more forthcoming.’",
+   "ru": "Отвечайте правдиво. Я уполномочен казнить любого, кого заподозрю во лжи, ибо даже ошибочные казни побуждают остальных к откровенности»."
+  },
+  "74": {
+   "en": "Events should not result in violence towards the characters unless the party chooses to escalate matters or if they refuse to consent to a search of their personal belongings. Somewhat ironically, even if they or @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Vand} are otherwise behaving suspiciously, the Skitarii are ill-equipped to notice anything that falls outside their strictly encoded objectives.",
+   "ru": "До насилия против персонажей доходить не должно, если только отряд сам не обострит ситуацию или не откажется от обыска личных вещей. По иронии, даже если персонажи или @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Ванд} в остальном ведут себя подозрительно, скитарии плохо приспособлены замечать что-либо за пределами своих строго закодированных задач."
+  },
+  "78": {
+   "en": "However their encounter with the Skitarii resolves, the characters are left with a cold and stern warning from Landa-12. Until the fate of @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Tybaris Arx} is determined, Manufactorum Vitus-II and the surrounding hab areas are under the complete jurisdiction of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus}. The vanguard will not be so lenient with them in future encounters, and their presence in the area is more pronounced.",
+   "ru": "Чем бы ни закончилась встреча со скитариями, Ланда-12 напоследок холодно и сурово предупреждает персонажей. Пока судьба @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Тибариса Аркса} не прояснится, мануфакторум «Витус-II» и окрестные жилые кварталы находятся под полной юрисдикцией @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус}. При следующих встречах авангарды не будут столь снисходительны, а их присутствие в районе становится заметнее."
+  },
+  "82": {
+   "en": "Under the Radar",
+   "ru": "Не привлекая внимания"
+  },
+  "86": {
+   "en": "Should the characters choose to flee, or if they return to the Lower Hive habs later in this adventure, you may use the @UUID[Compendium.navis-apexialis.navis-voll-tables.RollTable.yxEXWbQdSsRMtDcS]{Skitarii Occupation Encounters} Table to generate some events for them to encounter. While fleeing the Skitarii in this instance, one or two events are sufficient. These should be used to enhance the character of the decrepit habs and slums, but should not be deployed as combat encounters unless your party appears to enjoy carving their way through random gangers! Some encounters on the Table may prove helpful if you need to provide an ailing party with additional clues.",
+   "ru": "Если персонажи решат бежать или вернутся в жилые кварталы нижнего улья позже по ходу приключения, можно использовать таблицу @UUID[Compendium.navis-apexialis.navis-voll-tables.RollTable.yxEXWbQdSsRMtDcS]{«Встречи во время оккупации скитариями»}, чтобы создать для них события. При бегстве от скитариев на этот раз хватит одного-двух событий. Используйте их, чтобы подчеркнуть облик ветхих жилых кварталов и трущоб, но не превращайте в боевые сцены — разве что вашему отряду нравится прорубаться сквозь случайных гангеров! Некоторые встречи из таблицы пригодятся, если отряду, зашедшему в тупик, нужны дополнительные зацепки."
+  },
+  "90": {
+   "en": "While the Skitarii patrols take a brutally efficient approach in dealing with any resistance, their protocols emphasise detainment and questioning over outright execution. These patrols comprise around two to four @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{Skitarii Vanguard}. If the characters are concerned about or soon to lose a fight with a group of Skitarii, their foes demand their surrender in clipped, augmented voices. If the characters become captured, refer to @UUID[.XeypfEF1bMJE0BmC#detainment-breach]{Detainment Breach}. If not, proceed to @UUID[.XeypfEF1bMJE0BmC#the-manufactorum-ruins]{The Manufactorum Ruins}.",
+   "ru": "Хотя патрули скитариев беспощадно эффективно подавляют любое сопротивление, их протоколы ставят задержание и допрос выше немедленной казни. Патруль состоит примерно из двух–четырёх @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{скитариев-авангардов}. Если персонажи опасаются схватки с группой скитариев или вот-вот её проиграют, противники отрывистыми аугментированными голосами требуют сдаться. Если персонажей схватят, переходите к разделу @UUID[.XeypfEF1bMJE0BmC#detainment-breach]{«Побег из-под стражи»}. Если нет — к разделу @UUID[.XeypfEF1bMJE0BmC#the-manufactorum-ruins]{«Руины мануфакторума»}."
+  },
+  "94": {
+   "en": "@Embed[Compendium.navis-apexialis.navis-voll-tables.RollTable.yxEXWbQdSsRMtDcS noCenter=true description=bottom]{Encounter}",
+   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-tables.RollTable.yxEXWbQdSsRMtDcS noCenter=true description=bottom]{Встреча}"
+  },
+  "98": {
+   "en": "Detainment Breach",
+   "ru": "Побег из-под стражи"
+  },
+  "104": {
+   "en": "Large, close-topped, cylindrical vats floored in rockcrete gravel bear fresh plasma-cut entryways bolted tightly with welded rebar cage doors. Blinking controls lock each door, beyond which two gun servitors patrol back and forth. A third unarmed servitor is slaved to a cogitator a short distance away, connected by long snaking cables to the walls, receiving and executing commands every few minutes.",
+   "ru": "В больших закрытых цилиндрических чанах с полом из феррокритовой крошки прорезаны плазмой свежие проходы, наглухо запертые приваренными решётчатыми дверями из арматуры. Каждую дверь запирает мигающий пульт, а за ними взад-вперёд патрулируют два орудийных сервитора. Третий, безоружный сервитор подключён к когитатору неподалёку длинными змеящимися кабелями, уходящими в стены, и каждые несколько минут получает и выполняет команды."
+  },
+  "110": {
+   "en": "If a Skitarii patrol captures the characters, they are dragged to their base of operations — the top floors of a colossal hab unit they’ve seized for their operation at the edge of the Lower Hive hab slums. Citizens in the lower levels have been ordered to stay indoors, and Servo-skulls patrol the corridors. Guarded Skorpius transports surround the building’s base, and Archeopters come and go, landing on the roof.",
+   "ru": "Если патруль скитариев схватит персонажей, их тащат на базу — верхние этажи колоссального жилого блока на краю трущоб нижнего улья, который скитарии заняли для своей операции. Жителям нижних этажей приказано не выходить из домов, по коридорам патрулируют сервочерепа. У основания здания стоят охраняемые транспорты «Скорпиус», а на крышу то и дело садятся и взлетают археоптеры."
+  },
+  "114": {
+   "en": "As their equipment is being seized, each character may attempt a ",
+   "ru": "Пока у персонажей изымают снаряжение, каждый может попытаться пройти "
+  },
+  "116": {
+   "en": "Challenging (+0) Dexterity (Sleight of Hand)",
+   "ru": "Среднюю (+0) проверку Ловкости рук (Фокусы)"
+  },
+  "118": {
+   "en": " Test to hide one item from their inventory about their person, gaining Advantage if that item has the ",
+   "ru": ", чтобы спрятать при себе один предмет из своего снаряжения, с преимуществом, если у предмета есть свойство "
+  },
+  "120": {
+   "en": "Subtle",
+   "ru": "Незаметное"
+  },
+  "122": {
+   "en": " Trait or is otherwise small, or Disadvantage if attempting to conceal an item with the ",
+   "ru": " или он просто мал, и с помехой, если пытаются спрятать предмет со свойством "
+  },
+  "124": {
+   "en": "Heavy",
+   "ru": "Тяжёлое"
+  },
+  "126": {
+   "en": " Trait. The rest of their equipment is inspected and diligently catalogued by the Tech-Priests — they thoroughly remove power cells from weapons inspect every corner of any container, all the while chanting benedictions to calm the machine spirits.",
+   "ru": ". Остальное снаряжение техножрецы досматривают и тщательно вносят в опись: они вынимают из оружия энергоячейки и осматривают каждый уголок любого контейнера, не переставая распевать благословения, чтобы успокоить машинных духов."
+  },
+  "136": {
+   "en": "After the characters are locked up, the Skitarii Vanguard receive a vox transmission and leave abruptly, choosing to interrogate the party later. They leave behind a pair of @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.KTlRprKRb8XzlnAD]{Gun Servitors} to watch over the prisoners.",
+   "ru": "Заперев персонажей, скитарии-авангарды получают передачу по воксу и спешно уходят, решив допросить отряд позже. Сторожить пленников они оставляют пару @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.KTlRprKRb8XzlnAD]{орудийных сервиторов}."
+  },
+  "140": {
+   "en": "Before any escape attempt can be made, the detainees in the next makeshift cell ask the characters who they are and what they were arrested for. These prisoners, ",
+   "ru": "Прежде чем персонажи успеют попытаться бежать, узники из соседней самодельной камеры спрашивают, кто они такие и за что их арестовали. Эти пленники, "
+  },
+  "142": {
+   "en": "Selto",
+   "ru": "Сельто"
+  },
+  "144": {
+   "en": " and ",
+   "ru": " и "
+  },
+  "146": {
+   "en": "Henn",
+   "ru": "Хенн"
+  },
+  "148": {
+   "en": " (use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.RsIGQ61VYTusa8TR]{Imperial Citizen} stat-block to represent them), are part of @UUID[.0Ozt4mfDwFIqYyBJ]{Varik’s scavenger company} and were taken during the Mechanicum’s sweep of the blast site. They tell the party they’ve been trying to escape but haven’t figured out much except that the gun servitors are programmed to shoot on movement — they noticed one obliterate some local vermin earlier.",
+   "ru": " (используйте для них профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.RsIGQ61VYTusa8TR]{имперского обывателя}), входят в @UUID[.0Ozt4mfDwFIqYyBJ]{артель старьёвщиков Варика}, и их схватили, когда Механикум прочёсывал место взрыва. Они рассказывают отряду, что пытались сбежать, но выяснили немногое: орудийные сервиторы запрограммированы стрелять на движение — они видели, как один испепелил какую-то местную тварь."
+  },
+  "152": {
+   "en": "You should be generous in allowing the characters to arrange their own escape. The gun servitors shoot at anything that moves outside the cells unless it bears specific @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus} markings. They could be tricked by throwing a small item towards a nearby cogitator, blasting it apart and opening the doors in the process, but they can not fire upon each other. If they are made to engage more than three targets, they begin a rearming sequence, which takes the sluggish servitors three turns to complete. The cells could be unlocked by making a ",
+   "ru": "Будьте щедры и позвольте персонажам самим организовать побег. Орудийные сервиторы стреляют во всё, что движется за пределами камер, если на нём нет особых знаков @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус}. Их можно обмануть, бросив мелкий предмет в сторону ближайшего когитатора, — тогда они разнесут его, заодно открыв двери, — но друг в друга они стрелять не могут. Если им приходится поразить больше трёх целей, они начинают цикл перезарядки, на который неповоротливым сервиторам нужно три хода. Камеры можно отпереть, пройдя "
+  },
+  "154": {
+   "en": "Challenging (+0) Dexterity (Lockpicking)",
+   "ru": "Среднюю (+0) проверку Ловкости рук (Взлом замков)"
+  },
+  "156": {
+   "en": " or ",
+   "ru": " или "
+  },
+  "158": {
+   "en": "Tech (Security)",
+   "ru": "Техники (Безопасность)"
+  },
+  "160": {
+   "en": " Test. If the characters escape while the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.KTlRprKRb8XzlnAD]{Gun Servitors} are active and armed, the Servitors pursue them.",
+   "ru": ". Если персонажи сбегут, пока @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.KTlRprKRb8XzlnAD]{орудийные сервиторы} активны и вооружены, сервиторы преследуют их."
+  },
+  "164": {
+   "en": "If the characters are at a complete loss, Selto and Henn chip in with suggestions or organise an escape themselves, freeing the party in the process (though only to act as targets for the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.KTlRprKRb8XzlnAD]{Gun Servitors}). If they assist the other prisoners in escaping, Selto and Henn put in a good word for the party with @UUID[.XeypfEF1bMJE0BmC#interviewing-varik]{Varik} (granting 1 Temporary Influence). Varik can be found in the @UUID[.XeypfEF1bMJE0BmC#the-manufactorum-ruins]{ruins of Manufactorum Vitus-II}.",
+   "ru": "Если персонажи совсем растерялись, Сельто и Хенн подкидывают идеи или сами устраивают побег, заодно освобождая отряд (пусть и лишь затем, чтобы персонажи послужили мишенями для @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.KTlRprKRb8XzlnAD]{орудийных сервиторов}). Если отряд поможет другим пленникам бежать, Сельто и Хенн замолвят за него словечко перед @UUID[.XeypfEF1bMJE0BmC#interviewing-varik]{Вариком} (что даёт 1 временное влияние). Варика можно найти в @UUID[.XeypfEF1bMJE0BmC#the-manufactorum-ruins]{руинах мануфакторума «Витус-II»}."
+  },
+  "168": {
+   "en": "The Manufactorum Ruins",
+   "ru": "Руины мануфакторума"
+  },
+  "174": {
+   "en": "The mouldering carcass of Manufactorum Vitus-II lies burst open, its blackened walls standing at odd angles, steel supports splayed like ribs of melted masonry ready to collapse. Glass and dust crunch on hardened pools of liquid metal and heat-fractured plascrete as Human scavengers pick through the bones.",
+   "ru": "Истлевающий остов мануфакторума «Витус-II» разворочен: почерневшие стены стоят вкривь и вкось, стальные опоры торчат, словно рёбра, из оплавленной кладки, готовой обрушиться. Стекло и пыль хрустят на застывших лужах жидкого металла и растрескавшемся от жара пласкрите, а люди-старьёвщики обгладывают эти кости."
+  },
+  "180": {
+   "en": "As the party leaves the hab sprawl and approaches the shattered manufactorum, they encounter their first oddity before even setting foot in the ruins. A collection of stained red and white papers is scattered against the edge of a storage container as if blown by a powerful gust before settling in disarray. A ",
+   "ru": "Покинув жилые кварталы и подходя к разрушенному мануфакторуму, отряд встречает первую странность ещё до того, как ступит на руины. У края контейнера разбросаны заляпанные красно-белые бумажки, словно их принесло сильным порывом ветра и бросило как попало. "
+  },
+  "182": {
+   "en": "Routine (+20) Logic (Investigation)",
+   "ru": "Рутинная (+20) проверка Логики (Расследование)"
+  },
+  "184": {
+   "en": " Test reveals these to be used in the preparation of tabac, with the red staining a result of being dipped into some kind of liquid, probably intentionally. ",
+   "ru": " показывает, что такую бумагу используют для скручивания табака, а красные пятна появились оттого, что её обмакнули в какую-то жидкость, — вероятно, намеренно. "
+  },
+  "188": {
+   "en": "Entering the ruins, the characters notice the dozens of scavengers picking through the remains, their small, portable lumens bobbing in the darkness. They seem to take little heed of the party until a gruff voice barks, “",
+   "ru": "Войдя в руины, персонажи замечают десятки старьёвщиков, копающихся в обломках; их маленькие переносные люмены покачиваются в темноте. Отряд они почти не замечают, пока из ближайших теней не раздаётся грубый окрик: «"
+  },
+  "190": {
+   "en": "Away, our salvage!",
+   "ru": "Прочь, это наша добыча!"
+  },
+  "192": {
+   "en": "” from the nearby shadows. The characters are momentarily blinded as an exceptionally bright light is activated and pointed at their faces. ",
+   "ru": "» Персонажей на миг ослепляет включённый и направленный им в лица невероятно яркий фонарь. "
+  },
+  "194": {
+   "en": "Varik",
+   "ru": "Варик"
+  },
+  "196": {
+   "en": ", the leader of the scavenger crew (use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.kdhQ2SwO7Vm2rzUI]{Gang Leader} stat-block to represent him), attempts to question the characters about their intentions. ",
+   "ru": ", главарь старьёвщиков (используйте для него профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.kdhQ2SwO7Vm2rzUI]{вожака банды}), пытается выяснить у персонажей, что им нужно. "
+  },
+  "200": {
+   "en": "Varik’s sole purpose is to protect his claim on the scrap. Should the party explain they are not scavengers and not with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus}, or if they pass a ",
+   "ru": "Единственная цель Варика — защитить своё право на лом. Если отряд объяснит, что они не старьёвщики и не из @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус}, или пройдёт "
+  },
+  "202": {
+   "en": "Challenging (+0) Rapport (Charm)",
+   "ru": "Среднюю (+0) проверку Взаимопонимания (Обаяние)"
+  },
+  "204": {
+   "en": " Test, Varik lowers the light and allows them to proceed. He warns them not to interfere with his operation. If the characters assisted Varik’s captured crew in @UUID[.XeypfEF1bMJE0BmC#detainment-breach]{escaping}, this goes much more smoothly, and Varik offers to help the party by answering any questions they may have. By looking around or asking Varik, the characters notice several clues presented in the Ruined Manufactorum Clues Table.",
+   "ru": ", Варик опускает фонарь и пропускает их, предупредив не мешать его работе. Если персонажи помогли пленённым людям Варика @UUID[.XeypfEF1bMJE0BmC#detainment-breach]{бежать}, всё проходит куда глаже, и Варик предлагает помочь отряду, ответив на любые вопросы. Осмотревшись или расспросив Варика, персонажи замечают несколько зацепок из таблицы «Зацепки в руинах мануфакторума»."
+  },
+  "216": {
+   "en": "Ruined Manufactorum Clues",
+   "ru": "Зацепки в руинах мануфакторума"
+  },
+  "228": {
+   "en": "Clue",
+   "ru": "Зацепка"
+  },
+  "236": {
+   "en": "Description",
+   "ru": "Описание"
+  },
+  "244": {
+   "en": "Interpretation",
+   "ru": "Толкование"
+  },
+  "260": {
+   "en": "Red Ration Papers",
+   "ru": "Красные обёртки пайков"
+  },
+  "268": {
+   "en": "Distinct white and red papers lie scattered around the entrance. The explosion did not burn them up.",
+   "ru": "У входа разбросаны приметные бело-красные бумажки. Взрыв их не сжёг."
+  },
+  "276": {
+   "en": "On inspection, they appear to be wrappers for rations — nutrition blocks that have been unwrapped and re-wrapped. An additional ",
+   "ru": "При осмотре оказывается, что это обёртки пайков — питательных брикетов, которые разворачивали и заворачивали заново. Дополнительная "
+  },
+  "278": {
+   "en": "Routine (+20) Lore (Rokarth)",
+   "ru": "Рутинная (+20) проверка Знаний (Рокарт)"
+  },
+  "280": {
+   "en": " Test reveals these are not standard issue from any known dispensary. Asking around the hab slums should uncover where this contraband came from (@UUID[.0E1byP7m6ewbH53O#the-dreg]{The Dreg}).",
+   "ru": " показывает, что это не стандартная выдача ни одного известного распределителя. Расспросы в жилых трущобах должны выявить, откуда взялась эта контрабанда (@UUID[.0E1byP7m6ewbH53O#the-dreg]{«Отстойник»})."
+  },
+  "290": {
+   "en": "Shattered Supports",
+   "ru": "Разрушенные опоры"
+  },
+  "296": {
+   "en": "Massive macro support columns, which once supported the manufactorum, lie shattered.",
+   "ru": "Громадные макроколонны, некогда подпиравшие мануфакторум, разбиты вдребезги."
+  },
+  "304": {
+   "en": "Whatever destroyed these structures was a powerful explosive of some kind.",
+   "ru": "Что бы ни уничтожило эти конструкции, это была мощная взрывчатка."
+  },
+  "314": {
+   "en": "Bloodstain",
+   "ru": "Пятна крови"
+  },
+  "320": {
+   "en": "Some isolated blood stains mark the ground in one location.",
+   "ru": "В одном месте на земле видны отдельные пятна крови."
+  },
+  "328": {
+   "en": "This blood is fresh and is, in fact, from Varik’s crew, who were arrested earlier. It draws attention to another point — no other Human remains are in the ruins. Varik or another passing scavenger confirms their crew hasn’t found any.",
+   "ru": "Кровь свежая и на самом деле принадлежит людям Варика, арестованным ранее. Это обращает внимание на другое обстоятельство: других человеческих останков в руинах нет. Варик или другой проходящий мимо старьёвщик подтверждает, что его люди таких не находили."
+  },
+  "338": {
+   "en": "Battered Dataslate",
+   "ru": "Побитый инфопланшет"
+  },
+  "344": {
+   "en": "A damaged dataslate still flickers with life, crammed with information about the manufactorum. It’s hard to know what’s pertinent to the investigation.",
+   "ru": "Повреждённый инфопланшет всё ещё мерцает, битком набитый сведениями о мануфакторуме. Трудно понять, что из этого относится к расследованию."
+  },
+  "352": {
+   "en": "The Dataslate contains a wealth of information about Manufactorum Vitus-II, including details on the last work shift at the time of the explosion, the Overseer on duty DeGuar, and the precise chemicals being made there. A successful ",
+   "ru": "В инфопланшете полно сведений о мануфакторуме «Витус-II», включая данные о последней рабочей смене на момент взрыва, о дежурном смотрителе ДеГуаре и о том, какие именно химикаты здесь производились. Успешная "
+  },
+  "354": {
+   "en": "Challenging (+0) Tech (Engineering)",
+   "ru": "Средняя (+0) проверка Техники (Инженерное дело)"
+  },
+  "356": {
+   "en": " or ",
+   "ru": " или "
+  },
+  "358": {
+   "en": "Logic (Investigation)",
+   "ru": "Логики (Расследование)"
+  },
+  "360": {
+   "en": " Test reveals that these chemicals are mostly inert — it would take a monumental mistake to produce an explosion of the scale that occurred here accidentally.",
+   "ru": " показывает, что эти химикаты по большей части инертны — чтобы случайно устроить взрыв такого масштаба, понадобилась бы чудовищная ошибка."
+  },
+  "374": {
+   "en": "Twisting Paths",
+   "ru": "Извилистые пути"
+  },
+  "378": {
+   "en": "Depending on the party’s choices, they may have arrived at the site of the manufactorum before visiting @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Barsis Vand} in @UUID[.XeypfEF1bMJE0BmC#under-the-radar]{his shack}, and, indeed, may be unaware that anyone survived the explosion. If this is the case, Varik can send the party to Vand, having heard that one lone survivor has emerged in the nearby slums, though Varik has no idea how anyone could have survived that blast.",
+   "ru": "В зависимости от решений отряда персонажи могли прийти на место мануфакторума раньше, чем навестили @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Барсиса Ванда} в @UUID[.XeypfEF1bMJE0BmC#under-the-radar]{его лачуге}, и даже не знать, что кто-то пережил взрыв. В таком случае Варик может направить их к Ванду: он слышал, что в соседних трущобах объявился единственный выживший, хотя и не представляет, как можно было уцелеть после такого взрыва."
+  },
+  "384": {
+   "en": "Interviewing Varik",
+   "ru": "Разговор с Вариком"
+  },
+  "394": {
+   "en": "As long as they haven’t committed any acts of violence against him or his crew, Varik is willing to speak with the party. If not, they must coerce him into talking.",
+   "ru": "Если персонажи не применяли насилия против него или его людей, Варик готов с ними поговорить. Иначе его придётся заставить."
+  },
+  "398": {
+   "en": "If asked about his captured scavengers, Varik informs the characters that the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus} swept through several hours ago, occupying the site before taking Selto and Henn in for questioning.",
+   "ru": "Если спросить его о схваченных старьёвщиках, Варик сообщает, что @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус} прошёлся здесь несколько часов назад, занял место и забрал Сельто и Хенна на допрос."
+  },
+  "402": {
+   "en": "Should the characters ask him about the strange ration papers, he states none of his crew can afford them, but he’s met a man called Datan who sells the black market rations. He’s set up most nights at a nearby fighting pit called ‘The Dreg’. The characters can spot Datan by the dirty red scarf he always wears, matching the colour of the wrappers.",
+   "ru": "Если персонажи спросят его о странных обёртках от пайков, он говорит, что никто из его людей не может себе их позволить, но он встречал человека по имени Датан, который продаёт пайки с чёрного рынка. Почти каждую ночь тот торгует у ближайшей бойцовой ямы под названием «Отстойник». Датана можно узнать по грязному красному шарфу, который он всегда носит, — того же цвета, что и обёртки."
+  },
+  "406": {
+   "en": "As they speak with Varik, a distant scream is heard in the manufactorum ruins, prompting the scavengers to depart with their gains. Varik says some of his crew reported seeing a pale, sickly-looking creature haunting the ruins, possibly a mutant. They threw debris at the creature, prompting it to flee, screeching as it went. The scavengers have no desire to get a closer look at the thing. ",
+   "ru": "Пока персонажи говорят с Вариком, в руинах мануфакторума раздаётся далёкий крик, и старьёвщики спешат уйти со своей добычей. Варик рассказывает, что кое-кто из его людей видел, как по руинам бродит бледное, болезненного вида существо, возможно мутант. Они бросали в него обломками, и оно с визгом убежало. Желания разглядеть его поближе у старьёвщиков нет. "
+  },
+  "410": {
+   "en": "If the party wishes to, they can track the high-pitched agonising screams emanating through the darkness from the far edge of the ruins. As they approach, the screaming stops, but they find large bare footprints with far too many toes. The trail is impossible to follow as it appears the creature climbed over the rubble.",
+   "ru": "При желании отряд может пойти на пронзительные мучительные вопли, доносящиеся из темноты с дальнего края руин. Когда персонажи приближаются, крики стихают, но они находят большие следы босых ног со слишком большим числом пальцев. Идти по следу невозможно: похоже, существо перебралось через завалы."
+  }
+ }
+}

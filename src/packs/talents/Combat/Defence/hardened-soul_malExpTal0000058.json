@@ -2,7 +2,7 @@
   "name": "Hardened Soul",
   "type": "talent",
   "_id": "malExpTal0000058",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">When gain Corruption: gain half. Checks to hold corruption +1SL</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever you would gain Corruption Points, you may reduce the amount by half (rounded up). Additionally, when you make a test to resist to hold off your corruption, you gain +1 SL on the test.</em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "Emperor’s Aegis Talent, succeeded against a corruption test at least once",
-      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Emperor’s Aegis\")"
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Aegis of the Emperor\")"
     },
     "test": {
       "difficulty": "challenging",

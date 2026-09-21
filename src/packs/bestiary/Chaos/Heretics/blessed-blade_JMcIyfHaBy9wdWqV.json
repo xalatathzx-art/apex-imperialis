@@ -3,7 +3,7 @@
   "name": "Blessed Blade",
   "type": "npc",
   "_id": "JMcIyfHaBy9wdWqV",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Sanity is for the Weak",
       "type": "trait",
       "_id": "fplWlVDuEJ90OZGA",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Ultimate Sacrifice",
       "type": "trait",
       "_id": "WyE4OzTRXe4uQzGw",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Utterly Loyal",
       "type": "trait",
       "_id": "JhQr1HNu3hiBxNGX",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -426,7 +426,7 @@
       "name": "Witch-mark",
       "type": "trait",
       "_id": "RgwGGHjQ7LvEotkR",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -486,7 +486,7 @@
       "name": "Power Greatsword",
       "type": "weapon",
       "_id": "IwUGhdZlAdrjgXzK",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -564,7 +564,7 @@
       "name": "Forbidden",
       "type": "specialisation",
       "_id": "Cmojxzqq8cD2gjeH",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -593,7 +593,7 @@
       "name": "Forbidden",
       "type": "specialisation",
       "_id": "NSfnRMFEFolEJZwE",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -622,7 +622,7 @@
       "name": "Intimidation",
       "type": "specialisation",
       "_id": "K8BZKQPh1hObjSZU",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

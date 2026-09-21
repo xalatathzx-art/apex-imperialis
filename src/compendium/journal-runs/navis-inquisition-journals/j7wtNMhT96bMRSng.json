@@ -1,0 +1,69 @@
+{
+ "journal": "QU6vEOUu69z190da",
+ "journalName": "Acolytes of the Inquisition",
+ "page": "j7wtNMhT96bMRSng",
+ "pageName": "Cruciator",
+ "name": "Круциатор",
+ "runs": {
+  "4": {
+   "en": "‘A doc’s hands can help or hurt, easy as anything. All comes down to who’s holding the leash.’",
+   "ru": "III АКОЛИТЫ ИНКВИЗИЦИИ\nПРЕИМУЩЕСТВА\nТ Т Та а ал л ла а ан н нт т ты ы ы: :: выберите два таланта из следующего"
+  },
+  "12": {
+   "en": "— Sliff, Trackless Chain Routerunner",
+   "ru": "списка:\nПрактическая анатомия (КП),"
+  },
+  "24": {
+   "en": "The @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.DuUfJmvyY53xYN2V]{Cruciator}, a chirurgeon skilled in the knowledge of the body and repairing injuries of the flesh, provides the invaluable service of managing all minor medicae issues and devastating injuries without needing to show vulnerability to unknown quantities. Many in this role are seen as cold and calculating, but to an Inquisitor, this is a prized quality; the colder the Cruciator’s demeanour, the better they are at fulfilling their duty without complication.",
+   "ru": "Баллистическая\nэкспертиза, Костолом (КП), Хирургеон (КП), Полевой\nврачеватель (КП), Чутьё детектива, Медиольнодумец (КП), Кровопускатель (КП).\nУ У Ул л лу у уч ч чш ш ше е ен н ни и ия я я у у ум м ме е ен н ни и ий й й: :: вы получаете три улучшения,\nчто можете распределить между следующими\nумениями: Дисциплина, Ловкость рук, Логика, Медика,\nСтойкость, Чутьё.\nС С Сп п пе е ец ц ци и иа а ал л ли и из з за а ац ц ци и ии и и: :: вы получаете два улучшения\nспециализаций, что можете распределить между\nследующими умениями: Ловкость рук, Медика,\nСтойкость.\nС С Сн н на а ар р ря я яж ж же е ен н ни и ие е е ( ( (в в вс с сё ё ё в в вз з зя я ят @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.DuUfJmvyY53xYN2V]{Cruciator}"
+  },
+  "28": {
+   "en": "Cruciators are, however, far more than just adept healers. With all of the Inquisition’s staple dedication to wiping the Imperium clean of heretical corruption, Cruciators turn their steady hands to investigation, interrogation, and drawing out earnest repentance as readily as any acolyte. Their specific knowledge of the Human body (or xenos in rare subjects) increases their abilities in close combat and improves their chances at coaxing even the most recalcitrant of heretics into offering valuable information.",
+   "ru": "т то о о и и из з з к к кн н ни и иг г ги и и п п пр р ра а ав в ви и ил л л) ) ): :: вы получаете\nнож, лазпистолет или стаб-револьвер, паутинный\nпистолет или ручной огнемёт, одеяния или лёгкий\nкожаный доспех, респиратор, инструменты хирургеона\n(на семь применений), хроно, инфопланшет или пикисец, писчий прибор.\nКРУЦИАТОР\n«Руки врача могут лечить или калечить, это просто.\nВсё дело в том, кто хозяин такого врача»\n- Слифф, посыльный Бесследной цепи\nКруциатор, то есть хирургеон, сведущий в тайнах\nорганизма и исцеления плоти, – бесценный\nспециалист, который сможет, как позаботиться о\nрядовых медицинских проблемах"
+  },
+  "32": {
+   "en": "Inquisitors source their Cruciators from all corners of the Imperium. Some might have trained within the Priesthood of Mars as a Biologis, requisitioned for their knowledge of both man and machine. Others are drawn from traditional chirurgeon roles, such as the Orders Hospitaller, the Administratum’s Officio Medicae, or even the Astra Militarum, where their skills have been tempered by front-line duty. But beyond a team’s need for medicae support, a Cruciator can serve as a skilled @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ZjtoAVYHcBRBAh7H]{Querent} or @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.UMXPdNRFRDLXnSBj]{Xenologist}, if they have the grit and detachment needed to get their hands dirty.",
+   "ru": "аколитов, так и\nспасти товарищей от страшного увечья, не рискуя\nобращением к постороннему. Многие считают\nкруциаторов хладнокровными и расчётливыми, но в\nглазахинквизитораэтодостоинства;чемхладнокровнее\nкруциатор, тем лучше он будет исполнять свой долг.\nНо такой аколит – это не только умелый целитель.\nБудучи преданы делу очищения Империума от\nеретической скверны, такие врачеватели твёрдой рукой\nведут расследование, допрос и вырывают признания\nи раскаяние из подозреваемых с той же готовностью,\nчто их соратники-аколиты. Их познания в анатомии\nлюдей (а в редких случаях – анатомии ксеносов)\nприносят преимущество, как в ближнем бою, так и на\nдопросе самых упорных еретиков, владеющих ценными\nсведениями.\nИнквизиторы вербуют таких специалистов по всему\nИмпериуму. Одни могли учиться у марсианского\nТехножречества и набираться знаний, как о людях, так\nи о машинах. Другие в прошлом @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ZjtoAVYHcBRBAh7H]{Querent} @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.UMXPdNRFRDLXnSBj]{Xenologist}"
+  },
+  "36": {
+   "en": "Those chosen for this role should have an insatiable thirst for knowledge. The compact you make with your Inquisitor affords you incredible carte blanche to explore the absolute limits of Human anatomy and design, far beyond the sanctioned learnings offered to most within the Imperium. That’s to say nothing of the mutants, xenos, and daemons you may otherwise encounter. What your Inquisitor expects in return is a trusted acolyte who can act as a versatile chirurgeon, interrogator, or even poisoner or researcher.",
+   "ru": "были традиционными\nдокторами – служили в госпитальных орденах,\nОффицио Медика или даже в Астра Милитарум, где\nиспытывали свои умения на передовой. Кроме\nисполнения врачебного долга, круциаторы могут быть\nумелыми ксенологами или вопрошающими, если им\nдостанет твёрдости и стойкости, чтобы запачкать руки.\nИзбранных на эту роль отличает неутолимая жажда\nзнаний. Соглашение с инквизитором даёт\nудивительный карт-бланш на исследование Человека,\nграницы которого простираются куда дальше, чем это\nпозволено большинству жителей Империума, а о\nпозволении изучать мутантов, ксеносов и демонов и\nговорить нечего. В ответ"
+  },
+  "42": {
+   "en": "Role Benefits",
+   "ru": "инквизитор ждёт,"
+  },
+  "48": {
+   "en": "Talents",
+   "ru": "что\nкруциаторбудетвернымслугой,умелымхирургеономи\nдознавателем,"
+  },
+  "50": {
+   "en": ": Choose 2 Talents from @UUID[Compendium.navis-apexialis.navis-core-items.Item.2ZR3cok7UNA3LF4n]{Applied Anatomy}, @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Wgi3zNI6egxLYydq]{Ballistic Forensics}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.k8C1ELU0BtmblnxW]{Bone Breaker}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.au8V1ieKIHkTeA8l]{Chirurgeon}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.rCRBALHdAqxNOtKg]{Field Medicae}, @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.F3sICRDFcUgn8ZI6]{Gut Instinct}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.CVhToUy8h6VUm5Uf]{Medicae Maverick}, and @UUID[Compendium.navis-apexialis.navis-core-items.Item.SN2BNGF960QVHckL]{Phlebotomist}.",
+   "ru": "а если понадобиться – то исследователем\nи отравителем. @UUID[Compendium.navis-apexialis.navis-core-items.Item.2ZR3cok7UNA3LF4n]{Applied Anatomy} @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Wgi3zNI6egxLYydq]{Ballistic Forensics} @UUID[Compendium.navis-apexialis.navis-core-items.Item.k8C1ELU0BtmblnxW]{Bone Breaker} @UUID[Compendium.navis-apexialis.navis-core-items.Item.au8V1ieKIHkTeA8l]{Chirurgeon} @UUID[Compendium.navis-apexialis.navis-core-items.Item.rCRBALHdAqxNOtKg]{Field Medicae} @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.F3sICRDFcUgn8ZI6]{Gut Instinct} @UUID[Compendium.navis-apexialis.navis-core-items.Item.CVhToUy8h6VUm5Uf]{Medicae Maverick} @UUID[Compendium.navis-apexialis.navis-core-items.Item.SN2BNGF960QVHckL]{Phlebotomist}"
+  },
+  "56": {
+   "en": "Skill Advances",
+   "ru": "III АКОЛИТЫ ИНКВИЗИЦИИ ПРЕИМУЩЕСТВА Т Т Та а ал л ла а ан н нт т ты ы ы: :: выберите два таланта из следующего списка: Практическая анатомия (КП), Баллистическая экспертиза, Костолом (КП),"
+  },
+  "58": {
+   "en": ": You have 3 Advances to spend on Medicae, Logic, Dexterity, Discipline, Intuition, and Fortitude.",
+   "ru": "Хирургеон (КП), Полевой врачеватель (КП), Чутьё детектива, Медик- вольнодумец (КП), Кровопускатель (КП). У У Ул л лу у уч ч чш ш ше е ен н ни и ия я я у у ум м ме е ен н ни и ий й й: :: вы получаете три улучшения, что можете распределить между следующими умениями: Дисциплина, Ловкость рук, Логика, Медика, Стойкость, Чутьё. С С Сп п пе е ец ц ци и иа а ал л ли и из з за а ац ц ци и ии и и: :: вы получаете два улучшения специализаций, что можете распределить между следующими умениями: Ловкость рук, Медика, Стойкость. С С Сн н на а ар р ря я яж ж же е ен н ни и ие е е ( ( (в в вс с сё ё ё в в вз з зя я ят т то о о и и из з з к к кн н ни и иг г ги и и п п пр р ра а ав в ви и ил л л) ) ): :: вы получаете нож, лазпистолет или стаб-револьвер, паутинный пистолет или ручной огнемёт, одеяния или лёгкий кожаный доспех, респиратор, инструменты хирургеона (на семь применений), хроно, инфопланшет или пикт- писец, писчий прибор. КРУЦИАТОР «Руки врача могут лечить или калечить, это просто. Всё дело в том, кто хозяин такого врача» - Слифф, посыльный Бесследной цепи Круциатор, то есть хирургеон, сведущий в тайнах организма и исцеления плоти, – бесценный специалист, который сможет, как позаботиться о рядовых медицинских проблемах аколитов, так и спасти товарищей от страшного увечья, не рискуя обращением к"
+  },
+  "64": {
+   "en": "Specialisations",
+   "ru": "постороннему. Многие считают круциаторов хладнокровными и расчётливыми, но в глазахинквизитораэтодостоинства;чемхладнокровнее круциатор, тем лучше он будет исполнять свой долг. Но такой аколит – это не"
+  },
+  "66": {
+   "en": ": You have 2 Advances to spend on any Specialisations in Medicae, Dexterity, and Fortitude.",
+   "ru": "только умелый целитель. Будучи преданы делу очищения Империума от еретической скверны, такие врачеватели твёрдой рукой ведут расследование, допрос и вырывают признания и раскаяние из подозреваемых с той же готовностью, что их соратники-аколиты. Их познания в анатомии людей (а в редких случаях – анатомии ксеносов) приносят преимущество, как в ближнем бою, так и на допросе самых упорных еретиков, владеющих ценными сведениями. Инквизиторы вербуют таких специалистов по всему Империуму. Одни могли учиться у марсианского Техножречества и набираться знаний, как о людях, так и о машинах. Другие в прошлом были традиционными докторами – служили в госпитальных орденах, Оффицио Медика или даже в Астра Милитарум, где испытывали свои умения на передовой. Кроме исполнения врачебного долга, круциаторы могут быть умелыми ксенологами или вопрошающими, если им достанет твёрдости и стойкости, чтобы запачкать руки. Избранных на эту роль отличает неутолимая жажда знаний. Соглашение с инквизитором даёт удивительный карт-бланш на исследование Человека, границы которого простираются куда дальше, чем это позволено большинству жителей Империума, а о позволении изучать мутантов, ксеносов и демонов и говорить нечего. В ответ инквизитор"
+  },
+  "72": {
+   "en": "Equipment",
+   "ru": "ждёт, что круциаторбудетвернымслугой,умелымхирургеономи дознавателем, а если понадобиться – то исследователем и отравителем."
+  },
+  "74": {
+   "en": ": You gain a @UUID[Compendium.navis-apexialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{Knife}, a @UUID[Compendium.navis-apexialis.navis-core-items.Item.jNxvsLBybPPenmmn]{Laspistol} or a @UUID[Compendium.navis-apexialis.navis-core-items.Item.vCeI41URKYV6iuAD]{Stub Revolver}, a @UUID[Compendium.navis-apexialis.navis-core-items.Item.tDe1U5EtxPowhYKn]{Web Pistol} or a @UUID[Compendium.navis-apexialis.navis-core-items.Item.GEtUumQVGsSNO7Kt]{Hand Flamer}, a set of @UUID[Compendium.navis-apexialis.navis-core-items.Item.D9X5jPYYafLyPqKh]{Robes or Light Leathers}, a @UUID[Compendium.navis-apexialis.navis-core-items.Item.V9RLeedbeyoCIgOJ]{Respirator}, a @UUID[Compendium.navis-apexialis.navis-core-items.Item.qjjlckQ3WvF4KLxO]{Chirurgeon's Kit} with 7 uses, a @UUID[Compendium.navis-apexialis.navis-core-items.Item.Aw29y9tfO4Uc9uWb]{Chrono}, a @UUID[Compendium.navis-apexialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW]{Dataslate} or a @UUID[Compendium.navis-apexialis.navis-core-items.Item.rgkUmSGkBrOKvo5p]{Pict Recorder}, and a @UUID[Compendium.navis-apexialis.navis-core-items.Item.7ipsWHaVhIsF7b3S]{Writing Kit}.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{Knife} @UUID[Compendium.navis-apexialis.navis-core-items.Item.jNxvsLBybPPenmmn]{Laspistol} @UUID[Compendium.navis-apexialis.navis-core-items.Item.vCeI41URKYV6iuAD]{Stub Revolver} @UUID[Compendium.navis-apexialis.navis-core-items.Item.tDe1U5EtxPowhYKn]{Web Pistol} @UUID[Compendium.navis-apexialis.navis-core-items.Item.GEtUumQVGsSNO7Kt]{Hand Flamer} @UUID[Compendium.navis-apexialis.navis-core-items.Item.D9X5jPYYafLyPqKh]{Robes or Light Leathers} @UUID[Compendium.navis-apexialis.navis-core-items.Item.V9RLeedbeyoCIgOJ]{Respirator} @UUID[Compendium.navis-apexialis.navis-core-items.Item.qjjlckQ3WvF4KLxO]{Chirurgeon's Kit} @UUID[Compendium.navis-apexialis.navis-core-items.Item.Aw29y9tfO4Uc9uWb]{Chrono} @UUID[Compendium.navis-apexialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW]{Dataslate} @UUID[Compendium.navis-apexialis.navis-core-items.Item.rgkUmSGkBrOKvo5p]{Pict Recorder} @UUID[Compendium.navis-apexialis.navis-core-items.Item.7ipsWHaVhIsF7b3S]{Writing Kit}"
+  }
+ }
+}

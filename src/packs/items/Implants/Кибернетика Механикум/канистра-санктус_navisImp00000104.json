@@ -2,7 +2,7 @@
   "name": "Канистра Санктус",
   "type": "navis-apexialis.implant",
   "_id": "navisImp00000104",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00007",
   "sort": 10400,
   "system": {

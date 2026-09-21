@@ -2,7 +2,7 @@
   "name": "Flyer",
   "type": "trait",
   "_id": "navisSpTrait0016",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder003",
   "sort": 1600,
   "system": {

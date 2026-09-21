@@ -1,0 +1,285 @@
+{
+ "journal": "b06xyMjo4E4cYc40",
+ "journalName": "Roleplaying Inquisitors",
+ "page": "1diRtTeN2hbZUhOY",
+ "pageName": "Briefing & Debriefing",
+ "name": "",
+ "runs": {
+  "2": {
+   "en": "To stand in the presence of an Inquisitor inspires awe and terror in all Imperial citizens, but perhaps none more so than their acolytes, those they expect the most from. Acolytes who serve them will become accustomed to this tension with cold familiarity, for to one who holds such absolute power, their lives are only as valuable as their duties.",
+   "ru": ""
+  },
+  "6": {
+   "en": "Meetings between Inquisitors and their agents become regular punctuation to the lives of both parties. Evidence is traded for inscrutable orders: coordinates, targets, and names, with duties of investigation, destruction, and execution — while the Inquisitor has absolute authority, it is their acolytes who must venture to enact their instruction, however righteous, however cruel.",
+   "ru": ""
+  },
+  "10": {
+   "en": "Inquisitors rarely communicate with their acolytes as straightforwardly as an officer of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum} marshals their warriors. Limited contact, coded messages, and Interrogators following the chain of command are all ways an Inquisitor may obscure their communications from an ever-vigilant enemy. Direct contact often suggests significant importance to the task set before them and an indication that the Inquisitor is beginning to consider them more than expendable. These communications take on ever more vital importance when an Inquisitor orders that, as needs of their investigation impose, their retinue operate under compartmentalised status — communicating only between one another, to the exclusion of all other Imperial forces, even the Inquisition.",
+   "ru": ""
+  },
+  "14": {
+   "en": "Briefings and debriefings are the primary ways characters interact with their Inquisitor Patron. Consider the advice below in conjunction with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.f5PuitUGgp6jQz5K.JournalEntryPage.qsaLi310r4uyLu4R#running-investigations]{Running Investigations} section included in ",
+   "ru": ""
+  },
+  "16": {
+   "en": "Imperium Maledictum",
+   "ru": ""
+  },
+  "18": {
+   "en": ". Beyond receiving orders and presenting evidence, briefings and debriefings allow characters to get to know their Patron, building the mystery around them and gradually presenting aspects of their motivation, philosophy, and goals with each subsequent meeting.",
+   "ru": ""
+  },
+  "22": {
+   "en": "To begin with, characters will know very little of the depths of philosophical conflicts that make the Inquisition such an interesting organisation to centre campaigns around, so these meetings should allow them glimpses into the organisation’s byzantine nature of competing philosophies and the clashes from bickering to total enmity that arise among Inquisitors as those uniquely allowed to act as individuals in their service to the Imperium.",
+   "ru": ""
+  },
+  "26": {
+   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.FlLe70joG4yXI3EG]{Method of Communication, description, no-center}",
+   "ru": ""
+  },
+  "36": {
+   "en": "Briefing",
+   "ru": ""
+  },
+  "40": {
+   "en": "When an Inquisitor summons their acolytes for briefing, their deployment into the field is certain, and the trials to come inexorable, borne in shadow by the heretic, mutant, and alien. The true breadth of an Inquisitor’s plan is rarely revealed, only the objective to which their acolytes must risk their lives, chancing a death in which they never know the consequence of their service. To these orders, they arm themselves with prayer and wargear, board their transport and hope that their preparations were enough to tide them through the mission ahead.",
+   "ru": ""
+  },
+  "44": {
+   "en": "Running a Briefing",
+   "ru": ""
+  },
+  "48": {
+   "en": "Unless characters are mid-mission, sessions of ",
+   "ru": ""
+  },
+  "50": {
+   "en": "Imperium Maledictum",
+   "ru": ""
+  },
+  "52": {
+   "en": ", wherein the characters' Patron is an Inquisitor, typically begin with the characters receiving a briefing from their Patron. This may be their only active communication with their Patron until their mission succeeds or fails. Inquisitors frequently avoid association with the actions of their acolytes in the field, especially when those actions might skirt the boundaries of Lex Imperialis.",
+   "ru": ""
+  },
+  "56": {
+   "en": "In a briefing, despite any convoluted means of communication, avoid giving characters any unclear orders. Simply ordering characters to, for example, ‘Investigate the Highborn Thrax family of Jocasta Hive on Persepolis’ gives them little to go on, and may be frustrating for players, particularly during the start of their investigation when they are effectively without leads. Instead, aim to offer more direct commands. Briefings benefit from including:",
+   "ru": ""
+  },
+  "66": {
+   "en": "Objective",
+   "ru": ""
+  },
+  "68": {
+   "en": ": Describe duties given to the characters. Avoid vague verbs like ‘Investigate’ and instead aim to provide clear, specific mission objectives. For example, ‘",
+   "ru": ""
+  },
+  "70": {
+   "en": "steal records from a datavault",
+   "ru": ""
+  },
+  "74": {
+   "en": "find evidence of heresy among a specific group",
+   "ru": ""
+  },
+  "76": {
+   "en": ",’ or ‘",
+   "ru": ""
+  },
+  "78": {
+   "en": "learn the connections between the operations of two factions",
+   "ru": ""
+  },
+  "90": {
+   "en": "Location",
+   "ru": ""
+  },
+  "92": {
+   "en": ": Investigations can span sectors, but a mission should have a precise location or contained area of operation. For example, ‘",
+   "ru": ""
+  },
+  "94": {
+   "en": "the lower levels of a hive city",
+   "ru": ""
+  },
+  "98": {
+   "en": "an asteroid research void station",
+   "ru": ""
+  },
+  "102": {
+   "en": "a voidship",
+   "ru": ""
+  },
+  "104": {
+   "en": "’ or ‘",
+   "ru": ""
+  },
+  "106": {
+   "en": "an Astra Militarum fortress",
+   "ru": ""
+  },
+  "108": {
+   "en": "’. Sometimes, the Patron could grant characters a secure safehouse to work from within or nearby the required location — or make it part of the characters' mission to set one up. See the @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.9PUkIflsW5d1R7T9]{Inquisition Safehouses} for ideas.",
+   "ru": ""
+  },
+  "118": {
+   "en": "Contacts",
+   "ru": ""
+  },
+  "120": {
+   "en": ": Introduce NPCs likely to be central to the characters’ investigation. They could be known @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.2TukBjlkS5RG5Qka]{Contacts} to the Inquisitor, their Ordo, a whistleblower, or witnesses embroiled in events. For example, ‘",
+   "ru": ""
+  },
+  "122": {
+   "en": "a voidship officer who witnessed strange Warp phenomena",
+   "ru": ""
+  },
+  "126": {
+   "en": "a Commissar who saw strange behaviour spreading through the ranks of their regiment",
+   "ru": ""
+  },
+  "130": {
+   "en": "a Ministorum informant who has worked for multiple Inquisitors",
+   "ru": ""
+  },
+  "132": {
+   "en": "’, or ‘",
+   "ru": ""
+  },
+  "134": {
+   "en": "a scribe who suspects they are receiving altered records",
+   "ru": ""
+  },
+  "146": {
+   "en": "Clues",
+   "ru": ""
+  },
+  "148": {
+   "en": ": These provide the initial leads for characters to follow at the outset of their investigation. They may be material evidence, reports, testimonies, or records of events; some might need to be sought out and retrieved in the field to be analysed further. For example, ‘",
+   "ru": ""
+  },
+  "150": {
+   "en": "a testimony from a heretical Rogue Trader",
+   "ru": ""
+  },
+  "154": {
+   "en": "a seized shipment of xenos-produced goods",
+   "ru": ""
+  },
+  "156": {
+   "en": "’, or ‘",
+   "ru": ""
+  },
+  "158": {
+   "en": "details on a recent uprising in a hab-block",
+   "ru": ""
+  },
+  "170": {
+   "en": "Additional Stipulations",
+   "ru": ""
+  },
+  "172": {
+   "en": ": Discretion is often essential for the Inquisition to complete its holy work. Many missions may require characters to disguise themselves as members of other Factions or operate from the shadows. Their Patron should make it clear at the outset of the mission if there are any lines they should not or are expected to cross (some of these stipulations could affect their @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.tuASnDHy4WyxFVOZ#subtlety]{Subtlety}, if broken).",
+   "ru": ""
+  },
+  "182": {
+   "en": "Briefing Example",
+   "ru": ""
+  },
+  "188": {
+   "en": "The characters’ Patron gives them the following instruction during their briefing: ‘Gather evidence of heresy among the Highborn Thrax family of Jocasta Hive on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy]{Persepolis}. Upon arrival, make contact with Sister Famula Phaedymia and inform only her that you are in service to His Holy Inquisition. She will introduce you as servants of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Ministorum}.’ ",
+   "ru": ""
+  },
+  "190": {
+   "en": "This introduction gives them a clear objective to their investigation (looking for evidence of heresy), a location ( Jocasta Hive on Persepolis), a contact with whom they will likely see a lot of interaction, and can provide clues and guidance if needed (Sister Famula Phaedymia), and a stipulation (only Phaedymia can know the party serve the Inquisition, their cover story is that they are servants of the Ministorum, and must therefore disguise themselves and act in a manner appropriate to resemble this allegiance).",
+   "ru": ""
+  },
+  "196": {
+   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.9PUkIflsW5d1R7T9]{Strange Meeting Places, description, no-center}",
+   "ru": ""
+  },
+  "200": {
+   "en": "Debriefing",
+   "ru": ""
+  },
+  "204": {
+   "en": "When characters return from a mission, how long does any sense of relief last? The lull offers safety in private offices, fortified barracks, or voidship cabins, but they know the Inquisitor awaits their report. Their Patron requires them to divulge the events of their mission and provide any evidence in relation to their stated goal (as well as any other evidence suggesting further heresy). Information imparted in debriefs will shape the course of future operations undertaken by the characters, regarding both direction and force permitted for the characters to utilise.",
+   "ru": ""
+  },
+  "208": {
+   "en": "Debriefings may readily include admonition if a mission was not performed to their Patron’s standards, such as through unsanctioned extrajudicial killings or the gathering of limited evidence. Inquisitors rarely provide comfort or positive reinforcement to acolytes beyond the cold acknowledgement of an adequately performed job and the responsibility to wield ever more brutal force in their Patron’s name. As GM, it is an opportunity for players to see behind the curtains, revealing some of what they might have missed or the consequences of unforeseen actions.",
+   "ru": ""
+  },
+  "212": {
+   "en": "Running a Debriefing",
+   "ru": ""
+  },
+  "216": {
+   "en": "During a debriefing, characters must present the evidence they gathered on their mission and discuss their actions and methods (ensuring that the evidence gathered justified any more dubious means employed). You can use the @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.5VEhavnLClS1FAIR]{Strange Meeting Places} Table to pick or inspire a clandestine location to run your debriefings.",
+   "ru": ""
+  },
+  "220": {
+   "en": "When characters present the evidence gathered during the debriefing, each piece of evidence grants +1 SL on Fellowship Tests made in conversation with their Patron. Characters may have to present convincing arguments to their Patron in the following ways, with Tests ranging from ",
+   "ru": ""
+  },
+  "222": {
+   "en": "Challenging (+0) to Very Hard (−30)",
+   "ru": ""
+  },
+  "224": {
+   "en": ", depending on how far they may have strayed from orders or authorised actions:",
+   "ru": ""
+  },
+  "234": {
+   "en": "Justification",
+   "ru": ""
+  },
+  "236": {
+   "en": ": Characters may have to justify more extreme actions undertaken on a mission, from breaking the strictures of the Lex Imperialis or arresting suspects, to extrajudicial executions or engaging in combat. Successful justification may convince their Patron to dispatch additional aid in future missions, such as extra security operatives or access to forbidden knowledge.",
+   "ru": ""
+  },
+  "246": {
+   "en": "Shaping Future Investigations",
+   "ru": ""
+  },
+  "248": {
+   "en": ": Guided by their evidence, an Inquisitor may send their acolytes to follow up any identified lead further or to apprehend those condemned by damning evidence. Inquisitors with intense preoccupations may be convinced that evidence gathered by their acolytes is worth diverting their attention, mainly if characters identify a threat the Inquisitor was unaware of. Enough evidence of a severe threat may even force the hand of an Inquisitor and see them joining their acolytes in the field.",
+   "ru": ""
+  },
+  "258": {
+   "en": "Knowing Thy Foe",
+   "ru": ""
+  },
+  "260": {
+   "en": ": Strong evidence can guide an Inquisitor to commit their assets to better preparation. Characters may gain +1 Superiority in a coming conflict if their evidence can offer guidance. It may convince the Inquisitor to prepare additional aid for the cell, including special weapons or equipment to fight their particular foe or provide @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.2TukBjlkS5RG5Qka]{Contacts} with relevant information.",
+   "ru": ""
+  },
+  "270": {
+   "en": "Strange Complications",
+   "ru": ""
+  },
+  "272": {
+   "en": ": The characters should inform their Patron of any strange complications — the interference of unlikely groups or clues that lead towards unrelated heresies. Informing their Patron allows them to use other cells and Contacts within their network to determine if something else is amiss. In some circumstances, characters may believe hiding or obscuring information from their superiors may benefit them, but this is their chance to come clean without repercussions. Their Patron will undoubtedly discover the truth eventually and be less forgiving, although hiding such information could lead to some powerful dramatic moments in the future.",
+   "ru": ""
+  },
+  "280": {
+   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.5VEhavnLClS1FAIR]{Strange Meeting Places, description, no-center}",
+   "ru": ""
+  },
+  "284": {
+   "en": "Rewards and Downtime",
+   "ru": ""
+  },
+  "288": {
+   "en": "Part of the Inquisitor’s debriefing is an opportune time to reward characters for their efforts; this will also help build their relationship with their Patron. Additionally, it is unlikely their Patron will have their next mission ready for them, as they are still processing the outcome of the last, so characters should be granted a period of downtime after the debriefing is complete. @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX]{Between Missions} and the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq]{Inquisition Player’s Guide} cover downtime activities, Endeavours, and Events.",
+   "ru": ""
+  },
+  "292": {
+   "en": "Standard character rewards are outlined in @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.f5PuitUGgp6jQz5K.JournalEntryPage.qsaLi310r4uyLu4R#rewarding-players]{Running the Game}, but as acolytes are special operatives of the Inquisition, consider offering them an extra gift from their Patron. This could be a new weapon or tool from the Inquisition’s armoury, something that might serve them well in a future mission. As a group, they could be granted a more secure safehouse, vehicle, or the funds to secure such a thing for themselves.",
+   "ru": ""
+  },
+  "296": {
+   "en": "It is also the perfect time to consider whether their Patron receives a new Boon, Liability, or subsequent increase or decrease in their Influence with certain Factions. Consider what the characters' mission results mean for their Inquisitor Patron. Did they clash with or favourably cooperate with another Faction? You could also consider if events caused the Patron to overcome one of their Liabilities and have it stricken from their Patron sheet.",
+   "ru": ""
+  }
+ }
+}

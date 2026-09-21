@@ -2,7 +2,7 @@
   "name": "Rite of Fear",
   "type": "talent",
   "_id": "malExpTal0000197",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">All humans within Long Range: test Discipline+0 test become frightened of you. Only augmented hearing can detect this</span></p><hr><p><span style=\"font-family: Arial\"><em>All humans, regardless of their ability to hear, within Long Range must test to avoid the Frightened Condition towards you. Whilst incanting the rite, you become unable to talk or communicate with others. Humans without auditory implants cannot hear infrasonic sound, and though are still affected, will not know you are speaking. </em></span></p>",

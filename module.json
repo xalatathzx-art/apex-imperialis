@@ -5,7 +5,7 @@
   "version": "0.2.0",
   "compatibility": {
     "minimum": "13",
-    "verified": "13"
+    "verified": "14"
   },
   "authors": [
     {
@@ -26,7 +26,17 @@
     }
   ],
   "esmodules": [
-    "module/navis-apexialis.js"
+    "module/navis-apexialis.js",
+    "official/impmal-core.js",
+    "official/inquisition-initialization.js",
+    "official/familiar-model.js",
+    "official/familiar-sheet.js",
+    "official/inquisitor-sheet.js",
+    "official/requisition-initialization.js",
+    "official/voll-initialization.js",
+    "module/uuid-aliases.js",
+    "module/pack-aliases.js",
+    "module/uuid-migration.js"
   ],
   "styles": [
     "styles/navis-skin.css",
@@ -53,6 +63,24 @@
     }
   },
   "packs": [
+    { "name": "navis-core-actors", "label": "Core — Персонажи", "path": "packs/navis-core-actors", "type": "Actor", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "navis-core-items", "label": "Core — Предметы", "path": "packs/navis-core-items", "type": "Item", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "navis-core-journals", "label": "Core — Журналы", "path": "packs/navis-core-journals", "type": "JournalEntry", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "navis-core-tables", "label": "Core — Таблицы", "path": "packs/navis-core-tables", "type": "RollTable", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "navis-core-scenes", "label": "Core — Сцены", "path": "packs/navis-core-scenes", "type": "Scene", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "navis-inquisition-actors", "label": "Инквизиция — Персонажи", "path": "packs/navis-inquisition-actors", "type": "Actor", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "navis-inquisition-items", "label": "Инквизиция — Предметы", "path": "packs/navis-inquisition-items", "type": "Item", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "navis-inquisition-journals", "label": "Инквизиция — Журналы", "path": "packs/navis-inquisition-journals", "type": "JournalEntry", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "navis-inquisition-tables", "label": "Инквизиция — Таблицы", "path": "packs/navis-inquisition-tables", "type": "RollTable", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "navis-requisition-actors", "label": "Реквизиция — Персонажи", "path": "packs/navis-requisition-actors", "type": "Actor", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "navis-requisition-items", "label": "Реквизиция — Предметы", "path": "packs/navis-requisition-items", "type": "Item", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "navis-requisition-journals", "label": "Реквизиция — Журналы", "path": "packs/navis-requisition-journals", "type": "JournalEntry", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "navis-requisition-tables", "label": "Реквизиция — Таблицы", "path": "packs/navis-requisition-tables", "type": "RollTable", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "navis-voll-actors", "label": "Voll — Персонажи", "path": "packs/navis-voll-actors", "type": "Actor", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "navis-voll-items", "label": "Voll — Предметы", "path": "packs/navis-voll-items", "type": "Item", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "navis-voll-journals", "label": "Voll — Журналы", "path": "packs/navis-voll-journals", "type": "JournalEntry", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "navis-voll-tables", "label": "Voll — Таблицы", "path": "packs/navis-voll-tables", "type": "RollTable", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "navis-voll-scenes", "label": "Voll — Сцены", "path": "packs/navis-voll-scenes", "type": "Scene", "system": "impmal", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
     {
       "name": "navis-species",
       "label": "Виды",
@@ -111,14 +139,61 @@
   ],
   "packFolders": [
     {
-      "name": "Navis Apexialis",
+      "name": "Core Rulebook",
       "sorting": "m",
       "color": "#8b6a1f",
+      "packs": [
+        "navis-core-actors",
+        "navis-core-items",
+        "navis-core-journals",
+        "navis-core-scenes",
+        "navis-core-tables"
+      ]
+    },
+    {
+      "name": "Inquisition Guide",
+      "sorting": "m",
+      "color": "#9b4a2f",
+      "packs": [
+        "navis-inquisition-actors",
+        "navis-inquisition-items",
+        "navis-inquisition-journals",
+        "navis-inquisition-tables"
+      ]
+    },
+    {
+      "name": "Requisition",
+      "sorting": "m",
+      "color": "#4f7d68",
+      "packs": [
+        "navis-requisition-actors",
+        "navis-requisition-items",
+        "navis-requisition-journals",
+        "navis-requisition-tables"
+      ]
+    },
+    {
+      "name": "Voll",
+      "sorting": "m",
+      "color": "#526b8c",
+      "packs": [
+        "navis-voll-actors",
+        "navis-voll-items",
+        "navis-voll-journals",
+        "navis-voll-scenes",
+        "navis-voll-tables"
+      ]
+    },
+    {
+      "name": "Navis Apexialis",
+      "sorting": "m",
+      "color": "#b07a28",
       "packs": [
         "navis-species",
         "navis-items",
         "navis-talents",
-        "navis-bestiary"
+        "navis-bestiary",
+        "navis-rules"
       ]
     }
   ],
@@ -129,7 +204,7 @@
         "type": "system",
         "compatibility": {
           "minimum": "3.1.0",
-          "verified": "3.3.0"
+          "verified": "4.1.0"
         }
       }
     ],

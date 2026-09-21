@@ -1,0 +1,53 @@
+{
+ "journal": "ZzHsqdssD6GJyhDE",
+ "journalName": "Patrons of the Inquisition",
+ "page": "8VBBA2YizW1qXO0A",
+ "pageName": "Faction: Ordo Hereticus",
+ "name": "Фракция: Ордо Еретикус",
+ "runs": {
+  "4": {
+   "en": "'Assume nothing - no writ no warrant, no seal, save my own - is truly valid. The heretic hides behind the titles and honours of the Imperium just as surely as they lurk among the wretched and the malcontent.'",
+   "ru": "«Ничего не принимайте на веру: ни одна грамота, ни один ордер, ни одна печать, кроме моей собственной, не подлинны по-настоящему. Еретик прячется за титулами и почестями Империума так же верно, как таится среди отверженных и недовольных»."
+  },
+  "12": {
+   "en": "- Inquisitor @UUID[Compendium.impmal-starter-set.actors.Actor.Oh1HWiuX3Lmk0q0l]{Aegidius Halikarn}",
+   "ru": "— Инквизитор @UUID[Compendium.impmal-starter-set.actors.Actor.Oh1HWiuX3Lmk0q0l]{Эгидий Халикарн}"
+  },
+  "24": {
+   "en": "Your Patron belongs to the section of the Inquisition chiefly concerned with identifying and eliminating heresy. Preachers and lay citizens deviating from the Ministorum’s Imperial Creed, mutation, and witchcraft are cornerstones of the Ordo’s work, but the Imperium’s political power structures are so intertwined with its religion that ‘heresy’ can encompass almost any threat. Criminality, protests against oppression, consorting with xenos, and even genuinely pious individuals whose words or actions are politically inconvenient may fall under the gaze of the Ordo Hereticus.",
+   "ru": "Ваш покровитель принадлежит к той части Инквизиции, что прежде всего занята выявлением и искоренением ереси. Проповедники и миряне, отступающие от Имперского кредо Министорума, мутации и колдовство — краеугольные камни работы ордоса, но политические структуры власти Империума так переплетены с его религией, что «ересью» может оказаться почти любая угроза. Преступность, протесты против угнетения, сношения с ксеносами и даже искренне благочестивые люди, чьи слова или поступки политически неудобны, могут попасть под взор Ордо Еретикус."
+  },
+  "30": {
+   "en": "Influence",
+   "ru": "Влияние"
+  },
+  "32": {
+   "en": ": Your Patron has +2 Influence with the Inquisition.",
+   "ru": ": у покровителя +2 влияния у Инквизиции."
+  },
+  "38": {
+   "en": "Duty Boon",
+   "ru": "Возможность обязанностей"
+  },
+  "40": {
+   "en": ": All Inquisitors have the Duty Boon: @UUID[Compendium.navis-apexialis.navis-core-items.Item.3M9o35qxoxiQRzP5]{Limitless Authority}.",
+   "ru": ": у всех инквизиторов есть возможность обязанностей @UUID[Compendium.navis-apexialis.navis-core-items.Item.3M9o35qxoxiQRzP5]{Безграничная власть}."
+  },
+  "44": {
+   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.7uL4Z2vM6lfwAlqr]{Puritan}",
+   "ru": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.7uL4Z2vM6lfwAlqr]{Пуританин}"
+  },
+  "48": {
+   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.2HSuqibzUKBgpOlc]{Radical}",
+   "ru": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.2HSuqibzUKBgpOlc]{Радикал}"
+  },
+  "52": {
+   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.1XQ61LnxurvHZ3Pe]{Puritan}",
+   "ru": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.1XQ61LnxurvHZ3Pe]{Пуританин}"
+  },
+  "56": {
+   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.nH0TKf8tJsOg03NV]{Radical}",
+   "ru": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.nH0TKf8tJsOg03NV]{Радикал}"
+  }
+ }
+}

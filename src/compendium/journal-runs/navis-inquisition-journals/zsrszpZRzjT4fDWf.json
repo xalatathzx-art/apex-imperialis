@@ -1,0 +1,377 @@
+{
+ "journal": "xxcZ1PUz0t1ycevK",
+ "journalName": "Running Inquisition Adventures",
+ "page": "zsrszpZRzjT4fDWf",
+ "pageName": "Setting Up Your Game",
+ "name": "",
+ "runs": {
+  "2": {
+   "en": "Just as an Inquisitor and their agents must arm and prepare themselves for a mission, so must a GM prepare to run an Inquisition game in Imperium Maledictum. Some GMs may be quite capable of crafting a nuanced, layered, investigation-focused game ‘on the fly’, but for most, it is a good idea to ensure as much as possible is in place before the first die hits the table.",
+   "ru": ""
+  },
+  "6": {
+   "en": "Crafting the Story",
+   "ru": ""
+  },
+  "10": {
+   "en": "The first step is determining the ‘core concept’ — a one-sentence description of the story. For instance, ‘The characters will investigate a Drukhari incursion in the sump of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.59y8WFXTbwKRwiRI]{Hive Voll}, only to find that the xenos are in league with an ambitious minor noble of @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#castyx]{House Castyx}’. From this, you can derive a story’s essential three acts: the beginning, middle, and end.",
+   "ru": ""
+  },
+  "20": {
+   "en": "Beginning",
+   "ru": ""
+  },
+  "22": {
+   "en": ": The characters are given their mission by their Patron to investigate rumours of a Drukhari incursion in Voll, after which they encounter the sinister xenos.",
+   "ru": ""
+  },
+  "32": {
+   "en": "Middle",
+   "ru": ""
+  },
+  "34": {
+   "en": ": Complications ensue as the characters uncover evidence that the Drukhari are in league with a member of House Castyx while continuing their efforts to deal with the xenos.",
+   "ru": ""
+  },
+  "44": {
+   "en": "End",
+   "ru": ""
+  },
+  "46": {
+   "en": ": Having uncovered sufficient evidence to implicate the noble, the characters receive assistance from their Patron through a squad of Deathwatch to finally destroy the xenos, then confront the noble with their crimes.",
+   "ru": ""
+  },
+  "54": {
+   "en": "For each of these ‘acts’, you can derive story beats — the important scenes or events within. For example, in the first act, the beats may include ‘the characters meet with their Patron and are given their mission’, followed by ‘the characters travel to Voll, enter the lower hive and examine the scene of the first Drukhari incursion,’ followed by ‘the characters have their first, brief skirmish with the Drukhari’, and so on. You can then plan for each beat to be a scene, encounter or other event and can prepare settings, NPCs, loot and the like for each.",
+   "ru": ""
+  },
+  "58": {
+   "en": "Each beat should flow logically from the one to the next. @UUID[.tuASnDHy4WyxFVOZ#clues]{Clues} are a key way to advance the story within beats, but they can also link beats together. Some beats and the clues given in them can also be decision points, where the characters will choose to send the story in one of several possible directions.",
+   "ru": ""
+  },
+  "62": {
+   "en": "For example, if the characters have discovered a xenos weapon that requires analysis, they may consider taking it to the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus}. But if they have another clue suggesting that the Adeptus Mechanicus may be involved in the corresponding xenos plot, do they find another way to analyse the weapon, which may take more time and at a greater expense?",
+   "ru": ""
+  },
+  "66": {
+   "en": "You may only wish to develop a detailed story up to a decision point and then allow the players to decide where they want to go at the end of a session. That will allow you to continue developing the story following that choice and save you time from developing detailed story branches that may never be used! The number of such beats can vary. Fewer beats will result in a quicker, less involved story that is easier to set up, while more beats will provide a longer, more detailed story that also involves more work to create and run. It is up to you and your players to determine which works best for them based on their available time, and interests.",
+   "ru": ""
+  },
+  "70": {
+   "en": "You should consider what resources you need for each story beat. NPCs, for instance, can be drawn from @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.2TukBjlkS5RG5Qka]{Contacts}, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.SJPyRkdBEOCtmD8R]{Sector Threats}, or the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ]{Bestiary}. However, if you require specific NPCs, such as unique villains, you will have to adapt one already existing or even create one from scratch. You may want to prepare ‘read aloud’ text so you can flavorfully present all of the information players need to be immersed in a scene and do it in a way that captures the mood they desire, be it creeping dread, visceral horror, bureaucratic tedium, or something else.",
+   "ru": ""
+  },
+  "76": {
+   "en": "Memorable NPCS",
+   "ru": ""
+  },
+  "80": {
+   "en": "NPCs should be distinctive and memorable. To assist with this, you can portray them with a particular voice and speech mannerisms suitable to their Faction and describe their appearance and dress in unique ways. The tables in @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.uJURMn2glWHhjqJk]{Imperium Maledictum} can assist with this. NPCs should also serve a purpose in the story. Being antagonists or allies is an obvious aspect, but tricky NPCs can also possess (and perhaps try to conceal) clues or other information that would be useful to the characters' investigation.",
+   "ru": ""
+  },
+  "86": {
+   "en": "Preparing the Game",
+   "ru": ""
+  },
+  "90": {
+   "en": "With your story in hand, whether a premade module or one of your own devising, you can now prepare for your next session. The following suggestions intend to assist a GM in doing just that.",
+   "ru": ""
+  },
+  "96": {
+   "en": "Patron Review",
+   "ru": ""
+  },
+  "98": {
+   "en": ": Review the Patron’s Boons, Liabilities, and Motivations. Also, review the Goals, Philosophies, and Techniques of the Patron’s Ordo and their particular Philosophy. Finally, review their Influence with Factions that will be, or are likely to be encountered by the characters during the story. Knowing these things will help you roleplay the Patron during the game. Creating a Patron whose words and actions are consistent and whose expectations of the characters are clear will greatly increase the game’s immersion while helping the players roleplay their characters.",
+   "ru": ""
+  },
+  "104": {
+   "en": "Character Review",
+   "ru": ""
+  },
+  "106": {
+   "en": ": Know the characters! A common pitfall for GMs is to focus on knowing their ‘side’ of the story but not that of the characters. In particular, you should consider how to advance not just the story of their game but also that of the individual characters. If a player has decided that their character has a sworn enemy, for instance, then inserting clues regarding that enemy’s actions and whereabouts will move that story forward and further invest that player in the game.",
+   "ru": ""
+  },
+  "112": {
+   "en": "Skill Review",
+   "ru": ""
+  },
+  "114": {
+   "en": ": Determine which Skills and Specialisations are likely applicable to your story beats, when specific instances of Advantage or Disadvantage might apply, and when particular Tests would be Opposed, Extended, or even revealed in Passive Tests. Drawing on each player character’s skills can give them each their time in the spotlight. However, it is unnecessary — nor even possible — to be exhaustive, as the players will likely do things you did not anticipate. Nonetheless, presetting particular Tests will make it easier to keep things balanced and save time.",
+   "ru": ""
+  },
+  "120": {
+   "en": "Strengths &amp; Weaknesses",
+   "ru": ""
+  },
+  "122": {
+   "en": ": You should also know the characters' strengths and weaknesses, what they can do well and what they cannot. This will assist you in setting up Tests that will be within the characters' abilities. If a particular clue or other piece of information is essential to move the story forward, then knowing the characters' stats will assist in setting up Passive Tests that will still allow players agency and their moment to shine. This avoids the risk of awkwardly stalling the game as a result of a failed Test.",
+   "ru": ""
+  },
+  "128": {
+   "en": "Rules Review",
+   "ru": ""
+  },
+  "130": {
+   "en": ": Likewise, consider which rules are likely to apply to the game in general and the upcoming session, and ensure you are conversant with them. Suppose you expect the session to see the characters buying, selling, and trading for new equipment. In that case, they should review @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y]{Armoury} of ",
+   "ru": ""
+  },
+  "132": {
+   "en": "Imperium Maledictum",
+   "ru": ""
+  },
+  "134": {
+   "en": ", particularly the section on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.k5sND1C17nY9xB1G]{Trading Equipment}. Likewise, suppose you expect a session with a great deal of combat. In that case, they should ensure they have good knowledge of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf]{Rules} of ",
+   "ru": ""
+  },
+  "136": {
+   "en": "Imperium Maledictum",
+   "ru": ""
+  },
+  "138": {
+   "en": ", and particularly the sections on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.5wEY1d4xaZf5cEiq]{Combat}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE]{Damage, and Wounds}.",
+   "ru": ""
+  },
+  "144": {
+   "en": "Notes Review",
+   "ru": ""
+  },
+  "146": {
+   "en": ": Finally, you should review any notes they made at the end of the previous session. It is worthwhile to invest a few moments at the end of a session in making notes, capturing any points that would be relevant at the outset of the next session. This includes details like changes in character Influence with various groups, any Temporary Influence in effect, and the characters' Superiority Level. By being prepared — knowing the characters and their Patron well, having a well-crafted story ready and knowing the relevant rules and mechanics — you can minimise friction and wasted time at the table and provide the players with a smooth, immersive, and exciting game.",
+   "ru": ""
+  },
+  "152": {
+   "en": "Let the players lead",
+   "ru": ""
+  },
+  "158": {
+   "en": "Against the alien and the traitor, there is no fair way to fight.",
+   "ru": ""
+  },
+  "164": {
+   "en": "The players will routinely face the deadliest of foes and impossible situations. Try to lean into their ideas! Superiority will often tip the scales, turning disaster into a pyrrhic victory, so entertain their wild ideas. The Inquisition is one of the few Imperial Factions to embrace pragmatism, no matter how slight. When preparing for your next session, consider what your characters are capable of and how they might use their most favoured Skills and Talents to solve the problems that arise.",
+   "ru": ""
+  },
+  "170": {
+   "en": "Planning your campaign",
+   "ru": ""
+  },
+  "174": {
+   "en": "A campaign in ",
+   "ru": ""
+  },
+  "176": {
+   "en": "Imperium Maledictum",
+   "ru": ""
+  },
+  "178": {
+   "en": " is effectively a series of interconnected missions but with enough wiggle room to compensate for players making either interesting or terrible decisions. Building an Inquisition focused campaign typically begins with choosing one significant idea to focus on and then building missions to weave in and around this idea as characters progress towards a final confrontation. You must decide what this big idea is. Thankfully, the Inquisition is embroiled in so much activity in the Macharian Sector that you have plentiful options to choose from. Consider some of the following ideas to serve as a starting point or simply inspiration:",
+   "ru": ""
+  },
+  "186": {
+   "en": "The characters' ",
+   "ru": ""
+  },
+  "188": {
+   "en": "Ordo Hereticus Patron",
+   "ru": ""
+  },
+  "190": {
+   "en": " is working to eradicate false scriptures of the Imperial Creed. They have heard whispers of a cult tearing down Lord Macharius’s reputation and history. This cult plans to build power and assault Macharia to undermine the Imperium’s control in the sector.",
+   "ru": ""
+  },
+  "198": {
+   "en": "The characters' ",
+   "ru": ""
+  },
+  "200": {
+   "en": "Ordo Xenos Patron",
+   "ru": ""
+  },
+  "202": {
+   "en": " has heard whispers of Genestealer Cult activity working in the underbelly of a hive city. Tackling the cult, they discover links to other Genestealer Cults on other worlds and the involvement of a Polypsykana Inquisitor, who has been manipulating the cult to study their psychic abilities.",
+   "ru": ""
+  },
+  "210": {
+   "en": "The characters' ",
+   "ru": ""
+  },
+  "212": {
+   "en": "Ordo Malleus Patron",
+   "ru": ""
+  },
+  "214": {
+   "en": " has discovered a Horusian Inquisitor is secretly operating in the sector. Their acolyte cells must be rooted out, the daemons they hunt destroyed, and the Inquisitor themself brought to justice.",
+   "ru": ""
+  },
+  "222": {
+   "en": "The characters' ",
+   "ru": ""
+  },
+  "224": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.0vHms9BJQGOVa0dO]{Thorian} Patron",
+   "ru": ""
+  },
+  "226": {
+   "en": " is scouring the sector for Aeldari artefacts, hoping to reverseengineer their technology to aid the God-Emperor’s return to realspace. They are being hunted on two fronts: by the Aeldari, whom they are tricking and stealing technology from, and by their Puritan peers, who see their interest in xenotech as heretical.",
+   "ru": ""
+  },
+  "234": {
+   "en": "The characters' ",
+   "ru": ""
+  },
+  "236": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.R7LueEsDUhrSYHNn]{Amalathian} Patron",
+   "ru": ""
+  },
+  "238": {
+   "en": " is investigating the fall of several noble houses in the sector, discovering a series of Drukhari assassinations — unbeknownst to them, they are secretly at war with a @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.7Aqg1D2wSmKjmzWj]{Recongregator} Inquisitor, in league with the xenos, who seeks to tear down ruling houses they believe are false claimants to their authority",
+   "ru": ""
+  },
+  "246": {
+   "en": "The characters' ",
+   "ru": ""
+  },
+  "248": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.UAWh0hEvWDwob6CT]{Isstvanian} Patron",
+   "ru": ""
+  },
+  "250": {
+   "en": " is working towards promoting war against xenos factions in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.UbH7oOtTYfjFlKRt]{Gallosque Nebula} but has garnered the unfortunate attention of an @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.R7LueEsDUhrSYHNn]{Amalathian} Inquisitor who does not wish to risk the status quo. A shadow war has broken out between the two Inquisitors. Can the characters' Patron simultaneously defeat their rival Inquisitor quietly whilst stoking the flames of war in the Nebula?",
+   "ru": ""
+  },
+  "258": {
+   "en": "Besides incorporating the characters' Patron, some of the best campaign ideas hinge on the Inquisition’s ",
+   "ru": ""
+  },
+  "260": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.DvP1i46KYTgkMN0W]{Philosophies}",
+   "ru": ""
+  },
+  "262": {
+   "en": " and the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.SJPyRkdBEOCtmD8R]{Threats} the Imperium faces; it is even better if your campaign can draw on both.",
+   "ru": ""
+  },
+  "266": {
+   "en": "The Patron’s chosen ",
+   "ru": ""
+  },
+  "268": {
+   "en": "Philosophy",
+   "ru": ""
+  },
+  "270": {
+   "en": " can be the core of your campaign, a concept to thread throughout each mission — the outcome of a mission should help them further their goals, safeguard their tenets, or put their ideals into question. At the end of your campaign, you may see the Patron achieve their goals or see them utterly dashed. This outcome should be up to the actions of your players' characters and what they achieve. Do they wish to see their Patron succeed? Do they think their Patron has gone off the deep end into Radicalism and is no better than the enemies they have been fighting thus far? How do these outcomes play into their survival?",
+   "ru": ""
+  },
+  "274": {
+   "en": "The Macharian Sector has traditional ",
+   "ru": ""
+  },
+  "276": {
+   "en": "Threats",
+   "ru": ""
+  },
+  "278": {
+   "en": " aplenty: heretics, xenos, and daemons, but do not forget to include aspects of the Adeptus Terra, noble houses, Infractionist elements, or even opposing Inquisitors and their retinues within that category. Narratives are often more interesting when the lines are blurred between everyone involved. Introducing another Inquisitor to the mix halfway through the campaign can be a great ally or enemy, depending on how they relate to the Patron’s Philosophy or goals (see @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.FLhAj7NDZUgL1Nls#between-inquisitors]{Between Inquisitors}).",
+   "ru": ""
+  },
+  "284": {
+   "en": "Test run",
+   "ru": ""
+  },
+  "288": {
+   "en": "Before embarking on a full-blown campaign, it might be worth creating and running a few individual missions with your playgroup. This gives you, the GM, and your players time to understand their Patron and characters. Furthermore, it is an excellent source of inspiration for gauging what aspects of the Inquisition your players are most interested in and, oppositely, what they dislike.",
+   "ru": ""
+  },
+  "294": {
+   "en": "Structure",
+   "ru": ""
+  },
+  "298": {
+   "en": "Beyond the core concept, your campaign is built up as a series of missions, as described in ",
+   "ru": ""
+  },
+  "300": {
+   "en": "@UUID[.zsrszpZRzjT4fDWf#crafting-the-story]{Crafting the Story}",
+   "ru": ""
+  },
+  "302": {
+   "en": ", considering that elements from one mission feed into the following or future aspects of the campaign overall. Similar to the three-act structure presented in ",
+   "ru": ""
+  },
+  "304": {
+   "en": "Crafting the Story,",
+   "ru": ""
+  },
+  "306": {
+   "en": " a similar approach can be applied here, with each act containing a handful of missions. A short campaign could have as many as one or two missions per stage, scaling up as appropriate and increasing the stakes for all involved as the campaign progresses.",
+   "ru": ""
+  },
+  "316": {
+   "en": "Early Missions",
+   "ru": ""
+  },
+  "318": {
+   "en": ": Here the stakes are planetary-level. Send the characters on a few missions, let them get a feel for investigations and explore roleplaying their characters. As this act closes, you must establish the characters' ultimate enemy and their Patron’s driving goals and Philosophies. Use these first few missions to reveal these aspects piece by piece.",
+   "ru": ""
+  },
+  "328": {
+   "en": "Middle Missions",
+   "ru": ""
+  },
+  "330": {
+   "en": ": Up the stakes, the whole system or subsector is at risk. Have the characters spread out their investigations, hop from planet to planet chasing down leads, uncover related heresies, and confront lower-level aspects of their enemy’s organisation. But all of this is to reveal more of the more significant threat they are yet to face.",
+   "ru": ""
+  },
+  "340": {
+   "en": "Final Missions",
+   "ru": ""
+  },
+  "342": {
+   "en": ": Up the stakes one last time; now the threat could affect the whole Macharian Sector or harm a widespread aspect of Imperial culture and society. By now, the characters will have done most of their investigating against their prime threat and acquired some scars. In this closing act, line up the characters' enemies and have the characters tackle each one head-on.",
+   "ru": ""
+  },
+  "350": {
+   "en": "Remember to give your players downtime between each mission (see ",
+   "ru": ""
+  },
+  "352": {
+   "en": "Between Missions",
+   "ru": ""
+  },
+  "354": {
+   "en": ", in both @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX]{Imperium Maledictum,} and the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq]{Inquisition Player’s Guide}), and grant them regular contact with their Patron through @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.1diRtTeN2hbZUhOY]{briefing and debriefing} sessions. Remember to hand out rewards as you go, as indicated in @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.f5PuitUGgp6jQz5K.JournalEntryPage.qsaLi310r4uyLu4R#rewarding-players]{Rewarding Players}.",
+   "ru": ""
+  },
+  "358": {
+   "en": "Consider adding a @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W.JournalEntryPage.Y1wjtyi7JdgHxQiF]{Conclave to these between-mission segments}, or it can be a mission in and of itself. Have the characters and their Patron encountered such a sector-spanning foe that they should involve the Macharian Inquisition? Have they garnered enough evidence of heresy against a Radial Inquisitor to petition for a declaration of Excommunicate Traitoris from their peers?",
+   "ru": ""
+  },
+  "362": {
+   "en": "Railroading",
+   "ru": ""
+  },
+  "366": {
+   "en": "It is essential to plan out the major arcs and pillars of your campaign, but listen to your players on a mission-to-mission basis. Build each subsequent mission, considering the ideas and avenues they wish to explore based on the @UUID[.tuASnDHy4WyxFVOZ#clues]{clues} you gave them. An exceptionally rigid series of events and missions can lead to railroading — forcing your players and their characters into something they do not want to do or explicitly laying the track out in front of them — which you should always strive to avoid.",
+   "ru": ""
+  },
+  "372": {
+   "en": "Remember",
+   "ru": ""
+  },
+  "374": {
+   "en": ": Your job as GM is to facilitate the stories your players create due to the stage you set up for them to play on and generate consequences for their actions, both for their characters, the setting, and the cast of NPCs involved.",
+   "ru": ""
+  },
+  "384": {
+   "en": "However, creating such an open sandbox sometimes leads players and their characters to get lost or pursue clues that are deliberate red herrings. The key to getting them back on track is rarely to tell them what they did was wrong — instead, it is to reward them for the avenues they have pursued and then show them what the campaign’s prime antagonist has been doing in their absence. You can use this tactic as a GM if your players feel like they need a break from the larger narrative or if you need time for your antagonists to achieve something in the background.",
+   "ru": ""
+  },
+  "388": {
+   "en": "You can use similar tactics when branching your narrative, giving players a choice of multiple missions to pursue or clues leading to different avenues of investigation or locations. But time is always of the essence. If they pursue one mission while ignoring the other, what happens due to their choices or neglect? Does it mean they gain something from succeeding in one mission, whereas their enemy gains ground elsewhere? There should be a balance, or the choices you put before them will feel unfair. Any narratives that branch outwards should come back around — they find more clues or information that lead back towards the primary threat or narrative.",
+   "ru": ""
+  }
+ }
+}

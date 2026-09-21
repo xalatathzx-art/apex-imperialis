@@ -2,7 +2,7 @@
   "name": "Rumorsmith",
   "type": "talent",
   "_id": "malExpTal0000082",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Advantage on Rapport(Inquiry) on local gossip</span></p><hr><p><span style=\"font-family: Arial\"><em>You’re vigilant to local gossip, a bountiful source of both reliable and wildly inaccurate intelligence. You gain Advantage on Rapport (Inquiry) Tests to hear the word on the street. </em></span></p>",

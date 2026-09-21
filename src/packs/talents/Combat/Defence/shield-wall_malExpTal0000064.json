@@ -2,7 +2,7 @@
   "name": "Shield Wall",
   "type": "talent",
   "_id": "malExpTal0000064",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">With Shield: re-roll failed parry (once/turn)</span></p><hr><p><span style=\"font-family: Arial\"><em>When you are armed with a shield, you may re-roll one failed Parry test per round</em></span></p>",

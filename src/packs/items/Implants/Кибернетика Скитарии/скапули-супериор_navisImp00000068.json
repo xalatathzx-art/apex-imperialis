@@ -2,7 +2,7 @@
   "name": "Скапули Супериор",
   "type": "navis-apexialis.implant",
   "_id": "navisImp00000068",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00005",
   "sort": 6800,
   "system": {

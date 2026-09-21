@@ -2,7 +2,7 @@
   "name": "Hedonist",
   "type": "trait",
   "_id": "navisSpTrait0040",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder003",
   "sort": 4000,
   "system": {

@@ -2,7 +2,7 @@
   "name": "Blessed Martyrdom",
   "type": "talent",
   "_id": "malExpTal0000160",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On burn Fate to survice: witnessing allies regain 1 FP. If you die in battle, every ally fully recovers his FP</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever you burn Fate to survive a mortal blow, each other friendly character who witnesses this miraculous survival regains 1 spent Fate Point. When you die in battle, each other friendly character who witnesses your glorious demise regains all spent Fate Points.</em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "Faithful (Imperial Cult) talent",
-      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful(Imperial Cult)\")"
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful (imperial Cult)\")"
     },
     "test": {
       "difficulty": "challenging",

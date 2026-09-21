@@ -2,7 +2,7 @@
   "name": "Tireless",
   "type": "talent",
   "_id": "malExpTal0000068",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Ignore Fatigued(Minor). Use effect of Minor for Fatigued(Major)</span></p><hr><p><span style=\"font-family: Arial\"><em>Treat Fatigued (Major) as Fatigued (Minor), and Fatigued (Minor) as not being fatigued at all. </em></span></p>",

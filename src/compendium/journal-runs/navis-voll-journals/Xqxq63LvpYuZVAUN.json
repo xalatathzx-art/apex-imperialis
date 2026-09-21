@@ -1,0 +1,109 @@
+{
+ "journal": "mOfAsI4kLKUGTLXd",
+ "journalName": "Paradigm Shift",
+ "page": "Xqxq63LvpYuZVAUN",
+ "pageName": "Getting Started",
+ "name": "Начало",
+ "runs": {
+  "2": {
+   "en": "The adventure begins with the characters receiving a message and accompanying papers from their Patron. The characters are assumed to already be in @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth}, but their Patron’s message could reach them elsewhere if necessary and direct them to Voll’s capital. Depending on the Patron, this might come via a written message slipped under a door, delivered by a Servo-Skull, or some other means.",
+   "ru": "Приключение начинается с того, что персонажи получают от покровителя послание с приложенными бумагами. Предполагается, что персонажи уже находятся в @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{улье Рокарт}, но при необходимости послание может застать их и в другом месте, направив в столицу Волла. В зависимости от покровителя это может быть записка, подсунутая под дверь, послание, доставленное сервочерепом, или что-нибудь иное."
+  },
+  "6": {
+   "en": "Considering the Patron’s origins and motivations, you may wish to adapt the following text before reading aloud:",
+   "ru": "С учётом происхождения и мотивации покровителя, возможно, вы захотите изменить следующий текст, прежде чем зачитать его вслух:"
+  },
+  "12": {
+   "en": "‘I have arranged for you to meet Lord Felputh and provided you with the necessary papers. This minor noble has had trouble overseeing his manufactorum. It has ceased operations, risking Rokarth’s fulfilment of the tithe. Your task is to establish the nature of the problem for Lord Felputh and offer him guidance so that he can rectify the situation. Additionally, you should determine the extent of the noble’s failings and report back to me. The affairs of Rokarth’s elite are rarely simple, and knowledge of his affairs might prove valuable.’",
+   "ru": "«Я устроил вам встречу с лордом Фелпутом и снабдил вас необходимыми бумагами. У этого мелкого дворянина возникли трудности с управлением его мануфакторумом. Тот прекратил работу, и Рокарт рискует не выплатить десятину. Ваша задача — выяснить для лорда Фелпута, в чём беда, и дать ему совет, чтобы он мог исправить положение. Кроме того, вам следует определить, насколько велики промахи дворянина, и доложить мне. Дела элиты Рокарта редко бывают простыми, и знание о его делах может оказаться ценным»."
+  },
+  "20": {
+   "en": "Patrons",
+   "ru": "Покровители"
+  },
+  "24": {
+   "en": "There might be many reasons why the characters’ Patron sends them to meet @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh}. The noble may have contacted the Patron for aid, or the Patron has their own motivation for interfering, and the noble remains ignorant of their interest until the players arrive. The following are suggestions for each Patron Faction:",
+   "ru": "У покровителя может быть множество причин отправить персонажей к @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорду Фелпуту}. Дворянин мог сам обратиться к покровителю за помощью, или у покровителя есть собственный повод вмешаться, а дворянин не подозревает о его интересе до прибытия игроков. Ниже приведены варианты для каждой фракции покровителей:"
+  },
+  "32": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Adeptus Administratum}: If the Patron is Tithe Prefectus, then @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh} likely begged them for mercy, afraid he would be unable to meet his quota. In this case, he had no choice but to agree to the players’ visit, but received them reluctantly.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Адептус Администратум}: если покровитель — десятинный префект, то @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорд Фелпут}, вероятно, молил его о снисхождении, боясь не выполнить норму. В таком случае ему не оставалось ничего иного, кроме как согласиться на визит игроков, но принимает он их неохотно."
+  },
+  "40": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.OjmVcVX5lv76LsvL]{Adeptus Astra Telepathica}: Aware of the true purpose of Maltus Refinery VI and its mysterious product, the Patron knows it’s paramount that the refinery resumes production. This information is highly classified, something the party will never know.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.OjmVcVX5lv76LsvL]{Адептус Астра Телепатика}: покровитель знает истинное назначение очистительного завода «Мальтус VI» и его загадочной продукции, поэтому для него крайне важно, чтобы завод возобновил производство. Эти сведения строго засекречены, и отряд никогда о них не узнает."
+  },
+  "48": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus}: Magos Vark alerted the Patron to the situation, and no member of the Adeptus Mechanicus is comfortable with the thought that Maltus Refinery VI remain unused. Imperial machinery must be maintained to serve its purpose, and this manufactorum is in dire need of attention.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус}: о положении дел покровителю сообщил магос Варк, и ни одному члену Адептус Механикус не по душе мысль, что очистительный завод «Мальтус VI» простаивает. Имперские машины нужно обслуживать, чтобы они служили своему назначению, а этот мануфакторум остро нуждается во внимании."
+  },
+  "56": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Adeptus Ministorum}: @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh} was once known for his generosity to the Ministorum, but as his fortunes have fallen, his faith too seems to have waned. Recognising his ancestral house, the Patron intends to give the lord a chance to redeem himself and set the situation right.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Адептус Министорум}: некогда @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорд Фелпут} славился щедростью к Министоруму, но с упадком его состояния, похоже, ослабла и его вера. Из уважения к его древнему роду покровитель намерен дать лорду шанс искупить вину и исправить положение."
+  },
+  "64": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Astra Militarum}: What seems a minor inconvenience today, a few snatched citizens or a minor rebellion among manufactorum workers, might become a significant threat to the Imperium tomorrow.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум}: то, что сегодня кажется мелкой неприятностью — несколько похищенных горожан или небольшой бунт рабочих мануфакторума, — завтра может стать серьёзной угрозой Империуму."
+  },
+  "72": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.HlxK2pbpx2Uio6bU]{Imperial Fleet}: Any situation that affects the regular flow of goods to and from @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth}is likely to catch the attention of the party’s Patron. Significant disruption along the supply chain could eventually impact the imperial fleet’s departure schedules.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.HlxK2pbpx2Uio6bU]{Имперские флотилии}: любая ситуация, нарушающая регулярный поток грузов в @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарт} и из него, скорее всего, привлечёт внимание покровителя отряда. Серьёзный сбой в цепочке поставок в итоге может сказаться на графиках отбытия имперского флота."
+  },
+  "80": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionists}: The Patron has identified @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh} as a potential ally, customer, or target of extortion. Even a minor noble has wealth and connections that could prove useful, and this one is clearly desperate.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Одиночки}: покровитель видит в @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорде Фелпуте} возможного союзника, клиента или объект вымогательства. Даже у мелкого дворянина есть богатство и связи, которые могут пригодиться, а этот явно в отчаянии."
+  },
+  "88": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.41XgDdxnZ76elnvr]{Inquisition}: No one is above the Inquisition, and whatever the Patron’s Ordo they’ve been watching @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh} from afar for some time. When a noble becomes desperate they’re most likely to succumb to the many vices and temptations of the Imperium’s enemies. If there is evidence of corruption in the refinery, its owner must be held responsible.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.41XgDdxnZ76elnvr]{Инквизиция}: никто не стоит выше Инквизиции, и, к какому бы ордо ни принадлежал покровитель, он уже давно издали наблюдает за @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лордом Фелпутом}. Дворянин в отчаянии легче всего поддаётся многочисленным порокам и соблазнам врагов Империума. Если на заводе найдутся следы порчи, его владелец должен понести ответственность."
+  },
+  "96": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.h6Z6Ia2q5RkRUlDG]{Rogue Trader Dynasty:} While it’s not for the players to know, their Patron’s Dynasty or connections played a part in arranging the mysterious shipment that brought @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh} his new workforce. By sending the players to investigate, their Patron hopes to demonstrate their own innocence.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.h6Z6Ia2q5RkRUlDG]{Династии вольных торговцев:} игрокам этого знать не положено, но династия или связи их покровителя приложили руку к загадочной поставке, благодаря которой @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорд Фелпут} получил новую рабочую силу. Отправляя игроков на расследование, покровитель надеется доказать свою непричастность."
+  },
+  "104": {
+   "en": "Depending on a Patron’s Motivation, the following may also be suitable:",
+   "ru": "В зависимости от мотивации покровителя подойдут и следующие варианты:"
+  },
+  "114": {
+   "en": "Conflict",
+   "ru": "Конфликт"
+  },
+  "116": {
+   "en": ": If @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh} cannot keep the refinery operational, then he has already failed in his duty to the God-Emperor. The situation should be swiftly rectified, the noble’s infirmities exposed, and normal operations restored.",
+   "ru": ": если @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорд Фелпут} не может поддерживать работу завода, он уже не исполнил свой долг перед Богом-Императором. Положение нужно быстро исправить, немощь дворянина — выставить напоказ, а обычную работу — восстановить."
+  },
+  "126": {
+   "en": "Information",
+   "ru": "Информация"
+  },
+  "128": {
+   "en": ": Knowledge is power, and power over a noble, even one as minor as @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh}, is desirable. This Patron may rather prevent the lord’s fall for the moment. He may have assets, contacts, and inside knowledge of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth's} noble houses worth extracting first.",
+   "ru": ": знание — сила, а власть над дворянином, пусть даже таким мелким, как @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорд Фелпут}, желанна. Такой покровитель, возможно, предпочтёт пока предотвратить падение лорда. У того могут быть активы, связи и сведения изнутри о благородных домах @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта}, которые стоит сперва из него извлечь."
+  },
+  "138": {
+   "en": "Materiel",
+   "ru": "Снаряжение"
+  },
+  "140": {
+   "en": ": The Patron may take a personal interest in the produce of the refinery, and the wealth it brings its owner. Holding leverage over @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh} is appealing, or — if the Patron has the power to do so — confiscating the refinery might be preferable.",
+   "ru": ": покровитель может лично интересоваться продукцией завода и богатством, которое он приносит владельцу. Заманчиво получить рычаг давления на @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорда Фелпута} — или, если у покровителя достаточно власти, предпочтительнее конфисковать завод."
+  },
+  "150": {
+   "en": "Reputation",
+   "ru": "Репутация"
+  },
+  "152": {
+   "en": ": The greater the degradation of the refinery, the more appealing its restoration to Imperial greatness. If Chaos, xenos, or some other foul enemy of the Imperium has taken root, purging that enemy should bolster the Patron’s reputation, especially if the situation is dire.",
+   "ru": ": чем сильнее упадок завода, тем заманчивее вернуть ему имперское величие. Если там укоренился Хаос, ксеносы или иной гнусный враг Империума, его истребление укрепит репутацию покровителя, особенно если положение отчаянное."
+  },
+  "162": {
+   "en": "Unity",
+   "ru": "Единство"
+  },
+  "164": {
+   "en": ": Everything about this case makes the Patron uncomfortable. Tithes should not go unfulfilled, refineries should not lie unused, and nobles of any sort should not sink below their station. The Patron won’t be satisfied until the status quo is restored.",
+   "ru": ": всё в этом деле не по душе покровителю. Десятина должна выплачиваться, заводы не должны простаивать, а дворяне любого ранга не должны опускаться ниже своего положения. Покровитель не успокоится, пока не будет восстановлен прежний порядок."
+  }
+ }
+}

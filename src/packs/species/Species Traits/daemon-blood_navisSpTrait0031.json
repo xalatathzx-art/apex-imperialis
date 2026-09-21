@@ -2,7 +2,7 @@
   "name": "Daemon Blood",
   "type": "trait",
   "_id": "navisSpTrait0031",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder003",
   "sort": 3100,
   "system": {

@@ -2,7 +2,7 @@
   "name": "Herald of Nurgle",
   "type": "npc",
   "_id": "JdwePVHZvFhC5Tr5",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -263,7 +263,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -355,7 +355,7 @@
       "folder": "RK7ZH8sQLg4GKQWP",
       "name": "Leadership",
       "type": "specialisation",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -387,7 +387,7 @@
       "type": "trait",
       "name": "Heraldic Daemon",
       "_id": "HMTZOmEMEB7A7sAE",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -455,7 +455,7 @@
       "type": "trait",
       "name": "Heraldic Psyker",
       "_id": "Zb6GeqtQ9SGgIf6Y",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -592,7 +592,7 @@
       "type": "trait",
       "name": "Emissary of the Plague Lord",
       "_id": "JYXpGuUlMgp1ss2V",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -706,7 +706,7 @@
         }
       },
       "_id": "ukhGyPwEbkPQTu08",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "effects": [
         {
           "name": "Disgustingly Resilient",
@@ -870,7 +870,7 @@
       "type": "power",
       "folder": "g8vIkzHIde9dK0tb",
       "_id": "cLucMa6T7JHCCEl8",
-      "img": "modules/impmal-core/assets/icons/powers/minor-power.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/powers/minor-power.webp",
       "effects": [],
       "sort": 0,
       "ownership": {
@@ -893,7 +893,7 @@
       "name": "Nurgle's Rot",
       "type": "power",
       "_id": "tHwITztu6z7xmzGD",
-      "img": "modules/impmal-core/assets/icons/powers/minor-power.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/powers/minor-power.webp",
       "system": {
         "notes": {
           "player": "",
@@ -954,7 +954,7 @@
         "skill": "psychic"
       },
       "_id": "DsIicWmp2f3hItjr",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "effects": [],
       "folder": null,
       "sort": 100000,
@@ -977,7 +977,7 @@
       "name": "Plaguesword",
       "type": "weapon",
       "_id": "6YlzpKCtmX7XUzCX",
-      "img": "modules/impmal-core/assets/icons/weapons/melee-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
       "system": {
         "notes": {
           "player": "",

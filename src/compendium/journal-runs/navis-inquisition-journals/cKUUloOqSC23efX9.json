@@ -1,0 +1,161 @@
+{
+ "journal": "nePFHZRojb7rqIn7",
+ "journalName": "Open Case Files",
+ "page": "cKUUloOqSC23efX9",
+ "pageName": "The Lost Kabalite",
+ "name": "",
+ "runs": {
+  "2": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.SJPyRkdBEOCtmD8R.JournalEntryPage.fpfmfnvSQlN2YHNh]{Varon Vipersong} and his Kabalites have been using a hidden Webway portal on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.59y8WFXTbwKRwiRI]{Voll} to steal away Imperial citizens and influence corrupt leaders. So far, they have remained undetected, but one of his scouting Kabalites ran afoul of the Macharian Vigilites and was captured. The Vigilites have called upon the aid of the Inquisition to take the Kabalite off their hands before the Drukhari’s threat for retribution comes to fruition.",
+   "ru": ""
+  },
+  "6": {
+   "en": "This Case File works best as an isolated part or detour of a more extensive campaign or the means to introduce the Sector Threat of @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.SJPyRkdBEOCtmD8R.JournalEntryPage.fpfmfnvSQlN2YHNh]{Varon Vipersong}. Though it occurs on Voll, any significantly populated world or other hive would suffice.",
+   "ru": ""
+  },
+  "10": {
+   "en": "Hook",
+   "ru": ""
+  },
+  "20": {
+   "en": "While the characters are on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.59y8WFXTbwKRwiRI]{Voll}, they are contacted by their Patron or an authority within the Macharian Vigilites (if their standing is positive and their presence known). Vigilites in Hive Sanksorak have captured what they believe to be a xenos operative, asking to talk directly to Inquisitorial representatives. Characters can make a ",
+   "ru": ""
+  },
+  "22": {
+   "en": "Challenging (+0) Lore (Voll)",
+   "ru": ""
+  },
+  "24": {
+   "en": " Test to recall that Hive Sanksorak is the holding of @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#vylathi]{House Vylathi}. They are publically known for breeding the planet’s farmed tardigrades and processing them for meat, but privately, they are known to trade in secrets and dark favours while maintaining deep ties to @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#castyx]{House Castyx}.",
+   "ru": ""
+  },
+  "28": {
+   "en": "The characters are directed to the Vigilites' precinct fortress in Hive Sanksorak to meet with Vigilite Bekker, who is overseeing the captive. She brings the characters to the deepest and most secluded cells in the precinct fortress’s confinement block. Most of the other Vigilites are keeping themselves out of the way. Characters can make a ",
+   "ru": ""
+  },
+  "30": {
+   "en": "Challenging (+0) Intuition (Human)",
+   "ru": ""
+  },
+  "32": {
+   "en": " Test to understand that these Vigilites are acting cagey, fearful of the alien they have captured and of Inquisition agents stalking their halls — word has gotten out that the characters are visiting.",
+   "ru": ""
+  },
+  "36": {
+   "en": "Bekker introduces the characters to the captive and quickly backs away. The xenos is bound to a chair within their cell, stripped of their armour and weapons. Those have been collected onto a nearby table for examination (see the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.b8x4YQfSyzlvU4LX]{Drukhari Kabalite Warrior} statblock). Though they may initially appear @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#aeldari]{Aeldari} in origin, characters can make a ",
+   "ru": ""
+  },
+  "38": {
+   "en": "Difficult (−10) Lore (Xenos)",
+   "ru": ""
+  },
+  "40": {
+   "en": " Test to determine they are the far more aggressive @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#drukhari]{Drukhari}. The captive is struggling in their restraints, frothing at the mouth with anger.",
+   "ru": ""
+  },
+  "44": {
+   "en": "The operative knows a handful of Low Gothic phrases to communicate with the characters. However the characters decide to get information out of the captive, they can learn the following:",
+   "ru": ""
+  },
+  "52": {
+   "en": "Their name is ",
+   "ru": ""
+  },
+  "54": {
+   "en": "Grevyth",
+   "ru": ""
+  },
+  "56": {
+   "en": ", and they are a warrior of the Dripping Fang Kabal.",
+   "ru": ""
+  },
+  "64": {
+   "en": "Grevyth is offering themself over to the Inquisition. This is an act of the utmost desperation — they know the Inquisition may kill them, but are certain that their Sybarite (commander) @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.SJPyRkdBEOCtmD8R.JournalEntryPage.fpfmfnvSQlN2YHNh]{Varon Vipersong} will do far worse as punishment for failure. Varon will not tolerate one of his warriors being captured.",
+   "ru": ""
+  },
+  "72": {
+   "en": "Grevyth knows that Varon is dealing with a prominent ",
+   "ru": ""
+  },
+  "74": {
+   "en": "noble in",
+   "ru": ""
+  },
+  "76": {
+   "en": " Hive Sanksorak and can give the characters her name as a show of faith (",
+   "ru": ""
+  },
+  "78": {
+   "en": "Severin Vy’Gharst",
+   "ru": ""
+  },
+  "80": {
+   "en": "). They also know that the pair have been working together for some time.",
+   "ru": ""
+  },
+  "88": {
+   "en": "Grevyth knows the location of a ",
+   "ru": ""
+  },
+  "90": {
+   "en": "hidden Webway",
+   "ru": ""
+  },
+  "94": {
+   "en": "portal",
+   "ru": ""
+  },
+  "96": {
+   "en": " on Voll, one they have been using to conduct operations in and around Hive Sanksorak (no amount of coercion will extract this location out of Grevyth).",
+   "ru": ""
+  },
+  "104": {
+   "en": "Grevyth can also generally inform the characters about aspects of @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#drukhari]{Drukhari} society (their Kabal’s capabilities and former missions) but will always steer the conversation back to securing ‘asylum’ with the Inquisition, even if what that means is long-term captivity",
+   "ru": ""
+  },
+  "112": {
+   "en": "Response",
+   "ru": ""
+  },
+  "116": {
+   "en": "The characters may wish to investigate Severin Vy’Gharst to confirm that Grevyth’s information is legitimate. The noble has a compound in the mid-hive and oversees several meat-processing manufactorums, with thousands of workers under her thumb (some of whom she has already traded to Varon as captives). Confronting her directly, Vy’Gharst attempts to bargain with the characters. She claims @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.SJPyRkdBEOCtmD8R.JournalEntryPage.fpfmfnvSQlN2YHNh]{Varon} is under her control, not the other way around, and is eager to hand this ‘asset’ over to the Inquisition. She is terrified and thinks she was too clever to be caught.",
+   "ru": ""
+  },
+  "120": {
+   "en": "Vy’Gharst used @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.SJPyRkdBEOCtmD8R.JournalEntryPage.fpfmfnvSQlN2YHNh]{Varon} to assassinate a few minor members of @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#vylathi]{House Vylathi} and assure her ascension within the house, which she characterises as ‘petty games the Inquisition surely has no interest in’. She offers a deal — allow her to remain free, and she can lure Varon in with news of his captured warrior. Then, the characters can deal with the far greater threat, just as Vy’Gharst claims to have always intended. Should she remain free after this encounter, Vy’Gharst secretly informs Varon that the Inquisition await him — the noble is keen to see the characters destroyed to save her own neck. If the characters decide to investigate stealthily or simply kill Vy’Gharst where she stands — not an unreasonable action to take with one who trades in Human lives with xenos — they can retrieve similar information from her personal cogitator.",
+   "ru": ""
+  },
+  "124": {
+   "en": "Regardless of how the players handle Vy’Gharst, word reaches @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.SJPyRkdBEOCtmD8R.JournalEntryPage.fpfmfnvSQlN2YHNh]{Varon Vipersong} about his captive warrior, and he will soon attempt to recover or destroy Grevyth and his captors. He will infiltrate and attack the precinct fortress with his Kabalite Warriors. Alternatively, Varon will attack en route if the characters decide to extract or move Grevyth to their own secure location or hand him over to @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-xenos]{Ordo Xenos} operatives.",
+   "ru": ""
+  },
+  "128": {
+   "en": "Beyond silencing Grevyth, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.SJPyRkdBEOCtmD8R.JournalEntryPage.fpfmfnvSQlN2YHNh]{Varon} would only love a captive Inquisition agent to drag to Commorragh for interrogation, partly for his own pleasure, partly to seek information about his Archon’s lost Nightmare Doll. Varon seeks to capture some of the characters in his attack. If he is successful, it would be a monumental effort to recover them — Commorragh is a place of horror and dread, where even the most unflappable of Inquisitors might fear to thread. It may be possible to bargain for their return, perhaps for information that would aid Varon in his ascension. Of course, this would make the party little better than Vy’Gharst.",
+   "ru": ""
+  },
+  "132": {
+   "en": "Truly ingenious characters may wish to set up a double-bluff, using Grevyth as bait to track Varon back to his hidden webway portal, so long as they can trick Grevyth. The Webway portal would be infinitely more valuable to the Inquisition than the life of a single Drukhari lowborn.",
+   "ru": ""
+  },
+  "136": {
+   "en": "Resolution",
+   "ru": ""
+  },
+  "140": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.SJPyRkdBEOCtmD8R.JournalEntryPage.fpfmfnvSQlN2YHNh]{Varon Vipersong} makes for an interesting recurring nemesis, and if you intend to use the scheming Drukhari in this way, you should allow for his escape. He will sacrifice any of his own warriors to ensure he gets away. If Varon succeeded in capturing any Inquisitorial assets or agents, the characters may wish to pursue him in the future.",
+   "ru": ""
+  },
+  "144": {
+   "en": "Without tracking @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.SJPyRkdBEOCtmD8R.JournalEntryPage.fpfmfnvSQlN2YHNh]{Varon} directly or saving Grevyth from execution, securing and shutting down the Webway portal will take more time to locate. Tracking Varon’s former movements in and around the hive without directly following him is challenging but ultimately leads back to the Webway portal. If interrogated, Vy’Gharst suspects a few locations where the Webway portal could be and provides the characters with maps and notes. Whether the Inquisition destroys or quarantines the Webway portal is between the players, their Patron, and how their Philosophy would direct them. Regardless, once Varon knows the portal is compromised, he will never use it again.",
+   "ru": ""
+  },
+  "148": {
+   "en": "How the characters wish to deal with Severin Vy’Gharst is up to them. The noble will not go willingly without a fight. The characters may wish to call upon the local Vigilites for aid in capturing her or go over her head and seek help from more prominent figures in @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#vylathi]{House Vylathi} to get her to back down. However, the noble house would be more interested in covering up Vy’Gharst’s heretical activities to maintain its public image. Vy’Gharst can provide additional information on the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#drukhari]{Drukhari} and Silent Trade through interrogation. Publicly executing her as an example would show the Inquisition’s prowess and suppress xenos collaborators and Silent Trade activity on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.59y8WFXTbwKRwiRI]{Voll}.",
+   "ru": ""
+  },
+  "152": {
+   "en": "In addition to standard XP and solar rewards, the characters' Influence with the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-xenos]{Ordo Xenos} increases by 1, and the same goes for either the Macharian Vigilites or @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.Dml6BI69jLrNOQU0#vylathi]{House Vylathi}, depending on how their investigation resolves.",
+   "ru": ""
+  }
+ }
+}

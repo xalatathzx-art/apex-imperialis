@@ -2,7 +2,7 @@
   "name": "Combat Flair",
   "type": "talent",
   "_id": "malExpTal0000101",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Free action: Rapport(Charm) vs Discipline(Composure) against Engaged foe. On success: target takes -10WS, +1SL for every SL</span></p><hr><p><span style=\"font-family: Arial\"><em>You may make an Opposed Challenging (+0) Rapport (Charm) versus the enemies Discipline (Composure) as an in-turn Free Action against any Engaged foes each round. Should you win, you impose a -10 penalty to your enemies Weapons Skill, increased by 5 for every +SL. </em></span></p>",

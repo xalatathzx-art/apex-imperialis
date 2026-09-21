@@ -3,7 +3,7 @@
   "name": "Gloomhaunt",
   "type": "npc",
   "_id": "QKnY8qS0BFn7Bwpk",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Death From Above",
       "type": "trait",
       "_id": "Z01BZGaG7yOh3FZ9",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Cranial Clasp",
       "type": "trait",
       "_id": "NoDxQshIISj3bb56",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Teeth & Claws",
       "type": "weapon",
       "_id": "42ldGDinouxZjugn",
-      "img": "modules/impmal-core/assets/icons/weapons/melee-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -436,7 +436,7 @@
       "name": "Hide",
       "type": "specialisation",
       "_id": "DD57Nb5srpS9wg1Q",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

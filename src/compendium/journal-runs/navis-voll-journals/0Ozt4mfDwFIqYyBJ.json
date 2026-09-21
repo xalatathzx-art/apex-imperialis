@@ -1,0 +1,85 @@
+{
+ "journal": "DSccO5miF7LSJCVS",
+ "journalName": "Illicit Fabrications",
+ "page": "0Ozt4mfDwFIqYyBJ",
+ "pageName": "Dramatis Personae",
+ "name": "Действующие лица",
+ "runs": {
+  "2": {
+   "en": "The party are likely to encounter the following characters during the course of their adventure. Any other stat-blocks required to play can be found in the ",
+   "ru": "По ходу приключения отряд, скорее всего, встретит следующих персонажей. Прочие необходимые для игры профили можно найти в книге "
+  },
+  "6": {
+   "en": "Imperium Maledictum Core Book",
+   "ru": "Imperium Maledictum. Основная книга"
+  },
+  "10": {
+   "en": ", with the appropriate page number referenced in the adventure’s text.",
+   "ru": " — номера страниц указаны в тексте приключения."
+  },
+  "14": {
+   "en": "Barsis Vand (Overseer Calis DeGuar)",
+   "ru": "Барсис Ванд (смотритель Калис ДеГуар)"
+  },
+  "24": {
+   "en": "Roleplaying Vand/DeGuar",
+   "ru": "Отыгрыш Ванда/ДеГуара"
+  },
+  "28": {
+   "en": "Having spent years moving in high and low circles in @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth}h, DeGuar has become a talented liar. He presents a facade of ignorance and subtle stupidity, letting his eagerness manifest in his demeanour as an indistinct ‘shakiness,' professing that he hasn’t been right since the explosion. At all times, he attempts to engender sympathy for his situation and tries to appear unthreatening to avoid suspicion.",
+   "ru": "Годами вращаясь и в высших, и в низших кругах @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{улья Рокарт}, ДеГуар стал искусным лжецом. Он изображает невежество и лёгкую недалёкость, а его нетерпение проявляется в неясной «дрожи» — мол, он сам не свой с того взрыва. Он всё время старается вызвать сочувствие к своему положению и выглядеть безобидным, чтобы не навлечь подозрений."
+  },
+  "34": {
+   "en": "Kathor Navrak",
+   "ru": "Катор Наврак"
+  },
+  "38": {
+   "en": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.kdhQ2SwO7Vm2rzUI description=top table=true style=width:70%;margin:auto;]{Kathor Navrak}",
+   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.kdhQ2SwO7Vm2rzUI description=top table=true style=width:70%;margin:auto;]{Катор Наврак}"
+  },
+  "44": {
+   "en": "Roleplaying Kathor Navrak",
+   "ru": "Отыгрыш Катора Наврака"
+  },
+  "48": {
+   "en": "Kathor Navrak’s monolithic ambition is enough to outweigh anything as delicate as guilt or pity, underpinned by his burning desire to emulate the highborn nobles who cast him out. The characters come face to face with Navrak in the climax, where, despite their intrusion and discovery of his operation, he meets their advances with the utmost confidence and certainty of his own forces’ success. This has rubbed off even on the gangers who serve him — despite their loyalty being owed to other figures within the Knives, many have begun to believe Navrak’s proclamations that long and easy lives can be their’s, so long as he is given everything he requires.",
+   "ru": "Непомерное честолюбие Катора Наврака перевешивает любые тонкие чувства вроде вины или жалости, а в основе его лежит жгучее желание сравняться с высокородной знатью, которая его изгнала. Персонажи встречаются с Навраком лицом к лицу в кульминации, и, хотя они вторглись к нему и раскрыли его предприятие, он встречает их с величайшей уверенностью в победе своих сил. Эта уверенность передалась даже служащим ему гангерам: хотя их верность принадлежит другим фигурам среди Ножей, многие начали верить обещаниям Наврака, что долгая и лёгкая жизнь может стать их уделом — лишь бы он получал всё, что ему нужно."
+  },
+  "54": {
+   "en": "Lerna Harrog",
+   "ru": "Лерна Харрог"
+  },
+  "70": {
+   "en": "Roleplaying Lerna Harrog",
+   "ru": "Отыгрыш Лерны Харрог"
+  },
+  "74": {
+   "en": "Lerna Harrog has been following the party since their visit to the ruins of Manufactorum Vitus-II, moving through the mass of twisting tunnels and conduits running throughout the hive. She barely remembers her life before, and indeed, what Humanity she still possesses is fading fast. Though she volunteered to test the Vylathi Knives' woeful attempts at rejuvenat treatment, she hardly understood the risks she was undertaking. Powerful mutagenic chemicals have wracked her body, warping her mind and flesh alike. ",
+   "ru": "Лерна Харрог следует за отрядом с тех пор, как персонажи побывали на руинах мануфакторума «Витус-II», передвигаясь по лабиринту извилистых туннелей и труб, пронизывающих улей. Она едва помнит свою прежнюю жизнь, и то немногое человеческое, что в ней осталось, стремительно угасает. Хотя она сама вызвалась испытать жалкие попытки Ножей Вилати создать омолаживающее средство, она едва ли понимала, чем рискует. Мощные мутагенные химикаты истерзали её тело, исказив и разум, и плоть. "
+  },
+  "78": {
+   "en": "Harrog seeks revenge and hopes the party can help her get it. But make no mistake — Harrog is no longer Human; the longer she lives, the more monstrous she becomes.",
+   "ru": "Харрог жаждет мести и надеется, что отряд поможет ей отомстить. Но не заблуждайтесь: Харрог больше не человек, и чем дольше она живёт, тем чудовищнее становится."
+  },
+  "84": {
+   "en": "Tech-Priest Tybaris Arx",
+   "ru": "Техножрец Тибарис Аркс"
+  },
+  "98": {
+   "en": "Skitarii Forces",
+   "ru": "Силы скитариев"
+  },
+  "102": {
+   "en": "Pressured by the nobility of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth} to investigate the destruction of Manufactorum Vitus-II, while protecting the secrets of their rejuvenat formulas, the Magi of Forge Fane Incalcos-6 decided to deploy their maniple of Skitarii Vanguard to cut to the heart of the investigation. Efficient and cold, rather than overtly callous, the Vanguard, led by their Alpha, Landa-12, have never failed an operation they have been sent to resolve.",
+   "ru": "Под давлением знати @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта}, требующей расследовать гибель мануфакторума «Витус-II», и желая при этом сохранить тайны своих омолаживающих формул, магосы храма-кузни Инкалкос-6 решили бросить в дело свой манипул скитариев-авангардов, чтобы добраться до сути расследования. Расчётливые и холодные, но не показно жестокие, авангарды под началом своего альфы Ланды-12 ещё ни разу не провалили порученную им операцию."
+  },
+  "106": {
+   "en": "Rarely deployed unless absolutely necessary, Skitarii Vanguard are infused with radiation, emitting a debilitating aura they themselves are inured to. This hardens them to fight in the most toxic war zones, including the destroyed Vitus-II, to defend the Forge Fane’s interests.",
+   "ru": "Скитариев-авангардов, пропитанных радиацией, редко выпускают в бой без крайней необходимости: они излучают изнуряющую ауру, к которой сами невосприимчивы. Это закаляет их для боя в самых отравленных зонах боевых действий — в том числе на руинах «Витуса-II» — ради защиты интересов храма-кузни."
+  },
+  "130": {
+   "en": "Grafted Ganger",
+   "ru": "Гангер с пересаженными мышцами"
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "journal": "ZzHsqdssD6GJyhDE",
+ "journalName": "Patrons of the Inquisition",
+ "page": "UHsOV7Fx69tGx7Af",
+ "pageName": "Faction: Ordo Malleus",
+ "name": "Фракция: Ордо Маллеус",
+ "runs": {
+  "4": {
+   "en": "'Fear not, for the wards I've placed upon your bones will preserve your soul even if the flesh is flensed from them by the horrors duty demands you face.'",
+   "ru": "«Не бойся: обереги, что я наложил на твои кости, сохранят твою душу, даже если ужасы, с которыми велит встретиться долг, сдерут с них плоть»."
+  },
+  "12": {
+   "en": "- Inquisitor Ksenia Baek",
+   "ru": "— Инквизитор Ксения Бэк"
+  },
+  "24": {
+   "en": "Your Patron is a member of the Ordo Malleus, the arm of the Inquisition devoted to eliminating daemonic threats. Unchecked heresy, Rogue Psykers and more may result in the warp and its terrible inhabitants spilling out into realspace, and the Ordo Malleus investigates all of these and more. Some are ruthless witch-hunters, who consider every psyker a catastrophe in waiting, while others are psykers themselves, using their powers to protect the Imperium against the daemonic. Preventing warp incursions is their primary duty, but when all else fails they alone have the authority to call upon the Grey Knights — the deadly and secretive daemon-hunting Space Marines.",
+   "ru": "Ваш покровитель — член Ордо Маллеус, ветви Инквизиции, посвящённой истреблению демонических угроз. Неудержанная ересь, псайкеры-отступники и многое другое могут привести к тому, что варп и его ужасные обитатели выплеснутся в материальный мир, и Ордо Маллеус расследует всё это и многое другое. Одни — безжалостные охотники на ведьм, считающие каждого псайкера катастрофой, ждущей своего часа, другие сами псайкеры и используют свои силы, чтобы защищать Империум от демонического. Предотвращение вторжений варпа — их главный долг, но когда всё остальное бессильно, лишь они вправе призвать Серых рыцарей — смертоносных и скрытных космодесантников-охотников на демонов."
+  },
+  "30": {
+   "en": "Influence",
+   "ru": "Влияние"
+  },
+  "32": {
+   "en": ": Your Patron has +2 Influence with the Inquisition.",
+   "ru": ": у покровителя +2 влияния у Инквизиции."
+  },
+  "38": {
+   "en": "Duty Boon",
+   "ru": "Возможность обязанностей"
+  },
+  "40": {
+   "en": ": All Inquisitors have the Duty Boon: @UUID[Compendium.navis-apexialis.navis-core-items.Item.3M9o35qxoxiQRzP5]{Limitless Authority}.",
+   "ru": ": у всех инквизиторов есть возможность обязанностей @UUID[Compendium.navis-apexialis.navis-core-items.Item.3M9o35qxoxiQRzP5]{Безграничная власть}."
+  },
+  "44": {
+   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.mfX4nPp7lEINC1uY]{Puritan}",
+   "ru": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.mfX4nPp7lEINC1uY]{Пуританин}"
+  },
+  "48": {
+   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.lfSN7zaPgoSuHLmK]{Radical}",
+   "ru": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.lfSN7zaPgoSuHLmK]{Радикал}"
+  },
+  "52": {
+   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.kGAl6BLCqjNixWXg]{Puritan}",
+   "ru": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.kGAl6BLCqjNixWXg]{Пуританин}"
+  },
+  "56": {
+   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.68S5ccDWNv2u35Fu]{Radical}",
+   "ru": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.68S5ccDWNv2u35Fu]{Радикал}"
+  }
+ }
+}

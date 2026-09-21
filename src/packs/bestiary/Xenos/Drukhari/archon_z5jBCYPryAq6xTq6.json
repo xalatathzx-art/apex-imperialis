@@ -3,7 +3,7 @@
   "name": "Archon",
   "type": "npc",
   "_id": "z5jBCYPryAq6xTq6",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Blade Artist",
       "type": "trait",
       "_id": "CQJoV9TLiN67ZXyH",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Overlord",
       "type": "trait",
       "_id": "VApwt8ikvka2f95d",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Power from Pain",
       "type": "trait",
       "_id": "t1M9CDrixtJPA3u8",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -426,7 +426,7 @@
       "name": "Soul Trap",
       "type": "trait",
       "_id": "9KZATaVpM0UiaNIe",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -486,7 +486,7 @@
       "name": "Blast Pistol",
       "type": "weapon",
       "_id": "JQETx0BTOUvtJrMf",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -566,7 +566,7 @@
       "name": "Eldar Power Sword",
       "type": "weapon",
       "_id": "P4VRFArthVgIAs4n",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -637,7 +637,7 @@
       "name": "Pain",
       "type": "specialisation",
       "_id": "UlzFop9dJUtM98o5",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -666,7 +666,7 @@
       "name": "One-Handed",
       "type": "specialisation",
       "_id": "NpYx8TVuBhWlaCFU",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -695,7 +695,7 @@
       "name": "Interrogation",
       "type": "specialisation",
       "_id": "lBsI2hGKbnCITbVj",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -724,7 +724,7 @@
       "name": "Deception",
       "type": "specialisation",
       "_id": "ytPVgVtWy0MofQ5f",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

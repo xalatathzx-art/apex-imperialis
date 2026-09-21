@@ -3,7 +3,7 @@
   "name": "Aeldari Ranger",
   "type": "npc",
   "_id": "XwpbbYbwPNENDjfl",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Cameleoline Cloak",
       "type": "trait",
       "_id": "Th2aGF49peQI6DeM",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Psychic Sensitivity",
       "type": "trait",
       "_id": "RfGLcr0JePtE2wrp",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Deadeye",
       "type": "trait",
       "_id": "P7mD4HQb8GeavjTE",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -426,7 +426,7 @@
       "name": "Ranger Long Rifle",
       "type": "weapon",
       "_id": "QykdeLFkeJnjb7wX",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -503,7 +503,7 @@
       "name": "Shuriken Pistol",
       "type": "weapon",
       "_id": "h9HjQtDcArQZclrj",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -580,7 +580,7 @@
       "name": "Sight",
       "type": "specialisation",
       "_id": "t92jX1DcKyWwFvL0",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -609,7 +609,7 @@
       "name": "Psyniscience",
       "type": "specialisation",
       "_id": "DEcY7E30M4kCUXH0",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -638,7 +638,7 @@
       "name": "Surface",
       "type": "specialisation",
       "_id": "CsrhXlABXh8Hg11F",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -667,7 +667,7 @@
       "name": "Long Guns",
       "type": "specialisation",
       "_id": "y00QqPmwgSSZ9kL6",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

@@ -1,0 +1,289 @@
+{
+ "journal": "yAAIQKv8lK49HRLz",
+ "journalName": "Implacable",
+ "page": "5GjYiCc0FBtc8dhc",
+ "pageName": "Part 4: Old Records",
+ "name": "Часть 4: «Старые записи»",
+ "runs": {
+  "2": {
+   "en": "The news of the Harbinger’s fall swiftly moves through @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth}, strongly reinforced by the fact that for the first time in close to half a year, the nightly killings cease.",
+   "ru": "Весть о гибели Предвестника быстро разносится по @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарту}, и её убедительно подкрепляет то, что впервые почти за полгода ночные убийства прекращаются."
+  },
+  "6": {
+   "en": "However, the characters might notice that the Harbinger’s body does not conform to all the information the characters may have gathered on his activities. His only weapon was a single-bladed powered scythe, and no toxins were found on him. Indeed, the open ambush was completely atypical of how he has operated thus far. Any captured Vertexis are in mourning, for they swear that he was the Harbinger, and they all believe it, declaring it so even under the duress the Vigilites put them to.",
+   "ru": "Однако персонажи могут заметить, что тело Предвестника не соответствует всем собранным ими сведениям о его деятельности. Единственным его оружием была однолезвийная силовая коса, и никаких ядов при нём не нашли. Более того, открытая засада совершенно не походила на то, как он действовал до сих пор. Все пленённые вертексисы скорбят: они клянутся, что это был Предвестник, и все в это верят, утверждая это даже под давлением, которому их подвергают вигилы."
+  },
+  "10": {
+   "en": "Within two days of the ambush, Captain Vern calls the characters to his office, where he awaits them alongside Master Morlay. Depending on the nature of their relationship with the Master and the circumstances of the Harbinger’s fall, the characters may be sincerely congratulated and perhaps even rewarded, or sneeringly dismissed. Morlay expects them to move on and pointedly ignores any notion that the Harbinger hasn’t been permanently dealt with. With that, he leaves to attend to festival business, which is now less than a week away.",
+   "ru": "В течение двух дней после засады капитан Верн вызывает персонажей к себе в кабинет, где их ждёт вместе с мастером Морлеем. В зависимости от отношений с мастером и обстоятельств гибели Предвестника персонажей могут искренне поздравить и, возможно, даже наградить — или пренебрежительно отпустить. Морлей ждёт, что они займутся другими делами, и демонстративно отметает любую мысль о том, что с Предвестником не покончено навсегда. После этого он уходит заниматься делами праздника, до которого осталось меньше недели."
+  },
+  "14": {
+   "en": "If the characters insist the true Harbinger hasn’t been dealt with, Captain Vern believes them, but his hands are tied. With the deaths seemingly stopped, he suggests the characters must quickly act if they intend to investigate further, as Morlay will soon cut off their access.",
+   "ru": "Если персонажи настаивают, что с настоящим Предвестником не покончено, капитан Верн им верит, но у него связаны руки. Раз смерти, похоже, прекратились, он предупреждает, что если персонажи намерены продолжать расследование, действовать нужно быстро, ведь Морлей скоро перекроет им доступ."
+  },
+  "18": {
+   "en": "The Shanty Man’s Connection",
+   "ru": "Связь с Шанти-меном"
+  },
+  "22": {
+   "en": "As the characters plot their next moves, presuming they dealt with him during @UUID[.hcHx5BUaaQ2iISkV#rokarth-voidport-records]{Rokarth Voidport Records}, a courier arrives with a missive from Port Ensign Novus of Void Buttress Station SW9. ",
+   "ru": "Пока персонажи обдумывают дальнейшие шаги — при условии, что они имели с ним дело в разделе @UUID[.hcHx5BUaaQ2iISkV#rokarth-voidport-records]{«Записи пустотного порта Рокарта»}, — прибывает курьер с посланием от портового энсина Новуса со станции Пустотного Контрфорса SW9. "
+  },
+  "28": {
+   "en": "‘I met someone you all really need to talk to.’",
+   "ru": "«Я встретил кое-кого, с кем вам всем очень надо поговорить»."
+  },
+  "34": {
+   "en": "Once the characters reach his office, Ensign Novus tells them that a Tech-Priest approached him with an unusual story they should hear. Presuming the characters agree, he’ll swiftly arrange for her to join them. If the characters never contacted Ensign Novus, they could be approached by a different Contact who knows the Tech-Priest, or Captain Vern might direct Loga Binary-46 their way.",
+   "ru": "Когда персонажи добираются до его кабинета, энсин Новус рассказывает, что к нему обратилась техножрица с необычной историей, которую им стоит услышать. Если персонажи согласны, он быстро устраивает встречу с ней. Если персонажи так и не связались с энсином Новусом, к ним может обратиться другой контакт, знакомый с техножрицей, или капитан Верн может направить к ним Логу Бинари-46."
+  },
+  "40": {
+   "en": "Loga Binary-46",
+   "ru": "Лога Бинари-46"
+  },
+  "42": {
+   "en": " proves to be a woman with gleaming, golden-hued augmetic eyes. The lower portion of her face is a permanent augmetic respirator. Her voice is surprisingly pleasant, and she speaks softly, albeit with a distinct metallic reverberation. She wears the distinct red robes of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus}. Several mechadendrites smoothly stir about her. (Use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.rilaQaBPslIRzGco]{Tech-Priest} stat-block to represent her).",
+   "ru": " оказывается женщиной со сверкающими золотистыми аугметическими глазами. Нижняя часть её лица — постоянный аугметический респиратор. Голос у неё на удивление приятный, и говорит она мягко, хотя и с отчётливым металлическим отзвуком. На ней характерная красная ряса @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус}. Вокруг неё плавно шевелятся несколько механодендритов. (Используйте для неё профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.rilaQaBPslIRzGco]{техножреца}.)"
+  },
+  "46": {
+   "en": "Roleplaying Loga Binary-46",
+   "ru": "Отыгрыш Логи Бинари-46"
+  },
+  "50": {
+   "en": "Though it is considered somewhat gauche to admit to strong emotions within the Adeptus Mechanicus, Loga Binary-46 is very concerned with the implications of the pattern of events she has observed thus far. Her mechadendrites move in time with her voice, stopping suddenly and unnervingly when she is surprised or intent.",
+   "ru": "Хотя в Адептус Механикус признаваться в сильных чувствах считается несколько неприличным, Лога Бинари-46 очень обеспокоена тем, что может означать замеченная ею череда событий. Её механодендриты движутся в такт голосу и внезапно, пугающе замирают, когда она удивлена или сосредоточена."
+  },
+  "56": {
+   "en": "‘Genial greetings. I am Loga Binary-46, servant of the Omnissiah. Several anomalous events have transpired, which Ensign Novus suggests require social interaction between us. Ongoing analysis indicates a series of misappropriations from various Adeptus Mechanicus holdings within Hive Rokarth. Several were highly volatile explosives capable of causing substantial damage, along with devices used for remote detonation. Common data point — each theft used a high-level override code over six centuries old, and one not usually seen on Voll.’",
+   "ru": "«Радушные приветствия. Я Лога Бинари-46, служительница Омниссии. Произошёл ряд аномальных событий, которые, по мнению энсина Новуса, требуют социального взаимодействия между нами. Продолжающийся анализ указывает на серию хищений из различных владений Адептус Механикус в улье Рокарт. Среди похищенного — несколько крайне нестабильных взрывчаток, способных причинить существенный ущерб, а также устройства для дистанционного подрыва. Общая точка данных: при каждой краже использовался высокоуровневый код обхода возрастом более шести веков, какой на Волле обычно не встречается»."
+  },
+  "62": {
+   "en": "Ensign Novus grins and produces a dataslate. ",
+   "ru": "Энсин Новус ухмыляется и достаёт инфопланшет. "
+  },
+  "64": {
+   "en": "‘The exact same code used to gain access to Hive Rokarth through an exterior hatch, just shy of 6 months ago, not long after a small impact was detected in the vicinity of the hatch.’",
+   "ru": "«Тот самый код, которым почти полгода назад открыли внешний люк улья Рокарт — вскоре после того, как рядом с люком зафиксировали небольшое падение»."
+  },
+  "72": {
+   "en": "‘Ensign Novus tells me these events have congruence and will be relevant to you. Query – is his analysis correct?’",
+   "ru": "«Энсин Новус утверждает, что эти события согласуются между собой и будут вам важны. Запрос: верен ли его анализ?»"
+  },
+  "78": {
+   "en": "Loga Binary-46 is willing to answer several clarifying questions, but will otherwise raise an eyebrow and ask ‘",
+   "ru": "Лога Бинари-46 готова ответить на несколько уточняющих вопросов, но на любые посторонние вопросы лишь поднимает бровь и спрашивает: «"
+  },
+  "80": {
+   "en": "Relevance?",
+   "ru": "Относимость?"
+  },
+  "82": {
+   "en": "’ to any other unrelated queries. If asked what she does for the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus}, she notes that she is one of the Machine God’s Curators, offering no further explanation. If asked what ‘substantial damage’ translates to, her mechadendrites stop still, and after a pause, she responds, ‘",
+   "ru": "» Если спросить, чем она занимается в @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус}, она отвечает, что она одна из хранителей Бога-Машины, не давая дальнейших объяснений. Если спросить, что означает «существенный ущерб», её механодендриты замирают, и после паузы она отвечает: «"
+  },
+  "84": {
+   "en": "Extensive damage to ancient and revered apparatus would occur, including a significant reduction in the locally available workforce. Importing and retraining replacements would take weeks",
+   "ru": "Произошло бы обширное повреждение древних и почитаемых механизмов, включая значительное сокращение местной рабочей силы. Доставка и переобучение замены заняли бы недели"
+  },
+  "90": {
+   "en": "Loga asks only a few direct questions — if she is satisfied that the characters can aid her in averting disaster, that is sufficient. She knows where the hatch is located. It will take considerable time to travel to it as it corresponds to an exterior portion of the lower-Upper Hive, nearly as far from the Maglev Nexus as is possible within @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth}. The Tech-Priest lifts a hand, and a servitor enters, bearing a gleaming cog axe, which she accepts. ",
+   "ru": "Лога задаёт лишь несколько прямых вопросов — если она убеждена, что персонажи могут помочь ей предотвратить катастрофу, этого достаточно. Она знает, где находится люк. Добираться до него придётся долго: он находится во внешней части нижних уровней верхнего улья, почти так далеко от маглев-узла, как только возможно в @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{улье Рокарт}. Техножрица поднимает руку, входит сервитор со сверкающим топором-шестернёй, и она берёт его. "
+  },
+  "92": {
+   "en": "‘Query: shall we undertake an excursion?’",
+   "ru": "«Запрос: предпримем экскурсию?»"
+  },
+  "98": {
+   "en": "The Damaged Pod",
+   "ru": "Повреждённая капсула"
+  },
+  "102": {
+   "en": "It takes a full five hours to reach the hatch Ensign Novus identified. Any characters who intend to go out onto @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth's} exterior to see what they can find may want to acquire protective gear beyond what they usually carry. The access point is a maintenance hatch that opens onto Voll's caustic environment, which the characters can easily open as they have the codes. Journeying into the mild caustic haze requires a ",
+   "ru": "Чтобы добраться до люка, указанного энсином Новусом, требуется целых пять часов. Персонажам, собирающимся выйти наружу @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта}, чтобы посмотреть, что удастся найти, стоит раздобыть защитное снаряжение сверх обычного. Точка доступа — технический люк, выходящий в едкую среду Волла; персонажи легко открывают его, ведь у них есть коды. Чтобы выйти в слабую едкую дымку, требуется "
+  },
+  "104": {
+   "en": "Challenging (+0) Fortitude (Endurance)",
+   "ru": "Средняя (+0) проверка Стойкости (Неустанность)"
+  },
+  "106": {
+   "en": " Test. Characters that fail are subject to the effects of exposure to a @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE#exposure]{noxious environment}. Any character without protective eyewear (or augmetic eyes) has Disadvantage on all ",
+   "ru": ". Провалившие подвергаются воздействию @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE#exposure]{вредоносной среды}. Персонажи без защитных очков (или аугметических глаз) проходят все проверки "
+  },
+  "108": {
+   "en": "Awareness (Sight)",
+   "ru": "Бдительности (Зрение)"
+  },
+  "110": {
+   "en": " Tests in this environment. ",
+   "ru": " в этой среде с помехой. "
+  },
+  "114": {
+   "en": "It takes some time to locate the source of Ensign Novus’ impact site, as it has been hidden under a large swatch of chemically treated covering removed from elsewhere on the hive. A successful ",
+   "ru": "Найти место падения, о котором говорил энсин Новус, удаётся не сразу: его скрыли под большим куском обработанного химикатами покрытия, снятого где-то в другом месте улья. Успешная "
+  },
+  "116": {
+   "en": "Difficult (−10) Awareness (Sight)",
+   "ru": "Трудная (−10) проверка Бдительности (Зрение)"
+  },
+  "118": {
+   "en": " Test soon notes faint scorch marks and scraped metal, eventually leading to the partially camouflaged orbital drop pod. Failure on the Test eventually reveals the pod, but it takes time, necessitating a ",
+   "ru": " вскоре позволяет заметить слабые следы копоти и ободранный металл, в итоге приводящие к частично замаскированной орбитальной десантной капсуле. При провале капсулу всё же находят, но на это уходит время, что требует "
+  },
+  "120": {
+   "en": "Difficult (−10) Fortitude (Endurance)",
+   "ru": "Трудной (−10) проверки Стойкости (Неустанность)"
+  },
+  "122": {
+   "en": " Test and potentially more substantial exposure damage.",
+   "ru": " и может привести к более серьёзному урону от воздействия."
+  },
+  "126": {
+   "en": "The drop pod is clearly damaged, with a partially scorched and ravaged exterior. Its size indicates that it likely held only a single occupant. Loga Binary-46 immediately moves to study the pod. Though she readily accepts the assistance of any @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus} characters, she pointedly stops anyone else from assisting her. One of her mechadendrites begins asserting various devices into the pod, and her fingers tap across different points.",
+   "ru": "Десантная капсула явно повреждена, её корпус частично обожжён и изуродован. Судя по размеру, в ней, вероятно, был лишь один пассажир. Лога Бинари-46 сразу принимается изучать капсулу. Она охотно принимает помощь персонажей из @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус}, но демонстративно не подпускает к работе остальных. Один из её механодендритов начинает вводить в капсулу различные устройства, а её пальцы постукивают по разным точкам."
+  },
+  "132": {
+   "en": "‘Analysis: This is one of the most advanced of these blessed devices I have ever encountered. It is a cryo-crypt as well as a drop pod. The communication module of this vessel is heavily damaged — its occupant received orders to activate, but a second message is stuck within its data circuits. That second message’s transmittal code originates from Voll, directly from the Crystalline Reflectory, sent at the highest priority. This incept date… the message was broadcast approximately five hundred and sixty years ago.’",
+   "ru": "«Анализ: это одно из самых совершенных благословенных устройств, какие я когда-либо встречала. Это и криосклеп, и десантная капсула. Модуль связи этого аппарата сильно повреждён: его пассажир получил приказ на активацию, но второе сообщение застряло в его информационных цепях. Код передачи этого второго сообщения исходит с Волла, прямо из Кристального рефлектория, и отправлен с высшим приоритетом. Эта дата отправки… сообщение передано примерно пятьсот шестьдесят лет назад»."
+  },
+  "138": {
+   "en": "A ",
+   "ru": " "
+  },
+  "140": {
+   "en": "Challenging (+0) Lore (Macharian Sector)",
+   "ru": "Средняя (+0) проверка Знаний (Сектор Махарий)"
+  },
+  "142": {
+   "en": " Test reveals that the message originates squarely within the time of the Macharian Heresy, several decades after the founding of Voll. Loga Binary-46 notes that the data circuits have sadly degraded, leaving the message garbled. But she has successfully recorded the complete transmittal code, meaning that, in theory, the message can be retrieved from the Crystalline Reflectory. ",
+   "ru": " показывает, что сообщение относится ровно ко времени Махарийской ереси, через несколько десятилетий после основания Волла. Лога Бинари-46 отмечает, что информационные цепи, к сожалению, деградировали и сообщение искажено. Но ей удалось записать полный код передачи, а значит, теоретически сообщение можно извлечь из Кристального рефлектория. "
+  },
+  "146": {
+   "en": "Other duties call her, but the Tech-Priest passes the message’s code information to the characters on a dataslate and asks the party to inform her of what they discover.",
+   "ru": "Её ждут другие обязанности, но техножрица передаёт персонажам данные кода сообщения на инфопланшете и просит отряд сообщить ей о том, что они узнают."
+  },
+  "152": {
+   "en": "Interception",
+   "ru": "Перехват"
+  },
+  "156": {
+   "en": "If the characters are not careful to keep their ongoing investigation quiet, Master Morlay eventually sends a group of ",
+   "ru": "Если персонажи не будут осторожны и не сохранят расследование в тайне, мастер Морлей в конце концов отправит к ним группу "
+  },
+  "158": {
+   "en": "Meat Guild Enforcers",
+   "ru": "силовиков мясной гильдии"
+  },
+  "160": {
+   "en": " to speak with them (use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.gQxTENJSdTQTVfDM]{Enforcer} stat-block to represent them). If they’ve had a decent working relationship with Morlay, it is a pointed warning and a strong suggestion to wrap their affairs up and move on. If not, the enforcers attack, intending to beat the characters to a pulp, but not kill them. If the characters still don’t take the hint, two days before Halion’s Triumph, a whole squad of Meat GuildEnforcers attack them on the street with the intent of capturing them and imprisoning them until the festival is over, so they can’t interfere further.",
+   "ru": " (используйте для них профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.gQxTENJSdTQTVfDM]{силовика}). Если у персонажей сложились с Морлеем неплохие рабочие отношения, это будет недвусмысленное предупреждение и настойчивый совет свернуть дела и заняться другим. Если нет, силовики нападают, намереваясь избить персонажей до полусмерти, но не убить. Если персонажи всё ещё не поймут намёка, за два дня до Триумфа Халиона на них прямо на улице нападает целое отделение силовиков мясной гильдии, чтобы схватить их и держать взаперти до конца праздника, не давая больше вмешиваться."
+  },
+  "166": {
+   "en": "The View from Above",
+   "ru": "Вид сверху"
+  },
+  "170": {
+   "en": "Travelling to the Crystalline Reflectory is likely an unusual experience for the characters, as it is located within @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth's} Spires. Once they’ve left the Maglev Nexus, the characters immediately become aware of how open and comparatively quiet the spaces are. There is little thrum of machinery in the spires, no loud vox hailers, no distant screaming. The people here are engaged in business while dressed in casual finery that lower hivers can barely conceive of. All the buildings seem opulent, though careful study notes time-worn cracks in many.",
+   "ru": "Путь в Кристальный рефлекторий, скорее всего, станет для персонажей необычным опытом, ведь он находится среди шпилей @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта}. Выйдя из маглев-узла, персонажи сразу замечают, насколько здесь просторно и сравнительно тихо. В шпилях почти не слышно гула машин, нет громких вокс-громкоговорителей, нет далёких криков. Люди здесь заняты делами, одетые в повседневные наряды такой изысканности, какую жители нижнего улья едва ли могут себе представить. Все здания кажутся роскошными, хотя при внимательном взгляде на многих видны трещины, оставленные временем."
+  },
+  "174": {
+   "en": "Characters of a less affluent appearance are stopped and questioned by the most immaculately dressed Vigilites they’ve ever met. Though they may have a right to be there with the correct identification, the Vigilite makes clear they should be about their business and then swiftly leave.",
+   "ru": "Персонажей менее состоятельного вида останавливают и допрашивают самые безупречно одетые вигилы, каких они когда-либо встречали. Даже если у персонажей есть право находиться здесь и надлежащие документы, вигил даёт понять, что им следует заниматься своими делами и поскорее уйти."
+  },
+  "178": {
+   "en": "The Crystalline Reflectory is a gleaming spike that stands out even amidst the opulence of the Spires, but something about the building's alignment causes a headache if it is gazed at directly for too long. It is an open secret that all the interior walls are said to be lined with psychically active crystalline lattices, enabling the Astropaths within to receive and send Astropathic transmissions more efficiently.",
+   "ru": "Кристальный рефлекторий — сверкающий шпиль, выделяющийся даже среди роскоши шпилей, но что-то в ориентации здания вызывает головную боль, если слишком долго смотреть на него прямо. Ни для кого не секрет, что все внутренние стены, говорят, выложены психически активными кристаллическими решётками, позволяющими находящимся внутри астропатам эффективнее принимать и отправлять астропатические послания."
+  },
+  "182": {
+   "en": "Access to the Crystalline Reflectory is relatively easy, as they routinely accept commissions for messages from the kind of individuals that would have access to the Spires; however, once the characters request access to records supposedly sent centuries ago, they are ushered into a consultation with ",
+   "ru": "Попасть в Кристальный рефлекторий сравнительно легко, ведь там регулярно принимают заказы на послания от тех, у кого есть доступ в шпили; однако как только персонажи запрашивают доступ к записям, отправленным якобы века назад, их препровождают на консультацию к "
+  },
+  "184": {
+   "en": "Adept Callidon Miers",
+   "ru": "адепту Каллидону Мирсу"
+  },
+  "186": {
+   "en": " (use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.vds8HRa533wcv1Pq]{Administratum Adept} stat-block to represent him).",
+   "ru": " (используйте для него профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.vds8HRa533wcv1Pq]{адепта Администратума})."
+  },
+  "190": {
+   "en": "Adept Miers’ age is difficult to tell, for his features have a timeless quality. His eyes are hidden behind a deep red scarf, covered with brightly coloured whorls of turquoise and magenta that slowly flow over the surface of the cloth as the characters meet with him. He occasionally tilts his head and cocks it at an angle, apparently listening to something the characters cannot hear. He chooses his words thoughtfully, and though he speaks softly, his voice echoes uncannily.",
+   "ru": "Возраст адепта Мирса трудно определить: в его чертах есть нечто вневременное. Его глаза скрыты тёмно-красным шарфом, покрытым яркими бирюзовыми и пурпурными завитками, которые медленно перетекают по ткани, пока персонажи с ним беседуют. Время от времени он склоняет голову набок, словно прислушиваясь к чему-то, чего персонажи не слышат. Он тщательно подбирает слова и, хотя говорит тихо, его голос жутковато отдаётся эхом."
+  },
+  "194": {
+   "en": "If the characters have an Influence of 2 or more with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.OjmVcVX5lv76LsvL]{Adeptus Astra Telepathica}, or one among them is a psyker, the discussion goes smoothly, and Adept Miers accompanies them to the Crystalline Reflectory’s Transept Vault to help retrieve what they seek. If they do not, he still ultimately helps them, but he requires their assistance with a future matter. In short, the party would owe the Adeptus Astra Telepathica a favour. ",
+   "ru": "Если у персонажей 2 или больше влияния у @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.OjmVcVX5lv76LsvL]{Адептус Астра Телепатика} или один из них псайкер, разговор идёт гладко, и адепт Мирс сопровождает их в трансептовое хранилище Кристального рефлектория, чтобы помочь найти то, что им нужно. В противном случае он всё же помогает, но требует их помощи в одном будущем деле. Проще говоря, отряд оказывается в долгу перед Адептус Астра Телепатика. "
+  },
+  "204": {
+   "en": "The Transept Vault",
+   "ru": "Трансептовое хранилище"
+  },
+  "208": {
+   "en": "After passing the vox transmittal code, the characters recovered from the downed pod through a cogitator and a consultation with a data crypt, Adept Miers leads the characters through various well-appointed hallways while pointedly ignoring the screams and shrieks that occasionally emerge from behind closed doors. Eventually, they pass down into a large hall formed of large grey blocks of stone covered with various sigils that visibly flicker out of the corner of the eye.",
+   "ru": "Сверив через когитатор вокс-код передачи, добытый персонажами в упавшей капсуле, и проконсультировавшись с информационным склепом, адепт Мирс ведёт персонажей по разным богато обставленным коридорам, демонстративно не обращая внимания на крики и вопли, время от времени доносящиеся из-за закрытых дверей. Наконец они спускаются в большой зал из крупных серых каменных блоков, покрытых различными символами, которые заметно мерцают краем глаза."
+  },
+  "214": {
+   "en": "‘Astropathic messages are not as simple as vox transmissions. Interpreting them is more art than fact. When an Astropath receives a message, it often comes in symbols akin to a waking dream. Many will translate it into a physical medium as they strive to understand it. We seek a mural, created by Astropath Nalgi Osh well over five centuries ago — thus, it rests amidst some of the oldest records of the Crystalline Reflectory.’",
+   "ru": "«Астропатические послания не так просты, как вокс-передачи. Их толкование — скорее искусство, чем факт. Когда астропат принимает послание, оно часто приходит в символах, подобных сну наяву. Многие переносят его на физический носитель, стараясь понять. Мы ищем фреску, созданную астропатом Нальги Ошем более пяти веков назад, — а значит, она хранится среди древнейших записей Кристального рефлектория»."
+  },
+  "220": {
+   "en": "In the vault, Miers pulls forth a sheet of marble-lined crystal, which slowly rolls out of the wall. Fixed upon the crystal is a painting, protected by the slight shimmer of an energy shield of some kind. Miers passes a hand over part of the marble, and the shield disappears. He solemnly takes the painting and places it upon a broad table, upon which increasingly brighter lights shine. Among the details, it features a menacing skull with glowing eyes, a man hanging from a tree, and the piece is covered in distorted text and symbols in between, except for the names ‘Interitas’ and ‘Caelius’ spelt out clearly. Show or hand your players a copy of the mural for them to analyse.",
+   "ru": "В хранилище Мирс вытягивает облицованную мрамором кристаллическую пластину, которая медленно выдвигается из стены. На кристалле закреплена картина, защищённая лёгким мерцанием какого-то энергетического щита. Мирс проводит рукой над частью мрамора, и щит исчезает. Он торжественно берёт картину и кладёт её на широкий стол, освещённый всё ярче разгорающимися лампами. Среди прочих деталей на ней изображены грозный череп со светящимися глазами и человек, висящий на дереве, а всё полотно покрыто искажёнными надписями и символами — кроме чётко выписанных имён «Интеритас» и «Цэлий». Покажите игрокам копию фрески или раздайте её для анализа."
+  },
+  "224": {
+   "en": "A ",
+   "ru": " "
+  },
+  "226": {
+   "en": "Hard (−20) Lore (Macharian Sector)",
+   "ru": "Сложная (−20) проверка Знаний (Сектор Махарий)"
+  },
+  "228": {
+   "en": " Test recalls that Marshal Surlan Caelius was a traitor who served under General Lysander. He was supposedly killed during the Macharian Heresy. Characters can make a ",
+   "ru": " напоминает, что маршал Сурлан Цэлий был предателем, служившим под началом генерала Лисандра. Считается, что он погиб во время Махарийской ереси. Персонажи могут пройти "
+  },
+  "230": {
+   "en": "Hard (−20) Linguistics (Cypher",
+   "ru": "Сложную (−20) проверку Языков (Шифры"
+  },
+  "232": {
+   "en": " or ",
+   "ru": " или "
+  },
+  "234": {
+   "en": "High Gothic",
+   "ru": "Высокий готический"
+  },
+  "236": {
+   "en": ") Test to decode the symbols. Otherwise, Adept Miers can transcribe the symbols for them.",
+   "ru": "), чтобы расшифровать символы. В противном случае их может переписать для персонажей адепт Мирс."
+  },
+  "240": {
+   "en": "After a moment, Miers whispers ‘",
+   "ru": "Мгновение спустя Мирс шепчет: «"
+  },
+  "242": {
+   "en": "Throne",
+   "ru": "Трон"
+  },
+  "244": {
+   "en": ".’ He pauses for a long moment, looking visibly upset. ‘",
+   "ru": "». Он надолго замолкает, заметно расстроенный. «"
+  },
+  "246": {
+   "en": "This seems to be an official missive from the Officio Assassinorum. These red symbols are code, rescinding a kill order against a man named Caelius and his entire household. It instructs the assassin Interitas to… unclear… suspend its operations, I think… and await further orders.’",
+   "ru": "Похоже, это официальное послание Официо Ассасинорум. Эти красные символы — код, отменяющий приказ об убийстве человека по имени Цэлий и всего его дома. Он предписывает ассасину Интеритасу… неразборчиво… приостановить операцию, кажется… и ждать дальнейших приказов»."
+  },
+  "252": {
+   "en": "He allows the characters to take picts of the mural, but won’t let the physical artefact leave the Crystalline Reflectory. He specifically requests not to know anything more about this matter and escorts them out with haste. He also provides them with the translated decoded shutdown command: ‘",
+   "ru": "Он позволяет персонажам сделать пикты фрески, но не разрешает выносить сам артефакт из Кристального рефлектория. Он особо просит больше ничего не сообщать ему об этом деле и поспешно выпроваживает персонажей. Кроме того, он передаёт им переведённую и расшифрованную команду отключения: «"
+  },
+  "254": {
+   "en": "Unit Shutdown: Primus Sanctus Red",
+   "ru": "Отключение единицы: Примус Санктус Красный"
+  },
+  "256": {
+   "en": "’ adding the vital fact that it must be spoken aloud to Interitas.",
+   "ru": "», добавляя важнейшее условие: её нужно произнести вслух, обращаясь к Интеритасу."
+  }
+ }
+}

@@ -2,7 +2,7 @@
   "name": "Brutal Charge",
   "type": "trait",
   "_id": "navisSpTrait0044",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder003",
   "sort": 4400,
   "system": {

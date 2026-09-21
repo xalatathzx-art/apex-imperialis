@@ -2,7 +2,7 @@
   "name": "Tainted Psyker",
   "type": "talent",
   "_id": "malExpTal0000213",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">When manifesting power: may take corruption = Warp Rating / 2 to gain +1SL to manifest. It will add +10 to next Psychic Phenomena roll</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever you test to cast a Psychic Power, you may choose to gain a number of Corruption Points equal to the half the Warp Rating of your power (round up). For each point you gain this way, you gain +1SL to cast the power, but add +10 to any rolls for Psychic Phenomena later.  </em></span></p>",

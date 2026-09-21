@@ -1,0 +1,81 @@
+{
+ "journal": "tFbQS9Pwk46yjwFq",
+ "journalName": "The Holy Orders",
+ "page": "FuYPAlqjy1sT4uWd",
+ "pageName": "Justice, Jurisdication & Investigation",
+ "name": "Правосудие, полномочия и расследование",
+ "runs": {
+  "4": {
+   "en": "‘I carry with me an Inquisitorial Seal. It is a small, unassuming object contained in a neat box. It is a modest thing. Relatively plain, adorned with a single motif and a simple motto. Yet with this little object, I can sign the death warrant of an entire world and consign a billion souls to oblivion.’",
+   "ru": "ПРАВОСУДИЕ, ПОЛНОМОЧИЯ И СЛЕДСТВИЕ\n«Вот моя инквизиторская печать. Маленькая\nнеприметная безделушка в аккуратном футляре.\nЭто скромная вещь. Довольно простая, украшенная\nлишь одним рисунком и девизом. Но с её помощью я\nмогу подписать смертный приговор целому миру и\nобречь на забвение миллиард"
+  },
+  "12": {
+   "en": "— Thraviam Flast, Ordo Malleus Inquisitor",
+   "ru": "душ»\n- Фравиам Фласт, инквизитор Ордо"
+  },
+  "22": {
+   "en": "Despite the average citizen’s belief that the Inquisition is effectively omnipotent, its Inquisitors cannot be everywhere at once — many crimes and injustices fall below what is worth their time and resources to investigate, and the same goes for their acolytes. Members of the Inquisition must consider their prime targets above all else, be it the daemon, heretic, or xenos. Sometimes, Inquisitors of the Ordo Malleus may be called upon to deal with a xenos threat. But, lesser infringements of any other kind are under the remit of the Imperium’s other factions and organisations and should be remedied by them.",
+   "ru": "Маллеус\nНесмотря на уверенность простонародья во\nвсемогуществе Инквизиции, носители печати не\nмогут быть везде и всюду – множество преступлений\nи проявлений несправедливости не стоят их времени\nи сил, а потому ими занимаются аколиты. Кроме\nтого, члены Инквизиции должны на первое место\nставить свои главные цели, будь то еретик, демон или\nксенос. Случается и обратное – например, выходцы\nиз Ордо Маллеус дают отпор ксеноугрозе. Но мелкие\nнарушения любого рода – это удел иных служб и\nведомств Империума.\nРасследование редко бывает простым. Инквизиторы\nи аколиты могут потратить годы и десятилетия"
+  },
+  "26": {
+   "en": "It is rare that an investigation is ever a simple affair. Inquisitors and acolytes alike can dedicate years or decades of their lives towards pursuing a single threat or goal, with many of those years operating in total secrecy (see Long-Term Endeavours). Many investigations start subtly, with Inquisitor@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.56xpJ7ADckt2kxHB]{Inquisition Long-Term Endeavours}s aiming to thwart a threat before civilian awareness occurs. Inquisitors see their acolytes as small, precise, and expendable tools that can work in the shadows while overseeing their operations in a more public-facing form. Ultimate authority may be just that, but most Inquisitors know it works best when applied in the right place at the right time. Some investigations can pass a point of no return, where the Inquisitor is forced to rally troops and effectively march to war, with a greater potential for collateral damage and exposure.",
+   "ru": "на\nустранение одной угрозы, зачастую работая в условиях\nтотальной секретности (см. раздел «Долгосрочные \nзанятия» в главе VIII на стр. 125). Многие\nрасследования начинаются скрытно, чтобы иметь\nвозможность устранить угрозу до того, как обыватели\nузнают о ней. Аколиты же для своих господ – это\nточные, но заменимые инструменты, которые могут\nдействовать тайно или (под некоторым надзором)\nоткрыто. Инквизиция может обладать высшей властью,\nно носители печати знают, что лучше всего их\nполномочия срабатывают, если применять их в нужное\nвремя в нужном месте. Иногда расследование проходит\nточку невозвращения, и инквизитор вынужден\nсобирать войска и начинать настоящую войну, рискуя\nпубличностью и сопутствующим ущербом.\nГ Г Гл л ла а ав в ва а а V V VI I II I I описывает новую механику,\nпредназначенную для кампаний про\nИнквизицию. Она приносит персонажам\nпреимущества и трудности в зависимости от\nтого, насколько скрытно они действуют.\nВедущему и игрокам стоит заранее\nдоговориться о @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.56xpJ7ADckt2kxHB]{Inquisition Long-Term Endeavours}"
+  },
+  "38": {
+   "en": "Subtlety",
+   "ru": "применении"
+  },
+  "42": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz]{Subtlety} encompasses a new ruleset to enhance Inquisition-focused campaigns. It grants rewards and sanctions for operating at different levels of covert behaviour. GMs and their Players should discuss implementing these rules before beginning or adding them to their campaign, ensuring that everyone understands the causality and benefits of their actions.",
+   "ru": "этих правил (или\nдобавлении в уже идущую кампанию) и\nубедиться, что все понимают, зачем они\nнужны и какие преимущества\nмогут принести.\n\nИНКВИЗИТОРСКИЕ\nОБВИНЕНИЯ\nСуществует немало эдиктов, которые инквизитор\nможет объявлять благодаря своему положению.\nНекоторые печально известны потому что\nприменяются против жителей Империума.\nАколиты должны знать о таких статусах и\nпонимать последствия, что они влекут.\nЭ Э Эк к кс с ск к ко о ом м мм м @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz]{Subtlety}"
+  },
+  "50": {
+   "en": "Inquisitorial Declarations",
+   "ru": "му у ун н ни и ик к ка а"
+  },
+  "54": {
+   "en": "There are many official orders that Inquisitors alone can enact via their position. Some stand infamous for their impact upon the Imperium and the individuals involved. Acolytes should be aware of these declarations to the letter and knowledgeable of their dire consequences.",
+   "ru": "ат т т Т Т Тр р ра а ай й йт т то о ор р ри и ис с с: :: такой эдикт\nприменяется к тем, что предал Империум,\nсовершив великие ереси или иным образом\nпротивостоял идеалам Бога-Императора. Любая\nимперская служба обязана истреблять отлучённых\nили докладывать об их"
+  },
+  "60": {
+   "en": "Excommunicate Traitoris",
+   "ru": "присутствии, если"
+  },
+  "62": {
+   "en": ": This declaration applies to those who have betrayed the Imperium through grand acts of heresy or any vile means that oppose the God-Emperor’s ideals. Any Imperium faction must eliminate or report the presence of any declared Excommunicate Traitoris individuals they come across, lest they tempt suffering the same fateful exile.",
+   "ru": "не\nхочет разделить их судьбу.\nЭ Э Эк к кс с ст т те е ер р рм м ми и ин н на а ат т ту у ус с с: :: ужасный последний довод\nИнквизиции. Объявление планете\nэкстерминатуса означает, что мир безвозвратно\nпотерян, а потому лишь неизбежное очищение\nего ото всей жизни может вывести скверну.\nДля этого применяются орбитальные"
+  },
+  "68": {
+   "en": "Exterminatus:",
+   "ru": "обстрелы\nили"
+  },
+  "70": {
+   "en": " The Inquisition’s infamous last resort. To unleash the ultimate sanction of Exterminatus upon a world is to consider it lost to damnation — an unavoidable scouring of all life upon a planet so that it is completely purged of corruption, often via excessive orbital bombardment or superweapon. Many citizens have heard legends, myths, or rumours of worlds that have been wiped off the star charts by inquisitorial order, but few know for sure. The Inquisition ensures that public knowledge of such events is expunged.",
+   "ru": "супероружие. Многие люди слышали о\nпланетах, что были стёрты со звёздных карт\nприказом инквизитора, но обычно это лишь\nлегенды, мифы и слухи. Инквизиция заботится\nо том, чтобы известия о таких мерах не\nраспространялись.\nЭ Э Эк к кс с ст т тр р ре е ем м ми и ис с с Д Д Ди и иа а аб б бо о ол л лу у ус с с: :: такое клеймо отмечает\nтого, кто был совращён демонами или\nподвергался их влиянию. Зачастую этот статус\nприсваивают нечистым псайкерам или знатокам\nзапретных искусств; статуса Экстремис Диаболус\nбыло"
+  },
+  "76": {
+   "en": "Extremis Diabolus:",
+   "ru": "«удостоено» даже"
+  },
+  "78": {
+   "en": " This declaration signifies an individual having cavorted with or been knowingly influenced by daemons. It often applies to rogue psykers or those practising forbidden arts; even some Inquisitors of the Ordo Malleus have been declared Extremis Diabolus after degenerating into Radical behaviour. It is similar to Excommunicate Traitoris but further acts as an extreme warning to stay away from such corrupted individuals.",
+   "ru": "несколько скатившихся\nв радикализм инквизиторов Ордо Маллеус.\nПодобный эдикт похож на отлучение, но кроме\nэтого он служит предупреждением – от носителя\nтакого клейма нужно держаться подальше.\nЕ Е Ер р ре е ет т ти и ик к ку у ус с с А А Аб б бс с се е ен н нт т ти и иа а а: :: этот статус налагают на\nлюдей (а чаще – на их крупные объединения),\nкоторые отказались подчиняться законам\nИмпериума и бежали за границы"
+  },
+  "84": {
+   "en": "Hereticus Absentia:",
+   "ru": "имперского\nкосмоса."
+  },
+  "86": {
+   "en": " This declaration is branded upon those, typically large groups, who refuse to comply with the Imperium’s laws and are often beyond the reach of Imperial authority. During the Macharian Crusade, many lost worlds were given an ultimatum to rejoin the Imperium or forever become its enemy — those who rebuffed the offer received this designation, forever to be treated no better than xenos.",
+   "ru": "Во время Махариева похода немало\nмиров получили ультиматум – воссоединиться\nс Империумом или навеки стать его врагом;\nне, кто отвергли это предложение, навсегда\nполучили это клеймо и считаются немногим\nлучше ксеносов.\nРОЗЕТТА\nСИМУЛЯКРА\nИнквизитор очень редко одалживает свою\nрозетту аколитам, но, будучи неспособен быть\nодновременно везде, порой может передать\nагенту дозволенное подобие"
+  },
+  "94": {
+   "en": "ROSETTE Simulacra",
+   "ru": "оригинала. Такие\n«дубликаты»"
+  },
+  "98": {
+   "en": "It is rare for an Inquisitor to bestow their @UUID[.8VTOoxqcL2uC3eZm#the-inquisitorial-rosette]{Rosette} to any acolyte under them — but because they cannot be everywhere at once, some opt to provide their agents with sanctioned simulacra of their original. These copies may be further gene-locked to prevent misuse in the wrong hands or even have a timed window of use built-in before they become inert or self-destruct. Acolytes should be careful when bearing the Rosette publicly, as it may raise the stakes of their investigation in unforeseen ways or announce the Inquisition’s presence in places better served undiscovered.",
+   "ru": "могут иметь генетические замки,\nне позволяющие посторонним использовать\nих или уничтожающие печать при\nприкосновении чужака. Аколиту стоит дважды\nподумать прежде чем предъявлять розетту –\nэто может непредвиденно повысить ставки\nили оповестить о вмешательстве Инквизиции\nтам, где об этом лучше молчать. @UUID[.8VTOoxqcL2uC3eZm#the-inquisitorial-rosette]{Rosette}"
+  }
+ }
+}

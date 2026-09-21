@@ -1,0 +1,49 @@
+{
+ "journal": "yAAIQKv8lK49HRLz",
+ "journalName": "Implacable",
+ "page": "kQ7RzWnlJBU0fM6M",
+ "pageName": "Dramatis Personae",
+ "name": "Действующие лица",
+ "runs": {
+  "2": {
+   "en": "The party may encounter the following characters during the course of their adventure. Any other stat-blocks required to play can be found in the ",
+   "ru": "По ходу приключения отряд может встретить следующих персонажей. Прочие необходимые для игры профили можно найти в книге "
+  },
+  "6": {
+   "en": "Imperium Maledictum Core Book",
+   "ru": "Imperium Maledictum. Основная книга"
+  },
+  "10": {
+   "en": ", with the appropriate page number referenced in the adventure’s text.",
+   "ru": " — номера страниц указаны в тексте приключения."
+  },
+  "14": {
+   "en": "Eversor Interitas",
+   "ru": "Эверсор Интеритас"
+  },
+  "30": {
+   "en": "Wait, are they meant to fight that?",
+   "ru": "Постойте, они что, должны с этим сражаться?"
+  },
+  "34": {
+   "en": "The short answer is — no. An Eversor Assassin is far beyond the capabilities of the average character. Their only hope is to take it by surprise (almost impossible), lure it into a trap (possible, likely suicidal), or deliver the shutdown code verbally (merely very risky) — ",
+   "ru": "Короткий ответ — нет. Ассасин-эверсор намного превосходит возможности среднего персонажа. Единственная надежда — застать его врасплох (почти невозможно), заманить в ловушку (возможно, но скорее всего самоубийственно) или произнести вслух код отключения (всего лишь очень рискованно) — "
+  },
+  "36": {
+   "en": "‘Unit Shutdown: Primus Sanctus Red’",
+   "ru": "«Отключение единицы: Примус Санктус Красный»"
+  },
+  "38": {
+   "en": ". Ideally, the players choose this final option, but at this point in the mission, they have seen several examples of how dangerous the Assassin truly is. If, knowing that, they still wish to confront this monstrous foe, you should allow them to do so. That is what Fate Points are for, after all.",
+   "ru": ". В идеале игроки выберут последний вариант, но к этому моменту задания они уже видели несколько примеров того, насколько на самом деле опасен ассасин. Если, зная это, они всё равно хотят противостоять этому чудовищному врагу, позвольте им. В конце концов, для этого и существуют очки Судьбы."
+  },
+  "50": {
+   "en": "The Harbinger",
+   "ru": "Предвестник"
+  },
+  "58": {
+   "en": "Vertexis Cultist",
+   "ru": "Культист Вертексис"
+  }
+ }
+}

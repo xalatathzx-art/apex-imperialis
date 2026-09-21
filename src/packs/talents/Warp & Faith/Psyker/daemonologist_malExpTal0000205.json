@@ -2,7 +2,7 @@
   "name": "Daemonologist",
   "type": "talent",
   "_id": "malExpTal0000205",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On target daemon with Psyker Power: +SL = Advances in Lore(Daemonology)</span></p><hr><p><span style=\"font-family: Arial\"><em>When you are using a psychic power and the target is a Daemon, you gain an amount of success levels equal to the number of advances you have in Lore(Forbidden – Daemonology). This may turn a failed test into a successful one. </em></span></p>",

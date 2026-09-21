@@ -1,0 +1,129 @@
+{
+ "journal": "b06xyMjo4E4cYc40",
+ "journalName": "Roleplaying Inquisitors",
+ "page": "FLhAj7NDZUgL1Nls",
+ "pageName": "Duty & Ambition",
+ "name": "",
+ "runs": {
+  "2": {
+   "en": "Inquisitors are individualistic people with powerful personalities that defy true categorisation. Those who share the same Ordo should not be painted with the same broad brush. Two major and often opposing principles guide an Inquisitor’s motivations. First, the duties demanded of them by the Holy Orders. Second, by the ambition of their philosophy. Through these principles combined, each Inquisitor forms their definitive and personal understanding of how best to serve and preserve the Imperium.",
+   "ru": ""
+  },
+  "6": {
+   "en": "The Inquisitor’s Ordo defines their principal area of investigation — what each Inquisitor is actively searching for. However, this is often simply a starting point. If an Ordo Hereticus Inquisitor is investigating a Chaos-worshipping cult revealed to be under the influence of xenos corruption, they must still purge this cult. They cannot simply hand the investigation over to an Ordo Xenos Inquisitor and move on just because the threat does not match their Ordo’s charge. They must tackle the threat head-on, but they are more likely to reach out to Ordo Xenos operatives for advice and support.",
+   "ru": ""
+  },
+  "10": {
+   "en": "Their philosophical faction will influence their methods and desired outcomes — but not so far as to conflict with their ultimate duty of serving and protecting the Imperium. Puritans may demand their acolytes publicly uphold their faith during operations, while Radicals often hide behind masks of false Puritan philosophies to continue their ancillary works undisturbed. Characters serving an @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.R7LueEsDUhrSYHNn]{Amalathian} Inquisitor might be instructed to strike down any heretical collaborators within the Adeptus Terra they come upon or use them to root out further heresies. Meanwhile, those serving a Radical @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.s88kgPSDiogPL4aB]{Xanthite} Inquisitor might be granted powerful Warp-tainted weaponry to purge their opposition effectively while simultaneously being expected to keep such technologies secret.",
+   "ru": ""
+  },
+  "14": {
+   "en": "Consider how the aspects of Ordo and Philosophy are presented between yourself as the GM and your players characters. For characters, understanding their Ordo’s duties should be relatively straightforward. Engaged in activities related to mission-specific objectives and what threats and situations they are likely to encounter. At the same time, their Patron’s Philosophy should initially be shrouded in mystery, one gradually peeled away as missions occur and the Inquisitor grows to trust their acolytes.",
+   "ru": ""
+  },
+  "18": {
+   "en": "Plans Within Plans",
+   "ru": ""
+  },
+  "22": {
+   "en": "Each Inquisitor has a range of agents and resources, some may operate with only a tight circle of agents and singular cells, while others might have hundreds or thousands of operatives at their disposal. Yet the time Inquisitors can spend with their various agents, especially in person, is often at a premium. Even if the Inquisitor had a direct hand in an acolyte’s recruitment, they may rarely meet in person, receiving instead various missives or orders passed through their chain of command. They are more likely to be granted time with one of the Inquisitor’s Interrogators or high-ranking members of their retinue.",
+   "ru": ""
+  },
+  "26": {
+   "en": "The reason for this is straightforward: most Inquisitors are mired in hundreds of different heretical plots and investigations at any given time. Though any cell’s mission is crucial to their plans, the characters are only one of possibly thousands of cells across the sector, each operating independently and often compartmentalised for years to decades at a time.",
+   "ru": ""
+  },
+  "30": {
+   "en": "Meeting with their Inquisitor should often be a reverent moment. The characters are confronted with one of the sector's most powerful entities, someone thought to be imbued with the God-Emperor’s will. They will never meet anyone more influential for the rest of their comparatively infinitesimal lives.",
+   "ru": ""
+  },
+  "34": {
+   "en": "That said, if their Patron is physically present before them, it means the characters have often done something tremendously wrong or exceptionally right. They should feel the weight of this moment appropriately and ensure the Inquisitor’s actions reflect their nigh-infinite power. If displeased, they may be punished before their comrades, or rewarded with authority and equipment that cannot be found outside the Inquisition.",
+   "ru": ""
+  },
+  "38": {
+   "en": "How much an Inquisitor leads the characters' cell after that point is up to you as the GM. The Inquisitor’s presence should only be maintained when the stakes are appropriately high. Characters should always feel on edge when around their Patron. They are powerful, influential, and ostensibly on the characters' side. Still, it is often only a matter of time before an Inquisitor’s suspicions turn on their servants or, if pleased, the Inquisitor themselves become so radical or corrupt that the characters should grow suspicious of them.",
+   "ru": ""
+  },
+  "42": {
+   "en": "Other Cells &amp; Operatives",
+   "ru": ""
+  },
+  "46": {
+   "en": "When an Inquisitor must ensure a mission succeeds, they can deploy more than one cell of acolytes to the same area. Other Inquisitorial acolytes operating nearby are neither a boon nor a liability to the characters; they are another narrative force you can include as the GM to add an extra twist to the story",
+   "ru": ""
+  },
+  "50": {
+   "en": "Competing cells may set the bar high, effectively at odds for the Inquisitor’s favour; the Patron may see healthy competition as a means to drive the effectiveness of both teams. Rivalries are likely, and for players, it opens another avenue to their roleplay experience. On the other hand, the characters could be sent to clean up another cell’s blunders, presenting mistakes the players' cell should avoid or other avenues for investigation they might have missed earlier.",
+   "ru": ""
+  },
+  "54": {
+   "en": "For redundancy’s sake, the other cell can also be a source of replacement characters should one of the players' characters die in the line of duty — which is never outside the realm of possibilities given the enemies the Inquisition regularly faces.",
+   "ru": ""
+  },
+  "58": {
+   "en": "Characters might encounter a cell or acolytes of another Inquisitor. In most cases, they should be immediately wary of these other acolytes, being a group just as dangerous or more capable than themselves. It is rare for more than one Inquisitor to happen upon the same target of investigation; canny characters should take the initiative to figure out why they are here. The other cell might have different and conflicting goals or exploit the investigation to spy on the characters and, by extension, their Patron’s organisation.",
+   "ru": ""
+  },
+  "64": {
+   "en": "Influence",
+   "ru": ""
+  },
+  "68": {
+   "en": "When your characters meet another Inquisitor or their acolytes in the field, you may give them their own level of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa]{Influence} to represent levels of trust and favours earned between cells or Patrons.",
+   "ru": ""
+  },
+  "72": {
+   "en": "If you need a starting point, consider using the same value as the characters' Influence with the Inquisition or that Inquisitor’s Ordo, representing what they might have heard about the characters' reputation. From there, Influence can degrade or improve independently as if the Inquisitor were their own Faction. But make it clear to your players that there is still a positive and negative link. Reaching an ",
+   "ru": ""
+  },
+  "74": {
+   "en": "Honoured",
+   "ru": ""
+  },
+  "76": {
+   "en": " level of Influence with an Ordo Xenos Inquisitor could improve their standing with the Ordo as a whole, but the same goes for becoming ",
+   "ru": ""
+  },
+  "78": {
+   "en": "Vilified",
+   "ru": ""
+  },
+  "80": {
+   "en": " or ",
+   "ru": ""
+  },
+  "82": {
+   "en": "Hunted",
+   "ru": ""
+  },
+  "90": {
+   "en": "Between Inquisitors",
+   "ru": ""
+  },
+  "94": {
+   "en": "Inquisitors meeting in the field should be a significant moment in any campaign, akin to an unstoppable force meeting an immovable object. Even a meeting between cells can be a turning point in the narrative — will these new NPCs present themselves as an aid or hindrance to the characters? Given the Inquisition’s penchant for deception, the characters may not know they have a powerful new opposition until it is too late.",
+   "ru": ""
+  },
+  "98": {
+   "en": "Despite appearances, characters should be wary of this meeting of giants occurring; the Imperium and its heresies are so vast that encountering another Inquisitor’s cell or Inquisitor themselves is often no mere coincidence. It could mean that both Inquisitors are after the same target or ‘prize’, which could result in some level of collaboration. But it is just as likely that Inquisitors stand at opposite ends of the Radical-Puritan spectrum or behind competing philosophies. As utterly intractable characters, neither Inquisitor would back down without bringing their influence to bear against the other — either the surmounting threat of violence or underhanded harm against the other. In this, they will need the aid of trusted acolytes to get their hands dirty and provide a modicum of plausible deniability",
+   "ru": ""
+  },
+  "102": {
+   "en": "These revolving philosophical struggles can be a campaign’s backdrop or central point of conflict. Some Inquisitors are so directly opposed to one another’s aims that sabotaging the work of another Inquisitor may appear more vital to an Inquisitor than their duties to their Ordo. Here, characters spend time surveilling opposing cells of acolytes between acts of counter-espionage to protect themselves and their Patron, waiting to pull the trigger only until they uncover damnable proof of the enemy Inquisitor’s heretical activities (or defending the Radical actions of their own). This can happen behind the scenes of more ‘regular’ Inquisitorial investigations, perhaps to string together a series of disparate one-shot adventures or missions.",
+   "ru": ""
+  },
+  "106": {
+   "en": "In extreme cases, the active hunting of an enemy Inquisitor can be the entire focus of a campaign. Every other Imperial organisation meticulously purges the records of heresy in their ranks from archiviums and datavaults; the Inquisition strives to maintain the ‘true’ record of heresy across the Imperium, even among their own ranks. Where sufficient evidence is presented, an alleged heretical Inquisitor may be declared ",
+   "ru": ""
+  },
+  "108": {
+   "en": "Excommunicate Traitoris",
+   "ru": ""
+  },
+  "110": {
+   "en": " by their peers, a condemnation that rallies other Inquisitors to pursue and destroy this rogue and their agents. For Inquisitors who take on this responsibility out of piety, philosophical opposition to the condemned, or realising an opportunity for personal gain, their acolytes assume the role of hunting hounds.",
+   "ru": ""
+  }
+ }
+}

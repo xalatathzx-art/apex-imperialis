@@ -3,7 +3,7 @@
   "name": "Succubus",
   "type": "npc",
   "_id": "gF1afj8U4oBwSWoO",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Blade Mistress",
       "type": "trait",
       "_id": "dK0Utqw5AdaWxSUu",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Mistress of the Arena",
       "type": "trait",
       "_id": "3bELzHTflBfuOJXf",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Power from Pain",
       "type": "trait",
       "_id": "n4LUmeQ7k3UyEUzS",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -426,7 +426,7 @@
       "name": "Vying for Attention",
       "type": "trait",
       "_id": "XrfY13RxtndvTjjv",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -486,7 +486,7 @@
       "name": "Splinter Pistol",
       "type": "weapon",
       "_id": "4Hj4pzMH2mN7m6q3",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -564,7 +564,7 @@
       "name": "2x Knives",
       "type": "weapon",
       "_id": "K4Um64W1GRU0rJlm",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -642,7 +642,7 @@
       "name": "Pain",
       "type": "specialisation",
       "_id": "tP0iy3LVKe2wXzGW",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -671,7 +671,7 @@
       "name": "One-Handed",
       "type": "specialisation",
       "_id": "Fowp38lRg7e3rfMY",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -700,7 +700,7 @@
       "name": "Interrogation",
       "type": "specialisation",
       "_id": "ywt89enRKhVx99mP",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -729,7 +729,7 @@
       "name": "Acrobatics",
       "type": "specialisation",
       "_id": "hn2441Rx0HkloWoC",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -758,7 +758,7 @@
       "name": "Deception",
       "type": "specialisation",
       "_id": "Q2bPUiLXZeACydLA",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

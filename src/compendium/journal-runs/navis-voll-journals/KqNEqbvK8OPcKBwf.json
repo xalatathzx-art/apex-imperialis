@@ -1,0 +1,125 @@
+{
+ "journal": "yAAIQKv8lK49HRLz",
+ "journalName": "Implacable",
+ "page": "KqNEqbvK8OPcKBwf",
+ "pageName": "Aftermath",
+ "name": "Развязка",
+ "runs": {
+  "2": {
+   "en": "With Interitas rebound to his cryo pod, the party’s Patron wearily contacts the Officio Assassinorum, alerting the Assassin Temple to Interitas’ survival and presence on Voll. Their Patron orders them to scour any thought or notion of Interitas from their minds — the Officio Assassinorum is never to be spoken of again — and threatens to wipe their minds if they cannot stay their tongues. That said, Interitas is an interesting character to keep in your back pocket for future adventures — perhaps the Officio Assassinorum took the opportunity to keep Interitas on Voll, to improve their operations in the Macharian Sector. But the characters would never know this for sure.",
+   "ru": "Когда Интеритас снова заперт в своей криокапсуле, покровитель отряда устало связывается с Официо Ассасинорум и сообщает храму ассасинов, что Интеритас жив и находится на Волле. Покровитель велит персонажам выкинуть из головы любые мысли об Интеритасе — об Официо Ассасинорум больше никогда нельзя упоминать — и грозит стереть им память, если они не удержат язык за зубами. Тем не менее Интеритаса интересно держать про запас для будущих приключений: быть может, Официо Ассасинорум воспользовался случаем оставить Интеритаса на Волле, чтобы усилить свои операции в секторе Махарий. Но наверняка персонажи этого никогда не узнают."
+  },
+  "6": {
+   "en": "Some NPCs the characters encountered could become valuable Contacts or Hirelings in their future adventures, such as ",
+   "ru": "Некоторые NPC, встреченные персонажами, могут стать ценными контактами или наёмниками в будущих приключениях, например "
+  },
+  "8": {
+   "en": "Loga Binary-46",
+   "ru": "Лога Бинари-46"
+  },
+  "10": {
+   "en": " (if they manage to defeat Interitas with her help), ",
+   "ru": " (если с её помощью удалось одолеть Интеритаса), "
+  },
+  "12": {
+   "en": "Captain Matis Vern",
+   "ru": "капитан Матис Верн"
+  },
+  "14": {
+   "en": " or ",
+   "ru": " или "
+  },
+  "16": {
+   "en": "Port Ensign Novus",
+   "ru": "портовый энсин Новус"
+  },
+  "18": {
+   "en": " (who could aid the characters in gaining access to protected parts of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth}), and ",
+   "ru": " (которые могут помочь персонажам попасть в охраняемые части @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{улья Рокарт}), а также "
+  },
+  "20": {
+   "en": "Curator Adjen Sablik",
+   "ru": "куратор Адьен Саблик"
+  },
+  "22": {
+   "en": " or ",
+   "ru": " или "
+  },
+  "24": {
+   "en": "Adept Callidon Miers",
+   "ru": "адепт Каллидон Мирс"
+  },
+  "26": {
+   "en": " (who could help the characters with appropriate research during their future investigations).",
+   "ru": " (которые могут помочь персонажам с нужными изысканиями в будущих расследованиях)."
+  },
+  "30": {
+   "en": "Experience Points",
+   "ru": "Очки опыта"
+  },
+  "34": {
+   "en": "All characters should earn @Reward[xp=30 reason=Implacable]{30 XP} for participating in the adventure, but if any characters achieved personal goals or fulfilled a goal for a Patron, their reward should be increased accordingly. In addition, the following experience can be awarded:",
+   "ru": "Все персонажи должны получить @Reward[xp=30 reason=Implacable]{30 ОО} за участие в приключении, но если кто-то из них достиг личных целей или выполнил задачу покровителя, награду стоит соответственно увеличить. Кроме того, можно начислить следующий опыт:"
+  },
+  "42": {
+   "en": "@Reward[xp=10 reason=Gathered a clue]{10 XP} for each clue gathered during Part 1. ",
+   "ru": "@Reward[xp=10 reason=Gathered a clue]{10 ОО} за каждую зацепку, собранную в части 1. "
+  },
+  "50": {
+   "en": "@Reward[xp=10 reason=Gathared a clue]{10 XP} for each clue gathered during Part 2.",
+   "ru": "@Reward[xp=10 reason=Gathared a clue]{10 ОО} за каждую зацепку, собранную в части 2."
+  },
+  "58": {
+   "en": "@Reward[xp=20 reason=Survived the Vertexis ambush]{20 XP} for surviving the Vertexis ambush and defeating the copycat Harbinger.",
+   "ru": "@Reward[xp=20 reason=Survived the Vertexis ambush]{20 ОО} за то, что пережили засаду Вертексиса и одолели Предвестника-подражателя."
+  },
+  "66": {
+   "en": "@Reward[xp=40 reason=Confronted and shut down the Eversor Inheritas]{40 XP} for confronting and shutting down Eversor Interitas.",
+   "ru": "@Reward[xp=40 reason=Confronted and shut down the Eversor Inheritas]{40 ОО} за противостояние с эверсором Интеритасом и его отключение."
+  },
+  "74": {
+   "en": "Influence",
+   "ru": "Влияние"
+  },
+  "78": {
+   "en": "Award or reduce the character’s Personal Influence according to their behaviour towards the factions they have encountered — primarily the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus}, if they successfully worked with Loga Binary-46 during Parts 4 and 5, or the Macharian Vigilites (@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Astra Militarum}) for aiding Captain Matis Vern, or the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.HlxK2pbpx2Uio6bU]{Imperial Fleet} for dealing favourably with Port Ensign Novus. Consider altering their Influence with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Adeptus Administratum} (by extension of the Officio Assassinorum) for dealing with Interitas. However, they might not recognise this effect until they next directly deal with the Adeptus Administratum or the Officio Assassinorum.  ",
+   "ru": "Повысьте или понизьте личное влияние персонажей в зависимости от их поведения по отношению к встреченным фракциям — прежде всего к @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус}, если в частях 4 и 5 персонажи успешно работали с Логой Бинари-46, к махарийским вигилам (@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум}) за помощь капитану Матису Верну или к @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.HlxK2pbpx2Uio6bU]{Имперским флотилиям} за доброе отношение к портовому энсину Новусу. Подумайте об изменении их влияния у @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Адептус Администратум} (а через него — у Официо Ассасинорум) за то, как они разобрались с Интеритасом. Впрочем, они могут и не заметить этих последствий, пока в следующий раз напрямую не столкнутся с Адептус Администратум или Официо Ассасинорум.  "
+  },
+  "82": {
+   "en": "These increases can bleed over to their Patron’s Influences if they represented their Patron honourably or made such a gross error in judgment as to affect their Patron’s standings. Aim to award (or detract) at least one point to each character and their Patron.",
+   "ru": "Эти изменения могут перейти и на влияние покровителя, если персонажи достойно представляли его или допустили настолько грубую ошибку, что она сказалась на его положении. Постарайтесь начислить (или снять) хотя бы одно очко каждому персонажу и его покровителю."
+  },
+  "86": {
+   "en": "Failure",
+   "ru": "Провал"
+  },
+  "96": {
+   "en": "If the characters fail to complete the main objectives of the adventure, Interitas is left to continue on his rampage, as noted in the @UUID[.UHtSqeiaUMvo4YMP#the-cowards-way]{Coward’s Way}. However, there are also some other points of failure to note from earlier in the adventure.",
+   "ru": "Если персонажи не выполнят основные цели приключения, Интеритас продолжает свой кровавый путь, как описано в разделе @UUID[.UHtSqeiaUMvo4YMP#the-cowards-way]{«Путь труса»}. Однако стоит отметить и некоторые другие возможные провалы на более ранних этапах приключения."
+  },
+  "100": {
+   "en": "Failure to stop the Harbinger during Part 3 allows the Vertexis Cult to continue growing. They use Halion’s Triumph to wipe out more targeted citizens (with or without Interitas’s attacks to back them up), and Master Morlay won’t halt the commemorations for anything. If Interitas is dealt with, the Harbinger garners a greater cult of personality and continues their killings without proper direction. They swallow up lesser cults in @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth} to add to their ranks and continue spreading throughout the Hive, turning the lower reaches of the hive into battle zones, pitching fights between them and the Vigilites.",
+   "ru": "Если не остановить Предвестника в части 3, культ Вертексис продолжает разрастаться. Он использует Триумф Халиона, чтобы уничтожить новых намеченных горожан (с поддержкой нападений Интеритаса или без неё), а мастер Морлей ни за что не остановит торжества. Если с Интеритасом разобрались, вокруг Предвестника складывается ещё более мощный культ личности, и он продолжает убийства уже без должного руководства. Культ поглощает мелкие культы @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта}, пополняя свои ряды, и продолжает распространяться по улью, превращая нижние уровни в зоны боевых действий и сталкивая своих приверженцев с вигилами."
+  },
+  "104": {
+   "en": "Failure to stop the attacks during Halion’s Triumph and the resulting loss of life cause @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth's} productivity to plummet, and with it, the average citizen’s quality of life. The eastern sectors of the hive become ripe for @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionist} elements to thrive, and by extension, Rokarth’s Genestealer Cult cells. As the @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#castyx]{Castyx} Dynasty scrambles to source replacement workers from Voll’s other hives or nearby systems, the Dynasty’s control over Voll wavers, allowing other families and guilds to rise in power against them.",
+   "ru": "Если не остановить нападения во время Триумфа Халиона, гибель людей обрушивает производительность @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{улья Рокарт}, а вместе с ней и уровень жизни простых горожан. Восточные сектора улья становятся благодатной почвой для процветания @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{одиночек}, а через них — и ячеек культа генокрадов Рокарта. Пока династия @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#castyx]{Кастикс} лихорадочно ищет замену рабочим в других ульях Волла или соседних системах, её власть над Воллом слабеет, позволяя другим семьям и гильдиям набирать силу в противовес ей."
+  },
+  "108": {
+   "en": "What’s Next?",
+   "ru": "Что дальше?"
+  },
+  "112": {
+   "en": "The end of this adventure has a few loose ends that could be spun into further adventures for your party. Consider the following:",
+   "ru": "По завершении приключения остаётся несколько незакрытых нитей, из которых можно сплести новые приключения для отряда. Например:"
+  },
+  "120": {
+   "en": "Captain Matis Vern approaches the characters, asking for aid to track down the remaining pockets of Vertexis Cult members strewn across the eastern sectors of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth}. They are still eliminating citizens, a long list of names given to them by the Harbinger before their demise. But without a leader, the Vertexis remnants are ripe to be manipulated by one of Hive Rokarth’s hidden chaos cults, or perhaps tied to the following thread. ",
+   "ru": "Капитан Матис Верн обращается к персонажам за помощью в выслеживании оставшихся очагов культа Вертексис, разбросанных по восточным секторам @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта}. Они всё ещё устраняют горожан по длинному списку имён, который Предвестник оставил им перед гибелью. Но без вожака остатки Вертексиса легко могут попасть под влияние одного из скрытых культов Хаоса улья Рокарт или оказаться связаны со следующей нитью. "
+  },
+  "128": {
+   "en": "During the adventure, characters may have noticed the Harbinger’s strange Power Scythe, and its obviously tech-heresy construction. This can only mean one thing: a rogue heretek is operating on @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth}. They offer their services to the widespread heretical cults hidden in the hive city, seeking to bolster their power and dissent against the hive’s status quo. Did they know about Interitas’s mission, the presence of the Eversor Assassin, and think the Vertexis a cult worth manipulating? The characters could once more gain the aid of Loga Binary-46 to track down this foe — the magos within Forge-fane Incalos-6 would greatly appreciate the character’s support if this heretek is dealt with swiftly and without public notice.",
+   "ru": "По ходу приключения персонажи могли заметить странную силовую косу Предвестника и её явно техноеретическую конструкцию. Это может означать лишь одно: в @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарте} действует еретех-отступник. Он предлагает свои услуги многочисленным еретическим культам, скрытым в городе-улье, стремясь укрепить их силу и недовольство установленным порядком. Знал ли он о задании Интеритаса и присутствии ассасина-эверсора и счёл ли Вертексис культом, которым стоит манипулировать? Персонажи снова могут заручиться помощью Логи Бинари-46, чтобы выследить этого врага, — магосы храма-кузни Инкалкос-6 будут очень признательны персонажам за поддержку, если с этим еретехом разберутся быстро и без огласки."
+  }
+ }
+}

@@ -3,7 +3,7 @@
   "name": "Cult Fanatic",
   "type": "npc",
   "_id": "NcT5GMfecUIrpXmZ",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Frenzy",
       "type": "trait",
       "_id": "7DcVg6h5kga0oGvR",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Sanity is for the Weak",
       "type": "trait",
       "_id": "chVhsBC45rQtmZDp",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Witch-mark",
       "type": "trait",
       "_id": "U1WzftZL9IrpxtYl",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -426,7 +426,7 @@
       "name": "Hand Cannon",
       "type": "weapon",
       "_id": "W293LL2Ne7tffqWc",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -507,7 +507,7 @@
       "name": "Sword",
       "type": "weapon",
       "_id": "cB1jAf8JBRZInxwu",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -573,7 +573,7 @@
       "name": "Chainaxe",
       "type": "weapon",
       "_id": "iFsL33pjsOnbMGuw",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -647,7 +647,7 @@
       "name": "Forbidden",
       "type": "specialisation",
       "_id": "rpnWt1N3LMyTJ1gU",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -676,7 +676,7 @@
       "name": "Forbidden",
       "type": "specialisation",
       "_id": "ZcKiCBy8yIot9ik2",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -705,7 +705,7 @@
       "name": "Intimidation",
       "type": "specialisation",
       "_id": "fQqZt2ui3eIrCHo7",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -734,7 +734,7 @@
       "name": "Deception",
       "type": "specialisation",
       "_id": "XSjaKiQrm75PDfn8",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

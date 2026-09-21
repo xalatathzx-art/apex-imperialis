@@ -2,7 +2,7 @@
   "name": "Unblinking Watcher",
   "type": "talent",
   "_id": "malExpTal0000141",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Define a second trigger to your action on Overwatch</span></p><hr><p><span style=\"font-family: Arial\"><em>When you take the Overwatch action, you may choose two triggers for it rather than one to execute the action.</em></span></p>",

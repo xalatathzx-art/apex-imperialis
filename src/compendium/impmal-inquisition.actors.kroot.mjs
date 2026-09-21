@@ -2,7 +2,7 @@ export const label = "Актёры (Руководство Инквизиции)
 export const entries = {
   "0PaBk1ctcf5eQRbC": {
     en: "Nar’itor, Flesh Shaper",
-    description: "<p>@UUID[Compendium.impmal-inquisition.journals.JournalEntry.SJPyRkdBEOCtmD8R.JournalEntryPage.yMEATJaARscPkpVC]{Родственная стая Нар’итора}</p>",
+    description: "<p>@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.SJPyRkdBEOCtmD8R.JournalEntryPage.yMEATJaARscPkpVC]{Родственная стая Нар’итора}</p>",
     species: "Круут",
     items: {
       "Twin Blades": { name: "Парные клинки", description: "<p>Нар’итор может атаковать обоими ритуальными клинками без Помехи.</p>" },
@@ -23,7 +23,7 @@ export const entries = {
     items: {
       "Ragged Light Leathers": { name: "Рваный лёгкий кожаный доспех" },
       "Ambusher": { name: "Засадник", description: "<p>Если в Зоне круута-плотоядного есть Укрытие, он может совершить Проверку Скрытности как часть Перемещения.</p>" },
-      "Kroot Rifle (Shooting)": { name: "Винтовка круутов (стрельба)", description: "<p>@UUID[Compendium.impmal-inquisition.journals.JournalEntry.BbyZqcWs3HbrAO3Y.JournalEntryPage.3Dfxlo5D4J9BxkTD#kroot-weapons]{Оружие круутов}</p>" },
+      "Kroot Rifle (Shooting)": { name: "Винтовка круутов (стрельба)", description: "<p>@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.BbyZqcWs3HbrAO3Y.JournalEntryPage.3Dfxlo5D4J9BxkTD#kroot-weapons]{Оружие круутов}</p>" },
       "Kroot Rifle (Blades)": { name: "Винтовка круутов (клинки)" }
     }
   },

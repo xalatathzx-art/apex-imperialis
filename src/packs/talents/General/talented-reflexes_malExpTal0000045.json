@@ -2,7 +2,7 @@
   "name": "Talented (Reflexes)",
   "type": "talent",
   "_id": "malExpTal0000045",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Once/session: re-roll Reflexes check (take better)</span></p><hr><p><span style=\"font-family: Arial\"><em>You have a natural affinity towards Reflexes. You must have two Advances in Reflexes. Once per session, you may reroll any Test for Reflexes even if the result is already a success. </em></span></p>",

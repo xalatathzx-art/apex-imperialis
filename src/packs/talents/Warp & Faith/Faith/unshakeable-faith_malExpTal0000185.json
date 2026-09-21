@@ -2,7 +2,7 @@
   "name": "Unshakeable Faith",
   "type": "talent",
   "_id": "malExpTal0000185",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Reroll failed Discipline checks vs Fear</span></p><hr><p><span style=\"font-family: Arial\"><em>People’s faith in the Emperor and his abilities is so strong that they can face any danger. The character may re-roll any failed Discipline Tests to avoid the effects of Fear.</em></span></p>",

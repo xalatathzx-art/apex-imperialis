@@ -1,0 +1,345 @@
+{
+ "journal": "KbejcPMug5gfoWWz",
+ "journalName": "Subtlety",
+ "page": "k3IIBps2ZS9Ap23D",
+ "pageName": "Gauging Subtlety",
+ "name": "Оценка секретности",
+ "runs": {
+  "2": {
+   "en": "The Gamemaster tracks the party’s Subtlety Rating and implements the mechanical benefits and negatives secretly. The party can only discover their current Subtlety Rating and Level by making a relevant Test or if a particularly powerful character, such as their Patron, provides that information.",
+   "ru": "VII СЕКРЕТНОСТЬ\nКаждый уровень секретности приносит свои\nпреимущества и помехи, и ни один нельзя назвать\nбесспорно превосходящим другие; это зависит от того,\nчего хочет достичь группа, её методов и обстоятельств\nзадания.\nКРЕТНОСТИ\nВедущийподсчитываетуровеньсекретностиивводитв\nигру преимущества и недостатки."
+  },
+  "6": {
+   "en": "The GM determines the specific Test required based on the character’s approach. Examples include (but are not limited to):",
+   "ru": "Группа может узнать\nсвой текущий уровень и статус только предприняв\nпроверку, либо услышав от этом напрямую у какого"
+  },
+  "14": {
+   "en": "A ",
+   "ru": "могущественного"
+  },
+  "16": {
+   "en": "Challenging (+0) Rapport (Inquiry)",
+   "ru": "персонажа – например, своего\nпокровителя.\nКакая"
+  },
+  "18": {
+   "en": " Test to coax information from personal contacts.",
+   "ru": "проверка потребуется, чтобы узнать о"
+  },
+  "26": {
+   "en": "A ",
+   "ru": "своей\nсекретности,"
+  },
+  "28": {
+   "en": "Challenging (+0) Intuition (People)",
+   "ru": "решает ведущий, исходя из"
+  },
+  "30": {
+   "en": " Test to gauge the local populace’s reactions, listening for rumors and gossip.",
+   "ru": "заявок\nигроков. Вот далеко не исчерпывающий список\nпримеров:\n0 Средняя (+0) проверка"
+  },
+  "38": {
+   "en": "A ",
+   "ru": "Взаимопонимания\n(Сбор"
+  },
+  "40": {
+   "en": "Challenging (+0) Logic (Investigation)",
+   "ru": "сведений), чтобы расспросить"
+  },
+  "42": {
+   "en": " Test to probe local factions and see if they are more alert to your presence.",
+   "ru": "знакомых\nосведомителей.\n0 Средняя (+0) проверка Чутья (Люди), чтобы\nоценить"
+  },
+  "50": {
+   "en": "A ",
+   "ru": "поведение"
+  },
+  "52": {
+   "en": "Challenging (+0) Tech (Security)",
+   "ru": "местных, послушать слухи"
+  },
+  "54": {
+   "en": " Test to monitor vox chatter in the area and recognise the rate at which your group’s names or activities are mentioned.",
+   "ru": "и\nсплетни.\n0 Средняя (+0) проверка Логики (Следствие), чтобы\nобратиться к местным службам и посмотреть, будут\nли они"
+  },
+  "62": {
+   "en": "The base Difficulty for this Test is ",
+   "ru": "встревожены вашим появлением.\n0 Средняя"
+  },
+  "64": {
+   "en": "Challenging (+0)",
+   "ru": "(+0) проверка"
+  },
+  "66": {
+   "en": ", but circumstances can increase or decrease this Difficulty at the GM’s discretion. The GM should make this test secretly on the player’s behalf. If successful, the GM tells the party their current Subtlety Level. If they fail, the GM should provide false information — ideally telling the player their Subtlety Rating is unchanged from whatever it previously was. A Fumble may actually cause their Subtlety to decrease as they stumble in their investigation and draw even more attention to themselves.",
+   "ru": "Техники (Безопасности),\nчтобы изучить вокс-эфир в округе и оценить, часто\nли в нём всплывают упоминания ваших имён и\nдействий.\nИсходная сложность таких проверок – средняя (+0),\nно обстоятельства и решение ведущего могут это\nизменить. Ведущему стоит бросать эту проверку за\nигрока и не раскрывать результат. В случае успеха\nведущий называет группе её текущий статус. В случае\nпровала он даёт ложные сведения – в идеале, стоит\nсообщить, что уровень секретности остался таким же,\nкак раньше. Фиаско в этой проверке может"
+  },
+  "70": {
+   "en": "Covert (Subtlety 10-8)",
+   "ru": "понизить\nсекретность –"
+  },
+  "74": {
+   "en": "When the party’s Subtlety is ",
+   "ru": "неуклюжие попытки что-то"
+  },
+  "76": {
+   "en": "Covert",
+   "ru": "выведать\nсами"
+  },
+  "78": {
+   "en": ", the local populace is generally unaware of the Inquisition’s presence and has little reason to look for it. Though isolated individuals may suspect Inquisitorial activity, such sentiments are relatively rare and have little popular support or corroborating evidence, usually dismissed as the base-level paranoia common to Imperial society. The party’s disguises are mostly taken at face value, and if someone sees through them, the party are assumed to be charlatans, not Inquisitorial agents. Acts of infiltration or sabotage are generally attributed to local criminals, political rivals, cultists, or other more common scapegoats than the Inquisition. Strange things happen throughout the Imperium daily, but such is life amid the grim darkness of the 41st Millennium; there’s no reason the public should think anything more of it while Subtlety is Covert.",
+   "ru": "по себе привлекают внимание.\nИЗМЕН ЕН ИЕ\nСЕКРЕТНОСТИ\nЕсли группа применяет эти правила, она всегда будет\nиметь уровень секретности от 1 до 10. Уровень\nсекретности определяет их статус, который приносит\nигромеханические преимущества и недостатки.\nВедущий может сам определить исходную секретность\nгруппы в начале задания, опираясь на то, насколько\nлюдииведомстваосведомленыопоявленииперсонажей\nв округе. Большинство расследований будут начинаться\nсо статуса инкогнито (10-8), если только местные не\nпроявляютподозренийещёдоприбытиягруппы.После\nэтого уровень секретности будет зависеть от действий\nи решений персонажей.\nКак правило, высокая секретность означает, что\nлюди в округе относительно мало знают о личностях\nперсонажей, их поступках, мотивах и том, кому они\nслужат. Это позволяет действовать быстро и тайно,\nно не позволяет использовать репутацию Святых\nОрдосов. Низкая секретность привлекает внимание\nи"
+  },
+  "82": {
+   "en": "Maintaining Covert Subtlety typically requires the party to operate in the shadows, carefully leaving few traces of their clandestine activities. Alternatively, it could mean the party hides in plain sight while discouraging witnesses and investigators with leverage, misdirection, or outright fabrications. A Covert party’s presence and identity are unknown to the public, or their affiliation is obfuscated well enough to allow them to operate in the open while shifting blame and suspicion away from the Inquisition.",
+   "ru": "подозрения, подхлёстывает паранойю и страхи, но\nвызывает уступчивость и покорность мирных жителей,\nа врагов подталкивает к жестоким действиям или\nхитрым манёврам. У секретности есть четыре\nстатуса, каждый со своими игромеханическими и\nповествовательными последствиями.\n\nVII СЕКРЕТНОСТЬ\nЛюди в округе, где действуют поддерживающие\nинкогнитоаколиты,ведутсебянормально.Внекоторой\nстепени каждый в Империуме живёт в постоянном\nстрахе – перед войной, ксеносами, мутантами,\nобвинениями в недостаточном усердии, вербовкой или\nпохищением Инквизицией. Люди"
+  },
+  "86": {
+   "en": "Under Covert conditions, the populace behaves normally. To some extent everyone in the Imperium is afraid all the time; of war, xenos, mutants, not being seen as working hard or faithful enough, afraid of being drafted for a tithe, or being stolen away by the Inquisition. Fear perpetuates, but in this scale of Subtlety, there is no suspicion or scrutiny towards the party. Mechanically, this means people are willing to give the party the benefit of the doubt when it seems they are up to something dubious. They must play on the public’s ambivalence, though actively, and leaning on that too hard or too often can eventually lead to suspicion. People are only willing to believe in so many coincidences before they develop real doubts.",
+   "ru": "могут бояться, но\nих страхи и подозрения не будут связаны с группой,\nсохраняющей такую секретность. По отношению к\nгруппе люди будут руководствоваться презумпцией\nневиновности. Аколиты должны играть на этом\nотношении, хотя его активное и частое применение\nне может не вызвать сомнений. Люди готовы верить в\nсовпадения, но растущие подозрения убьют эту веру.\nВОЗМОЖНОСТИ\n«Обыщем каждую крысиную нору, надавим на каждого\nчиновника, выкорчуем каждую слабость и будем\nвыкручивать им руки, пока не вырвем признание.\nКсенденарий,яхочу,чтобыгородскиекогитаторыбыли\nочищены. Грин, посмотри, кому из силовиков стоит\nраскроить череп. Скарен, иди поиграй с синдикатами,\nкартелями и прочими бандами, которых, если верить\nпочтенным адептам, не существует – посмотрим,\nкакие истины сможет открыть"
+  },
+  "94": {
+   "en": "Covert Positive Effects",
+   "ru": "твой нож-шкуродёр.\nМы не"
+  },
+  "104": {
+   "en": "You have +1 SL on all Tests relying on blending in or avoiding drawing attention, such as Rapport (Deception) and Stealth (Conceal or Hide). Inquiry Tests that do not leverage fear of the Inquisition also gain this benefit.",
+   "ru": "должны ничего пропустить. Господин требует\nот нас многого, а его терпение имеет пределы».\n- Джерран Динаск,\nдознаватель лорда-инквизитора Дезаха\nТак и ведётся Тайная война – вы бесшумной тенью\nскользите среди толп имперских обывателей,"
+  },
+  "114": {
+   "en": "Covert Negative Effects:",
+   "ru": "охотясь\nна нечестивых"
+  },
+  "124": {
+   "en": "You have Disadvantage on all Tests relying on someone believing the party is affiliated with the Inquisition, such as Presence and Rapport Tests that evoke the Inquisition’s reputation.",
+   "ru": "врагов и нанося им безжалостные и\nнеожиданные удары. Если вы сохраняете инкогнито,\nвраги не будут ждать вашего приближения, а это даёт\nпрекрасную возможность подобраться поближе, узнать,\nкак можно"
+  },
+  "132": {
+   "en": "Using your Patron’s Influence decreases your Subtlety by −1.",
+   "ru": "больше, убедиться в своём превосходстве\nи качнуть чашу весов в"
+  },
+  "142": {
+   "en": "Covert Opportunities",
+   "ru": "свою сторону, не дав"
+  },
+  "148": {
+   "en": "‘Scour every rat hole, pressure every official, root out every weakness, and twist until they scream the confession we need. Xendenarius, I want the city’s cogitator-screed picked clean. Ghreen, see what skulls you can crack among the Enforcers. Skharen, go and play with the syndicates, cartels, and gutter crews that the worshipful adepts tells us do not exist — see what truths your skin-peeler can elicit. We must miss nothing. Our master demands as much, and his patience has limits.’",
+   "ru": "врагу\nсобраться с силами и бросить их против вас.\nДействуйте быстро, но оставайтесь в тенях и среди\nбезликой толпы. Вне охраняемых объектов вы\nможете передвигаться свободно и полагаться на\nличное влияние, которое откроет нужные двери и не\nвызовет подозрений. Раскидывайте шпионские сети и\nвыстраивайте связи с местными контактами и\nпоставщиками. Вы можете быть уверены, что никто\nне выступит против вас, ведь никто не знает, чего вы\nдобиваетесь.\nКонечно, анонимность не позволяет применять\nполномочия Инквизиции, а"
+  },
+  "156": {
+   "en": "— Jerran Dynaskus, Interrogator serving Lord Inquisitor Dezah",
+   "ru": "каждый шаг рискует\nвызватьподозрения.Аколиты,действующиеинкогнито\n–"
+  },
+  "162": {
+   "en": "This is how the Secret War is fought — you pass like shadows amongst the teeming masses of the Imperium, hunting your foul foes and striking ruthlessly without warning. While Covert, enemies won’t see you coming, giving you a crucial opportunity to get close to your foul foes and investigate them, gaining @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.3j1kargHBeCTssE7]{Superiority} and swaying the odds of success in your favour — before they can bring the full force of their wretched power to bear against you.",
+   "ru": "это скрытные охотники.\nИнкогнито (секретность 8-10)\nКогда аколиты поддерживают инкогнито, местные\nжителивообщенезнаютовмешательствеИнквизициии\nпочтинеимеютпричиндуматьобэтом.Хотяотдельные\nлюди могут подозревать вмешательство Святых\nОрдосов,такиемненияредки,неимеютподдержкиине\nподкреплены доказательствами, а потому их списывают\nна привычную для имперского общества паранойю.\nЛегенду группы принимают за чистую монету, а если\nмаскировка раскроется, героев скорее сочтут\nшарлатанами,чемагентамиИнквизиции.Совершённые\nимидиверсииилипроникновениясовзломомприпишут\nместным преступникам, политическим @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.3j1kargHBeCTssE7]{Superiority}"
+  },
+  "166": {
+   "en": "Act fast, stick to the darkness, and blend in among the faceless masses. Outside high-security areas, you will have freedom of movement and can rely on your Personal Influence to open doors without garnering suspicion. Set up surveillance networks and build relationships with local contacts and suppliers. You can be confident that nobody will be acting against you; your goals unknown.",
+   "ru": "противникам,\nкультистам или иным козлам отпущения, более\nпривычным, чем Инквизиция. В Империуме странные\nвещи происходят постоянно, но такова жизнь в\nбеспросветном мраке сорок первого тысячелетия; пока\nгруппа поддерживает инкогнито, у людей просто нет\nпричин думать о чём-то другом.\nПоддержание инкогнито обычно требует от группы\nдействовать тайно и тщательно заметать следы своих\nопераций. Впрочем, они могут"
+  },
+  "170": {
+   "en": "Of course, anonymity means you cannot rely on the greater authority of the Inquisition, and every action risks making you appear more suspicious. Being Covert puts you in the role of the stealthy hunter.",
+   "ru": "прятаться на виду,\nсбивая с толку свидетелей и следователей своим\nвлиянием, вводя их в заблуждение или просто\nзапутывая враньём. Личности и само присутствие\nагентов, поддерживающих инкогнито, неизвестны\nобществу,"
+  },
+  "174": {
+   "en": "Suspicious (Subtlety 7-5)",
+   "ru": "либо их принадлежность к"
+  },
+  "178": {
+   "en": "When the party’s Subtlety Level is ",
+   "ru": "Инквизиции\nостаётся скрыта достаточно"
+  },
+  "180": {
+   "en": "Suspicious",
+   "ru": "надёжно,"
+  },
+  "182": {
+   "en": ", whispers of the Inquisition’s presence circulate, though incontrovertible proof remains sporadic or elusive. Seeds of paranoia sprout as the streets and the halls of power echo with questionable accounts and rumours. Common folk dare not tarry in public, unsettled by the notion of encountering hypothetical Inquisitors lurking in the shadows. Ambitious elites seek to expose heretical behaviour amidst their peers to curry favour for themselves. Cautious nobles examine their activities, expunging evidence of sin just in case sceptical eyes turn their way. Criminal organisations and heretical cults scour their membership for infiltrators, subjecting the unproven to brutal loyalty tests. Because the population is paying attention, suspicious activities the party commits will likely raise concerns about their true motives and allegiances.",
+   "ru": "чтобы они могли\nдействовать, не бросая тень на Святые Ордосы.\n.\nПоложительные эффекты\n0 Вы получаете +1 успех во всех проверках,\nпредпринятых, чтобы смешаться с людьми и избежать\nчужого внимания – например, Взаимопонимания\n(Обман) и Скрытности (Маскировка или Невидимка).\nПроверки Взаимопонимания (Сбора сведений), в ходе\nкоторых аколиты не прибегают к страху перед\nИнквизицией, также получают этот бонус.\nОтрицательные эффекты\n0 Вы получаете помеху во всех проверках,\nполагающихся на то, что человек, с которым вы имеете\nдело, верит, что вы связаны с Инквизицией, – например,\nброскам Командования и Взаимопонимания, которые\nаколиты подкрепляют авторитетом Святых Ордосов.\n0 Применение влияния вашего покровителя понижает\nсекретность на 1.\n\nVII СЕКРЕТНОСТЬ\nДальнейшие действия, что могут связать персонажей\nс Инквизицией, превратят подозрения в уверенность,\nхотя умелые ходы и заметание следов"
+  },
+  "186": {
+   "en": "Maintaining Suspicious Subtlety typically requires the party to maintain a semblance of plausible deniability about their affiliation, though their actions needn’t be entirely clandestine. Remaining Suspicious means the Inquisition’s involvement in the area is suspected yet remains unconfirmed. Alternatively, certain individuals may have discovered the party’s intent or patronage, but those individuals have yet to convince the general population.",
+   "ru": "позволят\nподозрениям остаться подозрениями.\nОдолеваемые подозрениями люди не будут знать покоя\nи начнут везде высматривать шпионов. Приезжие,\nнезнакомцы и другие неизвестные люди будут\nвызывать недоверие, а знакомые, которые ведут себя\nстранно, – опасения или даже враждебность. Даже\nстарые приятели, задающие слишком много вопросов\nили обратившиеся с необычной просьбой, вызовут\nподозрения – люди не раз и не два продавали друзей,\nчтобы спасти свои шкуры. Беспокойство и"
+  },
+  "190": {
+   "en": "Further actions linking the party to the Inquisition will shift suspicion toward certainty, though careful management and mitigation can preserve Suspicious Subtlety.",
+   "ru": "недоверие\nосложнятгероямпопыткиизбегатьвнимания,скрывать\nличностьилимотивы,стоящиезапоступками.Сдругой\nстороны, они смогут с большим эффектом применять\nгрозную славу"
+  },
+  "194": {
+   "en": "Under Suspicious conditions, people tend to be on edge, looking over their shoulders in case someone is watching. Newcomers, strangers, and other unknowns are met with distrust, while familiar faces behaving oddly elicit wariness or open hostility. Even a normally-trustworthy acquaintance asking too many questions or making unusual requests is worthy of scrutiny; it wouldn’t be the first time someone sold out a friend to save their own skin. Mechanically, this unease and distrust mean the party has a harder time avoiding notice, concealing their identity, or obfuscating the motives behind their actions. However, they may be able to wield the Inquisition’s reputation more effectively.",
+   "ru": "Инквизиции.\nВОЗМОЖОСТИ\n«Трон забери этих негодяев! Мортис, они знают\nтвоё имя и вокс-позывной. Кастелла, придумай ему\nновую легенду и образ – надо успеть до церемонии в\nСоборе: у нас есть косвенные улики, указывающие\nна дьякона Царелла, и кем бы не были эти\nеретические «Бегающие глаза», они залягут на дно,\nесли мы не будем осторожны. Берите оружие и\nпечать, но императоровы зубы, прячьте их\nполучше»\n- Ксеркс Мельник, дознаватель инквизитора\nКсении Бэк\nУ группы есть последний шанс скользнуть обратно в\nтень, не опасаясь соглядатаев на каждом углу – это\nлучшее время, чтобы завершить оставшиеся тайные\nоперации или переместиться на выгодные позиции,\nне боясь быть схваченными. Кто-то уже знает, что"
+  },
+  "202": {
+   "en": "Suspicious Positive Effects",
+   "ru": "в\nокругеработаетИнквизицияиможетпопытатьсявыйти\nна"
+  },
+  "212": {
+   "en": "At the GM’s discretion, you gain +1 SL on all Tests relying on someone believing the party are affiliated with the Inquisition, such as Presence and Rapport Tests that evoke the Inquisition’s reputation.",
+   "ru": "неё, а такие желания способны вызвать поспешные\nрешения. Но теперь все в равных условиях – ни одна\nсторона не знает о планах другой, а значит на первый\nплан выходят наблюдение и слежка.\nЕсли покровитель не настаивает"
+  },
+  "222": {
+   "en": "Suspicious Negative Effects:",
+   "ru": "на сохранении\nопределённого"
+  },
+  "232": {
+   "en": "At the GM’s discretion, you suffer −1 SL on all Tests relying on blending in or avoiding drawing attention, such as Rapport (Deception) and Stealth (Conceal or Hide), particularly when these Tests are opposed by a group that is suspicious of you. Inquiry Tests that do not leverage fear of the Inquisition may suffer the same penalty.",
+   "ru": "уровня секретности, аколиты должны\nсами решить, какой образ действий им ближе: хотят\nони замести все следы и сгустить завесу тайны или\nсбросить маски и положиться на страх перед Святыми\nОрдосами, который позволяет действовать открыто.\nПодозрения (секретность 7-5)\nКогда людей одолевают подозрения, все вокруг\nначинают пересказывать слухи об Инквизиции,"
+  },
+  "240": {
+   "en": "Using your Patron’s Influence decreases your Subtlety by −1.",
+   "ru": "хотя\nдоказательства её вмешательства остаются едва\nуловимыми."
+  },
+  "250": {
+   "en": "Suspicious Opportunities",
+   "ru": "Зёрна паранойи пускают"
+  },
+  "256": {
+   "en": "‘Throne damn these wretches! Mortis, they’ve got your name and description on the vox. Castella, manufacture him a new cover story and a disguise before the worship ceremony at the Cathedrum — the circumstantial evidence is pointing towards Deacon Tzarelle, but whoever these “Shifting Eye” heretics are, they’ll go to ground if we aren’t careful. Take your weapons and your seal, but by the Emperor’s Teeth, keep them concealed.’",
+   "ru": "побеги по мере\nтого, как городские улицы и дворцы власть имущих\nнаполняются сомнительными слухами и докладами.\nПростолюдины не решаются подолгу оставаться на\nлюдях – их слишком пугает мысль об инквизиторе, что\nможет скрываться в тенях совсем рядом. Честолюбивая\nверхушка общества попытается найти еретиков среди\nсобратьев, чтобы заслужить благосклонность Ордосов.\nОсторожные патриции займутся своими делами и\nуничтожат доказательства греховности на тот"
+  },
+  "264": {
+   "en": "— Xerxes Melnyk, Interrogator serving Inquisitor Ksenia Baek",
+   "ru": "случай,\nесли взгляд инквизитора обратится на них."
+  },
+  "270": {
+   "en": "This is the party’s last chance to skulk about the shadows without anyone looking over their shoulder — the best time to establish any remaining secret operations or move their operatives into a better position without getting caught. Some entities now know the Inquisition is operating nearby and might seek the party out; this may force enemies to make rash decisions. Now they are on equal footing with the enemy, as either side is unaware of what the other is planning — here, surveillance is key.",
+   "ru": "Преступные\nкартелииеретическиекультыбудутвыискивать«кротов»\nв своих рядах и устраивать для новичков жестокие\nпроверки на верность. Подозрительные действия\nперсонажей будут вызывать ещё больше вопросов и\nпредположений о том, кому они служат, ведь все на\nвзводе и обращают внимание на такие вещи.\nТакой статус подойдёт, когда команде требуется\nсохранять отстранённость от Инквизиции, но полная\nсекретность не требуется. Этот статус обозначает, что\nместные подозревают вмешательство Ордосов, но\nдоказательств тому ещё нет. Другой вариант"
+  },
+  "274": {
+   "en": "If their Patron doesn’t insist upon them operating at a certain level, they should decide what direction best suits them and their investigation: should they work harder to clean up after themselves, rebuild and strengthen their veil of secrecy, or should they lift the veil altogether, begin leaning more into their terrifying presence and ultimate authority, and operate fully out in the open.",
+   "ru": "–\nотдельные лица узнали, кем являются или кому служат\nперсонажи, но ещё не смогли убедить в этом народ.\nПоложительные эффекты\n0 По решению ведущего вы получаете +1 успех во всех\nпроверках, полагающихся на то, что человек, с\nкоторым вы имеете дело, верит, что вы связаны с\nИнквизицией, – например, броскам Командования и\nВзаимопонимания, которые аколиты подкрепляют\nавторитетом Святых Ордосов.\nОтрицательные эффекты\n0 По"
+  },
+  "278": {
+   "en": "Overt (Subtlety 4-2)",
+   "ru": "решению ведущего вы"
+  },
+  "282": {
+   "en": "When the party’s Subtlety Level is ",
+   "ru": "получаете -1 успех во всех\nпроверках,"
+  },
+  "284": {
+   "en": "Overt",
+   "ru": "предпринятых,"
+  },
+  "286": {
+   "en": ", no doubt remains about the party’s intentions: their status as Inquisitorial agents is public knowledge. With the Inquisition’s presence confirmed, public paranoia reaches a fever pitch as panic and self-preservation run rampant. Citizens tremble in fear of arbitrary punishment, hiding from sight and anxiously trying to prove innocence when accosted. The truly desperate may volunteer or fabricate incriminating information about friends and loved ones to save themselves from His judgement. Religious leaders attract flocks of distressed zealots suddenly eager to prove their piety. Civic unrest disrupts local industry and commerce while Administratum officials are loath to answer for those shortfalls and lean on manufactorum taskmasters to drive their serfs with increased brutality. Heretic cults swell as the lost and damned seek refuge from scrutiny. Some go to ground to avoid investigation, but others prepare for violent confrontation.",
+   "ru": "чтобы смешаться с\nлюдьми и избежать чужого внимания – например,\nВзаимопонимания (Обман) и Скрытности (Маскировка\nили Невидимка), особенно когда вы имеете дело в\nтеми, кто подозревает вас. Проверки Взаимопонимания\n(Сбора сведений), в ходе которых аколиты не\nприбегают к страху перед Инквизицией, также могут\nполучать этот штраф.\n0 Применение влияния вашего покровителя понижает\nсекретность на 1.\n\nVII СЕКРЕТНОСТЬ\nОтчаяние и ужас, что охватывают людей, уверенных\nво вмешательстве Святых Ордосов, могут быть, как\nпомехой, так и преимуществом. Паника и беспорядки\nозначают, что действия персонажей вызывают более\nявную реакцию (к добру или к худу), а избегать чужого\nвнимания становятся сложнее.\nВОЗМОЖНОСТИ\n«Губернатор, позвольте мне говорить прямо.\nГерой кампании в секторе Баттокс передал мне\nкомандование. Меня поддерживают арбитры\nдесятка субсекторов. Канонисса-супериор\nвосхваляет моё имя и предлагает мне помощь\nраньше, чем я успеваю её просить. Вы же правите\nзаштатным мирком, что едва не умирает с\nголоду. И вы"
+  },
+  "290": {
+   "en": "Maintaining Overt Subtlety typically requires the party to operate openly without camouflaging their affiliation with the Inquisition. While Subtlety is Overt, skulduggery, misdirection, and sowing doubt might reduce the public’s belief in the Inquisition’s presence, they need little convincing to understand the party’s allegiance or intentions. Either the party inadvertently drew enough attention through recklessness or negligence to tip their hand or intentionally announced their intent to wield their reputation more overtly",
+   "ru": "отказываете мне? Я предлагаю вам\nподумать ещё раз».\n- инквизитор Бэрен Патабо на совете с\nгубернатором Нахаси Ша’олским незадолго по\nпоявления Великого разлома\nКоманда уже прошла точку невозвращения, и\nвосстановить инкогнито будет очень непросто. Они\nмогут использовать свою новую известность, успев\nспрятать тайны, время для которых ещё не пришло.\nАколиты могут свободнее обращаться к другим\nимперским ведомствам. Впрочем, некоторые\nорганизации всё равно способны отказать в помощи –\nстоит запомнить, кто как повёл себя, оценить их\nверность Императору и Его Священным"
+  },
+  "294": {
+   "en": "Under Overt conditions, the desperation and dread gripping the public affects behaviour drastically, presenting an array of simultaneous boons and hindrances. Mechanically, this unrest and panic mean — for good or ill — the party’s actions tend to elicit more extreme responses than normal, and the party has a harder time avoiding notice.",
+   "ru": "Орденам, а\nпотом подумать над приговором.\nЕсли аколиты не хотят пока что размахивать розеттой\nгосподина или устраивать показательные процессы,\nони могут воспользоваться своим двусмысленным\nположением, чтобы подготовить удар. Одним\nмастерским движением расставьте все фигуры по\nместам, пока их маски ещё не сброшены.\nГруппа уже стала силой в округе – одно её"
+  },
+  "302": {
+   "en": "Overt Positive Effects",
+   "ru": "присутствие\nможетвынудитьвраговвысунутьносизлоговаинапасть\nнааколитовилипопытатьсявоспользоватьсяпоследней\nвозможностью"
+  },
+  "312": {
+   "en": "You have Advantage on all Tests relying on someone believing the party is affiliated with the Inquisition, such as Presence and Rapport Tests that evoke the Inquisition’s reputation.",
+   "ru": "к бегству – а это отличная возможность\nустроить ловушку и взять еретиков с поличным.\n (СЕКРЕТНОСТЬ 4-2)\nКогда подозрения превращаются в уверенность, никто\nне сомневается, что персонажи игроков"
+  },
+  "322": {
+   "en": "Overt Negative Effects:",
+   "ru": "служат\nИнквизиции."
+  },
+  "332": {
+   "en": "You have Disadvantage on all Tests relying on blending in or avoiding drawing attention, such as Rapport (Deception) and Stealth (Conceal or Hide). Inquiry Tests that do not leverage fear of the Inquisition suffer the same penalty.",
+   "ru": "Вмешательство Ордосов очевидно,\nпаранойя достигает апогея, вокруг распространяется\nпаника, а люди истерично пытаются себя защитить. Все\nдрожат, ожидая походя вынесенного приговора,\nпрячутся или начинают беспорядочно оправдываться,\nстоит с ними"
+  },
+  "342": {
+   "en": "Overt Opportunities",
+   "ru": "заговорить. Некоторые"
+  },
+  "348": {
+   "en": "‘Governor, let me speak plainly. The hero of the Battox Sector campaign lends me his armies freely. I am allied with the Arbitrators of a dozen sub-sectors. Adepta Sororitas Canonesses Superior speak my name in praise and offer me aid without my asking. You rule a backwater that barely avoids economic collapse. And yet, you refuse my demands? I invite you to reconsider.’",
+   "ru": "могут теряют\nголову и добровольно выдают или даже подделывают\nулики против друзей и возлюбленных, чтобы спасти\nсебя от Его правосудия. К пастырям стекаются\nфанатики, жаждущие доказать свою праведность.\nБеспорядки нарушают работу промышленности и\nторговлю, а поскольку Администратум не желает\nотвечать за падение выработки, заводские"
+  },
+  "356": {
+   "en": "— Inquisitor Baran Patahbo in council with Governor Nahasi of Sha’ol — pre-emergence of the Great Rift",
+   "ru": "бригадиры\nпринимаютсягонятьрабочихсудвоеннойжестокостью.\nКульты набирают силу, ведь пропащие и"
+  },
+  "362": {
+   "en": "Now, the party are far past the point of no return; it would be difficult to recover their anonymity. They should consider leaning into their new notoriety and, simultaneously, bury what secret pieces they still have in play and save them for when the time is right.",
+   "ru": "проклятые\nспешно ищут убежища. Кто-то из нечестивцев пытается\nзалечь на дно, чтобы избежать следствия, но другие\nготовятся к жаркому противостоянию.\nПоддержание такого уровня секретности обычно\nтребуется, чтобы действовать открыто, не скрывая\nсвоей связи с Инквизицией. В таком"
+  },
+  "366": {
+   "en": "Now they should be better positioned to request aid from other organisations within the Imperium. Yet some may withhold their support at this point — watch how the Factions react and gauge if they are truly loyal to the Emperor and His Holy Orders — and take note to condemn them later.",
+   "ru": "состоянии ложь\nи обманные манёвры могут поколебать веру людей во\nвмешательство Святых Ордосов, но никому не нужно\nвеских доводов, чтобы понять намерения персонажей и\nих связь с Инквизицией. Возможно, группа привлекла\nслишком много внимания в силу опрометчивости и\nнеуклюжести, а возможно – прямо огласила"
+  },
+  "370": {
+   "en": "If the party had been holding back on presenting their Inquisitor’s Rosette or publicly condemning an enemy, now would be the time when it would make the greatest impact. Move all their pieces in one great masterstroke before their identities and intentions are exposed.",
+   "ru": "свои\nнамерения, чтобы играть на собственной репутации.\nПоложительные эффекты\n0 Вы получаете преимущество во всех проверках,\nполагающихся на то, что человек, с которым вы имеете\nдело, верит, что вы связаны с Инквизицией, – например,\nброскам Командования и Взаимопонимания, которые\nаколиты"
+  },
+  "374": {
+   "en": "The party now operates as a known entity in the local sphere of influence. By presence alone, some enemies will reach out and openly attack the party or recognise it’s their last chance to flee from the Inquisition – the perfect opportunity for the party to set a trap and catch some heretics in the act.",
+   "ru": "подкрепляют авторитетом Святых Ордосов.\nОтрицательные эффекты\n0 Вы получаете помеху во всех проверках, предпринятых,\nчтобы смешаться с людьми и избежать чужого\nвнимания – например, Взаимопонимания (Обман) и\nСкрытности (Маскировка или Невидимка). Проверки\nВзаимопонимания (Сбора сведений), в ходе которых\nаколиты не прибегают к"
+  },
+  "378": {
+   "en": "Exposed (Subtlety 1)",
+   "ru": "страху перед Инквизицией,\nтакже"
+  },
+  "382": {
+   "en": "Once the party’s Subtlety reaches 1, they are ",
+   "ru": "получают этот штраф.\n\nVII СЕКРЕТНОСТЬ\nПубличность"
+  },
+  "384": {
+   "en": "Exposed",
+   "ru": "(секретность"
+  },
+  "386": {
+   "en": ". At this stage, the population behaves similarly to their behaviour under Overt conditions, but with even greater extremity. Also, the Inquisition’s ominous presence looms so blatantly that it can’t be ignored or forgotten anytime soon, leaving a lasting impact on the area’s disposition even after the Inquisition moves on to pursue other heresies. The party’s Subtlety remains at 1 and does not change regardless of their actions, even if those actions would normally increase or decrease Subtlety.",
+   "ru": "1)\nКогда секретность группы достигает значения 1,\nприсутствие Инквизиции становится публичным.\nПоведение людей напоминает то, что было при статусе\nуверенность, но ещё больше усугубляется. Зловещее\nприсутствие Инквизиции настолько явно, что его\nневозможноигнорироватьионёмнеполучитьсябыстро\nзабыть – это наложит отпечаток на всю округу, даже\nкогда Святые Ордосы отправятся ловить еретиков в\nдругие места. Секретность группы остаётся на уровне\n1 и не может поменяться благодаря её действиям,\nдаже тем, которые обычно повышают или"
+  },
+  "390": {
+   "en": "While Exposed, the Inquisition’s presence is so pervasive and widely recognised the public can’t be lulled back into doubt and disbelief by anything but time. Subtlety can’t increase again until after the current mission ends and the Inquisition, including the party, vacate the area (or at least appear to) for at least a week. After this time, the GM redetermines Subtlety if it becomes relevant later.",
+   "ru": "понижают\nсекретность.\nКогда Инквизиция действует публично, её присутствие\nтак всеобъемлюще и узнаваемо, что только время\nможет заставить людей забыть об этом. Секретность\nне может повыситься, пока не пройдёт хотя бы неделя\nпосле того, как задание будет завершено, а силы Святых\nОрдосов, включая персонажей, покинут эти места\n(или, по крайней мере, сделают вид, что покинули)."
+  },
+  "398": {
+   "en": "Exposed Positive Effects:",
+   "ru": "По\nистечениюэтоговремениведущийзановоустанавливает\nсекретность,"
+  },
+  "408": {
+   "en": "You gain +1 SL to any Test that uses your Patron’s Influence.",
+   "ru": "если это важно.\nВОЗМОЖНОСТИ\n«Тёмный час настал. Лотос, отправляйся"
+  },
+  "416": {
+   "en": "You have Advantage and gain +1 SL on all Tests relying on someone believing the party is affiliated with the Inquisition, such as Presence and Rapport Tests that evoke the Inquisition’s reputation.",
+   "ru": "к\nкомандору и вели начать блокаду планеты – никто\nне должен уйти с этого куска камня, пока\nпоследний мерзкий ксенос не будет уничтожен.\nСкарр, собирай церковников – путь защищают\nлюдей, а этому проклятому магосу"
+  },
+  "426": {
+   "en": "Exposed Negative Effects",
+   "ru": "вели закрыть\nего"
+  },
+  "436": {
+   "en": "You have Disadvantage and suffer −1 SL on all Tests relying on blending in or avoiding drawing attention, such as Rapport (Deception) and Stealth (Conceal or Hide). Inquiry Tests that do not leverage fear of the Inquisition suffer the same penalty.",
+   "ru": "мануфакторум. Карпат, поднимайся в шпиль,\nвозьми под контроль планетарный ретранслятор\nи прекрати эту болтовню. Я останусь на флагмане\n– Караул Смерти уже на подходе. Не подведите\nменя».\n- зашифрованное послание от инквизитора\nКонстана Серрана своим аколитам\nПриближается"
+  },
+  "446": {
+   "en": "Exposed Opportunities",
+   "ru": "эндшпиль, и группе"
+  },
+  "452": {
+   "en": "‘The darkest hour has come. Lothos, go to the fleet commander and have them blockade the planet – no one gets off this rock until the last foul xenos has been purged from the surface. Skarr, rally the Ministorum to gather and safeguard the people and tell that damned Magos to shut down their manufactorum. Karpath, ascend the spire and take control of the planetary relay, kill the chatter. I will remain on the flagship — know that the Deathwatch are coming. Do not fail me.’",
+   "ru": "стоит подумать\nнад тем, как он пройдёт. Время выбивать двери,\nхватать виновных, устраивать облавы на еретиков и\nобвинять от имени своего инквизитора. У вас больше\nнет возможности скрывать намерения или прятаться,\nно разве сейчас это требуется? Команду уже ничто не\nсдерживает – пора применять всю доступную власть,\nчтобы добиться успеха.\nПомощь должна приходить со всех нейтральных\nимперских служб – никто не в силах закрыть глаза на\nзапрос Инквизиции или проигнорировать его.Влияние\nгосподина станет только весомее. С"
+  },
+  "460": {
+   "en": "— Encoded Missive from Inquisitor Konstan Serranus to his acolytes",
+   "ru": "другой стороны,\nвраги начнут действовать отчаяннее, чем прежде."
+  },
+  "466": {
+   "en": "This is the time for the party to figure out their endgame. Time to kick down doors, make arrests, openly purge the heretics and proclaim denouncements on behalf of their Inquisitor. There’s no further chance to hide their intentions or sneak around, but at this point, should they need to? Nothing is holding the party back from using the full force of their authority to complete the mission at hand.",
+   "ru": "Если\nаколиты рушат великий замысел еретика, то каким бы\nбезумцем тот не был, он поймёт, что терять нечего, и\nприведёт в действие самые ужасные планы.\nНаконец, персонажи должны осознавать, какой страх\nони вызывают, особенно в сердцах предполагаемых\nсоюзников. Многие покажут своё истинное лицо,\nпроявив слабость или неуместное рвение. Когда\nсчитавшиеся надёжными источники могут сообщить\nложные сведения потому что сочтут это лучшим\nвариантом,"
+  },
+  "470": {
+   "en": "Resources should flow to them from all neutrally-allied local Factions of the Imperium — no request should go unnoticed or unfulfilled. Their patron’s influence will go the extra mile with these organisations. On the other hand, their enemies will grow more desperate than they ever have been. If the party has been chipping away at the heretic’s grand designs, madness won’t discount the realisation that they have little left to lose and bring their worst plans to bear.",
+   "ru": "чем не сообщить ничего. Другие могут\nснабдить аколитов неподходящим снаряжением,\nпотому что иного нет, а оставлять Инквизицию без\nэкипировки нельзя. Героям как никогда нужно держать\nухо востро с каждым, с кем они имеют дело.\nПоложительные эффекты\n0 Вы получаете +1 успех в любой проверке, что\nиспользует влияние вашего покровителя.\n0 Вы получаете преимущество и +1 успех во всех\nпроверках, полагающихся на то, что человек, с\nкоторым вы имеете дело, верит, что вы связаны с\nИнквизицией, – например, броскам"
+  },
+  "474": {
+   "en": "Last, the party should be aware of the fear their presence now garners, especially in the hearts of their supposed allies. Many will show their true colours in weakness or misplaced fervour. Once thought trustworthy, some sources may provide false information out of the sheer fear of having no information to give up. Others might supply the party with tools unfit for the job, more fearful of giving the Inquisition nothing to work with. Now more than ever, the party must be vigilant with everyone they deal with.",
+   "ru": "Командования\nи Взаимопонимания, которые аколиты подкрепляют\nавторитетом Святых Ордосов.\nОтрицательные эффекты\n0 Вы получаете помеху и -1 успех во всех проверках,\nпредпринятых, чтобы смешаться с людьми и избежать\nчужого внимания – например, Взаимопонимания\n(Обман) и Скрытности (Маскировка или Невидимка).\nПроверки Взаимопонимания (Сбора сведений), в\nходе которых аколиты не прибегают к страху перед\nИнквизицией, также получают этот штраф."
+  }
+ }
+}

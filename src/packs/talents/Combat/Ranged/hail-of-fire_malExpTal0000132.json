@@ -2,7 +2,7 @@
   "name": "Hail of Fire",
   "type": "talent",
   "_id": "malExpTal0000132",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On Suppressive Fire: using Burst/Rapid Fire next turn will also count as using Suppressive Fire against the targets again</span></p><hr><p><span style=\"font-family: Arial\"><em>If you use the Suppressing Fire Talent against an enemy, then these enemies will also be affected by further Burst or Rapid Fire attacks as if they are being affected by the Suppressing Fire Talent simultaneously until your next turn. </em></span></p>",

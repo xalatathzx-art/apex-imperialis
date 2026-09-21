@@ -1,0 +1,141 @@
+{
+ "journal": "SJPyRkdBEOCtmD8R",
+ "journalName": "Sector Threats",
+ "page": "AsvUSCAPODzDNPr6",
+ "pageName": "Xandro Cosmar & Ankhet",
+ "name": "",
+ "runs": {
+  "6": {
+   "en": "Xandro Cosmar &amp; Ankhet",
+   "ru": ""
+  },
+  "16": {
+   "en": "Look out into the void and the stars, my friend. Anything and everything out there can be yours. You just have to want it bad enough.",
+   "ru": ""
+  },
+  "24": {
+   "en": "Threat Overview",
+   "ru": ""
+  },
+  "34": {
+   "en": "Xandro Cosmar",
+   "ru": ""
+  },
+  "36": {
+   "en": " is a Rogue Trader and Commander of the battlecruiser ",
+   "ru": ""
+  },
+  "38": {
+   "en": "Mortiferum Ludum",
+   "ru": ""
+  },
+  "40": {
+   "en": ", accompanied by his heretek advisor, the Tech-Priest Ankhet.",
+   "ru": ""
+  },
+  "48": {
+   "en": "Together, the pair form a cunning alliance: the overwhelming resources and freedom of movement afforded to a Rogue Trader, combined with a rogue Tech-Priest’s genius.",
+   "ru": ""
+  },
+  "56": {
+   "en": "Their ambitions are simple: to collect and study xenos artefacts discovered across distant worlds, using the guise of Imperium-approved xenocide as a cover for securing their plunder.",
+   "ru": ""
+  },
+  "66": {
+   "en": "Claiming descent from a long line of wealth stretching to the days before the Horus Heresy, Xandro Cosmar is a man accustomed to getting what he wants and has no qualms about using anything to get it. As a Rogue Trader and Commander of the Overlord-class battlecruiser ",
+   "ru": ""
+  },
+  "68": {
+   "en": "Mortiferum Ludum",
+   "ru": ""
+  },
+  "70": {
+   "en": ", Xandro has seen decades of service to the Imperium as a vanguard, seeking out new planets and exterminating any native intelligent life for the Emperor’s glory. He pursues this path not out of a sense of patriotism, but calculated greed.",
+   "ru": ""
+  },
+  "74": {
+   "en": "He is a dashing example of Rogue Trader propaganda. Despite decades of service, rejuvenat treatments have ensured that Xandro has retained much of his youthful looks. He prefers his long, jet-black hair tied back in a low ponytail and dresses in fashionable and elaborate clothing well suited for society functions or commanding the bridge. He sees himself as a cross between a collector of fine goods and a hunter of dangerous game. Having collected vast wealth and accolades, Xandro has grown bored of what the Imperium can provide within its borders, instead favouring his unparalleled freedom of travel, seeking out new and unknown worlds to plunder for novelties to add to his teeming collections.",
+   "ru": ""
+  },
+  "84": {
+   "en": "Xandro does not just collect xenos artefacts but also maintains a hidden menagerie of xenos creatures in the ",
+   "ru": ""
+  },
+  "86": {
+   "en": "Mortiferum Ludum",
+   "ru": ""
+  },
+  "88": {
+   "en": " for his amusement. A few of these wretched beasts are the last of their kind, so enthusiastically did Xandro hunt them to extinction. All are trophies, a personal tally of his exploits that, in his own mind at least, add to the glory of his name.",
+   "ru": ""
+  },
+  "92": {
+   "en": "Xandro is driven by the desire for others to recognise his own presumed magnificence. He sees himself as a clear successor to the deeds of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW]{Lord Solar Macharius}. Like the fabled hero, Xandro knows he has the will to bring hundreds of worlds to heel. Unlike the Lord Solar, Xandro has little qualms about using xenos technologies to achieve his objectives and sees himself as an innovator in this aspect, defying both the Lex Imperialis and the Imperial Creed in one heretical swoop. To him, the Macharian Crusade was a blueprint, one he could improve upon, and Xandro has absolute faith that it is only a matter of time before his conquests spark a new wave of zealots ready to follow him into the great unknown.",
+   "ru": ""
+  },
+  "96": {
+   "en": "The Rogue Trader has already begun collecting a cadre of admirers willing to follow him beyond the limits of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1.JournalEntryPage.7wLH7EP0cj0I6T30]{Astronomican}. Chief among his staff is his heretek advisor, Ankhet. In stark contrast to the Rogue Trader’s unsullied flesh, Ankhet is a heavily augmented Tech-Priest, having performed countless surgeries upon himself to the point that his silhouette is barely Human. Ankhet skitters along using a dozen or so appendages underneath his red robes, his visage is a cluster of unblinking eye lenses that twist and focus, surrounded by cables, tubes and vents.",
+   "ru": ""
+  },
+  "100": {
+   "en": "Despite their physical differences, Xandro recognised a kindred sadistic spirit in Ankhet. It did not take long for the two to strike a bargain. In exchange for Ankhet’s extensive knowledge of xenos technology and his heretical willingness to employ it to the Rogue Trade’s benefit, Xandro would take the Tech-Priest to the fringes of the Macharian Sector to continue his research away from the prying eyes of his @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Mechanicus} brethren and the Inquisition.",
+   "ru": ""
+  },
+  "104": {
+   "en": "Use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ipcjevVXtDR4XkNu]{Voidship Captain} stat-block to represent Xandro Cosmar, and the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.rilaQaBPslIRzGco]{Tech-Priest} stat-block to represent Ankhet.",
+   "ru": ""
+  },
+  "108": {
+   "en": "Resources",
+   "ru": ""
+  },
+  "112": {
+   "en": "The ",
+   "ru": ""
+  },
+  "114": {
+   "en": "Mortiferum Ludum",
+   "ru": ""
+  },
+  "116": {
+   "en": " carries a full complement of @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.pXsZLEawZr8Tf8Ym]{Armsmen}, who are acclimated to dangerous combat engagements in various hostile conditions. Ankhet is typically accompanied by @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.KTlRprKRb8XzlnAD]{Gun Servitors}, which he custom-builds for each mission.",
+   "ru": ""
+  },
+  "120": {
+   "en": "Xandro is also extremely wealthy and understands the value of using money to overcome most obstacles. Bribery comes to him naturally, as he needs officials to look the other way, and he has amassed countless favours from agents across the Adeptus Terra to make his life easier. Xandro might even be owed a favour with the characters' Patron. Xandro does not hide his wealth and is often adorned with trophies taken from the various xenos creatures — or species — that have died in his conquests. His most prized piece is a matched pair of bracelets bearing what he claims to be authentic @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#aeldari]{Aeldari} spirit stones, but he is not beyond parting with such pieces if they can save his neck, especially as there are some things solars cannot buy.",
+   "ru": ""
+  },
+  "124": {
+   "en": "Ankhet possesses a number of strange single-use inventions that use xenos technology as a basis. Many are unpredictable and dangerous but Ankhet has never really cared about collateral damage if given an opportunity to use his inventions on a threat.",
+   "ru": ""
+  },
+  "128": {
+   "en": "Methods",
+   "ru": ""
+  },
+  "132": {
+   "en": "Xandro and Ankhet make for useful recurring villains who know how to avoid Imperial incrimination. They dabble in dangerous technologies, often sending agents with sufficient deniability to seek out xenos artefacts to secure on their behalf. Xandro and Ankhet are usually in the right place at the right time. When new xenos technology is uncovered, they dabble in the Silent Trade or insert themselves into Inquisitorial investigations to pick over the bones or steal information.",
+   "ru": ""
+  },
+  "136": {
+   "en": "At the same time, Xandro knows how to cultivate connections and will not hesitate to invite characters to join him onboard his voidship, helping them in their adventures so he can keep a close eye on their activities and Patrons. The sooner he can convert characters from potential threats to pawns in his schemes, the better. In the case of the characters, Xandro can appear initially as a Contact or collaborator, then stab the party or their Patron in the back when it best suits his interests.",
+   "ru": ""
+  },
+  "140": {
+   "en": "Xandro might make a play to become the characters' new Patron, using his network of spies to seek out blackmail on the characters' Patron and offer himself as a better alternative who understands their needs and provides the freedom some characters might crave. Against an Inquisitor, this is a headstrong gambit indeed, and characters who accept this deal would quickly find themselves branded a traitor, but Xandro thinks himself the centre of a cult of personality and would certainly try.",
+   "ru": ""
+  },
+  "144": {
+   "en": "Secrets",
+   "ru": ""
+  },
+  "148": {
+   "en": "There are many elements of Xandro’s practices which fall well within the freedoms allowed him by his Dynasty’s @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.h6Z6Ia2q5RkRUlDG]{Warrant of Trade}. Hatred for the xenos is a virtue, and Xandro’s frequent hunts and purges are eccentric at worst. However, his willingness to work with xenos technology is a proscribed activity he knows well enough to hide. Equally, his goal of wishing to lead another crusade would be seen by some as laudable, but his means and methods again betray him. Any conquest gained by means of xenos artefacts would be cursed from the outset, as such objects are not to be trusted. Nevertheless, there are Inquisitors who would embrace even this aspect of Xandro’s methods, believing it is only righteous to turn the tools of the enemy against them. Xandro himself is not so deep a thinker — anything that can bring him the victory and glory that is so obviously his right is by definition a good, even if it must be kept secret for now.",
+   "ru": ""
+  },
+  "152": {
+   "en": "Ankhet has secrets he has kept even from his Rogue Trader accomplice. Many standard years ago, he began integrating xenos technologies into his own form, especially within his various cogitation implants. At first these additions, drawn from an ancient calculation array found in aeons-old ruins beneath the acid soils of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.59y8WFXTbwKRwiRI]{Voll}, only enhanced his abilities. As time has worn on, however, these modifications have affected his thinking deeply. During his brief maintenance cycles, he sees plans for vast planetary machinery that could alter the biosphere of entire worlds, leaving them so utterly toxic that no Human could hope to survive even a momentary exposure. Nevertheless, he feels a deep compulsion to build such a device and deploy it, despoiling a habitable world to make it suitable for beings he cannot name, and who are surely long dead. For now, he is happy to assist Xandro, as it allows him more time to refine his plans and find the materials necessary to put them into effect.",
+   "ru": ""
+  }
+ }
+}

@@ -1,0 +1,16 @@
+{
+  "strategy": "preserve-source-uuid-owners",
+  "sourceModules": {
+    "impmal-core": { "packs": ["actors", "items", "journal", "tables", "scenes"], "runtime": ["impmal-core.js"], "styles": ["impmal-core.css"] },
+    "impmal-inquisition": { "packs": ["actors", "items", "journal", "tables"], "runtime": ["initialization.js", "scripts/familiar-model.js", "scripts/familiar-sheet.js", "scripts/inquisitor-sheet.js"], "styles": ["styles/familiar.css"] },
+    "impmal-requisition": { "packs": ["actors", "items", "journal", "tables"], "runtime": ["initialization.js"], "styles": [] },
+    "impmal-voll": { "packs": ["actors", "items", "journal", "tables", "scenes"], "runtime": ["initialization.js"], "styles": [] },
+    "impmal-malexp": { "packs": ["malexp_bestiary", "malexp_talents"], "runtime": [], "styles": [], "manifest": null },
+    "navis-apexialis": { "packs": ["navis-species", "navis-items", "navis-talents", "navis-bestiary", "navis-rules"], "runtime": ["module/navis-apexialis.js"], "styles": ["styles/navis-skin.css", "styles/implants.css"] }
+  },
+  "collisions": [
+    "actors/items/journal/tables/scenes pack names repeat across official modules; they cannot be copied under navis-apexialis without changing UUID namespaces",
+    "impmal-malexp has no module.json and is therefore not a loadable Foundry module in its current directory"
+  ],
+  "decision": "Keep original official modules as UUID owners; navis-apexialis requires them and remains the consolidated orchestration/translation layer."
+}

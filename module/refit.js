@@ -32,6 +32,23 @@ export function el(tag, className, text) {
 
 export const clamp = (value, lo, hi) => Math.min(hi, Math.max(lo, value));
 
+/**
+ * Does this sheet render impmal's NPC anatomy?
+ *
+ * Not `actor.type === "npc"`. impmal-inquisition's familiar is an actor type of
+ * its own — `impmal-inquisition.familiar` — built on the very same markup: the
+ * same `.npc-header`, the same `npc-main.hbs` for the Main tab, and a sheet it
+ * registers under impmal's own `npc` class. The skin's NPC rules key on that
+ * class, so the set of sheets that need this refit is exactly the set the
+ * stylesheet already dresses. Asking the element keeps the two in step; asking
+ * the type would need a new branch for every module that adds a creature.
+ *
+ * @param {HTMLElement} element  the sheet's own element, as the render hook hands it over
+ */
+export function usesNpcSheet(element) {
+  return element?.classList?.contains("npc") ?? false;
+}
+
 /* ══════════════════════════════════════════════════════════════════════════
    CHAT — test cards
    ══════════════════════════════════════════════════════════════════════ */
@@ -309,6 +326,68 @@ export function refitNpcHeader(header, labels = {}) {
     fill.style.setProperty("--navis-fill", `${max > 0 ? clamp((value / max) * 100, 0, 100) : 0}%`);
     meter.append(fill);
     woundsBox.append(meter);
+  }
+
+  refitInstincts(header, labels);
+}
+
+/**
+ * The familiar's two extra boxes, laid out like the six above them.
+ *
+ * impmal-inquisition's familiar header ends with a row its own template gets
+ * wrong twice: the box holding the two instinct dropdowns is captioned
+ * `IMPMAL.Encumbrance`, so the sheet shows "Нагрузка" twice running, and it
+ * asks for `flex: 3` — which buys it nothing, because the skin dissolves the
+ * template's rows (`.attribute-row { display: contents }`) and places every box
+ * in one six-column grid. The box lands in a single track beside Cost, 78px
+ * wide, and two dropdowns holding real words render as empty arrows.
+ *
+ * Their template is not ours to edit — the same reason the compendium
+ * translations live in Babele rather than in a patched pack — so the row is
+ * rebuilt here: one box per instinct, correctly captioned, and marked for the
+ * stylesheet to give each a third of the second line.
+ *
+ * On an NPC there is no preservation select and the pass returns untouched.
+ */
+function refitInstincts(header, labels = {}) {
+  const preservation = header.querySelector('select[name="system.instincts.preservation"]');
+  const combat = header.querySelector('select[name="system.instincts.combat"]');
+  const box = preservation?.closest(".attribute-box");
+  if (!preservation || !combat || !box) return;
+
+  // Marks the header for the familiar's own grid: the six vitals on the first
+  // line, Cost and the two instincts as equal thirds on the second.
+  header.classList.add("navis-familiar-vitals");
+  header.querySelector('input[name="system.cost"]')?.closest(".attribute-box")?.classList.add("navis-cost");
+
+  const caption = (node, short, full) => {
+    const label = node.querySelector(".label label, .label a") ?? node.querySelector(".label");
+    if (!label) return;
+    label.textContent = short;
+    label.dataset.tooltip ??= full;
+  };
+
+  // The box already on the page becomes Preservation: keeping it keeps the
+  // select where it is, and Foundry's form submission is bound to the name.
+  box.style.removeProperty("flex");
+  box.classList.add("navis-instinct");
+  caption(box, labels.preservationShort ?? "Preservation", labels.preservationInstinct ?? "Preservation Instinct");
+
+  const combatBox = el("div", "attribute-box top-label navis-instinct");
+  const label = el("div", "label");
+  label.append(el("label", null, labels.combatShort ?? "Combat"));
+  label.querySelector("label").dataset.tooltip = labels.combatInstinct ?? "Combat Instinct";
+  const field = el("div", "field");
+  field.append(combat);
+  combatBox.append(label, field);
+  box.after(combatBox);
+
+  // The `.field` that held the combat select has to go with it: the skin draws
+  // a "/" between two fields of one box — right for "5 / 22", a stray slash
+  // under a lone dropdown. Not `:empty`, which the template's own indentation
+  // defeats: a field is spent when it has no control left.
+  for (const field of box.querySelectorAll(":scope > .field")) {
+    if (!field.querySelector("input, select, textarea, a")) field.remove();
   }
 }
 

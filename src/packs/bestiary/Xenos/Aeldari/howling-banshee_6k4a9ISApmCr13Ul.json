@@ -3,7 +3,7 @@
   "name": "Howling Banshee",
   "type": "npc",
   "_id": "6k4a9ISApmCr13Ul",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Blademistress",
       "type": "trait",
       "_id": "w8VL02AHFWMLE0EG",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Howling Banshee Mask",
       "type": "trait",
       "_id": "CUUZVxNgTRH2z1Li",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Psychic Sensitivity",
       "type": "trait",
       "_id": "gYEFgIJiZXqpSevz",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -426,7 +426,7 @@
       "name": "Shuriken Pistol",
       "type": "weapon",
       "_id": "9sTHwzJ2mMER7R7D",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -503,7 +503,7 @@
       "name": "Eldar Power Sword",
       "type": "weapon",
       "_id": "u8C6HgIZDfemlM5v",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -574,7 +574,7 @@
       "name": "One-Handed",
       "type": "specialisation",
       "_id": "lyrS7mqbkQuMgcdZ",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -603,7 +603,7 @@
       "name": "Acrobatics",
       "type": "specialisation",
       "_id": "RqBuvtL7BTK5Rkyz",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -632,7 +632,7 @@
       "name": "Dodge",
       "type": "specialisation",
       "_id": "asMM6s61Tu72Npj1",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

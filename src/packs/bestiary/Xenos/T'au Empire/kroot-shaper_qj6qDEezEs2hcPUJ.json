@@ -3,7 +3,7 @@
   "name": "Kroot Shaper",
   "type": "npc",
   "_id": "qj6qDEezEs2hcPUJ",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Ambusher",
       "type": "trait",
       "_id": "wB86nC8qdIE2HYOh",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Shamanic Powers",
       "type": "trait",
       "_id": "fhtxKgtRqZhFly0N",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Stealthy Hunter",
       "type": "trait",
       "_id": "Bg7OSVjRoFiCydQH",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -426,7 +426,7 @@
       "name": "Kroot Rifle (Shooting)",
       "type": "weapon",
       "_id": "qHQh0hlXZXLuIvJa",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -503,7 +503,7 @@
       "name": "Kroot Rifle (Blades)",
       "type": "weapon",
       "_id": "XDsYZoYvVn6EkjUC",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -573,7 +573,7 @@
       "name": "Surface",
       "type": "specialisation",
       "_id": "qGMrAg1iUG40UisY",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -602,7 +602,7 @@
       "name": "Leadership",
       "type": "specialisation",
       "_id": "ZxFSQ4iUxjvpRnVV",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -631,7 +631,7 @@
       "name": "Hide",
       "type": "specialisation",
       "_id": "zu4B1SFdVOVMZ6wi",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -660,7 +660,7 @@
       "name": "Move Silently",
       "type": "specialisation",
       "_id": "QIG1lYghERtlSigb",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

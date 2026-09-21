@@ -1,0 +1,129 @@
+{
+ "journal": "QbQ7dTzbEVJyBLXJ",
+ "journalName": "Interminable Devotion",
+ "page": "MbWSJCh5GLhtUKvE",
+ "pageName": "Aftermath",
+ "name": "Развязка",
+ "runs": {
+  "2": {
+   "en": "With @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} defeated or lost, his plan foiled, and the formula for his @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{chemical communion} recovered or destroyed, @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-dalal]{Hive Dalal} and the reputation of @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#nethecare]{House Nerthecaré} have been spared horrific damage. The party can return to the ",
+   "ru": "Когда @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре} повержен или пропал, его план сорван, а формула @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химического причастия} добыта или уничтожена, @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-dalal]{улей Далал} и репутация @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#nethecare]{дома Нетекаре} избавлены от ужасного урона. Отряд может вернуться на "
+  },
+  "4": {
+   "en": "Interminable Devotion",
+   "ru": "«Нескончаемую преданность»"
+  },
+  "6": {
+   "en": " and contact their Patron for extraction. @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{Curator Varness}, if she is in good standing with the party, will back their version of events and thank the party for thwarting Vesterick Nethecaré’s plan.",
+   "ru": " и связаться с покровителем для эвакуации. @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{Куратор Варнесс}, если отряд у неё на хорошем счету, подтвердит версию персонажей и поблагодарит их за то, что они сорвали замысел Вестерика Нетекаре."
+  },
+  "10": {
+   "en": "The characters make arrangements to recover the Capitol Imperialis if their Patron tasked them to do so. However, if they do not, @UUID[.u9wPwSqM2FTyo8pg#mathus-49]{Mathus-49} contacts his superiors, and the craft is eventually recovered by @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth's} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus} before undergoing a significant retrofit for future deployment. Some NPCs the characters encountered could become Contacts or available as hirelings in their future adventures, such as @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{Curator Varness} and @UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Old Hinji}.",
+   "ru": "Если покровитель поручил персонажам вернуть «Капитолий Империалис», они договариваются об этом. Если же нет, @UUID[.u9wPwSqM2FTyo8pg#mathus-49]{Мальтус-49} связывается с начальством, и в конце концов машину забирает @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус} @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{улья Рокарт}, чтобы основательно переоснастить её для будущего развёртывания. Некоторые NPC, встреченные персонажами, могут стать контактами или наёмниками в будущих приключениях, например @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{куратор Варнесс} и @UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Старый Хинджи}."
+  },
+  "16": {
+   "en": "Experience Points",
+   "ru": "Очки опыта"
+  },
+  "20": {
+   "en": "All characters should earn @Reward[xp=30 reason=Interminable Devotion]{30 XP} for participating in the adventure. If any characters achieved personal goals or fulfilled a goal for their Patron, their reward should be increased accordingly. In addition, the following experience can be awarded:",
+   "ru": "Все персонажи должны получить @Reward[xp=30 reason=Interminable Devotion]{30 ОО} за участие в приключении. Если кто-то из них достиг личных целей или выполнил задачу покровителя, награду стоит соответственно увеличить. Кроме того, можно начислить следующий опыт:"
+  },
+  "28": {
+   "en": "@Reward[xp=10 reason=Reached the Interminable Devotion]{10 XP} for reaching the ",
+   "ru": "@Reward[xp=10 reason=Reached the Interminable Devotion]{10 ОО} за то, что добрались до "
+  },
+  "30": {
+   "en": "Interminable Devotion",
+   "ru": "«Нескончаемой преданности»"
+  },
+  "32": {
+   "en": " in Part 1.",
+   "ru": " в части 1."
+  },
+  "40": {
+   "en": "@Reward[xp=10 reason= Saved Scribe Hess]{10 XP} for saving @UUID[.u9wPwSqM2FTyo8pg#scribe-hess]{Scribe Hess} in Part 2.",
+   "ru": "@Reward[xp=10 reason= Saved Scribe Hess]{10 ОО} за спасение @UUID[.u9wPwSqM2FTyo8pg#scribe-hess]{писаря Хесса} в части 2."
+  },
+  "48": {
+   "en": "@Reward[xp=10 reason=Vented the chemical communion]{10 XP} for venting the @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{chemical communion} in Part 3.",
+   "ru": "@Reward[xp=10 reason=Vented the chemical communion]{10 ОО} за то, что выпустили @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химическое причастие} в части 3."
+  },
+  "56": {
+   "en": "@Reward[xp=10 reason=Figured out Medicae Roderick's true identity]{10 XP} for figuring out @UUID[.u9wPwSqM2FTyo8pg#medicae-roderick]{Medicae Roderick}’s true identity.",
+   "ru": "@Reward[xp=10 reason=Figured out Medicae Roderick's true identity]{10 ОО} за то, что раскрыли истинную личность @UUID[.u9wPwSqM2FTyo8pg#medicae-roderick]{медикуса Родерика}."
+  },
+  "64": {
+   "en": "@Reward[xp=20 reason=Confronted Vesterick Nethecaré]{20 XP} for confronting @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} in the ruins.",
+   "ru": "@Reward[xp=20 reason=Confronted Vesterick Nethecaré]{20 ОО} за противостояние с @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестериком Нетекаре} в руинах."
+  },
+  "72": {
+   "en": "@Reward[xp=20 reason=Acquired or destroyed Vesterick Nethecaré formula]{20 XP} for acquiring or destroying @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré}’s formula.",
+   "ru": "@Reward[xp=20 reason=Acquired or destroyed Vesterick Nethecaré formula]{20 ОО} за то, что добыли или уничтожили формулу @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерика Нетекаре}."
+  },
+  "80": {
+   "en": "Influence",
+   "ru": "Влияние"
+  },
+  "84": {
+   "en": "Award or reduce the character's Personal Influence according to their behaviour towards the factions they have encountered — primarily House Nethecaré as a result of sparing their reputation from their misbegotten sons' planned sabotage. Additionally, increase or reduce each character’s Personal Influence according to their behaviour and decisions surrounding the fate of NPCs who related to the wider factions at work throughout the Macharian Sector. These factions include the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Adeptus Administratum}, The @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Astra Militarum} and the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionists} (Trackless Chain). As a result these effects may in turn influence their Patron’s influences depending on their behavior. Aim to award (or detract) at least one point to each character and their Patron.",
+   "ru": "Повысьте или понизьте личное влияние персонажей в зависимости от их поведения по отношению к встреченным фракциям — прежде всего к дому Нетекаре, чью репутацию они уберегли от задуманной его непутёвым отпрыском диверсии. Кроме того, повысьте или понизьте личное влияние каждого персонажа в зависимости от его поведения и решений о судьбе NPC, связанных с более крупными фракциями, действующими в секторе Махарий. К ним относятся @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Адептус Администратум}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум} и @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{одиночки} (Бесследная Цепь). В зависимости от поведения персонажей эти изменения могут, в свою очередь, сказаться и на влиянии их покровителя. Постарайтесь начислить (или снять) хотя бы одно очко каждому персонажу и его покровителю."
+  },
+  "88": {
+   "en": "Failure",
+   "ru": "Провал"
+  },
+  "92": {
+   "en": "Should the party fail to capture or eliminate @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} before the massive creature he refers to as his ‘father’ can seize him, they must retreat from the crumbling ruins empty-handed. Leaving the rubble behind and despite seeing their adversary carried off by some gargantuan creature, the party won’t be able to shake the feeling that the noble is still out there.",
+   "ru": "Если отряду не удастся схватить или уничтожить @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерика Нетекаре} прежде, чем его подхватит огромное существо, которое он называет «отцом», персонажам придётся отступить из рушащихся руин ни с чем. Покидая развалины, персонажи, хотя и видели, как их противника унесла какая-то исполинская тварь, не могут отделаться от чувства, что дворянин всё ещё где-то там."
+  },
+  "96": {
+   "en": "@UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Old Hinji }reinforces this feeling, if he is still alive at this point in the adventure, who speaks it aloud to the party. Without Vesterick Nethecaré or the formula for his chemical communion, the party must trek back to the ",
+   "ru": "@UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Старый Хинджи}, если он к этому моменту ещё жив, укрепляет это чувство, произнося его вслух. Без Вестерика Нетекаре и без формулы его химического причастия отряду придётся тащиться обратно к "
+  },
+  "98": {
+   "en": "Devotion",
+   "ru": "«Преданности»"
+  },
+  "100": {
+   "en": " with a strange disquiet heavy in their guts.",
+   "ru": " с тяжёлым, странным беспокойством на душе."
+  },
+  "104": {
+   "en": "Otherwise, there may be a chance that @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} is somewhat successful and escaped with his formula. The next time the party encounters the noble, it may be to thwart his plans to infect @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-dalal]{Hive Dalal} with his @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{chemical communion}, turning the populace mad and drawing a massive population of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi }to attack the hive.",
+   "ru": "С другой стороны, возможно, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре} отчасти добился своего и сбежал с формулой. Следующая встреча отряда с дворянином может случиться, когда придётся срывать его план заразить @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-dalal]{улей Далал} своим @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химическим причастием}, свести население с ума и привлечь к улью огромные полчища @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади}."
+  },
+  "108": {
+   "en": "What’s Next?",
+   "ru": "Что дальше?"
+  },
+  "112": {
+   "en": "The end of this adventure has a few loose ends that could be spun into further adventures for your party. Consider the following:",
+   "ru": "По завершении приключения остаётся несколько незакрытых нитей, из которых можно сплести новые приключения для отряда. Например:"
+  },
+  "120": {
+   "en": "The ",
+   "ru": " "
+  },
+  "122": {
+   "en": "Interminable Devotion",
+   "ru": "«Нескончаемая преданность»"
+  },
+  "124": {
+   "en": " sits in ruins from the chaos that so recently wracked its decks. One of its vast tracks sprawls in broken disorder, while inside its mechanical guts, cables, relays and piping are laid bare. While the great engine has suffered extreme damage, it is not beyond repair. It would take a dedicated team and considerable resources to revive this iron leviathan — the race is on between the scavengers gangs, @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#nethecare]{House Nethecaré} and the local @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus}.",
+   "ru": " лежит в руинах после хаоса, недавно бушевавшего на её палубах. Одна из огромных гусениц беспорядочно раскинулась обломками, а в механическом нутре обнажены кабели, реле и трубы. Великая машина получила тяжелейшие повреждения, но её ещё можно восстановить. Чтобы возродить этого железного левиафана, понадобятся преданная делу команда и немалые ресурсы, — и за него уже развернулась гонка между бандами старьёвщиков, @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#nethecare]{домом Нетекаре} и местным @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус}."
+  },
+  "132": {
+   "en": "A whisper can be just as potent as any toxic chemical with a half-life powerful and persistent enough to cause a fallout. Upon returning to @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth}, some of the ",
+   "ru": "Шёпот бывает не менее опасен, чем любой ядовитый химикат, чей период полураспада достаточно долог и стоек, чтобы вызвать заражение. По возвращении в @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{улей Рокарт} некоторые из выживших с "
+  },
+  "134": {
+   "en": "Devotion’s",
+   "ru": "«Преданности»"
+  },
+  "136": {
+   "en": " survivors have been less than tight-lipped about what happened. Most were unaware of any noble involvement, but rumours of strange @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi }behaviour were rampant. Word has spread of a chemical that draws the typically skittish and hard-to-hunt acynadi together in large numbers. As a result, @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-stilt-fleet]{Stilt-fleets} and acynadi hunting teams are already searching for it. Such an agent would be worth a fortune to the @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#carnem]{Mercador Carnem}, but in the wrong hands could spell disaster.",
+   "ru": " не особенно держали язык за зубами. Большинство не знали о причастности знати, но слухи о странном поведении @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади} разошлись повсюду. Пошла молва о химикате, который собирает вместе в большом числе обычно пугливых и трудных для охоты ацинади. В результате @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-stilt-fleet]{флотилии ходульников} и охотничьи отряды на ацинади уже ищут его. Такое средство стоило бы целое состояние для @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#carnem]{Меркатор Карнем}, но в дурных руках может обернуться катастрофой."
+  }
+ }
+}

@@ -2,7 +2,7 @@
   "name": "Discipline of the Holy Trinity",
   "type": "talent",
   "_id": "malExpTal0000172",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">+1SL on Ranged Attacks using Bolt, Flamer, or Melta</span></p><hr><p><span style=\"font-family: Arial\"><em>The Sisters of Battle venerate the Holy Trinity of Bolter, Flamer, and Melta above all other weapons. You gain +1SL on Ranged Attacks using Bolt, Flamer, or Melta weapons. </em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "Faithful (Imperial Cult) Talent, must be a Sororitas OR have +2 influence with them",
-      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful(Imperial Cult)\")"
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful (imperial Cult)\")"
     },
     "test": {
       "difficulty": "challenging",

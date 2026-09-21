@@ -18,7 +18,7 @@
 
 export const label = "Предметы (Основная книга)";
 
-const U = (id, name) => `@UUID[Compendium.impmal-core.items.Item.${id}]{${name}}`;
+const U = (id, name) => `@UUID[Compendium.navis-apexialis.navis-core-items.Item.${id}]{${name}}`;
 
 /** Верхушка врезки: заголовок примеров и сами примеры курсивом. */
 const head = (title, examples) => `<p><strong>${title}</strong></p><p><em>${examples}</em></p>`;
@@ -87,7 +87,7 @@ export const entries = {
 
   bFXPJAp4GsM8TB8F: {
     en: "Voidborn",
-    description: head(`${EXAMPLES} кораблей`, "The Iron Archipelago, Arrian’s Wrath")
+    description: head(`${EXAMPLES} кораблей`, "Железный архипелаг, Гнев Арриана")
       + "<p>Вы родились в пустоте: то ли на имперском корабле — исполинском пустотном судне, "
       + "способном уходить в варп и странствовать меж звёзд, то ли на одном из множества "
       + "внутрисистемных судов, что никогда не покидают систему, где были построены, то ли "
@@ -108,7 +108,7 @@ export const entries = {
 
   i7qRAalBsnddJYeW: {
     en: "Shrine World",
-    description: head(`${EXAMPLES} миров-храмов`, "Macharia, St. Isidore's Rest")
+    description: head(`${EXAMPLES} миров-храмов`, "Махария, Упокоение святой Исидоры")
       + "<p>Вы родом с мира-храма — святой планеты, отданной служению Имперскому кредо. "
       + "Миры-храмы обычно тесно заставлены кафедрумами и храмами, переходящими один в другой, "
       + "укреплёнными базиликами в мили высотой и громадными святилищами Богу-Императору и "
@@ -160,8 +160,8 @@ export const entries = {
 
   "7E0Gkel1gSaxTgVu": {
     en: "Schola Progenium",
-    description: head(`${EXAMPLES} схол`, "The Schola of Our Lord Solar on Macharia, "
-      + "The Schola of St. Isodore's Beneficence on St. Isodore's Rest")
+    description: head(`${EXAMPLES} схол`, "Схола нашего лорда-соляра на Махарии, "
+      + "схола милосердия святой Исидоры на Упокоении святой Исидоры")
       + "<p>Где бы вы ни родились, вы этого не помните. Вы прогена — сирота, чьи родители "
       + "погибли на службе Империуму. Вас забрали в Схолу Прогениум, один из множества "
       + "приютов, что держит Экклезиархия на разных мирах Империума и где растят образцовых "

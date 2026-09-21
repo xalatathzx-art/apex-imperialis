@@ -1,0 +1,285 @@
+{
+ "journal": "2TukBjlkS5RG5Qka",
+ "journalName": "Inquisition Contacts",
+ "page": "cRcDNREGRQvZvuPl",
+ "pageName": "Inquisition Contacts",
+ "name": "",
+ "runs": {
+  "8": {
+   "en": "No Inquisitor or Interrogator is without a web of contacts to feed them information or provide easier access to their faction’s resources and knowledge. In the field, most acolytes quickly learn to follow their superior’s example and cultivate a local network of spies and informants. An acolyte’s contacts can feed them valuable information and useful resources to further their mission or uncover the heresies hidden around them. Despite outward appearances, the Imperium is a turbulent sea of competing agendas and ruinous intrigue, where who you know and how credible a threat you pose are often far more important considerations than what is right or expedient.",
+   "ru": ""
+  },
+  "12": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#personal-influence]{Contacts} are valuable tools for players. They are often a more expedient, not to mention interesting, way to get what they want from a Faction without going through the front door. For GMs, Contacts can begin as simple NPCs, a means of conveying information about a specific mission, who can later evolve into significant characters who their players care about. Contacts like these can generate twists and turns in the plot, come to player characters with problems that honour demands they solve, and be a reliable source of drama. A Contact going underground or disappearing entirely is a clear plot point for characters to investigate around their missions. Some might have perished in a player’s service, but others might backstab them and become a new enemy.",
+   "ru": ""
+  },
+  "16": {
+   "en": "Using Contacts",
+   "ru": ""
+  },
+  "20": {
+   "en": "Factions within the Adeptus Terra should provide Inquisitors and their acolytes with the services they need upfront. But often, bureaucracy and politicking behind the scenes can slow requests or stall them outright, particularly in situations such as:",
+   "ru": ""
+  },
+  "28": {
+   "en": "The Patron’s or characters' Influence with a Faction is too low or negative.",
+   "ru": ""
+  },
+  "36": {
+   "en": "Something the characters need from the Faction has highly restricted access.",
+   "ru": ""
+  },
+  "44": {
+   "en": "Publicly interacting with the Faction could negatively affect the mission’s security or the party’s @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz]{Subtlety}.",
+   "ru": ""
+  },
+  "52": {
+   "en": "Someone with significant regional authority inside the Faction is actively working against the characters or the Inquisition.",
+   "ru": ""
+  },
+  "60": {
+   "en": "However, gathering individual Contacts within the Adeptus Terra and Factions beyond can help parties avoid these blockades or overbearing official procedures. They can get what they need faster, without undue oversight, potentially revealing more information than they would have received otherwise.",
+   "ru": ""
+  },
+  "64": {
+   "en": "The following list represents what Contacts can provide to the characters and, the reasons for seeking them out:",
+   "ru": ""
+  },
+  "74": {
+   "en": "Access",
+   "ru": ""
+  },
+  "76": {
+   "en": ": Entrance to restricted facilities or off-limits areas, often without supervision",
+   "ru": ""
+  },
+  "86": {
+   "en": "Equipment",
+   "ru": ""
+  },
+  "88": {
+   "en": ": Faster requisition of restricted equipment or supplies (greater than ",
+   "ru": ""
+  },
+  "90": {
+   "en": "Common",
+   "ru": ""
+  },
+  "92": {
+   "en": " Availability)",
+   "ru": ""
+  },
+  "102": {
+   "en": "Information",
+   "ru": ""
+  },
+  "104": {
+   "en": ": Specialist or forbidden knowledge, intelligence regarding movements and rumours within the Contact’s Faction",
+   "ru": ""
+  },
+  "114": {
+   "en": "Protection",
+   "ru": ""
+  },
+  "116": {
+   "en": ": Asylum within a Faction’s facilities or security granted by their agents",
+   "ru": ""
+  },
+  "126": {
+   "en": "Services",
+   "ru": ""
+  },
+  "128": {
+   "en": ": Faster or discrete access to services the Contact’s Faction provides (such as medicae care, guidance, hirelings, or transportation)",
+   "ru": ""
+  },
+  "136": {
+   "en": "Additionally, Faction Contacts listed in the rest of this chapter show examples of unique Rewards they can provide when players go above and beyond in dealing with them. Do not forget that some Contacts may be actively seeking the aid of the Inquisition; they may bring something to the table with their request or begin cooperating with a higher initial Loyalty.",
+   "ru": ""
+  },
+  "140": {
+   "en": "Finding Contacts",
+   "ru": ""
+  },
+  "144": {
+   "en": "During a mission, characters can search for Contacts using an appropriate social or investigative Skill, such as ",
+   "ru": ""
+  },
+  "146": {
+   "en": "Intuition (Group or Human), Logic (Investigation), Lore (Adeptus Terra), or Rapport (Inquiry).",
+   "ru": ""
+  },
+  "152": {
+   "en": "The GM will determine the Difficulty of the Test, considering any associated problems present in the world. For example, the Test could have a lower Difficulty if their Influence with the Contact’s related Faction is in good standing or a higher Difficulty if the party’s Subtlety rating is low and the Contact may wish to avoid interacting with Inquisition acolytes.",
+   "ru": ""
+  },
+  "156": {
+   "en": "Outside of a mission, characters can encounter Contacts using the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX.JournalEntryPage.AuM2Lzd784VPe32b#consult-savant]{Consult Savant}, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.z9PTik4AMrYlbVhR#cultivate-network]{Cultivate Network}, and @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.z9PTik4AMrYlbVhR#secure-information-network]{Secure Information Network} Endeavours or simply by spending time making the Tests described above.",
+   "ru": ""
+  },
+  "160": {
+   "en": "The Influence characters have over their Contacts is recorded personally between the Contact and the characters. However, any Influence from related Factions is calculated with the Contact’s Influence, both positively and negatively.",
+   "ru": ""
+  },
+  "168": {
+   "en": "Example",
+   "ru": ""
+  },
+  "176": {
+   "en": "The characters have been working directly with Hogarth Drevet, a Ministorum preacher, for some time and garnered +2 Influence with him personally. However, the characters have −1 Influence with the Adeptus Ministorum, meaning they have a total of +1 Influence with Drevet. Due to his ties with the Ministorum, he must consider the Faction’s standing with the characters and act appropriately.",
+   "ru": ""
+  },
+  "184": {
+   "en": "When approaching a new Contact from an existing Faction, the Contact’s baseline Influence begins at the same level (or their Patron’s Influence, if they can reveal such information safely). Outside known Factions, the GM should choose the initial level of Influence based on the Contact’s first impressions of the characters, which could easily be negative. The GM should secretly track their level of Influence, revealing it to the characters only if they investigate the Contact’s background or behaviours directly.",
+   "ru": ""
+  },
+  "188": {
+   "en": "Characters who pursue the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX.JournalEntryPage.AuM2Lzd784VPe32b#consolidate-influence]{Consolidate Influence} Endeavour can negatively affect their Contact’s behaviour towards them. While their overall Influence with the related Faction improves, and any loss with their Contact’s personal Influence effectively balances out, the personal Influence decrease must be considered. The Contact may feel the characters have blatantly abused their Influence over them or unduly tied their reputation to any future actions the characters take — many believe Inquisition acolytes take foolish risks. The Contact may have witnessed this type of behaviour from the characters in the past.",
+   "ru": ""
+  },
+  "192": {
+   "en": "Managing Contacts",
+   "ru": ""
+  },
+  "196": {
+   "en": "Characters need to provide a means of secure communication with their Contacts. This could be as simple as setting up an established meeting place (perhaps their place of work or worship, away from prying eyes), building a communication network of cyphers and vox channels, or choosing a dead-drop location to pass letters.",
+   "ru": ""
+  },
+  "200": {
+   "en": "Players should meet regularly with their Contacts, whether they have new information or not. Most Contacts feel safer and more reciprocal if a character appears to care about their well-being. Characters can do this during their downtime (GMs are encouraged to give this time freely outside other Endeavours). Contacts left idle for too long might grow complacent or detached, causing their loyalty to degrade.",
+   "ru": ""
+  },
+  "204": {
+   "en": "A Contact’s attitude towards the characters aligns with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa]{Influence Table}, from the viewpoint of ‘",
+   "ru": ""
+  },
+  "206": {
+   "en": "This Contact Will Typically…",
+   "ru": ""
+  },
+  "208": {
+   "en": "’ instead of ‘Faction’.",
+   "ru": ""
+  },
+  "214": {
+   "en": "You have proven yourself",
+   "ru": ""
+  },
+  "218": {
+   "en": "Actions that can improve Influence with a Contact:",
+   "ru": ""
+  },
+  "226": {
+   "en": "The characters act to protect the Contact from enemies within their Faction.",
+   "ru": ""
+  },
+  "234": {
+   "en": "The characters act to protect the Contact from enemies outside their Faction or in the broader world (including the rest of the Inquisition).",
+   "ru": ""
+  },
+  "242": {
+   "en": "The characters work to fulfil the Contact’s personal requests.",
+   "ru": ""
+  },
+  "250": {
+   "en": "The characters aid the Contact with their Influence over other Factions or NPCs.",
+   "ru": ""
+  },
+  "258": {
+   "en": "The characters raise the Contact’s station in life, professionally or personally.",
+   "ru": ""
+  },
+  "266": {
+   "en": "Improving Influence with a Contact is more complicated than causing it to degrade — but definitively more manageable than changing the opinion of their entire Faction.",
+   "ru": ""
+  },
+  "274": {
+   "en": "You ask too much…",
+   "ru": ""
+  },
+  "278": {
+   "en": "Actions that can degrade Influence with a Contact:",
+   "ru": ""
+  },
+  "286": {
+   "en": "Asking the Contact to risk their own standing with their Faction",
+   "ru": ""
+  },
+  "294": {
+   "en": "Asking the Contact to do something unlawful or go against the Lex Imperialis",
+   "ru": ""
+  },
+  "302": {
+   "en": "Asking the Contact for something more than their level of Influence can provide",
+   "ru": ""
+  },
+  "310": {
+   "en": "Taking actions that place the Contact in danger",
+   "ru": ""
+  },
+  "318": {
+   "en": "The Contact suspects the characters are lying to them or hiding pertinent information",
+   "ru": ""
+  },
+  "326": {
+   "en": "Consider how the Contact feels about the Inquisition and whether the characters have revealed who their true master is to the Contact",
+   "ru": ""
+  },
+  "334": {
+   "en": "The characters have blackmailed the Contact to work for them (this may cause their Influence to be locked in place, rather than degrade — until the Contact finds a way to free themselves from the characters)",
+   "ru": ""
+  },
+  "342": {
+   "en": "Contacts that are mistreated or feel betrayed will make themselves hard to find or communicate with. Some within the Adeptus Terra may throw themselves upon the mercy of their Faction’s leaders, who may snub the party and their Patron by extension (possibly affecting their Influence). More radical elements may seek retaliation against the players' betrayal, becoming new enemies with their Faction’s backing behind them.",
+   "ru": ""
+  },
+  "348": {
+   "en": "Creating &amp; Making Contacts",
+   "ru": ""
+  },
+  "352": {
+   "en": "While Contacts can arise out of existing or incidental NPCs, GMs can prepare a handful of Contacts before their sessions. Consider what Factions the players are likely to interact with and choose or create suitable Contacts that have ties to these Factions. For example, if they need to gain access to an @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Administratum} datavault to follow a lead, an Administratum scribe would be an ideal Contact to make. But you could also consider an @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus} Tech-Priest who regularly maintains aspects of the datavault or an @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionist} thief who claims to know of a secret or unsecured entranceway.",
+   "ru": ""
+  },
+  "356": {
+   "en": "Often, characters encounter NPCs that the players come to adore or perhaps revile. These make excellent candidates for Contacts since they are already present in the world, have an established personality, and players may care deeply about what happens to them (for better or worse). Consider giving them a higher or lower initial Influence, depending on how their previous interactions with the characters went.",
+   "ru": ""
+  },
+  "360": {
+   "en": "As with the examples in the rest of this chapter, Contacts have a few key aspects you should consider when making your own:",
+   "ru": ""
+  },
+  "368": {
+   "en": "What base-level information or services can the Contact provide (often tied to their representative Faction)?",
+   "ru": ""
+  },
+  "376": {
+   "en": "What special rewards can the Contact provide players if they are treated well?",
+   "ru": ""
+  },
+  "384": {
+   "en": "What big favours might the Contact ask of the players, presented as small adventure hooks or things for the players to pursue during their downtime?",
+   "ru": ""
+  },
+  "392": {
+   "en": "What secrets does the Contact have that, if learned, the players could hold over them?",
+   "ru": ""
+  },
+  "400": {
+   "en": "Who or what is the Contact’s true master? Who are they more afraid of versus the players? Does the Contact have any privileged or dangerous information about them?",
+   "ru": ""
+  },
+  "408": {
+   "en": "Find an existing stat-block in ",
+   "ru": ""
+  },
+  "410": {
+   "en": "Imperium Maledictum",
+   "ru": ""
+  },
+  "412": {
+   "en": " or another supplement that closely matches the type of Contact you are creating. What other Skills, Traits, or Equipment does the character need?",
+   "ru": ""
+  }
+ }
+}

@@ -2,7 +2,7 @@
   "name": "Клинок Старца Самуила",
   "type": "navis-apexialis.implant",
   "_id": "navisImp00000131",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00007",
   "sort": 13100,
   "system": {

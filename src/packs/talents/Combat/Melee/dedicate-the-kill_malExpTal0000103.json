@@ -2,7 +2,7 @@
   "name": "Dedicate the Kill",
   "type": "talent",
   "_id": "malExpTal0000103",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Spent Movement action to nominate target in LoS. Personally killing the target recovers 1 FP</span></p><hr><p><span style=\"font-family: Arial\"><em>You are a devout believer that only offerings of flesh and blood can appease your God. During an encounter, you may sacrifice your movement for the turn to nominate an Elite or Leader level enemy in line of sight as your target. You may nominate a new target by sacrificing your movement again, but this replaces the previous target. If you personally kill your target in melee combat, you regain 1 spent Fate Point. </em></span></p>",

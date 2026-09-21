@@ -3,7 +3,7 @@
   "name": "Beastmaster",
   "type": "npc",
   "_id": "mA2YoAblWFrySMaP",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Power from Pain",
       "type": "trait",
       "_id": "EvkB2wU0f1m5Qc6S",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Skyboard",
       "type": "trait",
       "_id": "zScZnI2q9tR5iMss",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Splinter Pods",
       "type": "weapon",
       "_id": "1WNdf5RXML88Tl64",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -444,7 +444,7 @@
       "name": "Impaler",
       "type": "weapon",
       "_id": "WBebogYYJebK6qsq",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -515,7 +515,7 @@
       "name": "Pain",
       "type": "specialisation",
       "_id": "7wYifBlAO5aae5Fn",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -544,7 +544,7 @@
       "name": "Aeronautica",
       "type": "specialisation",
       "_id": "jTFCmwFqTqtyddd6",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -573,7 +573,7 @@
       "name": "Intimidation",
       "type": "specialisation",
       "_id": "nv9YJyO7QoIO9Nf7",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -602,7 +602,7 @@
       "name": "Acrobatics",
       "type": "specialisation",
       "_id": "X5ZwTAd255UAG05h",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -631,7 +631,7 @@
       "name": "Animals",
       "type": "specialisation",
       "_id": "jVLOirW9rFS2vG7X",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

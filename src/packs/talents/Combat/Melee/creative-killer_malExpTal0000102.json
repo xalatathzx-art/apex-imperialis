@@ -2,7 +2,7 @@
   "name": "Creative Killer",
   "type": "talent",
   "_id": "malExpTal0000102",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Choose an appropriate Low-Tech melee weapon profile for improvised weapon</span></p><hr><p><span style=\"font-family: Arial\"><em>When you attack with an Improvised Weapon (CRB pg. 128), you may count its profile as being an appropriate Low-Tech melee weapon instead. </em></span></p>",

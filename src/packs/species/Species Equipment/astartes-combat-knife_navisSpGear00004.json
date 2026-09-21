@@ -2,7 +2,7 @@
   "name": "Astartes Combat Knife",
   "type": "weapon",
   "_id": "navisSpGear00004",
-  "img": "modules/impmal-core/assets/icons/weapons/melee-weapon.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
   "folder": "navisSpFolder004",
   "sort": 400,
   "system": {

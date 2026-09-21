@@ -2,14 +2,23 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import fs from "node:fs";
 import { collectionSummary } from "../tools/dump-installed-pack.mjs";
-import { RU } from "../src/lang/ru.mjs";
+import { RU, OURS } from "../src/lang/ru.mjs";
+import os from "node:os";
+import path from "node:path";
+import { readPack, partition } from "../tools/lib/level.mjs";
 
 const root = new URL("../", import.meta.url);
 const index = JSON.parse(fs.readFileSync(new URL("src/compendium/packs-index.json", root), "utf8"));
 
+// The Voll pack was folded into navis-apexialis, so the Babele file the build
+// emits is keyed by the consolidated collection, not the official one. The
+// inventory assertions still speak in official names, so translate here.
+const babeleFile = collection =>
+  `navis-apexialis.${collection.replace(/^impmal-([a-z]+)\.(.+)$/, "navis-$1-$2")}`;
+
 const readTranslation = collection => {
-  const target = new URL(`compendium/${collection}.json`, root);
-  assert.ok(fs.existsSync(target), `${collection}.json has not been built`);
+  const target = new URL(`compendium/${babeleFile(collection)}.json`, root);
+  assert.ok(fs.existsSync(target), `${babeleFile(collection)}.json has not been built`);
   return JSON.parse(fs.readFileSync(target, "utf8")).entries;
 };
 
@@ -40,9 +49,17 @@ for (const collection of ["actors", "items", "journals", "tables", "scenes"]) {
   });
 }
 
+
+// The official modules were folded into this one, so their lang/en.json files
+// are gone. What survives is their code in official/ and their templates, and
+// every localisation key that code still asks for must have Russian.
+const usedKeys = files => [...new Set(files.flatMap(file =>
+  [...fs.readFileSync(new URL(`../${file}`, import.meta.url), "utf8").matchAll(/["'`](IMPMAL\.[A-Za-z0-9_.]+)["'`]/g)].map(m => m[1])
+))];
+
 test("every Voll interface key has a Russian translation", () => {
-  const english = JSON.parse(fs.readFileSync(new URL("../impmal-voll/lang/en.json", root), "utf8"));
-  assert.deepEqual(Object.keys(english).filter(key => !RU[key]), []);
+  const keys = usedKeys(["official/voll-initialization.js"]);
+  assert.deepEqual(keys.filter(key => !RU[key] && !OURS[key]), []);
 });
 
 const protectedMarkup = text => {
@@ -57,10 +74,19 @@ const protectedMarkup = text => {
   };
 };
 
-test("Voll journal translation preserves protected Foundry and HTML markup", () => {
+// The reference is the pack as it ships now, read from a copy so the test runs
+// with Foundry open. An old dump of the official module would still carry its
+// asset paths, which the consolidation moved under this module.
+async function currentPages() {
+  const copy = fs.mkdtempSync(path.join(os.tmpdir(), "voll-journals-"));
+  fs.cpSync(new URL("packs/navis-voll-journals", root), copy, { recursive: true, filter: s => !s.endsWith("LOCK") });
+  const { embedded } = partition(await readPack(copy));
+  return new Map(Object.values(embedded).map(page => [page._id, page]));
+}
+
+test("Voll journal translation preserves protected Foundry and HTML markup", async () => {
   const translated = readTranslation("impmal-voll.journals");
-  const sourceDump = JSON.parse(fs.readFileSync(new URL("tmp/voll-dump.json", root), "utf8"));
-  const pages = new Map(Object.values(sourceDump.journal.embedded).map(page => [page._id, page]));
+  const pages = await currentPages();
   for (const [journalId, journal] of Object.entries(translated)) {
     for (const [pageId, page] of Object.entries(journal.pages ?? {})) {
       const original = pages.get(pageId)?.text?.content ?? "";

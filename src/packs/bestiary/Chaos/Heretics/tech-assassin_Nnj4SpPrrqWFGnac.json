@@ -3,7 +3,7 @@
   "name": "Tech-Assassin",
   "type": "npc",
   "_id": "Nnj4SpPrrqWFGnac",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Heavily Augmented",
       "type": "trait",
       "_id": "qifZcsObEyHRpoDa",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Augmetic Heart",
       "type": "trait",
       "_id": "1wuFYf2XI6auWkj9",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Augmetic Respiratory System",
       "type": "trait",
       "_id": "q31K4XFE6MoFF0rc",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -426,7 +426,7 @@
       "name": "Biomechanical Interface",
       "type": "trait",
       "_id": "gDkMhws1hlsvmWbB",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -486,7 +486,7 @@
       "name": "Chem Gland",
       "type": "trait",
       "_id": "8InJhiO6qjXoLNUd",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -546,7 +546,7 @@
       "name": "Cybernetic Dermaguise",
       "type": "trait",
       "_id": "WquNyLRW5nr4FZSg",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -606,7 +606,7 @@
       "name": "Programmed to Serve",
       "type": "trait",
       "_id": "L1km1qRjsf9irP1G",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -666,7 +666,7 @@
       "name": "Hotshot Lasgun (MIUWI)",
       "type": "weapon",
       "_id": "vGRELusLxTUqSHI4",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -743,7 +743,7 @@
       "name": "Power Sword",
       "type": "weapon",
       "_id": "Zmr6Ne7wA0ViKUW2",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",

@@ -2,7 +2,7 @@
   "name": "Драконий Язык",
   "type": "navis-apexialis.implant",
   "_id": "navisImp00000119",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00007",
   "sort": 11900,
   "system": {

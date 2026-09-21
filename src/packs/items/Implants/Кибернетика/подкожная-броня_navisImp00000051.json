@@ -2,7 +2,7 @@
   "name": "Подкожная Броня",
   "type": "navis-apexialis.implant",
   "_id": "navisImp00000051",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00003",
   "sort": 5100,
   "system": {

@@ -1,0 +1,105 @@
+{
+ "journal": "mOfAsI4kLKUGTLXd",
+ "journalName": "Paradigm Shift",
+ "page": "RcIUQQRgCBlLd63s",
+ "pageName": "Aftermath",
+ "name": "Развязка",
+ "runs": {
+  "2": {
+   "en": "After dealing with @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh}, there are a few more points worth wrapping up with the party.",
+   "ru": "Разобравшись с @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лордом Фелпутом}, стоит завершить с отрядом ещё несколько моментов."
+  },
+  "6": {
+   "en": "Releasing any captured locals from the refinery causes the remaining manufactorum labourers to thank the characters in the streets of the Lower Hive for this miracle, offering them scraps of food and shelter if needed. The characters have given the citizens hope, and are local heroes for a while. ",
+   "ru": "Если освободить с завода всех пленённых местных, оставшиеся рабочие мануфакторума благодарят персонажей на улицах нижнего улья за это чудо, предлагая им при необходимости объедки и кров. Персонажи подарили горожанам надежду и на какое-то время становятся местными героями. "
+  },
+  "10": {
+   "en": "If the characters decide to free the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastmen} (led by @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.YWOtDHG1vScQKCB4]{Mesk} or @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.J8fomG1IJs18g3F5]{Gelka} if they survive the final encounter), they take the chance to disappear from the refinery and seek a better life elsewhere. They might scrape a living in the Bowels of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth}, competing with gangers who see them only as monsters, or perhaps they take to the acidic wilds beyond, their hardier stature proving more adaptable to the world’s hostile environments.",
+   "ru": "Если персонажи решат отпустить @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{зверолюдов} (во главе с @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.YWOtDHG1vScQKCB4]{Меском} или @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.J8fomG1IJs18g3F5]{Гелкой}, если те пережили финальную схватку), те пользуются случаем, чтобы исчезнуть с завода и искать лучшей доли в другом месте. Они могут перебиваться в Недрах @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта}, соперничая с гангерами, которые видят в них лишь чудовищ, или, быть может, уйдут в кислотную глушь за его пределами — их выносливое сложение лучше приспособлено к враждебной среде мира."
+  },
+  "14": {
+   "en": "Some NPCs the characters encountered could become valuable Contacts or Hirelings in their future adventures, such as @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.fdJv9lqD4Nr2SAQz]{Magos Elipses Vark} (if they managed to liberate the manufactorum), @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Kant Sandik} (who would make an excellent guide to @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth}), and even @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh} may become a Contact if the characters dealt with him favourably at the end, or hold significant blackmail over his head.",
+   "ru": "Некоторые NPC, встреченные персонажами, могут стать ценными контактами или наёмниками в будущих приключениях, например @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.fdJv9lqD4Nr2SAQz]{магос Элипсес Варк} (если персонажам удалось освободить мануфакторум), @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Кант Сандик} (из неё выйдет отличный проводник по @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарту}), и даже @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорд Фелпут} может стать контактом, если в конце персонажи обошлись с ним благосклонно или держат его на крючке серьёзным компроматом."
+  },
+  "18": {
+   "en": "Experience Points",
+   "ru": "Очки опыта"
+  },
+  "22": {
+   "en": "All characters should earn @Reward[xp=30 reason=Paradigm Shift]{30 XP} for participating in the adventure, but if any characters achieved personal goals or fulfilled a goal for a Patron their reward should be increased accordingly. In addition, the following experience can be awarded:",
+   "ru": "Все персонажи должны получить @Reward[xp=30 reason=Paradigm Shift]{30 ОО} за участие в приключении, но если кто-то из них достиг личных целей или выполнил задачу покровителя, награду стоит соответственно увеличить. Кроме того, можно начислить следующий опыт:"
+  },
+  "30": {
+   "en": "@Reward[xp=10 reason=Deduced the presence of Beastmen]{10 XP} for deducing the presence of @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastmen} before encountering them. ",
+   "ru": "@Reward[xp=10 reason=Deduced the presence of Beastmen]{10 ОО} за то, что догадались о присутствии @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{зверолюдов} до встречи с ними. "
+  },
+  "38": {
+   "en": "@Reward[xp=10 reason=Gained ally]{10 XP} for each ally gained during the mission, whether the ally survived or not.",
+   "ru": "@Reward[xp=10 reason=Gained ally]{10 ОО} за каждого союзника, обретённого в ходе задания, независимо от того, выжил он или нет."
+  },
+  "46": {
+   "en": "@Reward[xp=10 reason=Navigated the refinery using stealth]{10 XP} for navigating the refinery using stealth,",
+   "ru": "@Reward[xp=10 reason=Navigated the refinery using stealth]{10 ОО} за скрытное продвижение по заводу,"
+  },
+  "54": {
+   "en": "@Reward[xp=30 reason=Defeated Arkt Talgore]{30 XP} for defeating @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Arkt Talgore}, the Beastmen Shaman.",
+   "ru": "@Reward[xp=30 reason=Defeated Arkt Talgore]{30 ОО} за победу над @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Арктом Талгором}, шаманом зверолюдов."
+  },
+  "62": {
+   "en": "Influence",
+   "ru": "Влияние"
+  },
+  "66": {
+   "en": "Award or reduce the character's Personal Influence according to their behaviour towards the factions they have encountered — primarily the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus} if they successfully liberated the Refinery from the Beastmen, or negatively if they sided with @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Felputh} in the end and the manufactorum is purged. Consider Influence gains with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.41XgDdxnZ76elnvr]{Inquisition}, Macharian Vigilites (@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Astra Militarum}), or nobility of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth}, depending on how they dealt with Felputh in the end; rumours travel fast in Rokarth, so any public resolution is bound to garner attention from the related factions.",
+   "ru": "Повысьте или понизьте личное влияние персонажей в зависимости от их поведения по отношению к встреченным фракциям — прежде всего к @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус}, если персонажи успешно освободили завод от зверолюдов, или в худшую сторону, если в итоге они встали на сторону @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Фелпута} и мануфакторум зачистили. Подумайте о росте влияния у @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.41XgDdxnZ76elnvr]{Инквизиции}, махарийских вигилов (@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум}) или знати @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта} — в зависимости от того, как персонажи в итоге обошлись с Фелпутом; слухи в Рокарте разносятся быстро, так что любая огласка наверняка привлечёт внимание соответствующих фракций."
+  },
+  "70": {
+   "en": "These increases can bleed over to their Patron’s Influences if they represented their Patron honourably or made such a gross error in judgment as to affect their Patron’s standings. Aim to award (or detract) at least one point to each character and their Patron.",
+   "ru": "Эти изменения могут перейти и на влияние покровителя, если персонажи достойно представляли его или допустили настолько грубую ошибку, что она сказалась на его положении. Постарайтесь начислить (или снять) хотя бы одно очко каждому персонажу и его покровителю."
+  },
+  "74": {
+   "en": "Failure",
+   "ru": "Провал"
+  },
+  "78": {
+   "en": "If the characters fail to complete the main objectives of the adventure, the powers at play escalate their operations.",
+   "ru": "Если персонажи не выполнят основные цели приключения, действующие силы расширяют свои операции."
+  },
+  "82": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh} gets away with using the characters as pawns. After some time, he attempts to pin the blame on the party and their Patron. He claims their interference led to the Beastmen infestation and has doctored communiques linking them to the Klaskoloff Dynasty’s contact.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Лорду Фелпуту} сходит с рук то, что он использовал персонажей как пешек. Спустя какое-то время он пытается свалить вину на отряд и его покровителя. Он утверждает, что их вмешательство привело к нашествию зверолюдов, и подделывает донесения, связывающие их с агентом династии Класколофф."
+  },
+  "86": {
+   "en": "But in that time, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Arkt Talgore} is left to continue his experiments. He creates more mutants that spread into the surrounding hab blocks, rampantly killing citizens and spreading Warp phenomena. He turns Maltus Refinery VI into a massive source of corruption, eventually gaining the attention of a daemon of Tzeentch, creating a foothold for daemonic influence in @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth}.",
+   "ru": "Но всё это время @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.FS6l4jv4KbzBf89s]{Аркт Талгор} беспрепятственно продолжает опыты. Он создаёт всё больше мутантов, которые расползаются по окрестным жилым блокам, без разбора убивая горожан и распространяя проявления варпа. Он превращает очистительный завод «Мальтус VI» в огромный источник порчи и в конце концов привлекает внимание демона Тзинча, создавая плацдарм для демонического влияния в @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{улье Рокарт}."
+  },
+  "90": {
+   "en": "Eventually, Maltus Refinery VI and the surrounding hab blocks are marked as condemned, and operations to purge the area begin, resulting in a long and costly battle between the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastmen} and the @UUID[Compendium.impmal-starter-set.actors.Actor.O49jTi2TzoFQH5GT]{Macharian Vigilites}. @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Felputh} is relieved of his duty to oversee the manufactorum, but manages to save face in the courts of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth}and the last dregs of his fortune. The former workers are reassigned to new duties across Voll, and many families are broken up as a result. ",
+   "ru": "В конце концов очистительный завод «Мальтус VI» и окрестные жилые блоки признают обречёнными, и начинаются операции по зачистке района, выливающиеся в долгую и дорогостоящую битву между @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{зверолюдами} и @UUID[Compendium.impmal-starter-set.actors.Actor.O49jTi2TzoFQH5GT]{махарийскими вигилами}. @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Фелпута} отстраняют от управления мануфакторумом, но ему удаётся сохранить лицо при дворах @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта} и последние крохи своего состояния. Бывших рабочих переводят на новые места по всему Воллу, и в результате многие семьи оказываются разлучены. "
+  },
+  "94": {
+   "en": "If the characters are still alive and somehow escape Maltus Refinery VI, Felputh eventually learns they survived and seeks to kill them. He’ll send gangers and assassins, though his reach cannot extend beyond Voll’s system.",
+   "ru": "Если персонажи ещё живы и каким-то образом выбрались с «Мальтуса VI», Фелпут в конце концов узнаёт, что они выжили, и стремится их убить. Он подсылает гангеров и наёмных убийц, хотя его руки не дотягиваются за пределы системы Волл."
+  },
+  "98": {
+   "en": "What’s Next?",
+   "ru": "Что дальше?"
+  },
+  "102": {
+   "en": "The end of this adventure has a few loose ends that could be spun into further adventures for your party. Consider the following:",
+   "ru": "По завершении приключения остаётся несколько незакрытых нитей, из которых можно сплести новые приключения для отряда. Например:"
+  },
+  "110": {
+   "en": "After some time, any survivors from the refinery may begin to manifest Chaos mutations and attack their kin. The locals around the refinery beg the characters to hunt the mutant down. They could be hiding anywhere in the Lower Hive of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth}, or have retreated into the Bowels; regardless, they leave a trail of destruction and phenomena that makes them easy to follow. Use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.utelXH1DahFI5iHt]{Accursed Cultist} stat-block to represent these mutants. The locals can’t offer material rewards for this task, but they could gain Influence and Contacts with the Inquisition by showing their effectiveness.",
+   "ru": "Спустя какое-то время у выживших с завода могут проявиться мутации Хаоса, и они начнут нападать на своих родных. Местные жители у завода умоляют персонажей выследить мутанта. Он может прятаться где угодно в нижнем улье @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта} или уйти в Недра; так или иначе, он оставляет за собой след разрушений и аномалий, по которому легко идти. Для этих мутантов используйте профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.utelXH1DahFI5iHt]{проклятого культиста}. Местные не могут предложить за это материальной награды, но, проявив свою расторопность, персонажи могут получить влияние и контакты в Инквизиции."
+  },
+  "118": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.J8fomG1IJs18g3F5]{Gelka} and the Beastmen could ask the characters to help her and her herd find a way off Voll, or at least out of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth}. If the characters successfully aid Gelka, she becomes a Contact. Alternatively, the party could alert the local Vigilites, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.41XgDdxnZ76elnvr]{Inquisition}, or even @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh} to the Beastmen’s attempt to flee, and gain an additional +1 Influence with one of those factions.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.J8fomG1IJs18g3F5]{Гелка} и зверолюды могут попросить персонажей помочь ей и её стаду выбраться с Волла или хотя бы из @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта}. Если персонажи успешно помогут Гелке, она становится контактом. С другой стороны, отряд может предупредить о попытке зверолюдов бежать местных вигилов, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.41XgDdxnZ76elnvr]{Инквизицию} или даже @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорда Фелпута} и получить дополнительно +1 влияние у одной из этих фракций."
+  },
+  "126": {
+   "en": "Whether the party accepts or denies @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Felputh}’s bribe, if left alive, he becomes increasingly paranoid that they’ll reveal his secret anyway. He squanders the remains of his wealth to send a @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.5a6Q3NRdPonZjiGr]{Death Cult Assassin} after the characters.",
+   "ru": "Примет отряд взятку @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Фелпута} или откажется от неё, если тот останется в живых, он всё сильнее боится, что персонажи всё равно раскроют его тайну. Он спускает остатки состояния, чтобы подослать к персонажам @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.5a6Q3NRdPonZjiGr]{убийцу из культа смерти}."
+  }
+ }
+}

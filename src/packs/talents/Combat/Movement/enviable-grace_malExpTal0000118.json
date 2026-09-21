@@ -2,7 +2,7 @@
   "name": "Enviable Grace",
   "type": "talent",
   "_id": "malExpTal0000118",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Ignore difficult terrain and Restrained (Minor), may fit in impassable spaces</span></p><hr><p><span style=\"font-family: Arial\"><em>You are a dexterous contortionist, twirling around restrictions to navigate your environment with enviable grace. Difficult Terrain does not reduce your Speed and you are immune to the Restrained (Minor) Condition. At the GM’s discretion, you may be able to insert yourself into otherwise impassable spaces.</em></span></p>",

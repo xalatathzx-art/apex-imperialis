@@ -1,0 +1,33 @@
+{
+ "journal": "ZzHsqdssD6GJyhDE",
+ "journalName": "Patrons of the Inquisition",
+ "page": "TCScnF8dysykGip5",
+ "pageName": "Influence",
+ "name": "Влияние",
+ "runs": {
+  "8": {
+   "en": "Your Patron is one of the most powerful people in the Imperium, and much of their power is represented by their connections to leaders and characters within other Imperium Factions and organisations. No one can deny them, by the law of the Emperor Himself, but that won’t stop them from slowing down requests or throwing a combi-tool into the works to satisfy their own secret vendetta. Conversely, those in thrall to your Inquisitor’s influence may be eager to provide service and open up all doors within their organisation to you.",
+   "ru": "Ваш покровитель — один из могущественнейших людей в Империуме, и значительная часть его власти состоит в связях с вождями и влиятельными фигурами других фракций и организаций Империума. По закону самого Императора никто не может ему отказать, но это не помешает кому-то затягивать исполнение просьб или вставлять палки в колёса, сводя собственные тайные счёты. И наоборот, те, кто находится в плену влияния вашего инквизитора, могут с радостью служить и открывать перед вами все двери своей организации."
+  },
+  "12": {
+   "en": "All Inquisition Patrons begin with +2 Influence and may have gained or lost some Influence depending on what Boons and Liabilities they acquired during creation. Your characters will be aware of your Patron’s positive Influence when you start the game, but their Patron’s Influence can change and is secretly tracked thereafter by the GM. Any negative Influence your Patron has is unknown to the players, but it can be revealed during your missions depending on who they interact with and what information they can gather. More information about Background and Influence is detailed in @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.Nu2YQ7B987wE76SL]{Imperium Maledictum}.",
+   "ru": "Все покровители Инквизиции начинают с +2 влияния и могли получить или потерять часть влияния в зависимости от возможностей и слабостей, приобретённых при создании. Ваши персонажи будут знать о положительном влиянии покровителя в начале игры, но в дальнейшем оно может меняться, и ведущий тайно его отслеживает. Отрицательное влияние покровителя игрокам неизвестно, но оно может раскрыться в ходе заданий — в зависимости от того, с кем персонажи общаются и какие сведения удаётся собрать. Подробнее о предыстории и влиянии — в книге @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.Nu2YQ7B987wE76SL]{Imperium Maledictum}."
+  },
+  "16": {
+   "en": "Remember that your character’s Influence is different from your Patrons, where they may turn you away or treat you as their enemy, your Patron’s Influence may be more favourable, and vice-versa.",
+   "ru": "Помните, что влияние вашего персонажа отличается от влияния покровителя: там, где вас могут прогнать или счесть врагом, к покровителю могут отнестись благосклоннее, и наоборот."
+  },
+  "26": {
+   "en": "But my Authority is Limitless!",
+   "ru": "Но моя власть безгранична!"
+  },
+  "30": {
+   "en": "You might find yourself asking why, if an Inquisitor’s authority is limitless, Influence even matters. Surely all that needs to happen is a demand be made, and compliance must surely follow? Certain Inquisitors may even believe this to be true.",
+   "ru": "Вы можете спросить: раз власть инквизитора безгранична, какое значение вообще имеет влияние? Разве не достаточно просто потребовать — и повиновение последует? Некоторые инквизиторы могут даже верить, что так и есть."
+  },
+  "34": {
+   "en": "To Inquisitor Patrons, Influence is not so literal as it is for other members of the Adeptus Terra. A high Influence with one faction could be forged by genuine respect or even enrapturing fear bred from their propagandised authority. Similarly, a negative level of Influence may be borne by a group’s hatred towards the Inquisition, as much as they might slow a request by naturally tripping over their protocols.",
+   "ru": "Для покровителей-инквизиторов влияние не так буквально, как для других членов Адептус Терра. Высокое влияние у одной фракции может быть выковано подлинным уважением или даже завораживающим страхом, порождённым их раздутой пропагандой властью. Точно так же отрицательное влияние может родиться из ненависти группы к Инквизиции — ровно так же, как и из того, что она затягивает исполнение просьбы, как бы невзначай спотыкаясь о собственные протоколы."
+  }
+ }
+}

@@ -1,0 +1,217 @@
+{
+ "journal": "xxcZ1PUz0t1ycevK",
+ "journalName": "Running Inquisition Adventures",
+ "page": "iJzmX5SguvLyGws1",
+ "pageName": "Signs of Chaos",
+ "name": "",
+ "runs": {
+  "2": {
+   "en": "‘@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.KN6hJOFxExaZ7fYL#witch-marks-and-other-heresies]{Witch-marks}’ and ‘Marks of Chaos’ are a generic term for things that reveal, or at least hint at, heretical actions on the part of the bearer}. The most obvious are the horrific mutations of Chaos, but there are other types of marks. They may be literal marks, such as tattoos, brands, or similar things inscribed into a heretic’s flesh. Marks of Heresy can also include items worn on the person, such as jewellery or clothing, items of xenos technology, or even implants and augmetics.",
+   "ru": ""
+  },
+  "6": {
+   "en": "Regardless of their nature, to be useful as clues in an investigation or for other game purposes, marks must be distinctive. This does not mean they have to be obvious, of course — a distinctive tattoo could be concealed beneath clothing, or surrounded by other tattoos to obscure it to anyone who does not know to specifically look for it. They do, however, have to be distinct enough to be meaningful to the players once they observe the mark in question.",
+   "ru": ""
+  },
+  "16": {
+   "en": "That distinction may be evident from the game’s lore — for instance, three circles arranged in a triangle is well-known as a Mark of Nurgle. The distinction may also become evident during the course of the game. For example, a brand depicting a hand inscribed in a hexagon may be cryptic at first, but when the players discover this is the mark of the blasphemous cult they are seeking, it will then become distinctive for them.",
+   "ru": ""
+  },
+  "20": {
+   "en": "When you design something intended to be a Mark of Heresy, make sure the players will recognise it or will learn about its significance soon after discovering it. Also, be wary of ‘unintended’ Marks. If you establish that surreptitious cybernetic implants are the Mark of an insidious T’au conspiracy, then be wary of throwing in a ‘casual’ implant. It should either be relevant to the investigation of the conspiracy or deliberately crafted as a red herring. Otherwise, you may send your players on an unintentional diversion from your story.",
+   "ru": ""
+  },
+  "24": {
+   "en": "As always, it is a good idea to establish what constitutes Marks of Heresy in your game when you are crafting them, and plan for their introduction at appropriate points in your story. Identifying a mark requires a ",
+   "ru": ""
+  },
+  "26": {
+   "en": "Lore (Forbidden Knowledge)",
+   "ru": ""
+  },
+  "28": {
+   "en": " Test. But, characters could also use ",
+   "ru": ""
+  },
+  "30": {
+   "en": "Linguistics (Cypher)",
+   "ru": ""
+  },
+  "32": {
+   "en": " or ",
+   "ru": ""
+  },
+  "34": {
+   "en": "(Forbidden)",
+   "ru": ""
+  },
+  "36": {
+   "en": " if the mark in question has language-based affectations, or even ",
+   "ru": ""
+  },
+  "38": {
+   "en": "Awareness (Sight)",
+   "ru": ""
+  },
+  "40": {
+   "en": " if the mark draws in larger aspects, such as hidden within architecture or particular engineering. See @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.uzQAAUFfkNu8TZOi]{Radical Methods} for further guidance.",
+   "ru": ""
+  },
+  "44": {
+   "en": "Marks of Chaos",
+   "ru": ""
+  },
+  "48": {
+   "en": "Each of the four Chaos Gods is represented by a distinctive mark, a unique glyph whose origins and peculiarities of design are entirely cryptic. A fifth Mark, a glyph representing the undivided ideology of Chaos itself, also exists — the form of an eight-pointed star, thought to represent Chaos’s many paths and possibilities. Given the endlessly jealous acrimony among the Chaos Gods, this Mark is profoundly rare and extremely powerful, as it combines the effects of all four of the other @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.KN6hJOFxExaZ7fYL#witch-marks-and-other-heresies]{Marks}. You should reserve this particular Mark for extraordinary and particularly powerful villains!",
+   "ru": ""
+  },
+  "52": {
+   "en": "The other form of Chaos ‘Marks’ are the myriad physical, mental, and spiritual mutations inflicted on mortals by its perverse, reality-twisting nature. Since mutations are determined randomly, some will be subtle and easy to conceal, while others will be grossly obvious. This fits with the mercurial nature of Chaos. Tzeentch, for instance, may see fit to bless a heretical adherent with a mutation that will be easy to conceal, allowing them to continue their insidious blasphemy without being detected. However, Tzeentch may likewise twist another heretic into a malformed horror, causing them to be immediately discovered. The schemes of Tzeentch are woven into supremely complex tapestries, however, so it may suit some subtle plot for this particular mortal to be revealed — and probably put immediately to death. The mind and purposes of a Chaos God such as Tzeentch are, after all, unknowable things!",
+   "ru": ""
+  },
+  "56": {
+   "en": "The following sections present some of the more common visual aspects and domains of the Chaos Gods you can use in crafting your adventure’s clues. Pay particular attention to each God’s sacred numbers — the dark gods and their followers often arrange elements of their marks, organisation, and iconography after these numbers, whether consciously or otherwise.",
+   "ru": ""
+  },
+  "62": {
+   "en": "Khorne Clues",
+   "ru": ""
+  },
+  "74": {
+   "en": "Blood for the Blood God, Skulls for the Skull Throne. The Lord of Battles, the Great Butcher. He is the patron of warriors, conflict, hatred, and bloodshed. His influence can be found on battlefields, gladiatorial arenas ,and bloody murder scenes.",
+   "ru": ""
+  },
+  "84": {
+   "en": "Khorne’s sacred number is 8",
+   "ru": ""
+  },
+  "92": {
+   "en": "Skulls and severed heads, often marked with further sigils",
+   "ru": ""
+  },
+  "100": {
+   "en": "Blood sacrifice, bloodletting, blood-painted sigils",
+   "ru": ""
+  },
+  "108": {
+   "en": "Depictions or use of bladed weapons, particularly swords and axes",
+   "ru": ""
+  },
+  "116": {
+   "en": "Gates as per the teeth of his icon",
+   "ru": ""
+  },
+  "124": {
+   "en": "General use of brass or black iron",
+   "ru": ""
+  },
+  "140": {
+   "en": "Nurgle Clues",
+   "ru": ""
+  },
+  "152": {
+   "en": "Grandfather of plagues and pestilence. He is the patron of despair, decay, and disease. His influence can be found festering in the bowels of Humanity, particularly among the sick and ailing. He spreads supernatural maladies, daemonic parasites, and disfiguring mutations.",
+   "ru": ""
+  },
+  "162": {
+   "en": "Nurgle’s sacred number is 7",
+   "ru": ""
+  },
+  "170": {
+   "en": "His marks can often manifest within the symptoms of disease or illness",
+   "ru": ""
+  },
+  "178": {
+   "en": "Tri-lobed designs; particularly bloated spheres arranged in a distorted triangle",
+   "ru": ""
+  },
+  "186": {
+   "en": "Insects: mainly flies, worms and grubs",
+   "ru": ""
+  },
+  "194": {
+   "en": "Often accompanied by bile, pus, or other sickly fluids.",
+   "ru": ""
+  },
+  "202": {
+   "en": "Appears in verdigrised bronze or rusting steel",
+   "ru": ""
+  },
+  "218": {
+   "en": "Slaanesh Clues",
+   "ru": ""
+  },
+  "230": {
+   "en": "Dark Prince of excess and pleasure. He is the patron of desire, obsession, and debasement. His influence can be found among noble courts or wherever inequality presents masters and servants. He spreads greed like a plague, amplifying the desires of the few to subjugate the needs of the many.",
+   "ru": ""
+  },
+  "240": {
+   "en": "Slaanesh’s sacred number is 6",
+   "ru": ""
+  },
+  "248": {
+   "en": "The symbol often appears directly as so but can manifest in any living material as mutation, such as a pattern of iridescent scales, a knot of pumping veins, or pupils twisted into a new shape",
+   "ru": ""
+  },
+  "256": {
+   "en": "Garish colours and contrasting materials, a balance of ostentatiousness and foulness, meant to stand out",
+   "ru": ""
+  },
+  "264": {
+   "en": "The brand often represents the Dark Prince’s ownership",
+   "ru": ""
+  },
+  "272": {
+   "en": "Often surrounded by excess or acts of vanity",
+   "ru": ""
+  },
+  "288": {
+   "en": "Tzeentch Clues",
+   "ru": ""
+  },
+  "300": {
+   "en": "Changer of Ways and Architect of Fate. He is the patron of sorcery, trickery, and mutation. His influence can be found wherever knowledge gathers or where the longing for change manifests. He operates through esoteric prophecy and the spreading of secrets.",
+   "ru": ""
+  },
+  "310": {
+   "en": "Tzeentch’s sacred number is 9",
+   "ru": ""
+  },
+  "318": {
+   "en": "Forms of stylised staring eyes, or even methods of surveillance",
+   "ru": ""
+  },
+  "326": {
+   "en": "Serpentine Curves, often barbed",
+   "ru": ""
+  },
+  "334": {
+   "en": "Many Marks draw on ever-changing aspects: the flow of fire, chemicals, or light",
+   "ru": ""
+  },
+  "342": {
+   "en": "Often draws on aspects of cryptonumeracy and numerology",
+   "ru": ""
+  },
+  "350": {
+   "en": "Appears in silver or liquid metals",
+   "ru": ""
+  },
+  "364": {
+   "en": "In addition to the @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.aHz4wSCM8ogTVOhT]{Mutations} and @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.AJC7cYdzY3rIHZWm]{Malignancies} Tables in ",
+   "ru": ""
+  },
+  "366": {
+   "en": "Imperium Maledictum",
+   "ru": ""
+  },
+  "368": {
+   "en": ", you can use the following Marks of Chaos Table to ‘offer’ an even greater array of horrific malformations to your NPCs — and, if they earn them, the players' characters.",
+   "ru": ""
+  },
+  "372": {
+   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.2eoGwiPLLyZU1YLe]{Effect}",
+   "ru": ""
+  }
+ }
+}

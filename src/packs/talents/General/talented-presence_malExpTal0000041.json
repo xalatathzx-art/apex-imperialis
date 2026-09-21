@@ -2,7 +2,7 @@
   "name": "Talented (Presence)",
   "type": "talent",
   "_id": "malExpTal0000041",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Once/session: re-roll Presence check (take better)</span></p><hr><p><span style=\"font-family: Arial\"><em>You have a natural affinity towards Presence. You must have two Advances in Presence. Once per session, you may reroll any Test for Presence even if the result is already a success. </em></span></p>",

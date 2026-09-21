@@ -1,0 +1,21 @@
+{
+ "journal": "UHAAGHOTknUiUTUj",
+ "journalName": "Familiars",
+ "page": "BpHyfJZAsIOp63aa",
+ "pageName": "Familiars Outside Combat",
+ "name": "Фамильяры вне боя",
+ "runs": {
+  "2": {
+   "en": "Not all Familiars are made for fighting. A Servo-Skull might possess vast data archives for quick reference in the field instead of weaponry. They all augment their Master’s capabilities in some manner. ",
+   "ru": "Не все фамильяры созданы для сражений. Вместо оружия у сервочерепа могут быть обширные архивы данных для быстрой справки в полевых условиях. Все они так или иначе расширяют возможности хозяина. "
+  },
+  "10": {
+   "en": "Familiars with an appropriate Skill can @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.EwKNNdQ5EYayCPdA#getting-help]{Help} their Master on Tests. This includes Opposed (non-combat) and Extended Tests. Unless they have a Talent saying otherwise, Familiars cannot Help on attack rolls or Tests to activate psychic powers. As the Character with the highest relevant Skill makes the Test, this may result in the Master helping the Familiar. ",
+   "ru": "Фамильяры с подходящим умением могут @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.EwKNNdQ5EYayCPdA#getting-help]{помогать} хозяину в проверках. Это касается и встречных (небоевых), и продолжительных проверок. Если талант не говорит иного, фамильяры не могут помогать в бросках атаки или проверках активации психических сил. Поскольку проверку проходит персонаж с наибольшим значением соответствующего умения, может оказаться, что это хозяин помогает фамильяру. "
+  },
+  "18": {
+   "en": "At the GM’s discretion, a Familiar may provide benefits in other relevant situations. An Aeldari might be impressed with a Character who has managed to tame a particularly wilful Psyber-Familiar and be more inclined to hear them out, for example.",
+   "ru": "На усмотрение ведущего фамильяр может давать преимущества и в других подходящих ситуациях. Например, альдари может впечатлить персонаж, сумевший приручить особенно своевольного псиберфамильяра, и он будет охотнее его выслушать."
+  }
+ }
+}

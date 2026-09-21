@@ -2,7 +2,7 @@
   "name": "Blademaster",
   "type": "talent",
   "_id": "malExpTal0000099",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Re-Roll one WS based check per round</span></p><hr><p><span style=\"font-family: Arial\"><em>You can re-roll one Weapons Skill-based test per round.</em></span></p>",

@@ -26,10 +26,10 @@ const p = (...parts) => `<p>${parts.join("")}</p>`;
 /** Врезка с шрифтом издателя — разметку сохраняем, меняется только текст. */
 const novarese = text => `<p><span style="font-family: Novarese">${text}</span></p>`;
 
-const CORE_J = "Compendium.impmal-core.journals.JournalEntry";
+const CORE_J = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
 const BEAST = `${CORE_J}.6hX0E9XlPUoRaDaQ.JournalEntryPage`;
 const IMP = `${CORE_J}.GPqYZykonC12TJb1.JournalEntryPage`;
-const INQ_J = "Compendium.impmal-inquisition.journals.JournalEntry";
+const INQ_J = "Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry";
 const PEOPLE = `${INQ_J}.2TukBjlkS5RG5Qka.JournalEntryPage`;
 const THREATS = `${INQ_J}.SJPyRkdBEOCtmD8R.JournalEntryPage`;
 const XENOS = `${INQ_J}.xxcZ1PUz0t1ycevK.JournalEntryPage`;
@@ -45,7 +45,7 @@ const MINISTORUM = U(`${IMP}.5Bx7K8k9VgjOZmA4`, "Адептус Министор
 const AELDARI = U(`${XENOS}.GyAY9bnCmCZ3JjzK#aeldari`, "айэльдари");
 const TYRANIDS = U(`${XENOS}.GyAY9bnCmCZ3JjzK#tyranids`, "тиранидов");
 const TZEENTCH = U(`${XENOS}.iJzmX5SguvLyGws1#tzeentch-clues`, "Тзинча");
-const GYRINX = U("Compendium.impmal-inquisition.actors.Actor.znpt8HSpu0OndcLV", "гиринкса");
+const GYRINX = U("Compendium.navis-apexialis.navis-inquisition-actors.Actor.znpt8HSpu0OndcLV", "гиринкса");
 
 /** Поимённый НИП: его описание — ссылка на статью в журнале. */
 const entry = (en, uuid, name) => ({ en, description: p(U(uuid, name)) });

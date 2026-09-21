@@ -3,7 +3,7 @@
   "name": "Benefictus",
   "type": "npc",
   "_id": "RUss3KRMQF64b8Nj",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Genestealer Mutation",
       "type": "trait",
       "_id": "RQnCJaKtneIevIUJ",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Hunt the Hunters",
       "type": "trait",
       "_id": "9zG8eTazmyPHEd7A",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Smite (Power)",
       "type": "trait",
       "_id": "ECDLHDH5RsuUKK9m",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -426,7 +426,7 @@
       "name": "Psychic Powers",
       "type": "trait",
       "_id": "QRDFgzKzvnvZK1dv",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -486,7 +486,7 @@
       "name": "Telekine",
       "type": "trait",
       "_id": "xHgyW9n9QCl1lP7u",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -546,7 +546,7 @@
       "name": "Warp Threshold",
       "type": "trait",
       "_id": "AydWbin7sdpcwObi",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -606,7 +606,7 @@
       "name": "Force Blade",
       "type": "weapon",
       "_id": "DpXb50WfSvprrq7C",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -677,7 +677,7 @@
       "name": "Force Staff",
       "type": "weapon",
       "_id": "exAkUtr3Q4TesIo9",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -750,7 +750,7 @@
       "name": "Psyniscience",
       "type": "specialisation",
       "_id": "vNppEkXSyl4hh661",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -779,7 +779,7 @@
       "name": "Psychic",
       "type": "specialisation",
       "_id": "kaPbp2dG9j7lxZ3M",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -808,7 +808,7 @@
       "name": "Tracking",
       "type": "specialisation",
       "_id": "lXNmGFEQQwszNMQa",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -837,7 +837,7 @@
       "name": "Telekinesis",
       "type": "specialisation",
       "_id": "iSJuQhSSYvKzFlmX",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

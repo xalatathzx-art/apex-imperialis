@@ -2,7 +2,7 @@
   "name": "Фрейм Технопровидец",
   "type": "navis-apexialis.implant",
   "_id": "navisImp00000110",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00007",
   "sort": 11000,
   "system": {

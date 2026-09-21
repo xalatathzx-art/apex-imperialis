@@ -1,0 +1,241 @@
+{
+ "journal": "QbQ7dTzbEVJyBLXJ",
+ "journalName": "Interminable Devotion",
+ "page": "gqWQ8LhVWHKBodFY",
+ "pageName": "Part 1: The Brunt of Voll",
+ "name": "Часть 1: «Под ударом Волла»",
+ "runs": {
+  "2": {
+   "en": "The danger of the storm is apparent; attempting to fly through it would tempt death. However, vast eyes in the storm are observable, forming sizable islands of calm in the otherwise raging atmosphere. One is not far from the coordinates their Patron provided. This is the safest chance at reaching the surface intact.",
+   "ru": "Опасность бури очевидна: попытка пролететь сквозь неё — верная смерть. Однако в буре видны огромные «глаза» — обширные островки затишья посреди бушующей атмосферы. Один из них недалеко от координат, которые дал покровитель. Это самый надёжный шанс добраться до поверхности целыми."
+  },
+  "6": {
+   "en": "Braving the Weather",
+   "ru": "Наперекор непогоде"
+  },
+  "18": {
+   "en": "‘The lander settles down upon the uneven surface and promptly sinks several feet into the mud below. Around you, an expanse of fetid acidic marshland stretches out to meet the borders of the swiftly approaching storm.’",
+   "ru": "«Посадочный челнок опускается на неровную поверхность и тут же проседает на несколько футов в грязь. Вокруг, до самой границы стремительно надвигающейся бури, простирается зловонное кислотное болото»."
+  },
+  "24": {
+   "en": "The party is then confronted with obstacles on their journey to the ",
+   "ru": "Затем на пути к "
+  },
+  "26": {
+   "en": "Interminable Devotion",
+   "ru": "«Нескончаемой преданности»"
+  },
+  "28": {
+   "en": ". As they progress, take note of the SL of each roll they make, adding the party’s positive SLs together and subtracting negative SLs from the total. Upon reaching their destination, if the total is 6 SL or more, the party avoids obtaining the ",
+   "ru": " отряд сталкивается с препятствиями. По мере продвижения отмечайте КУ каждого броска: складывайте положительные КУ отряда и вычитайте из суммы отрицательные. Если к прибытию на место сумма составит 6 КУ или больше, отряд избегает состояния "
+  },
+  "30": {
+   "en": "Fatigued (Minor)",
+   "ru": "«Усталость (Малая)»"
+  },
+  "32": {
+   "en": " Condition. ",
+   "ru": ". "
+  },
+  "38": {
+   "en": "‘Exiting the lander, the storm engulfs you, smothering all natural light and leaving you to traverse the acidic marshland in storm-choked darkness. The howling wind and torrential acid rain lash you terribly, forcing you between jagged rock formations that quickly become labyrinthine.’",
+   "ru": "«Стоит выйти из челнока, как вас поглощает буря: она гасит весь естественный свет, и вам приходится пробираться через кислотное болото в удушливой штормовой тьме. Воющий ветер и потоки кислотного дождя жестоко хлещут вас, загоняя в лабиринт зазубренных скал»."
+  },
+  "44": {
+   "en": "In this first challenge, characters must succeed on a ",
+   "ru": "В этом первом испытании персонажи должны пройти "
+  },
+  "46": {
+   "en": "Routine (+20) Awareness (Sight)",
+   "ru": "Рутинную (+20) проверку Бдительности (Зрение)"
+  },
+  "48": {
+   "en": " Test with Advantage if they are working together as a group. Characters who fail take [[/r 1d10]] Damage from jagged rocks as they wander in the storm. ",
+   "ru": " с преимуществом, если действуют сообща. Провалившие получают [[/r 1d10]] урона от острых камней, блуждая в буре. "
+  },
+  "54": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "58": {
+   "en": "The characters with the most SL on the Awareness Test notice that these rock formations more closely resemble ruins, with markings and signs of structure evident.",
+   "ru": "Персонажи с наибольшим числом КУ в проверке Бдительности замечают, что эти скалы больше похожи на руины: на них видны отметины и следы построек."
+  },
+  "66": {
+   "en": "'The terrain around you narrows into a sharp gully flanked by sheer cliffs on either side. Though sheltered from the wind, a strange mist thickens, and you soon come to a significant circular depression at least twenty feet across in which a caustic green liquid bubbles.'",
+   "ru": "«Местность сужается в крутой овраг с отвесными скалами по обе стороны. Здесь нет ветра, но сгущается странный туман, и вскоре вы выходите к большой круглой впадине не меньше двадцати футов в поперечнике, в которой пузырится едкая зелёная жидкость»."
+  },
+  "72": {
+   "en": "In this second challenge, the party must succeed on a ",
+   "ru": "Во втором испытании отряд должен пройти "
+  },
+  "74": {
+   "en": "Challenging (+0) Athletics (Running)",
+   "ru": "Среднюю (+0) проверку Атлетики (Бег)"
+  },
+  "76": {
+   "en": " Test to jump over the depression. If a character fails, they suffer [[/r 1d10]] Damage from landing in the exceptionally corrosive substance.",
+   "ru": ", чтобы перепрыгнуть впадину. Провалившие получают [[/r 1d10]] урона, угодив в чрезвычайно едкое вещество."
+  },
+  "82": {
+   "en": "'As the gully opens out once more, the wind howls in a terrible keening roar and from a ridge to your left dozens of terrified and disoriented acynadi spill over in a chaotic stampede, their alien forms flailing with barbs, spines and claws.'",
+   "ru": "«Когда овраг снова расширяется, ветер воет жутким пронзительным рёвом, и с гребня слева беспорядочной давкой вываливаются десятки перепуганных, сбитых с толку ацинади — их чуждые тела мечутся, ощетинившись шипами, иглами и когтями»."
+  },
+  "88": {
+   "en": "In this third challenge, the party must succeed on a ",
+   "ru": "В третьем испытании отряд должен пройти "
+  },
+  "90": {
+   "en": "Routine (+20) Stealth (Move Silently)",
+   "ru": "Рутинную (+20) проверку Скрытности (Бесшумное движение)"
+  },
+  "92": {
+   "en": " Test to avoid the frantic creatures; should any of them fail, two large @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ZIxRrvXoXCRKAYyI]{Acynadi Delta-5} attack them. ",
+   "ru": ", чтобы избежать обезумевших созданий; если кто-то провалит её, на него нападают два крупных @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ZIxRrvXoXCRKAYyI]{ацинади Дельта-5}. "
+  },
+  "98": {
+   "en": "'In a flash of lightning, the characters notice a colossal shadow on the far side of the ridge. It seems like a hill, then it begins to move, sinking back into the darkness of the storm. As you recover from the acynadi stampede, you see it, standing out in the black gulf of storm-wracked wasteland. A bank of lights, yet even at this distance, its source is clear. The Interminable Devotion.'",
+   "ru": "«Во вспышке молнии персонажи замечают по ту сторону гребня исполинскую тень. Она кажется холмом, но затем начинает двигаться и снова тонет во тьме бури. Оправившись от давки ацинади, вы видите её — она выделяется на фоне чёрной бездны истерзанной бурями пустоши. Ряд огней, и даже на таком расстоянии ясно, откуда они. «Нескончаемая преданность»»."
+  },
+  "104": {
+   "en": "The party makes their last push through the open to reach the ",
+   "ru": "Отряд совершает последний рывок по открытой местности, чтобы добраться до "
+  },
+  "106": {
+   "en": "Devotion",
+   "ru": "«Преданности»"
+  },
+  "108": {
+   "en": ". If any character suffered 7 or more Damage from the three challenges, they receives the ",
+   "ru": ". Если какой-либо персонаж получил в трёх испытаниях 7 или больше урона, он получает состояние "
+  },
+  "110": {
+   "en": "Poisoned (Minor)",
+   "ru": "«Отравление (Малое)»"
+  },
+  "112": {
+   "en": " Condition, and their extreme weather clothing has been damaged to the point it no longer protects them from the toxic conditions. Also count up their total SL from all three challenges and inflict them with the ",
+   "ru": ", а его одежда для суровой погоды повреждена настолько, что больше не защищает от ядовитой среды. Кроме того, подсчитайте общую сумму КУ за все три испытания и, как описано выше, наложите состояние "
+  },
+  "114": {
+   "en": "Fatigued (Minor)",
+   "ru": "«Усталость (Малая)»"
+  },
+  "116": {
+   "en": " Condition as previously described.",
+   "ru": "."
+  },
+  "120": {
+   "en": "Read or paraphrase the following:",
+   "ru": "Зачитайте или перескажите следующее:"
+  },
+  "126": {
+   "en": "’A mobile fortress, ancient and colossal towers before you. A retrofitted Capitol Imperialis, the Interminable Devotion boasts fifty-meter-high battlements, potent weaponry and tracks large enough to level small buildings. Its huge disembarkation ramp yawns open before you.’",
+   "ru": "«Перед вами возвышается древняя и колоссальная передвижная крепость. Переоснащённый «Капитолий Империалис» «Нескончаемая преданность» может похвастаться пятидесятиметровыми зубчатыми стенами, мощным вооружением и гусеницами, способными сровнять с землёй небольшие здания. Перед вами зияет его огромная раскрытая высадочная рампа»."
+  },
+  "132": {
+   "en": "Safe Harbour",
+   "ru": "Тихая гавань"
+  },
+  "142": {
+   "en": "Upon entering the Hangar, the party finds that the heavy lumens have been deactivated. The massive hangar door is open, and an @UUID[Compendium.navis-apexialis.navis-requisition-actors.Actor.SSqyPXq4qRxqxFFu]{Arvus Lighter} is visible nearby. Should they investigate the Hangar further, they discover the corpse of Captain Alard Veridian. Read aloud or paraphrase the following:",
+   "ru": "Войдя в ангар, отряд обнаруживает, что мощные люмены отключены. Огромные ворота ангара открыты, неподалёку виден @UUID[Compendium.navis-apexialis.navis-requisition-actors.Actor.SSqyPXq4qRxqxFFu]{лихтер «Арв»}. Если осмотреть ангар подробнее, персонажи обнаруживают труп капитана Альрада Веридиана. Зачитайте вслух или перескажите следующее:"
+  },
+  "148": {
+   "en": "‘Slumped against a storage locker, you see the body of an ageing man in a large pool of blood, a discarded laspistol at his side. His pale, bloodless features locked in silent terror above his utterly crushed throat.’",
+   "ru": "«Привалившись к шкафчику для снаряжения, в большой луже крови лежит тело немолодого мужчины, рядом валяется лазпистолет. Над полностью раздавленным горлом застыли в безмолвном ужасе бледные, обескровленные черты»."
+  },
+  "154": {
+   "en": "Immediately, the sound of an opening bulkhead accompanies heavy bootsteps. @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Sergeant Drukos} and ten of his mercenaries enter the Hangar (use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZIodTiyH9W5QBRU9]{Astra Militarum Trooper} stat-block to represent them. Drukos first asks the party if they are the work detail. But upon noticing the body, he and his men become aggressive, demanding they hand over their weapons before placing them under arrest for the murder of Captain Alrad Veridian.",
+   "ru": "Тут же раздаётся звук открывающейся переборки и тяжёлые шаги. В ангар входят @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{сержант Друкос} и десять его наёмников (используйте для них профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZIodTiyH9W5QBRU9]{солдата Астра Милитарум}). Сначала Друкос спрашивает отряд, не рабочая ли они бригада. Но, заметив тело, он и его люди становятся агрессивными и требуют сдать оружие, после чего арестовывают персонажей за убийство капитана Альрада Веридиана."
+  },
+  "158": {
+   "en": "The party is escorted to an ex-storage cabin turned brig, where @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Drukos} questions them about the murder. Initially suspicious of the characters, he soon begins to believe their story but keeps them in the brig under heavy guard until he can investigate. As they leave, the massive hangar ramp retracts, and the ",
+   "ru": "Отряд препровождают в бывшую кладовую, переделанную в карцер, где @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Друкос} допрашивает персонажей об убийстве. Поначалу он относится к ним с подозрением, но вскоре начинает верить их рассказу, хотя и держит их в карцере под усиленной охраной, пока не разберётся. Когда он уходит, огромная рампа ангара втягивается, и "
+  },
+  "160": {
+   "en": "Interminable",
+   "ru": "«Нескончаемая"
+  },
+  "164": {
+   "en": "Devotion",
+   "ru": "преданность»"
+  },
+  "166": {
+   "en": " gets back underway.",
+   "ru": " снова трогается в путь."
+  },
+  "172": {
+   "en": "What happened?",
+   "ru": "Что случилось?"
+  },
+  "176": {
+   "en": "During a routine medicae check, Medicae Roderick (or rather @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré}) took the opportunity to secretly inject the Captain with his latest batch of his concentrated @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{chemical communion}. Driven by visions and paranoia, the Captain called for the ",
+   "ru": "Во время планового медицинского осмотра медикус Родерик (а точнее, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре}) воспользовался случаем и тайно ввёл капитану последнюю партию своего концентрированного @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химического причастия}. Движимый видениями и паранойей, капитан приказал "
+  },
+  "178": {
+   "en": "Interminable",
+   "ru": "«Нескончаемой"
+  },
+  "182": {
+   "en": "Devotion",
+   "ru": "преданности»"
+  },
+  "184": {
+   "en": " to a complete stop, and attempted to leave alone on the @UUID[Compendium.navis-apexialis.navis-requisition-actors.Actor.SSqyPXq4qRxqxFFu]{Arvus Lighter} they keep for emergencies. ",
+   "ru": " полностью остановиться и попытался в одиночку улететь на @UUID[Compendium.navis-apexialis.navis-requisition-actors.Actor.SSqyPXq4qRxqxFFu]{лихтере «Арв»}, который держат на случай чрезвычайных ситуаций. "
+  },
+  "188": {
+   "en": "Having bugged Captain Veridian to monitor the effects of his formula, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} was forewarned of his plan, and he intercepted the Captain in the Hangar, accompanied by one of his Medicae Servitors. He ordered the Servitor to kill the Captain to cover his tracks, then to hide the murder weapon, subsequently ordered the Servitor to disappear into the wastes while the ",
+   "ru": "Вестерик Нетекаре установил у капитана Веридиана подслушивающее устройство, чтобы следить за действием своей формулы, поэтому @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{он} знал о его плане заранее и перехватил капитана в ангаре вместе с одним из своих медицинских сервиторов. Он приказал сервитору убить капитана, чтобы замести следы, затем спрятать орудие убийства, а после велел сервитору скрыться в пустошах, пока "
+  },
+  "190": {
+   "en": "Devotion",
+   "ru": "«Преданность»"
+  },
+  "192": {
+   "en": " was stationary. The noble managed to return to the Medicae Ward without being noticed.",
+   "ru": " стояла на месте. Дворянину удалось незамеченным вернуться в лазарет."
+  },
+  "198": {
+   "en": "Hours pass, allowing the party to rest before Drukos returns, where he informs the party that they are cleared of his suspicions. The ",
+   "ru": "Проходят часы, и отряд успевает отдохнуть, прежде чем возвращается Друкос и сообщает, что подозрения с персонажей сняты. Ауспики "
+  },
+  "200": {
+   "en": "Devotion’s",
+   "ru": "«Преданности»"
+  },
+  "202": {
+   "en": " augur scans detected their landing craft, and the adepts’ medicae report states time of death as just before they touched down. Drukos then tells them that @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{Curator Varness} wants to speak with them and leads them to the Curator’s Quarters. Once inside, she asks the party for their account while dismissing @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Sergeant Drukos}. With him gone, she promptly states the following. ",
+   "ru": " засекли их посадочный челнок, а по медицинскому заключению адептов смерть наступила незадолго до их приземления. Затем Друкос сообщает, что с ними хочет поговорить @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{куратор Варнесс}, и ведёт их в покои куратора. Там она просит отряд рассказать, что случилось, и отпускает @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{сержанта Друкоса}. Как только он уходит, она сразу говорит следующее. "
+  },
+  "208": {
+   "en": "‘Peculiar occurrences have been reported and duly suppressed for several weeks now. Strange reports of seeing frightful things aboard, distorted acynadi that look partly Human. This is ludicrous; the reporters have been disciplined and told to keep quiet. But the reports keep coming in, and they are all so similar. Then there’s the picts.’ The @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{Curator} turns her cogitator display to show a pict of hundreds of acynadi lying still, just beyond the edge of the Devotion’s heavy lumens. ‘They seem to be flocking or gathering and following the Devotion as if waiting for something…’",
+   "ru": "«Уже несколько недель поступают — и должным образом замалчиваются — сообщения о странных происшествиях. Странные донесения: люди видят на борту жуткие вещи, искажённых ацинади, отчасти похожих на людей. Это нелепо; доносчиков наказали и велели держать язык за зубами. Но сообщения всё поступают, и все они так похожи. А ещё пикты». @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{Куратор} поворачивает к вам экран когитатора и показывает пикт: сотни ацинади неподвижно лежат сразу за границей света мощных люменов «Преданности». «Похоже, они собираются стаями и следуют за «Преданностью», будто чего-то ждут…»"
+  },
+  "216": {
+   "en": "‘I have suppressed the reports and the picts as much as possible to avoid hysteria amongst the crew, yet now with the murder of the Captain, something needs to be done. You seem like capable individuals, and seeing as you arrived after the murder, you are the only ones beyond my suspicion. So, as acting commander of this expedition, I’m charging you with spearheading this investigation. Whatever you find, you are to come to me here and present your evidence before I will authorise the use of any force. The last thing we want is a bloodbath.’",
+   "ru": "«Я как могла замалчивала донесения и пикты, чтобы избежать истерии среди экипажа, но теперь, после убийства капитана, нужно что-то делать. Вы, похоже, люди способные, а раз вы прибыли уже после убийства, лишь вы вне моих подозрений. Поэтому как исполняющая обязанности командира экспедиции я поручаю вам возглавить расследование. Что бы вы ни нашли, приходите с доказательствами сюда, ко мне, — прежде чем я разрешу применить силу. Меньше всего нам нужна кровавая баня»."
+  },
+  "222": {
+   "en": "The party receives a handheld vox, the authority to question the crew and any previously confiscated weapons. If any characters are unarmed, they are given two common weapons of their choice from the ",
+   "ru": "Отряд получает ручной вокс, полномочия допрашивать экипаж и всё ранее изъятое оружие. Если у кого-то из персонажей нет оружия, ему выдают два обычных оружия на выбор из арсенала "
+  },
+  "224": {
+   "en": "Devotion’s",
+   "ru": "«Преданности»"
+  },
+  "226": {
+   "en": " armoury (",
+   "ru": " ("
+  },
+  "230": {
+   "en": "Imperium Maledictum",
+   "ru": "Imperium Maledictum"
+  },
+  "234": {
+   "en": "). @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{Curator Varness} suggests beginning with the @UUID[.vC2n6yi7x19C9HvR#a1.-hangar]{crime scene}, the @UUID[.vC2n6yi7x19C9HvR#b1.-the-medicae-ward]{Medicae Ward} or asking around in @UUID[.vC2n6yi7x19C9HvR#b2.-the-mess]{the Mess}.",
+   "ru": "). @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{Куратор Варнесс} предлагает начать с @UUID[.vC2n6yi7x19C9HvR#a1.-hangar]{места преступления}, @UUID[.vC2n6yi7x19C9HvR#b1.-the-medicae-ward]{лазарета} или расспросов в @UUID[.vC2n6yi7x19C9HvR#b2.-the-mess]{столовой}."
+  }
+ }
+}

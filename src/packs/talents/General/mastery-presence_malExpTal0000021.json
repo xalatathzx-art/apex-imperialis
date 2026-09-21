@@ -2,7 +2,7 @@
   "name": "Mastery (Presence)",
   "type": "talent",
   "_id": "malExpTal0000021",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Spend FP to auto-succeed on selected Presence, scored SL = associated stat bonus</span></p><hr><p><span style=\"font-family: Arial\"><em>You must have 4 Advances in Presence and the Talented(Presence) on. You can spend a Fate Point to automatically pass a Presence Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "4 Advances in Presence, Talented (Presence) Talent",
-      "script": "return this.actor.system.skills.presence.advances >= 4 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Talented(Presence)\")"
+      "script": "return this.actor.system.skills.presence.advances >= 4 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Talented (Presence)\")"
     },
     "test": {
       "difficulty": "challenging",

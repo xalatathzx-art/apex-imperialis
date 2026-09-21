@@ -2,7 +2,7 @@
   "name": "Clues from the Crowds",
   "type": "talent",
   "_id": "malExpTal0000143",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">1/day: reroll test when gathering info from group of people</span></p><hr><p><span style=\"font-family: Arial\"><em>Once per day, you can re-roll a test made to gather information from a group of people. </em></span></p>",

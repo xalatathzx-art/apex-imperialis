@@ -2,7 +2,7 @@
   "name": "Light of Terra",
   "type": "talent",
   "_id": "malExpTal0000207",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On Psychic Power damage on \"unclean\" targets: deal double damage. Loose this if you gain 2 mutations or Malignancies</span></p><hr><p><span style=\"font-family: Arial\"><em>The pilgrimage to the seat of the Emperor has a profound effect on the majority of sanctioned, but for a few, there is a very real effect on their souls. Any wounds inflicted by a Psychic Power on a Daemon, Mutant, Unsanctioned Psyker, Sorcerer, or other character the GM considers “unclean” by a Psyker with this talent is doubled. The effects of this talent are lost if the Psyker ever gains two Mutations or two Malignancies unless you find a way to rid yourself of them. </em></span></p>",

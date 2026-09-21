@@ -2,7 +2,7 @@
   "name": "Instrument of HIS Will",
   "type": "talent",
   "_id": "malExpTal0000178",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On Hit against Demon: spend FP to increase (first) damage by 2xWpB (ignoring armor)</span></p><hr><p><span style=\"font-family: Arial\"><em>You strike down the daemonic with holy fury, your blows landing as if guided by the hand of the Emperor Himself. After making a successful attack against a Daemon (including psychic powers), you may spend a Fate Point to increase the damage of the first hit you inflict by an amount equal to twice your Willpower bonus. This additional damage ignores armor. </em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "Faithful (Imperial Cult) Talent, 3 Advances in Discipline(Psychic)",
-      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Psychic\" && i.system.skill == \"discipline\")?.system?.advances >= 3) && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful(Imperial Cult)\")"
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Psychic\" && i.system.skill == \"discipline\")?.system?.advances >= 3) && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful (imperial Cult)\")"
     },
     "test": {
       "difficulty": "challenging",

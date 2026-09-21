@@ -2,7 +2,7 @@
   "name": "Feat of Strength",
   "type": "talent",
   "_id": "malExpTal0000006",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Spend FP to double StB until turn-end, then: Fatigued (Major)</span></p><hr><p><span style=\"font-family: Arial\"><em>Once per mission, you may spend a Fate Point to double your Strength Bonus until the end of your turn. At this point, you immediately gain the Fatigued (Major) Condition.</em></span></p>",

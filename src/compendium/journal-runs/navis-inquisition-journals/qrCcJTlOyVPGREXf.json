@@ -1,0 +1,69 @@
+{
+ "journal": "QU6vEOUu69z190da",
+ "journalName": "Acolytes of the Inquisition",
+ "page": "qrCcJTlOyVPGREXf",
+ "pageName": "Explicator",
+ "name": "Экспликатор",
+ "runs": {
+  "4": {
+   "en": "‘It’s true that the stain of ruinous knowledge can weigh heavy on a woman, but upholding His word and law will always be its own reward.’",
+   "ru": "III АКОЛИТЫ ИНКВИЗИЦИИ\nЭКСПЛИКАТОР\n«Пятно губительного знания может тяжким\nбременем лечь на женщину, но право нести Его слово\nи Его закон всегда будет наградой само по"
+  },
+  "12": {
+   "en": "— Carrhe, Second Voice of the Silent",
+   "ru": "себе»\n- Карре, второй голос Безмолвной\nИнформация"
+  },
+  "24": {
+   "en": "Information is one of the most dangerous weapons the Inquisition wields, and the @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.7ueULcEt4hF8R4dr]{Explicator} is a meticulous purveyor of this resource in all its forms. They are versed in various forbidden subjects, seeking out the depths of heretical and daemonic rituals, tomes, and dissertations via dusty research or actively pursuing new lines of inquiry in the field. Venturing blind into any encounter against the Imperium’s enemies means almost certain death.",
+   "ru": "– это самое опасное оружие, которым\nвладеет Инквизиция, а экспликатор – это педантичный\nохотник на такое оружие во всех его видах. Он\nразбирается во множестве запретных тем, исследует\nсуть еретических и демонических ритуалов, книг и\nсочинений среди пыльных архивов или деятельно\nведёт расследование «в поле», ибо встречать врагов\nИмпериума вслепую – значит искать верной смерти.\nАгентам Инквизиции всегда полезно иметь товарища,\nчто понимает тонкости имперских законов, разбирается\nв вероучении и знает все лазейки, с помощью которых\nможно вычислять еретиков и срывать их планы.\nТакая работа требует умения пробиваться через\nбюрократические препоны и находить @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.7ueULcEt4hF8R4dr]{Explicator}"
+  },
+  "28": {
+   "en": "It is indispensable for Inquisitorial agents to have the ear of an ally with extensive knowledge of the Imperial laws, doctrines, and loopholes that intersect with seeking out heretical practices and influences. Their duty demands they cut through bureaucratic roadblocks to find the quickest path for Inquisitors to assert their limitless authority. The Explicator is no stuffy librarian; they are as well-versed in the arts of swift retribution as any acolyte in an Inquisitor’s retinue.",
+   "ru": "кратчайший\nпуть применения безграничной инквизиторской\nвласти. Впрочем, экспликатор – это не обязательно\nкнижный червь; эти мудрецы умеют сражаться не хуже\nтоварищей по свите.\nКак правило, экспликаторов набирают из имперских\nслужб, что распоряжаются большими объёмами\nданных. Лучшими кандидатами считают выдающихся\nадептов Администратума, спасённых от прозябания в\nинфохранилище и получивших более высокую цель. В\nзависимостиотспециализации,изэкспликаторовмогут\nполучится отличные предостерегающие, аналитики и\nксенолингвисты. Нередко предназначение конкретного\nмудреца зависит от того, сколько ересей он может\nвстретить"
+  },
+  "32": {
+   "en": "Explicators are primarily drawn from Imperial factions that curate massive amounts of data. The most exceptional adepts of the Adminstratum are chief among their kin — rescued from the obscurity of datavaults and given greater purpose. Depending on where they specialise, Explicators can make excellent @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.z058E7qKD4CHpvoA]{Admonitors}, @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.N8aC89bUnEc78hRE]{Analyticus}, and @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.CB859tnMPuPPp7wz]{Xenolinguists}. However, their function may rely upon how well they can withstand the heresies they face. They are effectively students of the Ruinous Powers and the vile xenos, but only in order to facilitate their elimination, disgusted and fascinated by their research in equal measure.",
+   "ru": "лицом к лицу и выдержать. Им приходится\nвпитывать знания о Губительных силах и злокозненных\nксеносах, но лишь для того, чтобы руководить их\nуничтожением, в равной мере испытывая отвращение\nк врагам и восхищаясь своими исследованиями.\nИзбранные на роль экспликаторов должны обладать\nгибким и аналитическим складом ума. Инквизиция\nмногое требует от своих воинов, но её хранители\nзнаний и законов должны отвечать не менее строгим\nкритериям. Подобно круциаторам вы будете иметь\nдоступ к текстам, недоступным обычным писцам, к\nоскверняющим сочинениям, которым не место в руках\nправедного гражданина. Но вы должны выдержать\nэто, ибо такова ваша служба Императору, инквизитору\nи ордосу – искать мрачные тайны и разгадывать\nзаговоры, которыми так гордятся сплетшие их еретики\nи культисты.\nПРЕИМУЩЕСТВА\nТ Т Та а ал л ла а ан н нт т ты ы ы: :: выберите два таланта из следующего списка:\nЧеловек искусства (Литератор) (КП), Защитник\nзакона, Расшифровщик, Инфоархеолог (КП), Идеальная\nпамять (КП), Запретное знание (КП), Готическая\nтарабарщина (КП), Слуга закона (КП).\nУ У Ул л лу у уч ч чш ш ше е ен н @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.z058E7qKD4CHpvoA]{Admonitors} @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.N8aC89bUnEc78hRE]{Analyticus} @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.CB859tnMPuPPp7wz]{Xenolinguists}"
+  },
+  "36": {
+   "en": "Those chosen for this role must have a nimble and highly analytical mind. As much as the Inquisition requires of its storied warriors, you must meet the same criteria as a wielder of law and information. Like the @UUID[.j7wtNMhT96bMRSng]{Cruciator}, you will have access to texts far beyond the average scribe’s remit — corruptive materials that have no place in the hands of any righteous citizen. But this you must endure to serve Emperor, Inquisitor, and Ordo, to unravel the sordid mysteries and secretive plots that heretics and cultists so pride themselves on.",
+   "ru": "ни и ия я я у у ум м ме е ен н ни и ий й й: :: вы получаете три улучшения, что\nможете распределить между следующими умениями:\nДисциплина, Знания, Логика, Стойкость, Чутьё,\nЯзыки.\nС С Сп п пе е ец ц ци и иа а ал л ли и из з за а ац ц ци и ии и и: :: вы получаете два улучшения\nспециализаций, что можете распределить между\nследующими умениями: Знания, Языки и Чутьё.\nС С Сн н на а ар р ря я яж ж же е ен н ни и ие е е ( ( (в в вс с сё ё ё в в вз з зя я ят т то о о и и из з з к к кн н ни и иг г ги и и п п пр р ра а ав в ви и ил л л) ) ): :: вы получаете\nнож, автопистолет или стаб-револьвер, монозадачный\nсервочереп (выбор разновидности за вами), писчий\nприбор, хроно, инфопланшет, пикт-писец. @UUID[.j7wtNMhT96bMRSng]{Cruciator}"
+  },
+  "42": {
+   "en": "Role Benefits",
+   "ru": "III АКОЛИТЫ ИНКВИЗИЦИИ ЭКСПЛИКАТОР «Пятно губительного знания может тяжким бременем лечь на женщину, но право нести Его слово и Его закон всегда будет наградой само по себе»"
+  },
+  "48": {
+   "en": "Talents",
+   "ru": "- Карре, второй голос Безмолвной Информация – это самое опасное оружие, которым владеет"
+  },
+  "50": {
+   "en": ": Choose 2 Talents from @UUID[Compendium.navis-apexialis.navis-core-items.Item.XNWp0dpd4iB4qhjD]{Artistic} (Literature), @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.kAwBXaop0MNMqqC1]{Apostle of the Lex}, @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.bPEos4SZ1xIiTF34]{Cypherist}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.sTF7rVvFTa2RE3Vc]{Data Delver}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.UsXorn8M9HGueTWQ]{Eidetic Memory}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Forbidden Knowledge}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.7ns8qphjf10f46Ut]{Gothic Gibberish}, and @UUID[Compendium.navis-apexialis.navis-core-items.Item.xkeeVglZIZS85nfi]{Lawbringer}.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.XNWp0dpd4iB4qhjD]{Artistic} @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.kAwBXaop0MNMqqC1]{Apostle of the Lex} @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.bPEos4SZ1xIiTF34]{Cypherist} @UUID[Compendium.navis-apexialis.navis-core-items.Item.sTF7rVvFTa2RE3Vc]{Data Delver} @UUID[Compendium.navis-apexialis.navis-core-items.Item.UsXorn8M9HGueTWQ]{Eidetic Memory} @UUID[Compendium.navis-apexialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Forbidden Knowledge} @UUID[Compendium.navis-apexialis.navis-core-items.Item.7ns8qphjf10f46Ut]{Gothic Gibberish} @UUID[Compendium.navis-apexialis.navis-core-items.Item.xkeeVglZIZS85nfi]{Lawbringer}"
+  },
+  "56": {
+   "en": "Skill Advances",
+   "ru": "Инквизиция, а экспликатор – это педантичный охотник на такое оружие во всех его видах. Он разбирается во множестве запретных тем, исследует суть еретических и демонических ритуалов, книг"
+  },
+  "58": {
+   "en": ": You have 3 Advances to spend on Lore, Logic, Linguistics, Discipline, Intuition, and Fortitude.",
+   "ru": "и сочинений среди пыльных архивов или деятельно ведёт расследование «в поле», ибо встречать врагов Империума вслепую – значит искать верной смерти. Агентам Инквизиции всегда полезно иметь товарища, что понимает тонкости имперских законов, разбирается в вероучении и знает все лазейки, с помощью которых можно вычислять еретиков и срывать их планы. Такая работа требует умения пробиваться через бюрократические препоны и находить кратчайший путь применения безграничной инквизиторской власти. Впрочем, экспликатор – это не обязательно книжный червь; эти мудрецы умеют сражаться не хуже товарищей по свите. Как правило, экспликаторов набирают из имперских служб, что распоряжаются большими объёмами данных. Лучшими кандидатами считают выдающихся адептов Администратума, спасённых от прозябания в инфохранилище и получивших более высокую цель. В зависимостиотспециализации,изэкспликаторовмогут получится отличные предостерегающие, аналитики и ксенолингвисты. Нередко предназначение конкретного мудреца зависит от того, сколько ересей он может встретить лицом к лицу и выдержать. Им приходится впитывать знания о Губительных силах и злокозненных ксеносах, но лишь для того, чтобы руководить их уничтожением, в равной мере испытывая отвращение к врагам и восхищаясь своими исследованиями. Избранные на роль"
+  },
+  "64": {
+   "en": "Specialisations",
+   "ru": "экспликаторов должны обладать гибким и аналитическим складом ума. Инквизиция многое требует от своих воинов, но её хранители знаний и законов должны отвечать не менее строгим критериям. Подобно"
+  },
+  "66": {
+   "en": ": You have 2 Advances to spend on any Specialisations in Lore, Linguistics, and Intuition.",
+   "ru": "круциаторам вы будете иметь доступ к текстам, недоступным обычным писцам, к оскверняющим сочинениям, которым не место в руках праведного гражданина. Но вы должны выдержать это, ибо такова ваша служба Императору, инквизитору и ордосу – искать мрачные тайны и разгадывать заговоры, которыми так гордятся сплетшие их еретики и культисты. ПРЕИМУЩЕСТВА Т Т Та а ал л ла а ан н нт т ты ы ы: :: выберите два таланта из следующего списка: Человек искусства (Литератор) (КП), Защитник закона, Расшифровщик, Инфоархеолог (КП), Идеальная память (КП), Запретное знание (КП), Готическая тарабарщина (КП), Слуга закона (КП). У У Ул л лу у уч ч чш ш ше е ен н ни и ия я я у у ум м ме е ен н ни и ий й й: :: вы получаете три улучшения, что можете распределить между следующими умениями: Дисциплина, Знания, Логика, Стойкость, Чутьё, Языки. С С Сп п пе е ец ц ци и иа а ал л ли и из з за а ац ц ци и ии и и: :: вы получаете два улучшения специализаций, что можете распределить между следующими умениями: Знания, Языки и Чутьё. С С Сн н на а ар р ря я яж ж же е ен н ни и ие е е ( ( (в в вс с сё ё ё в в вз з зя я ят т то о о и и из з з к к кн н ни и иг г ги и и п п пр р ра а ав в ви и ил л л) ) ): :: вы получаете нож, автопистолет"
+  },
+  "72": {
+   "en": "Equipment",
+   "ru": "или стаб-револьвер, монозадачный сервочереп (выбор разновидности за вами), писчий прибор, хроно, инфопланшет, пикт-писец."
+  },
+  "74": {
+   "en": ": You gain a @UUID[Compendium.navis-apexialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{Knife}, an @UUID[Compendium.navis-apexialis.navis-core-items.Item.AfhkWSUYY9y6byiN]{Autopistol} or a @UUID[Compendium.navis-apexialis.navis-core-items.Item.vCeI41URKYV6iuAD]{Stub Revolver}, a @UUID[Compendium.navis-apexialis.navis-core-items.Item.YKQFW45Eu7satkSX]{Monotask Servo-Skull} with a function of your choice, a @UUID[Compendium.navis-apexialis.navis-core-items.Item.7ipsWHaVhIsF7b3S]{Writing Kit}, a @UUID[Compendium.navis-apexialis.navis-core-items.Item.Aw29y9tfO4Uc9uWb]{Chrono}, a @UUID[Compendium.navis-apexialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW]{Dataslate}, and a @UUID[Compendium.navis-apexialis.navis-core-items.Item.rgkUmSGkBrOKvo5p]{Pict Recorder}.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{Knife} @UUID[Compendium.navis-apexialis.navis-core-items.Item.AfhkWSUYY9y6byiN]{Autopistol} @UUID[Compendium.navis-apexialis.navis-core-items.Item.vCeI41URKYV6iuAD]{Stub Revolver} @UUID[Compendium.navis-apexialis.navis-core-items.Item.YKQFW45Eu7satkSX]{Monotask Servo-Skull} @UUID[Compendium.navis-apexialis.navis-core-items.Item.7ipsWHaVhIsF7b3S]{Writing Kit} @UUID[Compendium.navis-apexialis.navis-core-items.Item.Aw29y9tfO4Uc9uWb]{Chrono} @UUID[Compendium.navis-apexialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW]{Dataslate} @UUID[Compendium.navis-apexialis.navis-core-items.Item.rgkUmSGkBrOKvo5p]{Pict Recorder}"
+  }
+ }
+}

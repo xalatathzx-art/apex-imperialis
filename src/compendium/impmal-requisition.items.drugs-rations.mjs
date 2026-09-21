@@ -21,7 +21,7 @@ const p = (...parts) => `<p>${parts.join("")}</p>`;
 /** «Когномены» — прозвища предмета, как их печатает книга. */
 const cognomens = (...names) => p("<strong>Когномены</strong>: ", names.join(", "), ".");
 
-const CORE = "Compendium.impmal-core.journals.JournalEntry";
+const CORE = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
 const IMP = `${CORE}.GPqYZykonC12TJb1.JournalEntryPage`;
 const SECTOR = `${CORE}.B7MZBBT3bNew9N96.JournalEntryPage`;
 const RULES = `${CORE}.hdElQAwiBr5AyoRf.JournalEntryPage`;
@@ -271,7 +271,7 @@ export const byName = {
         "трудятся в раскалённых мануфакторумах. Плащи покрепче идут в дело на поле боя: они ",
         "укрывают носителя и от жары, и от чутких к теплу ауспиков.") +
       p("Виридские первопроходцы зовут такие плащи дымными. До ",
-        U("Compendium.impmal-core.items.Item.fhXBHDbBiY6PUUTc", "хамелеолина"), " им далеко, но ",
+        U("Compendium.navis-apexialis.navis-core-items.Item.fhXBHDbBiY6PUUTc", "хамелеолина"), " им далеко, но ",
         "первопроходцы их ценят: плащ укрывает и от вражеской разведки, и от неуютной жары, а ещё ",
         "им можно заслонить маленький и такой нужный костерок — разом от глаз врага и от ",
         "не в меру ретивого начальства.") +

@@ -1,0 +1,533 @@
+{
+ "journal": "FNEW8e33IisZh27W",
+ "journalName": "The Heresies Macharia",
+ "page": "AYJ70cmnV5Y6rDDt",
+ "pageName": "Conclave VII",
+ "name": "",
+ "runs": {
+  "6": {
+   "en": "Conclave VII",
+   "ru": ""
+  },
+  "16": {
+   "en": "With the defeat of the Herald's Howl, the Conclave gathers once more on Mare Cinis, gazing down upon the wounded Persepolis. Each Inquisitor returns bearing fresh scars. The Conclave vie for reinforcement as three loose ends persist: the remnants of the Herald's Howl, Raud’s hunt for an ostensibly dead heretic, and the escape of Eskender Thracius.",
+   "ru": ""
+  },
+  "22": {
+   "en": "Dramatis Personae",
+   "ru": ""
+  },
+  "26": {
+   "en": "In attendance at the seventh Conclave are: @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.sNDdDGlvY5m1HQ4R]{Ksenia Baek}, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.W50MW8gfyrDts9g3]{Aegidius Halikarn}, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Sylvestrine Horst}, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud}, and @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.gRAiiRJkLKviH0K5]{Konstan Serranus}. Characters should note each Inquisitor has a significantly diminished retinue present. Despite their great victories during the @UUID[.jt0zc7az5xNehcIZ#the-heralds-howl]{Herald’s Howl}, tensions between Inquisitors are high.",
+   "ru": ""
+  },
+  "30": {
+   "en": "Intrigues",
+   "ru": ""
+  },
+  "34": {
+   "en": "Characters who suspect @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.sNDdDGlvY5m1HQ4R]{Ksenia Baek} of treachery may investigate her section of @UUID[.Y1wjtyi7JdgHxQiF#mare-cinis]{Mare Cinis} to discern her actions during the war against the @UUID[.jt0zc7az5xNehcIZ#the-heralds-howl]{Herald's Howl}. The information confirms that she had negotiated with several cells of the Herald’s Howl, bargaining their survival to maintain their psychic beacons. Bringing this information to their Patron or the Conclave may result in a second battle erupting in Mare Cinis. @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.gRAiiRJkLKviH0K5]{Konstan Serranus} and @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud} will swiftly move to declare ",
+   "ru": ""
+  },
+  "36": {
+   "en": "Baek",
+   "ru": ""
+  },
+  "40": {
+   "en": "Excommunicate Traitoris",
+   "ru": ""
+  },
+  "42": {
+   "en": ". If this does occur, and Baek is apprehended, she cannot support the Herald's Howl in Strife VII-A: The Star Map.",
+   "ru": ""
+  },
+  "46": {
+   "en": "If @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.gRAiiRJkLKviH0K5]{Konstan Serranus} still lives, he is joined by Magos Tal-Theta 661 of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus}, whose Skitarii forces joined ",
+   "ru": ""
+  },
+  "48": {
+   "en": "Serranus",
+   "ru": ""
+  },
+  "50": {
+   "en": " in battle on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.VeiDfnkV55kTAkRw]{Kallastin}. Characters with a history with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus} or who undertook the operation to cleanse the daemonic corruption from @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.jB9sg2SDLZJGZrac]{Eskutchax} may be able to requisition @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus} support on whatever Strife they undertake.",
+   "ru": ""
+  },
+  "60": {
+   "en": "Strife VII-A ",
+   "ru": ""
+  },
+  "64": {
+   "en": "The Star Map",
+   "ru": ""
+  },
+  "72": {
+   "en": "The Herald's Howl suffered severe losses across the Macharian Sector, its remnants withdrawing back into the shadowed corners of the sector from which the cult was first spawned. Yet a point of concern remains for the Conclave, as some cells may still be waiting to activate",
+   "ru": ""
+  },
+  "80": {
+   "en": "The star chart first found on the Calvus Station (@UUID[.qMGtMcmwPnXnwPds#strife-i-c-the-fate-of-the-lucanus]{Strife I-C}) held record of nearly every world where the @UUID[.jt0zc7az5xNehcIZ#the-heralds-howl]{Herald's Howl} arose — a symbol of faith, a logistical network, the shape of a doom that could have overwhelmed the Macharian Sector. Yet the Herald’s Howl did not fall upon all of the Star Map’s worlds, leading the Conclave to conclude that they dwell in the shadows of numerous worlds.",
+   "ru": ""
+  },
+  "88": {
+   "en": "Among them, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.jB9sg2SDLZJGZrac]{Eskutchax}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.ZIDINp9DtgCCj1Mg]{Harjus}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.zXku6hYsLGOHzcwi]{Res Vilissima}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.A9cvKlA41X8qPyEw]{Paleon}, and, most perverse of all, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.0g60Fj0fRMDfzYGB]{Macharia} itself. The @UUID[.jt0zc7az5xNehcIZ#the-heralds-howl]{Howl’s} inactivity on these worlds begs the question whether some parts of the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#tyranids]{Genestealer Cult} threat continue to gather strength, preparing for another sector-wide offensive when their leaders deem the time right.",
+   "ru": ""
+  },
+  "96": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Sylvestrine Horst} and @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.W50MW8gfyrDts9g3]{Aegidius Halikarn} urge the Conclave to engage in a joint assault: swift, simultaneous strikes against each remaining cell to bring a final silence to the @UUID[.jt0zc7az5xNehcIZ#the-heralds-howl]{Herald's Howl}.",
+   "ru": ""
+  },
+  "104": {
+   "en": "If these cells can communicate with each other, anything short of total eradication would mean one or more cells receiving an early warning, allowing them to scatter and spread their foul mutation to different worlds.",
+   "ru": ""
+  },
+  "112": {
+   "en": "None are opposed to acting against this Strife, everyone having seen first-hand the damage these organised @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#tyranids]{Genestealer Cults} can do — it is simply a matter of allocating the Inquisition’s dwindling resources after the @UUID[.jt0zc7az5xNehcIZ#the-heralds-howl]{Howl’s} last uprising and managing other dire issues about to come to light in the Conclave’s chambers (see @UUID[.AYJ70cmnV5Y6rDDt#strife-vii-b-doom-of-the-border-worlds]{Strife VII-B} and @UUID[.AYJ70cmnV5Y6rDDt#strife-vii-c-doom-of-the-border-worlds]{VII-C}).",
+   "ru": ""
+  },
+  "120": {
+   "en": "Operation",
+   "ru": ""
+  },
+  "126": {
+   "en": "In bringing the light of the God-Emperor to the final shadows concealing the Herald's Howl, the characters are entrusted with destroying the final cell of the Genestealer Cult, embedded on Macharia, shrine world of Saint Macharius, the spiritual heart of the Macharian Sector.",
+   "ru": ""
+  },
+  "138": {
+   "en": "The dense and ever-shifting population of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.0g60Fj0fRMDfzYGB]{Macharia} proves the most significant challenge for locating the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#tyranids]{Genestealer Cult}. The number of pilgrims means that even local @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Ministorum} priests have little recollection of the faces and names of those who pass by. However, some priests have noted small mutations among the pilgrims and others who have gone to lengths to hide their facial features entirely with wraps and bandages.",
+   "ru": ""
+  },
+  "142": {
+   "en": "Characters may discover that @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.0g60Fj0fRMDfzYGB]{Macharia} has served as a node from which the cult has spread, moving freely aboard pilgrim ships under the guise of the faithful. Through interrogating or shadowing the movements of false pilgrims, characters learn that the cult operates from a network of catacombs beneath the Lord Solar’s Palace, centred on a cleared tomb turned cult hub, named the Sanctuary of the Four-armed Emperor.",
+   "ru": ""
+  },
+  "146": {
+   "en": "Once this location is discovered, the characters' Inquisitorial Patron organises a rendezvous, meeting the characters to prepare and join them to destroy what remains of the @UUID[.jt0zc7az5xNehcIZ#the-heralds-howl]{Herald’s Howl}.",
+   "ru": ""
+  },
+  "150": {
+   "en": "As the characters and their Patron reach the Sanctuary of the Four-armed Emperor, they are confronted by another Inquisitorial force. @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.sNDdDGlvY5m1HQ4R]{Ksenia Baek} and her acolytes do not allow them to assault the sanctuary, holding that the survival of the @UUID[.jt0zc7az5xNehcIZ#the-heralds-howl]{Herald’s Howl} is vital for the survival of the Imperium, as they will split the advance of the Tyranids, lessening the threat directed towards Holy Terra. ",
+   "ru": ""
+  },
+  "152": {
+   "en": "Inquisitor Baek",
+   "ru": ""
+  },
+  "154": {
+   "en": " is willing to kill any characters who do not stand down. If combat ensues, the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#tyranids]{Genestealer Cult’s} forces emerge to join the fray, instinctually supporting ",
+   "ru": ""
+  },
+  "156": {
+   "en": "Ksenia Baek",
+   "ru": ""
+  },
+  "158": {
+   "en": ". While the characters’ Patron engages the heretic Inquisitor, they are ordered to locate and destroy the Genestealer Patriarch, without whose synaptic influence the cult will surely crumble.",
+   "ru": ""
+  },
+  "162": {
+   "en": "Outcome",
+   "ru": ""
+  },
+  "166": {
+   "en": "If the characters succeed in destroying the final Patriarch of the @UUID[.jt0zc7az5xNehcIZ#the-heralds-howl]{Herald's Howl}, their Patron earns +1 Legitimacy. They gain the full support of @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Sylvestrine Horst} and @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.W50MW8gfyrDts9g3]{Aegidius Halikarn} in claiming the title of Inquisitor Lord. Regardless of whether she survived the engagement, ",
+   "ru": ""
+  },
+  "168": {
+   "en": "Inquisitor Baek",
+   "ru": ""
+  },
+  "170": {
+   "en": " is declared ",
+   "ru": ""
+  },
+  "172": {
+   "en": "Excommunicate Traitoris",
+   "ru": ""
+  },
+  "178": {
+   "en": "If the Conclave does not pursue this Strife, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.sNDdDGlvY5m1HQ4R]{Ksenia Baek} warns the surviving @UUID[.jt0zc7az5xNehcIZ#the-heralds-howl]{Herald's Howl} cells of the approaching danger. @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.W50MW8gfyrDts9g3]{Aegidius Halikarn} finds many supposed dens of heresy empty, with little trace of their presence, save for the Star Map motif left as an almost mocking final trace. The Herald's Howl fractures further: small cells flee across the sector in the bowels of voidships, spreading to other worlds where their twisted faith may be reborn in forgotten shadowed places, beginning their generational cycles once more.",
+   "ru": ""
+  },
+  "188": {
+   "en": "Strife VII-B ",
+   "ru": ""
+  },
+  "192": {
+   "en": "Fate of the Daemon-keepers",
+   "ru": ""
+  },
+  "200": {
+   "en": "Under the Conclave chamber’s bright lights, dark and brutal truths are uncovered for all to see. This moment could spell the end for many Inquisitors and shake the Macharian Inquisition to its core.",
+   "ru": ""
+  },
+  "208": {
+   "en": "The Conclave erupts in uproar as @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Sylvestrine Horst} motions that @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud} be declared ",
+   "ru": ""
+  },
+  "210": {
+   "en": "Excommunicate Traitoris",
+   "ru": ""
+  },
+  "214": {
+   "en": "Horst’s",
+   "ru": ""
+  },
+  "216": {
+   "en": " spies have observed ",
+   "ru": ""
+  },
+  "218": {
+   "en": "Raud’s",
+   "ru": ""
+  },
+  "220": {
+   "en": " actions when facing daemons and noted that ",
+   "ru": ""
+  },
+  "222": {
+   "en": "Raud",
+   "ru": ""
+  },
+  "224": {
+   "en": " seems more interested in their containment than their banishment.",
+   "ru": ""
+  },
+  "232": {
+   "en": "Depending on the events of previous Conclaves, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Horst} may cite the Daemon Engine core from @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.jB9sg2SDLZJGZrac]{Eskutchax} (@UUID[.ugwIBQXf8tEWYSE0#strife-ii-c-the-eskutchax-incongruity]{Strife II-C}) or the daemonhost extracted from @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.wHl3ZP7wM7OQvSLC]{Jotungarth} (@UUID[.1EujWPAAI3xsXmIk#strife-iii-c-the-ghost-of-luna]{Strife III-C}), depending on the outcome of those Strifes. ",
+   "ru": ""
+  },
+  "234": {
+   "en": "Horst",
+   "ru": ""
+  },
+  "236": {
+   "en": " accuses ",
+   "ru": ""
+  },
+  "238": {
+   "en": "Raud",
+   "ru": ""
+  },
+  "240": {
+   "en": " of Radicalism, that keeping a collection of daemons bound into Human bodies is a heresy, for indeed she is using them for some fell purpose, aligning herself with the very abominations that she must eradicate.",
+   "ru": ""
+  },
+  "248": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud} responds by levelling an accusation at @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Horst}, claiming she has evidence that implicates ",
+   "ru": ""
+  },
+  "250": {
+   "en": "Horst",
+   "ru": ""
+  },
+  "252": {
+   "en": " in the death of Inquisitor Lord Heironymo Drake — logs that her acolytes extracted from the Drake archive show that the Inquisitor Lord was acting on the information provided by ",
+   "ru": ""
+  },
+  "254": {
+   "en": "Horst",
+   "ru": ""
+  },
+  "256": {
+   "en": " when he departed for his disastrous final operation.",
+   "ru": ""
+  },
+  "264": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Horst} wilfully admits involvement in her mentor’s death, claiming that it was her duty to the Ordo Hereticus to bring about the downfall of the Inquisitor Lord she believed was a heretic cut from the same cloth as @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Raud} — the Inquisitor Lord was himself a keeper of daemonhosts, as evidenced by the discovery on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.wHl3ZP7wM7OQvSLC]{Jotungarth} (@UUID[.1EujWPAAI3xsXmIk#strife-iii-c-the-ghost-of-luna]{Strife III-C}). ",
+   "ru": ""
+  },
+  "266": {
+   "en": "Horst",
+   "ru": ""
+  },
+  "268": {
+   "en": " further claims that Drake should be posthumously declared ",
+   "ru": ""
+  },
+  "270": {
+   "en": "Excommunicate Traitoris",
+   "ru": ""
+  },
+  "280": {
+   "en": "As these Inquisitors hurl accusations at each other, the characters’ Patron can decide which, if any, Inquisitor is declared a traitor (they will take the characters’ council). If the characters do not choose, their Patron may abstain if they deem other Strifes of greater importance, leaving the debate in a stalemate.",
+   "ru": ""
+  },
+  "284": {
+   "en": "Operation",
+   "ru": ""
+  },
+  "290": {
+   "en": "Tensions rise. Sides are picked. Hands hover over holstered weapons. Unless cooler heads prevail, another Inquisitor will be named a traitor this day",
+   "ru": ""
+  },
+  "296": {
+   "en": "If either Inquisitor is declared ",
+   "ru": ""
+  },
+  "298": {
+   "en": "Excommunicate Traitoris",
+   "ru": ""
+  },
+  "300": {
+   "en": ", the @UUID[.Y1wjtyi7JdgHxQiF#mare-cinis]{Mare Cinis} base erupts into conflict as rival fireteams of @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.5rrnycKS5mMDjQJc]{Acolytes} fight to apprehend the traitor or defend their respective Inquisitor.",
+   "ru": ""
+  },
+  "304": {
+   "en": "If @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Sylvestrine Horst} is declared a traitor and pursued, she falls back under a guard of her gold-masked acolytes to her shuttle and flees to the surface of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy]{Persepolis}. Characters hunting her find that she has used her Adepta Sororitas Famulous allies to embed herself in the court of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#governance]{Sector Lord Aulus Sejanus}.",
+   "ru": ""
+  },
+  "308": {
+   "en": "Those who apprehend her may attempt to prove her treachery to the Order of the Hallowed Glass and break this alliance. Alternatively, a rogue group of @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Horst}'s former acolytes now in service of @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.W50MW8gfyrDts9g3]{Aegidius Halikarn} may know how to enter the hive spire covertly. If cornered, ",
+   "ru": ""
+  },
+  "310": {
+   "en": "Horst",
+   "ru": ""
+  },
+  "312": {
+   "en": " holds out to the end. She declares that she is a true loyalist and that @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Raud} and Drake were both heretics for their consorting with daemons.",
+   "ru": ""
+  },
+  "316": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud} will likewise fall back to her transport if pursued, her prayer scroll-adorned acolytes providing supporting fire. The Conclave know that ",
+   "ru": ""
+  },
+  "318": {
+   "en": "Raud",
+   "ru": ""
+  },
+  "320": {
+   "en": " is active in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.d0lv2v4FkeIb43jj]{Drimor Subsector}, where they suspect she likely keeps a base of operations. If characters can access records left at @UUID[.Y1wjtyi7JdgHxQiF#mare-cinis]{Mare Cinis} by ",
+   "ru": ""
+  },
+  "322": {
+   "en": "Raud",
+   "ru": ""
+  },
+  "324": {
+   "en": ", they may learn that her headquarters are on a void fortress at the edge of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.1AsBzkbw2InKayw2]{Ayzinith Abyss}.",
+   "ru": ""
+  },
+  "328": {
+   "en": "Her void fortress is heavily armed to defend against unauthorised incoming voidships, demanding that the Conclave commandeer @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.HlxK2pbpx2Uio6bU]{Navis Imperialis} vessels destroy it at long distances or undertake a near-suicidal boarding run. A deck at the station's core is the prison of twelve @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.M6XWkYc0lfuKl2hU]{Daemonhosts} captured by @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Raud} across years of operations. They serve in part as bait, which she believes may draw @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#machariuss-generals]{General Cyrus} into the open for the power they may offer if the traitor general still lives. If backed into a corner by an assault that overwhelms her force of acolytes, ",
+   "ru": ""
+  },
+  "330": {
+   "en": "Raud",
+   "ru": ""
+  },
+  "332": {
+   "en": ", galvanised by her @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.s88kgPSDiogPL4aB]{Xanthite} philosophy, will unleash daemonhosts, which she attempts to control and drive against the attackers — the damage they cause to the voidstation risks dooming all aboard.",
+   "ru": ""
+  },
+  "336": {
+   "en": "Outcome",
+   "ru": ""
+  },
+  "340": {
+   "en": "If the characters succeed in either operation, their Patron earns +1 Legitimacy and the full support of either @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Sylvestrine Horst} or @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud} in claiming the title of Inquisitor Lord (whoever is the most appropriate ally). If the characters’ Patron refuses to denounce ",
+   "ru": ""
+  },
+  "342": {
+   "en": "Horst",
+   "ru": ""
+  },
+  "344": {
+   "en": " or ",
+   "ru": ""
+  },
+  "346": {
+   "en": "Raud",
+   "ru": ""
+  },
+  "348": {
+   "en": " as a traitor and can defuse the tense situation, the two Inquisitors secretly develop a bitter enmity and begin waging a shadow war with their acolytes.",
+   "ru": ""
+  },
+  "358": {
+   "en": "Strife VII-C ",
+   "ru": ""
+  },
+  "362": {
+   "en": "Eskender Thracius",
+   "ru": ""
+  },
+  "370": {
+   "en": "The rise of the Herald's Howl forced the Conclave to halt their pursuit of Eskender Thracius. The Inquisitors all agree that Thracius has been privy to the inner workings of the Macharian Inquisition for too long. Now, he must be terminated for good.",
+   "ru": ""
+  },
+  "378": {
+   "en": "Information gathered following @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Thracius}’ revelations has allowed the Conclave to investigate his likely movements and whereabouts further. He operates primarily from the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.y6qA7KARTXADwzeV]{Cytheris Subsector}, with each of his aliases traced to activity on Macharia. Thus, ",
+   "ru": ""
+  },
+  "380": {
+   "en": "Thracius",
+   "ru": ""
+  },
+  "382": {
+   "en": "’ corruption is placed within the spiritual heart of the Macharian Sector.",
+   "ru": ""
+  },
+  "386": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.gRAiiRJkLKviH0K5]{Konstan Serranus} is the first to demand this hunt be completed. After being captured due to @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Thracius}’ actions and learning that ",
+   "ru": ""
+  },
+  "388": {
+   "en": "Thracius",
+   "ru": ""
+  },
+  "390": {
+   "en": " has flaunted the use of not only xenos technology but also that of the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#aeldari]{Aeldari}, his hatred for the rogue Inquisitor now knows no bounds. ",
+   "ru": ""
+  },
+  "392": {
+   "en": "Serranus",
+   "ru": ""
+  },
+  "394": {
+   "en": " believes they should purge ",
+   "ru": ""
+  },
+  "396": {
+   "en": "Thracius’s",
+   "ru": ""
+  },
+  "398": {
+   "en": " entire organisation to ensure no hidden traitors or aliases remain.",
+   "ru": ""
+  },
+  "402": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.W50MW8gfyrDts9g3]{Aegidius Halikarn} agrees with @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.gRAiiRJkLKviH0K5]{Serranus} for the most part. ",
+   "ru": ""
+  },
+  "404": {
+   "en": "Thracius’s",
+   "ru": ""
+  },
+  "406": {
+   "en": " sector-spanning web of contacts and anti-xenos resources still proves a boon to the Inquisition. A suitable acolyte or Interrogator could be found to take over, with oversight from the rest of the Conclave.",
+   "ru": ""
+  },
+  "410": {
+   "en": "Operation",
+   "ru": ""
+  },
+  "416": {
+   "en": "Characters begin their pursuit of Thracius by heading to Macharia, now suspected to be the planetary base of his entire operation. As they pull at threads, they discover Thracius has woven his way into influencing many of the planet’s ruling organisations to push his Isstvanist goals.",
+   "ru": ""
+  },
+  "428": {
+   "en": "Characters can begin investigating within the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.HURMpEU0Nnc93Ocv]{Adeptus Ministorum} for any Inquisitorial links that may lead them to @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Eskender Thracius}. The Planetary Governor, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.0g60Fj0fRMDfzYGB#personalities-of-macharia]{Arch-Confessor Evaristus Heliacal}, is little help, age clouding whatever memories they may have had of past cooperation with the Inquisition. @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.0g60Fj0fRMDfzYGB#personalities-of-macharia]{Arch-Cardinal Molinair}, however, has a history of regular contact with multiple Inquisitors, including @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud} and ",
+   "ru": ""
+  },
+  "430": {
+   "en": "Kai Varol",
+   "ru": ""
+  },
+  "432": {
+   "en": ", one of ",
+   "ru": ""
+  },
+  "434": {
+   "en": "Thracius",
+   "ru": ""
+  },
+  "436": {
+   "en": "’ discarded identities, and the late Inquisitor Lord Heironymo Drake.",
+   "ru": ""
+  },
+  "440": {
+   "en": "Upon learning of ",
+   "ru": ""
+  },
+  "442": {
+   "en": "Varol’s",
+   "ru": ""
+  },
+  "444": {
+   "en": " betrayal, the Arch-Cardinal cannot reveal any further information about their dealing with Inquisitors, suggesting a total lack of memory of these past engagements. The reality of this inability results from Inquisitor Lord Drake's psychic conditioning — @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.0g60Fj0fRMDfzYGB#personalities-of-macharia]{Molinair} cannot discuss their service to the Inquisition other than in direct conversation with the Inquisitor in question. Without the physical presence of ",
+   "ru": ""
+  },
+  "446": {
+   "en": "Kai Varol",
+   "ru": ""
+  },
+  "448": {
+   "en": ", the characters can learn nothing more from him. Savvy players may recognise the opportunity to impersonate ",
+   "ru": ""
+  },
+  "450": {
+   "en": "Kai Varol",
+   "ru": ""
+  },
+  "452": {
+   "en": " using polymorphine and extract the needed information that way",
+   "ru": ""
+  },
+  "456": {
+   "en": "Characters seeking to pursue @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.0g60Fj0fRMDfzYGB#personalities-of-macharia]{Molinair’s} links with @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Thracius} may also learn more through meetings with other leading powers of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Ecclesiarchy}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.HlxK2pbpx2Uio6bU]{Imperial Fleet}, and @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum} on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.0g60Fj0fRMDfzYGB]{Macharia}. Many of these leaders have the same psychic conditioning. Through further investigation, characters discover that @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.0g60Fj0fRMDfzYGB#personalities-of-macharia]{Molinair} oversaw the construction of an Inquisitorial sanctum under orders from ",
+   "ru": ""
+  },
+  "458": {
+   "en": "Kai Varol",
+   "ru": ""
+  },
+  "464": {
+   "en": "While the characters undertake this investigation, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Eskender Thracius} orders a strike force of his acolytes to shadow the characters, reporting their movements, and attempt to undertake covert assassinations if an opportunity presents itself, in part by stoking rumours among pilgrims that the characters are heretics, in the hope that they may be killed in mob violence.",
+   "ru": ""
+  },
+  "468": {
+   "en": "If the characters prove capable of fending them off, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Thracius} may approach the characters personally. He will offer them a last chance to join his retinue — which they could do if they earnestly believe in his @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.UAWh0hEvWDwob6CT]{Isstvanist} ideals or as an underhanded means to infiltrate his innermost circle.",
+   "ru": ""
+  },
+  "472": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Thracius}’ stronghold lies buried beneath the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.0g60Fj0fRMDfzYGB#the-tomb-of-macharius]{Tomb of Macharius}, sheltered by the resting places of ten thousand martyrs, and accessed through the Mausoleum of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#machariuss-generals]{Saint Crassus}, one of Saint Macharius’ generals. @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.gRAiiRJkLKviH0K5]{Konstan Serranus} and their Patron join the characters to undertake a raid on ",
+   "ru": ""
+  },
+  "474": {
+   "en": "Thracius",
+   "ru": ""
+  },
+  "476": {
+   "en": "’ stronghold. They find it heavily defended by his remaining acolytes, armed with powerful @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#aeldari]{Aeldari} weaponry. Characters who reach the stronghold’s heart find ",
+   "ru": ""
+  },
+  "478": {
+   "en": "Eskender Thracius",
+   "ru": ""
+  },
+  "480": {
+   "en": ", defended by a salvaged @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.CuYIq94DC9jXSdCG]{Wraithguard}, making his last heretical stand.",
+   "ru": ""
+  },
+  "484": {
+   "en": "Outcome",
+   "ru": ""
+  },
+  "488": {
+   "en": "If the characters capture or kill ",
+   "ru": ""
+  },
+  "490": {
+   "en": "Inquisitor",
+   "ru": ""
+  },
+  "492": {
+   "en": " @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Eskender Thracius}, their Patron earns +1 Legitimacy and the full support of @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.gRAiiRJkLKviH0K5]{Konstan Serranus} in claiming the title of Inquisitor Lord.",
+   "ru": ""
+  },
+  "496": {
+   "en": "If unapprehended, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Eskender Thracius} acts quickly to cover his tracks and produce new identities, allowing him to continue his duties to the God-Emperor secretly. Perhaps one or more of his new identities find places among the Macharian Inquisition, allowing him to observe their movements and shield his holy work from the traitors and fools who would threaten to destroy it.",
+   "ru": ""
+  },
+  "506": {
+   "en": "Conclave VII Conclusion",
+   "ru": ""
+  },
+  "510": {
+   "en": "With a final, decisive action, one Inquisitor has demonstrated to the Conclave their worthiness as a successor to Inquisitor Lord Heironymo Drake. But two threats still grow in the Macharian Sector, and the number of active Inquisitors has dwindled — they must gather new allies, train new operatives, and fill empty seats in their ranks. The Inquisition cannot rest.",
+   "ru": ""
+  }
+ }
+}

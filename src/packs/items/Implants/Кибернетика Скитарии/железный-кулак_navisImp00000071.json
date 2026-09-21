@@ -2,7 +2,7 @@
   "name": "Железный Кулак",
   "type": "navis-apexialis.implant",
   "_id": "navisImp00000071",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00005",
   "sort": 7100,
   "system": {

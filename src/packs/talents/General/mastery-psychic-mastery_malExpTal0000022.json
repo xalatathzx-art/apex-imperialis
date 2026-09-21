@@ -2,7 +2,7 @@
   "name": "Mastery (Psychic Mastery)",
   "type": "talent",
   "_id": "malExpTal0000022",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Spend FP to auto-succeed on selected Psychic Mastery, scored SL = associated stat bonus</span></p><hr><p><span style=\"font-family: Arial\"><em>You must have 4 Advances in Psychic Mastery and the Talented(Psychic Mastery) on. You can spend a Fate Point to automatically pass a Psychic Mastery Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "4 Advances in Psychic Mastery, Talented (Psychic Mastery) Talent",
-      "script": "return this.actor.system.skills.psychic.advances >= 4 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Talented(Psychic Mastery)\")"
+      "script": "return this.actor.system.skills.psychic.advances >= 4 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Talented (Psychic Mastery)\")"
     },
     "test": {
       "difficulty": "challenging",

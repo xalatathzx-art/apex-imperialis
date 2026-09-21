@@ -2,7 +2,7 @@
   "name": "Unarmed Warrior",
   "type": "talent",
   "_id": "malExpTal0000113",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Unarmed weapon profile is 1+StB. Increase any One-Handed or Brawling weapon to at least 1+StB damage</span></p><hr><p><span style=\"font-family: Arial\"><em>Your unarmed Melee attacks deal 1 + StrB Damage instead of just StrB. If you are using a subtle Brawling or One-Handed weapon that would deal 1+StrB Damage or less, increase its damage by 1 (i.e.  knives are now 1 + StrB)</em></span></p>",

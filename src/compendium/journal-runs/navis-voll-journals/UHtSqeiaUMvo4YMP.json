@@ -1,0 +1,149 @@
+{
+ "journal": "yAAIQKv8lK49HRLz",
+ "journalName": "Implacable",
+ "page": "UHtSqeiaUMvo4YMP",
+ "pageName": "Part 5: The Apocalypse Nears",
+ "name": "Часть 5: «Близится апокалипсис»",
+ "runs": {
+  "2": {
+   "en": "When the characters descend from the Spires, it is approximately three days till Halion’s Triumph begins. Once the characters have had a chance to talk about their next moves, a messenger servo-skull appears with a message from their Patron.",
+   "ru": "Когда персонажи спускаются со шпилей, до начала Триумфа Халиона остаётся примерно три дня. Как только у них появляется возможность обсудить дальнейшие шаги, прилетает сервочереп-посыльный с посланием от покровителя."
+  },
+  "8": {
+   "en": "‘Your mission’s parameters have changed. You must do what you can to retrieve the Harbinger alive. I have assembled a strike team to aid you. They are en route to you but will arrive in approximately seven days. The Emperor protects.’",
+   "ru": "«Параметры вашего задания изменились. Сделайте всё возможное, чтобы захватить Предвестника живым. Я собрал ударную группу вам в помощь. Она уже в пути, но прибудет примерно через семь дней. Император защищает»."
+  },
+  "14": {
+   "en": "Bringing in the Tech-Priest",
+   "ru": "Привлечение техножреца"
+  },
+  "18": {
+   "en": "If the characters take what they’ve learned to Loga Binary-46, she registers as pleased. She explains to the characters that she and some colleagues have determined that the stolen remote detonators have signals that can be interfered with, in part because the density of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth's} architecture dilutes their signal. ",
+   "ru": "Если персонажи расскажут о том, что узнали, Логе Бинари-46, она выражает удовлетворение. Она объясняет, что вместе с несколькими коллегами установила: сигналы украденных дистанционных детонаторов можно заглушить — отчасти потому, что плотность застройки @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта} ослабляет их сигнал. "
+  },
+  "24": {
+   "en": "‘The information you have gathered suggests the assassin ",
+   "ru": "«Собранные вами сведения указывают, что ассасин "
+  },
+  "26": {
+   "en": "will",
+   "ru": "нанесёт"
+  },
+  "28": {
+   "en": " strike at Halion’s Triumph. We must disrupt his signal. In this matchless opportunity, he will be forced to activate his explosives manually, even as you are compelled to directly confront him to input the cancellation order and terminate his mission. A pleasing symmetry; the Omnissiah approves.’",
+   "ru": " удар во время Триумфа Халиона. Мы должны заглушить его сигнал. При этой несравненной возможности ему придётся приводить взрывчатку в действие вручную — а вам придётся столкнуться с ним напрямую, чтобы ввести приказ об отмене и прекратить его задание. Приятная симметрия; Омниссия одобряет»."
+  },
+  "34": {
+   "en": "She assists the characters in determining the most likely spots where explosives would need to be placed to cause the most harm at the Halion’s Triumph commemoration in eastern @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth}. She employs numerous Adeptus Mechanicus’ devices, many of which she does not discuss openly, to search for the Harbinger in those areas. ",
+   "ru": "Она помогает персонажам определить наиболее вероятные места, куда нужно заложить взрывчатку, чтобы нанести наибольший вред на торжествах Триумфа Халиона в восточном @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарте}. Для поиска Предвестника в этих районах она использует многочисленные устройства Адептус Механикус, о большинстве из которых открыто не говорит. "
+  },
+  "38": {
+   "en": "The night before the commemoration, she sends a vox message to the characters, informing them she has spotted the assassin moving stealthily at great speed and knows with only a 3% chance of error where he will be located on the morrow to set off his explosives manually.",
+   "ru": "Накануне торжеств она отправляет персонажам вокс-сообщение: она заметила, как ассасин скрытно передвигается с огромной скоростью, и с вероятностью ошибки всего 3% знает, где он окажется завтра, чтобы вручную привести в действие взрывчатку."
+  },
+  "44": {
+   "en": "‘May probability skew in our favour. Ave Omnissiah.’",
+   "ru": "«Да склонится вероятность в нашу пользу. Слава Омниссии»."
+  },
+  "50": {
+   "en": "Confronting the Eversor",
+   "ru": "Противостояние с эверсором"
+  },
+  "54": {
+   "en": "The site Loga Binary-46 has determined as the most likely location where the characters can confront the assassin, is a maintenance corridor within the upper sections of the Lower Hive. The corridor is under three meters wide, its sides lined with piping and various inscrutable machinery. A ",
+   "ru": "Место, которое Лога Бинари-46 определила как наиболее вероятное для встречи с ассасином, — технический коридор в верхних секциях нижнего улья. Коридор шириной меньше трёх метров, вдоль его стен тянутся трубы и различные непостижимые механизмы. "
+  },
+  "56": {
+   "en": "Challenging (+0) Tech (Engineering)",
+   "ru": "Средняя (+0) проверка Техники (Инженерное дело)"
+  },
+  "58": {
+   "en": " Test reveals that the bulk of the machinery is for air regulation and power dispersal, but also that the corridor underlies one of the main retention walls, which supports the eastern Windswept Buttress.",
+   "ru": " показывает, что основная часть механизмов служит для регулирования воздуха и распределения энергии, а также что коридор проходит под одной из главных подпорных стен, на которую опирается восточный Продуваемый контрфорс."
+  },
+  "62": {
+   "en": "The information the characters have gathered about Interitas during the course of ",
+   "ru": "Сведения об Интеритасе, собранные персонажами по ходу "
+  },
+  "64": {
+   "en": "Implacable",
+   "ru": "«Неумолимого»"
+  },
+  "66": {
+   "en": " means they likely gain 1 Superiority against him for ",
+   "ru": ", скорее всего, дают им 1 превосходство против него за "
+  },
+  "68": {
+   "en": "Know Thy Foe",
+   "ru": "«Знай своего врага»"
+  },
+  "70": {
+   "en": ". You should also determine if the party has garnered more @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.3j1kargHBeCTssE7#gaining-superiority-before-combat]{Superiority} for the fight ahead.",
+   "ru": ". Кроме того, определите, не получил ли отряд дополнительное @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.3j1kargHBeCTssE7#gaining-superiority-before-combat]{превосходство} перед предстоящей схваткой."
+  },
+  "74": {
+   "en": "No level of stealth affords the characters the opportunity to catch the assassin unaware due to a device he carries called a Sentinel Array — but they won’t know that. Characters working with the Tech-Priest have a good idea when the assassin is about to arrive due to ongoing vox warnings. That still doesn’t lessen the impact as he looms out of the shadows of the hive.",
+   "ru": "Никакая скрытность не даст персонажам застать ассасина врасплох из-за устройства, которое он носит, — сторожевого комплекса, — но они об этом не знают. Персонажи, работающие с техножрецом, благодаря постоянным предупреждениям по воксу хорошо представляют, когда появится ассасин. Это ничуть не ослабляет впечатления, когда он вырастает из теней улья."
+  },
+  "78": {
+   "en": "Confronting the terrifying presence of an Eversor Assassin requires a ",
+   "ru": "Чтобы выдержать ужасающее присутствие ассасина-эверсора, нужна "
+  },
+  "80": {
+   "en": "Hard (−20) Discipline (Fear)",
+   "ru": "Сложная (−20) проверка Дисциплины (Страх)"
+  },
+  "82": {
+   "en": " Test. It also takes a ",
+   "ru": ". Кроме того, нужна "
+  },
+  "84": {
+   "en": "Challenging (+0) Discipline (Composure)",
+   "ru": "Средняя (+0) проверка Дисциплины (Самообладание)"
+  },
+  "86": {
+   "en": " Test to speak Interitas’ mission retraction orders clearly and calmly. If the speaker doesn’t know High Gothic, they make this Test with Disadvantage. Failure means they must try again in the following round, presuming they are still alive, as Interitas immediately shifts to attack anyone trying to give him a shutdown order.",
+   "ru": ", чтобы чётко и спокойно произнести приказ об отмене задания Интеритаса. Если говорящий не знает Высокого готика, он проходит эту проверку с помехой. Провал означает, что попытку придётся повторить в следующем раунде — если он ещё будет жив, ведь Интеритас немедленно переключается на атаку любого, кто пытается отдать ему приказ об отключении."
+  },
+  "90": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.Tb2PzBCvBZiVSKPD]{Eversor Interitas} is more than capable of slaughtering all the characters — fighting defensively is almost certainly their best option. Echoing gunfire in an enclosed corridor prevents the assassin from being able to hear what is being said to him clearly. This does not necessarily prevent him from shooting — the best way to stop that is to engage him in melee combat.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.Tb2PzBCvBZiVSKPD]{Эверсор Интеритас} вполне способен перебить всех персонажей — оборонительный бой почти наверняка лучший для них вариант. Гулкая стрельба в тесном коридоре не даёт ассасину ясно расслышать, что ему говорят. Стрелять ему это не обязательно мешает — лучший способ это прекратить — связать его ближним боем."
+  },
+  "94": {
+   "en": "If the shutdown command is successfully delivered, ",
+   "ru": "Если команда отключения успешно передана — "
+  },
+  "96": {
+   "en": "‘Unit Shutdown: Primus Sanctus Red’",
+   "ru": "«Отключение единицы: Примус Санктус Красный»"
+  },
+  "98": {
+   "en": ", Interitas immediately stops in his tracks — even mid-attack. He sheaths his weapons and moves for the drop pod, where he falls into a deep state of psycho-restraint.",
+   "ru": ", — Интеритас немедленно замирает на месте, даже посреди атаки. Он убирает оружие и направляется к десантной капсуле, где погружается в глубокое состояние психосдерживания."
+  },
+  "102": {
+   "en": "The Coward’s Way",
+   "ru": "Путь труса"
+  },
+  "106": {
+   "en": "If the characters choose not to act and await their Patron’s strike team, on the day of Halion’s Triumph, a series of massive explosions collapse the greater part of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth's} eastern Windswept Buttress. The number of deaths is staggering, and the final number is ultimately impossible to determine. The Harbinger’s predations begin again the following evening.",
+   "ru": "Если персонажи решат ничего не делать и дождаться ударной группы покровителя, в день Триумфа Халиона серия мощных взрывов обрушивает бо́льшую часть восточного Продуваемого контрфорса @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта}. Число погибших ошеломляет, и точную цифру в итоге установить невозможно. Следующим же вечером Предвестник снова выходит на охоту."
+  },
+  "110": {
+   "en": "Let the characters say what they choose to do, if anything, to assist the folk of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth}. Once the strike team arrives, they take all the information the characters have gathered, then dismiss them. It takes weeks for them to track and confront the Harbinger, and during that time, hundreds more civilians die. Their Patron is exceedingly displeased with them all, holding their failure to intervene as reprehensible cowardice.",
+   "ru": "Позвольте персонажам сказать, что они решат сделать (если вообще что-то), чтобы помочь жителям @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта}. Когда прибывает ударная группа, она забирает все собранные персонажами сведения и отпускает их. На то, чтобы выследить Предвестника и сразиться с ним, у неё уходят недели, и за это время гибнут ещё сотни мирных жителей. Покровитель крайне недоволен всеми, считая их бездействие постыдной трусостью."
+  },
+  "114": {
+   "en": "If the Tech-Priest Loga Binary-46 ever learns the characters suspected what was coming, but did not act, they immediately lose 2 Influence with her and the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus}. ",
+   "ru": "Если техножрец Лога Бинари-46 когда-нибудь узнает, что персонажи подозревали, что грядёт, но не вмешались, они немедленно теряют 2 влияния у неё и у @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус}. "
+  },
+  "118": {
+   "en": "Other Solutions",
+   "ru": "Другие решения"
+  },
+  "122": {
+   "en": "The characters may have gathered enough information to confront the assassin without the Tech-Priest's assistance. The characters may have deduced some way of locating him or correctly surmised that he must be close enough for the detonation signal to carry through @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth's} thick architecture. In such a case, bow to the law of dramatic necessity and let them find him before he has set off the signal. If they cannot stop him one way or another within four combat rounds, he sets off the explosives, then withdraws to continue his mission the following evening.",
+   "ru": "Персонажи могли собрать достаточно сведений, чтобы противостоять ассасину без помощи техножреца. Они могли придумать способ найти его или верно догадаться, что он должен находиться достаточно близко, чтобы сигнал детонации прошёл сквозь толщу застройки @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{улья Рокарт}. В таком случае подчинитесь закону драматической необходимости и позвольте им найти его прежде, чем он подаст сигнал. Если так или иначе они не смогут остановить его за четыре раунда боя, он взрывает заряды, а затем отступает, чтобы продолжить задание на следующий вечер."
+  }
+ }
+}

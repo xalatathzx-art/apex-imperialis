@@ -1,0 +1,577 @@
+{
+ "journal": "DSccO5miF7LSJCVS",
+ "journalName": "Illicit Fabrications",
+ "page": "0E1byP7m6ewbH53O",
+ "pageName": "Part 2: Caged Conspiracy",
+ "name": "Часть 2: «Заговор в клетке»",
+ "runs": {
+  "2": {
+   "en": "Having discovered a link between the explosion and an underground fighting pit, the party navigates the dangers and dealings within The Dreg before uncovering a vile plot and a mysterious benefactor lingering in an abandoned hideout.",
+   "ru": "Обнаружив связь между взрывом и подпольной бойцовой ямой, отряд пробирается через опасности и тёмные сделки «Отстойника», а затем раскрывает гнусный заговор и встречает таинственного благодетеля, скрывающегося в брошенном логове."
+  },
+  "6": {
+   "en": "The Dreg",
+   "ru": "«Отстойник»"
+  },
+  "12": {
+   "en": "The Dreg is a collection of the miserable and the desperate, all seeking some escape from the drudgery of their lives. An abandoned hovel amid the hab slums, made from collapsed tunnels and crumbled industrial floors. The dug out antechamber is lit by a discordant mix of scavenged, flickering lumens of various tones. A stairway descends to a heavy iron door where two massive brutes bulked by grafted muscle stand sentinel.",
+   "ru": "«Отстойник» — сборище несчастных и отчаявшихся, ищущих хоть какого-то спасения от беспросветной рутины своей жизни. Это заброшенная дыра посреди жилых трущоб, устроенная в обвалившихся туннелях и раскрошившихся промышленных перекрытиях. Выкопанный вестибюль освещён разнобоем мерцающих люменов разных оттенков, добытых на свалках. Лестница спускается к тяжёлой железной двери, у которой на страже стоят два здоровенных громилы, раздутых пересаженными мышцами."
+  },
+  "18": {
+   "en": "In the far corner of the antechamber, impossible to miss in his red scarf, sits Datan. He’s finishing up selling some of his black market rations to a customer. Should the characters approach him, ",
+   "ru": "В дальнем углу вестибюля сидит Датан — не заметить его в красном шарфе невозможно. Он как раз заканчивает продавать покупателю пайки с чёрного рынка. Если персонажи подойдут к нему, "
+  },
+  "20": {
+   "en": "Datan",
+   "ru": "Датан"
+  },
+  "22": {
+   "en": " greets them with a greasy smile and begins to ask them what they’re in the market for. He has his rations on hand but otherwise claims to source ‘anything they need’ (use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ncXwqNsh38L8CyRo]{Smuggler} stat-block to represent him). ",
+   "ru": " встречает их масленой улыбкой и спрашивает, что им нужно. Пайки у него при себе, а в остальном он утверждает, что может достать «всё что угодно» (используйте для него профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ncXwqNsh38L8CyRo]{контрабандиста}). "
+  },
+  "26": {
+   "en": "If the party asks him about the rations, he confirms they’re his, a custom mixture made from militarum-grade rations and other nutrients sourced here in @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth}. He claims it is much better stuff than what the dispensaries give out. He offers them at 10 solars for a pack of six — but is evasive if asked to whom he has recently sold them. Should the characters press him or otherwise mention their investigation of the manufactorum explosion, he says that he cannot confirm or deny any dealings he may or may not have had. Characters can make a ",
+   "ru": "Если отряд спросит его о пайках, он подтверждает, что они его, — особая смесь из пайков армейского образца и других питательных веществ, добытых здесь, в @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарте}. Он уверяет, что это куда лучше того, что выдают распределители, и предлагает их по 10 соляров за упаковку из шести штук, но уходит от ответа, если спросить, кому он их недавно продавал. Если персонажи надавят на него или упомянут, что расследуют взрыв на мануфакторуме, он говорит, что не может ни подтвердить, ни опровергнуть сделки, которые у него были или не были. Персонажи могут пройти "
+  },
+  "28": {
+   "en": "Difficult (−10) Presence (Intimidation)",
+   "ru": "Трудную (−10) проверку Командования (Запугивание)"
+  },
+  "30": {
+   "en": " or ",
+   "ru": " или "
+  },
+  "32": {
+   "en": "Rapport (Charm)",
+   "ru": "Взаимопонимания (Обаяние)"
+  },
+  "34": {
+   "en": " Test, or simply offer him around 100 solars as a bribe, to loosen his tongue.",
+   "ru": " либо просто предложить ему около 100 соляров взятки, чтобы развязать ему язык."
+  },
+  "38": {
+   "en": "Other than his usual customers, Datan recently sold a large shipment to some gangers, the @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#the-vylathi-knives]{Vylathi Knives}. The whole deal was brokered through a friend of his who also dealt with the Knives — the rations were something of a sweetener to the deal. Datan genuinely knows very little else about the deal. If the party asks about this friend, Datan points towards the stairs to the pit, guarded by a pair of rough-looking gangers:",
+   "ru": "Помимо обычных покупателей, Датан недавно продал большую партию гангерам — @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#the-vylathi-knives]{Ножам Вилати}. Сделку устроил его друг, который тоже вёл дела с Ножами, — пайки были чем-то вроде довеска к основной сделке. Больше Датан о ней и правда почти ничего не знает. Если отряд спросит об этом друге, Датан указывает на лестницу в яму, которую охраняют двое грубоватых на вид гангеров:"
+  },
+  "44": {
+   "en": "‘You’ll find him down there in the pits. Kem, an old friend of mine, unless he’s done you some harm… In which case, I hardly know him. He sent the gangers my way. I didn’t get any names. The guy in charge looked pretty dangerous — smile like an acynadi and an attitude to match. They bought all my stock and left.’",
+   "ru": "«Найдёте его там, внизу, в ямах. Кем, мой старый друг, — если только он вам ничем не навредил… тогда я его почти не знаю. Это он прислал ко мне гангеров. Имён я не спрашивал. Главный у них выглядел опасным — улыбка как у ацинади, и нрав под стать. Скупили весь мой товар и ушли»."
+  },
+  "50": {
+   "en": "Datan has little else of immediate use for the party but is a valuable Contact. If a character is particularly generous to him, purchasing some of his goods or paying 200 or more solars for his information, they may add him as an Infractionist @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#personal-influence]{Contact}.",
+   "ru": "Больше ничего сразу полезного для отряда у Датана нет, но он ценный контакт. Если персонаж будет с ним особенно щедр — купит что-нибудь из его товара или заплатит за сведения 200 соляров и больше, — он может добавить Датана как @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#personal-influence]{контакт} среди одиночек."
+  },
+  "56": {
+   "en": "The Pit Below",
+   "ru": "Яма внизу"
+  },
+  "62": {
+   "en": "From beyond the doorway, leading down into the bowels of the Dreg, muffled cheering reaches up to be heard. Loud thumps and painful cracks further punctuate roars and screams. The architecture screams of decay, it might fall apart at any minute, but until then, the people here desperately need a place to go and forget their never-ending drudgery.",
+   "ru": "Из-за двери, ведущей в недра «Отстойника», доносятся приглушённые возгласы. Рёв и крики перемежаются громкими ударами и болезненным хрустом. Всё здесь дышит упадком и может рухнуть в любую минуту, но пока этого не случилось, местным отчаянно нужно место, где можно забыть о бесконечной рутине."
+  },
+  "68": {
+   "en": "The muscled brutes guarding the stairs are ",
+   "ru": "Лестницу охраняют мускулистые громилы "
+  },
+  "70": {
+   "en": "Boritz",
+   "ru": "Бориц"
+  },
+  "72": {
+   "en": " and ",
+   "ru": " и "
+  },
+  "74": {
+   "en": "Urdo",
+   "ru": "Урдо"
+  },
+  "76": {
+   "en": " (use the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{Grafted Ganger} stat-block to represent them). Anyone with at least 1 @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionist} Influence can easily talk their way in — punters and their solars are welcome after all — but anyone with a bearing of authority is asked about their business, requiring an ",
+   "ru": " (используйте для них профиль @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{гангера с пересаженными мышцами}). Тот, у кого есть хотя бы 1 влияние у @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{одиночек}, легко уговорит их пропустить — игроков с солярами здесь, в конце концов, привечают, — но всякого, от кого веет властью, спрашивают, зачем он пришёл, и чтобы пройти, нужна "
+  },
+  "78": {
+   "en": "Average (+20) Rapport (Charm",
+   "ru": "Рутинная (+20) проверка Взаимопонимания (Обаяние"
+  },
+  "80": {
+   "en": " or ",
+   "ru": " или "
+  },
+  "82": {
+   "en": "Deception)",
+   "ru": "Обман)"
+  },
+  "84": {
+   "en": " Test needed to get past them. If violence ensues, a short fistfight is considered a reasonable introduction in the Dreg, but anyone who pulls a weapon is set upon by three more @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{Grafted Gangers}, who emerge from a side room and attempt to remove any offender from the premises with all due bloodshed.",
+   "ru": ". Если дело дойдёт до насилия, короткая драка на кулаках в «Отстойнике» считается вполне приемлемым знакомством, но на любого, кто выхватит оружие, набрасываются ещё трое @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{гангеров с пересаженными мышцами}: они выходят из боковой комнаты и пытаются вышвырнуть нарушителя со всем подобающим кровопролитием."
+  },
+  "88": {
+   "en": "The stairs down to the pit are plastered with graffiti, much of it carved into the rusting bulkhead walls and pipework along the narrow stairway. The space beneath is impressively large. Characters with Advances in the Engineering specialisation, or anyone who makes a ",
+   "ru": "Лестница в яму исписана граффити, многие из которых вырезаны на ржавых переборках и трубах вдоль узкого пролёта. Пространство внизу поразительно велико. Персонажи с улучшениями в специализации «Инженерное дело», а также прошедшие "
+  },
+  "90": {
+   "en": "Routine (+20) Tech (Engineering)",
+   "ru": "Рутинную (+20) проверку Техники (Инженерное дело)"
+  },
+  "92": {
+   "en": " Test, realise it was once a massive promethium storage tank.",
+   "ru": ", понимают, что когда-то это было огромное прометиевое хранилище."
+  },
+  "96": {
+   "en": "Beyond the stairs in the vast open space, three tiers packed with a cheering crowd overlook a dome of razor wire where two bloodied figures circle one another, fists raised. At the far side, separated from the crowd on a raised dais, a large man sits on a chair flanked by four hulking guards.",
+   "ru": "За лестницей, в огромном открытом пространстве, три яруса, забитые ревущей толпой, нависают над куполом из колючей проволоки, где, подняв кулаки, кружат друг вокруг друга двое окровавленных бойцов. На дальней стороне, отделённый от толпы, на возвышении сидит в кресле крупный мужчина в окружении четырёх здоровенных телохранителей."
+  },
+  "100": {
+   "en": "The two continue to exchange blows as the characters enter. The crowd roars in approval at the bloody spectacle. Before long, one man catches the other with a right hook and sends his target sprawling to the floor, teeth scattering through the cage to be swiftly collected by eager punters willing to risk the razor wire for a souvenir. Panting and staggering to his feet, the victor raises a bloody fist. Shouts of ‘",
+   "ru": "Когда персонажи входят, противники продолжают обмениваться ударами. Толпа одобрительно ревёт, наслаждаясь кровавым зрелищем. Вскоре один из бойцов достаёт другого правым хуком и отправляет его на пол; выбитые зубы разлетаются по клетке, и азартные зрители, готовые рискнуть колючей проволокой ради сувенира, тут же их подбирают. Тяжело дыша и пошатываясь, победитель поднимается и вскидывает окровавленный кулак. Раздаются крики «"
+  },
+  "102": {
+   "en": "Kem! Kem! Kem!",
+   "ru": "Кем! Кем! Кем!"
+  },
+  "104": {
+   "en": "’ resound as smug gamblers pass by cursing losers to collect their winnings. ‘",
+   "ru": "», и самодовольные игроки проходят мимо чертыхающихся проигравших за выигрышем. «"
+  },
+  "106": {
+   "en": "Make your bets now, dear patrons! The night’s main event is upon us!",
+   "ru": "Делайте ставки, дорогие гости! Близится главное событие вечера!"
+  },
+  "108": {
+   "en": "’ says the seated man, a vox unit amplifying his voice around the hall. ‘",
+   "ru": "» — объявляет сидящий мужчина, и вокс-усилитель разносит его голос по залу. «"
+  },
+  "110": {
+   "en": "The butcher herself will take to the cage later tonight!",
+   "ru": "Сегодня в клетку выйдет сама Мясничиха!"
+  },
+  "116": {
+   "en": "Victorious but with more than a few bruises, Kem leaves the cage and limps towards a nearby passage. ",
+   "ru": "Победивший, но изрядно побитый Кем выходит из клетки и хромает к ближайшему проходу. "
+  },
+  "120": {
+   "en": "The characters are free to mix with the crowd for a while, most of whom are happy to discuss their wins and losses. The Pit strongly encourages gambling — though most citizens put rations and favours on the line, it's mostly the gangers who regularly bet solars. Meanwhile, characters easily hear speculation on the upcoming bout: the Butcher is the favourite by far, but Kem is popular with the crowd. Kem however, has been fighting in the pit for years longer than most, and many believe he has slowed enough to make the coming match an easy win for the Butcher.",
+   "ru": "Персонажи могут какое-то время свободно смешаться с толпой; большинство охотно обсуждают свои выигрыши и проигрыши. Яма всячески поощряет азартные игры: большинство горожан ставят пайки и услуги, а соляры регулярно ставят в основном гангеры. Тем временем персонажи без труда услышат пересуды о предстоящем бое: Мясничиха — безусловный фаворит, но толпа любит Кема. Однако Кем дерётся в яме на годы дольше большинства, и многие считают, что он достаточно сдал, чтобы предстоящий бой стал для Мясничихи лёгкой победой."
+  },
+  "124": {
+   "en": "Following Kem",
+   "ru": "Следом за Кемом"
+  },
+  "130": {
+   "en": "Kem sits in a filthy ablution chamber, washing the blood from his skin with murky water from a rusted pipe. His deep, wheezing breaths accentuate the messy gashes crisscrossing his muscular flesh. A crimson rag lies on the floor beside him.",
+   "ru": "Кем сидит в грязной умывальне и смывает кровь мутной водой из ржавой трубы. Глубокое, хриплое дыхание подчёркивает рваные раны, крест-накрест покрывающие его мускулистое тело. На полу рядом лежит алая тряпка."
+  },
+  "136": {
+   "en": "With the blood removed from his face and hair, the characters can see he is far older than he seems and weary beyond measure. Looking up at them, Kem spits a gob of red spit onto the floor and asks, ‘",
+   "ru": "Когда кровь смыта с его лица и волос, персонажи видят, что он гораздо старше, чем кажется, и безмерно устал. Подняв на них взгляд, Кем сплёвывает на пол красный сгусток и спрашивает: «"
+  },
+  "138": {
+   "en": "What do you want?",
+   "ru": "Чего вам?"
+  },
+  "144": {
+   "en": "If the party explains to Kem that Datan told them he might know something about the manufactorum explosion, he curses and growls. He threatens to ‘",
+   "ru": "Если отряд объяснит Кему, что Датан сказал, будто тот может знать что-то о взрыве на мануфакторуме, он чертыхается и рычит. Он грозится «"
+  },
+  "146": {
+   "en": "snap that little rat’s neck",
+   "ru": "свернуть этой крысе шею"
+  },
+  "148": {
+   "en": "’ when he sees him before breaking into a coughing fit and spitting more blood on the floor. He eyes the characters carefully before speaking again. Read aloud or paraphrase the following information:",
+   "ru": "», как только его увидит, а потом заходится кашлем и снова сплёвывает кровь на пол. Он внимательно разглядывает персонажей, прежде чем заговорить снова. Зачитайте вслух или перескажите следующее:"
+  },
+  "154": {
+   "en": "I’ve fought four tonight. Four strong, vicious men half my age, and I still owe Yarneg one last fight before I’m in the clear. He’s put me up against the Butcher, the pit champion. I know I can’t beat her. Maybe when I was young, but now? It's a death sentence. I don't want to die here. You want to know about the explosion? Help me out, and I'll tell you everything I know.",
+   "ru": "Я сегодня провёл четыре боя. Четверо сильных, злобных парней вдвое моложе меня, и я всё ещё должен Ярнегу последний бой, прежде чем буду чист. Он выставил меня против Мясничихи, чемпионки ямы. Я знаю, что мне её не одолеть. Может, в молодости, но сейчас? Это смертный приговор. Я не хочу здесь подохнуть. Хотите знать про взрыв? Помогите мне, и я расскажу всё, что знаю."
+  },
+  "160": {
+   "en": "Kem agrees to talk about what he knows only if the characters offer their aid. If so, Kem explains that Yarneg owns the Dreg, presiding over the fights with his guards at his side. He keeps the Butcher locked up like an animal and sends a lackey to feed her gruel laced with combat drugs before each fight. ",
+   "ru": "Кем соглашается рассказать, что знает, только если персонажи предложат помощь. В таком случае он объясняет, что «Отстойник» принадлежит Ярнегу, который руководит боями, держа телохранителей при себе. Мясничиху он держит взаперти, как зверя, и перед каждым боем посылает прихвостня накормить её баландой с боевыми стимуляторами. "
+  },
+  "164": {
+   "en": "Kem takes two pills from a brown paper bag and swallows them. ‘",
+   "ru": "Кем достаёт из бумажного пакета две таблетки и глотает их. «"
+  },
+  "166": {
+   "en": "These are some of the strongest pain suppressants this side of the hive, courtesy of your friend Datan. Switch the gruel and dump the rest of this bag in it; that should be enough to give me a chance. Unless one of you would rather fight her yourself?’",
+   "ru": "Одни из самых сильных обезболивающих по эту сторону улья — любезность вашего друга Датана. Подмените баланду и высыпьте в неё остаток пакета, этого должно хватить, чтобы у меня появился шанс. Или кто-то из вас хочет сам с ней подраться?»"
+  },
+  "172": {
+   "en": "He also tells them where to find the Butcher’s cell. A lone @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZUWBWGM4eH7xFZ8P]{Dreg} guards her wretched prison. If the guard can be distracted or removed, the characters can dose the butcher’s meal without issue. If they draw attention to themselves, Yarneg’s guards, more @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{Grafted Gangers}, arrive to remove them.",
+   "ru": "Он также рассказывает, где найти камеру Мясничихи. Её убогую темницу охраняет одинокий @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZUWBWGM4eH7xFZ8P]{отброс}. Если охранника удастся отвлечь или убрать, персонажи без труда подмешают снадобье в еду Мясничихи. Если же они привлекут к себе внимание, их выдворят телохранители Ярнега — ещё несколько @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{гангеров с пересаженными мышцами}."
+  },
+  "176": {
+   "en": "Otherwise, Kem could be intimidated into answering. A successful ",
+   "ru": "Кроме того, Кема можно запугать, чтобы он заговорил. Успешной "
+  },
+  "178": {
+   "en": "Hard (−20) Presence (Intimidation)",
+   "ru": "Сложной (−20) проверки Командования (Запугивание)"
+  },
+  "180": {
+   "en": " Test is enough to convince him to answer. But without the character’s aid, his prediction proves accurate, and the Butcher tears him to shreds in the coming bout.",
+   "ru": " достаточно, чтобы убедить его ответить. Но без помощи персонажей его предсказание сбывается, и в предстоящем бою Мясничиха разрывает его в клочья."
+  },
+  "184": {
+   "en": "A character might offer to fight in Kem’s stead. They need to convince Yarneg — a bulbous, sweaty mess of a man interested only in solars and the raucous cheers of the crowd — that they can make it an exciting fight. Taking down one of Yarneg’s guards bare-handed is enough to do this. Kem is surprised and grateful — he didn’t think anyone would take him up on that option. Surviving a bout with the unmedicated Butcher is another matter. Whether the lucky character wins or not, Kem is true to his word. Use the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{Grafted Ganger} stat-block to represent the Butcher. If she’s taken combat drugs, she can use her ",
+   "ru": "Персонаж может вызваться драться вместо Кема. Для этого нужно убедить Ярнега — оплывшего, потного мужчину, которого волнуют лишь соляры и буйный рёв толпы, — что бой выйдет зрелищным. Для этого хватит одолеть голыми руками одного из телохранителей Ярнега. Кем удивлён и благодарен: он не думал, что кто-то согласится на такое. Пережить бой с Мясничихой без снадобья — совсем другое дело. Выиграет «счастливчик» или нет, Кем держит слово. Используйте для Мясничихи профиль @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{гангера с пересаженными мышцами}. Если она приняла боевые стимуляторы, она может использовать свою черту "
+  },
+  "186": {
+   "en": "Grafted Muscle",
+   "ru": "«Пересаженные мышцы»"
+  },
+  "188": {
+   "en": " Trait without suffering any Damage from its effect.",
+   "ru": ", не получая урона от её эффекта."
+  },
+  "192": {
+   "en": "An Easy Win",
+   "ru": "Лёгкая победа"
+  },
+  "196": {
+   "en": "An hour later, the bout with the Butcher begins. The massive brute, bulked with grafted muscle, is led out in chains as Yarneg laughs from his perch. The crowd’s cheering falters once the Butcher is unleashed. If her meal was dosed with pain suppressants, she stumbles through the fight, making it an easy match for Kem — or any character who stands in his stead — who puts the massive woman down in short order. Silence reigns throughout the chamber, and then the cheering begins. Though notably, Yarneg does not look pleased.",
+   "ru": "Час спустя начинается бой с Мясничихой. Громадную тушу, раздутую пересаженными мышцами, выводят в цепях под смех Ярнега с его возвышения. Когда Мясничиху спускают с цепи, рёв толпы стихает. Если в её еду подмешали обезболивающее, она едва держится на ногах, и Кем — или персонаж, вставший на его место, — без труда и быстро укладывает громадную женщину. В зале воцаряется тишина, а затем раздаётся ликование. Впрочем, Ярнег, что заметно, не выглядит довольным."
+  },
+  "200": {
+   "en": "With the fight over, Kem thanks the characters and provides them with what he knows. Read aloud or paraphrase the following information:",
+   "ru": "Когда бой окончен, Кем благодарит персонажей и рассказывает, что знает. Зачитайте вслух или перескажите следующее:"
+  },
+  "206": {
+   "en": "A man called DeGuar, a manufactorum overseer, used to come here occasionally, but that night was special. More reckless than ever before, he won bet after bet, until he lost big. The Vylathi Knives fixed all the fights that night. I don't lose many bouts, and I'm not proud of it, but I took a dive. I did it without Yarneg's permission. He can't touch the Knives, but he’s taking it out on us anyway — that’s why I got put up against the Butcher tonight.",
+   "ru": "Сюда иногда захаживал один тип, ДеГуар, смотритель с мануфакторума, но та ночь была особенной. Он был безрассуднее, чем когда-либо, выигрывал ставку за ставкой, пока не проигрался по-крупному. В ту ночь Ножи Вилати подстроили все бои. Я проигрываю нечасто и не горжусь этим, но я лёг. Сделал это без разрешения Ярнега. Ножей он тронуть не может, но всё равно отыгрывается на нас — поэтому меня сегодня и выставили против Мясничихи."
+  },
+  "212": {
+   "en": "Kem heard the gangers talking while collecting his payment. The Knives fixed the fights that night specifically to get Overseer DeGaur into their debt. Once he owed them a sufficiently ruinous amount of solars, they ‘helpfully’ offered him an alternative. DeGaur would grant them access to the manufactorum, and they would take his workers. DeGuar would keep some of the chems from that place and start a new life off the profits. The manufactorum was demolished to cover the gang’s tracks. ",
+   "ru": "Получая свою плату, Кем слышал разговор гангеров. В ту ночь Ножи подстроили бои, чтобы загнать смотрителя ДеГуара в долги. Когда он задолжал им достаточно разорительную сумму, они «любезно» предложили ему другой выход. ДеГуар даст им доступ на мануфакторум, а они заберут его рабочих. ДеГуар оставит себе часть химикатов оттуда и начнёт на вырученные деньги новую жизнь. Мануфакторум снесли, чтобы замести следы банды. "
+  },
+  "216": {
+   "en": "By then, the gangers had noticed Kem paying attention, which is when he went to Datan, making it seem like he’d be interested only in hawking a friend’s wares rather than spying on the gang.",
+   "ru": "К тому времени гангеры заметили, что Кем прислушивается, и тогда он пошёл к Датану — чтобы казалось, будто его интересует лишь сбыт товара приятеля, а не слежка за бандой."
+  },
+  "220": {
+   "en": "Kem gives the party directions to a ganger hideout — he visited it once while negotiating his own deal — and sends them on their way. If the characters think to ask, Kem can describe the gang’s weaponry, mostly @UUID[Compendium.navis-apexialis.navis-core-items.Item.nyjv454gtdJ43klt]{autoguns}, and the defences around their hideout, granting the party 1 Superiority in their next confrontation with the @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#the-vylathi-knives]{Vylathi Knives}.",
+   "ru": "Кем объясняет отряду, как добраться до логова гангеров — он бывал там однажды, договариваясь о своей сделке, — и отправляет персонажей в путь. Если персонажи догадаются спросить, Кем может описать оружие банды (в основном @UUID[Compendium.navis-apexialis.navis-core-items.Item.nyjv454gtdJ43klt]{автоганы}) и оборону логова, что даёт отряду 1 превосходство в следующем столкновении с @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#the-vylathi-knives]{Ножами Вилати}."
+  },
+  "224": {
+   "en": "The Raid",
+   "ru": "Облава"
+  },
+  "228": {
+   "en": "As the party returns to the main pit, a croaking voice calls to them from a nearby drain. ‘",
+   "ru": "Когда отряд возвращается в главную яму, из ближайшего стока его окликает хриплый голос: «"
+  },
+  "230": {
+   "en": "Go… The Skitarii… they’re coming",
+   "ru": "Уходите… Скитарии… они идут"
+  },
+  "232": {
+   "en": "’. The characters only have a moment to react to this warning before the crowd’s chants turn to screams, backed by gunfire and plasma shots. A squad of @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{Skitarii Vanguard} are raiding The Dreg, having also discovered the fighting pit’s connection to the mystery. Amply forewarned, the characters may run if they wish. They witness a pitched battle between the Skitarii and the gangers if they linger.",
+   "ru": "». У персонажей есть лишь мгновение, чтобы отреагировать на предупреждение, прежде чем крики толпы сменяются воплями под аккомпанемент стрельбы и плазменных выстрелов. Отделение @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{скитариев-авангардов} устраивает облаву на «Отстойник» — они тоже выяснили, что бойцовая яма связана с этой тайной. Вовремя предупреждённые персонажи при желании могут бежать. Если они задержатся, то станут свидетелями ожесточённого боя скитариев с гангерами."
+  },
+  "236": {
+   "en": "Smoke fills the air as the crowd of citizens and gangers duck for cover, returning fire at the Skitarii, who push quickly into the main chamber, the ragtag resistance providing little opposition. A character may attempt a ",
+   "ru": "Воздух наполняется дымом: горожане и гангеры ныряют в укрытия и отстреливаются от скитариев, которые быстро продвигаются в главный зал, почти не встречая сопротивления от этого сброда. Персонаж может пройти "
+  },
+  "238": {
+   "en": "Routine (+20) Stealth (Move Silently)",
+   "ru": "Рутинную (+20) проверку Скрытности (Бесшумное движение)"
+  },
+  "240": {
+   "en": " Test to lead the party and skirt their way around the crossfire towards the exit.  ",
+   "ru": ", чтобы повести отряд в обход перекрёстного огня к выходу.  "
+  },
+  "246": {
+   "en": "Let’s fight!",
+   "ru": "В бой!"
+  },
+  "250": {
+   "en": "Most parties have enough sense to avoid getting into a firefight between Yarneg’s gangers and the Skitarii, but if they are so inclined, you may allow them to do so.",
+   "ru": "Большинству отрядов хватит ума не ввязываться в перестрелку между гангерами Ярнега и скитариями, но если они того хотят, можете им это позволить."
+  },
+  "254": {
+   "en": "If they are fighting on the side of the Skitarii, then the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.vsiOALilPnEe3dKg]{Skitarii Vanguard Alpha} in charge of the squad — Landa-12, whom they may have encountered earlier in the hab slums — recognises their assistance. The Vanguard are ordered not to engage them unless they are fired upon. Landa-12 hears the party out before sending them on their way, advising them that further interference in the investigation would be ‘",
+   "ru": "Если персонажи сражаются на стороне скитариев, командир отделения, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.vsiOALilPnEe3dKg]{альфа скитариев-авангардов} Ланда-12, которого они, возможно, уже встречали в жилых трущобах, признаёт их помощь. Авангардам приказано не вступать с ними в бой, если те не откроют огонь. Ланда-12 выслушивает отряд и отпускает, предупредив, что дальнейшее вмешательство в расследование было бы «"
+  },
+  "256": {
+   "en": "illogical and ill-advised.",
+   "ru": "нелогичным и неразумным"
+  },
+  "262": {
+   "en": "If they join in on the side of the Gangers and win, then Yarneg forgets any previous ill will and thanks the characters profusely. The Dreg must be abandoned, but Yarneg is optimistic about starting over elsewhere and invites the party to attend his new venture once it is opened. The party’s Patron can leverage this connection to gain 1 @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionist} Influence, and the characters may add Yarneg as a Contact.",
+   "ru": "Если персонажи присоединятся к гангерам и победят, Ярнег забывает все прежние обиды и рассыпается в благодарностях. «Отстойник» придётся бросить, но Ярнег не теряет надежды начать всё заново в другом месте и приглашает отряд в своё новое заведение, когда оно откроется. Покровитель отряда может воспользоваться этой связью, чтобы получить 1 влияние у @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{одиночек}, а персонажи могут добавить Ярнега как контакт."
+  },
+  "268": {
+   "en": "From the dais above, Yarneg hurls @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.QaiU7Hod2xMnOTM7.Item.Oe9FDIz24FoyKhjl]{Frag Grenades} towards the invaders. The crowd rushes for the stairs, abandoning cover to be cut down by precise fire. Yet the press of bodies living and dying clogs the stairway, making it a ",
+   "ru": "С возвышения Ярнег швыряет в захватчиков @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.QaiU7Hod2xMnOTM7.Item.Oe9FDIz24FoyKhjl]{фраг-гранаты}. Толпа бросается к лестнице, покидая укрытия, и её косит меткий огонь. Однако давка из живых и умирающих закупоривает лестницу, делая её "
+  },
+  "270": {
+   "en": "Minor Hazard",
+   "ru": "слегка опасной местностью"
+  },
+  "272": {
+   "en": ". One of the characters may attempt a ",
+   "ru": ". Один из персонажей может пройти "
+  },
+  "274": {
+   "en": "Routine (+20) Athletics (Might)",
+   "ru": "Рутинную (+20) проверку Атлетики (Мощь)"
+  },
+  "276": {
+   "en": " Test to barge a path through the crowd without taking Damage. ",
+   "ru": ", чтобы проложить путь сквозь толпу, не получив урона. "
+  },
+  "280": {
+   "en": "In the ruined antechamber above, several gangers are kneeling, hands shackled, and overseen by two @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{Skitarii Vanguard}. As the fleeing crowd bursts onto the scene, they raise their rifles and acquire targets. Unless the characters can muster at least +3 Influence with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus} and succeed a ",
+   "ru": "В разрушенном вестибюле наверху стоят на коленях несколько гангеров в наручниках под надзором двух @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{скитариев-авангардов}. Когда на сцену вырывается бегущая толпа, скитарии вскидывают винтовки и берут цели. Если персонажи не наберут хотя бы +3 влияния у @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус} и не пройдут "
+  },
+  "282": {
+   "en": "Challenging (+0) Rapport (Charm)",
+   "ru": "Среднюю (+0) проверку Взаимопонимания (Обаяние)"
+  },
+  "284": {
+   "en": " Test, these Skitarii immediately open fire on them, as their command protocols have been set to engage any potential targets emerging from the Pit.",
+   "ru": ", эти скитарии немедленно открывают по ним огонь: их командные протоколы требуют поражать любые возможные цели, выходящие из ямы."
+  },
+  "288": {
+   "en": "Assuming the party survives events at the Dreg, they can follow Kem’s directions to the Vylathi Knives' hideout. The mysterious voice they heard in the Pit could point the way if they did not acquire this information. The party may also have begun to suspect that Vand is DeGuar and now has enough information to hand the former Overseer over to the authorities if they are so inclined.",
+   "ru": "Если отряд переживёт события в «Отстойнике», он может отправиться по указаниям Кема к логову Ножей Вилати. Если персонажи не получили этих сведений, путь может указать таинственный голос, который они слышали в яме. Кроме того, отряд уже мог заподозрить, что Ванд — это ДеГуар, и теперь у него достаточно сведений, чтобы при желании выдать бывшего смотрителя властям."
+  },
+  "300": {
+   "en": "The Hideout",
+   "ru": "Логово"
+  },
+  "306": {
+   "en": "A rundown warehouse complex sits decaying and lightless amidst the hab slums. Sealed windows stare out over a former processing yard strewn with puddles of promethium, rusted machinery and vast spools of wire.",
+   "ru": "Посреди жилых трущоб гниёт без единого огонька обветшалый складской комплекс. Заколоченные окна смотрят на бывший перерабатывающий двор, усеянный лужами прометия, ржавыми механизмами и огромными катушками проволоки."
+  },
+  "312": {
+   "en": "Following Kem’s directions, the party reaches the Vylathi Knives' hideout, finding it abandoned and unguarded. Its first floor consists of an open area and a small back room. Piles of refuse and loose strands of cabling scatter the floor before a dark stairway that rises to the level above. The smell of body odour and effluent is heavy, and a strange green stain marks the floor. Characters can find clues listed in the Abandoned Hideout Clues Table, should they search the hideout — provide at least one to each character involved in the search, and allow them to puzzle over what each might mean, or get them to make ",
+   "ru": "Следуя указаниям Кема, отряд добирается до логова Ножей Вилати и находит его брошенным и неохраняемым. Первый этаж состоит из открытого помещения и маленькой задней комнаты. Пол перед тёмной лестницей, ведущей на верхний уровень, завален грудами мусора и обрывками кабелей. Тяжело пахнет потом и нечистотами, а на полу видно странное зелёное пятно. Обыскав логово, персонажи могут найти зацепки из таблицы «Зацепки в брошенном логове» — дайте хотя бы по одной каждому участнику обыска и позвольте им поломать голову над их значением, а если они зайдут в тупик, пусть пройдут "
+  },
+  "314": {
+   "en": "Challenging (+0)",
+   "ru": "Средние (+0)"
+  },
+  "318": {
+   "en": "Investigation (Logic)",
+   "ru": "проверки Логики (Расследование)"
+  },
+  "320": {
+   "en": " Tests if they are stumped.",
+   "ru": "."
+  },
+  "324": {
+   "en": "Once the recording (‘Labelled Vox Recording’) has been played, have anyone who hears it make an ",
+   "ru": "Когда запись («Подписанная вокс-запись») прослушают, пусть каждый, кто её слышал, пройдёт "
+  },
+  "326": {
+   "en": "Investigation (Logic)",
+   "ru": "проверку Логики (Расследование)"
+  },
+  "328": {
+   "en": " Test, the difficulty of which varies depending on how long they have spent with @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Barsis Vand}. If successful, it becomes clear that DeGaur's voice on the recording is the same as that of Vand, albeit somewhat more inebriated. If Vand happens to accompany the characters while the vox recording is being played, his terrified reaction makes this connection all the clearer.",
+   "ru": "; её сложность зависит от того, сколько времени персонажи провели с @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Барсисом Вандом}. При успехе становится ясно, что голос ДеГуара на записи — тот же, что у Ванда, хотя и заметно более пьяный. Если Ванд окажется рядом с персонажами, когда запись воспроизводят, его испуганная реакция сделает эту связь ещё очевиднее."
+  },
+  "340": {
+   "en": "Abandoned Hideout Clues",
+   "ru": "Зацепки в брошенном логове"
+  },
+  "352": {
+   "en": "Clue",
+   "ru": "Зацепка"
+  },
+  "360": {
+   "en": "Description",
+   "ru": "Описание"
+  },
+  "368": {
+   "en": "Interpretation",
+   "ru": "Толкование"
+  },
+  "384": {
+   "en": "Small Device",
+   "ru": "Маленькое устройство"
+  },
+  "392": {
+   "en": "A small device lies discarded in a small back room, along with a handful of spent @UUID[Compendium.navis-apexialis.navis-core-items.Item.nyjv454gtdJ43klt]{autogun} casings and some dirty clothing.",
+   "ru": "В маленькой задней комнате брошено маленькое устройство, а рядом — горсть стреляных гильз от @UUID[Compendium.navis-apexialis.navis-core-items.Item.nyjv454gtdJ43klt]{автогана} и грязная одежда."
+  },
+  "400": {
+   "en": "A successful ",
+   "ru": "Успешная "
+  },
+  "402": {
+   "en": "Challenging (+0) Investigation (Logic)",
+   "ru": "Средняя (+0) проверка Логики (Расследование)"
+  },
+  "404": {
+   "en": " Test reveals this to be a detonator for a det pack, a fact which anyone with an @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Astra Militarum} background or who is otherwise familiar with such munitions can tell without a Test.",
+   "ru": " показывает, что это детонатор подрывного заряда; персонаж с происхождением из @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум} или иначе знакомый с такими боеприпасами понимает это без проверки."
+  },
+  "414": {
+   "en": "Discarded Ration Papers",
+   "ru": "Брошенные обёртки пайков"
+  },
+  "420": {
+   "en": "Discarded ration pack wrappers are strewn across the floor. They found the same ones around the ruined manufactorum.",
+   "ru": "По полу разбросаны выброшенные обёртки от пайков — такие же, как найденные у руин мануфакторума."
+  },
+  "428": {
+   "en": "These were the custom rations that Datan sold to the Vylathi Knives. A successful ",
+   "ru": "Это те самые особые пайки, которые Датан продал Ножам Вилати. Успешная "
+  },
+  "430": {
+   "en": "Challenging (+0) Awareness (Sight)",
+   "ru": "Средняя (+0) проверка Бдительности (Зрение)"
+  },
+  "432": {
+   "en": " Test reveals a small cache of these rations nearby — enough to give one to each party member.",
+   "ru": " позволяет найти поблизости небольшой тайник с этими пайками — хватит по одному на каждого члена отряда."
+  },
+  "442": {
+   "en": "Acrid Green Liquid",
+   "ru": "Едкая зелёная жидкость"
+  },
+  "448": {
+   "en": "An acrid green liquid has been spilt in one corner of the warehouse, and damage to the floor indicates that several heavy containers were recently moved from here.",
+   "ru": "В одном углу склада разлита едкая зелёная жидкость, а повреждения пола указывают, что отсюда недавно вынесли несколько тяжёлых контейнеров."
+  },
+  "456": {
+   "en": "A successful ",
+   "ru": "Успешная "
+  },
+  "458": {
+   "en": "Challenging (+0) Tech (Engineering)",
+   "ru": "Средняя (+0) проверка Техники (Инженерное дело)"
+  },
+  "460": {
+   "en": " Test reveals this to be a highly refined organic compound. If the characters know of the precusor chemicals stolen from Manufactorum Vitus-II, then a ",
+   "ru": " показывает, что это высокоочищенное органическое соединение. Если персонажи знают о химических прекурсорах, похищенных с мануфакторума «Витус-II», то "
+  },
+  "462": {
+   "en": "Routine (+20) Investigation (Logic)",
+   "ru": "Рутинная (+20) проверка Логики (Расследование)"
+  },
+  "464": {
+   "en": " Test informs them that this is likely a trace of that substance.",
+   "ru": " подскажет им, что это, скорее всего, след того самого вещества."
+  },
+  "474": {
+   "en": "Plasflex Restraints",
+   "ru": "Пластфлексовые путы"
+  },
+  "480": {
+   "en": "Interspersed among the remains of the ration packs are several cut plasfex restraints.",
+   "ru": "Среди остатков пайков разбросано несколько разрезанных пластфлексовых пут."
+  },
+  "488": {
+   "en": "A ",
+   "ru": " "
+  },
+  "490": {
+   "en": "Routine (+20) Investigation (Logic)",
+   "ru": "Рутинная (+20) проверка Логики (Расследование)"
+  },
+  "492": {
+   "en": " Test reveals restraints sufficient to hold at least fifty individuals. The fact that they were cut may indicate that some prisoners were released or became compliant with their captors.",
+   "ru": " показывает, что пут хватило бы по меньшей мере на полсотни человек. То, что их разрезали, может означать, что некоторых пленников отпустили или они смирились со своими тюремщиками."
+  },
+  "502": {
+   "en": "Labelled Vox Recording",
+   "ru": "Подписанная вокс-запись"
+  },
+  "508": {
+   "en": "A vox recorder sits with a crudely written note attached. It reads: ‘",
+   "ru": "Здесь лежит вокс-рекордер с прикреплённой к нему наспех нацарапанной запиской: «"
+  },
+  "510": {
+   "en": "DeGaur, if you’re stupid enough to come looking for us, this is a reminder of what you agreed to. We have more copies.",
+   "ru": "ДеГуар, если тебе хватит глупости нас искать, вот тебе напоминание о том, на что ты согласился. Копии у нас есть."
+  },
+  "520": {
+   "en": "Playing the recording, the characters hear the following:",
+   "ru": "Прослушав запись, персонажи слышат следующее:"
+  },
+  "524": {
+   "en": "DeGuar: ‘",
+   "ru": "ДеГуар: «"
+  },
+  "526": {
+   "en": "So… I keep the precursor, and you take all my labourers to continue the work…",
+   "ru": "Значит… я оставляю себе прекурсор, а вы забираете всех моих рабочих, чтобы продолжить работу…"
+  },
+  "528": {
+   "en": "’ he says, clearly inebriated.",
+   "ru": "» — говорит он, явно пьяный."
+  },
+  "532": {
+   "en": "Navrak: ‘",
+   "ru": "Наврак: «"
+  },
+  "534": {
+   "en": "That’s our proposal, DeGuar.",
+   "ru": "Таково наше предложение, ДеГуар."
+  },
+  "540": {
+   "en": "DeGuar: ‘",
+   "ru": "ДеГуар: «"
+  },
+  "542": {
+   "en": "And the gang will level the manufactorum so no one finds out?",
+   "ru": "А банда сровняет мануфакторум с землёй, чтобы никто не узнал?"
+  },
+  "544": {
+   "en": "’ he slurs before adding, ‘",
+   "ru": "» — заплетающимся языком говорит он и добавляет: «"
+  },
+  "546": {
+   "en": "Smart man, Navrak.",
+   "ru": "Умный ты человек, Наврак."
+  },
+  "562": {
+   "en": "Unwelcome Homecoming",
+   "ru": "Незваное возвращение"
+  },
+  "566": {
+   "en": "Once the party has had enough time to investigate the warehouse, ideally, when they are all in the back room listening to the vox, the character nearest the door hears the noise of someone entering the warehouse. Seven @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#the-vylathi-knives]{Vylathi Knives} enter the warehouse, carrying a wounded comrade between them. One mutters, ‘",
+   "ru": "Когда у отряда будет достаточно времени, чтобы обыскать склад, — лучше всего, когда все будут в задней комнате слушать вокс, — персонаж, стоящий ближе всех к двери, слышит, как кто-то входит на склад. Внутрь заходят семеро @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#the-vylathi-knives]{Ножей Вилати}, неся раненого товарища. Один бормочет: «"
+  },
+  "568": {
+   "en": "I never signed up to fight the Throne-damned Mechanicus",
+   "ru": "Я не нанимался воевать с треклятым Троном Механикусом"
+  },
+  "570": {
+   "en": ".’ Another replies, ‘",
+   "ru": "». Другой отвечает: «"
+  },
+  "572": {
+   "en": "Sit tight, Navrak will know what to do.",
+   "ru": "Сиди тихо, Наврак знает, что делать."
+  },
+  "578": {
+   "en": "Use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{Ganger} stat-block to represent the Vylathi Knives NPCs.",
+   "ru": "Для NPC из Ножей Вилати используйте профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{бойца банды}."
+  },
+  "582": {
+   "en": "The party is likely in an advantageous position to take the gangers by surprise (they gain 1 Superiority if this is the case), but are also likely to be outnumbered. If they wish, they may fight through this encounter or attempt to escape through the back.",
+   "ru": "Скорее всего, у отряда выгодная позиция, чтобы застать гангеров врасплох (в таком случае он получает 1 превосходство), но и численный перевес, вероятно, не на его стороне. Персонажи могут принять бой или попытаться уйти через заднюю дверь."
+  },
+  "586": {
+   "en": "Key to this encounter is the introduction of @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Lerna Harrog}. She has shadowed the group for some time and finally decided to trust them. If the characters choose to flee, they hear her croaked voice whisper, ‘",
+   "ru": "Ключевой момент этой сцены — появление @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Лерны Харрог}. Она уже давно следует за группой и наконец решила ей довериться. Если персонажи решат бежать, они слышат, как её хриплый голос шепчет из ближайшего стока: «"
+  },
+  "588": {
+   "en": "Here! Come quick!",
+   "ru": "Сюда! Скорее!"
+  },
+  "590": {
+   "en": "´ from a nearby drain. If they decide to fight the gangers, Harrog waits until the gunfire dies down before approaching the group or, if they prove to be outmatched, lends the characters her considerable aid. Her story is told at the beginning of @UUID[.Wg3MpL7rSVOWhIlt]{Part 3}.",
+   "ru": "». Если они решат драться с гангерами, Харрог дожидается, пока стрельба стихнет, и лишь тогда подходит к группе — или, если персонажам приходится туго, оказывает им немалую помощь. Её история рассказана в начале @UUID[.Wg3MpL7rSVOWhIlt]{части 3}."
+  },
+  "594": {
+   "en": "If the characters leave any of the gangers alive, they can interrogate them. These low-level street toughs rely on @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Kathor Navrak} for much of their higher brain function. Still, they can provide the characters with some helpful information and fill in any blanks they may have missed regarding the deal between DeGaur and the Vylathi Knives.",
+   "ru": "Если персонажи оставят кого-то из гангеров в живых, их можно допросить. Эти мелкие уличные громилы во многом полагаются на то, что думать за них будет @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Катор Наврак}. И всё же они могут сообщить персонажам кое-что полезное и заполнить пробелы в том, что те упустили о сделке между ДеГуаром и Ножами Вилати."
+  }
+ }
+}

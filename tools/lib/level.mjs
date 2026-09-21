@@ -45,7 +45,7 @@ export async function readPack(dir) {
   try {
     await db.open();
   } catch (err) {
-    if (fs.existsSync(path.join(dir, "LOCK"))) {
+    if (fs.existsSync(path.join(dir, "LOCK")) && process.env.NAVIS_ALLOW_LOCKED !== "1") {
       throw new Error(`Cannot open ${dir} — close Foundry first (the pack is locked).`);
     }
     throw err;

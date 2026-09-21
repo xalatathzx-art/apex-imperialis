@@ -1,0 +1,3243 @@
+{
+  "label": "Бестиарий (Maledictum Expanded)",
+  "entries": {
+    "0BNmH6VFM4L2cahw": {
+      "name": "Воин-кабалит",
+      "description": "<p>Снаряжение: кабалитский доспех, коллекция жутких боевых трофеев.</p>",
+      "species": "Друкари (кабал)",
+      "items": {
+        "One-Handed": {
+          "name": "Одноручное оружие"
+        },
+        "Blade Artist": {
+          "name": "Художник клинка"
+        },
+        "Power from Pain": {
+          "name": "Сила моя — их боль"
+        },
+        "Splinter Rifle": {
+          "name": "Осколочная винтовка"
+        },
+        "Knife": {
+          "name": "Нож"
+        },
+        "Pain": {
+          "name": "Боль"
+        },
+        "Interrogation": {
+          "name": "Допрос"
+        },
+        "Deception": {
+          "name": "Обман"
+        }
+      }
+    },
+    "0PoMQDBqgH3v3F3a": {
+      "name": "Патриарх генокрадов",
+      "description": "<p>Снаряжение: нет. В источнике это существо относится к уровню «Мастер» (выше лидера); здесь оно записано лидером — ближайшим уровнем, который поддерживает лист, где отдельной категории «Мастер» нет.</p>",
+      "species": "Генокрад (культ генокрадов)",
+      "items": {
+        "Ambush Predator": {
+          "name": "Хищник из засады"
+        },
+        "Cosmic Horror": {
+          "name": "Космический ужас"
+        },
+        "Familiars": {
+          "name": "Фамильяры"
+        },
+        "Genestealer Kiss": {
+          "name": "Поцелуй генокрада"
+        },
+        "Claws and Talons": {
+          "name": "Когти и лапы"
+        },
+        "Hive Mind": {
+          "name": "Разум улья"
+        },
+        "Psychic Powers": {
+          "name": "Психосилы"
+        },
+        "Telepath": {
+          "name": "Прорицатель"
+        },
+        "Warp Threshold": {
+          "name": "Порог Варпа"
+        }
+      }
+    },
+    "0zdoHTA3qra0ezmp": {
+      "name": "Некрон-пария",
+      "species": "Некрон",
+      "items": {
+        "Living Metal (4)": {
+          "name": "Живой металл (4)"
+        },
+        "Phase Out": {
+          "name": "Фазовый уход"
+        },
+        "Reanimation Protocols (7+)": {
+          "name": "Протоколы реанимации (7+)"
+        },
+        "Blank": {
+          "name": "Пустой"
+        },
+        "Soulless Nightmare": {
+          "name": "Бездушный кошмар"
+        },
+        "Warscythe": {
+          "name": "Боевая коса"
+        }
+      }
+    },
+    "1B0XLaT5TmMzauqG": {
+      "name": "Круутокс",
+      "description": "<p>Снаряжение: нет.</p>",
+      "species": "Круут (Империя Тау)",
+      "items": {
+        "Kroot-Served Weapon Platform": {
+          "name": "Орудийная платформа с круутским расчётом"
+        },
+        "Ranged Attack (Kroot Gun)": {
+          "name": "Стрелковая атака (круутское ружьё)"
+        },
+        "Stomp": {
+          "name": "Топот"
+        }
+      }
+    },
+    "1OJKulqkev5lEMLs": {
+      "name": "Культист",
+      "description": "<p>Снаряжение: культистские одеяния, набор для маскировки, еретические писания, светосфера, нечестивый образ, 20 соляров</p>",
+      "species": "Человек (еретики)",
+      "items": {
+        "Shotgun (Pump-Action)": {
+          "name": "Помповый дробовик"
+        },
+        "Tox Spray": {
+          "name": "Ядовитый распылитель"
+        },
+        "Nail Bomb": {
+          "name": "Гвоздевая бомба"
+        },
+        "Sanity is for the Weak": {
+          "name": "Здравомыслие — удел слабых"
+        },
+        "Witch-mark": {
+          "name": "Колдовская метка"
+        },
+        "Autogun": {
+          "name": "Автоган"
+        },
+        "Autopistol": {
+          "name": "Автопистолет"
+        },
+        "Sword": {
+          "name": "Меч"
+        },
+        "Knife": {
+          "name": "Нож"
+        },
+        "mYsZljo59rPgTpdB": {
+          "name": "Запретное"
+        },
+        "lKY9pZOYHt8pdd3m": {
+          "name": "Запретное"
+        },
+        "Deception": {
+          "name": "Обман"
+        }
+      }
+    },
+    "3J3FXJDoVx7F2fBw": {
+      "name": "Воин-некрон",
+      "species": "Некрон",
+      "items": {
+        "Living Metal (2)": {
+          "name": "Живой металл (2)"
+        },
+        "Phase Out": {
+          "name": "Фазовый уход"
+        },
+        "Reanimation Protocols (7+)": {
+          "name": "Протоколы реанимации (7+)"
+        },
+        "Their Number is Legion": {
+          "name": "Имя им легион"
+        },
+        "Gauss Flayer": {
+          "name": "Гаусс-свежеватель"
+        }
+      }
+    },
+    "3pMh7o8jfe3Dy5CX": {
+      "name": "Гвардеец-ренегат",
+      "description": "<p>Снаряжение: гвардейская флак-броня Астра Милитарум, пара солдатских жетонов, противогаз, шанцевый инструмент, униформа, снаряжение выживальщика в рюкзаке, 30 соляров</p>",
+      "species": "Человек (отступники Милитарум)",
+      "items": {
+        "Sanity is for the Weak": {
+          "name": "Здравомыслие — удел слабых"
+        },
+        "Witch-mark": {
+          "name": "Колдовская метка"
+        },
+        "Lasgun": {
+          "name": "Лазган"
+        },
+        "Frag Grenade": {
+          "name": "Фраг-граната"
+        },
+        "Krak Grenade": {
+          "name": "Крак-граната"
+        },
+        "Knife": {
+          "name": "Нож"
+        }
+      }
+    },
+    "43qHdKCRGD4fc2jD": {
+      "name": "Рой крыс-мутантов",
+      "description": "<p>В источнике раны указаны как «8 или 11» для среднего и большого роя соответственно; у большого роя 11 ран вместо 8.</p>",
+      "species": "Крысиный рой (фауна)",
+      "items": {
+        "Swarm": {
+          "name": "Рой"
+        },
+        "Teeth and Claws": {
+          "name": "Зубы и когти"
+        },
+        "Smell": {
+          "name": "Обоняние"
+        }
+      }
+    },
+    "4ImbUXQHWz8IDIez": {
+      "name": "Огрин-громила",
+      "description": "<p>Снаряжение: клёпаные пластины из флак-листа.</p>",
+      "species": "Огрин (еретики)",
+      "items": {
+        "Ever-Loyal Guardian": {
+          "name": "Вечно верный страж"
+        },
+        "Massive Cleaver": {
+          "name": "Огромный тесак"
+        },
+        "Sanity is for the Weak": {
+          "name": "Здравомыслие — удел слабых"
+        },
+        "Witch-mark": {
+          "name": "Колдовская метка"
+        },
+        "Forbidden": {
+          "name": "Запретное"
+        }
+      }
+    },
+    "4Jk1oVdjGtd5c9zH": {
+      "name": "Убийца-диббук",
+      "description": "<p>Снаряжение: нет.</p>",
+      "species": "Человек (еретик)",
+      "items": {
+        "Dybuk Creation": {
+          "name": "Создание диббука"
+        },
+        "Frenzy": {
+          "name": "Неистовство"
+        },
+        "Tenacious": {
+          "name": "Живучий"
+        },
+        "Iron Skin": {
+          "name": "Железная кожа"
+        },
+        "Witch-mark": {
+          "name": "Колдовская метка"
+        },
+        "Axe": {
+          "name": "Топор"
+        },
+        "Intimidation": {
+          "name": "Запугивание"
+        },
+        "Deception": {
+          "name": "Обман"
+        },
+        "Dodge": {
+          "name": "Уклонение"
+        },
+        "Move Silently": {
+          "name": "Бесшумное движение"
+        }
+      }
+    },
+    "62mNCMCAG2vHrZ4B": {
+      "name": "Штормовой страж",
+      "description": "<p>Снаряжение: альдарский сетчатый доспех, пустой камень души, 2 плазменные гранаты, 2 крак-гранаты</p>",
+      "species": "Айэльдари",
+      "items": {
+        "Defender of the Craftworld": {
+          "name": "Защитник мира-корабля"
+        },
+        "Stormblades": {
+          "name": "Штормовые клинки"
+        },
+        "Fusion Gun": {
+          "name": "Термоган"
+        },
+        "Eldar Flamer": {
+          "name": "Эльдарский огнемёт"
+        },
+        "Plasma Grenade": {
+          "name": "Плазменная граната"
+        },
+        "Eldar Chainsword": {
+          "name": "Эльдарский цепной меч"
+        },
+        "Psychic Sensitivity": {
+          "name": "Психическая восприимчивость"
+        },
+        "Shuriken Pistol": {
+          "name": "Сюрикеновый пистолет"
+        },
+        "Krak Grenade": {
+          "name": "Крак-граната"
+        },
+        "Psyniscience": {
+          "name": "Психическое чутьё"
+        },
+        "Pistols": {
+          "name": "Пистолеты"
+        }
+      }
+    },
+    "69rIO6tBuRK2j1If": {
+      "name": "Грозные мстители",
+      "description": "<p>Снаряжение: лёгкая альдарская аспектная броня, пустой камень души</p>",
+      "species": "Айэльдари",
+      "items": {
+        "Aspect Armor": {
+          "name": "Аспектная броня"
+        },
+        "Defence Tactics": {
+          "name": "Оборонительная тактика"
+        },
+        "Avenger Shuriken Catapult": {
+          "name": "Сюрикеновая катапульта мстителя"
+        },
+        "Eldar Chainsword": {
+          "name": "Эльдарский цепной меч"
+        },
+        "Long Gun": {
+          "name": "Лёгкое оружие"
+        },
+        "Psychic Sensitivity": {
+          "name": "Психическая восприимчивость"
+        },
+        "Psyniscience": {
+          "name": "Психическое чутьё"
+        }
+      }
+    },
+    "6LLW1U5XUSuafWdM": {
+      "name": "Ариаднов адский паук",
+      "description": "<p>Снаряжение: нет.</p>",
+      "species": "Ариаднский адский паук (культ вычей)",
+      "items": {
+        "Temporal Predator": {
+          "name": "Хищник времени"
+        },
+        "Time-Rending Mandibles": {
+          "name": "Разрывающие время жвалы"
+        },
+        "Webbing": {
+          "name": "Паутина"
+        },
+        "Dodge": {
+          "name": "Уклонение"
+        }
+      }
+    },
+    "6Zz5lpXS9kvfLNX6": {
+      "name": "Маршал скитариев",
+      "species": "Человек",
+      "items": {
+        "Control Edicts": {
+          "name": "Эдикты контроля"
+        },
+        "Noosphere Uplink": {
+          "name": "Ноосферная связь"
+        },
+        "Phosphor Blast Pistol": {
+          "name": "Фосфорный пистолет"
+        },
+        "Control Staff": {
+          "name": "Посох контроля"
+        },
+        "Heavily Augmented": {
+          "name": "Глубокая аугментация"
+        },
+        "Augmetic Heart": {
+          "name": "Аугметическое сердце"
+        },
+        "Augmetic Respiratory System": {
+          "name": "Аугметическая дыхательная система"
+        }
+      }
+    },
+    "6iIKvG235onEsSAU": {
+      "name": "Ведьма",
+      "description": "<p>Снаряжение: костюм ведьмы, коллекция жутких боевых трофеев, 1 доза одного боевого наркотика.</p>",
+      "species": "Друкари (культ вычей)",
+      "items": {
+        "Blade Mistress": {
+          "name": "Госпожа клинков"
+        },
+        "2x Knives": {
+          "name": "2 ножа"
+        },
+        "One-Handed": {
+          "name": "Одноручное оружие"
+        },
+        "Power from Pain": {
+          "name": "Сила моя — их боль"
+        },
+        "Splinter Pistol": {
+          "name": "Осколочный пистолет"
+        },
+        "Pain": {
+          "name": "Боль"
+        },
+        "Interrogation": {
+          "name": "Допрос"
+        },
+        "Acrobatics": {
+          "name": "Акробатика"
+        },
+        "Deception": {
+          "name": "Обман"
+        }
+      }
+    },
+    "6j6BmJAbNYCZiTJk": {
+      "name": "Хрономант",
+      "species": "Некрон",
+      "items": {
+        "Living Metal (4)": {
+          "name": "Живой металл (4)"
+        },
+        "Phase Out": {
+          "name": "Фазовый уход"
+        },
+        "Reanimation Protocols (7+)": {
+          "name": "Протоколы реанимации (7+)"
+        },
+        "Chronometron": {
+          "name": "Хронометрон"
+        },
+        "Harbinger of Eternity": {
+          "name": "Вестник вечности"
+        },
+        "Timesplinter Cloak": {
+          "name": "Плащ расколотого времени"
+        },
+        "Aeonstave (Ranged)": {
+          "name": "Эонов посох (дальний бой)"
+        },
+        "Aeonstave (Melee)": {
+          "name": "Эонов посох (ближний бой)"
+        },
+        "Chronotendrils": {
+          "name": "Хроно-щупальца"
+        }
+      }
+    },
+    "6k4a9ISApmCr13Ul": {
+      "name": "Воющая баньши",
+      "description": "<p>Снаряжение: лёгкая аспектная броня, маска Воющей баньши, пустой камень души</p>",
+      "species": "Айэльдари",
+      "items": {
+        "Blademistress": {
+          "name": "Госпожа клинков"
+        },
+        "Howling Banshee Mask": {
+          "name": "Маска Воющей баньши"
+        },
+        "Eldar Power Sword": {
+          "name": "Эльдарский силовой меч"
+        },
+        "One-Handed": {
+          "name": "Одноручное оружие"
+        },
+        "Psychic Sensitivity": {
+          "name": "Психическая восприимчивость"
+        },
+        "Shuriken Pistol": {
+          "name": "Сюрикеновый пистолет"
+        },
+        "Acrobatics": {
+          "name": "Акробатика"
+        },
+        "Dodge": {
+          "name": "Уклонение"
+        }
+      }
+    },
+    "7Rm6c6zzCYZLF0Za": {
+      "name": "Апрентек",
+      "species": "Некрон",
+      "items": {
+        "Living Metal (3)": {
+          "name": "Живой металл (3)"
+        },
+        "Phase Out": {
+          "name": "Фазовый уход"
+        },
+        "Reanimation Protocols (7+)": {
+          "name": "Протоколы реанимации (7+)"
+        },
+        "Pupil to Greatness": {
+          "name": "Ученик великого"
+        },
+        "Arcane Conduit (Ranged)": {
+          "name": "Тайный проводник (дальний бой)"
+        },
+        "Arcane Conduit (Melee)": {
+          "name": "Тайный проводник (ближний бой)"
+        }
+      }
+    },
+    "7kkv6sagzBLYKQA7": {
+      "name": "Санктус",
+      "description": "<p>Снаряжение: бронекомбинезон, 1к10 соляров, цвета банды, фильтры-затычки, плащ из хамелеолина, автосенсорные очки</p>",
+      "species": "Мутант (культы генокрадов)",
+      "items": {
+        "The Shadows Strike": {
+          "name": "Удар из теней"
+        },
+        "Soulsight Familiar": {
+          "name": "Фамильяр духовного зрения"
+        },
+        "Silenced Needle Rifle": {
+          "name": "Игольная винтовка с глушителем"
+        },
+        "Sanctus Biodagger": {
+          "name": "Биокинжал санктуса"
+        },
+        "One-Handed": {
+          "name": "Одноручное оружие"
+        },
+        "Genestealer Mutation": {
+          "name": "Мутация генокрада"
+        },
+        "Might": {
+          "name": "Мощь"
+        },
+        "Smell": {
+          "name": "Обоняние"
+        },
+        "Long Guns": {
+          "name": "Лёгкое оружие"
+        },
+        "Acrobatics": {
+          "name": "Акробатика"
+        },
+        "Hide": {
+          "name": "Невидимка"
+        }
+      }
+    },
+    "87gYHi4g2GH9aifU": {
+      "name": "Химера",
+      "description": "<p>Снаряжение: нет.</p>",
+      "species": "Химера (культ вычей)",
+      "items": {
+        "Pack Hunter": {
+          "name": "Стайный охотник"
+        },
+        "Claws": {
+          "name": "Когти"
+        },
+        "Talons": {
+          "name": "Когти"
+        },
+        "Lesser Daemon": {
+          "name": "Младший демон"
+        },
+        "Move Silently": {
+          "name": "Бесшумное движение"
+        },
+        "Hide": {
+          "name": "Невидимка"
+        }
+      }
+    },
+    "8rj21UuYYCUefznd": {
+      "name": "Тёмный жнец",
+      "description": "<p>Снаряжение: альдарская аспектная броня, пустой камень души</p>",
+      "species": "Айэльдари",
+      "items": {
+        "Inescapable Accuracy": {
+          "name": "Неотвратимая точность"
+        },
+        "Reaper Launcher (Starswarm)": {
+          "name": "Пусковая установка жнеца («Звёздный рой»)"
+        },
+        "Reaper Launcher (Starshot)": {
+          "name": "Пусковая установка жнеца («Звёздный выстрел»)"
+        },
+        "Psychic Sensitivity": {
+          "name": "Психическая восприимчивость"
+        },
+        "Psyniscience": {
+          "name": "Психическое чутьё"
+        },
+        "Ordnance": {
+          "name": "Тяжёлое оружие"
+        }
+      }
+    },
+    "91DwM4Ye8gR1vlKH": {
+      "name": "Сербер-налётчик",
+      "species": "Человек",
+      "items": {
+        "Mounted Warrior": {
+          "name": "Всадник-воин"
+        },
+        "Galvanic Carbine": {
+          "name": "Гальванический карабин"
+        },
+        "Power Saber": {
+          "name": "Силовая сабля"
+        },
+        "Heavily Augmented": {
+          "name": "Глубокая аугментация"
+        },
+        "Augmetic Heart": {
+          "name": "Аугметическое сердце"
+        },
+        "Augmetic Respiratory System": {
+          "name": "Аугметическая дыхательная система"
+        }
+      }
+    },
+    "9l8qcla6OOzVLUci": {
+      "name": "Кламавус",
+      "description": "<p>Снаряжение: тяжёлый кожаный доспех, 1к10 соляров, цвета банды, фильтры-затычки, вокс-перехватчик (считается вокс-кастером, комм-пиявкой и глушилкой сигнала), громкоговоритель</p>",
+      "species": "Человек (культы генокрадов)",
+      "items": {
+        "Scrambler Vox Array": {
+          "name": "Вокс-глушитель"
+        },
+        "The Shadow Calls": {
+          "name": "Зов тени"
+        },
+        "The Voice of Truth": {
+          "name": "Глас истины"
+        },
+        "Genestealer Mutation": {
+          "name": "Мутация генокрада"
+        },
+        "Stub Pistol": {
+          "name": "Стаб-пистолет"
+        },
+        "Knife": {
+          "name": "Нож"
+        },
+        "Charm": {
+          "name": "Обаяние"
+        }
+      }
+    },
+    "A8r5IslWdpZsUdtn": {
+      "name": "Нексос",
+      "description": "<p>Снаряжение: панцирный нагрудник, вокс-кастер, ауспик, цвета культа или банды</p>",
+      "species": "Человек (культы генокрадов)",
+      "items": {
+        "Battlefield Analysis": {
+          "name": "Анализ поля боя"
+        },
+        "Never Alone": {
+          "name": "Никогда не один"
+        },
+        "Tactics": {
+          "name": "Тактика"
+        },
+        "Genestealer Mutation": {
+          "name": "Мутация генокрада"
+        },
+        "Autopistol": {
+          "name": "Автопистолет"
+        },
+        "Knife": {
+          "name": "Нож"
+        },
+        "Leadership": {
+          "name": "Лидерство"
+        },
+        "Forbidden": {
+          "name": "Запретное"
+        }
+      }
+    },
+    "CcSXZ0z4q8cHxwj4": {
+      "name": "Зверолюд Хаоса",
+      "description": "<p>Снаряжение: нечестивый образ, изорванные лохмотья.</p>",
+      "species": "Зверолюд (еретик)",
+      "items": {
+        "Beastial Gaze": {
+          "name": "Звериный взгляд"
+        },
+        "Sanity is for the Weak": {
+          "name": "Здравомыслие — удел слабых"
+        },
+        "Witch-mark": {
+          "name": "Колдовская метка"
+        },
+        "Autopistol": {
+          "name": "Автопистолет"
+        },
+        "Sword": {
+          "name": "Меч"
+        }
+      }
+    },
+    "CdciKk5hs2JZzZFr": {
+      "name": "Чистокровный генокрад",
+      "description": "<p>Снаряжение: нет.</p>",
+      "species": "Генокрад (культ генокрадов)",
+      "items": {
+        "Ambush Predator": {
+          "name": "Хищник из засады"
+        },
+        "Genestealer Kiss": {
+          "name": "Поцелуй генокрада"
+        },
+        "Resurgence": {
+          "name": "Возрождение"
+        },
+        "Claws and Talons": {
+          "name": "Когти и лапы"
+        },
+        "Hive Mind": {
+          "name": "Разум улья"
+        }
+      }
+    },
+    "EiySlgxW6qNtLC7U": {
+      "name": "Сербер — серная гончая",
+      "species": "Человек",
+      "items": {
+        "Mounted Warrior": {
+          "name": "Всадник-воин"
+        },
+        "Line-Breaker": {
+          "name": "Прорывающий строй"
+        },
+        "Phosphor Blast Carbine": {
+          "name": "Фосфорный карабин"
+        },
+        "Heavily Augmented": {
+          "name": "Глубокая аугментация"
+        },
+        "Augmetic Heart": {
+          "name": "Аугметическое сердце"
+        },
+        "Augmetic Respiratory System": {
+          "name": "Аугметическая дыхательная система"
+        },
+        "Shock Maul": {
+          "name": "Шоковая булава"
+        }
+      }
+    },
+    "Fc0BW9wtQ2COVPbV": {
+      "name": "Альфа скитариев",
+      "species": "Человек",
+      "items": {
+        "Phosphor Blast Pistol": {
+          "name": "Фосфорный пистолет"
+        },
+        "Heavily Augmented": {
+          "name": "Глубокая аугментация"
+        },
+        "Augmetic Heart": {
+          "name": "Аугметическое сердце"
+        },
+        "Augmetic Respiratory System": {
+          "name": "Аугметическая дыхательная система"
+        },
+        "Power Sword": {
+          "name": "Силовой меч"
+        }
+      }
+    },
+    "FrCfZ4U2EqkNk6sE": {
+      "name": "Червь-буравчик",
+      "species": "Червь (фауна)",
+      "items": {
+        "Burrowing Teeth": {
+          "name": "Вгрызающиеся зубы"
+        },
+        "Independent Segments": {
+          "name": "Независимые сегменты"
+        },
+        "Teeth": {
+          "name": "Зубы"
+        }
+      }
+    },
+    "HGtLUCtTPHM5QW9H": {
+      "name": "Мученик",
+      "description": "<p>Снаряжение: жуткие трофеи, 6 доз «Бойни», инъектор</p>",
+      "species": "Друкари (ковен гемонкулов)",
+      "items": {
+        "Horrific Experiments": {
+          "name": "Жуткие опыты"
+        },
+        "Liquifier Gun": {
+          "name": "Разжижитель"
+        },
+        "2x Poisoned Blades": {
+          "name": "2 отравленных клинка"
+        },
+        "One-Handed": {
+          "name": "Одноручное оружие"
+        },
+        "Power from Pain": {
+          "name": "Сила моя — их боль"
+        },
+        "Pain": {
+          "name": "Боль"
+        }
+      }
+    },
+    "IJqWzuI5uhOKVL1T": {
+      "name": "Примус",
+      "description": "<p>Снаряжение: панцирный нагрудник, цвета банды или культа, респиратор, культовый символ</p>",
+      "species": "Мутант (культы генокрадов)",
+      "items": {
+        "Day of Ascension": {
+          "name": "День Вознесения"
+        },
+        "Multi-Limbed": {
+          "name": "Многоконечный"
+        },
+        "Supreme Commander": {
+          "name": "Верховный командир"
+        },
+        "Bonesword": {
+          "name": "Костяной меч"
+        },
+        "Toxin Injector": {
+          "name": "Токсиновый инъектор"
+        },
+        "Talents": {
+          "name": "Таланты"
+        },
+        "One-Handed": {
+          "name": "Одноручное оружие"
+        },
+        "Genestealer Mutation": {
+          "name": "Мутация генокрада"
+        },
+        "Needle Pistol": {
+          "name": "Игольный пистолет"
+        },
+        "Leadership": {
+          "name": "Лидерство"
+        },
+        "Pistols": {
+          "name": "Пистолеты"
+        }
+      }
+    },
+    "IUvwmGXYR8y2jVCM": {
+      "name": "Псайкер-отступник",
+      "description": "<p>Снаряжение: изодранный лёгкий кожаный доспех, нечестивый образ.</p>",
+      "species": "Человек (еретик)",
+      "items": {
+        "Doombolt (Power)": {
+          "name": "Разряд рока (психосила)"
+        },
+        "Foul Cage (Power)": {
+          "name": "Мерзкая клетка (психосила)"
+        },
+        "Chaos Stave (Force Staff, Psy Focus)": {
+          "name": "Посох Хаоса (силовой посох, пси-фокус)"
+        },
+        "Malefic Psyker": {
+          "name": "Псайкер-малефик"
+        },
+        "Source of Corruption": {
+          "name": "Источник порчи"
+        },
+        "Unrestrained Power": {
+          "name": "Несдерживаемая мощь"
+        },
+        "Warp Threshold": {
+          "name": "Порог Варпа"
+        },
+        "Laspistol": {
+          "name": "Лазпистолет"
+        },
+        "Psyniscience": {
+          "name": "Психическое чутьё"
+        },
+        "DvuhADtcNEnGSW8M": {
+          "name": "Запретное"
+        },
+        "oLXCmsEFX04NTKpe": {
+          "name": "Запретное"
+        }
+      }
+    },
+    "J0KS0IYWMdTvx3JJ": {
+      "name": "Сикарианец-лазутчик",
+      "species": "Человек",
+      "items": {
+        "Neurostatic Aura": {
+          "name": "Нейростатическая аура"
+        },
+        "Stubcarbine": {
+          "name": "Стаб-карабин"
+        },
+        "Heavily Augmented": {
+          "name": "Глубокая аугментация"
+        },
+        "Augmetic Heart": {
+          "name": "Аугметическое сердце"
+        },
+        "Augmetic Respiratory System": {
+          "name": "Аугметическая дыхательная система"
+        },
+        "Power Sword": {
+          "name": "Силовой меч"
+        }
+      }
+    },
+    "JHtzgjr7MmMFr5eX": {
+      "name": "Гончая Хаоса",
+      "species": "Зверь",
+      "items": {
+        "Fetch Me Their Souls": {
+          "name": "Принесите мне их души"
+        },
+        "Dodge": {
+          "name": "Уклонение"
+        },
+        "Bite": {
+          "name": "Укус"
+        }
+      }
+    },
+    "JMcIyfHaBy9wdWqV": {
+      "name": "Благословенный клинок",
+      "description": "<p>Снаряжение: осквернённый панцирный доспех, еретические писания, нечестивый образ, штурмовой щит.</p>",
+      "species": "Человек (еретик)",
+      "items": {
+        "Ultimate Sacrifice": {
+          "name": "Высшая жертва"
+        },
+        "Utterly Loyal": {
+          "name": "Беззаветно верный"
+        },
+        "Power Greatsword": {
+          "name": "Силовой двуручный меч"
+        },
+        "Sanity is for the Weak": {
+          "name": "Здравомыслие — удел слабых"
+        },
+        "Witch-mark": {
+          "name": "Колдовская метка"
+        },
+        "Cmojxzqq8cD2gjeH": {
+          "name": "Запретное"
+        },
+        "NSfnRMFEFolEJZwE": {
+          "name": "Запретное"
+        },
+        "Intimidation": {
+          "name": "Запугивание"
+        }
+      }
+    },
+    "JdwePVHZvFhC5Tr5": {
+      "name": "Вестник Нургла",
+      "species": "Демон",
+      "items": {
+        "Heraldic Daemon": {
+          "name": "Демон-вестник"
+        },
+        "Heraldic Psyker": {
+          "name": "Псайкер-вестник"
+        },
+        "Emissary of the Plague Lord": {
+          "name": "Посланец Владыки чумы"
+        },
+        "Nurgle's Rot": {
+          "name": "Гниль Нургла"
+        },
+        "Nurglite Powers": {
+          "name": "Психосилы Нургла"
+        },
+        "Plaguesword": {
+          "name": "Чумной меч"
+        },
+        "Leadership": {
+          "name": "Лидерство"
+        },
+        "Source of Corruption": {
+          "name": "Источник порчи"
+        },
+        "Disgustingly Resilient": {
+          "name": "Отталкивающе стойкий"
+        },
+        "Smite": {
+          "name": "Психический удар"
+        }
+      }
+    },
+    "JtYUQihc16fV1tEn": {
+      "name": "Офицер-ренегат",
+      "description": "<p>Снаряжение: панцирный нагрудник, отражающее поле, пара солдатских жетонов, противогаз, шанцевый инструмент, униформа, снаряжение выживальщика в рюкзаке, 300 соляров.</p>",
+      "species": "Человек (отступники Милитарум)",
+      "items": {
+        "Fanatical Zealotry": {
+          "name": "Фанатичное рвение"
+        },
+        "The Price of Failure": {
+          "name": "Цена провала"
+        },
+        "Sanity is for the Weak": {
+          "name": "Здравомыслие — удел слабых"
+        },
+        "Witch-mark": {
+          "name": "Колдовская метка"
+        },
+        "Bolt Pistol": {
+          "name": "Болт-пистолет"
+        },
+        "Frag Grenade": {
+          "name": "Фраг-граната"
+        },
+        "Krak Grenade": {
+          "name": "Крак-граната"
+        },
+        "Power Sword": {
+          "name": "Силовой меч"
+        }
+      }
+    },
+    "KpiWMjEAoTXdCQuV": {
+      "name": "Редуктус-диверсант",
+      "description": "<p>Снаряжение: тяжёлый кожаный доспех, 1к10 соляров, цвета банды или культа, фильтры-затычки, средства удалённого подрыва, 2 подрывных заряда</p>",
+      "species": "Человек (культ генокрадов)",
+      "items": {
+        "Multi-Limbed": {
+          "name": "Многоконечный"
+        },
+        "Primed and Ready": {
+          "name": "Взведён и готов"
+        },
+        "Three Big Booms": {
+          "name": "Три больших бума"
+        },
+        "Defusing": {
+          "name": "Разминирование"
+        },
+        "Genestealer Mutation": {
+          "name": "Мутация генокрада"
+        },
+        "Autopistol": {
+          "name": "Автопистолет"
+        },
+        "Knife": {
+          "name": "Нож"
+        },
+        "Conceal": {
+          "name": "Маскировка"
+        },
+        "Engineering": {
+          "name": "Инженерное дело"
+        },
+        "Security": {
+          "name": "Безопасность"
+        }
+      }
+    },
+    "KygWHyF8FYnGWq5N": {
+      "name": "Скитарий-авангард",
+      "species": "Человек",
+      "items": {
+        "Rad Scourge": {
+          "name": "Радиационная кара"
+        },
+        "Heavily Augmented": {
+          "name": "Глубокая аугментация"
+        },
+        "Augmetic Heart": {
+          "name": "Аугметическое сердце"
+        },
+        "Augmetic Respiratory System": {
+          "name": "Аугметическая дыхательная система"
+        },
+        "Radium Carbine": {
+          "name": "Радиевый карабин"
+        }
+      }
+    },
+    "MnM8VGR9PyWdzg9e": {
+      "name": "Аксиарх секутариев",
+      "species": "Человек",
+      "items": {
+        "Kyropatris Field Generator": {
+          "name": "Генератор поля «Киропатрис»"
+        },
+        "Titanguard": {
+          "name": "Страж титанов"
+        },
+        "Control Edicts": {
+          "name": "Эдикты контроля"
+        },
+        "Noosphere Uplink": {
+          "name": "Ноосферная связь"
+        },
+        "Radium Pistol": {
+          "name": "Радиевый пистолет"
+        },
+        "Heavily Augmented": {
+          "name": "Глубокая аугментация"
+        },
+        "Augmetic Heart": {
+          "name": "Аугметическое сердце"
+        },
+        "Augmetic Respiratory System": {
+          "name": "Аугметическая дыхательная система"
+        },
+        "Power Sword": {
+          "name": "Силовой меч"
+        }
+      }
+    },
+    "N4awcLNngZQCSJl6": {
+      "name": "Варп-паук",
+      "description": "<p>Снаряжение: альдарская аспектная броня, пустой камень души, варп-прыжковый генератор</p>",
+      "species": "Айэльдари",
+      "items": {
+        "Aspect Armor": {
+          "name": "Аспектная броня"
+        },
+        "Warp Jump Generator": {
+          "name": "Варп-прыжковый генератор"
+        },
+        "Wrath of Lhykosidae": {
+          "name": "Гнев Ликосида"
+        },
+        "Death Spinner": {
+          "name": "Смертепряд"
+        },
+        "Psychic Sensitivity": {
+          "name": "Психическая восприимчивость"
+        },
+        "Psyniscience": {
+          "name": "Психическое чутьё"
+        },
+        "Ordnance": {
+          "name": "Тяжёлое оружие"
+        }
+      }
+    },
+    "NHk6Q7g6XDEPdx5e": {
+      "name": "Командир в боескафандре XV8 «Кризис»",
+      "description": "<p>Снаряжение: боескафандр «Кризис», 4 вспомогательные системы</p>",
+      "species": "Боевой доспех (Империя Тау)",
+      "items": {
+        "Battlesuit Jump Pack": {
+          "name": "Прыжковый ранец боескафандра"
+        },
+        "For the Greater Good": {
+          "name": "Во имя Высшего блага"
+        },
+        "Mont'Ka": {
+          "name": "Монт'ка"
+        },
+        "Cyclic Ion Blaster": {
+          "name": "Циклический ионный бластер"
+        },
+        "Missile Pods w/ Frag Missiles": {
+          "name": "Ракетные блоки с фраг-ракетами"
+        },
+        "Fusion Blaster": {
+          "name": "Термобластер"
+        },
+        "Leadership": {
+          "name": "Лидерство"
+        },
+        "Ordnance": {
+          "name": "Тяжёлое оружие"
+        }
+      }
+    },
+    "NcT5GMfecUIrpXmZ": {
+      "name": "Фанатик культа",
+      "description": "<p>Снаряжение: культистские одеяния, еретические писания, нечестивый образ, 1к10 соляров</p>",
+      "species": "Человек (еретик)",
+      "items": {
+        "Frenzy": {
+          "name": "Неистовство"
+        },
+        "Sanity is for the Weak": {
+          "name": "Здравомыслие — удел слабых"
+        },
+        "Witch-mark": {
+          "name": "Колдовская метка"
+        },
+        "Hand Cannon": {
+          "name": "Ручная пушка"
+        },
+        "Sword": {
+          "name": "Меч"
+        },
+        "Chainaxe": {
+          "name": "Цепной топор"
+        },
+        "rpnWt1N3LMyTJ1gU": {
+          "name": "Запретное"
+        },
+        "ZcKiCBy8yIot9ik2": {
+          "name": "Запретное"
+        },
+        "Intimidation": {
+          "name": "Запугивание"
+        },
+        "Deception": {
+          "name": "Обман"
+        }
+      }
+    },
+    "Nnj4SpPrrqWFGnac": {
+      "name": "Техно-убийца",
+      "description": "<p>Снаряжение: у некоторых техно-убийц может быть одежда, чтобы затеряться в толпе.</p>",
+      "species": "Сервитор (Тёмный Механикум)",
+      "items": {
+        "Chem Gland": {
+          "name": "Химическая железа"
+        },
+        "Cybernetic Dermaguise": {
+          "name": "Кибернетическая дермомаска"
+        },
+        "Hotshot Lasgun (MIUWI)": {
+          "name": "Хотшот-лазган (МИУ)"
+        },
+        "Heavily Augmented": {
+          "name": "Глубокая аугментация"
+        },
+        "Augmetic Heart": {
+          "name": "Аугметическое сердце"
+        },
+        "Augmetic Respiratory System": {
+          "name": "Аугметическая дыхательная система"
+        },
+        "Biomechanical Interface": {
+          "name": "Биомеханический канал связи"
+        },
+        "Programmed to Serve": {
+          "name": "Программа служения"
+        },
+        "Power Sword": {
+          "name": "Силовой меч"
+        }
+      }
+    },
+    "NzNFvWWt8uwtFHFE": {
+      "name": "Плазмант",
+      "species": "Некрон",
+      "items": {
+        "Living Metal (4)": {
+          "name": "Живой металл (4)"
+        },
+        "Phase Out": {
+          "name": "Фазовый уход"
+        },
+        "Reanimation Protocols (7+)": {
+          "name": "Протоколы реанимации (7+)"
+        },
+        "Harbinger of Destruction": {
+          "name": "Вестник разрушения"
+        },
+        "Living Lightning": {
+          "name": "Живая молния"
+        },
+        "Solar Pulse": {
+          "name": "Солнечный импульс"
+        },
+        "Eldritch Lance (Ranged)": {
+          "name": "Потустороннее копьё (дальний бой)"
+        },
+        "Eldritch Lance (Melee)": {
+          "name": "Потустороннее копьё (ближний бой)"
+        }
+      }
+    },
+    "OIOU5Dx1dH685CGN": {
+      "name": "Скитарий-егерь",
+      "species": "Человек",
+      "items": {
+        "Galvanic Rifle": {
+          "name": "Гальваническая винтовка"
+        },
+        "Heavily Augmented": {
+          "name": "Глубокая аугментация"
+        },
+        "Augmetic Heart": {
+          "name": "Аугметическое сердце"
+        },
+        "Augmetic Respiratory System": {
+          "name": "Аугметическая дыхательная система"
+        }
+      }
+    },
+    "Ok1dZp5fP32sU8ke": {
+      "name": "Легионер-предатель",
+      "description": "<p>Снаряжение: силовой доспех Mk. VII «Аквила».</p>",
+      "species": "Астартес (Еретик Астартес)",
+      "items": {
+        "Betcher's Gland": {
+          "name": "Железа Бетчера"
+        },
+        "Catalapsean Node": {
+          "name": "Каталепсийский узел"
+        },
+        "Preomnor & Mucranoid": {
+          "name": "Преомнор и мукраноид"
+        },
+        "Larraman's Organ": {
+          "name": "Орган Ларрамана"
+        },
+        "Lyman's Ear": {
+          "name": "Ухо Лаймана"
+        },
+        "Multi-Lung": {
+          "name": "Мультилёгкое"
+        },
+        "Neuroglottis": {
+          "name": "Нейроглоттис"
+        },
+        "Occulobe": {
+          "name": "Окулоб"
+        },
+        "Oolitic Kidney": {
+          "name": "Оолитовая почка"
+        },
+        "Sus-an Membrane": {
+          "name": "Мембрана сус-ан"
+        },
+        "Slave to Darkness": {
+          "name": "Раб Тьмы"
+        },
+        "Transhuman Dread": {
+          "name": "Постчеловеческий ужас"
+        },
+        "Forbidden - Astartes Battle Sign": {
+          "name": "Запретное — боевые знаки Астартес"
+        },
+        "Forbidden - Astartes": {
+          "name": "Запретное — Астартес"
+        },
+        "Source of Corruption": {
+          "name": "Источник порчи"
+        },
+        "Boltgun": {
+          "name": "Болтер"
+        },
+        "Bolt Pistol": {
+          "name": "Болт-пистолет"
+        },
+        "Astartes Combat Knife": {
+          "name": "Боевой нож Астартес"
+        },
+        "Might": {
+          "name": "Мощь"
+        },
+        "Running": {
+          "name": "Бег"
+        },
+        "Smell": {
+          "name": "Обоняние"
+        },
+        "Composure": {
+          "name": "Самообладание"
+        },
+        "Fear": {
+          "name": "Страх"
+        },
+        "Pain": {
+          "name": "Боль"
+        },
+        "Endurance": {
+          "name": "Неустанность"
+        },
+        "High Gothic": {
+          "name": "Высокий готический"
+        },
+        "Dodge": {
+          "name": "Уклонение"
+        }
+      }
+    },
+    "OkJkdPIAUEK7sORF": {
+      "name": "Клинок огня",
+      "description": "<p>Снаряжение: тяжёлая боевая броня воина огня</p>",
+      "species": "Тау (Империя Тау)",
+      "items": {
+        "Concentrate Fire": {
+          "name": "Сосредоточенный огонь"
+        },
+        "Field Commander": {
+          "name": "Полевой командир"
+        },
+        "For the Greater Good": {
+          "name": "Во имя Высшего блага"
+        },
+        "Bonding Knife": {
+          "name": "Нож единения"
+        },
+        "Long Gun": {
+          "name": "Лёгкое оружие"
+        },
+        "Pulse Rifle": {
+          "name": "Импульсная винтовка"
+        },
+        "Fear": {
+          "name": "Страх"
+        },
+        "Leadership": {
+          "name": "Лидерство"
+        }
+      }
+    },
+    "QKnY8qS0BFn7Bwpk": {
+      "name": "Мракобродец",
+      "species": "Мракобродец (фауна)",
+      "items": {
+        "Death From Above": {
+          "name": "Смерть с небес"
+        },
+        "Cranial Clasp": {
+          "name": "Черепной зажим"
+        },
+        "Teeth & Claws": {
+          "name": "Зубы и когти"
+        },
+        "Hide": {
+          "name": "Невидимка"
+        }
+      }
+    },
+    "RUss3KRMQF64b8Nj": {
+      "name": "Бенефиктус",
+      "description": "<p>Снаряжение: ксеносетка, цвета культа или банды, фильтры-затычки, культовый символ</p>",
+      "species": "Мутант (культы генокрадов)",
+      "items": {
+        "Hunt the Hunters": {
+          "name": "Охота на охотников"
+        },
+        "Smite (Power)": {
+          "name": "Психический удар (психосила)"
+        },
+        "Telekine": {
+          "name": "Телекин"
+        },
+        "Force Blade": {
+          "name": "Силовой клинок"
+        },
+        "Genestealer Mutation": {
+          "name": "Мутация генокрада"
+        },
+        "Psychic Powers": {
+          "name": "Психосилы"
+        },
+        "Warp Threshold": {
+          "name": "Порог Варпа"
+        },
+        "Force Staff": {
+          "name": "Психосиловой посох"
+        },
+        "Psyniscience": {
+          "name": "Психическое чутьё"
+        },
+        "Psychic": {
+          "name": "Психосилы"
+        },
+        "Tracking": {
+          "name": "Следы"
+        },
+        "Telekinesis": {
+          "name": "Телекинез"
+        }
+      }
+    },
+    "Rp1sJd9qszIOnOvy": {
+      "name": "Следопыт",
+      "description": "<p>Снаряжение: разведывательная броня следопыта, маркерный свет; рельсовую винтовку можно заменить импульсным карабином или ионной винтовкой</p>",
+      "species": "Тау (Империя Тау)",
+      "items": {
+        "For the Greater Good": {
+          "name": "Во имя Высшего блага"
+        },
+        "Markerlight": {
+          "name": "Маркерный свет"
+        },
+        "Rail Rifle": {
+          "name": "Рельсовая винтовка"
+        },
+        "Long Gun": {
+          "name": "Лёгкое оружие"
+        },
+        "Pulse Pistol": {
+          "name": "Импульсный пистолет"
+        }
+      }
+    },
+    "UFGSnLH6ZAFzQQjH": {
+      "name": "Острокрыл",
+      "description": "<p>Снаряжение: нет.</p>",
+      "species": "Бритвокрыл (культ вычей)",
+      "items": {
+        "Flocking Behavior": {
+          "name": "Стайное поведение"
+        },
+        "Unknown Threat": {
+          "name": "Неведомая угроза"
+        },
+        "Feathers": {
+          "name": "Перья"
+        },
+        "Claws, Beak": {
+          "name": "Когти, клюв"
+        },
+        "Dodge": {
+          "name": "Уклонение"
+        }
+      }
+    },
+    "UJ2bCWx9d4UpEGKs": {
+      "name": "Сикарианец-ржавый ловчий",
+      "species": "Человек",
+      "items": {
+        "Transonic Blade (x2)": {
+          "name": "Трансзвуковой клинок (×2)"
+        },
+        "Heavily Augmented": {
+          "name": "Глубокая аугментация"
+        },
+        "Augmetic Heart": {
+          "name": "Аугметическое сердце"
+        },
+        "Augmetic Respiratory System": {
+          "name": "Аугметическая дыхательная система"
+        }
+      }
+    },
+    "ULGkBmxMoSmapHE6": {
+      "name": "Гротеск",
+      "description": "<p>Снаряжение: нет.</p>",
+      "species": "Друкари (ковен гемонкулов)",
+      "items": {
+        "Horrific Experiments": {
+          "name": "Жуткие опыты"
+        },
+        "Liquifier Gun": {
+          "name": "Разжижитель"
+        },
+        "Monstrous Weapons": {
+          "name": "Чудовищное оружие"
+        },
+        "Power from Pain": {
+          "name": "Сила моя — их боль"
+        },
+        "Pain": {
+          "name": "Боль"
+        }
+      }
+    },
+    "UfHJrWfwgYbGSy0I": {
+      "name": "Криптораб",
+      "species": "Некрон",
+      "items": {
+        "Living Metal (2)": {
+          "name": "Живой металл (2)"
+        },
+        "Phase Out": {
+          "name": "Фазовый уход"
+        },
+        "Reanimation Protocols (7+)": {
+          "name": "Протоколы реанимации (7+)"
+        },
+        "Scouring Eye": {
+          "name": "Выжигающий глаз"
+        },
+        "Scythed Limbs": {
+          "name": "Косовидные конечности"
+        }
+      }
+    },
+    "VPFu0L710maQeI92": {
+      "name": "Воин огня шас'уи",
+      "description": "<p>Снаряжение: боевая броня воина огня; в составе штурмовой группы импульсная винтовка заменяется импульсным карабином, а ЭМИ-граната — фотонной вспышкой.</p>",
+      "species": "Тау (Империя Тау)",
+      "items": {
+        "Breachers": {
+          "name": "Прорывная группа"
+        },
+        "For the Greater Good": {
+          "name": "Во имя Высшего блага"
+        },
+        "Strikers": {
+          "name": "Ударники"
+        },
+        "EMP Grenade": {
+          "name": "ЭМИ-граната"
+        },
+        "Long Gun": {
+          "name": "Лёгкое оружие"
+        },
+        "Pulse Rifle": {
+          "name": "Импульсная винтовка"
+        },
+        "Leadership": {
+          "name": "Лидерство"
+        }
+      }
+    },
+    "W1RA4cMNeuoNZmw8": {
+      "name": "Страж-защитник",
+      "description": "<p>Снаряжение: альдарский сетчатый доспех, пустой камень души</p>",
+      "species": "Айэльдари",
+      "items": {
+        "Defender of the Craftworld": {
+          "name": "Защитник мира-корабля"
+        },
+        "Shuriken Catapult": {
+          "name": "Сюрикеновая катапульта"
+        },
+        "Eldar Chainsword": {
+          "name": "Эльдарский цепной меч"
+        },
+        "Psychic Sensitivity": {
+          "name": "Психическая восприимчивость"
+        },
+        "Psyniscience": {
+          "name": "Психическое чутьё"
+        },
+        "Long Guns": {
+          "name": "Лёгкое оружие"
+        }
+      }
+    },
+    "WAPLT4jYlJdiArdH": {
+      "name": "Секутарий-гоплит",
+      "species": "Человек",
+      "items": {
+        "Kyropatris Field Generator": {
+          "name": "Генератор поля «Киропатрис»"
+        },
+        "Titanguard": {
+          "name": "Страж титанов"
+        },
+        "Arc Lance (Ranged)": {
+          "name": "Дуговое копьё (дальний бой)"
+        },
+        "Arc Lance (Melee)": {
+          "name": "Дуговое копьё (ближний бой)"
+        },
+        "Heavily Augmented": {
+          "name": "Глубокая аугментация"
+        },
+        "Augmetic Heart": {
+          "name": "Аугметическое сердце"
+        },
+        "Augmetic Respiratory System": {
+          "name": "Аугметическая дыхательная система"
+        }
+      }
+    },
+    "WHfkNjgZDxKck2Yy": {
+      "name": "Проклятый культист",
+      "description": "<p>Снаряжение: рваный тяжёлый кожаный доспех, нечестивый образ, 1к10 соляров.</p>",
+      "species": "Человек (еретики)",
+      "items": {
+        "Unarmed (Warp Claws)": {
+          "name": "Безоружная атака (варп-когти)"
+        },
+        "Unarmed (Warp Claws & Lashing Tentacle)": {
+          "name": "Безоружная атака (варп-когти и хлещущее щупальце)"
+        },
+        "Extra Eye": {
+          "name": "Лишний глаз"
+        },
+        "Lashing Tentacle": {
+          "name": "Хлёсткие щупальца"
+        },
+        "Warp Claws": {
+          "name": "Когти Варпа"
+        },
+        "Autopistol": {
+          "name": "Автопистолет"
+        },
+        "ptm2pM7EoZ2kBvx4": {
+          "name": "Запретное"
+        },
+        "S03LoEoQJcInp6Vr": {
+          "name": "Запретное"
+        },
+        "Brawling": {
+          "name": "Кулачный бой"
+        }
+      }
+    },
+    "WfXBpsGGwb1fmkGJ": {
+      "name": "Свежеватель",
+      "species": "Некрон",
+      "items": {
+        "Living Metal (3)": {
+          "name": "Живой металл (3)"
+        },
+        "Phase Out": {
+          "name": "Фазовый уход"
+        },
+        "Reanimation Protocols (7+)": {
+          "name": "Протоколы реанимации (7+)"
+        },
+        "Flensing Claws": {
+          "name": "Сдирающие когти"
+        },
+        "Terrifying Foes": {
+          "name": "Ужасающие враги"
+        },
+        "Flayer Claws": {
+          "name": "Когти свежевателя"
+        }
+      }
+    },
+    "XgMbz0rnGTDHMZh8": {
+      "name": "Гибрид-неофит",
+      "description": "<p>Снаряжение: тяжёлый кожаный доспех, 1к10 соляров, цвета банды или культа, фильтры-затычки</p>",
+      "species": "Человек (культы генокрадов)",
+      "items": {
+        "Resurgence": {
+          "name": "Возрождение"
+        },
+        "Genestealer Mutation": {
+          "name": "Мутация генокрада"
+        },
+        "Autogun": {
+          "name": "Автоган"
+        },
+        "Stub Pistol": {
+          "name": "Стаб-пистолет"
+        },
+        "Knife": {
+          "name": "Нож"
+        },
+        "Might": {
+          "name": "Мощь"
+        }
+      }
+    },
+    "XpJWP5aFuTShXanI": {
+      "name": "Птераксий-стерилизатор",
+      "species": "Человек",
+      "items": {
+        "Pteraxii Flight Pack": {
+          "name": "Лётный ранец птераксиев"
+        },
+        "Riding the Thermals": {
+          "name": "Верхом на восходящих потоках"
+        },
+        "Phosphor Torch": {
+          "name": "Фосфорный факел"
+        },
+        "Heavily Augmented": {
+          "name": "Глубокая аугментация"
+        },
+        "Augmetic Heart": {
+          "name": "Аугметическое сердце"
+        },
+        "Augmetic Respiratory System": {
+          "name": "Аугметическая дыхательная система"
+        }
+      }
+    },
+    "XwpbbYbwPNENDjfl": {
+      "name": "Альдарский странник",
+      "description": "<p>Снаряжение: лёгкий альдарский сетчатый доспех, пустой камень души.</p>",
+      "species": "Айэльдари",
+      "items": {
+        "Deadeye": {
+          "name": "Орлиный глаз"
+        },
+        "Ranger Long Rifle": {
+          "name": "Длинная винтовка странника"
+        },
+        "Cameleoline Cloak": {
+          "name": "Хамелеолиновый плащ"
+        },
+        "Psychic Sensitivity": {
+          "name": "Психическая восприимчивость"
+        },
+        "Shuriken Pistol": {
+          "name": "Сюрикеновый пистолет"
+        },
+        "Sight": {
+          "name": "Зрение"
+        },
+        "Psyniscience": {
+          "name": "Психическое чутьё"
+        },
+        "Surface": {
+          "name": "Поверхность"
+        },
+        "Long Guns": {
+          "name": "Лёгкое оружие"
+        }
+      }
+    },
+    "YmXYnuAeJNsJwoEX": {
+      "name": "Большой кнарлок",
+      "description": "<p>Снаряжение: нет.</p>",
+      "species": "Круут (Империя Тау)",
+      "items": {
+        "Mountable": {
+          "name": "Верховое животное"
+        },
+        "Quick to Anger": {
+          "name": "Скорый на гнев"
+        },
+        "Kroot Bolt Thrower": {
+          "name": "Круутский болтомёт"
+        },
+        "Beak and Claw": {
+          "name": "Клюв и когти"
+        },
+        "Might": {
+          "name": "Мощь"
+        }
+      }
+    },
+    "YwULlBZZIXsJmjKb": {
+      "name": "Кабалит-истиннорождённый",
+      "description": "<p>Снаряжение: кабалитский доспех, коллекция жутких боевых трофеев.</p>",
+      "species": "Друкари (кабал)",
+      "items": {
+        "Shardcarbine": {
+          "name": "Осколочный карабин"
+        },
+        "One-Handed": {
+          "name": "Одноручное оружие"
+        },
+        "Blade Artist": {
+          "name": "Художник клинка"
+        },
+        "Power from Pain": {
+          "name": "Сила моя — их боль"
+        },
+        "Knife": {
+          "name": "Нож"
+        },
+        "Pain": {
+          "name": "Боль"
+        },
+        "Interrogation": {
+          "name": "Допрос"
+        },
+        "Deception": {
+          "name": "Обман"
+        }
+      }
+    },
+    "ZV3pVFREihQfVw9v": {
+      "name": "Когтистый изверг",
+      "description": "<p>Снаряжение: нет.</p>",
+      "species": "Когтистый изверг (культ вычей)",
+      "items": {
+        "Frenzy": {
+          "name": "Неистовство"
+        },
+        "Claws": {
+          "name": "Когти"
+        },
+        "Fearsome": {
+          "name": "Страшный"
+        },
+        "Might": {
+          "name": "Мощь"
+        }
+      }
+    },
+    "d62GTGS5LuGpyvpc": {
+      "name": "Королевский страж",
+      "species": "Некрон",
+      "items": {
+        "Living Metal (4)": {
+          "name": "Живой металл (4)"
+        },
+        "Phase Out": {
+          "name": "Фазовый уход"
+        },
+        "Reanimation Protocols (7+)": {
+          "name": "Протоколы реанимации (7+)"
+        },
+        "Adaptive Strategy": {
+          "name": "Адаптивная стратегия"
+        },
+        "Engrammatic Logic": {
+          "name": "Энграмматическая логика"
+        },
+        "Varguard": {
+          "name": "Варгард"
+        },
+        "Relic Gauss Blaster": {
+          "name": "Реликвийный гаусс-бластер"
+        }
+      }
+    },
+    "dXt5yN84Bl3WWWqW": {
+      "name": "Лошадь",
+      "species": "Лошадь (фауна)",
+      "items": {
+        "Bred for War": {
+          "name": "Выведенные для войны"
+        },
+        "Hooves": {
+          "name": "Копыта"
+        },
+        "Might": {
+          "name": "Мощь"
+        },
+        "Running": {
+          "name": "Бег"
+        },
+        "Pain": {
+          "name": "Боль"
+        }
+      }
+    },
+    "dawCrDsgzIVIahXa": {
+      "name": "Лорд некронов",
+      "species": "Некрон",
+      "items": {
+        "Living Metal (4)": {
+          "name": "Живой металл (4)"
+        },
+        "Phase Out": {
+          "name": "Фазовый уход"
+        },
+        "Reanimation Protocols (7+)": {
+          "name": "Протоколы реанимации (7+)"
+        },
+        "Lord's Will": {
+          "name": "Воля лорда"
+        },
+        "Relentless March": {
+          "name": "Неумолимый марш"
+        },
+        "Resurrection Orb": {
+          "name": "Сфера воскрешения"
+        },
+        "Staff of Light (Ranged)": {
+          "name": "Посох света (дальний бой)"
+        },
+        "Staff of Light (Melee)": {
+          "name": "Посох света (ближний бой)"
+        }
+      }
+    },
+    "ddkoCdiXHCRDuEd3": {
+      "name": "Гибрид-аколит",
+      "description": "<p>Снаряжение: тяжёлый кожаный доспех, 2к10 соляров, цвета культа или банды</p>",
+      "species": "Мутант (культы генокрадов)",
+      "items": {
+        "Iconward": {
+          "name": "Иконный страж"
+        },
+        "Multi-Limbed": {
+          "name": "Многоконечный"
+        },
+        "Resurgence": {
+          "name": "Возрождение"
+        },
+        "Bonesword": {
+          "name": "Костяной меч"
+        },
+        "Claws": {
+          "name": "Когти"
+        },
+        "Genestealer Mutation": {
+          "name": "Мутация генокрада"
+        },
+        "Autopistol": {
+          "name": "Автопистолет"
+        }
+      }
+    },
+    "fSf7TWF7N5XIBziq": {
+      "name": "Кнарлок",
+      "description": "<p>Снаряжение: нет.</p>",
+      "species": "Круут (Империя Тау)",
+      "items": {
+        "Mountable": {
+          "name": "Верховое животное"
+        },
+        "Multiple Varieties": {
+          "name": "Множество разновидностей"
+        },
+        "Beak and Claw": {
+          "name": "Клюв и когти"
+        }
+      }
+    },
+    "fWHLLJh0pqxi3bzc": {
+      "name": "Огненный дракон",
+      "description": "<p>Снаряжение: альдарская аспектная броня, пустой камень души, 2 мельта-бомбы</p>",
+      "species": "Айэльдари",
+      "items": {
+        "Tank Hunter": {
+          "name": "Охотник на танки"
+        },
+        "Fusion Gun": {
+          "name": "Термоган"
+        },
+        "Long Gun": {
+          "name": "Лёгкое оружие"
+        },
+        "Psychic Sensitivity": {
+          "name": "Психическая восприимчивость"
+        },
+        "Psyniscience": {
+          "name": "Психическое чутьё"
+        }
+      }
+    },
+    "fWkdBJvhL3JbJl8c": {
+      "name": "Сидонский скатрос",
+      "species": "Человек",
+      "items": {
+        "Aquillan Eye": {
+          "name": "Аквиллийский глаз"
+        },
+        "Transuranic Arquebus": {
+          "name": "Трансурановая аркебуза"
+        },
+        "Heavily Augmented": {
+          "name": "Глубокая аугментация"
+        },
+        "Augmetic Heart": {
+          "name": "Аугметическое сердце"
+        },
+        "Augmetic Respiratory System": {
+          "name": "Аугметическая дыхательная система"
+        }
+      }
+    },
+    "frBHfA1AihOsn8XS": {
+      "name": "Птераксий-небесный ловчий",
+      "species": "Человек",
+      "items": {
+        "Pteraxii Flight Pack": {
+          "name": "Лётный ранец птераксиев"
+        },
+        "Riding the Thermals": {
+          "name": "Верхом на восходящих потоках"
+        },
+        "Flechette Carbine": {
+          "name": "Флешеттный карабин"
+        },
+        "Heavily Augmented": {
+          "name": "Глубокая аугментация"
+        },
+        "Augmetic Heart": {
+          "name": "Аугметическое сердце"
+        },
+        "Augmetic Respiratory System": {
+          "name": "Аугметическая дыхательная система"
+        }
+      }
+    },
+    "g6pD96mjTwnxv9aL": {
+      "name": "Рой ксотийской кровавой саранчи",
+      "description": "<p>В базовом профиле 3 раны, но, действуя как рой, существо считается имеющим 20 ран (см. «Сокрушающий натиск»).</p>",
+      "species": "Кровавая саранча (рой)",
+      "items": {
+        "Exsanguination": {
+          "name": "Обескровливание"
+        },
+        "Overwhelming": {
+          "name": "Сокрушающий натиск"
+        },
+        "A Thousand Needles": {
+          "name": "Тысяча игл"
+        }
+      }
+    },
+    "gF1afj8U4oBwSWoO": {
+      "name": "Суккуба",
+      "description": "<p>Снаряжение: костюм ведьмы, коллекция жутких боевых трофеев, 3 дозы «Акселерая».</p>",
+      "species": "Друкари (культ вычей)",
+      "items": {
+        "Blade Mistress": {
+          "name": "Госпожа клинков"
+        },
+        "Mistress of the Arena": {
+          "name": "Госпожа арены"
+        },
+        "Vying for Attention": {
+          "name": "Борьба за внимание"
+        },
+        "2x Knives": {
+          "name": "2 ножа"
+        },
+        "One-Handed": {
+          "name": "Одноручное оружие"
+        },
+        "Power from Pain": {
+          "name": "Сила моя — их боль"
+        },
+        "Splinter Pistol": {
+          "name": "Осколочный пистолет"
+        },
+        "Pain": {
+          "name": "Боль"
+        },
+        "Interrogation": {
+          "name": "Допрос"
+        },
+        "Acrobatics": {
+          "name": "Акробатика"
+        },
+        "Deception": {
+          "name": "Обман"
+        }
+      }
+    },
+    "gGrS5hdnYYO3WxYf": {
+      "name": "Локус",
+      "description": "<p>Снаряжение: нарядные одеяния, скрытый сетчатый жилет, культовый символ</p>",
+      "species": "Мутант (культы генокрадов)",
+      "items": {
+        "Counter Attack": {
+          "name": "Контратака"
+        },
+        "Ever Vigilant Bodyguard": {
+          "name": "Неусыпный телохранитель"
+        },
+        "Sudden Assault": {
+          "name": "Внезапный штурм"
+        },
+        "2x Locus Blades": {
+          "name": "2 клинка локуса"
+        },
+        "Toxinspike Tail": {
+          "name": "Хвост с ядовитым шипом"
+        },
+        "Neurotraumal Rod": {
+          "name": "Нейротравматический жезл"
+        },
+        "One-Handed": {
+          "name": "Одноручное оружие"
+        },
+        "Genestealer Mutation": {
+          "name": "Мутация генокрада"
+        },
+        "Dodge": {
+          "name": "Уклонение"
+        }
+      }
+    },
+    "hQhfb5VZKmHkHxWD": {
+      "name": "Альфус аталанских шакалов",
+      "description": "<p>Снаряжение: тяжёлый кожаный доспех, 1к10 соляров, цвета банды или культа, фильтры-затычки, мотоцикл (основная книга, стр. 226), боевой мотоцикл («Vehicles of the Imperium», стр. 18) или квадроцикл («Macharian Requisition Guide», стр. 85)</p>",
+      "species": "Человек (культы генокрадов)",
+      "items": {
+        "Hunting Pack": {
+          "name": "Охотничья стая"
+        },
+        "Priority Target": {
+          "name": "Приоритетная цель"
+        },
+        "We Ride At Dawn": {
+          "name": "Выступаем на рассвете"
+        },
+        "Genestealer Mutation": {
+          "name": "Мутация генокрада"
+        },
+        "Stub Pistol": {
+          "name": "Стаб-пистолет"
+        },
+        "Knife": {
+          "name": "Нож"
+        },
+        "Might": {
+          "name": "Мощь"
+        },
+        "Civilian": {
+          "name": "Гражданская техника"
+        },
+        "Long Guns": {
+          "name": "Лёгкое оружие"
+        }
+      }
+    },
+    "hhP2Hec8CfzzAo6L": {
+      "name": "Магус",
+      "description": "<p>Снаряжение: ксеносетка, цвета культа или банды, фильтры-затычки, культовый символ</p>",
+      "species": "Мутант (культы генокрадов)",
+      "items": {
+        "Smite (Power)": {
+          "name": "Психический удар (психосила)"
+        },
+        "Psychic Shriek (Power)": {
+          "name": "Психический вопль (психосила)"
+        },
+        "Genestealer Mutation": {
+          "name": "Мутация генокрада"
+        },
+        "Psychic Powers": {
+          "name": "Психосилы"
+        },
+        "Telepath": {
+          "name": "Прорицатель"
+        },
+        "Warp Threshold": {
+          "name": "Порог Варпа"
+        },
+        "Bolt Pistol": {
+          "name": "Болт-пистолет"
+        },
+        "Force Staff": {
+          "name": "Психосиловой посох"
+        },
+        "Psychic": {
+          "name": "Психосилы"
+        },
+        "Telepathy": {
+          "name": "Телепатия"
+        },
+        "Charm": {
+          "name": "Обаяние"
+        },
+        "Deception": {
+          "name": "Обман"
+        }
+      }
+    },
+    "iAa6FUcSWBQw7sEI": {
+      "name": "Боескафандр XV88 «Бортовой залп»",
+      "description": "<p>Снаряжение: боескафандр «Бортовой залп»</p>",
+      "species": "Боевой доспех (Империя Тау)",
+      "items": {
+        "For the Greater Good": {
+          "name": "Во имя Высшего блага"
+        },
+        "Smart Missile Systems": {
+          "name": "Системы умных ракет"
+        },
+        "Heavy Rail Rifle": {
+          "name": "Тяжёлая рельсовая винтовка"
+        },
+        "2x Smart Missile Systems": {
+          "name": "2 системы умных ракет"
+        },
+        "Leadership": {
+          "name": "Лидерство"
+        },
+        "Ordnance": {
+          "name": "Тяжёлое оружие"
+        }
+      }
+    },
+    "imbAhYrnQLKtkupF": {
+      "name": "Падший демагог",
+      "description": "<p>Снаряжение: ксеносетка, осквернённые одеяния, 1к10 × 1000 соляров, еретические книги</p>",
+      "species": "Человек (еретик)",
+      "items": {
+        "Darkened Fate": {
+          "name": "Омрачённая судьба"
+        },
+        "Defend Me!": {
+          "name": "Защитите меня!"
+        },
+        "Minions": {
+          "name": "Прислужники"
+        },
+        "My Dear Child": {
+          "name": "Дитя моё"
+        },
+        "Sanity is for the Weak": {
+          "name": "Здравомыслие — удел слабых"
+        },
+        "Witch-mark": {
+          "name": "Колдовская метка"
+        },
+        "Bolt Pistol": {
+          "name": "Болт-пистолет"
+        },
+        "Electro-Flail": {
+          "name": "Электрохлыст"
+        },
+        "Human": {
+          "name": "Люди"
+        },
+        "High Gothic": {
+          "name": "Высокий готический"
+        },
+        "Theology": {
+          "name": "Богословие"
+        },
+        "Leadership": {
+          "name": "Лидерство"
+        }
+      }
+    },
+    "iqlBJqn1YEGwyZIz": {
+      "name": "Эфирный",
+      "description": "<p>Снаряжение: нарядные одеяния</p>",
+      "species": "Тау (Империя Тау)",
+      "items": {
+        "The Greater Good Manifest": {
+          "name": "Воплощённое Высшее благо"
+        },
+        "Undeniable Aura": {
+          "name": "Неоспоримая аура"
+        },
+        "Unity in all Things": {
+          "name": "Единство во всём"
+        },
+        "Honor Blade": {
+          "name": "Клинок чести"
+        },
+        "Two-Handed": {
+          "name": "Двуручное оружие"
+        },
+        "Forbidden": {
+          "name": "Запретное"
+        },
+        "Leadership": {
+          "name": "Лидерство"
+        },
+        "Charm": {
+          "name": "Обаяние"
+        },
+        "Deception": {
+          "name": "Обман"
+        }
+      }
+    },
+    "j7wwM5r6sTEn61Nz": {
+      "name": "Преторианец Триархата",
+      "species": "Некрон",
+      "items": {
+        "Living Metal (4)": {
+          "name": "Живой металл (4)"
+        },
+        "Phase Out": {
+          "name": "Фазовый уход"
+        },
+        "Reanimation Protocols (7+)": {
+          "name": "Протоколы реанимации (7+)"
+        },
+        "Unshakeable Purpose": {
+          "name": "Непоколебимая цель"
+        },
+        "Rod of Covenant (Melee)": {
+          "name": "Жезл завета (ближний бой)"
+        },
+        "Rod of Covenant (Ranged)": {
+          "name": "Жезл завета (дальний бой)"
+        }
+      }
+    },
+    "kjKWREhbiGjlvhkT": {
+      "name": "Амбулл",
+      "description": "<p>В источнике инициатива указана как бонус Вос + бонус Лов (3 + 5 = 8).</p>",
+      "species": "Амбулл (фауна)",
+      "items": {
+        "Tunneler": {
+          "name": "Землеройка"
+        },
+        "Claws & Bite": {
+          "name": "Когти и укус"
+        }
+      }
+    },
+    "lQ2JK6z4dKZrHlzQ": {
+      "name": "Веспид-жалокрыл",
+      "description": "<p>Снаряжение: броня жалокрыла</p>",
+      "species": "Веспид (Империя Тау)",
+      "items": {
+        "For the Greater Good": {
+          "name": "Во имя Высшего блага"
+        },
+        "Winged Flight": {
+          "name": "Крылатый полёт"
+        },
+        "Neutron Blaster": {
+          "name": "Нейтронный бластер"
+        }
+      }
+    },
+    "lRKYz7A1zWSaw9Yx": {
+      "name": "Воин огня",
+      "description": "<p>Снаряжение: боевая броня воина огня; в составе штурмовой группы импульсная винтовка заменяется импульсным карабином, а ЭМИ-граната — фотонной вспышкой.</p>",
+      "species": "Тау (Империя Тау)",
+      "items": {
+        "Breachers": {
+          "name": "Прорывная группа"
+        },
+        "For the Greater Good": {
+          "name": "Во имя Высшего блага"
+        },
+        "Strikers": {
+          "name": "Ударники"
+        },
+        "EMP Grenade": {
+          "name": "ЭМИ-граната"
+        },
+        "Long Gun": {
+          "name": "Лёгкое оружие"
+        },
+        "Pulse Rifle": {
+          "name": "Импульсная винтовка"
+        }
+      }
+    },
+    "lRRLiiRejeKx0gbV": {
+      "name": "Грокс",
+      "species": "Грокс (фауна)",
+      "items": {
+        "Territorial": {
+          "name": "Территориальный"
+        },
+        "Horns & Claws": {
+          "name": "Рога и когти"
+        }
+      }
+    },
+    "lhDyjqsevhW1V4Od": {
+      "name": "Сержант-ренегат",
+      "description": "<p>Снаряжение: гвардейская флак-броня Астра Милитарум, пара солдатских жетонов, противогаз, шанцевый инструмент, униформа, снаряжение выживальщика в рюкзаке, 30 соляров</p>",
+      "species": "Человек (отступники Милитарум)",
+      "items": {
+        "Las Pistol": {
+          "name": "Лазпистолет"
+        },
+        "Sanity is for the Weak": {
+          "name": "Здравомыслие — удел слабых"
+        },
+        "Witch-mark": {
+          "name": "Колдовская метка"
+        },
+        "Frag Grenade": {
+          "name": "Фраг-граната"
+        },
+        "Krak Grenade": {
+          "name": "Крак-граната"
+        },
+        "Chainsword": {
+          "name": "Цепной меч"
+        }
+      }
+    },
+    "m44KOj2QIkBk0zSh": {
+      "name": "Психомант",
+      "species": "Некрон",
+      "items": {
+        "Living Metal (4)": {
+          "name": "Живой металл (4)"
+        },
+        "Phase Out": {
+          "name": "Фазовый уход"
+        },
+        "Reanimation Protocols (7+)": {
+          "name": "Протоколы реанимации (7+)"
+        },
+        "Harbinger of Despair": {
+          "name": "Вестник отчаяния"
+        },
+        "Nightmare Shroud": {
+          "name": "Покров кошмаров"
+        },
+        "Veil of Darkness": {
+          "name": "Покров тьмы"
+        },
+        "Abyssal Lance (Ranged)": {
+          "name": "Копьё бездны (дальний бой)"
+        },
+        "Abyssal Lance (Melee)": {
+          "name": "Копьё бездны (ближний бой)"
+        }
+      }
+    },
+    "mA2YoAblWFrySMaP": {
+      "name": "Повелитель зверей",
+      "description": "<p>Снаряжение: костюм ведьмы, коллекция жутких боевых трофеев, 1 доза одного боевого наркотика.</p>",
+      "species": "Друкари (культ вычей)",
+      "items": {
+        "Skyboard": {
+          "name": "Небесная доска"
+        },
+        "Splinter Pods": {
+          "name": "Осколочные блоки"
+        },
+        "Impaler": {
+          "name": "Пронзатель"
+        },
+        "Power from Pain": {
+          "name": "Сила моя — их боль"
+        },
+        "Pain": {
+          "name": "Боль"
+        },
+        "Aeronautica": {
+          "name": "Аэронавтика"
+        },
+        "Intimidation": {
+          "name": "Запугивание"
+        },
+        "Acrobatics": {
+          "name": "Акробатика"
+        },
+        "Animals": {
+          "name": "Животные"
+        }
+      }
+    },
+    "n0Aewqp7XCqnASGY": {
+      "name": "Вождь культа",
+      "description": "<p>Снаряжение: изодранный тяжёлый кожаный доспех, нечестивый образ, знамя культа, книга мерзостных знаний.</p>",
+      "species": "Человек (еретик)",
+      "items": {
+        "Fanatical Zealotry": {
+          "name": "Фанатичное рвение"
+        },
+        "The Price of Failure": {
+          "name": "Цена провала"
+        },
+        "Sanity is for the Weak": {
+          "name": "Здравомыслие — удел слабых"
+        },
+        "Witch-mark": {
+          "name": "Колдовская метка"
+        },
+        "Hand Cannon": {
+          "name": "Ручная пушка"
+        },
+        "Chainsword": {
+          "name": "Цепной меч"
+        },
+        "Knife": {
+          "name": "Нож"
+        },
+        "Fear": {
+          "name": "Страх"
+        },
+        "DLe7Cfx1ydZkGDI0": {
+          "name": "Запретное"
+        },
+        "nxZHfORGi625gBKm": {
+          "name": "Запретное"
+        },
+        "One-handed": {
+          "name": "Одноручное оружие"
+        },
+        "Intimidation": {
+          "name": "Запугивание"
+        },
+        "Leadership": {
+          "name": "Лидерство"
+        },
+        "Deception": {
+          "name": "Обман"
+        }
+      }
+    },
+    "nB9CcOGWYOO4cTki": {
+      "name": "Ветеран-ренегат",
+      "description": "<p>Снаряжение: панцирный доспех Темпестус со шлемом-омнищитом (встроенные фотовизоры, респиратор и вокс-бусина), инструменты хирургеона, пара солдатских жетонов, магнокль, пиктозаписыватель, «Памятка имперского гвардейца для поднятия боевого духа».</p>",
+      "species": "Человек (еретики)",
+      "items": {
+        "For the Dark Gods": {
+          "name": "За Тёмных богов"
+        },
+        "Hot-Shot Volleygun": {
+          "name": "Хотшот-залповик"
+        },
+        "Killing Zone": {
+          "name": "Огневой мешок"
+        },
+        "Shock Trooper": {
+          "name": "Штурмовик"
+        },
+        "Hot-Shot Lasgun": {
+          "name": "Пробивной лазган"
+        },
+        "Knife": {
+          "name": "Нож"
+        },
+        "Frag Grenade": {
+          "name": "Фраг-граната"
+        },
+        "Krak Grenade": {
+          "name": "Крак-граната"
+        },
+        "Long Guns": {
+          "name": "Лёгкое оружие"
+        }
+      }
+    },
+    "oHvtyzFWhqDx21zt": {
+      "name": "Смертоносец",
+      "species": "Некрон",
+      "items": {
+        "Living Metal (3)": {
+          "name": "Живой металл (3)"
+        },
+        "Phase Out": {
+          "name": "Фазовый уход"
+        },
+        "Reanimation Protocols (7+)": {
+          "name": "Протоколы реанимации (7+)"
+        },
+        "Dimensional Oubliette": {
+          "name": "Пространственное узилище"
+        },
+        "Marked for Death": {
+          "name": "Отмеченный смертью"
+        },
+        "Synaptic Disintegrator": {
+          "name": "Синаптический дезинтегратор"
+        }
+      }
+    },
+    "op6vfiOvW0465Kxz": {
+      "name": "Гибрид-метаморф",
+      "description": "<p>Снаряжение: тяжёлый кожаный доспех, 1к10 соляров</p>",
+      "species": "Человек (культы генокрадов)",
+      "items": {
+        "Multi-Limbed": {
+          "name": "Многоконечный"
+        },
+        "Resurgence": {
+          "name": "Возрождение"
+        },
+        "Saintly Mutations": {
+          "name": "Святые мутации"
+        },
+        "Genestealer Mutation": {
+          "name": "Мутация генокрада"
+        },
+        "Autopistol": {
+          "name": "Автопистолет"
+        },
+        "Unarmed": {
+          "name": "Безоружный бой"
+        },
+        "Might": {
+          "name": "Мощь"
+        }
+      }
+    },
+    "pHbuOveGFzUWcI5I": {
+      "name": "Секутарий-пельтаст",
+      "species": "Человек",
+      "items": {
+        "Kyropatris Field Generator": {
+          "name": "Генератор поля «Киропатрис»"
+        },
+        "Titanguard": {
+          "name": "Страж титанов"
+        },
+        "Blind Barrage": {
+          "name": "Ослепляющий залп"
+        },
+        "Galvanic Caster": {
+          "name": "Гальванический метатель"
+        },
+        "Heavily Augmented": {
+          "name": "Глубокая аугментация"
+        },
+        "Augmetic Heart": {
+          "name": "Аугметическое сердце"
+        },
+        "Augmetic Respiratory System": {
+          "name": "Аугметическая дыхательная система"
+        }
+      }
+    },
+    "qj6qDEezEs2hcPUJ": {
+      "name": "Круут-ваятель",
+      "description": "<p>Снаряжение: рваный лёгкий кожаный доспех</p>",
+      "species": "Круут (Империя Тау)",
+      "items": {
+        "Shamanic Powers": {
+          "name": "Шаманские силы"
+        },
+        "Ambusher": {
+          "name": "Засада"
+        },
+        "Stealthy Hunter": {
+          "name": "Охотник-невидимка"
+        },
+        "Kroot Rifle (Shooting)": {
+          "name": "Винтовка круутов (стрельба)"
+        },
+        "Kroot Rifle (Blades)": {
+          "name": "Винтовка круутов (клинки)"
+        },
+        "Surface": {
+          "name": "Поверхность"
+        },
+        "Leadership": {
+          "name": "Лидерство"
+        },
+        "Hide": {
+          "name": "Невидимка"
+        },
+        "Move Silently": {
+          "name": "Бесшумное движение"
+        }
+      }
+    },
+    "r04KD18QKVuusCLx": {
+      "name": "Круутская гончая",
+      "description": "<p>Снаряжение: нет.</p>",
+      "species": "Круут (Империя Тау)",
+      "items": {
+        "Bite": {
+          "name": "Укус"
+        }
+      }
+    },
+    "rK0tCb27brLe0Vyh": {
+      "name": "Ямная тварь",
+      "species": "Ямная тварь (фауна)",
+      "items": {
+        "Aura of Hate": {
+          "name": "Аура ненависти"
+        },
+        "Utterly Terrifying": {
+          "name": "Всецело ужасающий"
+        },
+        "Claws": {
+          "name": "Когти"
+        }
+      }
+    },
+    "rXdL5kycjxZybMda": {
+      "name": "Дрон Тау",
+      "description": "<p>Снаряжение: нет. Решимость в источнике указана как «Особая» (зависит от «Машинного интеллекта»); здесь она равна 0, потому что автоматизировать её нечем.</p>",
+      "species": "Дрон (Империя Тау)",
+      "items": {
+        "Machine Intelligence": {
+          "name": "Машинный интеллект"
+        },
+        "Variants": {
+          "name": "Разновидности"
+        },
+        "Twin Pulse Carbines (MV-1 Gun Drone)": {
+          "name": "Спаренные импульсные карабины (дрон-стрелок MV-1)"
+        }
+      }
+    },
+    "rbic8cIvXjLHWwLO": {
+      "name": "Бессмертный некронов",
+      "species": "Некрон",
+      "items": {
+        "Living Metal (3)": {
+          "name": "Живой металл (3)"
+        },
+        "Phase Out": {
+          "name": "Фазовый уход"
+        },
+        "Reanimation Protocols (7+)": {
+          "name": "Протоколы реанимации (7+)"
+        },
+        "Eternal Veteran": {
+          "name": "Вечный ветеран"
+        },
+        "Gauss Blaster": {
+          "name": "Гаусс-бластер"
+        },
+        "Tesla Carbine": {
+          "name": "Тесла-карабин"
+        }
+      }
+    },
+    "sJVfCfqD0mwCjAtD": {
+      "name": "Сербер",
+      "species": "Лошадь",
+      "items": {
+        "Bred for War": {
+          "name": "Выведенные для войны"
+        },
+        "Sulphurhound": {
+          "name": "Серная гончая"
+        },
+        "Mechanical Hooves": {
+          "name": "Механические копыта"
+        },
+        "Heavily Augmented": {
+          "name": "Глубокая аугментация"
+        },
+        "Augmetic Heart": {
+          "name": "Аугметическое сердце"
+        },
+        "Augmetic Respiratory System": {
+          "name": "Аугметическая дыхательная система"
+        }
+      }
+    },
+    "sSKh7CK2WpzAncBz": {
+      "name": "Жалящий скорпион",
+      "description": "<p>Снаряжение: альдарская аспектная броня, пустой камень души</p>",
+      "species": "Айэльдари",
+      "items": {
+        "Aspect Armor": {
+          "name": "Аспектная броня"
+        },
+        "Ambush Expertise": {
+          "name": "Мастер засад"
+        },
+        "Mandiblaster": {
+          "name": "Мандибластер"
+        },
+        "Mandiblasters": {
+          "name": "Мандибластеры"
+        },
+        "Scorpion Chainsword": {
+          "name": "Цепной меч скорпиона"
+        },
+        "One-Handed": {
+          "name": "Одноручное оружие"
+        },
+        "Psychic Sensitivity": {
+          "name": "Психическая восприимчивость"
+        },
+        "Shuriken Pistol": {
+          "name": "Сюрикеновый пистолет"
+        },
+        "Psyniscience": {
+          "name": "Психическое чутьё"
+        },
+        "Dodge": {
+          "name": "Уклонение"
+        }
+      }
+    },
+    "sgUiNyrw8cKunx5G": {
+      "name": "Иконарх",
+      "description": "<p>Снаряжение: изодранный тяжёлый кожаный доспех, культовый символ</p>",
+      "species": "Человек (еретик)",
+      "items": {
+        "Darkened Fate": {
+          "name": "Омрачённая судьба"
+        },
+        "Ruinous Iconbearer": {
+          "name": "Знаменосец Губительных Сил"
+        },
+        "Chaos Stave (Force Staff, Psy Focus)": {
+          "name": "Посох Хаоса (силовой посох, пси-фокус)"
+        },
+        "Source of Corruption": {
+          "name": "Источник порчи"
+        },
+        "Unrestrained Power": {
+          "name": "Несдерживаемая мощь"
+        },
+        "Warp Threshold": {
+          "name": "Порог Варпа"
+        },
+        "Laspistol": {
+          "name": "Лазпистолет"
+        },
+        "4EX2KbdtpAPovMOu": {
+          "name": "Запретное"
+        },
+        "FUePvz3Ik8fD9poT": {
+          "name": "Запретное"
+        }
+      }
+    },
+    "ssHnkjNe2qt8iHWB": {
+      "name": "Аберрант",
+      "description": "<p>Снаряжение: нет.</p>",
+      "species": "Мутант (культы генокрадов)",
+      "items": {
+        "Bodyguard": {
+          "name": "Телохранитель"
+        },
+        "Multi-Limbed": {
+          "name": "Многоконечный"
+        },
+        "Resurgence": {
+          "name": "Возрождение"
+        },
+        "Power Pick": {
+          "name": "Силовая кирка"
+        },
+        "Power Hammer": {
+          "name": "Силовой молот"
+        },
+        "Two-Handed": {
+          "name": "Двуручное оружие"
+        },
+        "Genestealer Mutation": {
+          "name": "Мутация генокрада"
+        },
+        "Intimidation": {
+          "name": "Запугивание"
+        }
+      }
+    },
+    "uHUNMldJXblTlOUL": {
+      "name": "Келерморф",
+      "description": "<p>Снаряжение: тяжёлый кожаный доспех, цвета банды или культа, фильтры-затычки, нарядный плащ</p>",
+      "species": "Мутант (культы генокрадов)",
+      "items": {
+        "Folktale Hero": {
+          "name": "Герой сказаний"
+        },
+        "Multi-Limbed": {
+          "name": "Многоконечный"
+        },
+        "Gunslinger of Legend": {
+          "name": "Легендарный стрелок"
+        },
+        "3x Liberator Autostub Pistols": {
+          "name": "3 автостаб-пистолета «Освободитель»"
+        },
+        "Genestealer Mutation": {
+          "name": "Мутация генокрада"
+        },
+        "Knife": {
+          "name": "Нож"
+        },
+        "Pistols": {
+          "name": "Пистолеты"
+        }
+      }
+    },
+    "ufM7D4XtJT1N1AnH": {
+      "name": "Стрелок культа",
+      "description": "<p>Снаряжение: культистские одеяния, набор для маскировки, еретические писания, светосфера, нечестивый образ, 20 соляров</p>",
+      "species": "Человек (еретик)",
+      "items": {
+        "Suppressing Fire": {
+          "name": "Огонь на подавление"
+        },
+        "Sanity is for the Weak": {
+          "name": "Здравомыслие — удел слабых"
+        },
+        "Witch-mark": {
+          "name": "Колдовская метка"
+        },
+        "Heavy Stubber": {
+          "name": "Тяжёлый стаббер"
+        },
+        "Knife": {
+          "name": "Нож"
+        },
+        "sVdksIGBeiyVbxpG": {
+          "name": "Запретное"
+        },
+        "PF9oLO3tpgmZ7fdA": {
+          "name": "Запретное"
+        },
+        "Ordnance": {
+          "name": "Тяжёлое оружие"
+        },
+        "Deception": {
+          "name": "Обман"
+        }
+      }
+    },
+    "uqKuHCSeZu4gcEGS": {
+      "name": "Личная гвардия",
+      "species": "Некрон",
+      "items": {
+        "Living Metal (4)": {
+          "name": "Живой металл (4)"
+        },
+        "Phase Out": {
+          "name": "Фазовый уход"
+        },
+        "Reanimation Protocols (7+)": {
+          "name": "Протоколы реанимации (7+)"
+        },
+        "Ultimate Bodyguard": {
+          "name": "Совершенный телохранитель"
+        },
+        "Hyperphase Sword": {
+          "name": "Гиперфазовый меч"
+        },
+        "Warscythe": {
+          "name": "Боевая коса"
+        }
+      }
+    },
+    "uxPTiBlNKxqICCEt": {
+      "name": "Отродье Хаоса",
+      "description": "<p>Снаряжение: нет.</p>",
+      "species": "Демон (еретический)",
+      "items": {
+        "Hideous Mutations": {
+          "name": "Отвратительные мутации"
+        },
+        "Fearsome": {
+          "name": "Страшный"
+        },
+        "Mutated Beyond Reason": {
+          "name": "Безумное количество мутаций"
+        },
+        "Mutated Movement": {
+          "name": "Мутировавшие ноги"
+        },
+        "Source of Corruption": {
+          "name": "Источник порчи"
+        }
+      }
+    },
+    "vFnM2eyyRkaqwk72": {
+      "name": "Биофаг",
+      "description": "<p>Снаряжение: тяжёлый кожаный доспех, цвета банды или культа, противогаз, склянки с ядом, 2 галлюциногенные гранаты («Inquisition Player's Guide», стр. 91)</p>",
+      "species": "Мутант (культы генокрадов)",
+      "items": {
+        "Alchemicus Familiar": {
+          "name": "Фамильяр-алхимикус"
+        },
+        "Twisted Scientist": {
+          "name": "Извращённый учёный"
+        },
+        "Poisons": {
+          "name": "Яды"
+        },
+        "Genestealer Mutation": {
+          "name": "Мутация генокрада"
+        },
+        "Autopistol": {
+          "name": "Автопистолет"
+        },
+        "Injector Goad": {
+          "name": "Шприц-стрекало"
+        },
+        "zkzU1OVSSVv3Gqdv": {
+          "name": "Запретное"
+        },
+        "vkDR2ngVQtPGJaAy": {
+          "name": "Запретное"
+        }
+      }
+    },
+    "vsIpwrPBvZDXUBth": {
+      "name": "Абоминант",
+      "description": "<p>Снаряжение: нет. Решимость в источнике указана как «Особая» (под защитой «Фамильяра-разумного червя»); здесь она равна 0, потому что автоматизировать её нечем.</p>",
+      "species": "Мутант (культы генокрадов)",
+      "items": {
+        "Mindwyrm Familiar": {
+          "name": "Фамильяр — разумный червь"
+        },
+        "Multi-Limbed": {
+          "name": "Многоконечный"
+        },
+        "Regenerating Genemass": {
+          "name": "Восстанавливающаяся генная масса"
+        },
+        "Power Sledgehammer": {
+          "name": "Силовая кувалда"
+        },
+        "Two-Handed": {
+          "name": "Двуручное оружие"
+        },
+        "Genestealer Mutation": {
+          "name": "Мутация генокрада"
+        },
+        "Intimidation": {
+          "name": "Запугивание"
+        }
+      }
+    },
+    "x7vkk80Em0f4Rqqx": {
+      "name": "Гемункул",
+      "description": "<p>Снаряжение: клон-поле, 1к5 доз каждого наркотика</p>",
+      "species": "Друкари (ковен)",
+      "items": {
+        "Clone Field": {
+          "name": "Клон-поле"
+        },
+        "Haemonculus Secrets": {
+          "name": "Тайны гемункулов"
+        },
+        "Stinger Pistol": {
+          "name": "Жалящий пистолет"
+        },
+        "Scissorhands": {
+          "name": "Руки-ножницы"
+        },
+        "Power from Pain": {
+          "name": "Сила моя — их боль"
+        },
+        "Pain": {
+          "name": "Боль"
+        },
+        "syVydMQm3LI9jq9T": {
+          "name": "Запретное"
+        },
+        "i4vJtfBXzcPB2dZk": {
+          "name": "Запретное"
+        },
+        "Intimidation": {
+          "name": "Запугивание"
+        },
+        "Interrogation": {
+          "name": "Допрос"
+        },
+        "Deception": {
+          "name": "Обман"
+        },
+        "Augmetics": {
+          "name": "Аугметика"
+        }
+      }
+    },
+    "xyJ1E1TFCRsx0iCQ": {
+      "name": "Аталанский шакал",
+      "description": "<p>Снаряжение: тяжёлый кожаный доспех, 1к10 соляров, цвета банды или культа, фильтры-затычки, мотоцикл (основная книга, стр. 226), боевой мотоцикл («Vehicles of the Imperium», стр. 18) или квадроцикл («Macharian Requisition Guide», стр. 85)</p>",
+      "species": "Человек (культы генокрадов)",
+      "items": {
+        "Hunting Pack": {
+          "name": "Охотничья стая"
+        },
+        "Resurgence": {
+          "name": "Возрождение"
+        },
+        "Genestealer Mutation": {
+          "name": "Мутация генокрада"
+        },
+        "Stub Pistol": {
+          "name": "Стаб-пистолет"
+        },
+        "Knife": {
+          "name": "Нож"
+        },
+        "Might": {
+          "name": "Мощь"
+        },
+        "Civilian": {
+          "name": "Гражданская техника"
+        }
+      }
+    },
+    "z5jBCYPryAq6xTq6": {
+      "name": "Архонт",
+      "description": "<p>Снаряжение: призрачный доспех, теневое поле, 3 дозы «Трупного обмулена», коллекция жутких боевых трофеев, ловушка душ</p>",
+      "species": "Друкари (кабал)",
+      "items": {
+        "Overlord": {
+          "name": "Повелитель"
+        },
+        "Soul Trap": {
+          "name": "Ловушка душ"
+        },
+        "Eldar Power Sword": {
+          "name": "Эльдарский силовой меч"
+        },
+        "One-Handed": {
+          "name": "Одноручное оружие"
+        },
+        "Blade Artist": {
+          "name": "Художник клинка"
+        },
+        "Power from Pain": {
+          "name": "Сила моя — их боль"
+        },
+        "Blast Pistol": {
+          "name": "Бластерный пистолет"
+        },
+        "Pain": {
+          "name": "Боль"
+        },
+        "Interrogation": {
+          "name": "Допрос"
+        },
+        "Deception": {
+          "name": "Обман"
+        }
+      }
+    },
+    "z8z64r0SbQF5vVan": {
+      "name": "Гекатрикс",
+      "description": "<p>Снаряжение: костюм ведьмы, коллекция жутких боевых трофеев, 1 доза одного боевого наркотика.</p>",
+      "species": "Друкари (культ вычей)",
+      "items": {
+        "Blade Mistress": {
+          "name": "Госпожа клинков"
+        },
+        "Vying for Attention": {
+          "name": "Борьба за внимание"
+        },
+        "One-Handed": {
+          "name": "Одноручное оружие"
+        },
+        "Power from Pain": {
+          "name": "Сила моя — их боль"
+        },
+        "Splinter Pistol": {
+          "name": "Осколочный пистолет"
+        },
+        "Knife": {
+          "name": "Нож"
+        },
+        "Pain": {
+          "name": "Боль"
+        },
+        "Interrogation": {
+          "name": "Допрос"
+        },
+        "Acrobatics": {
+          "name": "Акробатика"
+        },
+        "Deception": {
+          "name": "Обман"
+        }
+      }
+    },
+    "zhCTTr10tJZBAiKs": {
+      "name": "Боескафандр XV8 «Кризис»",
+      "description": "<p>Снаряжение: боескафандр «Кризис», 3 вспомогательные системы</p>",
+      "species": "Боевой доспех (Империя Тау)",
+      "items": {
+        "Battlesuit Jump Pack": {
+          "name": "Прыжковый ранец боескафандра"
+        },
+        "For the Greater Good": {
+          "name": "Во имя Высшего блага"
+        },
+        "Burst Cannon": {
+          "name": "Скорострельная пушка"
+        },
+        "Missile Pods w/ Frag Missiles": {
+          "name": "Ракетные блоки с фраг-ракетами"
+        },
+        "Plasma Rifle": {
+          "name": "Плазменная винтовка"
+        },
+        "Leadership": {
+          "name": "Лидерство"
+        },
+        "Ordnance": {
+          "name": "Тяжёлое оружие"
+        }
+      }
+    }
+  }
+}

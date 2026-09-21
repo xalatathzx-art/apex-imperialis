@@ -31,13 +31,13 @@ const IM = "JournalEntry.GPqYZykonC12TJb1.JournalEntryPage";
 const WOUNDS = "JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE";
 
 const origin = {
-  shrine: U("Compendium.impmal-core.items.Item.i7qRAalBsnddJYeW", "Мир-храм"),
-  hive: U("Compendium.impmal-core.items.Item.OjFcYwOwNH6WlUjT", "Мир-улей"),
-  void: U("Compendium.impmal-core.items.Item.bFXPJAp4GsM8TB8F", "Пустота"),
-  schola: U("Compendium.impmal-core.items.Item.7E0Gkel1gSaxTgVu", "Схола Прогениум"),
-  feudal: U("Compendium.impmal-core.items.Item.pzvSXkckglOmZgdk", "Феодальный мир"),
-  feral: U("Compendium.impmal-core.items.Item.jPXulXRUoZ099Cwl", "Дикий мир"),
-  forge: U("Compendium.impmal-core.items.Item.5SLj6QlgqqR0K5GX", "Мир-кузница")
+  shrine: U("Compendium.navis-apexialis.navis-core-items.Item.i7qRAalBsnddJYeW", "Мир-храм"),
+  hive: U("Compendium.navis-apexialis.navis-core-items.Item.OjFcYwOwNH6WlUjT", "Мир-улей"),
+  void: U("Compendium.navis-apexialis.navis-core-items.Item.bFXPJAp4GsM8TB8F", "Пустота"),
+  schola: U("Compendium.navis-apexialis.navis-core-items.Item.7E0Gkel1gSaxTgVu", "Схола Прогениум"),
+  feudal: U("Compendium.navis-apexialis.navis-core-items.Item.pzvSXkckglOmZgdk", "Феодальный мир"),
+  feral: U("Compendium.navis-apexialis.navis-core-items.Item.jPXulXRUoZ099Cwl", "Дикий мир"),
+  forge: U("Compendium.navis-apexialis.navis-core-items.Item.5SLj6QlgqqR0K5GX", "Мир-кузница")
 };
 
 const faction = {
@@ -188,7 +188,7 @@ export const byName = {
           `<em>Кровотечения</em>, но ваши раны нельзя будет восстановить, пока <em>Кровотечение</em> ` +
           `не остановят. Если <em>Кровотечение</em> началось не из-за критической раны, его можно ` +
           `остановить <strong>средней (+0) проверкой Медики</strong> или при помощи ` +
-          `${U("Compendium.impmal-core.items.Item.qjjlckQ3WvF4KLxO", "инструментов хирургеона")}.</p>` +
+          `${U("Compendium.navis-apexialis.navis-core-items.Item.qjjlckQ3WvF4KLxO", "инструментов хирургеона")}.</p>` +
 
           h(3, "blinded", "Слепота") +
           ul(
@@ -249,7 +249,7 @@ export const byName = {
           `<p>Если длительность <em>Отравления</em> не указана, оно продолжается [[/r 1d5]] часов.</p>` +
           `<p>Как правило, <em>Отравление</em> можно вылечить <strong>средней (+0) проверкой ` +
           `Медики</strong> и применением ` +
-          `${U("Compendium.impmal-core.items.Item.qjjlckQ3WvF4KLxO", "инструментов хирургеона")}. ` +
+          `${U("Compendium.navis-apexialis.navis-core-items.Item.qjjlckQ3WvF4KLxO", "инструментов хирургеона")}. ` +
           `Особенно опасные яды могут потребовать трудной (−10) проверки или хуже. Самые ` +
           `смертоносные вещества требуют очень сложной (−30) проверки, а когда срок их действия ` +
           `подходит к концу, обычно к концу подходит и жизнь жертвы.</p>` +

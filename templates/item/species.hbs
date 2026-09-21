@@ -4,22 +4,17 @@
         <div class="field">
             <label>{{localize "NAVIS.Species.Category.Label"}}</label>
             <select name="system.category">
-                {{#select source.system.category}}
-                {{#each categories as |label key|}}
-                <option value="{{key}}">{{localize label}}</option>
-                {{/each}}
-                {{/select}}
+                {{selectOptions categories selected=source.system.category localize=true}}
             </select>
         </div>
         <div class="field">
             <label>{{localize "IMPMAL.Size"}}</label>
             <select name="system.size">
-                {{#select source.system.size}}
-                {{#if isSubspecies}}<option value="">{{localize "NAVIS.Species.SizeUnchanged"}}</option>{{/if}}
-                {{#each sizes as |label key|}}
-                <option value="{{key}}">{{localize label}}</option>
-                {{/each}}
-                {{/select}}
+                {{#if isSubspecies}}
+                {{selectOptions sizes selected=source.system.size localize=true blank=(localize "NAVIS.Species.SizeUnchanged")}}
+                {{else}}
+                {{selectOptions sizes selected=source.system.size localize=true}}
+                {{/if}}
             </select>
         </div>
         <div class="field">

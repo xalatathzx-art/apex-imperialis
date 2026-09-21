@@ -2,7 +2,7 @@
   "name": "Tzaangor",
   "type": "navis-apexialis.subspecies",
   "_id": "navisSpSub000010",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder002",
   "sort": 1000,
   "system": {

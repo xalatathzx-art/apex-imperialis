@@ -1,0 +1,69 @@
+{
+ "journal": "QU6vEOUu69z190da",
+ "journalName": "Acolytes of the Inquisition",
+ "page": "0SrKKzUVDAcr3xL3",
+ "pageName": "Seeker",
+ "name": "Сыщик",
+ "runs": {
+  "4": {
+   "en": "‘One world. Nineteen days. A hundred damned souls absolved in death by my hand.’",
+   "ru": "III АКОЛИТЫ ИНКВИЗИЦИИ\nК\n«Одно слово. Девятнадцать дней. Сотня\nпроклятых душ, которым я своей"
+  },
+  "12": {
+   "en": "— Confessor Tarn Laggarian",
+   "ru": "рукой даровал\nотпущение"
+  },
+  "24": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.dkawZFfwGoaZJjjs]{Seekers} are the unrelenting hounds of the Inquisition: the judge, jury, and executioners of heretics and xenos alike. They are operatives used to hunting their targets behind enemy lines — whether they wield the Inquisition’s authority against them in battle or integrate themselves undercover to root enemies out from within. As much as they are expert hunters of their prey, they are also deft investigators, beating the streets to uncover clues and unravel mysteries — the Inquisition lacks for neither.",
+   "ru": "грехов»\n- исповедник Тарн Лаггариан\nСыщики – это неотступные псы Инквизиции, судьи,\nприсяжные и палачи для еретиков и ксеносов. Такие\nагенты привыкли выслеживать своих врагов на их\nтерритории, внедряясь в их ряды и работая изнутри\nили принося всю мощь Инквизиции на поле боя. Это\nне только искусные охотники, но и опытные детективы,\nсобирающие улики на улицах и разгадывающие тайны,\nа у Инквизиции всегда мало улик и много тайн.\nДержа ухо востро и стиснув зубы, сыщики разыскивают\nследы порчи там, где их можно ждать, и мужественно\nей противостоят. Иногда это волки-одиночки, а иногда\n– вожаки целых стай. Как правило, сыщики находят\nсебе местных осведомителей и поставщиков, @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.dkawZFfwGoaZJjjs]{Seekers}"
+  },
+  "28": {
+   "en": "Seekers follow trails of corruption to where they are most promising, nose to the ground and teeth bared, courageous against the corruption they will face. They might be lone wolves on the hunt or leading a cell of other acolytes. In most cases, Seekers need to source local contacts and assets themselves to complete their mission successfully, to fill in skill gaps within their cell, or simply gain the advantage of superior knowledge against their foes.",
+   "ru": "либо\nпросто пользуются знанием о враге, чтобы получить\nпреимущество над ним.\nКак правило, сыщики – это выходцы с мелких\nдолжностей в Адептус Терра. Многие служили в\nАдептус Арбитрес, вигилах или службе безопасности\nФлота, а теперь продолжают заниматься своим\nремеслом уже в Инквизиции. Встречаются и такие, что\nраньше странствовали на Чёрных кораблях, а значит\nим не в новинку путешествия в пустоте и охота на\nпсайкеров. Другие могли занимать немалую должность\nна корабле вольного торговца, а потому привычны к\nксеносам. Из сыщиков"
+  },
+  "32": {
+   "en": "Seekers are often procured from positions of minor authority within the Adeptus Terra. Many come from the ranks of the Adeptus Arbites, Macharian Vigilites, or Naval Security, where they now apply the same exacting authority against the Inquisition’s enemies. No strangers to venturing forth into the void, some Seekers who are experts in hunting psykers were once officers aboard the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.OjmVcVX5lv76LsvL]{Astra Telepathica’s} Black Ships. Those capable of dealing with xenos species may have held significant rank aboard a @UUID[Compendium.navis-apexialis.navis-core-items.Item.N3xtZGybYbWZlAhS]{Rogue Trader's} voidship. Regardless of origin, Seekers are favourable choices to fulfil the Duties of @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.z058E7qKD4CHpvoA]{Admonitor}, @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.upR0izJ77yCchw0b]{Deceptor}, or @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.eKp4XtJkKDvt42yA]{Sensor}.",
+   "ru": "получаются прекрасные\nпредостерегающие, обманщики и детекторы.\nИзбранныенаэтурольдолжныбытьисполнительными\nи авторитетными людьми. Ваш инквизитор ждёт, что\nвывозьмётерасследованиевсвоирукиибудетедостойно\nраспоряжаться его властью, обращаясь к самому\nгосподину лишь в час крайней нужды. Хороший сыщик\nдолжен быть честолюбив – возможно, когда-нибудь\nон сам станет инквизитором. Если вы докажете своё\nмастерство (а также выживете), то можете однажды\nстать помощником и учеником своего господина –\nдознавателем.\nПРЕИМУЩЕСТВА\nТ Т Та а ал л ла а ан н нт т ты ы ы: :: выберите два таланта из следующего перечня:\nАура власти (КП), Заботливый помощник (КП), Я\nтребую содействия!, Смерть ведьме! (КП), Грязный\nбой (КП), Всегда начеку (КП), Чутьё детектива, Слуга\nзакона (КП).\nУ У Ул л лу у уч ч чш ш ше е ен н ни и ия я я у у ум м ме е ен н ни и ий й й: :: вы получаете три улучшения, что\nможете распределить между следующими умениями:\nБдительность, Дисциплина, Командование, Логика,\nОриентирование, Стойкость.\nС С Сп п пе е ец ц ци и иа а ал л ли и из з за а ац ц ци и ии и и: :: вы получаете два улучшения\nспециализаций, что можете распределить между\nследующими умениями: Командование, Ориеирование, Стойкость.\nС С Сн н на а ар р ря я яж ж же е ен н @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.OjmVcVX5lv76LsvL]{Astra Telepathica’s} @UUID[Compendium.navis-apexialis.navis-core-items.Item.N3xtZGybYbWZlAhS]{Rogue Trader's} @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.z058E7qKD4CHpvoA]{Admonitor} @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.upR0izJ77yCchw0b]{Deceptor} @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.eKp4XtJkKDvt42yA]{Sensor}"
+  },
+  "36": {
+   "en": "Those chosen for this role must be exacting and authoritative individuals. Your Inquisitor will expect you to take charge of an investigation and wield their authority as your own, only turning to them in dire circumstances. It takes significant ambition to fill the role; you may even see yourself as an Inquisitor one day. If you prove yourself to them and, more importantly, survive, you may have a chance of taking the first step to becoming your Inquisitor’s Interrogator.",
+   "ru": "ни и ие е е ( ( (в в вс с сё ё ё в в вз з зя я ят т то о о и и из з з к к кн н ни и иг г ги и и п п пр р ра а ав в ви и ил л л) ) ): :: вы получаете\nнож, любое мирское холодное оружие или цепной\nмеч, ручную пушку или ручной огнемёт, помповый\nдробовик, магнокль, мультикомпас или пыточные\nинструменты, бронешинель, оковы, вокс-бусину и\nписчий прибор."
+  },
+  "42": {
+   "en": "Role Benefits",
+   "ru": "III АКОЛИТЫ ИНКВИЗИЦИИ К «Одно слово. Девятнадцать дней. Сотня проклятых душ, которым я своей рукой даровал отпущение грехов» - исповедник Тарн"
+  },
+  "48": {
+   "en": "Talents",
+   "ru": "Лаггариан Сыщики – это неотступные псы Инквизиции, судьи, присяжные и палачи"
+  },
+  "50": {
+   "en": ": Choose two Talents from @UUID[Compendium.navis-apexialis.navis-core-items.Item.tC0lOr9WiBBPYq1a]{Air of Authority}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.ntymdPZ2ZikZMQoe]{Attentive Assistant}, @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.yArd1QW5l5mDssVs]{Blunt Force Authority}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.TXMKTpI3FosIpc3O]{Condemn the Witch}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.L2PvRyivXFydM2Lb]{Dirty Fighting}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.iaPxPzO3we3oXSJk]{Ever Vigilant}, @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.F3sICRDFcUgn8ZI6]{Gut Instinct}, and @UUID[Compendium.navis-apexialis.navis-core-items.Item.xkeeVglZIZS85nfi]{Lawbringer}.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.tC0lOr9WiBBPYq1a]{Air of Authority} @UUID[Compendium.navis-apexialis.navis-core-items.Item.ntymdPZ2ZikZMQoe]{Attentive Assistant} @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.yArd1QW5l5mDssVs]{Blunt Force Authority} @UUID[Compendium.navis-apexialis.navis-core-items.Item.TXMKTpI3FosIpc3O]{Condemn the Witch} @UUID[Compendium.navis-apexialis.navis-core-items.Item.L2PvRyivXFydM2Lb]{Dirty Fighting} @UUID[Compendium.navis-apexialis.navis-core-items.Item.iaPxPzO3we3oXSJk]{Ever Vigilant} @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.F3sICRDFcUgn8ZI6]{Gut Instinct} @UUID[Compendium.navis-apexialis.navis-core-items.Item.xkeeVglZIZS85nfi]{Lawbringer}"
+  },
+  "56": {
+   "en": "Skill Advances",
+   "ru": "для еретиков и ксеносов. Такие агенты привыкли выслеживать своих врагов на их территории, внедряясь в их ряды и работая изнутри или принося всю мощь Инквизиции"
+  },
+  "58": {
+   "en": ": You have three Advances to spend on Awareness, Discipline, Fortitude, Logic, Navigation, and Presence.",
+   "ru": "на поле боя. Это не только искусные охотники, но и опытные детективы, собирающие улики на улицах и разгадывающие тайны, а у Инквизиции всегда мало улик и много тайн. Держа ухо востро и стиснув зубы, сыщики разыскивают следы порчи там, где их можно ждать, и мужественно ей противостоят. Иногда это волки-одиночки, а иногда – вожаки целых стай. Как правило, сыщики находят себе местных осведомителей и поставщиков, либо просто пользуются знанием о враге, чтобы получить преимущество над ним. Как правило, сыщики – это выходцы с мелких должностей в Адептус Терра. Многие служили в Адептус Арбитрес, вигилах или службе безопасности Флота, а теперь продолжают заниматься своим ремеслом уже в Инквизиции. Встречаются и такие, что раньше странствовали на Чёрных кораблях, а значит им не в новинку путешествия в пустоте и охота на псайкеров. Другие могли занимать немалую должность на корабле вольного торговца, а потому привычны к ксеносам. Из сыщиков получаются прекрасные предостерегающие, обманщики и детекторы. Избранныенаэтурольдолжныбытьисполнительными и авторитетными людьми. Ваш инквизитор ждёт, что вывозьмётерасследованиевсвоирукиибудетедостойно распоряжаться его властью,"
+  },
+  "64": {
+   "en": "Specialisations",
+   "ru": "обращаясь к самому господину лишь в час крайней нужды. Хороший сыщик должен быть честолюбив – возможно, когда-нибудь он сам станет инквизитором. Если вы докажете своё"
+  },
+  "66": {
+   "en": ": You have two Advances to spend on any Specialisations in Fortitude, Navigation, and Presence.",
+   "ru": "мастерство (а также выживете), то можете однажды стать помощником и учеником своего господина – дознавателем. ПРЕИМУЩЕСТВА Т Т Та а ал л ла а ан н нт т ты ы ы: :: выберите два таланта из следующего перечня: Аура власти (КП), Заботливый помощник (КП), Я требую содействия!, Смерть ведьме! (КП), Грязный бой (КП), Всегда начеку (КП), Чутьё детектива, Слуга закона (КП). У У Ул л лу у уч ч чш ш ше е ен н ни и ия я я у у ум м ме е ен н ни и ий й й: :: вы получаете три улучшения, что можете распределить между следующими умениями: Бдительность, Дисциплина, Командование, Логика, Ориентирование, Стойкость. С С Сп п пе е ец ц ци и иа а ал л ли и из з за а ац ц ци и ии и и: :: вы получаете два улучшения специализаций, что можете распределить между следующими умениями: Командование, Ориен- тирование, Стойкость. С С Сн н на а ар р ря я яж ж же е ен н ни и ие е е ( ( (в в вс с сё ё ё в в вз з зя я ят т то о о и и из з з к к кн н ни и иг г ги и и п п пр р ра а ав в ви и ил л л) ) ): :: вы получаете нож, любое мирское холодное оружие или цепной меч, ручную пушку или ручной огнемёт, помповый"
+  },
+  "72": {
+   "en": "Equipment",
+   "ru": "дробовик, магнокль, мультикомпас или пыточные инструменты, бронешинель, оковы, вокс-бусину и писчий прибор."
+  },
+  "74": {
+   "en": ": You gain a @UUID[Compendium.navis-apexialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{Knife}, any Mundane Melee Weapon or a @UUID[Compendium.navis-apexialis.navis-core-items.Item.tjUKnuDKTCCon28r]{Chainsword}, a @UUID[Compendium.navis-apexialis.navis-core-items.Item.42seX9BCENS8ZCwg]{Hand Cannon} or @UUID[Compendium.navis-apexialis.navis-core-items.Item.GEtUumQVGsSNO7Kt]{Hand Flamer}, a @UUID[Compendium.navis-apexialis.navis-core-items.Item.NLKRLMgcYzandwsL]{Shotgun} (Pump Action), @UUID[Compendium.navis-apexialis.navis-core-items.Item.7lBipnmSZ4lD5WCo]{Magnoculars}, a @UUID[Compendium.navis-apexialis.navis-core-items.Item.AdB3ZzAOrnREfdsv]{Multicompass} or @UUID[Compendium.navis-apexialis.navis-core-items.Item.paXqMCUFqcpVEEBE]{Excruciator Kit}, an @UUID[Compendium.navis-apexialis.navis-core-items.Item.H4uLhQvXkGBmE79L]{Armoured Greatcoat}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.QEbKaRlz9eZV01ix]{Manacles}, a @UUID[Compendium.impmal-starter-set.actors.Actor.O49jTi2TzoFQH5GT.Item.Yp1Fmiml09wxHj4h]{Vox Bead}, and a @UUID[Compendium.navis-apexialis.navis-core-items.Item.7ipsWHaVhIsF7b3S]{Writing Kit}.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{Knife} @UUID[Compendium.navis-apexialis.navis-core-items.Item.tjUKnuDKTCCon28r]{Chainsword} @UUID[Compendium.navis-apexialis.navis-core-items.Item.42seX9BCENS8ZCwg]{Hand Cannon} @UUID[Compendium.navis-apexialis.navis-core-items.Item.GEtUumQVGsSNO7Kt]{Hand Flamer} @UUID[Compendium.navis-apexialis.navis-core-items.Item.NLKRLMgcYzandwsL]{Shotgun} @UUID[Compendium.navis-apexialis.navis-core-items.Item.7lBipnmSZ4lD5WCo]{Magnoculars} @UUID[Compendium.navis-apexialis.navis-core-items.Item.AdB3ZzAOrnREfdsv]{Multicompass} @UUID[Compendium.navis-apexialis.navis-core-items.Item.paXqMCUFqcpVEEBE]{Excruciator Kit} @UUID[Compendium.navis-apexialis.navis-core-items.Item.H4uLhQvXkGBmE79L]{Armoured Greatcoat} @UUID[Compendium.navis-apexialis.navis-core-items.Item.QEbKaRlz9eZV01ix]{Manacles} @UUID[Compendium.impmal-starter-set.actors.Actor.O49jTi2TzoFQH5GT.Item.Yp1Fmiml09wxHj4h]{Vox Bead} @UUID[Compendium.navis-apexialis.navis-core-items.Item.7ipsWHaVhIsF7b3S]{Writing Kit}"
+  }
+ }
+}

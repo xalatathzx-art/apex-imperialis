@@ -1,0 +1,217 @@
+{
+ "journal": "FNEW8e33IisZh27W",
+ "journalName": "The Heresies Macharia",
+ "page": "Y1wjtyi7JdgHxQiF",
+ "pageName": "Running Conclaves",
+ "name": "",
+ "runs": {
+  "2": {
+   "en": "The ",
+   "ru": ""
+  },
+  "4": {
+   "en": "Heresies Macharia",
+   "ru": ""
+  },
+  "6": {
+   "en": " campaign framework is punctuated by a series of seven Inquisitorial Conclaves, with years set aside between each one for characters and their Patrons to complete their missions, follow up on their own tasks, and return in time to @UUID[.Y1wjtyi7JdgHxQiF#mare-cinis]{Mare Cinis} for the next one to begin. It is intended that GMs build their own threats, missions, and opportunities around and on top of these events, with the Heresies Macharia providing mission outlines and larger plots as a backdrop. To make the characters' involvement more personal and tailored to the players' desires, the GM must work hard to bring everything together.",
+   "ru": ""
+  },
+  "10": {
+   "en": "Each Conclave, laid out across the chapter, presents the following information:",
+   "ru": ""
+  },
+  "20": {
+   "en": "Dramatis Personae",
+   "ru": ""
+  },
+  "22": {
+   "en": ": Who among the sector’s Inquisitors have attended this Conclave. Apart from the first Conclave, not every Inquisitor will participate in each gathering. Inquisitors are not bound to the authority of their peers and may be busy elsewhere, resolving what they deem to be more critical issues.",
+   "ru": ""
+  },
+  "32": {
+   "en": "Intrigues",
+   "ru": ""
+  },
+  "34": {
+   "en": ": Rumours and secrets characters can hunt down outside main Conclave sessions, including new Contacts and resources they can acquire. These intrigues may point to fallout from previous Conclaves, set up side missions for characters to pursue in the years between, or seed future Strifes.",
+   "ru": ""
+  },
+  "44": {
+   "en": "Strifes",
+   "ru": ""
+  },
+  "46": {
+   "en": ": These points represent the main issues discussed at the Conclave, including which Inquisitors are bringing them forward and who might stand against them. Typically, there will be two to three Strifes to discuss per Conclave, each with its own Operation (an outline of the mission or missions related to resolving the Strife) and Outcome (what happens if the party is successful or not, and what might happen if another Inquisitor deals with the problem instead).",
+   "ru": ""
+  },
+  "54": {
+   "en": "Your Patron",
+   "ru": ""
+  },
+  "58": {
+   "en": "The Heresies Macharia allow parties to follow any of the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40]{six sample Patrons provided} or add their own Inquisitor Patron to the mix, allowing them to bring their own concerns to each Conclave. Consider how the other Inquisitors might react to their presence and goals. Depending on their Ordo or Philosophy, they could be friendly or antagonistic towards them, and the same goes for their acolytes.",
+   "ru": ""
+  },
+  "62": {
+   "en": "The Heresies Macharia has been designed with Inquisitorial Patrons in mind, but other Faction Patrons can participate. Such a Patron would be at an extreme disadvantage when faced with the allconsuming authority of the Inquisition and would likely quickly become subject to the will of one or more of the Inquisitors present. While this may present exciting opportunities for storytelling, deception, and intrigue, we recommend that parties select an Inquisitor Patron.",
+   "ru": ""
+  },
+  "68": {
+   "en": "Rewarding Patrons",
+   "ru": ""
+  },
+  "72": {
+   "en": "As the campaign progresses, player characters are rewarded or punished for their efforts. The GM should reward their Patron in the same manner. The Outcome of each Conclave summarises what happens in the world and alterations to the involved @UUID[.jt0zc7az5xNehcIZ#an-inquisitor-lord-ascends]{Patron’s Legitimacy scores}, but there are two other ways a Patron can grow.",
+   "ru": ""
+  },
+  "76": {
+   "en": "Primarily, the Patron can be rewarded or docked @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa]{Influence}. Consider the Factions they or the party involve themselves with during the Strife. How do those Factions feel about the Patron — and, by extension, the behaviour of their acolytes — by the end? Reward or remove a point of Influence accordingly.",
+   "ru": ""
+  },
+  "80": {
+   "en": "Secondly, there are additional Boons and Liablities. Reward these in the event of extreme success or devastating failure. The Macharian Sector’s sample @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40]{Inquisitor Patrons} each have a table of suggested boons and liabilities to choose from, but you are not limited to them. If the group created their own Patron, as GM, you should look at the options available in advance — do any tie into potential plots and outcomes? On the other hand, a Patron can lose a Boon they already have if it no longer makes sense for them to have access to that Boon. The same goes for Liabilities if the outcome of the Strife allows the Patron to ‘overcome’ that Liability for good.",
+   "ru": ""
+  },
+  "92": {
+   "en": "Conclave Process",
+   "ru": ""
+  },
+  "96": {
+   "en": "Enough happens at Inquisitorial Conclaves for them to be considered missions or sessions in and of themselves. The following list outlines the general process we advise when running a Conclave.",
+   "ru": ""
+  },
+  "108": {
+   "en": "Describe the characters' arrival",
+   "ru": ""
+  },
+  "110": {
+   "en": ". How did they reach Suluk? Did they arrive in plenty of time, or are the meetings about to begin? Did they travel with their Inquisitor, or are they already in attendance?",
+   "ru": ""
+  },
+  "120": {
+   "en": "Tell the players which characters are in attendance",
+   "ru": ""
+  },
+  "122": {
+   "en": ". Give the players a rundown of the Inquisitors present and any noticeable characters in their retinues or witnesses brought into the Conclave halls (see each Conclave’s Dramatis Personae and Intrigues sections).",
+   "ru": ""
+  },
+  "132": {
+   "en": "Tell them what Strifes are on the agenda",
+   "ru": ""
+  },
+  "134": {
+   "en": ". In the central chambers of the @UUID[.Y1wjtyi7JdgHxQiF#mare-cinis]{Mare Cinis} facility, the Inquisitors read the Conclave’s agenda. Be sure to include who is involved in each Strife and indicate any supposed threats (see each Strife’s tagline for a quick summary). Consider what Inquisitors not directly involved in the Strife think of it, though most may consider these events to be not worth their time.",
+   "ru": ""
+  },
+  "144": {
+   "en": "Give the players time to investigate",
+   "ru": ""
+  },
+  "146": {
+   "en": ". As the Patrons gather in the central chambers to debate, the players have time to search the @UUID[.Y1wjtyi7JdgHxQiF#mare-cinis]{Mare Cinis} facility and uncover more information. Some of the helpful activities they can pursue are as follows:",
+   "ru": ""
+  },
+  "156": {
+   "en": "Investigate other Inquisitors and their retinues",
+   "ru": ""
+  },
+  "158": {
+   "en": ". Find out what the other Inquisitors are up to. Dig deep enough, and they can find clues to indicate any Radical behaviour, hidden goals, or philosophies — though they should watch their backs, as other acolytes will be doing the same.",
+   "ru": ""
+  },
+  "168": {
+   "en": "Investigate Mare Cinis. ",
+   "ru": ""
+  },
+  "170": {
+   "en": "The Inquisition facility on Suluk is a labyrinthine hold containing a wealth of Ordo-gathered information and secrets. They might find something to aid their characters or Patron in the missions ahead or uncover hidden aspects of the Strifes being discussed.",
+   "ru": ""
+  },
+  "180": {
+   "en": "Attend Conclave meetings. ",
+   "ru": ""
+  },
+  "182": {
+   "en": "Though it may be difficult to gain entry to the central chamber at times, listening carefully to the Inquisitors and their debates can reveal hidden enmities, alliances, and philosophies that could be relevant later. Some characters may have to provide witness testimony or information pertinent to the matters at hand.",
+   "ru": ""
+  },
+  "192": {
+   "en": "Look into additional Intrigues. ",
+   "ru": ""
+  },
+  "194": {
+   "en": "There may be more going on at each Conclave than what is discussed within the central chambers. Characters can gather threads, Contacts, and clues for more missions or look into anything of personal relevance.",
+   "ru": ""
+  },
+  "208": {
+   "en": "Present their findings to their Patron",
+   "ru": ""
+  },
+  "210": {
+   "en": ". Here, the Patron has asked the player characters to provide a report on any new information they have gathered about the current Strifes. Players debate and decide among themselves — much like the Inquisitors within the central chambers — which Strife they are interested in pursuing as a group. As GM, roleplay the Patron much like you would in a @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.1diRtTeN2hbZUhOY]{mission briefing}. The Patron may have interest in one Strife over another if it involves their Philosophy or rivals, but the final choice should ultimately land with the players.",
+   "ru": ""
+  },
+  "220": {
+   "en": "Depart for the mission",
+   "ru": ""
+  },
+  "222": {
+   "en": ". Give characters time to make any last actions, check the Inquisitorial archives on Mare Cinis, for example, or gather any gear from the moon’s stockpiles. Decide whether or not their Patron is accompanying them or if they have other important matters to attend to.",
+   "ru": ""
+  },
+  "230": {
+   "en": "If players are stuck, unsure of what they can do (during step #4), their Patron could urge them to investigate one thing in particular or present a few options. It could benefit their cell if all the options are covered, or they could work together to tackle a single mystery.",
+   "ru": ""
+  },
+  "236": {
+   "en": "Acolyte Agency",
+   "ru": ""
+  },
+  "240": {
+   "en": "Though primarily the Patron and other Inquisitors lead the debates at each Conclave, as GM, encourage your players to discuss these dire issues among themselves. What do they believe is the best course of action? You can take these discussions further and allow your players to take on the guise of the Inquisitors present and roleplay the arguments between them. Present everyone at the table with each Conclave’s Strifes, and let them discuss where they think it is best to go next as a group (though keep the particulars of the Operations and Outcomes to yourself). From this, you will better understand their desired direction for the campaign.",
+   "ru": ""
+  },
+  "244": {
+   "en": "Bring their debates to a close in the form of a report: the Patron requests the characters' input in the form of an official report with their recommendations for action attached. The Patron is by no means bound by their deliberations, but as GM, the Patron’s opinion should reflect what the players desire to pursue.",
+   "ru": ""
+  },
+  "248": {
+   "en": "Remind the players that the Inquisition cannot be everywhere simultaneously, despite the propaganda they perpetuate among the citizenry. Ensure the players understand they alone cannot tackle all the new Strifes presented. You will need to track what issues have been left to other Inquisitors to resolve and what problems are discarded entirely. These situations may return in worse states later if not dealt with at all, and you can seed these into future Conclaves via new Strifes or Intrigues of your own design.",
+   "ru": ""
+  },
+  "252": {
+   "en": "Intrigues, Rumours and Threats",
+   "ru": ""
+  },
+  "256": {
+   "en": "The time players have to investigate @UUID[.Y1wjtyi7JdgHxQiF#mare-cinis]{Mare Cinis} outside the central chambers is the perfect opportunity to introduce new Contacts, rumours and ancillary missions into your Heresies Macharia campaign. Each Conclave’s Intrigues section provides some pertinent options, mostly related to the current Strifes. Still, those say nothing of what the players' Patron or characters wish to personally pursue — to further the goals of their philosophy or work towards defeating a particular threat or nemesis.",
+   "ru": ""
+  },
+  "260": {
+   "en": "During a Conclave, @UUID[.Y1wjtyi7JdgHxQiF#mare-cinis]{Mare Cinis} is a goldmine of information. Specialists from every Ordo Majoris are in attendance, including agents seconded to the Inquisition from every Faction within the Adeptus Terra. But schedules are tight, and security is high; characters must barter and politick their way into face-to-face meetings, especially with other Inquisitors. Often, it is best to start with members of their outer circles and work their way in, trading small favours and nuggets of information themselves.",
+   "ru": ""
+  },
+  "264": {
+   "en": "Moreover, the moon’s halls echo with whispers and rumours. Outside the central chambers is a veritable information market, but few words are traded freely. Acolytes and agents from across the Macharian Sector are present, and everyone is searching for something — volatile rumours, weaponised secrets, new information to curry favour with their Inquisitor or just a solid favour. As GM, consider what your characters are looking for and who could provide it to them. At the same time, characters should consider what occurrences, clues, and assets from previous missions they could trade for favours or new information.",
+   "ru": ""
+  },
+  "268": {
+   "en": "Characters should not forget the most significant threats to the Macharian Sector may well be present in the Conclave’s halls. The Inquisitors are among the most powerful and dangerous mortals in the sector, and so is much of the company they keep. They may have been brought together to combat the sector’s threats, but with all the sector’s Inquisitors in one place, there is a greater chance they will get in each other’s way, and acolytes are easily trodden over. Members of their retinues may serve multiple masters, those who expect their involvement with the Inquisition to bear recompense and are looking for angles of their own. So, characters should tread carefully — there are ample records of brazen backstabbings and betrayals in the central chambers of Mare Cinis alone.",
+   "ru": ""
+  },
+  "272": {
+   "en": "Mare Cinis",
+   "ru": ""
+  },
+  "276": {
+   "en": "Each Conclave gathers on Suluk, a moon of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy]{Persepolis}. All that remains on the moon is an ancient Imperial outpost surrounded by a great ash plain dubbed the Mare Cinis. Long ago, the Inquisition cleansed the moon when its people accepted xenos aid during a daemonic incursion. They have since blockaded the moon, preventing anyone but Inquisitorial retinues and their agents from landing there. The Inquisitors have reappropriated parts of the base as lodgings, storage or datavaults, and the deepest levels of the facility hold hidden caches of forbidden knowledge and secret chambers.",
+   "ru": ""
+  },
+  "280": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.qLLaIGWiU6Lf6Rjy]{Persepolis} is located at the heart of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.y6qA7KARTXADwzeV]{Cytheris Subsector}. The hive world is the capital of the Macharian Sector and is a major crossroad and point of pilgrimage for citizens. Inquisitors and their acolytes have little trouble securing transport to arrive in time to join the Conclave.",
+   "ru": ""
+  }
+ }
+}

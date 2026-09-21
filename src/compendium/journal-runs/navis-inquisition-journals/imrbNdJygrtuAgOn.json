@@ -1,0 +1,101 @@
+{
+ "journal": "SJPyRkdBEOCtmD8R",
+ "journalName": "Sector Threats",
+ "page": "imrbNdJygrtuAgOn",
+ "pageName": "The Reaper",
+ "name": "",
+ "runs": {
+  "6": {
+   "en": "The Reaper",
+   "ru": ""
+  },
+  "16": {
+   "en": "We reap the harvest eternal, because we sow Grandfather’s blessings wherever we go",
+   "ru": ""
+  },
+  "24": {
+   "en": "Threat Overview",
+   "ru": ""
+  },
+  "32": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.OgCSwwJiQkk3X60B]{The Reaper} is a daemon of Nurgle.",
+   "ru": ""
+  },
+  "40": {
+   "en": "It has cultivated a sizeable cult on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok}, who have direct access to some of the world’s food production and supply lines.",
+   "ru": ""
+  },
+  "48": {
+   "en": "Once it has spread Nurgle’s plague across @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok}, it wishes to turn the planet into a daemon world, one that can serve as a base for infecting all others.",
+   "ru": ""
+  },
+  "58": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok} had a serious storage problem. As the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#silence-and-darkness]{Noctis Aeterna} disrupted the sector, vessels failed to pick up the agricultural tithes from the world, causing many stockpiles to spoil. Critical planetary resources were refocused on increasing the planet’s storage capacity. Labourers from many backgrounds were tasked with converting existing facilities or constructing new structures for agricultural storage. Much of this work was completed with little direction or oversight, as the local @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus} and @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Administratum} institutions were stretched thin.",
+   "ru": ""
+  },
+  "62": {
+   "en": "These workers struggled with their tasks, and some lost their lives. Few knew the basics of construction, but all of them saw first-hand the overflowing warehouses and silos. Nevertheless, new harvests from around the planet continued to arrive. Escorting one was a worker named Willem Argaunt, a newly awakened psyker who went undetected in the absence of the Black Ships. His mind reached into the Immaterium, praying for aid and searching for the God-Emperor’s light. But Willem drew the attention of a darker power than he could have intended.",
+   "ru": ""
+  },
+  "66": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.OgCSwwJiQkk3X60B]{The Reaper} heard his cries for help and was all too eager to assist. Using the latent psyker as a conduit, it crossed the thinning barrier, manifesting for just long enough to bear some of its master’s blessings onto @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok}. For seven days and seven nights, Nurgle’s blessings were spread far and wide by an unnatural, pustulent rain, tainting the grain stores of half a continent. Any who ate even a morsel had their hunger sated but, in doing so, opened themselves to Nurgle's fetid touch, and was corrupted. Many died, sowing the ground with their rotting corpses, or rose again as Poxwalkers. Those who persisted were granted the Mark of Nurgle, sanctifying them as cultists of a more significant cause.",
+   "ru": ""
+  },
+  "70": {
+   "en": "What @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum} forces could be marshalled during the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#silence-and-darkness]{Noctis Aeterna} responded quickly to what was happening around the new storage facilities; word of rampant death and decay spread fast to their commanders. But even as they arrived, @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.OgCSwwJiQkk3X60B]{the Reaper} marshalled Nurgle’s forces. Using its new mortal agents, it corrupted the first regiments, forming the @UUID[.bH6ISJRLFkjEbAbY]{Company of the Twisted Sickle}.",
+   "ru": ""
+  },
+  "74": {
+   "en": "Where the Company of the Twisted Sickle are focused on securing @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok} and reaching out to other systems, @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.OgCSwwJiQkk3X60B]{the Reaper}’s remaining cultists work to keep its plague-ridden manufactorums and mega-farms going. Especially Silo Facility 77, where the Reaper first manifested; its cultists see this as a holy site, ground-zero for their work to turn Goros Pok into a daemon world. Any who die among its followers (and any corpses they can get their hands on) are planted there to join the rot.",
+   "ru": ""
+  },
+  "78": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.OgCSwwJiQkk3X60B]{The Reaper}’s weapon of choice is a large sickle, and it always manifests with it in hand. In accordance with an ancient myth on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok} depicting the Emperor as the ultimate harvester of any crop, the daemon was given the moniker of the Reaper.",
+   "ru": ""
+  },
+  "82": {
+   "en": "For the Reapers followers, use the @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.GM0SvY5IcLmeiJ6a]{Poxwalker} stat-block and entries from the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.KN6hJOFxExaZ7fYL]{Heretics} section of ",
+   "ru": ""
+  },
+  "84": {
+   "en": "Imperium Maledictum",
+   "ru": ""
+  },
+  "90": {
+   "en": "Resources",
+   "ru": ""
+  },
+  "94": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.OgCSwwJiQkk3X60B]{The Reaper} has a growing network of followers on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok}. Many of these are active agricultural workers who spread Nurgle’s contamination in all the food they prepare. However, the cult’s membership includes some positions of planetary authority, including a burgeoning company of traitors to the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum} (@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.lpytiuTAh3y4JhNv]{Traitor Enforcers} and @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.j3u29w8o6uvvQe0Y]{Traitor Guardsman}).",
+   "ru": ""
+  },
+  "98": {
+   "en": "Other nurglite entities have begun to interact with @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.OgCSwwJiQkk3X60B]{the Reaper}’s followers. Most of these are @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.GM0SvY5IcLmeiJ6a]{Poxwalkers}, who constantly make more of their kind in conflict. In addition, @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.pGOi4dyYeKojE9vm]{Nurglings}, @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.vvgA1lyNkcTDw1xP]{rogue psykers}, and @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.4bhFOh1nTrYloc8s]{Plaguebearers} have been identified as hostiles during the ongoing insurrection",
+   "ru": ""
+  },
+  "102": {
+   "en": "Methods",
+   "ru": ""
+  },
+  "106": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.OgCSwwJiQkk3X60B]{The Reaper} is primarily focused on spreading corruption through greed and gluttony, driven by sickening hunger. Its prime targets are storage facilities on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok} — furthering the spread of his pox and dealing crippling blows to the Imperium supply chains. Getting a shipment of contaminated materials off-world allows its cultists to establish a foothold at the destination.",
+   "ru": ""
+  },
+  "110": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.pGOi4dyYeKojE9vm]{Nurglings} are commonly @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.OgCSwwJiQkk3X60B]{the Reaper}’s preliminary agents in these activities. Cultists can blend in effectively among Human populations, but Nurglings can sneak through gaps far too small for mortals. They readily infest food storage or water purification facilities and spawn more of their feculent kin before the facility’s security agents become aware of the intrusion.",
+   "ru": ""
+  },
+  "114": {
+   "en": "Secrets",
+   "ru": ""
+  },
+  "118": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.OgCSwwJiQkk3X60B]{The Reaper} has cultists at critical positions within @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok’s} port authorities. Evidence suggests that outgoing supplies are not being inspected in a way consistent with standard @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Administratum} doctrines. If correct, the entire port system may already be compromised.",
+   "ru": ""
+  },
+  "122": {
+   "en": "The Sect of the @UUID[.bH6ISJRLFkjEbAbY]{Twisted Sickle} has other competition on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok}, who have begun to notice its prominence. The Harrower-In-Green and the Season’s Turn are cults representing the other Chaos Gods, and they all want a piece of the planet for themselves. Some have seeded cultists into the Sect of the Twisted Sickle to see how far their plans have progressed.",
+   "ru": ""
+  }
+ }
+}

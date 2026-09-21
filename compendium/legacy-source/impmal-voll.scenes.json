@@ -1,0 +1,41 @@
+{
+  "label": "Сцены (Приключения на Волле)",
+  "entries": {
+    "Rk6Mz4gYl8zOygFp": {
+      "name": "Засада Предвестника",
+      "drawings": {
+        "Drainage Canal": "Сточный канал",
+        "Walkway": "Мостки",
+        "Northern Overhang": "Северный уступ",
+        "Southern Overhang": "Южный уступ"
+      },
+      "regions": {
+        "0ap5uFq9jWVEvmLm": {
+          "name": "Мостки 4а"
+        },
+        "0jxq6FD4Mqume2TC": {
+          "name": "Мостки 4б"
+        },
+        "9xXz6hHAltubmoZq": {
+          "name": "Сточный канал"
+        },
+        "AlmqqBDKbcgH9NEb": {
+          "name": "Южный уступ",
+          "behaviors": {
+            "vsSqivf2zL9pMJ0X": {
+              "name": "Изменение высоты"
+            }
+          }
+        },
+        "rOjRgjjbFjRL1SI5": {
+          "name": "Северный уступ",
+          "behaviors": {
+            "aYE2Ox7zgu0ITXzt": {
+              "name": "Изменение высоты"
+            }
+          }
+        }
+      }
+    }
+  }
+}

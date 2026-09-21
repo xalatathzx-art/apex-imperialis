@@ -1,0 +1,329 @@
+{
+ "journal": "uzQAAUFfkNu8TZOi",
+ "journalName": "Radical Methods",
+ "page": "75evxRXWoYG9mizR",
+ "pageName": "Forbidden Knowledge",
+ "name": "Запретные тайны",
+ "runs": {
+  "2": {
+   "en": "The Imperium and Inquisition suppress information for an array of grim reasons. The most obvious reason for restricting information is that the education of vast swathes of Imperial citizens is not pertinent to the survival of Humanity. They only need to know how to perform their simple, drudging duty to the Emperor. This ignorance further serves two additional purposes: it protects the minds of those billions upon billions of souls, and it makes it more difficult for the heretic, the mutant, and the xenos to hide among them.",
+   "ru": "Империум и Инквизиция скрывают сведения по множеству мрачных причин. Самая очевидная причина ограничивать сведения в том, что образование огромных масс имперских граждан не важно для выживания человечества. Им нужно знать лишь, как исполнять свой простой, изнурительный долг перед Императором. Это невежество служит ещё двум целям: оно защищает разумы бессчётных миллиардов душ и мешает еретику, мутанту и ксеносу скрываться среди них."
+  },
+  "6": {
+   "en": "Ignorance is a shield for much of the Imperium. Knowledge of Chaos, the Warp, and daemonkind can make Human souls vulnerable to their sinister predations. Like a vile infection, the threat of Warp-dabbling practices and technologies could grow unchecked, making the impossible odds the Inquisition faces daily even more daunting. The weight of panic and terror that could grip the labouring population of the Imperium if they knew of the dangers of not just daemons but of heretic Astartes, traitor guardsmen, and insidious xenos surrounding the sector would be too much.",
+   "ru": "Невежество — щит для большей части Империума. Знание о Хаосе, варпе и демонах может сделать человеческие души уязвимыми для их зловещих посягательств. Подобно мерзкой заразе, угроза практик и технологий, связанных с варпом, могла бы разрастаться бесконтрольно, делая и без того безнадёжную борьбу Инквизиции ещё тяжелее. Бремя паники и ужаса, которое охватило бы трудящееся население Империума, узнай оно об опасностях не только демонов, но и еретических Астартес, гвардейцев-предателей и коварных ксеносов вокруг сектора, было бы непосильным."
+  },
+  "10": {
+   "en": "Indeed, burning zealotry and faithful ignorance protect many such citizens and make them anathema to Chaos. Many Inquisitors of the Ordo Hereticus believe ignorance is critical to preventing the spread of heretical ideas, and can often aid in their hunt and persecution of heretics. Infractionists and cultists can expose themselves by what they know, how they act, and how they respond to certain revelations. This is useful not just in observations but also in investigations and interrogations. Furthermore, when the Inquisition discovers an effective method of eradicating their foes, they ensure none know of their techniques so it cannot be foiled or turned against them.",
+   "ru": "Более того, пылающий фанатизм и верное невежество защищают многих таких граждан и делают их неприемлемыми для Хаоса. Многие инквизиторы Ордо Еретикус считают невежество ключом к предотвращению распространения еретических идей; нередко оно помогает им выслеживать и преследовать еретиков. Одиночек и культистов может выдать то, что они знают, как ведут себя и как реагируют на определённые откровения. Это полезно не только при наблюдении, но и в расследованиях и на допросах. Кроме того, найдя действенный способ истреблять врагов, Инквизиция следит, чтобы никто не узнал её приёмов и не смог их сорвать или обратить против неё."
+  },
+  "14": {
+   "en": "Sources of forbidden knowledge often lie in the minds of heretics. They sprout their corruption when tempted to preach or eternalise their dangerous ideas and methodologies in writing.",
+   "ru": "Источники запретных знаний часто таятся в умах еретиков. Их порча прорастает, когда их тянет проповедовать или увековечить свои опасные идеи и методы на письме."
+  },
+  "18": {
+   "en": "Other times, forbidden knowledge results from unsanctioned encounters with xenos species; knowledge is rarely gifted but inferred through heretical curiosity. Some ideas are not damned until much later when denounced by the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Ministorum}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Administratum}, or Inquisition. People who become heretics by this happenstance are sometimes purged to maintain order and purity but otherwise should learn quickly to forget what they know.",
+   "ru": "В других случаях запретные знания — следствие несанкционированных встреч с видами ксеносов; знания редко даруются, чаще их выводит еретическое любопытство. Некоторые идеи оказываются прокляты лишь много позже, когда их осуждает @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Министорум}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Администратум} или Инквизиция. Тех, кто стал еретиком по такой случайности, порой истребляют ради сохранения порядка и чистоты, а в остальных случаях им лучше поскорее забыть то, что они знают."
+  },
+  "24": {
+   "en": "Examples of Forbidden Knowledge",
+   "ru": "Примеры запретных тайн"
+  },
+  "32": {
+   "en": "A grimoire seized from a Chaos cult containing guidance on rituals to summon a daemon",
+   "ru": "Гримуар, изъятый у культа Хаоса, с указаниями по ритуалам призыва демона"
+  },
+  "40": {
+   "en": "Understanding aspects of the Warp pertaining to daemonic entities or psychic powers",
+   "ru": "Понимание аспектов варпа, касающихся демонических сущностей или психических сил"
+  },
+  "48": {
+   "en": "A heretical text that analyses and denounces the God-Emperor as the saviour of Humankind",
+   "ru": "Еретический текст, разбирающий и отрицающий Бога-Императора как спасителя человечества"
+  },
+  "56": {
+   "en": "The knowledge to construct, operate, modify, or repair xenos or daemonic technology",
+   "ru": "Знания о том, как создавать, использовать, изменять или чинить технологии ксеносов или демонов"
+  },
+  "64": {
+   "en": "Knowing the history or lore of any xenos species beyond what Imperial propaganda proscribes",
+   "ru": "Знание истории или преданий любого вида ксеносов сверх того, что дозволяет имперская пропаганда"
+  },
+  "72": {
+   "en": "Analysis or medicae reports related to the anatomy of a xenos species",
+   "ru": "Аналитические или медицинские отчёты об анатомии вида ксеносов"
+  },
+  "80": {
+   "en": "Manuals or instruction in xenos or Imperium-restricted languages (such as Thoughtmark or Lingua Technis)",
+   "ru": "Пособия или обучение языкам ксеносов или языкам, запрещённым в Империуме (например, Мыслезнак или Лингва Техникс)"
+  },
+  "88": {
+   "en": "Any information otherwise redacted by Inquisitorial order",
+   "ru": "Любые иные сведения, изъятые по приказу Инквизиции"
+  },
+  "98": {
+   "en": "Gaining Forbidden Knowledge",
+   "ru": "Как получить запретные тайны"
+  },
+  "108": {
+   "en": "The Talent @UUID[Compendium.navis-apexialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Forbidden Knowledge} is a requirement for a character to gain various proscribed Skill Specialisations, including ",
+   "ru": "Талант @UUID[Compendium.navis-apexialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{«Запретные тайны»} — требование для получения персонажем различных запрещённых специализаций умений, включая "
+  },
+  "110": {
+   "en": "Linguistics (Forbidden)",
+   "ru": "Языки (Запретное)"
+  },
+  "114": {
+   "en": "Lore (Forbidden)",
+   "ru": "Знания (Запретное)"
+  },
+  "116": {
+   "en": ", and ",
+   "ru": " и "
+  },
+  "118": {
+   "en": "Medicae (Forbidden)",
+   "ru": "Медика (Запретное)"
+  },
+  "120": {
+   "en": ". A character cannot purchase the Talent without the permission of the GM, but there are some situations wherein the Talent might be granted to a character to represent the mechanical consequences of a narrative development.",
+   "ru": ". Персонаж не может купить этот талант без разрешения ведущего, но бывают ситуации, когда талант можно даровать персонажу, чтобы отразить механические последствия развития сюжета."
+  },
+  "128": {
+   "en": "Example",
+   "ru": "Пример"
+  },
+  "136": {
+   "en": "In the course of an Inquisitorial investigation, Acolyte Despina comes into possession of a terrible tome looted from a Chaos-worshipping heretic. She decides to study the tome to learn more about the heretic, their cult, or what power they might be serving so that she may more effectively eradicate the Emperor’s enemies.",
+   "ru": "В ходе инквизиторского расследования аколит Деспина завладевает ужасным томом, взятым у еретика-поклонника Хаоса. Она решает изучить том, чтобы больше узнать о еретике, его культе или силе, которой он мог служить, и тем действеннее истреблять врагов Императора."
+  },
+  "140": {
+   "en": "The GM decides that such a study would require a ",
+   "ru": "Ведущий решает, что такое изучение потребует "
+  },
+  "144": {
+   "en": "Difficult (−10) Linguistics (Cypher)",
+   "ru": "Трудной (−10) проверки Языков (Шифры)"
+  },
+  "148": {
+   "en": " Test to decipher the grotesque scrawl and a ",
+   "ru": ", чтобы разобрать гротескные каракули, и "
+  },
+  "152": {
+   "en": "Difficult (−10) Discipline (Composure)",
+   "ru": "Трудной (−10) проверки Дисциплины (Самообладание)"
+  },
+  "156": {
+   "en": " Test to resist the corrupting influences of the tome. Despina succeeds in both Tests, and the GM determines that she gleans a few clues as to the cult’s beliefs and other activities and access to the",
+   "ru": ", чтобы противостоять развращающему влиянию тома. Деспина преуспевает в обеих проверках, и ведущий решает, что она извлекает несколько зацепок о верованиях культа и прочей его деятельности, а также получает доступ к"
+  },
+  "158": {
+   "en": " @UUID[Compendium.navis-apexialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Forbidden Knowledge} ",
+   "ru": " @UUID[Compendium.navis-apexialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{«Запретным тайнам»} "
+  },
+  "160": {
+   "en": "Talent",
+   "ru": "(таланту)"
+  },
+  "168": {
+   "en": "While some Inquisitor Patrons are willing to impart dangerous knowledge upon their acolytes, knowing it could be helpful for the battles ahead despite the dangers of such knowledge, others are unwilling or untrusting. Inquisitors vary significantly in their philosophical approaches to their unending duty to the Imperium. Some seek plausible deniability in their acolytes by telling them little, whether they have a Radical or Puritan approach. Other Patrons tell their acolytes lies, like the greater Imperium; this might be for protection, or, depending on the nature of the Patron, it might even be a test. It is essential to consider how the Inquisitor treats their acolytes concerning knowledge, how they approach forbidden knowledge, and how it might affect other connected individuals. For example, is there a rival Inquisitor waiting for an opportunity to condemn them, or do they have Contacts among other Factions that also endeavour to learn forbidden knowledge?",
+   "ru": "Одни покровители-инквизиторы готовы передать аколитам опасные знания, понимая, что те могут пригодиться в грядущих битвах, несмотря на все опасности, а другие не желают этого или не доверяют аколитам. Инквизиторы сильно различаются в философском подходе к своему бесконечному долгу перед Империумом. Некоторые, будь то радикалы или пуритане, стремятся сохранить правдоподобное отрицание, почти ничего не рассказывая аколитам. Другие покровители лгут аколитам, как и весь Империум; это может делаться ради защиты или — в зависимости от натуры покровителя — даже быть испытанием. Важно продумать, как инквизитор обращается с аколитами в вопросах знания, как относится к запретным тайнам и как это может затронуть других связанных с ним людей. Например, не ждёт ли инквизитор-соперник случая его осудить, нет ли у него контактов в других фракциях, тоже стремящихся к запретным знаниям?"
+  },
+  "172": {
+   "en": "Using Forbidden Knowledge",
+   "ru": "Использование запретных тайн"
+  },
+  "176": {
+   "en": "Forbidden knowledge can serve as a remarkable temptation for Radical Inquisitors and acolytes. Many Inquisitors would use a daemon’s true name to banish them; why are the steps toward more esoteric understandings of daemons and the Warp so immediately terrible? Knowledge is power, and the Inquisition fights on dangerous fronts of knowledge and the unknown, struggling to rationalise and make sense of what they encounter.",
+   "ru": "Запретные тайны — сильнейший соблазн для радикальных инквизиторов и аколитов. Многие инквизиторы воспользовались бы истинным именем демона, чтобы изгнать его; почему же шаги к более сокровенному пониманию демонов и варпа сразу столь ужасны? Знание — сила, а Инквизиция сражается на опасных рубежах знания и неведомого, изо всех сил пытаясь осмыслить и понять то, с чем сталкивается."
+  },
+  "180": {
+   "en": "Depending on the source, forbidden knowledge is simply that: knowledge. This could involve information about the enemy's nature, strengths and weaknesses, and how to fight or banish them effectively. This could include discovering the true name of a daemon and the means to banish them. It could also include learning more about a specific xenos species, such as the weapons they use and how to detect, track, and fight them. Knowing this information could grant the characters @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.3j1kargHBeCTssE7]{Superiority}, which can help turn the tables in their favour.",
+   "ru": "В зависимости от источника запретные тайны — это просто знания. Это могут быть сведения о природе врага, его сильных и слабых сторонах и о том, как с ним сражаться или действенно его изгнать. Сюда может входить обнаружение истинного имени демона и способа его изгнания. Или же больше сведений о конкретном виде ксеносов: какое у него оружие, как его обнаружить, выследить и как с ним сражаться. Знание этих сведений может дать персонажам @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.3j1kargHBeCTssE7]{превосходство}, способное переломить ход событий в их пользу."
+  },
+  "184": {
+   "en": "The Imperium and Inquisition play a dangerous game with knowledge, especially forbidden knowledge. By censoring knowledge about Chaos, the Warp, daemons, and various xenos topics, the individuals who express knowledge of these topics expose themselves to the Inquisition and other interested parties. This can play an essential part in investigation; if an NPC knows too much about a given topic that the Imperium considers forbidden or censored, the characters should be able to notice that and act on it.",
+   "ru": "Империум и Инквизиция ведут опасную игру со знаниями, особенно запретными. Из-за цензуры знаний о Хаосе, варпе, демонах и различных ксеносах те, кто проявляет знание этих тем, выдают себя Инквизиции и другим заинтересованным сторонам. Это может сыграть важную роль в расследовании: если NPC знает слишком много о теме, которую Империум считает запретной или цензурируемой, персонажи должны суметь это заметить и действовать."
+  },
+  "188": {
+   "en": "The Burdens of Knowledge",
+   "ru": "Бремя знания"
+  },
+  "192": {
+   "en": "Learning and possessing this knowledge is fraught with peril, not merely from the dangers posed by other elements of the Inquisition or faithful members of the Imperium. Regardless of its form, some knowledge is so dangerous that it might exact a physical and spiritual toll or is so desired by various factions that the character is never safe with it in their possession. Some manifestations of forbidden knowledge are corrosive, corrupting, and subversive. They might be forbidden tomes of Warp knowledge that twist a character’s perspectives of reality. Other information might be highly desired for the advantage it could give over other factions, xenos species, or the cosmos itself.",
+   "ru": "Получение и обладание такими знаниями полны опасностей, и дело не только в угрозе со стороны других частей Инквизиции или верных подданных Империума. В какой бы форме ни было знание, некоторые знания настолько опасны, что взимают с персонажа физическую и духовную дань, или настолько желанны для различных фракций, что, владея ими, персонаж никогда не будет в безопасности. Некоторые проявления запретных тайн разъедают, развращают и подтачивают. Это могут быть запретные тома знаний о варпе, искажающие восприятие реальности персонажем. Другие сведения могут быть крайне желанны ради преимущества, которое они дают над другими фракциями, видами ксеносов или самим мирозданием."
+  },
+  "200": {
+   "en": "Example",
+   "ru": "Пример"
+  },
+  "208": {
+   "en": "At the end of a raid on a cultist hideout, Icharus discovers a peculiar item on the leader’s remains, something they were desperately reaching for during the fight. It is a cube of dark, iridescent metal, marked with symbols that writhe and crawl. The cube whispers with a hissing, sibilant voice. Icharus wants to give it a cursory examination to determine the item’s nature, so the GM has him make a",
+   "ru": "В конце налёта на логово культистов Икарус находит на останках главаря странный предмет — то, к чему тот отчаянно тянулся во время боя. Это куб из тёмного переливчатого металла, покрытый извивающимися, ползущими символами. Куб шепчет шипящим, свистящим голосом. Икарус хочет бегло его осмотреть, чтобы понять природу предмета, поэтому ведущий просит его пройти"
+  },
+  "212": {
+   "en": "Difficult (−10) Lore (Forbidden)",
+   "ru": "Трудную (−10) проверку Знаний (Запретное)"
+  },
+  "216": {
+   "en": "Test. Putting the clues together and succeeding on the Test, Icharus learns the cube is covered in forbidden sigils, and within it, a daemon is contained, able to answer questions and bequeath knowledge. Later in their investigations, Icharus uses the box to learn something about their ongoing investigation. The GM asks him to make a",
+   "ru": ". Сложив зацепки и преуспев в проверке, Икарус узнаёт, что куб покрыт запретными символами, а внутри заключён демон, способный отвечать на вопросы и даровать знания. Позже в ходе расследования Икарус использует ящик, чтобы кое-что узнать о текущем деле. Ведущий просит его пройти"
+  },
+  "220": {
+   "en": "Difficult (−10) Extended",
+   "ru": "Трудную (−10) продолжительную"
+  },
+  "224": {
+   "en": "Test that requires 6 SL, requiring at least one Lore (Forbidden) or Linguistics (Cypher) Test to make sense of the cryptic whispers and one Fortitude (Endurance) Test to resist the corrupting effects of the black cube. Each Test takes an hour, and each failed Test inflicts 1 point of Corruption. Possession of such an item could attract unwanted attention, especially from those who can identify the daemonic nature of the cube. It could result in Chaos cultists seeking to retrieve it and even members of the Ordo Malleus seeking to execute the acolyte and destroy the box.",
+   "ru": "проверку с общей целью в 6 КУ, для которой нужна хотя бы одна проверка Знаний (Запретное) или Языков (Шифры), чтобы разобрать загадочный шёпот, и одна проверка Стойкости (Неустанность), чтобы противостоять развращающему действию чёрного куба. Каждая проверка занимает час, и каждая проваленная проверка даёт 1 очко порчи. Обладание таким предметом может привлечь нежелательное внимание, особенно тех, кто способен распознать демоническую природу куба. Это может закончиться тем, что за ним придут культисты Хаоса, а то и члены Ордо Маллеус, готовые казнить аколита и уничтожить ящик."
+  },
+  "236": {
+   "en": "Example",
+   "ru": "Пример"
+  },
+  "244": {
+   "en": "A team of acolytes are investigating a strange area of a feral world that is believed to be the source of psychic disruptions affecting the locals. After parsing ancient legends and rumours and crewing an expedition to ancient sites, the team find a curious structure jutting from the environment. Kappa, the tech-focused Savant, investigates the structure with a Tech (Engineering) Test. With an incredible roll, Kappa learns that the structure forms an Aeldari Webway gate. While Kappa spends time learning more about the structure, rumours of the Webway gate escape their expedition. This draws the attention of an Ordo Xenos Inquisitor, who prepares to hunt them down. Furthermore, Kappa’s Contact within the Adeptus Mechanicus reaches out to get the information from him. Thanks to his investigation, should any xenos emerge from the Webway gate, the acolytes will be prepared and gain Superiority for avoiding surprises and fighting from prepared positions.",
+   "ru": "Группа аколитов расследует странный район дикого мира, который считают источником психических возмущений, тревожащих местных. Разобрав древние легенды и слухи и снарядив экспедицию к древним местам, группа находит любопытное сооружение, торчащее из окружающей местности. Каппа, эрудит-технарь, изучает сооружение с помощью проверки Техники (Инженерное дело). Благодаря невероятному броску Каппа узнаёт, что сооружение образует врата Паутины альдари. Пока Каппа изучает сооружение подробнее, слухи о вратах Паутины просачиваются из экспедиции. Это привлекает внимание инквизитора Ордо Ксенос, который готовится выследить их. Кроме того, контакт Каппы в Адептус Механикус пытается выведать у него эти сведения. Благодаря его изысканиям, если из врат Паутины появятся ксеносы, аколиты будут готовы и получат превосходство за то, что избежали неожиданностей и сражаются с подготовленных позиций."
+  },
+  "256": {
+   "en": "Example",
+   "ru": "Пример"
+  },
+  "264": {
+   "en": "In their persecution of a rogue psyker, Drusilla and her fellow acolytes discover a tome among the renegade’s possessions. Drusilla spends some time examining the tome, and determines that it is an instructional tome on manipulating the power of the Immaterium, useful for psykers who might seek to expand their repertoire beyond what the Imperium sanctions. In secret, Drusilla seeks to learn from it new powers she might leverage against their foes. The GM asks her to make a ",
+   "ru": "Преследуя псайкера-отступника, Друзилла и её товарищи-аколиты находят среди вещей отступника том. Друзилла какое-то время изучает его и выясняет, что это наставление по управлению силой имматериума, полезное для псайкеров, желающих расширить свой арсенал за пределы дозволенного Империумом. Втайне Друзилла стремится выучить по нему новые силы, которые можно обратить против врагов. Ведущий просит её пройти "
+  },
+  "268": {
+   "en": "Difficult (−10) Extended",
+   "ru": "Трудную (−10) продолжительную"
+  },
+  "272": {
+   "en": " Test that requires 6 SL, requiring at least one Linguistics (High Gothic) and Psychic Mastery Test to follow the techniques presented and at least one Discipline (Psychic) Test to resist the energies of the Warp drawn to the unsanctioned and unfamiliar techniques. Drusilla succeeds in learning a new Psychic Power, knowing that more remain within the tome, but there is a strain upon her mind and soul.",
+   "ru": " проверку с общей целью в 6 КУ, для которой нужна хотя бы одна проверка Языков (Высокий готический) и Психического мастерства, чтобы следовать изложенным приёмам, и хотя бы одна проверка Дисциплины (Психическое), чтобы противостоять энергиям варпа, притянутым несанкционированными и незнакомыми приёмами. Друзилле удаётся выучить новую психическую силу, и она знает, что в томе есть и другие, но это ложится тяжким бременем на её разум и душу."
+  },
+  "280": {
+   "en": "When the secret is out",
+   "ru": "Когда тайное становится явным"
+  },
+  "290": {
+   "en": "If other entities in the world discover the characters are hoarding or learning from forbidden knowledge, many narrative consequences might arise. These could include garnering attention from other Inquisitorial agents or even the interests of heretical agents, like cultists or Infractionists.",
+   "ru": "Если другие силы в мире узнают, что персонажи хранят запретные знания или учатся по ним, это может повлечь множество сюжетных последствий. Например, внимание других агентов Инквизиции или даже интерес еретических агентов вроде культистов или одиночек."
+  },
+  "294": {
+   "en": "The Inquisition and its collected philosophies and approaches are divided. The Puritans of the Inquisition believe that possession of this knowledge is the first step on the road to the Radical and then the heretical. They think that by accepting this lore, this knowledge, the Inquisitor and their acolytes become damned and may end up serving the enemy. Other, more Radical approaches believe that only by knowing the tools of the enemy can true victory be achieved. Radicals often turn the tools of the enemy on themselves, wielding dangerous weapons, and consorting with xenos and daemonhosts to better ensure the Imperium stands another day.",
+   "ru": "Инквизиция разделена в своих философиях и подходах. Пуритане Инквизиции считают, что обладание такими знаниями — первый шаг на пути к радикализму, а затем и к ереси. Они думают, что, приняв эти предания, эти знания, инквизитор и его аколиты обрекают себя и могут в итоге начать служить врагу. Другие, более радикальные подходы исходят из того, что лишь зная орудия врага, можно добиться истинной победы. Радикалы нередко обращают орудия врага против него самого, используя опасное оружие и водясь с ксеносами и демонхостами, чтобы вернее обеспечить Империуму ещё один день."
+  },
+  "298": {
+   "en": "For example, hunting a daemon or intending to bind it to a vessel for imprisonment often requires knowledge of the Warp and daemonkind, which is not common even among the Inquisition. Those who walk the Radical path claim that it is worth the danger of corruption to uncover tools that prevent and banish daemons or even turn those daemons against Chaos itself. Some Radical Inquisitors believe to know the Great Game of daemonkind, enough to turn the murderous forces of Khorne against the hedonites of Slaanesh, or the sorcerous changers of Tzeentch against the foetid daemons of Nurgle. Others believe this is the path of pure heresy and nothing more.",
+   "ru": "Например, охота на демона или намерение связать его с сосудом для заточения часто требуют знаний о варпе и демонах, редких даже в Инквизиции. Те, кто идёт путём радикала, утверждают, что риск порчи оправдан ради орудий, которые предотвращают появление демонов и изгоняют их или даже обращают демонов против самого Хаоса. Некоторые радикальные инквизиторы считают, что достаточно понимают Великую Игру демонов, чтобы натравить убийственные силы Кхорна на гедонитов Слаанеш или колдовских перевёртышей Тзинча на зловонных демонов Нургла. Другие считают это путём чистой ереси и ничем иным."
+  },
+  "314": {
+   "en": "Severity of Forbidden Knowledge",
+   "ru": "Тяжесть запретных тайн"
+  },
+  "334": {
+   "en": "Ordo Hereticus",
+   "ru": "Ордо Еретикус"
+  },
+  "342": {
+   "en": "Ordo Malleus",
+   "ru": "Ордо Маллеус"
+  },
+  "350": {
+   "en": "Ordo Xenos",
+   "ru": "Ордо Ксенос"
+  },
+  "366": {
+   "en": "Minor",
+   "ru": "Лёгкая"
+  },
+  "374": {
+   "en": "Contact with Infractionist characters known to work with Radical Ordo Hereticus agents — such as hereteks, rogue psykers, and smugglers",
+   "ru": "Связи с одиночками, известными своей работой с радикальными агентами Ордо Еретикус, — еретехами, псайкерами-отступниками и контрабандистами"
+  },
+  "382": {
+   "en": "Identifying knowledge of daemons, Chaos, and cults that would otherwise be censored",
+   "ru": "Определяющие знания о демонах, Хаосе и культах, которые в ином случае подверглись бы цензуре"
+  },
+  "390": {
+   "en": "Knowledge of xenos wargear, how to obtain it, and how to use it",
+   "ru": "Знание снаряжения ксеносов, способов его добыть и использовать"
+  },
+  "400": {
+   "en": "Major",
+   "ru": "Тяжёлая"
+  },
+  "406": {
+   "en": "Knowledge of Warp sorcery and forbidden psychic powers outside the bounds of the Imperium",
+   "ru": "Знание колдовства варпа и запретных психических сил за пределами дозволенного Империумом"
+  },
+  "414": {
+   "en": "Knowledge of how to summon and bind daemons, such as using daemonhosts or making Daemonblades",
+   "ru": "Знание того, как призывать и связывать демонов, — например, с помощью демонхостов или создания демонических клинков"
+  },
+  "422": {
+   "en": "Knowledge of xenos services, and how to contact and use them, such as xenos bounty hunters or guides through frontier space",
+   "ru": "Знание услуг ксеносов и того, как с ними связаться и ими воспользоваться, — например, ксеносов — охотников за головами или проводников по фронтирному космосу"
+  },
+  "432": {
+   "en": "Consequences of Forbidden knowledge",
+   "ru": "Последствия запретных тайн"
+  },
+  "440": {
+   "en": "Societal Response",
+   "ru": "Реакция общества"
+  },
+  "450": {
+   "en": "Possession of forbidden knowledge attracts the attention of Imperial authorities (Arbites, Ministorum investigators and ultimately other Inquisitors) who seek to eradicate that knowledge and cleanse any in the Imperium — including the characters — who have learned of it.",
+   "ru": "Обладание запретными тайнами привлекает внимание имперских властей (Арбитрес, следователей Министорума и в конечном счёте других инквизиторов), которые стремятся искоренить эти знания и очистить от всех в Империуме — включая персонажей, — кто их узнал."
+  },
+  "458": {
+   "en": "The characters attract attention from among their enemies, who seek to claim the knowledge they have, or further tempt them away from the Imperium — such as daemons willing to bargain, or perfidious Aeldari who seek to manipulate the characters in their xenos schemes.",
+   "ru": "Персонажи привлекают внимание врагов, которые стремятся завладеть их знаниями или ещё дальше отвратить их от Империума, — например, демонов, готовых заключить сделку, или вероломных альдари, стремящихся использовать персонажей в своих ксеносских интригах."
+  },
+  "472": {
+   "en": "Negative Results",
+   "ru": "Отрицательные последствия"
+  },
+  "482": {
+   "en": "Cult knowledge, the tools of infractionists, and consorting with abhumans or the wretched can weaken faith in the Imperium, and stain a soul akin to gaining Corruption.",
+   "ru": "Знания культов, орудия одиночек и общение с абхуманами или отверженными могут ослабить веру в Империум и запятнать душу, подобно получению порчи."
+  },
+  "490": {
+   "en": "Knowledge of using recidivist resources could spread, impacting Subtlety.",
+   "ru": "Знание о пользовании ресурсами рецидивистов может распространиться, сказываясь на скрытности операции."
+  },
+  "506": {
+   "en": "Interaction with tomes of Chaos, knowledge of the Warp, and more conveys Corruption.",
+   "ru": "Взаимодействие с томами Хаоса, знания о варпе и тому подобное дают порчу."
+  },
+  "514": {
+   "en": "Any resulting daemonic activity in the area could cause Psychic Phenomena, thereby impacting Subtlety.",
+   "ru": "Любая вызванная этим демоническая активность в округе может порождать психические феномены, сказываясь на скрытности операции."
+  },
+  "530": {
+   "en": "Interaction with xenos creatures or wargear/devices can break the mind, or leave a stain on the psyche, equivalent to Corruption.",
+   "ru": "Взаимодействие с существами или снаряжением и устройствами ксеносов может сломить разум или оставить пятно на психике, равноценное порче."
+  },
+  "538": {
+   "en": "Knowledge of consorting with xenos entities could spread, impacting Subtlety.",
+   "ru": "Знание об общении с сущностями ксеносов может распространиться, сказываясь на скрытности операции."
+  },
+  "552": {
+   "en": "Positive Results",
+   "ru": "Положительные последствия"
+  },
+  "562": {
+   "en": "Identifying cults and their differences. Gain Superiority when fighting related enemies.",
+   "ru": "Умение распознавать культы и их различия. Превосходство в бою с соответствующими врагами."
+  },
+  "578": {
+   "en": "Knowledge of how to banish daemons and their capabilities. Gain Superiority when fighting related enemies.",
+   "ru": "Знание того, как изгонять демонов, и их возможностей. Превосходство в бою с соответствующими врагами."
+  },
+  "594": {
+   "en": "Knowledge of their tactics, weapons, and capabilities grants characters Superiority when fighting related enemies.",
+   "ru": "Знание их тактики, оружия и возможностей даёт персонажам превосходство в бою с соответствующими врагами."
+  }
+ }
+}

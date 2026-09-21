@@ -1,0 +1,89 @@
+{
+ "journal": "b06xyMjo4E4cYc40",
+ "journalName": "Roleplaying Inquisitors",
+ "page": "9vSAxxrma5zbEIKL",
+ "pageName": "Alis Raud",
+ "name": "",
+ "runs": {
+  "4": {
+   "en": "‘The Emperor has determined a path for each of us. You have strayed from your path. The consequence is as written for each traitor before you.",
+   "ru": ""
+  },
+  "16": {
+   "en": "Ordo",
+   "ru": ""
+  },
+  "18": {
+   "en": ": @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-malleus]{Malleus}",
+   "ru": ""
+  },
+  "22": {
+   "en": "Philosophy",
+   "ru": ""
+  },
+  "24": {
+   "en": ": @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.s88kgPSDiogPL4aB]{Xanthite}",
+   "ru": ""
+  },
+  "28": {
+   "en": "Known Interrogators",
+   "ru": ""
+  },
+  "30": {
+   "en": ": Damien Savantas",
+   "ru": ""
+  },
+  "34": {
+   "en": "Operational Territory",
+   "ru": ""
+  },
+  "36": {
+   "en": ": @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.d0lv2v4FkeIb43jj]{Drimor Subsector}",
+   "ru": ""
+  },
+  "40": {
+   "en": "Primary Concerns",
+   "ru": ""
+  },
+  "50": {
+   "en": "Maintain the secrets of the Ordo Malleus",
+   "ru": ""
+  },
+  "58": {
+   "en": "Hunt daemonic entities and cults she believes are connected to the ostensibly centuries-dead heretical @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#machariuss-generals]{Generus Cyrus} of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#the-macharian-conquests]{Macharian Crusade}.",
+   "ru": ""
+  },
+  "70": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.NbBJGOYw7Is2Hsj0]{Raud} is a veteran Inquisitor who has uncovered heresy in a thousand forms and sees its shadow everywhere. Her long service has seen her philosophy tempered by @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.s88kgPSDiogPL4aB]{Xanthite} beliefs; Chaos is ultimately beyond the possibility of defeat, and Humanity’s only hope is to bend daemonkind to its will. She closely guards the secrets of the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-malleus]{Ordo Malleus} against other Inquisitors in the sector, to the benefit of her Ordo, but also to keep her Xanthite research hidden from her peers.",
+   "ru": ""
+  },
+  "74": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.NbBJGOYw7Is2Hsj0]{Raud} has spent much of her time as an Inquisitor cultivating a sprawling web of spies across the sector, including agents planted within the retinues of all the sector’s Inquisitors. From this, she wrests much of her influence and vigilance, hidden archiviums filled with secrets and blackmail, and hair-trigger signals ready to warn her of daemonic activity. Her eagerness to pounce upon heresy at first trace has led to the deaths of numerous unsanctioned psykers, to the frustration of her fellow Inquisitor, @UUID[.sNDdDGlvY5m1HQ4R]{Ksenia Baek}.",
+   "ru": ""
+  },
+  "78": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.NbBJGOYw7Is2Hsj0]{Raud} is currently engaged in a personal hunt for the heretic @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#machariuss-generals]{Generus Cyrus} of Saint Macharius’ Seventh Army Group that has spanned decades of her life. Despite previous Inquisitorial investigations concluding that Cyrus fell in battle, Raud holds that as the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.d0lv2v4FkeIb43jj]{Drimor Subsector} was undeniably shaped in Cyrus’ passing. She believes his twisted intentions linger, hidden deep within the sector's power structures, waiting to strike.",
+   "ru": ""
+  },
+  "82": {
+   "en": "Of particular interest to @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.NbBJGOYw7Is2Hsj0]{Raud} is the spatial anomaly rumoured to have been the origin of Cyrus’ corruption, for if the heretic general still draws breath, the path to finding and destroying him may begin in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.1AsBzkbw2InKayw2]{Ayzinith Abyss}. Raud regularly commandeers the data of listening posts on its perimeter to trace potential signs of daemonic or heretical presences in its inky depths. However, this has led to a fraught relationship with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.HlxK2pbpx2Uio6bU]{Imperial Fleet}'s presence in the subsector.",
+   "ru": ""
+  },
+  "86": {
+   "en": "Raud's Secrets",
+   "ru": ""
+  },
+  "96": {
+   "en": "For some time now, @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.NbBJGOYw7Is2Hsj0]{Raud} has held suspicions of heresy against @UUID[.y8Wjo2ThhVq782nY]{Eskender Thracius}, that the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-xenos]{Ordo Xenos} Inquisitor has cavorted with xenos entities, but more to the point, that he has built strange networks that often lead to dead ends and several of her lost agents. She continues to build evidence on him, waiting for the right time to strike against him.",
+   "ru": ""
+  },
+  "100": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.NbBJGOYw7Is2Hsj0]{Raud} remains uncorrupted despite the pitfalls of her Ordo’s duties and Radical research. Daemons who sought to corrupt her have begun to target her Interrogator, Damien Savantas, instead. Daemons whisper in his dreams, planting unconscious seeds of betrayal. But his corruption is a double-bluff on Raud’s behalf; she is fully aware of it — secretly using methods upon him similar to preparing a daemonhost, Raud has been luring daemons towards Savantas to keep them from interfering or manipulating her work. Dangerously, he is the only man worthy of succeeding in her role as Inquisitor.",
+   "ru": ""
+  },
+  "104": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.NbBJGOYw7Is2Hsj0]{Raud} commands a void fortress hidden at the edge of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.1AsBzkbw2InKayw2]{Ayzinith Abyss}. In addition to being the central hub of her spy network — routing communications throughout the sector — she keeps her damnable collection of twelve daemonhosts and the bulk of her @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.s88kgPSDiogPL4aB]{Xanthite} research into demonology. She believes that the daemonhosts, in particular, are the perfect bait to draw out General Cyrus.",
+   "ru": ""
+  }
+ }
+}

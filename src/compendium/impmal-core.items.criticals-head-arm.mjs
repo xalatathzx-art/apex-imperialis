@@ -28,7 +28,7 @@ const PRONE = U(`${C}#prone`, "Сбит с ног");
 const STUNNED = U(`${C}#stunned`, "Оглушение");
 const INCAPACITATED = U(`${C}#incapacitated`, "Беспомощность");
 
-const I = "Compendium.impmal-core.items.Item";
+const I = "Compendium.navis-apexialis.navis-core-items.Item";
 const BONE_MINOR = U(`${I}.BUjBUUB42vTh3aKD`, "Перелом (Малый)");
 const BONE_MAJOR = U(`${I}.b2oWmRETjNtrzEij`, "Перелом (Серьёзный)");
 const CHIRURGEON = U(`${I}.au8V1ieKIHkTeA8l`, "Хирургеон");

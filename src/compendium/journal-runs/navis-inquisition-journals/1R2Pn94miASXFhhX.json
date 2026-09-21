@@ -1,0 +1,65 @@
+{
+ "journal": "nePFHZRojb7rqIn7",
+ "journalName": "Open Case Files",
+ "page": "1R2Pn94miASXFhhX",
+ "pageName": "Open Case Files",
+ "name": "",
+ "runs": {
+  "8": {
+   "en": "The Inquisition is vast in its remit and powers but pitifully limited in terms of its absolute size. Very few individuals have the strength of will to take on the mantle of Inquisitor, and every day, many more threats to the Imperium arise than the Inquisition could hope to address.",
+   "ru": ""
+  },
+  "12": {
+   "en": "What follows are just a few of these Open Case Files, short adventures that should take a few sessions to complete. These can be used as introductory missions for newly minted acolytes within the Macharian Sector, as detours from a more extensive investigation, or as opportunities to allow your characters to explore more of their current locale. Resolving these Cases could inspire future stories, missions and characters within your campaign. Many can help fill in the years between Conclaves presented in @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W]{Heresies Macharia} and relate to similar threats and concerns, allowing your group to dig deeper into the sector’s threats and intrigues.",
+   "ru": ""
+  },
+  "16": {
+   "en": "Each Case File consists of three parts. First, the ",
+   "ru": ""
+  },
+  "18": {
+   "en": "Hook",
+   "ru": ""
+  },
+  "20": {
+   "en": " pulls your party in — an inciting incident they could easily stumble upon or discover as part of their characters' downtime. Second, a ",
+   "ru": ""
+  },
+  "22": {
+   "en": "Response",
+   "ru": ""
+  },
+  "24": {
+   "en": " — where you begin their investigation.",
+   "ru": ""
+  },
+  "28": {
+   "en": "Finally, the ",
+   "ru": ""
+  },
+  "30": {
+   "en": "Resolution",
+   "ru": ""
+  },
+  "32": {
+   "en": " — outlines the Case’s potential outcomes. Each stage of the Case contains helpful advice, challenges that must be overcome, and mechanical suggestions to keep things interesting for your players.",
+   "ru": ""
+  },
+  "36": {
+   "en": "As with @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.2TukBjlkS5RG5Qka]{Contacts } and @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.SJPyRkdBEOCtmD8R]{Sector Threats}, Open Case Files are flexible — change a few details, such as featured planets, systems, and the characters involved, if they will better fit your campaign. Inject as many local characters and flavours as possible, especially NPCs your characters have already interacted with. For example, any local Contacts they have can make the characters aware of the case file’s Hook, introducing them to the mission at hand.",
+   "ru": ""
+  },
+  "40": {
+   "en": "When a mission is complete, see the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.f5PuitUGgp6jQz5K.JournalEntryPage.qsaLi310r4uyLu4R#rewarding-players]{Rewarding Players} section of ",
+   "ru": ""
+  },
+  "42": {
+   "en": "Imperium Maledictum",
+   "ru": ""
+  },
+  "44": {
+   "en": " to award characters with the appropriate amount of XP. Most Open Case Files have the characters interacting with one or multiple Factions within the Imperium, and they award additional Influence depending on how the Case is ultimately resolved.",
+   "ru": ""
+  }
+ }
+}

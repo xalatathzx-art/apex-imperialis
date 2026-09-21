@@ -61,12 +61,12 @@ const epigraph = text =>
 
 /** Список возможностей или слабостей: каждая строка — ссылка на предмет. */
 const links = (...entries) =>
-  entries.map(([id, name]) => p(U(`Compendium.impmal-core.items.Item.${id}`, name))).join("");
+  entries.map(([id, name]) => p(U(`Compendium.navis-apexialis.navis-core-items.Item.${id}`, name))).join("");
 
 /** Виньетки, что разбивают длинные списки на стр. 29 и 37. */
 const spot = file =>
   `<div class="journal-image float-right">` +
-  `<img src="modules/impmal-core/assets/images/${file}" width="200" height="200" /></div>`;
+  `<img src="modules/navis-apexialis/assets/impmal-core/images/${file}" width="200" height="200" /></div>`;
 
 const SECTOR = U("JournalEntry.B7MZBBT3bNew9N96", "секторе Махарий");
 const CHAR_FACTION = U("JournalEntry.uJURMn2glWHhjqJk.JournalEntryPage.ZJ4j0hrbxg7bL2K4", "Создание персонажа");
@@ -117,7 +117,7 @@ export const byName = {
         name: "Создание покровителя",
         text:
           `<div class="journal-image float-right">` +
-          `<img height="660" src="modules/impmal-core/assets/images/ch1.webp" /></div>` +
+          `<img height="660" src="modules/navis-apexialis/assets/impmal-core/images/ch1.webp" /></div>` +
           p("Ваш первый шаг к опасным приключениям в Махарии — это коллективное создание ",
             "покровителя. Это будет могущественный человек, что собрал персонажей в один отряд, ",
             "дабы служить интересам Империума или своим собственным. Как правило, покровители — ",
@@ -208,15 +208,15 @@ export const byName = {
             "определитесь с принадлежностью покровителя к службе, ведущий запишет его влияние. ",
             "В каждой службе есть свои варианты обязанностей — выберите их всей группой.") +
           `<div class="gallery">` +
-            image("modules/impmal-core/assets/actors/patron-mechanicus.webp", 'width="230"') +
-            image("modules/impmal-core/assets/actors/patron-inquisition.webp", 'width="210"') +
-            image("modules/impmal-core/assets/actors/patron-militarum.webp", 'width="150"') +
+            image("modules/navis-apexialis/assets/impmal-core/actors/patron-mechanicus.webp", 'width="230"') +
+            image("modules/navis-apexialis/assets/impmal-core/actors/patron-inquisition.webp", 'width="210"') +
+            image("modules/navis-apexialis/assets/impmal-core/actors/patron-militarum.webp", 'width="150"') +
           `</div>` +
           p(T("vl9saE1Hpu48qsLd", "Служба")) +
 
           h(3, "boons-and-liabilities", "Возможности и слабости") +
           `<div class="journal-image float-right">` +
-          `<img src="modules/impmal-core/assets/images/spot-skull1.webp" width="200" /></div>` +
+          `<img src="modules/navis-apexialis/assets/impmal-core/images/spot-skull1.webp" width="200" /></div>` +
           p("Каждый покровитель предоставляет агентам одну служебную возможность — уникальный ",
             "способ использовать свою власть и ресурсы. Например, это может быть поддержка ",
             "отборного отряда отпрысков Темпестус или вылет «Валькирий», чтобы нанести удар с ",
@@ -294,7 +294,7 @@ export const byName = {
         text:
           epigraph("Император благословил нас даром нетерпимости.") +
           `<div class="journal-image float-right">` +
-          `<img src="modules/impmal-core/assets/images/spot-skull1.webp" width="150" /></div>` +
+          `<img src="modules/navis-apexialis/assets/impmal-core/images/spot-skull1.webp" width="150" /></div>` +
           p("Возможно, вы уже придумали, что за человек ваш покровитель, и ведущий знает, как ",
             "отыгрывать его. Выбор характера поможет вам закрепить эти идеи, сделать личность ",
             "господина целостной и раскрыть другие её грани.") +
@@ -632,7 +632,7 @@ export const byName = {
           `<p class="blue" style="height:0px;display:block;text-align:right">` +
           `<em>Ересь порождает возмездие.</em></p>` +
           `<div class="journal-image float-right">` +
-          `<img src="modules/impmal-core/assets/images/spot-bloodangel-relic.webp" width="200" /></div>` +
+          `<img src="modules/navis-apexialis/assets/impmal-core/images/spot-bloodangel-relic.webp" width="200" /></div>` +
           p("Отрицательное влияние на ", FACTION.dynasty, " может означать оскорбление, некогда ",
             "нанесённое торговцу, вмешательство в его дела или даже предательство. Вольные ",
             "торговцы сотрудничают со всеми службами всеми мыслимыми способами — это часть ",

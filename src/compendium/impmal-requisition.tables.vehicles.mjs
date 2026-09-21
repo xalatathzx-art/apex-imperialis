@@ -24,11 +24,11 @@ const row = text => ({ description: `<p>${text}</p>` });
 const ctrl = (text, test) => row(`${text}</p><p><strong>Проверка управления</strong>: ${test}`);
 const e = (name, text) => row(`<strong>${name}</strong>: ${text}`);
 
-const COND = "Compendium.impmal-core.journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe";
+const COND = "Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe";
 const ABLAZE = U(`${COND}#ablaze`, "Горение");
 const STUNNED = U(`${COND}#stunned`, "Оглушение (малое)");
 const VEH = "JournalEntry.fpiV4F49v3gxmipn.JournalEntryPage";
-const HAZARD = U("Compendium.impmal-core.journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#hazard",
+const HAZARD = U("Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#hazard",
   "слегка опасной");
 
 /* Строки, что повторяются во всех четырёх таблицах. */

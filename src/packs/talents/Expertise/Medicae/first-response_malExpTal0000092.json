@@ -2,7 +2,7 @@
   "name": "First Response",
   "type": "talent",
   "_id": "malExpTal0000092",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Once/Encounter: make Medicae check to heal as a free action</span></p><hr><p><span style=\"font-family: Arial\"><em>You have an unerring knack for being in the right place at the right time when someone needs patching up. Once per encounter, you can make a Medicae test to heal wounds as a Free Action.</em></span></p>",

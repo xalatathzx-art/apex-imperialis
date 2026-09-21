@@ -2633,6 +2633,32 @@ body.navis-skin .application.actor.impmal.npc .npc-header {
 body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .label {
   min-width: max-content;
 }
+
+/* The familiar carries two vitals the NPC has not: Cost, and a pair of instinct
+   dropdowns. Eight boxes in six tracks means the first line is the six the grid
+   was drawn for and the other two fall to a second line — where, left alone,
+   they take the first two tracks and the row ends in four columns of nothing,
+   with two dropdowns holding words crushed into 78px.
+
+   Each takes two tracks instead, so the second line reads as equal thirds under
+   the six above it. The class is put on by refitInstincts, which also gives the
+   second instinct a box of its own; impmal-inquisition's template has both
+   dropdowns in one box captioned "Encumbrance", which is neither true nor
+   something a stylesheet can fix. */
+body.navis-skin .application.actor.impmal.npc .npc-header.navis-familiar-vitals > .attribute-row > .navis-cost,
+body.navis-skin .application.actor.impmal.npc .npc-header.navis-familiar-vitals > .attribute-row > .navis-instinct {
+  grid-column: span 2;
+}
+/* The select is the whole point of the box, so it takes the width the box won
+   rather than the content width warhammer-lib gives a field. */
+body.navis-skin .application.actor.impmal.npc .npc-header .navis-instinct > .field {
+  grid-column: 1 / -1;
+  min-width: 0;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .navis-instinct > .field select {
+  width: 100%;
+  min-width: 0;
+}
 body.navis-skin .application.actor.impmal.npc .npc-header > .sheet-header,
 body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table {
   grid-column: 1 / -1;
@@ -7025,6 +7051,21 @@ body.navis-skin .application.impmal.actor .row-content.specialisation.navis-spec
 body.navis-skin .application.impmal.actor .row-content.specialisation.navis-spec-pick .list-name {
   font-style: italic;
 }
+/* A manually-created specialisation with no advance exists mechanically, but
+   should not look learned until its first +5 is bought. */
+body.navis-skin .application.impmal.actor .row-content.specialisation.navis-spec-untrained {
+  opacity: .62;
+}
+body.navis-skin .application.impmal.actor .row-content.specialisation.navis-spec-untrained .list-name {
+  font-style: italic;
+}
+
+/* The catalogue extends the system's scrollable skill list after render. Keep
+   one row of runway at its end so the final skill (Tech) can scroll clear of
+   the sheet edge on short browser windows. */
+body.navis-skin .application.actor.impmal.character .tab[data-tab="skills"] > .sheet-list.skills > .list-content {
+  padding-bottom: 80px;
+}
 
 /* ── Вкладки листа ─────────────────────────────────────────────────────────
    Ядро раскладывает их в grid равными колонками: при восьми вкладках на листе
@@ -7542,4 +7583,40 @@ body.navis-skin .application.actor.impmal.vehicle .navis-armament .navis-arm-row
    здесь нет — стволы лежат в общем списке вместе с экипажем. */
 body.navis-skin .application.actor.impmal.vehicle .navis-armament > .list-row + .list-row .navis-arm-row {
   border-top: 1px solid #ffffff0d;
+}
+
+/* ── Character skills: quick filter ────────────────────────────────────── */
+body.navis-skin .application.actor.impmal.character .navis-skill-search {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 8px;
+  padding: 7px 10px;
+  background: var(--navis-raised);
+  border: 1px solid var(--navis-line);
+  border-left: 3px solid var(--navis-brass-dim);
+  clip-path: var(--navis-plate);
+  color: var(--navis-brass-dim);
+}
+body.navis-skin .application.actor.impmal.character .navis-skill-search i {
+  font-size: 12px;
+}
+body.navis-skin .application.actor.impmal.character .navis-skill-search input {
+  width: 100%;
+  min-width: 0;
+  padding: 0;
+  background: transparent;
+  border: 0;
+  outline: 0;
+  font-family: var(--navis-font-text);
+  font-size: 14px;
+  color: var(--navis-ink);
+}
+body.navis-skin .application.actor.impmal.character .navis-skill-search input::placeholder {
+  color: var(--navis-ink-faint);
+}
+body.navis-skin .application.actor.impmal.character .navis-skill-search:focus-within {
+  border-color: var(--navis-accent);
+  box-shadow: inset 2px 0 var(--navis-accent);
+  color: var(--navis-accent-lit);
 }

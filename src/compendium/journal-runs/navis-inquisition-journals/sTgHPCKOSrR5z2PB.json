@@ -1,0 +1,121 @@
+{
+ "journal": "nePFHZRojb7rqIn7",
+ "journalName": "Open Case Files",
+ "page": "sTgHPCKOSrR5z2PB",
+ "pageName": "The Fallen Captain",
+ "name": "",
+ "runs": {
+  "2": {
+   "en": "Captain Louis Gontir has returned from the frontlines a storied war hero, but also a broken and mangled man. As an exemplary servant of the Emperor, he was awarded a relatively safe position as an @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum} drill master and planned to spend his remaining days in relative quietude. Unfortunately, he brought home a trophy from the frontlines, an artefact corrupted by the foul blood of Chaos Daemons it slew. Since his return, Gontir’s war stories and charisma have inspired a following, becoming a cult whose leader is slowly spiralling into madness and corruption due to the trophy he holds dear.",
+   "ru": ""
+  },
+  "6": {
+   "en": "When the characters investigate, they find a man wielding far more influence than he should and a fanatical group of followers under his sway. They must determine if this is proper Imperial zeal or something more sinister. When events turn sour, the characters face a brutal tactician and his dedicated followers.",
+   "ru": ""
+  },
+  "10": {
+   "en": "This Case File works best as an isolated part or detour of a larger campaign — related to daemons and daemonic influence. It can take place on any world with a significant Imperial presence.",
+   "ru": ""
+  },
+  "14": {
+   "en": "Hook",
+   "ru": ""
+  },
+  "24": {
+   "en": "The characters are alerted to the presence of a burgeoning sect of the Imperial Cult on a nearby world — either by their Patron or through one of their Contacts. What is troubling is the swiftness at which the sect has gained influence within the lower echelons of society — local authorities within the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Ministorum} are concerned.",
+   "ru": ""
+  },
+  "28": {
+   "en": "The sect’s leader spent significant time in a @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Ministorum} re-education program after his tour of duty. Requesting aid from the Ministorum and @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Astra Miliatrum} to review Gontir’s service record will take some time and influence (remotely or on location). The characters will find aspects of his record classified under Inquisitorial order beyond their level of access. In truth, Gontir’s unit ran afoul of daemonic activity in their last battle and barely survived. The classified information was redacted by the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-malleus]{Ordo Malleus} Inquisitor Lark, who oversaw the cleanup. Impressed by Gontir’s service — his actions almost certainly saved her life — Lark broke with protocol to allow the man to continue his service to the Emperor in a quiet role, rather than recruiting him or outright silencing him for having witnessed a daemonic incursion.",
+   "ru": ""
+  },
+  "32": {
+   "en": "The characters are advised to observe the sect and get close to Captain Gontir to interview him. They need to determine whether the sect is corrupted or legitimate. If so, they must do whatever they can to neutralise the sect’s leadership, especially Gontir, and snuff them out by whatever means.",
+   "ru": ""
+  },
+  "36": {
+   "en": "Response",
+   "ru": ""
+  },
+  "40": {
+   "en": "The characters can find the cult operating within the bowels of Imperial society, often called ‘Gontir’s Men’. The cult consists of primarily downtrodden folk — manufactorum workers, labourers, and scavengers — who see Captain Gontir’s return as a historic moment, rare for any trooper to return from the frontlines to their home. Though not without scars, Gontir’s body leans heavily on a crutch due to a mangled leg, the right half of his face marred with burnt scar tissue. Despite this, when he speaks of war, battle, and glory, the horrors he had been through, he focuses on the heroic and inspirational moments rather than the abject horror and pointlessness of his experiences. What began as informal lectures for his more promising students and unguarded conversations in local watering holes grew over time into talks in front of small crowds, and ultimately into cathedrum sermons in front of a fervent audience that grows each week.",
+   "ru": ""
+  },
+  "44": {
+   "en": "Discovering the nature of the subtext of his sermons is not easy for a layperson or anyone not paying close attention to the details. Passing a ",
+   "ru": ""
+  },
+  "46": {
+   "en": "Challenging (+0) Linguistics",
+   "ru": ""
+  },
+  "48": {
+   "en": " Test or a ",
+   "ru": ""
+  },
+  "50": {
+   "en": "Difficult (−10) Intuition (Humans)",
+   "ru": ""
+  },
+  "52": {
+   "en": " or ",
+   "ru": ""
+  },
+  "54": {
+   "en": "Lore (Theology)",
+   "ru": ""
+  },
+  "56": {
+   "en": " Test allows a listener to detect subtle variations in how he talks about the God-Emperor. While he pays lip service, the deity described sounds more vengeful and active. He talks about the God-Emperor’s return and other aspects that do not align with known texts. What he says might sound positive to many, but goes directly against the Imperial Creed and the teachings of the Ministorum. It does not reach outright heresy, but it should raise suspicions for the characters and warrant further investigation.",
+   "ru": ""
+  },
+  "60": {
+   "en": "Getting close to Captain Gontir takes work. Bodyguards surround him: @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ppicZvgr0bEuhWeh]{Cultists} and a group of @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{Gangers} who all act like @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum} troopers. Gontir is a @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.pGE97yqMKNMkyzgL]{Cult Leader}, though his Speed is Slow and he lacks a Mark of Chaos. To access Gontir will mean talking their way through, or sneaking past, his outer guards and other fanatical cult members trying to talk to him. Characters can make a ",
+   "ru": ""
+  },
+  "62": {
+   "en": "Challenging (+0) Presence, Rapport, ",
+   "ru": ""
+  },
+  "64": {
+   "en": "or",
+   "ru": ""
+  },
+  "66": {
+   "en": " Stealth",
+   "ru": ""
+  },
+  "68": {
+   "en": " Test according to their chosen method to gain entry successfully.",
+   "ru": ""
+  },
+  "72": {
+   "en": "Once the characters meet with Gontir, it should be clear that the captain has lost what was left of his mind. In private, he lacks the charisma seen in his rousing speeches. Without the crowd’s attention, his mind wanders back to his battles and mutters dark thoughts about the horrors he witnessed. They notice he clutches the handle of a broken @UUID[Compendium.navis-apexialis.navis-core-items.Item.tjUKnuDKTCCon28r]{chainsword} covetously, keeping it bundled under his robe.",
+   "ru": ""
+  },
+  "76": {
+   "en": "Any psyker within a few feet of the chainsword can feel the malevolent Warp energy flowing from the broken blade. If examined, something Gontir will not readily allow, what is left of the blade’s teeth is caked in gore that has stained and pitted the metal. Touching it is a source of @Corruption[minor]{Minor Exposure} to @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.PuzopCeKzYgcYAwh]{Corruption}. Gontir and his closest followers revere the corrupted blade — representing what Gontir and many of their brethren in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum} have gone through. They are lost to its influence.",
+   "ru": ""
+  },
+  "80": {
+   "en": "Resolution",
+   "ru": ""
+  },
+  "90": {
+   "en": "The Warp-tainted blade needs to be disposed of or at least quarantined, but Gontir and his men will not simply hand it over. Gontir’s tactical mind will kick in; he will try to protect himself and the blade. He claims the characters are agents of Chaos and instructs his cultists to capture them. The @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{Gangers} and @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ppicZvgr0bEuhWeh]{Cultists} should outnumber the party two to one, and Gontir’s @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.pGE97yqMKNMkyzgL.Item.iPGUzffs0rQvAA6k]{Fanatical Zealotry} Traits works on both the Gangers and Cultists in this case (do not forget to account for Superiority if the characters have done reasonable reconnaissance and preparation before confronting the cult leader).",
+   "ru": ""
+  },
+  "94": {
+   "en": "Gontir’s first order of business will be to ensure he has enough followers between him and the characters to protect himself. His followers are zealots and will all lay down their lives for him. They can all use the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.dZFX8HOdsFDpI7l0]{Look Out, Sir!} rule.",
+   "ru": ""
+  },
+  "98": {
+   "en": "Once it is clear to Gontir that all is lost and the characters have the upper hand, Gontir will draw the broken blade and call upon his interpretation of the God-Emperor to aid him, triggering his The @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.pGE97yqMKNMkyzgL.Item.t4VMzwCK0mcIDPlk]{Price of Failure} Trait. Once his transformation into a @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.7GvkaaVAd69ORno0]{Chaos Spawn} is complete, the minds of his followers will break — they will still fight for their lives, but escape will be their only priority.",
+   "ru": ""
+  },
+  "102": {
+   "en": "Once the characters defeat Gontir, they must dispose of the broken blade. Reaching out to their Patron, they will be put in contact with some @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-malleus]{Ordo Malleus} agents who can help. In addition to standard XP and solar rewards, their Influence with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.HURMpEU0Nnc93Ocv]{Adeptus Ministorum} increases by 1. The Ministorum spends the next several years working diligently in the area to re-educate citizens affected by Gontir’s false dogma.",
+   "ru": ""
+  }
+ }
+}

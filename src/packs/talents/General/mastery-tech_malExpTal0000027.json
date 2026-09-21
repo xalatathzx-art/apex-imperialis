@@ -2,7 +2,7 @@
   "name": "Mastery (Tech)",
   "type": "talent",
   "_id": "malExpTal0000027",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Spend FP to auto-succeed on selected Tech, scored SL = associated stat bonus</span></p><hr><p><span style=\"font-family: Arial\"><em>You must have 4 Advances in Tech and the Talented(Tech) on. You can spend a Fate Point to automatically pass a Tech Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "4 Advances in Tech, Talented (Tech) Talent",
-      "script": "return this.actor.system.skills.tech.advances >= 4 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Talented(Tech)\")"
+      "script": "return this.actor.system.skills.tech.advances >= 4 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Talented (Tech)\")"
     },
     "test": {
       "difficulty": "challenging",

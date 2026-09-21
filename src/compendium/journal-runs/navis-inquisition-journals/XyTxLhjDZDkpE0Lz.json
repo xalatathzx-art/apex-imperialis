@@ -1,0 +1,313 @@
+{
+ "journal": "KbejcPMug5gfoWWz",
+ "journalName": "Subtlety",
+ "page": "XyTxLhjDZDkpE0Lz",
+ "pageName": "Subtlety",
+ "name": "Секретность",
+ "runs": {
+  "8": {
+   "en": "The shadow war waged by the Inquisition often relies on subterfuge and secrecy. They are the unseen blade that strikes from the dark, piercing the God-Emperor’s foes in the weakest points of their blasphemous flesh, using surprise and guile to circumvent their vile armour. The Holy Orders abhor their odious enemies, but many Inquisitors begrudgingly treat their grotesque foes with a measure of regard for their dangerous capabilities. A wise Inquisitor knows the impossible odds they face and will use any underhanded espionage they can to fell the unholy.",
+   "ru": "VII СЕКРЕТНОСТЬ\nКаждый уровень секретности приносит свои\nпреимущества и помехи, и ни один нельзя назвать\nбесспорно превосходящим другие; это зависит от того,\nчего хочет достичь группа, её методов и обстоятельств\nзадания.\nКРЕТНОСТИ\nВедущийподсчитываетуровеньсекретностиивводитв\nигру преимущества и недостатки. Группа"
+  },
+  "12": {
+   "en": "But that is not always the Inquisitor’s best tactic. Sometimes, it is best to lift the veil and strike at the enemy in the open, to bring the full force of the Inquisitor’s arsenal and authority to bear. To show the citizens of the Imperium exactly what the extermination of heresy unleashed looks like. Such a display reminds them of the Inquisition’s presence and power; it can bolster the people’s faith and flush out the rogue elements skulking within them. How Inquisitors choose to operate is always a keen balancing act — and they expect nothing less of their acolytes to understand what is crucial and to keep those scales in equilibrium.",
+   "ru": "может узнать\nсвой текущий уровень и статус только предприняв\nпроверку, либо услышав от этом напрямую у какого могущественного персонажа – например, своего\nпокровителя.\nКакая проверка потребуется, чтобы узнать о своей\nсекретности, решает ведущий, исходя из заявок\nигроков. Вот далеко не исчерпывающий список\nпримеров:\n0 Средняя (+0) проверка Взаимопонимания\n(Сбор"
+  },
+  "16": {
+   "en": "Subtlety is a ruleset that adds depth to Inquisition-focused campaigns and can be used in investigative-focused games featuring Patrons from other factions. It provides a framework to dynamically adjust the world and its characters in response to how covertly or overtly the party approaches objectives. Typically, the Inquisition requires acolytes to operate at a high level of Subtlety to remain beneath public notice, allowing them to surprise enemies or avoid inciting panic amongst the masses. However, low Subtlety is sometimes preferred, as working openly allows Inquisitors to leverage their dreadful reputations to root out heretics without remit. Regardless of preference, Patrons sometimes insist that a certain degree of Subtlety (or lack thereof) is maintained — it may be as important as the objective for their involvement to be hidden or well-known.",
+   "ru": "сведений), чтобы расспросить знакомых\nосведомителей.\n0 Средняя (+0) проверка Чутья (Люди), чтобы\nоценить поведение местных, послушать слухи и\nсплетни.\n0 Средняя (+0) проверка Логики (Следствие), чтобы\nобратиться к местным службам и посмотреть, будут\nли они встревожены вашим появлением.\n0 Средняя (+0) проверка Техники (Безопасности),\nчтобы изучить вокс-эфир в округе и оценить, часто\nли в нём всплывают упоминания ваших имён и\nдействий.\nИсходная сложность таких проверок – средняя (+0),\nно"
+  },
+  "20": {
+   "en": "The following ",
+   "ru": "обстоятельства"
+  },
+  "22": {
+   "en": "Subtlety Ratings and Levels Table",
+   "ru": "и решение ведущего"
+  },
+  "24": {
+   "en": " and ",
+   "ru": "могут"
+  },
+  "26": {
+   "en": "Changing Subtlety Ratings Table",
+   "ru": "это\nизменить."
+  },
+  "28": {
+   "en": " encapsulate the causes and effects of Subtlety overall. The sections following describe each level of Subtlety and what could cause them to change in greater detail, including examples of the various opportunities each Rating may present. Subtlety was designed with Inquisition-focused campaigns in mind, but it can work within any other campaign where a Patron requires a focus on deception and espionage.",
+   "ru": "Ведущему стоит бросать эту проверку за\nигрока и не раскрывать результат. В случае успеха\nведущий называет группе её текущий статус. В случае\nпровала он даёт ложные сведения – в идеале, стоит\nсообщить, что уровень секретности"
+  },
+  "44": {
+   "en": "Subtlety Ratings And Levels",
+   "ru": "остался таким"
+  },
+  "56": {
+   "en": "Subtlety Rating",
+   "ru": "же,\nкак"
+  },
+  "64": {
+   "en": "Subtlety Levels",
+   "ru": "раньше."
+  },
+  "72": {
+   "en": "Level Summary",
+   "ru": "Фиаско"
+  },
+  "80": {
+   "en": "Patron Influence",
+   "ru": "в этой"
+  },
+  "88": {
+   "en": "Clandestine Techniques",
+   "ru": "проверке"
+  },
+  "96": {
+   "en": "Blatant Techniques",
+   "ru": "может понизить\nсекретность"
+  },
+  "110": {
+   "en": "10-8",
+   "ru": "– неуклюжие"
+  },
+  "114": {
+   "en": "@UUID[.k3IIBps2ZS9Ap23D#covert-(subtlety-10-8)]{Covert}",
+   "ru": "попытки что-то выведать\nсами по @UUID[.k3IIBps2ZS9Ap23D#covert-(subtlety-10-8)]{Covert}"
+  },
+  "120": {
+   "en": "None are aware agents of the Inquisition operating in the area. ",
+   "ru": "себе привлекают внимание.\nИЗМЕН ЕН"
+  },
+  "124": {
+   "en": "Your names, faces, and actions are unknown.",
+   "ru": "ИЕ\nСЕКРЕТНОСТИ\nЕсли"
+  },
+  "130": {
+   "en": "Using your Patron’s Influence decreases your Subtlety by −1.",
+   "ru": "группа применяет эти правила, она"
+  },
+  "134": {
+   "en": "+1 SL",
+   "ru": "всегда"
+  },
+  "138": {
+   "en": "Disadvantage",
+   "ru": "будет\nиметь"
+  },
+  "146": {
+   "en": "7-5",
+   "ru": "уровень"
+  },
+  "150": {
+   "en": "@UUID[.k3IIBps2ZS9Ap23D#suspicious-(subtlety-7-5)]{Suspicious}",
+   "ru": "секретности от 1 до 10. @UUID[.k3IIBps2ZS9Ap23D#suspicious-(subtlety-7-5)]{Suspicious}"
+  },
+  "156": {
+   "en": "A perceptive portion of the population knows that the Inquisition is operating in the area, and some believe your group are agents of the Holy Orders.",
+   "ru": "Уровень\nсекретности определяет их статус, который приносит\nигромеханические"
+  },
+  "160": {
+   "en": "Your foes may attempt to spy on you or otherwise gather information on your activities.",
+   "ru": "преимущества и недостатки.\nВедущий может сам"
+  },
+  "166": {
+   "en": "Using your Patron’s Influence decreases your Subtlety by −1.",
+   "ru": "определить исходную секретность\nгруппы"
+  },
+  "170": {
+   "en": "-1 SL",
+   "ru": "в начале"
+  },
+  "174": {
+   "en": "+1 SL",
+   "ru": "задания,"
+  },
+  "182": {
+   "en": "4-2",
+   "ru": "опираясь"
+  },
+  "186": {
+   "en": "@UUID[.k3IIBps2ZS9Ap23D#overt-(subtlety-4-2)]{Overt}",
+   "ru": "на то, насколько\nлюдииведомстваосведомленыопоявленииперсонажей\nв @UUID[.k3IIBps2ZS9Ap23D#overt-(subtlety-4-2)]{Overt}"
+  },
+  "192": {
+   "en": "Rumours abound of the Inquisition operating in the area, many implicating your party. ",
+   "ru": "округе. Большинство расследований будут"
+  },
+  "196": {
+   "en": "Almost everyone is cautious of you, and your enemies actively try to escape or eliminate you.",
+   "ru": "начинаться\nсо статуса инкогнито (10-8), если"
+  },
+  "202": {
+   "en": "No Effect",
+   "ru": "только"
+  },
+  "206": {
+   "en": "Disadvantage",
+   "ru": "местные"
+  },
+  "210": {
+   "en": "Advantage",
+   "ru": "не\nпроявляютподозренийещёдоприбытиягруппы.После\nэтого"
+  },
+  "218": {
+   "en": "1",
+   "ru": "уровень"
+  },
+  "222": {
+   "en": "@UUID[.k3IIBps2ZS9Ap23D#exposed-(subtlety-1)]{Exposed}",
+   "ru": "секретности будет зависеть @UUID[.k3IIBps2ZS9Ap23D#exposed-(subtlety-1)]{Exposed}"
+  },
+  "228": {
+   "en": "Everyone knows you are agents of the Inquisition. ",
+   "ru": "от действий\nи решений"
+  },
+  "232": {
+   "en": "Your foes go to ground, flee, or organise all-out opposition to you.",
+   "ru": "персонажей.\nКак правило, высокая"
+  },
+  "238": {
+   "en": "+1 SL on Tests using your Patron’s Influence.",
+   "ru": "секретность означает,"
+  },
+  "242": {
+   "en": "Disadvantage and −1 SL",
+   "ru": "что\nлюди в"
+  },
+  "246": {
+   "en": "Advantage and +1 SL",
+   "ru": "округе"
+  },
+  "254": {
+   "en": "Note: ",
+   "ru": "относительно"
+  },
+  "256": {
+   "en": "Clandestine Techniques",
+   "ru": "мало знают"
+  },
+  "260": {
+   "en": "involve Tests to blend in, avoid attention, or make inquiries without appearing to be part of the Inquisition.",
+   "ru": "о личностях\nперсонажей, их поступках, мотивах и том,"
+  },
+  "262": {
+   "en": " Blatant Techniques ",
+   "ru": "кому они\nслужат."
+  },
+  "264": {
+   "en": "involve Tests to intimidate, interrogate, command, or requisition using the Inquisition’s fearsome reputation.",
+   "ru": "Это позволяет действовать быстро и тайно,\nно не"
+  },
+  "284": {
+   "en": "Changing Subtlety Ratings",
+   "ru": "позволяет"
+  },
+  "298": {
+   "en": "At the end of each encounter, the GM should ask themselves the following 3 questions.",
+   "ru": "использовать репутацию Святых\nОрдосов."
+  },
+  "306": {
+   "en": "If the answer to any question is yes, apply the result to the party’s Subtlety Rating.",
+   "ru": "Низкая секретность привлекает внимание\nи"
+  },
+  "320": {
+   "en": "Question:",
+   "ru": "подозрения,"
+  },
+  "328": {
+   "en": "Was the Party observed by witnesses doing anything that would decrease Subtlety?",
+   "ru": "подхлёстывает паранойю и страхи,"
+  },
+  "336": {
+   "en": "Did the Party leave behind pertinent evidence that would decrease Subtlety?",
+   "ru": "но\nвызывает уступчивость и"
+  },
+  "344": {
+   "en": "Did the Party do anything to decrease Subtlety?",
+   "ru": "покорность мирных"
+  },
+  "358": {
+   "en": "Examples:",
+   "ru": "жителей,\nа"
+  },
+  "364": {
+   "en": "Reveal a Rosette.",
+   "ru": "врагов"
+  },
+  "366": {
+   "en": "Use their Patron’s Influence.",
+   "ru": "подталкивает к"
+  },
+  "368": {
+   "en": "Reveal they are working on behalf of the Inquisition.",
+   "ru": "жестоким действиям"
+  },
+  "370": {
+   "en": "Use advanced or definitively xenos technology.",
+   "ru": "или\nхитрым манёврам. У"
+  },
+  "372": {
+   "en": "Use Overt Psychic Powers.",
+   "ru": "секретности"
+  },
+  "374": {
+   "en": "Ask suspicious questions.",
+   "ru": "есть четыре\nстатуса,"
+  },
+  "382": {
+   "en": "Damaged property.",
+   "ru": "каждый"
+  },
+  "384": {
+   "en": "Signs of forced entry.",
+   "ru": "со своими"
+  },
+  "386": {
+   "en": "Expended ammunition or covert tools.",
+   "ru": "игромеханическими"
+  },
+  "388": {
+   "en": "Corpses (friend or foe).",
+   "ru": "и\nповествовательными"
+  },
+  "390": {
+   "en": "Anything of heretical, xenos, or daemonic origins.",
+   "ru": "последствиями."
+  },
+  "398": {
+   "en": "Suppress information.",
+   "ru": "VII СЕКРЕТНОСТЬ Каждый уровень секретности приносит свои преимущества и помехи, и ни один нельзя назвать бесспорно превосходящим другие; это зависит от того, чего хочет достичь группа, её методов и обстоятельств задания. КРЕТНОСТИ"
+  },
+  "400": {
+   "en": "Frame another character.",
+   "ru": "Ведущийподсчитываетуровеньсекретностиивводитв игру преимущества и недостатки. Группа может узнать свой текущий уровень и статус только предприняв проверку, либо услышав от этом напрямую у какого- то могущественного персонажа – например, своего покровителя. Какая проверка потребуется, чтобы"
+  },
+  "402": {
+   "en": "Influence witnesses or a local authority.",
+   "ru": "узнать о своей секретности, решает ведущий, исходя из заявок игроков. Вот далеко не исчерпывающий список примеров:   Средняя (+ ) проверка Взаимопонимания (Сбор сведений), чтобы расспросить знакомых осведомителей.   Средняя (+ ) проверка Чутья (Люди), чтобы оценить поведение местных, послушать слухи и сплетни.   Средняя (+ ) проверка Логики (Следствие), чтобы обратиться к местным службам и посмотреть, будут ли они встревожены вашим появлением.   Средняя (+ ) проверка Техники (Безопасности),"
+  },
+  "404": {
+   "en": "Fabricate misleading evidence.",
+   "ru": "чтобы изучить вокс-эфир в округе и оценить, часто ли в нём всплывают упоминания ваших имён и действий. Исходная сложность таких проверок – средняя (+ ), но обстоятельства и решение ведущего могут это изменить. Ведущему стоит бросать эту проверку за игрока и не раскрывать результат. В случае успеха ведущий называет группе её текущий статус. В случае провала он"
+  },
+  "406": {
+   "en": "Stealthily eliminate their enemies.",
+   "ru": "даёт ложные сведения – в идеале, стоит сообщить, что уровень секретности остался таким же, как раньше. Фиаско в этой проверке может понизить секретность – неуклюжие попытки что-то выведать сами по себе привлекают внимание. ИЗМЕН ЕН ИЕ СЕКРЕТНОСТИ Если группа применяет эти правила, она всегда будет иметь уровень секретности от   до  . Уровень секретности определяет их статус, который приносит игромеханические преимущества"
+  },
+  "416": {
+   "en": "Result:",
+   "ru": "и недостатки. Ведущий может сам определить исходную секретность группы в начале"
+  },
+  "422": {
+   "en": "Subtlety Decreases by −1",
+   "ru": "задания, опираясь на то, насколько людииведомстваосведомленыопоявленииперсонажей в округе. Большинство расследований будут начинаться со статуса инкогнито ( - ), если только местные не проявляютподозренийещёдоприбытиягруппы.После этого уровень секретности будет зависеть от действий и решений"
+  },
+  "430": {
+   "en": "Subtlety Decreases by -1",
+   "ru": "персонажей. Как правило, высокая секретность означает, что люди в округе относительно мало знают о личностях персонажей, их поступках, мотивах и том, кому они служат. Это позволяет действовать быстро и тайно, но не позволяет использовать репутацию Святых Ордосов. Низкая секретность"
+  },
+  "438": {
+   "en": "Subtlety Increases by 1",
+   "ru": "привлекает внимание и подозрения, подхлёстывает паранойю и страхи, но вызывает уступчивость и покорность мирных жителей, а врагов подталкивает к жестоким действиям или хитрым манёврам. У секретности есть четыре статуса, каждый со своими игромеханическими и повествовательными последствиями."
+  }
+ }
+}

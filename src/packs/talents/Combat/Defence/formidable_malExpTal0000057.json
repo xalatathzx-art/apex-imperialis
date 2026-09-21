@@ -2,7 +2,7 @@
   "name": "Formidable",
   "type": "talent",
   "_id": "malExpTal0000057",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Halve damage from Blast weapon effect (after armor, round up)</span></p><hr><p><span style=\"font-family: Arial\"><em>Though the human body can never truly adapt to the intense pressure, heat, and vibration shocks of explosions, anyone experienced with demolitions or artillery becomes somewhat accustomed to it. When you take damage from a weapon with the Blast quality, you halve the number of Wounds you receive after accounting for armor, rounding up.</em></span></p>",

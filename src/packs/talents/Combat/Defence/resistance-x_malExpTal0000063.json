@@ -2,7 +2,7 @@
   "name": "Resistance (X)",
   "type": "talent",
   "_id": "malExpTal0000063",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">+1 SL resist selected effects</span></p><hr><p><span style=\"font-family: Arial\"><em>Each time you take this talent, choose one type of resistance. You gain a +1SL Bonus when resisting the effects of this type. The GM may require approval for certain choices, or justifications based on your past. Candidates for resistance effects include but are not limited to Cold, Fear, Heat, Poisons, Psychic Powers, the Vacuum, and Other, where Other is substituted by any other effect not listed here.</em></span></p>",

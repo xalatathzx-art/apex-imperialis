@@ -2,7 +2,7 @@
   "name": "Forensic Expert",
   "type": "talent",
   "_id": "malExpTal0000073",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">+1 SL to any checks related to investigating biological, trace, and impression evidence, as well as examining and comparing other basic information at a crime scene</span></p><hr><p><span style=\"font-family: Arial\"><em>You have been trained in the Forensics science of Criminalistics, and are a candidate to receive further dedicated training. When making a Logic (Investigation) test, you gain a +1SL bonus on it in terms of investigating biological, trace, and impression evidence, as well as examining and comparing other basic information at a crime scene. This talent may be taken multiple times, which grants a +1SL bonus to Logic (Investigation) tests and other skills relating to its field. Each time after the first, choose from one of the following fields: Data Forensics, Forensic Ballistics, Forensic Biologis, Forensic Chymestry, Forensic Engineering, Forensic Psykologis</em></span></p>",

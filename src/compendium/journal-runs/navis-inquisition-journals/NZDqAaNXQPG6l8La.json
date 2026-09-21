@@ -1,0 +1,45 @@
+{
+ "journal": "tFbQS9Pwk46yjwFq",
+ "journalName": "The Holy Orders",
+ "page": "NZDqAaNXQPG6l8La",
+ "pageName": "The Holy Orders",
+ "name": "Святые Ордосы",
+ "runs": {
+  "8": {
+   "en": "The Imperium is beset within and without by threats beyond counting and horrors beyond imagination. That it endures at all is a miracle of steadfast determination and the callous sacrifice of uncountable lives. Some of the Imperium’s foes can be met head-on, on unending battlefields and in the deep void of space. These threats can be cleansed by blessed promethium, cut down by the volleys of a thousand, thousand lasguns, or turned briefly into glittering clouds of expanding gas by a voidship’s macrocannon.",
+   "ru": "Для создания незабываемых историй\nведущий может использовать вторую книгу\nиз набора об Инквизиции – «Руководство\nведущего», полное еретических заговоров,\nприключений и персонажей, которые помогут\nвести игры о расследованиях и шпионаже.\nИгрокам нельзя заглядывать в этот запретный\nтом – он предназначен для глаз ведущего!\nНеисчислимые враги и невообразимые ужасы\nтерзают Империум по всем фронтам. Само его\nвыживание – уже чудо, рождённое"
+  },
+  "12": {
+   "en": "Other foes are stranger and more insidious, far more difficult to root out, but no less of an existential threat to the entire Imperium. The eternal vigil against such threats falls to @UUID[.AyQTdRJpdVm3zqdF]{The Holy Orders} of the Emperor’s Inquisition, as merciless and menacing an organisation as Humanity has ever known.",
+   "ru": "стойкостью,\nцелеустремлённостью и хладнокровными жертвами\nнесметных защитников. Некоторых противников\nИмпериум встречает на бескрайнихполяхбраниили\nв глубинах космоса. Таких врагов можно окропить\nсвященным прометием, испепелить лучами\nмиллиона лазганов или обратить в сияющие\nоблака газа залпами @UUID[.AyQTdRJpdVm3zqdF]{The Holy Orders}"
+  },
+  "16": {
+   "en": "To citizens of the Imperium, Inquisitors appear omniscient, incomprehensibly powerful, and terrifyingly merciless in their duty to protect the Imperium. Countless tales have been told of the exploits of Inquisitors and their loyal acolytes, whispered amongst habworkers during a brief reprieve from their labours or shared between shivering @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Astra Militarum} soldiers huddled in the muddy sanctuary of a frigid foxhole. Even the most outlandish of such stories can only begin to touch upon the truth of what it is to serve the Inquisition.",
+   "ru": "корабельных макробатарей.\nНо есть иные, необычные и коварные противники,\nискоренить которых куда труднее, а исходящая от\nних угроза самому существованию Империума\nнисколько не меньше. Нести вечную стражу и\nбороться с такими врагами – удел Святых Ордосов\nИмператорской Инквизиции – самой грозной и\nбеспощадной службы, что когда-либо знало\nЧеловечество.\nДля рядового обывателя, инквизиторы – это\nвсеведущие, невообразимо могущественные и\nпугающе безжалостные защитники Империума. О\nподвигах инквизиторов и их верных подмастерьев\nходят бесчисленные легенды, которыми обменаются ульевые рабочие в краткие часы @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Astra Militarum}"
+  },
+  "20": {
+   "en": "How could any who had not been there to witness his sacrifices understand why Inquisitor Tranth ordered the death of an entire world based on the testimony of just a single trusted acolyte? How could any who had not sworn secret oaths before an Inquisitor of the @UUID[.AyQTdRJpdVm3zqdF#ordo-malleus]{Ordo Malleus} know what it was to save a million lives, only to forfeit their own soul to the warp in the process?",
+   "ru": "отдыха\nили сидящие в сырых окопах солдаты Астра\nМилитарум. Но даже самые красочные истории\nдают лишь поверхностное представление о том,\nкаково служить Инквизиции.\nКак может человек, что не знает самтверженности инквизитора Транта, понять,\nпочему тот приговорил к смерти целый мир,\nопираясь на слова одного-единственного верного\nслуги-аколита? Как может человек, не\nприносивший тайных @UUID[.AyQTdRJpdVm3zqdF#ordo-malleus]{Ordo Malleus}"
+  },
+  "24": {
+   "en": "Most Imperial citizens cannot begin to comprehend how much they owe to the Inquisition, nor can they guess at the horrors its Inquisitors have committed in their name.",
+   "ru": "обетов Ордо Маллеус, знать,\nчто значит спасти миллион жизней ценой\nсобственной души?\nБольшинство обывателей не представлют того,\nскольким они обязаны"
+  },
+  "28": {
+   "en": "While some might imagine a unified, all-knowing organisation, with nothing and no one beyond its reach, this is far from the truth. The Inquisition is an organisation of independent, often mutually hostile Inquisitors operating alone in the dark. Their alliances are temporary and rife with suspicion, their enmities enduring and often lethal. An Inquisitor has theoretically boundless authority, but its application lies entangled amid the Imperium’s bureaucratic and political hegemonies. Some of Humanity’s finest mortal warriors are among the Holy Orders — but none are infallible.",
+   "ru": "Инквизиции, и того, какие\nужасы она совершала ради них.\nНекоторые могут представить себе единую,\nвсеведущую и всевластную организацию, но это далеко\nне так. Инквизиция – это объединение независимых,\nнередко враждебных друг другу агентов, действующих\nпо одиночке. Их союзы краткосрочны и окружены\nвзаимными подозрениями, их распри тянутся годами и\nнередко заканчиваются смертями. Теоретически\nкаждый инквизитор наделён безграничной властью, но\nимперская бюрократия и политическая обстановка\nставят ей немало препон. Некоторые из лучших"
+  },
+  "32": {
+   "en": "Every day, Inquisitors and their loyal acolytes face corruption that must be purged, though the very effort risks their own damnation. These hand-picked outcasts, oddities, and adepts act as an Inquisitor’s clandestine vanguard in their galaxy-spanning war. Despite their servant’s loyalty, many an Inquisitor has met their end at the hands of their most trusted acolyte — the prime witness of them crossing a line from which could be no return.",
+   "ru": "воинов\nЧеловечества входят в Святые Ордосы, но никого\nиз них нельзя назвать непогрешимым.\nКаждый день инквизиторы и их подмастерьявстречают\nскверну, которую нужно извести, рискуя навлечь на\nсебя проклятие. Группы отборных слуг из числа\nадептов, изгоев общества и просто необычных людей\nслужат инквизитору тайной армией вовсегалактической\nвойне. Несмотря на верность таких подмастерьев,\nмногие инквизиторы встречали"
+  },
+  "36": {
+   "en": "Nevertheless, without the Inquisition and its servants, the Imperium would surely burn.",
+   "ru": "смерть от рук своих\nучеников, увидевших как наставник пересёк черту, иа которой нет"
+  },
+  "46": {
+   "en": "GMs may also be interested in @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7]{The Inquisition GM’s Guide}, a companion book that can aid them in crafting unforgettable stories — full of heretical plots, adventures, and NPCs to help them run investigative and espionage-focused missions. Players lacking sufficient clearance should beware of that sanctioned tome; it is intended for the GM’s eyes only!",
+   "ru": "возврата.\nТем не менее, без Святых Ордосов и их аколитов от\nИмпериума уже остался бы только пепел. @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7]{The Inquisition GM’s Guide}"
+  }
+ }
+}

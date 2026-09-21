@@ -1,0 +1,997 @@
+{
+ "journal": "QbQ7dTzbEVJyBLXJ",
+ "journalName": "Interminable Devotion",
+ "page": "vC2n6yi7x19C9HvR",
+ "pageName": "Part 2: Scrutiny and Suspicion",
+ "name": "Часть 2: «Под подозрением»",
+ "runs": {
+  "2": {
+   "en": "The characters can now explore the decks and interact with the ",
+   "ru": "Теперь персонажи могут обследовать палубы и общаться с различными NPC "
+  },
+  "4": {
+   "en": "Devotion’s",
+   "ru": "«Преданности»"
+  },
+  "6": {
+   "en": " various NPCs, piecing together initial clues and suspicions. There is no set path for the order of the investigation. As clues are discovered, the scenarios provided trigger, each providing the party with an additional clue to help solve the mystery.",
+   "ru": ", собирая первые зацепки и подозрения. Жёсткого порядка расследования нет. По мере обнаружения зацепок запускаются приведённые сцены, и каждая даёт отряду дополнительную зацепку для разгадки тайны."
+  },
+  "10": {
+   "en": "Remember that @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} has rigged the ",
+   "ru": "Помните, что @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре} подмешал в систему подачи воздуха "
+  },
+  "12": {
+   "en": "Devotion’s",
+   "ru": "«Преданности»"
+  },
+  "14": {
+   "en": " air supply with his @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{chemical communion}, and has bugged many of the key locations and NPCs across the Capitol Imperialis to keep an ear on the key members of the crew and observe the effects of his chemical communion from afar, which means he can often stay one step ahead of the characters once they are aboard.",
+   "ru": " своё @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химическое причастие} и расставил подслушивающие устройства во многих ключевых местах и у многих ключевых NPC «Капитолия Империалис», чтобы следить за важными членами экипажа и издали наблюдать действие своего причастия. Поэтому, когда персонажи окажутся на борту, он часто будет на шаг впереди них."
+  },
+  "20": {
+   "en": "The Interminable Devotion",
+   "ru": "«Нескончаемая преданность»"
+  },
+  "24": {
+   "en": "The Capitol Imperialis is arranged into three primary decks from bottom to top.",
+   "ru": "«Капитолий Империалис» разделён на три основные палубы, снизу вверх."
+  },
+  "30": {
+   "en": "A. Enginarium Deck",
+   "ru": "A. Палуба энгинариума"
+  },
+  "32": {
+   "en": " — (bottom) the Hangar and primary engines.",
+   "ru": " — (нижняя) ангар и основные двигатели."
+  },
+  "38": {
+   "en": "B. Habitation Deck",
+   "ru": "B. Жилая палуба"
+  },
+  "40": {
+   "en": " — (middle) the Barracks and other crew services.",
+   "ru": " — (средняя) казармы и прочие службы экипажа."
+  },
+  "46": {
+   "en": "C. Militarum Deck",
+   "ru": "C. Палуба Милитарума"
+  },
+  "48": {
+   "en": " — (top) the Bridge and other administrative cabins.",
+   "ru": " — (верхняя) мостик и прочие административные помещения."
+  },
+  "52": {
+   "en": "Throughout the decks are plentiful gun emplacements and battlements. Not listed but still worth considering is the topmost deck located above the Militarum Deck. This deck consists of the upper battlements, where the macrocannon sits (currently needing extensive repair), a small observation nest, and a landing pad for flyers.",
+   "ru": "По всем палубам расставлено множество орудийных гнёзд и бойниц. В списке нет, но всё же стоит учитывать самую верхнюю палубу над палубой Милитарума. На ней находятся верхние зубчатые стены, где стоит макропушка (сейчас требующая серьёзного ремонта), маленькое наблюдательное гнездо и посадочная площадка для летательных аппаратов."
+  },
+  "56": {
+   "en": "Throughout the Capitol Imperialis, the interior is constantly tight, like the innards of a voidship, with plenty of turns and overhangs that characters can hit their heads on. The Hangar is the largest open space aboard, multi-levelled and accessed externally from the front or the rear of the Imperialis. It can hold multiple tanks, walkers, and even flyers simultaneously.",
+   "ru": "Внутри «Капитолия Империалис» повсюду тесно, как в недрах пустотного корабля: множество поворотов и низких балок, о которые персонажи могут удариться головой. Ангар — самое большое открытое пространство на борту: многоуровневый, с внешними входами спереди и сзади «Империалиса». В нём одновременно помещаются несколько танков, шагоходов и даже летательных аппаратов."
+  },
+  "62": {
+   "en": "A. Enginarium Deck",
+   "ru": "A. Палуба энгинариума"
+  },
+  "68": {
+   "en": "Flickering red lumens dully illuminate a snaking labyrinth of steaming pipes, ribbed cables and coolant tubes, as footsteps of servitors and menials alike echo metallically from the walkways and gantries beyond.",
+   "ru": "Мигающие красные люмены тускло освещают змеящийся лабиринт дымящихся труб, ребристых кабелей и трубок охладителя, а шаги сервиторов и чернорабочих гулко, металлически отдаются с переходов и мостков."
+  },
+  "74": {
+   "en": "Sections of the ",
+   "ru": "Части двигателей "
+  },
+  "76": {
+   "en": "Interminable Devotion’s",
+   "ru": "«Нескончаемой преданности»"
+  },
+  "78": {
+   "en": " engines are spread across this deck, bisected by the massive multi-tiered central hangar. Tightly packed engines and constructs constantly whirr and strain, spitting out steam and crackles of electricity — the servitors at work are programmed to ignore the obvious hazard, but the party should be well advised to keep their hands at their sides while passing through.",
+   "ru": " разбросаны по этой палубе, которую рассекает огромный многоярусный центральный ангар. Тесно установленные двигатели и механизмы непрерывно жужжат и надрываются, извергая пар и треск электрических разрядов; работающие здесь сервиторы запрограммированы не обращать внимания на очевидную опасность, но отряду настоятельно советуют держать руки при себе, проходя мимо."
+  },
+  "82": {
+   "en": "A1. Hangar",
+   "ru": "A1. Ангар"
+  },
+  "94": {
+   "en": "Towering crates and stacks of steel barrels form a series of high walls around lines of metal storage lockers where data slates stand racked in steel housing.",
+   "ru": "Высоченные штабеля ящиков и стальных бочек образуют ряд высоких стен вокруг рядов металлических шкафчиков, где в стальных стойках стоят инфопланшеты."
+  },
+  "100": {
+   "en": "The Hangar is a huge bulk storage area buried in the dimly lit guts of the ",
+   "ru": "Ангар — огромный склад, погребённый в тускло освещённых недрах палубы энгинариума "
+  },
+  "102": {
+   "en": "Devotion’s",
+   "ru": "«Преданности»"
+  },
+  "104": {
+   "en": " Enginarium Deck. Where once the grind of battle tanks and the lockstep of guardsmen echoed in the space, the Hangar is now an area that few frequent and those that must, do so swiftly. The sound of footfalls resounds loudly on the metal decking, and the towering walls of supplies cast thick shadows. The party can find a reliquary of data slates. If they inspect the data, they uncover the following clue. ",
+   "ru": ". Когда-то здесь гремели боевые танки и печатали шаг гвардейцы, а теперь сюда мало кто заходит, а те, кому приходится, стараются не задерживаться. Шаги громко отдаются по металлическому настилу, а высокие стены припасов отбрасывают густые тени. Отряд может найти хранилище инфопланшетов. Изучив данные, персонажи находят следующую зацепку. "
+  },
+  "110": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "114": {
+   "en": "The records state that a locker was accessed just before the Captain’s estimated time of death. Inside is a small bloodstained data coil. Upon loading it into a cogitator, they find a report requesting the termination of the expedition, stating initial reconnaissance data was falsified, implicating the initials ‘V.N.’ along with copies of official documents tallying losses from a battle forty years ago. These include a record of the destruction of a Capitol Imperialis designated the ‘Interminable Devotion’.",
+   "ru": "В записях указано, что один из шкафчиков открывали незадолго до предполагаемого времени смерти капитана. Внутри лежит маленькая окровавленная катушка данных. Загрузив её в когитатор, персонажи находят доклад с требованием прекратить экспедицию: в нём сказано, что первичные разведданные были подделаны, упоминаются инициалы «В. Н.», а также приложены копии официальных документов с подсчётом потерь в битве сорокалетней давности. Среди них — запись об уничтожении «Капитолия Империалис» под названием «Нескончаемая преданность»."
+  },
+  "120": {
+   "en": "If the party examines other data slate entries for anything unusual, they can make a ",
+   "ru": "Если отряд просмотрит другие записи инфопланшетов в поисках чего-нибудь необычного, он может пройти "
+  },
+  "122": {
+   "en": "Routine (+20) Tech (Security)",
+   "ru": "Рутинную (+20) проверку Техники (Безопасность)"
+  },
+  "124": {
+   "en": " Test. Upon success, supply them with the following clue.",
+   "ru": ". При успехе дайте персонажам следующую зацепку."
+  },
+  "130": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "134": {
+   "en": "A particular report details a recent withdrawal. It is notated and logged on the supply manifest as a withdrawal of ink and parchment. However, only the stores of pain meds and bandages have been reduced. Someone has been stealing medical supplies.",
+   "ru": "В одном отчёте описано недавнее списание. В накладной на снабжение оно отмечено и учтено как выдача чернил и пергамента. Однако уменьшились лишь запасы обезболивающих и бинтов. Кто-то ворует медикаменты."
+  },
+  "140": {
+   "en": "If the party inspects or takes items stored within the Hangar, they find it well stocked with stacks of tools and clothing of Common availability (",
+   "ru": "Если отряд осмотрит или заберёт хранящиеся в ангаре предметы, он найдёт хороший запас инструментов и одежды обычной доступности ("
+  },
+  "144": {
+   "en": "Imperium Maledictum",
+   "ru": "Imperium Maledictum"
+  },
+  "148": {
+   "en": "). Should any characters look for weapons or armour, they find none stored within the Hangar, as all such items are firmly locked within the armoury on the Militarum Deck. ",
+   "ru": "). Если кто-то из персонажей будет искать оружие или доспехи, он ничего не найдёт: всё это надёжно заперто в арсенале на палубе Милитарума. "
+  },
+  "152": {
+   "en": "A2. Central Cogitarum ",
+   "ru": "A2. Центральный когитарум "
+  },
+  "158": {
+   "en": "Pale-faced scribes and grotesque servitors hunch over banks of cogitators and auspex scanners underlit by the harsh blue light of their instruments. Curator Varness’s imposing command throne looms over a large holographic display, projecting the wasteland beyond the Devotion’s walls.",
+   "ru": "Бледные писари и гротескные сервиторы горбятся над рядами когитаторов и ауспиков, подсвеченные снизу резким голубым светом приборов. Над большим голографическим дисплеем, показывающим пустошь за стенами «Преданности», возвышается внушительный командный трон куратора Варнесс."
+  },
+  "164": {
+   "en": "Embedded near the ",
+   "ru": "Центральный когитарум, встроенный близ сердца "
+  },
+  "166": {
+   "en": "Devotion’s",
+   "ru": "«Преданности»"
+  },
+  "168": {
+   "en": " core, the Central Cogitarum never sleeps. As a facility wholly dedicated to information storage and exchange, this feretory is where most of the expedition’s data is enshrined. Should a character inspect one of the cogitators, they can open and examine several different archives, as follows.",
+   "ru": ", никогда не спит. Это помещение целиком отведено хранению и обмену информацией — в этой ковчежне хранится большая часть данных экспедиции. Если персонаж осмотрит один из когитаторов, он может открыть и изучить несколько разных архивов, описанных ниже."
+  },
+  "172": {
+   "en": "Personnel Files",
+   "ru": "Личные дела"
+  },
+  "176": {
+   "en": "The party quickly finds that many of these are incomplete, with whole areas missing, and many are marked with a seal bearing the initials ‘V.N.’ Characters can make a ",
+   "ru": "Отряд быстро обнаруживает, что многие из них неполны: целые разделы отсутствуют, а на многих стоит печать с инициалами «В. Н.». Персонажи могут пройти "
+  },
+  "178": {
+   "en": "Routine (+20) Logic (Investigation)",
+   "ru": "Рутинную (+20) проверку Логики (Расследование)"
+  },
+  "180": {
+   "en": " Test to reveal the following clue. ",
+   "ru": ", чтобы получить следующую зацепку. "
+  },
+  "186": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "190": {
+   "en": "You soon uncover inconsistencies that strongly suggest the files surrounding Drukos and his men are forgeries, along with patchy service records that imply a former militarum affiliation.",
+   "ru": "Вскоре вы обнаруживаете нестыковки, которые явно указывают, что дела Друкоса и его людей поддельные, а обрывочные послужные списки намекают на прежнюю службу в Милитаруме."
+  },
+  "196": {
+   "en": "Initial Survey Data",
+   "ru": "Первичные данные разведки"
+  },
+  "200": {
+   "en": "The expedition’s initial survey data is an archive of the original data supplied to justify the mission. It details vast @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi }population numbers, tolerable climate pH levels and theories of surviving infrastructure. Glancing over this data reveals the following clue.",
+   "ru": "Первичные данные разведки — архив исходных сведений, представленных в обоснование экспедиции. В нём описаны огромные популяции @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади}, приемлемая кислотность климата и теории о сохранившейся инфраструктуре. Беглый просмотр этих данных даёт следующую зацепку."
+  },
+  "206": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "210": {
+   "en": "It quickly becomes clear to the party that this information is so blatantly incorrect that it is likely to have been intentionally falsified.",
+   "ru": "Отряду быстро становится ясно, что эти сведения настолько очевидно неверны, что их, скорее всего, подделали намеренно."
+  },
+  "216": {
+   "en": "Pict Records",
+   "ru": "Архив пиктов"
+  },
+  "220": {
+   "en": "Inside the Devotion’s pict store, the party finds a horde of grainy images depicting misty acidic marshland and strange desolate ruins. However, something becomes apparent as they flip through them and gain the following clue.",
+   "ru": "В хранилище пиктов «Преданности» отряд находит кучу зернистых снимков туманных кислотных болот и странных безлюдных руин. Однако, листая их, персонажи кое-что замечают и получают следующую зацепку."
+  },
+  "226": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "230": {
+   "en": "Flipping through the picts you notice images of the same locations captured at different time stamps. However, the landscape seems to change dramatically in some of the picts with a large dark hill appearing out of the mist time and time again, almost as if it were following the Devotion.",
+   "ru": "Листая пикты, вы замечаете снимки одних и тех же мест, сделанные в разное время. Однако на некоторых пиктах пейзаж резко меняется: из тумана снова и снова появляется большой тёмный холм, будто он следует за «Преданностью»."
+  },
+  "236": {
+   "en": "If characters question any of the scribes about the strange information contained within the records, many admit that they had noticed the same irregularities. However, it is not within their remit to question superiors, but they have inquired about the strange pictures. Despite the honesty of this statement, the party gets a sense that they are holding something back. They can make a ",
+   "ru": "Если персонажи расспросят кого-нибудь из писарей о странных сведениях в записях, многие признаются, что замечали те же несоответствия. Однако задавать вопросы начальству не входит в их обязанности, хотя о странных снимках они всё же справлялись. Несмотря на честность этих слов, у отряда складывается ощущение, что писари что-то недоговаривают. Персонажи могут пройти "
+  },
+  "238": {
+   "en": "Routine (+20) Rapport (Inquiry)",
+   "ru": "Рутинную (+20) проверку Взаимопонимания (Сбор сведений)"
+  },
+  "240": {
+   "en": " Test to gain the following clue.",
+   "ru": ", чтобы получить следующую зацепку."
+  },
+  "246": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "250": {
+   "en": "The scribes unwittingly or maliciously reveal that they believe Curator Varness is underqualified for her post and, as a result, has been unable to perform her duties to a routine standard.",
+   "ru": "Писари — невольно или со злым умыслом — выдают, что считают куратора Варнесс недостаточно квалифицированной для её должности, из-за чего она не справляется со своими обязанностями даже на обычном уровне."
+  },
+  "256": {
+   "en": "A3. The Artificery",
+   "ru": "A3. Артифицерия"
+  },
+  "262": {
+   "en": "Large steel tables support several workstations where incomplete servitor arms and other more unrecognisable devices lie strewn. Racked banks of cogitators display complex graphs and binaric readouts while loose chains and thick steel hoists hang from the chamber ceiling in a foliage of rusted metal.",
+   "ru": "На больших стальных столах стоят рабочие места, где разбросаны незаконченные руки сервиторов и прочие, куда менее узнаваемые устройства. Ряды когитаторов показывают сложные графики и двоичные показания, а с потолка зала свисают, словно ржавая листва, свободные цепи и толстые стальные тали."
+  },
+  "268": {
+   "en": "In the guts of the Enginarium Deck lies the personal quarters of @UUID[.u9wPwSqM2FTyo8pg#mathus-49]{Mathus-49}, the ",
+   "ru": "В недрах палубы энгинариума находятся личные покои @UUID[.u9wPwSqM2FTyo8pg#mathus-49]{Мальтуса-49}, единственного техножреца "
+  },
+  "270": {
+   "en": "Devotions",
+   "ru": "«Преданности»"
+  },
+  "272": {
+   "en": "’ sole Tech-Priest. Effectively a shrine to the Omnissiah, the crew generally regards it as something more akin to a repair station, much to Mathus-49’s chagrin. Characters can use this area and the tools available to repair or maintain their equipment, but the Tech-Priest will surely approach them if they linger too long.",
+   "ru": ". По сути это святилище Омниссии, но экипаж, к великому огорчению Мальтуса-49, считает его чем-то вроде ремонтной мастерской. Персонажи могут воспользоваться этим местом и доступными инструментами, чтобы починить или обслужить своё снаряжение, но если они задержатся слишком долго, техножрец наверняка к ним подойдёт."
+  },
+  "276": {
+   "en": "B. Habitation Deck",
+   "ru": "B. Жилая палуба"
+  },
+  "282": {
+   "en": "Cold lumens punctuate the gloomy corridors with harsh white beams as the drunken clamour echoes from off-duty crew. Behind closed doors, the cramped crew cabins are packed with stacked bunks bearing the rust and acidic stains of decades of service.",
+   "ru": "Холодные люмены пронзают сумрачные коридоры резкими белыми лучами, а отовсюду доносится пьяный гомон свободного от вахты экипажа. За закрытыми дверями тесные каюты забиты ярусными койками со следами ржавчины и кислотных пятен за десятилетия службы."
+  },
+  "288": {
+   "en": "The Habitation Deck consists of staff and barrack cabins, mostly cramped cabins stuck between blocks of machinery and battlements, where most of the crew spend most of their time off duty.",
+   "ru": "Жилая палуба состоит из кают персонала и казарм — в основном тесных помещений, втиснутых между блоками механизмов и бойницами, где большая часть экипажа проводит почти всё свободное от вахты время."
+  },
+  "292": {
+   "en": "B1. The Medicae Ward",
+   "ru": "B1. Лазарет"
+  },
+  "298": {
+   "en": "The smell of antiseptic gels and coagulants saturates your nostrils with a stinging tang. Against the left wall, a dozen beds are laid out upon a grimy tile floor set with rusting drains. A brown plastic curtain partially covers a narrow passage through which a surgical table and medical supplies are visible.",
+   "ru": "Запах антисептических гелей и коагулянтов бьёт в ноздри жгучей остротой. У левой стены на грязном кафельном полу с ржавыми стоками стоит дюжина коек. Коричневая пластиковая занавеска частично закрывает узкий проход, за которым видны хирургический стол и медикаменты."
+  },
+  "310": {
+   "en": "If this is the party’s first time entering the ward, they find @UUID[.u9wPwSqM2FTyo8pg#medicae-roderick]{Medicae Roderick} and his attendants finishing a bloody amputation. If this is their first time meeting him, the medicae will introduce himself. Ushering them into his surgical theatre, Captain Veridian’s corpse is laid out under a sheet. If the party asks about the autopsy, Medicare Roderick truthfully corroborates his adept’s findings — it appears the Captain died from his crushed throat, inflicted by some mechanical tool. However, he has only given the body a cursory once-over himself, with a complete autopsy to be performed in time. He also informs the party that the Captain’s effects are in a box on the shelf. Roderick then excuses himself to attend to his other patients.",
+   "ru": "Если отряд входит в лазарет впервые, персонажи застают @UUID[.u9wPwSqM2FTyo8pg#medicae-roderick]{медикуса Родерика} и его помощников за окончанием кровавой ампутации. Если персонажи встречают его впервые, медикус представляется. Он проводит их в операционную, где под простынёй лежит труп капитана Веридиана. Если отряд спросит о вскрытии, медикус Родерик честно подтверждает выводы своего адепта: похоже, капитан умер от раздавленного горла, повреждённого каким-то механическим инструментом. Однако сам он лишь бегло осмотрел тело, а полное вскрытие проведёт позже. Он также сообщает, что вещи капитана лежат в коробке на полке. Затем Родерик извиняется и уходит к другим пациентам."
+  },
+  "314": {
+   "en": "Should the party wish to examine the Captain’s corpse, they may attempt a ",
+   "ru": "Если отряд захочет осмотреть труп капитана, он может пройти "
+  },
+  "316": {
+   "en": "Routine (+20) Medicae (Human)",
+   "ru": "Рутинную (+20) проверку Медики (Люди)"
+  },
+  "318": {
+   "en": " Test. If they succeed, they are supplied with the following additional clues. ",
+   "ru": ". При успехе персонажи получают следующие дополнительные зацепки. "
+  },
+  "324": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "328": {
+   "en": "Upon examining the body, the party discovers shredded pieces of flesh beneath the Captain’s fingernails, whether his own or someone else’s, it cannot be deduced.",
+   "ru": "Осматривая тело, отряд обнаруживает под ногтями капитана клочья плоти — его собственной или чужой, установить нельзя."
+  },
+  "336": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "340": {
+   "en": "Furthermore, you discover what appears to be a small bruise on the Captain's arm, indicative of an injection site.",
+   "ru": "Кроме того, вы обнаруживаете на руке капитана небольшой синяк, похожий на след укола."
+  },
+  "346": {
+   "en": "If Roderick is informed of these details, he scolds his adepts and servitors for their foolishness and compliments the characters for their diligence. ",
+   "ru": "Если сообщить Родерику об этих подробностях, он отчитывает своих адептов и сервиторов за глупость и хвалит персонажей за усердие. "
+  },
+  "350": {
+   "en": "Should the party wish to examine the Captain’s effects, they find a heavily stained yet unremarkable @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Adeptus Administratum} uniform, a pair of boots and a silver ring.",
+   "ru": "Если отряд захочет осмотреть вещи капитана, персонажи найдут сильно запачканную, но ничем не примечательную форму @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Адептус Администратум}, пару сапог и серебряное кольцо."
+  },
+  "354": {
+   "en": "If the characters want to search the rest of the Medicae Ward for clues, they may attempt a ",
+   "ru": "Если персонажи захотят обыскать остальной лазарет в поисках зацепок, они могут пройти "
+  },
+  "356": {
+   "en": "Challenging (+0) Awareness (Sight)",
+   "ru": "Среднюю (+0) проверку Бдительности (Зрение)"
+  },
+  "358": {
+   "en": " Test. Upon success, supply them with the following clue. ",
+   "ru": ". При успехе дайте им следующую зацепку. "
+  },
+  "364": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "368": {
+   "en": "Looking through the various files and cabinets, you find a book that doesn’t fit. This tome is bound in the finest polished leather, its pages gilded with glittering gold edges. Inside, you find flowing embellished script forming a strange dialect of High Gothic. If a character has the Linguistics (High Gothic) Specialisation, they discover it is a historical text detailing the family tree of House Nethecaré. If questioned, Medicae Roderick states that he has a great interest in the histories of Volls' noble families, particularly house Nethecaré, as he does have a distant familial connection to the house.",
+   "ru": "Просматривая папки и шкафы, вы находите книгу, которая здесь явно не к месту. Том переплетён в тончайшую полированную кожу, обрез страниц сверкает золотом. Внутри — плавный витиеватый почерк на странном диалекте Высокого готика. Персонаж со специализацией «Языки (Высокий готический)» понимает, что это исторический труд с родословным древом дома Нетекаре. Если медикуса Родерика спросить о ней, он ответит, что очень интересуется историей благородных семей Волла, особенно дома Нетекаре, поскольку у него есть дальнее родство с этим домом."
+  },
+  "374": {
+   "en": "Should the party scrutinise @UUID[.u9wPwSqM2FTyo8pg#medicae-roderick]{Medicae Roderick} further, a character can attempt a ",
+   "ru": "Если отряд присмотрится к @UUID[.u9wPwSqM2FTyo8pg#medicae-roderick]{медикусу Родерику} внимательнее, персонаж может пройти "
+  },
+  "376": {
+   "en": "Challenging (+0) Intuition (People)",
+   "ru": "Среднюю (+0) проверку Чутья (Люди)"
+  },
+  "378": {
+   "en": " Test. On a success, they suspect that he is withholding something. ",
+   "ru": ". При успехе он подозревает, что медикус что-то скрывает. "
+  },
+  "388": {
+   "en": "B2. The Mess",
+   "ru": "B2. Столовая"
+  },
+  "394": {
+   "en": "‘The bitter odour of stale grog hangs heavy in the air, and though the mugs are rusted and the lumens flicker, it’s the only place on the Devotion",
+   "ru": "«В воздухе висит горький запах прокисшего грога, и хотя кружки ржавые, а люмены мигают, это единственное место на «Преданности»"
+  },
+  "398": {
+   "en": "with any sense of levity. A scattering of stools surrounds oblong tables leading up to a corroded counter that stretches the length of the far wall.’",
+   "ru": ", где есть хоть какое-то веселье. Вокруг продолговатых столов расставлены табуреты, а у дальней стены во всю её длину тянется изъеденная коррозией стойка»."
+  },
+  "404": {
+   "en": "The mess hall, colloquially dubbed ‘the Mess’ by many of the crew, has become more akin to a drinkery than its intended purpose of doling out calculated portions of nutrient-middling paste. This is due to the under-the-table sale of rotgut booze fermented in a crew cabin lavatory by @UUID[.u9wPwSqM2FTyo8pg#menial-boris]{Boris} and a few of his close associates. As a result, it has become a popular spot and one of the few places where personnel mix. This can take the shape of exchanging tall tales or playing cards. The party may encounter the following short interactions while in the Mess.",
+   "ru": "Обеденный зал, который экипаж попросту зовёт «столовой», стал больше походить на распивочную, чем на место, где отмеряют порции питательной пасты сомнительного качества. Всё дело в подпольной торговле сивухой, которую @UUID[.u9wPwSqM2FTyo8pg#menial-boris]{Борис} и несколько его близких приятелей гонят в санузле одной из кают. В результате это место стало популярным — одним из немногих, где смешивается персонал: здесь травят байки или играют в карты. В столовой отряд может столкнуться со следующими короткими сценами."
+  },
+  "408": {
+   "en": "Tall Tales",
+   "ru": "Байки"
+  },
+  "412": {
+   "en": "The party notices a group of menials sitting at a corner table in the Mess. Wide eyes darting in their pale faces. Should the party approach them, they cease their discussion, only resuming when they have left. If the party succeeds on a ",
+   "ru": "Отряд замечает группу чернорабочих за угловым столом. На бледных лицах бегают широко раскрытые глаза. Если отряд подойдёт к ним, они замолкают и возобновляют разговор, лишь когда персонажи уйдут. Если отряд пройдёт "
+  },
+  "414": {
+   "en": "Challenging (+0) Stealth (Move Silently)",
+   "ru": "Среднюю (+0) проверку Скрытности (Бесшумное движение)"
+  },
+  "416": {
+   "en": " Test to approach the table without being noticed or a ",
+   "ru": ", чтобы незаметно подобраться к столу, или "
+  },
+  "418": {
+   "en": "Routine (+20) Awareness (Sound)",
+   "ru": "Рутинную (+20) проверку Бдительности (Слух)"
+  },
+  "420": {
+   "en": " Test, they hear the following clue.",
+   "ru": ", персонажи слышат следующую зацепку."
+  },
+  "426": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "430": {
+   "en": "‘It just appeared out of nowhere, I was coming back from the Hangar and the damned lumens went out, then it got ice cold and I turned around and there he was. An old fella, pale as death, but all wrong, with pincers and mandibles like an acynadi, he tried to say something, but I ran for it. When the lights came back, I turned around and he was gone.’",
+   "ru": "«Он просто появился из ниоткуда. Я шёл из ангара, и тут проклятые люмены погасли, стало ледяным-холодно, я обернулся — а там он. Старикан, бледный как смерть, но весь неправильный, с клешнями и жвалами, как у ацинади. Он пытался что-то сказать, но я дал дёру. Когда свет вернулся, я обернулся — а его уже нет»."
+  },
+  "436": {
+   "en": "Dagger Counts",
+   "ru": "Счёт кинжалов"
+  },
+  "440": {
+   "en": "Dagger Counts is a deception-based card game that has become popular amongst the crew. Should any characters wish to play, bets of credits or objects of value are accepted. Once this is agreed, the game can begin. Each round, players must choose an appropriate Skill and make a Test, providing a plausible narrative reason for the Skill they chose, at your discretion. For example, a character may use ",
+   "ru": "«Счёт кинжалов» — карточная игра на обмане, ставшая популярной среди экипажа. Если кто-то из персонажей захочет сыграть, ставки принимаются кредитами или ценными вещами. Как только ставки сделаны, игра начинается. В каждом раунде игроки выбирают подходящий навык и проходят проверку, на ваше усмотрение приводя правдоподобное повествовательное обоснование выбора. Например, персонаж может использовать "
+  },
+  "442": {
+   "en": "Dexterity (Sleight of Hand)",
+   "ru": "Ловкость рук (Фокусы)"
+  },
+  "444": {
+   "en": " to try and deftly swipe an extra card or ",
+   "ru": ", чтобы ловко стянуть лишнюю карту, или "
+  },
+  "446": {
+   "en": "Intuition (People)",
+   "ru": "Чутьё (Люди)"
+  },
+  "448": {
+   "en": " to try and read other players’ bluffs, or ",
+   "ru": ", чтобы раскусить блеф других игроков, или "
+  },
+  "450": {
+   "en": "Rapport (Deception)",
+   "ru": "Взаимопонимание (Обман)"
+  },
+  "452": {
+   "en": " to bluff themselves. Characters must stick to using their chosen Skill throughout the game.",
+   "ru": ", чтобы блефовать самому. Персонажи должны использовать выбранный навык на протяжении всей игры."
+  },
+  "456": {
+   "en": "Difficulty increases each round of play, and the number of rounds played equals the number of characters plus the number of NPCs involved. Typically, use three NPCs plus any number of characters who wish to play. In the first round, Tests are made at ",
+   "ru": "Сложность растёт с каждым раундом, а число раундов равно числу персонажей плюс числу участвующих NPC. Обычно берите трёх NPC плюс сколько угодно персонажей, желающих сыграть. В первом раунде проверки проходят со сложностью "
+  },
+  "458": {
+   "en": "Routine (+20)",
+   "ru": "«Рутинная (+20)»"
+  },
+  "460": {
+   "en": " Difficulty, then ",
+   "ru": ", затем "
+  },
+  "462": {
+   "en": "Challenging (+0)",
+   "ru": "«Средняя (+0)»"
+  },
+  "464": {
+   "en": ", and then ",
+   "ru": ", затем "
+  },
+  "466": {
+   "en": "Hard (−20)",
+   "ru": "«Сложная (−20)»"
+  },
+  "468": {
+   "en": ", and so on. For the NPCs, roll for them as a group and assume they are using a ",
+   "ru": " и так далее. За NPC бросайте как за группу и считайте, что они играют с навыком "
+  },
+  "470": {
+   "en": "Logic (Evaluation)",
+   "ru": "Логика (Оценка)"
+  },
+  "472": {
+   "en": " Skill of 30 to play.",
+   "ru": ", равным 30."
+  },
+  "476": {
+   "en": "At the end of a round, eliminate the character or one of the NPCs who rolled the least SL. Once all rounds have been completed, the winner remains and claims the prize pot (decide for yourself among the NPCs if there is a tie).",
+   "ru": "В конце раунда выбывает персонаж или один из NPC, набравший меньше всего КУ. Когда все раунды сыграны, оставшийся побеждает и забирает банк (при ничьей среди NPC решите сами)."
+  },
+  "480": {
+   "en": "@UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Old Hinji} is undefeated at Dagger Counts, and many have learned the hard way not to play him. This is due to his latent psychic talent giving him an edge, without him even knowing it. You may include this as a topic of discussion or include Old Hinji in the game — if you do, simply fabricate his rolls behind the GM screen to always succeed.",
+   "ru": "@UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Старый Хинджи} в «Счёт кинжалов» непобедим, и многие на горьком опыте усвоили, что с ним лучше не играть. Всё дело в его скрытом психическом даре, который даёт ему преимущество, хотя сам он об этом и не подозревает. Можете сделать это темой разговоров или включить Старого Хинджи в игру — в таком случае просто подтасовывайте его броски за ширмой ведущего, чтобы он всегда преуспевал."
+  },
+  "484": {
+   "en": "The following clue is revealed at the end of a game of Dagger Counts, in which characters took part, observed, or if they are just passing through the Mess.",
+   "ru": "Следующая зацепка открывается в конце партии в «Счёт кинжалов», в которой персонажи участвовали или за которой наблюдали, — или просто когда они проходят через столовую."
+  },
+  "490": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "494": {
+   "en": "As the game of Dagger Counts ends, the bickering mingles with the general cacophony of the Mess. Then Old Hinji collapses, convulsing violently, silencing the din. As he comes around, a sudden nosebleed splashes his overalls, appearing as if he had a grisly gut wound. He looks at the cards strewn around the floor and seems somewhere far away before he faints. ‘Ruins… it’ll all end in ruins’. ",
+   "ru": "Партия в «Счёт кинжалов» заканчивается, и перебранка смешивается с общим гвалтом столовой. Вдруг Старый Хинджи падает в сильных судорогах, и шум стихает. Когда он приходит в себя, из носа у него внезапно хлещет кровь, заливая комбинезон так, будто у него страшная рана в животе. Он смотрит на разбросанные по полу карты, словно находится где-то далеко, а затем теряет сознание. «Руины… всё закончится руинами». "
+  },
+  "500": {
+   "en": "If the characters do not bring Old Hinji to the Medicae Ward (B1), some of @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Drukos}’ goons in the Mess pick him up and drag him there for treatment.",
+   "ru": "Если персонажи не отнесут Старого Хинджи в лазарет (B1), его подхватывают и тащат туда на лечение несколько головорезов @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Друкоса}, сидящих в столовой."
+  },
+  "504": {
+   "en": "B3. The Agri-Chamber",
+   "ru": "B3. Агрокамера"
+  },
+  "510": {
+   "en": "‘Lit by the dim glow of a single cogitator screen and the sharp crimson glimmer of servitor eye-lenses, fungal spores germinate in banks of slender armaglass chambers. Nearby, grim rendering vats sit idle as if ready for their next meal.’",
+   "ru": "«В тусклом свете единственного экрана когитатора и в резких багровых отблесках глазных линз сервиторов в рядах узких бронестеклянных камер прорастают грибные споры. Неподалёку без дела стоят мрачные утилизационные чаны, словно в ожидании следующей трапезы»."
+  },
+  "516": {
+   "en": "Despite occupying a meagre portion of the Habitation Deck, the Agri-Chamber squats all too close to the Mess, yet despite this close proximity, it is a shunned place. The operation produces a daily ration of nutrient-rich paste for each crew member to supplement the expedition’s standard supplies and aid in preventing diseases caused by dietary insufficiencies. Grimly, this is also where the bodies of any deceased crew are brought, with each body providing ample nutrition for many generations of fungal spores. The only regular visitors are the servitors who operate it. ",
+   "ru": "Агрокамера занимает скромную часть жилой палубы и соседствует со столовой, но, несмотря на такую близость, это место избегают. Здесь производят ежедневную порцию питательной пасты для каждого члена экипажа, дополняющую стандартные припасы экспедиции и помогающую предотвращать болезни от недостатка питания. Мрачная подробность: сюда же приносят тела умерших членов экипажа, и каждое тело даёт обильное питание многим поколениям грибных спор. Единственные постоянные посетители — обслуживающие камеру сервиторы. "
+  },
+  "520": {
+   "en": "B4. Crew Quarters",
+   "ru": "B4. Каюты экипажа"
+  },
+  "526": {
+   "en": "‘Parallel corridors of corrosion and peeling paint bear heavy sliding doors that give way to the quarters within. Dozens of bunks are stacked end over end beyond which metal floored ablutions chambers waft their damp odour.’",
+   "ru": "«Параллельные коридоры, изъеденные коррозией и облупившейся краской, ведут к тяжёлым раздвижным дверям кают. Внутри десятки коек стоят ярусами одна над другой, а за ними из санузлов с металлическим полом тянет сыростью»."
+  },
+  "532": {
+   "en": "Forming the vast majority of the Habitation Deck, the crew quarters are where the vast majority of all personnel aboard the ",
+   "ru": "Каюты экипажа занимают большую часть жилой палубы — здесь положенный отдых проводит подавляющее большинство персонала "
+  },
+  "534": {
+   "en": "Devotion",
+   "ru": "«Преданности»"
+  },
+  "536": {
+   "en": " take their allotted rest. While no precise edicts govern crew distribution amongst these chambers, particular cliques have staked their claim on singular areas. This has resulted in the scribes and menials clustering and shunning those they perceive as outsiders. Rumour has it that @UUID[.u9wPwSqM2FTyo8pg#menial-boris]{Boris }and a few of his compatriots are using one of the ablution chambers to ferment rot-gut booze. ",
+   "ru": ". Точных правил о распределении экипажа по каютам нет, но отдельные компании застолбили за собой определённые помещения. В результате писари и чернорабочие держатся своими кучками и сторонятся тех, кого считают чужаками. Говорят, что @UUID[.u9wPwSqM2FTyo8pg#menial-boris]{Борис} и несколько его товарищей гонят сивуху в одном из санузлов. "
+  },
+  "546": {
+   "en": "C. Militarum Deck",
+   "ru": "C. Палуба Милитарума"
+  },
+  "552": {
+   "en": "‘Within the mouldering halls of the Militarum Deck the epitaph of the Devotion’s",
+   "ru": "«В плесневеющих залах палубы Милитарума у всех на виду гниёт эпитафия былой славе «Преданности»"
+  },
+  "556": {
+   "en": "past glories rot for all to see. The cold metal faces of martyred commanders and imperial saints stare out from the walls in low relief. Their blank eyes spilling tears of orange and teal oxide, drowning names and deeds in a sorrow of corrosion.’",
+   "ru": ". Со стен смотрят холодные металлические барельефы с лицами павших командиров и имперских святых. Из их пустых глаз текут слёзы оранжевой и бирюзовой окиси, топя имена и деяния в скорби коррозии»."
+  },
+  "562": {
+   "en": "The Militarum Deck contains all the command and administration cabins for the ",
+   "ru": "На палубе Милитарума находятся все командные и административные помещения "
+  },
+  "564": {
+   "en": "Interminable Devotion",
+   "ru": "«Нескончаемой преданности»"
+  },
+  "566": {
+   "en": ", and access to the top deck of the Capitol Imperialis (upper battlements, macrocannon, observation nest, and landing pad). ",
+   "ru": ", а также выход на верхнюю палубу «Капитолия Империалис» (верхние зубчатые стены, макропушка, наблюдательное гнездо и посадочная площадка). "
+  },
+  "570": {
+   "en": "C1. The Hall of Remembrance",
+   "ru": "C1. Зал памяти"
+  },
+  "576": {
+   "en": "‘The coldness of the Militarum Deck plummets to new lows as freezing air fogs all breath. The chamber walls are bedecked with decrepit tapestries commemorating the Devotion’s",
+   "ru": "«Холод палубы Милитарума здесь становится ещё сильнее: ледяной воздух превращает дыхание в пар. Стены зала увешаны ветхими гобеленами в память о былых битвах «Преданности»"
+  },
+  "580": {
+   "en": "past battles. Six iron pillars run floor to ceiling in mimicry of ancient Terran monuments, while a huge central tapestry dominates the space, depicting lines of heroic guardsmen laying a horde of traitors low.’",
+   "ru": ". Шесть железных колонн от пола до потолка подражают древним терранским монументам, а в центре господствует огромный гобелен, изображающий ряды героических гвардейцев, повергающих орду предателей»."
+  },
+  "586": {
+   "en": "The Hall of Remembrance lingers near the head of the Militarum Deck, and many avoid passing the chamber whenever they can. Though few dare speak of it, weeping is sometimes heard from the hall, often accompanied by the distant clash of blades and screaming.",
+   "ru": "Зал памяти находится в передней части палубы Милитарума, и многие по возможности обходят его стороной. Хотя мало кто решается об этом говорить, из зала порой доносится плач, часто сопровождаемый далёким звоном клинков и криками."
+  },
+  "590": {
+   "en": "This strange phenomenon is centred around the chamber’s largest and oldest tapestry, depicting the ",
+   "ru": "Средоточие этого странного явления — самый большой и старый гобелен в зале, изображающий высадку "
+  },
+  "592": {
+   "en": "Devotion’s",
+   "ru": "«Преданности»"
+  },
+  "594": {
+   "en": " landfall on Voll and subsequent battles against the planet’s larger @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi}, which rival the ",
+   "ru": " на Волл и последующие битвы с крупнейшими @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади} планеты, не уступающими "
+  },
+  "596": {
+   "en": "Devotion",
+   "ru": "«Преданности»"
+  },
+  "598": {
+   "en": " in size and stature. The truth comes from a mix of the crew’s paranoia under the effect of the @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{chemical communion} and how it stokes @UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Old Hinji’}s latent powers due to his long-term exposure to the chemical. While Old Hinji is present in the hall, some of these aspects take an audible and visible form, giving off a fearful and uncomfortable aura.",
+   "ru": " ни размером, ни статью. Правда же такова: это смесь паранойи экипажа под действием @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химического причастия} и того, как оно разжигает скрытые силы @UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Старого Хинджи}, долго подвергавшегося воздействию химиката. Когда Старый Хинджи находится в зале, некоторые из этих явлений становятся слышимыми и видимыми, распространяя пугающую, гнетущую ауру."
+  },
+  "602": {
+   "en": "The characters can discover the following clue if Old Hinji is not accompanying them.",
+   "ru": "Если Старый Хинджи не сопровождает персонажей, они могут обнаружить следующую зацепку."
+  },
+  "608": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "612": {
+   "en": "Upon entering the hall, the party gets the unmistakable feeling they are being watched. Soon, they notice a figure out of place in the large central tapestry. Amongst the Astra Militarum forces, an elderly man stands, his eyes sharp and terrible, his face a horrific amalgamation of Human and acynadi features.",
+   "ru": "Войдя в зал, отряд безошибочно чувствует, что за ним наблюдают. Вскоре персонажи замечают на большом центральном гобелене фигуру, которой там не место. Среди сил Астра Милитарум стоит старик: взгляд острый и страшный, лицо — жуткая смесь человеческих черт и черт ацинади."
+  },
+  "618": {
+   "en": "The characters can make a ",
+   "ru": "Персонажи могут пройти "
+  },
+  "620": {
+   "en": "Routine (+20) Awareness (Sight)",
+   "ru": "Рутинную (+20) проверку Бдительности (Зрение)"
+  },
+  "622": {
+   "en": " Test to inspect the other tapestries. If successful, provide them with the following clue.",
+   "ru": ", чтобы осмотреть другие гобелены. При успехе дайте им следующую зацепку."
+  },
+  "628": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "632": {
+   "en": "As the characters look from tapestry to tapestry, they see the same figure out of place lurking somewhere in the background. Always staring, always half-human, half something else. In addition, they realise this figure wasn’t in the other tapestries a moment ago.",
+   "ru": "Переходя от гобелена к гобелену, персонажи видят ту же неуместную фигуру, притаившуюся где-то на заднем плане. Она всегда смотрит на них — наполовину человек, наполовину нечто иное. Кроме того, они понимают, что мгновение назад на других гобеленах этой фигуры не было."
+  },
+  "638": {
+   "en": "C2. Curator Varness’s Quarters",
+   "ru": "C2. Покои куратора Варнесс"
+  },
+  "650": {
+   "en": "‘Bright Lumens reflect dully off a stained metal desk upon which sits a cogitator, an auto quill, a scattered stack of parchments and a glass tumbler of amasec. Narrow armaglass windows stand in a neat row to its rear, and at the far end of the chamber a bunk lies in disarray near a storage locker.’",
+   "ru": "«Яркие люмены тускло отражаются от заляпанного металлического стола, на котором стоят когитатор, автоперо, разбросанная стопка пергаментов и стеклянный стакан с амасеком. За ним ровным рядом тянутся узкие бронестеклянные окна, а в дальнем конце помещения у шкафчика стоит разворошённая койка»."
+  },
+  "656": {
+   "en": "Crouched near the pinnacle of the Interminable Devotion are @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{Curator Varness’}s quarters. Unknown to the rest of the crew, a small diary is hidden within a secret compartment of her desk in which she confides her worries and fears over her inadequacy for this post. Linger too long, and the Curator may catch them rifling through her belongings and have to explain themselves.",
+   "ru": "Почти на самой вершине «Нескончаемой преданности» расположены покои @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{куратора Варнесс}. Остальной экипаж не знает, что в потайном отделении её стола спрятан маленький дневник, которому она доверяет свои тревоги и страхи о том, что не годится для этой должности. Если персонажи задержатся слишком долго, куратор может застать их роющимися в её вещах, и им придётся объясняться."
+  },
+  "660": {
+   "en": "C3. Captain Viridian’s Quarters",
+   "ru": "C3. Покои капитана Веридиана"
+  },
+  "666": {
+   "en": "‘Lumens flicker and then grow bright, catching harshly on the many fractured marble tiles and glistening broken glass that floors the small chamber. A desk of dark steel lies upended in the centre of the room while papers lie scattered on the floor around a smashed cogitator. Narrow gothic windows flank one side, overseeing a broken bunk and torn mattress’.",
+   "ru": "«Люмены мигают и разгораются, резко отражаясь от множества треснувших мраморных плиток и блестящего битого стекла на полу маленькой каюты. Посреди комнаты перевёрнут стол из тёмной стали, вокруг разбитого когитатора по полу разбросаны бумаги. С одной стороны — узкие готические окна, выходящие на сломанную койку и разорванный матрас»."
+  },
+  "672": {
+   "en": "The party gains the following clue if a character repairs the cogitator with a ",
+   "ru": "Отряд получает следующую зацепку, если персонаж починит когитатор, пройдя "
+  },
+  "674": {
+   "en": "Challenging (+0) Tech (Engineering)",
+   "ru": "Среднюю (+0) проверку Техники (Инженерное дело)"
+  },
+  "676": {
+   "en": " Test or brings it to @UUID[.u9wPwSqM2FTyo8pg#mathus-49]{Mathus-49}. ",
+   "ru": ", или отнесёт его @UUID[.u9wPwSqM2FTyo8pg#mathus-49]{Мальтусу-49}. "
+  },
+  "682": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "686": {
+   "en": "Much of the data has been corrupted, except for a haunting and distorted vox recording, featuring a recent entry from the captain’s log.",
+   "ru": "Большая часть данных повреждена, за исключением жуткой искажённой вокс-записи — недавней записи из капитанского журнала."
+  },
+  "694": {
+   "en": "‘I can't… I can't take it anymore… the things, I see them… I hear them and none of the crew can be trusted… There's something going on, someone or something is doing this to all of us… it's in our heads… or is it? I'm not sure which is worse…’ A sudden shout of fury echoes savagely through the recording followed by the sounds of someone breaking and smashing dozens of objects… a few moments of panting follow before the Captain’s voice once more can be heard… ‘It’s up to me… it's all up to me…’",
+   "ru": "«Я не могу… больше не могу… эти твари, я вижу их… я слышу их, и никому из экипажа нельзя доверять… Что-то происходит, кто-то или что-то делает это со всеми нами… это у нас в головах… или нет? Не знаю, что хуже…» На записи внезапно раздаётся свирепый яростный крик, а за ним — звуки того, как кто-то ломает и крушит десятки вещей… несколько мгновений слышно тяжёлое дыхание, а затем снова раздаётся голос капитана… «Всё зависит от меня… всё зависит только от меня…»"
+  },
+  "700": {
+   "en": "C4. The Bridge ",
+   "ru": "C4. Мостик "
+  },
+  "706": {
+   "en": "‘An empty command throne dominates the central space of the large gothic chamber, while rows of deck menials and servitors tap commands onto blinking cogitator screens. Huge armaglass windows reveal an expanse of acidic sludge split harshly by lashing rain in the great glow of the Devotions' powerful lumens before trailing off into an impenetrable dark.’",
+   "ru": "«Центральное пространство большого готического зала занимает пустой командный трон, а ряды палубных чернорабочих и сервиторов вводят команды на мигающих экранах когитаторов. Огромные бронестеклянные окна открывают вид на простор кислотной жижи, резко рассечённый хлещущим дождём в ярком сиянии мощных люменов «Преданности», за которым всё тонет в непроглядной тьме»."
+  },
+  "712": {
+   "en": "The ",
+   "ru": "Тесный мостик "
+  },
+  "714": {
+   "en": "Devotions",
+   "ru": "«Преданности»"
+  },
+  "716": {
+   "en": "' cramped Bridge looms at the front of the Militarum Deck, sitting just below the mighty craft’s formidable battlements. Formerly the foremost seat of power aboard, Captain Veridian gave all orders on navigation and steering, but now the Imperialis’s crew follows commands supplied by Curator Varness. If the characters interview any bridge crew members, they’ll easily sense their paranoia and lack of cohesion among the team; none of them trust each other. If pressed further, succeeding a ",
+   "ru": " нависает в передней части палубы Милитарума, чуть ниже грозных зубчатых стен могучей машины. Прежде это было главное место власти на борту: капитан Веридиан отдавал отсюда все приказы о навигации и управлении, но теперь экипаж «Империалиса» подчиняется распоряжениям куратора Варнесс. Если персонажи опросят кого-нибудь из экипажа мостика, они легко почувствуют паранойю и разобщённость в команде: никто никому не доверяет. Если надавить сильнее и пройти "
+  },
+  "718": {
+   "en": "Difficult (−10) Rapport (Inquiry",
+   "ru": "Трудную (−10) проверку Взаимопонимания (Сбор сведений"
+  },
+  "720": {
+   "en": ") Test, the characters learn that most of the bridge crew suspected Captain Viridian of coming apart at the seams, but out here in the wastes, they had no one to turn to.",
+   "ru": "), персонажи узнают, что большинство экипажа мостика подозревали, что капитан Веридиан теряет рассудок, но здесь, в пустошах, им не к кому было обратиться."
+  },
+  "724": {
+   "en": "Time for Communion",
+   "ru": "Время причастия"
+  },
+  "728": {
+   "en": "Shortly after the party discovers their first clues, they are overcome with a specific vision from being exposed to @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré}’s formula (@UUID[.3BlX4i31o2Wez7vh#chemical-communion]{Chemical Communion}). Get the party to make a ",
+   "ru": "Вскоре после того, как отряд найдёт первые зацепки, персонажей охватывает особое видение из-за воздействия формулы @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерика Нетекаре} (@UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химическое причастие}). Попросите отряд пройти "
+  },
+  "730": {
+   "en": "Challenging (+0) Fortitude",
+   "ru": "Среднюю (+0) проверку Стойкости"
+  },
+  "732": {
+   "en": " Test, and choose the characters with the least SL to experience the following vision.",
+   "ru": " и выберите персонажей с наименьшим числом КУ — им является следующее видение."
+  },
+  "738": {
+   "en": "‘Passing between decks, you turn onto a lonesome corridor devoid of any crew. Silence reigns in the tight metal space, save for the rhythmic clank of your boot-steps on the rust-patterned floor. Soon, a dreadful dizziness comes over you, the passage groans as if under stress, and its far end seems to distort, almost twisting in place with each step forward. Then you hear it, a dreadful chittering, keening sharp in your ears like coffin nails on slate. It resounds from just inside a nearby chamber.’",
+   "ru": "«Переходя между палубами, вы сворачиваете в пустынный коридор, где нет ни души. В тесном металлическом пространстве царит тишина, нарушаемая лишь мерным лязгом ваших шагов по узорчатому от ржавчины полу. Вскоре вас охватывает жуткое головокружение, коридор стонет, словно под нагрузкой, а его дальний конец будто искажается, почти скручиваясь на месте с каждым вашим шагом. Затем вы слышите это — жуткий стрекот, пронзительно режущий слух, как гвозди по сланцу. Он доносится из соседнего помещения»."
+  },
+  "744": {
+   "en": "Unaffected characters just see the characters stop in place, mumbling gibberish as their hallucination continues.",
+   "ru": "Незатронутые персонажи видят лишь, как их товарищи замирают на месте и бормочут бессмыслицу, пока длится галлюцинация."
+  },
+  "750": {
+   "en": "‘Inside, you see a chamber dimly lit by a single flickering lumen. The floor and walls are spattered in clumps of thick, stinking mud, while sharp, ragged grasses sprout chaotically. Metal and mire meld together in a discordant landscape never meant to be, while at its centre, movement catches your eye. Twisted figures gather around strange ruins at the foot of a large hill, while at their centre a boy kneels in the mud, weeping before a man concealed by the shadows of an alcove.’",
+   "ru": "«Внутри вы видите помещение, тускло освещённое единственным мигающим люменом. Пол и стены забрызганы комьями густой вонючей грязи, из которой беспорядочно прорастает острая, рваная трава. Металл и трясина сплавляются в нестройный пейзаж, которому не суждено было существовать, а в его центре ваш взгляд цепляется за движение. Искажённые фигуры собираются у странных руин у подножия большого холма, а в центре на коленях в грязи стоит мальчик и плачет перед человеком, скрытым в тени ниши»."
+  },
+  "756": {
+   "en": "If a character attempts to shoot or otherwise attack the hallucinations, their blows pass through it as if their target were made of smoke — characters outside the hallucination may have to deal with the character attacking the air in front of them. If the affected characters move further into the chamber, the following occurs.",
+   "ru": "Если персонаж попытается выстрелить в галлюцинации или иначе атаковать их, удары проходят насквозь, будто цель соткана из дыма, — персонажам вне галлюцинации, возможно, придётся иметь дело с товарищем, атакующим воздух перед собой. Если затронутые персонажи пройдут вглубь помещения, происходит следующее."
+  },
+  "762": {
+   "en": "‘You see a small boy, snivelling before a tall, shrouded figure, he wears the robes of a House Nethecaré Alchemist, the large house crest is unmissable. The shrouded figure steps into the light, his form a horrific amalgamation of acynadi and Human flesh. His stern features are set with spines and mandibles. The boy and the ruins quickly melt away, leaving the man alone in the hill’s shadow. Then the hill begins to move, and you realise it was never a hill. This vast shadow looms over the man as if he is not a man but only the smallest fraction of this gargantuan thing, as if he were only a lure. As the man with the twisted features turns and stares, you feel as if something truly sees you and swiftly the scene melts away, leaving only a bare store room behind.’",
+   "ru": "«Вы видите маленького мальчика, хнычущего перед высокой фигурой в плаще; на нём одеяние алхимика дома Нетекаре, большой герб дома не заметить невозможно. Фигура в плаще выходит на свет — её облик являет жуткую смесь плоти ацинади и человеческой. Суровые черты утыканы шипами и жвалами. Мальчик и руины быстро тают, оставляя человека одного в тени холма. Затем холм начинает двигаться, и вы понимаете, что это никогда не было холмом. Эта огромная тень нависает над человеком так, будто он вовсе не человек, а лишь ничтожная частица этого исполинского существа, будто он лишь приманка. Когда человек с искажёнными чертами оборачивается и смотрит на вас, вы чувствуете, что нечто действительно вас видит, — и сцена быстро тает, оставляя лишь пустую кладовую»."
+  },
+  "768": {
+   "en": "The affected character’s consciousness returns to the original corridor, the hallucination passes. Any Damage they might have suffered is removed. If a member of the party is a Psyker, and they make any Test to detect the source of the hallucinations, they find nothing. Only on an Astounding Success (+5 SL or more) do they pick up a faint hint of @UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Old Hinji’s }capabilities and the phenomenon in the Hall of Remembrance (that will manifest in @UUID[.vC2n6yi7x19C9HvR#new-visions,-old-hatreds]{New Visions, Old Hatreds}). But nothing points to the are of the Capitol Imperialis they’re in.",
+   "ru": "Сознание затронутого персонажа возвращается в прежний коридор, галлюцинация проходит. Весь полученный в ней урон снимается. Если в отряде есть псайкер и он проходит любую проверку, чтобы найти источник галлюцинаций, он ничего не находит. Лишь при ошеломительном успехе (+5 КУ и более) он улавливает слабый намёк на способности @UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Старого Хинджи} и на явление в Зале памяти (которое проявится в сцене @UUID[.vC2n6yi7x19C9HvR#new-visions,-old-hatreds]{«Новые видения, старая ненависть»}). Но ничто не указывает, в какой части «Капитолия Империалис» они находятся."
+  },
+  "772": {
+   "en": "Price of Succession",
+   "ru": "Цена наследования"
+  },
+  "782": {
+   "en": "As the party discovers more clues to further their investigation, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} continues to pursue his own agenda, rife with complications. ",
+   "ru": "Пока отряд находит всё новые зацепки для расследования, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре} продолжает преследовать собственные цели, и дело осложняется. "
+  },
+  "786": {
+   "en": "In the background of the character’s investigation, @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Sergeant Drukos} has been conducting his own, built on a foundation of hunches, but with one significant clue — Drukos believed it was a servitor who killed the Captain, one of Roderick’s medicae servitors, that is currently unaccounted for. This is true, and @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} ordered the servitor to leave the ",
+   "ru": "Параллельно расследованию персонажей своё расследование вёл и @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{сержант Друкос} — построенное на догадках, но с одной важной зацепкой: Друкос считал, что капитана убил сервитор, один из медицинских сервиторов Родерика, который сейчас числится пропавшим. Это правда: @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре} после убийства приказал сервитору покинуть "
+  },
+  "788": {
+   "en": "Devotion",
+   "ru": "«Преданность»"
+  },
+  "790": {
+   "en": " after the murder, to cover his tracks, while the Imperialis was first halted in the wastes.",
+   "ru": ", чтобы замести следы, пока «Империалис» впервые стоял в пустошах."
+  },
+  "794": {
+   "en": "Confronting the Medicae alone, the noble tricks @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Drukos}. He knocks the sergeant out, straps him to a medicare bed and injects him with the next version of his concentrated @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{chemical communion}. Watching Drukos enraptured by his visions, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} believes he is one step closer to fulfilling his plan. Knowing too much, he kills Drukos in the Medicae Ward while he has the chance. ",
+   "ru": "Столкнувшись с медикусом один на один, Друкос попадается на уловку дворянина. Тот оглушает @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{сержанта}, привязывает к больничной койке и вводит ему новую версию своего концентрированного @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химического причастия}. Наблюдая, как Друкос погружается в видения, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре} верит, что стал на шаг ближе к осуществлению своего плана. Поскольку Друкос знает слишком много, он убивает его в лазарете, пока есть возможность. "
+  },
+  "798": {
+   "en": "Knowing the characters are on his heels, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} decides to swap places with @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Drukos }— abandoning his spider-legged throne, scarring Drukos’s corpse beyond recognition, and retrieving his clothes and vox equipment. He takes to the ",
+   "ru": "Зная, что персонажи идут по его следу, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре} решает поменяться местами с @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Друкосом}: он бросает свой паукообразный трон, уродует труп Друкоса до неузнаваемости и забирает его одежду и вокс-снаряжение. Он скрывается в вентиляции и технических лазах "
+  },
+  "800": {
+   "en": "Devotion’s",
+   "ru": "«Преданности»"
+  },
+  "802": {
+   "en": " vents and crawl spaces while he figures out the next stage of his plan, as his delusions continue to aggrandise. ",
+   "ru": ", обдумывая следующий этап своего плана, а его бредовые фантазии становятся всё грандиознее. "
+  },
+  "806": {
+   "en": "Eventually, @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Drukos’s} body, in the guise of @UUID[.u9wPwSqM2FTyo8pg#medicae-roderick]{Medicae Roderick}, is discovered. The party hears a horrid scream from the Habitation Deck or a commotion over the Devotion’s security vox channel, drawing them all to the Medicae Ward. ",
+   "ru": "В конце концов тело @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Друкоса} под видом @UUID[.u9wPwSqM2FTyo8pg#medicae-roderick]{медикуса Родерика} обнаруживают. Отряд слышит жуткий крик с жилой палубы или переполох по охранному вокс-каналу «Преданности», и всё это приводит персонажей в лазарет. "
+  },
+  "812": {
+   "en": "‘While passing through the Habitation Deck, a scream cuts through the murmur of crew going about their duties. Heads turn at racing bootprints hammering the deck, echoing harshly off metal walls. A medicae adept thunders around a corner, knocking several scribes to the floor in his fervour. His face is pale, his eyes wide, and his mouth agape as he draws deep, laboured breaths. ‘The medicae’, he pants, ‘By the throne, he's dead!’",
+   "ru": "«Когда вы проходите по жилой палубе, гул экипажа, занятого своими обязанностями, прорезает крик. Головы поворачиваются на топот сапог, гулко отдающийся от металлических стен. Из-за угла вылетает медицинский адепт, в спешке сбивая с ног нескольких писарей. Лицо бледное, глаза вытаращены, рот открыт — он тяжело, с трудом дышит. «Медикус, — задыхается он. — Клянусь Троном, он мёртв!»"
+  },
+  "818": {
+   "en": "When the characters reach the Medicae Ward, a throng of onlookers has gathered, though all seem unwilling to enter. Pushing through and stepping inside, the party discovers the following. ",
+   "ru": "Когда персонажи добираются до лазарета, там уже собралась толпа зевак, но никто, похоже, не решается войти. Протолкавшись внутрь, отряд обнаруживает следующее. "
+  },
+  "824": {
+   "en": "‘Slouched beside a medicae bed, the mechanical legs of Roderick’s support throne lay sprawled with a desecrated corpse heaped upon it. Its face and throat are a ruin of torn flesh, while bloody hands crowned with broken fingernails tell a tale of insanity and horror.’",
+   "ru": "«У больничной койки, раскинув механические ноги, лежит опорный трон Родерика, а на нём — осквернённый труп. Лицо и горло превращены в месиво из рваной плоти, а окровавленные руки со сломанными ногтями рассказывают историю безумия и ужаса»."
+  },
+  "830": {
+   "en": "If the party investigates Roderick’s body, it becomes evident that the Medicae tore himself apart in some sort of apoplectic frenzy. Should the party wish to inspect the body, they are given the following clue. They may also attempt a ",
+   "ru": "Осмотрев тело Родерика, отряд понимает, что медикус разорвал себя на части в каком-то неистовом припадке. Если отряд захочет осмотреть тело, персонажи получают следующую зацепку. Кроме того, они могут пройти "
+  },
+  "832": {
+   "en": "Challenging (+0) Medicae (Human)",
+   "ru": "Среднюю (+0) проверку Медики (Люди)"
+  },
+  "834": {
+   "en": " Test to acquire an additional clue.",
+   "ru": ", чтобы получить дополнительную зацепку."
+  },
+  "840": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "844": {
+   "en": "Looking at the body, you soon begin to notice oddities. Muscle mass, bone density, and even physical size seem at odds with your expectations. Then it becomes clear: This is not the body of @UUID[.u9wPwSqM2FTyo8pg#medicae-roderick]{Medicae Roderick. }",
+   "ru": "Рассматривая тело, вы вскоре замечаете странности. Мышечная масса, плотность костей и даже рост не совпадают с ожидаемыми. И тогда становится ясно: это не тело @UUID[.u9wPwSqM2FTyo8pg#medicae-roderick]{медикуса Родерика}. "
+  },
+  "852": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "856": {
+   "en": "After completing a more thorough examination, you notice long pressure marks; you deduce this body’s legs and abdomen were strapped down, though no straps are visible now. Furthermore, you discover bruises that suggest something was forcefully injected shortly before death.",
+   "ru": "После более тщательного осмотра вы замечаете длинные следы давления и делаете вывод, что ноги и живот этого тела были пристёгнуты, хотя ремней сейчас не видно. Кроме того, вы обнаруживаете синяки, говорящие о том, что незадолго до смерти ему что-то насильно ввели."
+  },
+  "862": {
+   "en": "Mob Justice",
+   "ru": "Самосуд"
+  },
+  "866": {
+   "en": "Once the party discovers the previous clues or exhausts their options, their portable vox crackles and @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{Curator Varness} barks at them — they need to get to the Mess now, as all hell is breaking loose. Upon arriving, read aloud or paraphrase the following: ",
+   "ru": "Когда отряд найдёт предыдущие зацепки или исчерпает варианты, его переносной вокс трещит, и @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{куратор Варнесс} рявкает, что им нужно немедленно в столовую — там творится сущий ад. По прибытии зачитайте вслух или перескажите следующее: "
+  },
+  "872": {
+   "en": "‘Ten of Sergeant Drukos’s mercenaries occupy positions beside the long iron counter behind which @UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Old Hinji} crouches nervously. At the far end of the Mess, an angry mob of twenty menials led by a large man named @UUID[.u9wPwSqM2FTyo8pg#menial-boris]{Boris }stands crammed together behind upturned tables, brandishing tools and knives. A length of chain dangles overhead, forming a makeshift noose around a scribe’s neck who stands gagged atop a narrow stool. ‘@UUID[.u9wPwSqM2FTyo8pg#scribe-hess]{Scribe Hess} here is the killer,’ roars Boris ‘Let us give him the Emperor’s justice!’",
+   "ru": "«Десять наёмников сержанта Друкоса заняли позиции у длинной железной стойки, за которой нервно пригнулся @UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Старый Хинджи}. В дальнем конце столовой разъярённая толпа из двадцати чернорабочих во главе с рослым мужчиной по имени @UUID[.u9wPwSqM2FTyo8pg#menial-boris]{Борис} теснится за перевёрнутыми столами, размахивая инструментами и ножами. Над головой свисает цепь, образуя самодельную петлю на шее писаря, который с кляпом во рту стоит на узком табурете. «Писарь @UUID[.u9wPwSqM2FTyo8pg#scribe-hess]{Хесс} — вот убийца! — ревёт Борис. — Воздадим ему правосудие Императора!»"
+  },
+  "878": {
+   "en": "The menial leader @UUID[.u9wPwSqM2FTyo8pg#menial-boris]{Boris } appears furious, almost manic, claiming that @UUID[.u9wPwSqM2FTyo8pg#scribe-hess]{Scribe Hess} is the murderer and everyone will be safer once he’s hanged. At the same time, the mercenaries demand their immediate surrender. Boris claims a data slate was slid under the menial Crew Quarters door, holding a report indicating Hess killed Medicae Roderick, along with copies of stock inventories proving he’s been stealing medical supplies. Furthermore, they found stolen pain meds in his robes.",
+   "ru": "Вожак чернорабочих @UUID[.u9wPwSqM2FTyo8pg#menial-boris]{Борис} кажется разъярённым, почти одержимым: он утверждает, что @UUID[.u9wPwSqM2FTyo8pg#scribe-hess]{писарь Хесс} — убийца и что всем станет безопаснее, как только его повесят. В то же время наёмники требуют от толпы немедленно сдаться. Борис заявляет, что под дверь каюты чернорабочих подсунули инфопланшет с отчётом о том, что Хесс убил медикуса Родерика, а также с копиями складских описей, доказывающих, что он ворует медикаменты. Более того, в его одеянии нашли украденные обезболивающие."
+  },
+  "884": {
+   "en": "Where’s Drukos?",
+   "ru": "Где Друкос?"
+  },
+  "888": {
+   "en": "If the party wonders where Drukos is during this altercation, they may not know yet that @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} has killed him. The noble is still imitating him on the ",
+   "ru": "Если отряд задастся вопросом, где во время этой стычки Друкос, персонажи, возможно, ещё не знают, что @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре} его убил. Дворянин по-прежнему изображает его в охранном вокс-канале "
+  },
+  "890": {
+   "en": "Devotion’s",
+   "ru": "«Преданности»"
+  },
+  "892": {
+   "en": " security vox channel. He deflects if anyone asks where he is, saying he is busy. Secretly, Vesterick Nethecaré is hoping the mob kills Scribe Hess, playing into the dataslate evidence he planted to incriminate the scribe. But acting as @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Drukos}, he must hold back from directly implicating the scribe without being present.",
+   "ru": ". Если его спрашивают, где он, он уходит от ответа, говоря, что занят. Втайне Вестерик Нетекаре надеется, что толпа убьёт писаря Хесса, — это подтвердит улики в инфопланшете, которые он подбросил, чтобы обвинить писаря. Но, изображая @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Друкоса}, он вынужден воздерживаться от прямых обвинений писаря, не присутствуя лично."
+  },
+  "908": {
+   "en": "The party needs to act within a window of five rounds to save the scribe. They must make a ",
+   "ru": "У отряда есть окно в пять раундов, чтобы спасти писаря. Персонажи должны пройти "
+  },
+  "910": {
+   "en": "Challenging (+0) Extended Rapport (Charm ",
+   "ru": "Среднюю (+0) продолжительную проверку Взаимопонимания (Обаяние "
+  },
+  "912": {
+   "en": "or",
+   "ru": "или"
+  },
+  "914": {
+   "en": " Deception)",
+   "ru": " Обман)"
+  },
+  "916": {
+   "en": " Test requiring a total of 6 SL to defuse the situation. If they fail, the scribe’s stool is kicked, and battle erupts between the mob and the mercenaries. It takes @UUID[.u9wPwSqM2FTyo8pg#scribe-hess]{Scribe Hess} three rounds to die. After this outcome, the party may obtain Hess’s note from his body (see the following clues).",
+   "ru": " с общей целью в 6 КУ, чтобы разрядить обстановку. При провале табурет из-под писаря выбивают, и между толпой и наёмниками вспыхивает бой. @UUID[.u9wPwSqM2FTyo8pg#scribe-hess]{Писарь Хесс} умирает три раунда. При таком исходе отряд может забрать с его тела записку (см. следующие зацепки)."
+  },
+  "920": {
+   "en": "However, if the party defuses the situation, the mob will disperse, Scribe Hess is saved, and @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Sergeant Drukos}’s men will arrest @UUID[.u9wPwSqM2FTyo8pg#menial-boris]{Boris}. ",
+   "ru": "Если же отряд разрядит обстановку, толпа расходится, писарь Хесс спасён, а люди @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{сержанта Друкоса} арестовывают @UUID[.u9wPwSqM2FTyo8pg#menial-boris]{Бориса}. "
+  },
+  "924": {
+   "en": "After this outcome, @UUID[.u9wPwSqM2FTyo8pg#scribe-hess]{Scribe Hess} approaches the party, thanking them for their help. He explains that he did steal medical supplies but did not commit the murders, revealing his habit of flagellating himself in devotion to the God-Emperor. With the completion of this scene, Scribe Hess can provide the party with the following either by himself or via his notes.",
+   "ru": "При таком исходе к отряду подходит @UUID[.u9wPwSqM2FTyo8pg#scribe-hess]{писарь Хесс} и благодарит за помощь. Он объясняет, что медикаменты действительно воровал, но убийств не совершал, и признаётся, что истязает себя плетью из преданности Богу-Императору. По завершении этой сцены писарь Хесс сам или через свои записи может сообщить отряду следующее."
+  },
+  "930": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "934": {
+   "en": "‘I’ve noted strange mechanical errors in the Devotions air filtration system. I think one of the menials needs to be assigned to go down to the Enginarium Deck and check the filters.’",
+   "ru": "«Я заметил странные механические сбои в системе фильтрации воздуха «Преданности». Думаю, кого-то из чернорабочих надо отправить на палубу энгинариума проверить фильтры»."
+  },
+  "940": {
+   "en": "If Hess survives, the party can be supplied with an additional clue. ",
+   "ru": "Если Хесс выжил, отряд может получить дополнительную зацепку. "
+  },
+  "946": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "948": {
+   "en": ": ‘I reported these errors to @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{Curator Varness} a few days ago while she was meeting with @UUID[.u9wPwSqM2FTyo8pg#medicae-roderick]{Medicae Roderick}. The Medicae said he would arrange @UUID[.u9wPwSqM2FTyo8pg#mathus-49]{Mathus-49} to sort it out, and told me not to worry about it.’",
+   "ru": ": «Я доложил об этих сбоях @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{куратору Варнесс} несколько дней назад, когда она встречалась с @UUID[.u9wPwSqM2FTyo8pg#medicae-roderick]{медикусом Родериком}. Медикус сказал, что попросит @UUID[.u9wPwSqM2FTyo8pg#mathus-49]{Мальтуса-49} разобраться, и велел мне не беспокоиться»."
+  },
+  "952": {
+   "en": "If the party approaches @UUID[.u9wPwSqM2FTyo8pg#mathus-49]{Mathus-49}, questioning him regarding this task, he claims not to have received the request. Should the party go to the Enginarium Deck to investigate the air filters, provide them with the following clue.",
+   "ru": "Если отряд обратится к @UUID[.u9wPwSqM2FTyo8pg#mathus-49]{Мальтусу-49} с расспросами об этом поручении, тот утверждает, что никакой просьбы не получал. Если отряд отправится на палубу энгинариума осмотреть воздушные фильтры, дайте ему следующую зацепку."
+  },
+  "958": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "962": {
+   "en": "‘A dark waxy substance coats the filters in a film of sticky residue. Much has built up in the moving parts gumming the mechanism, which undoubtedly caused the errors Hess detected. From this buildup, it is clear some strange contaminant is present in the Devotion's air supply.’",
+   "ru": "«Тёмное воскообразное вещество покрывает фильтры плёнкой липкого осадка. Много его скопилось в движущихся частях, склеив механизм, — несомненно, это и вызвало сбои, замеченные Хессом. Судя по этим отложениям, в воздухе «Преданности» присутствует какой-то странный загрязнитель»."
+  },
+  "968": {
+   "en": "New Visions, Old Hatreds",
+   "ru": "Новые видения, старая ненависть"
+  },
+  "972": {
+   "en": "After the former ordeal, @UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Old Hinji} soon approaches the party. He seems off, fearful even, like a man on the edge. ",
+   "ru": "После пережитого к отряду вскоре подходит @UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Старый Хинджи}. Он какой-то не такой, даже напуганный, — как человек на грани. "
+  },
+  "978": {
+   "en": "‘Old Hinji can hear him, but even if I couldn't, I'd know anyway, it ain't right, he ain’t right. You better come with me, I gots something to tell you that's not for others listening.’",
+   "ru": "«Старый Хинджи его слышит, но даже если б не слышал — всё равно бы знал: неладно это, неладный он. Пошли-ка со мной, мне есть что вам сказать, не для чужих ушей»."
+  },
+  "984": {
+   "en": "@UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Old Hinji }then leads them to the @UUID[.vC2n6yi7x19C9HvR#c1.-the-hall-of-remembrance]{Hall of Remembrance} on the @UUID[.vC2n6yi7x19C9HvR#c.-militarum-deck]{Militarum Deck}. Reaching the door, his breath fogs as the air turns cold, the metal door handle clinging to their fingers. Once inside, Old Hinji provides the party with the following.",
+   "ru": "Затем @UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Старый Хинджи} ведёт персонажей в @UUID[.vC2n6yi7x19C9HvR#c1.-the-hall-of-remembrance]{Зал памяти} на @UUID[.vC2n6yi7x19C9HvR#c.-militarum-deck]{палубе Милитарума}. У двери его дыхание превращается в пар — воздух холодеет, а металлическая дверная ручка липнет к пальцам. Внутри Старый Хинджи сообщает отряду следующее."
+  },
+  "990": {
+   "en": "‘He won’t follow us here. I know that much at least. I think he hates this place as much as I do. It's Drukos, he's not himself anymore. I'm not sure what's happened, but it's dark business. Drukos was my friend, and that man on the vox isn’t him; he’s been someone else, or someone else is being him. Ugh... I can feel him, his mind, I think, memories skittering around on too many legs.’",
+   "ru": "«Сюда он за нами не пойдёт. Уж это-то я знаю. Думаю, он ненавидит это место не меньше моего. Это Друкос — он больше не он. Не знаю, что стряслось, но дело тёмное. Друкос был мне другом, а тот, что в воксе, — не он; он стал кем-то другим, или кто-то другой стал им. Ох… я его чувствую, его разум, кажется, — воспоминания так и шныряют на слишком многих ногах»."
+  },
+  "996": {
+   "en": "@UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Old Hinji} collapses and begins convulsing violently.",
+   "ru": "@UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Старый Хинджи} падает и начинает биться в сильных судорогах."
+  },
+  "1002": {
+   "en": "‘The temperature suddenly plummets as the figures within the central tapestry begin to move. Acynadi appear to escape the tapestry, all shapes and sizes spilling out into the Hall of Remembrance, transforming and shifting into ever-increasing different configurations.’",
+   "ru": "«Температура резко падает, и фигуры на центральном гобелене начинают двигаться. Из гобелена будто вырываются ацинади — всех форм и размеров, они высыпают в Зал памяти, превращаясь и перестраиваясь во всё новые и новые формы»."
+  },
+  "1008": {
+   "en": "The @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi}, brought to life by Hinji’s unwilling projection of @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré}’s memories and his growing paranoia, begin to attack the characters. Tentacles and claws grow across the floor and walls, making the Hall ",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{Ацинади}, оживлённые невольной проекцией воспоминаний @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерика Нетекаре} и его растущей паранойи, которую создаёт Хинджи, нападают на персонажей. По полу и стенам разрастаются щупальца и клешни, превращая зал в "
+  },
+  "1010": {
+   "en": "Difficult Terrain",
+   "ru": "пересечённую местность"
+  },
+  "1012": {
+   "en": " and two @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ZIxRrvXoXCRKAYyI]{Acynadi Delta-5} spill out of the tapestries and begin to attack the party. If one is slain, another spawns to replace it at the start of the following round.",
+   "ru": ", а из гобеленов вываливаются два @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ZIxRrvXoXCRKAYyI]{ацинади Дельта-5} и нападают на отряд. Если одного из них убивают, в начале следующего раунда на его месте появляется другой."
+  },
+  "1016": {
+   "en": "As each round begins the tapestry shifts, forming a memory Old Hinji has unwillingly projected. ",
+   "ru": "В начале каждого раунда гобелен меняется, складываясь в воспоминание, которое невольно проецирует Старый Хинджи. "
+  },
+  "1022": {
+   "en": "1",
+   "ru": "1"
+  },
+  "1026": {
+   "en": "‘You see a noble youth, fearful among tall spires. Weeping for his lost father, his kin laugh as his mother remarries a smirking old scion, in his heart, he knows they killed him.’",
+   "ru": "«Вы видите юного дворянина, испуганного среди высоких шпилей. Он оплакивает пропавшего отца, а его родня смеётся, когда мать выходит замуж за ухмыляющегося старого отпрыска рода; в глубине души он знает, что это они убили отца»."
+  },
+  "1034": {
+   "en": "2:",
+   "ru": "2:"
+  },
+  "1038": {
+   "en": "‘The youth is older now. Toiling over intricate experiments, he searches, questing and failing. Frustrated, he fills a syringe with one of his concoctions, injects himself and dreams.’",
+   "ru": "«Юноша стал старше. Корпя над замысловатыми опытами, он ищет, стремится и терпит неудачи. В отчаянии он наполняет шприц одним из своих снадобий, вводит его себе и видит сны»."
+  },
+  "1046": {
+   "en": "3:",
+   "ru": "3:"
+  },
+  "1050": {
+   "en": "Inside the dream, his father is waiting with the formula and the plan. He has communed with the dead! He is sure of it, more sure than anything. But the formula isn’t perfect, it is his purpose to complete it.’",
+   "ru": "Во сне его ждёт отец — с формулой и планом. Он говорил с мёртвыми! Он уверен в этом, уверен больше, чем в чём-либо. Но формула несовершенна, и его предназначение — завершить её»."
+  },
+  "1056": {
+   "en": "A psyker character may attempt a ",
+   "ru": "Персонаж-псайкер может пройти "
+  },
+  "1058": {
+   "en": "Hard (−20) Psychic Mastery (Telepathy)",
+   "ru": "Сложную (−20) проверку Психического мастерства (Телепатия)"
+  },
+  "1060": {
+   "en": " Test in order to calm the psychic projections for a round. After three rounds are complete, the tapestries flutter and return to normal. Old Hinji rises, panting, sweating and weak. The characters recover any Damage the projections did to them.",
+   "ru": ", чтобы на раунд успокоить психические проекции. Через три раунда гобелены вздрагивают и возвращаются в прежний вид. Старый Хинджи поднимается — задыхающийся, потный и слабый. Персонажи восстанавливают весь урон, нанесённый им проекциями."
+  },
+  "1066": {
+   "en": "‘Get him for me will ya, for all of us. That bastard killed my friend and I'd wager he's fixing to kill the rest of us too. He's utterly insane, but I think whatever he’s been taking has only gotten worse.’",
+   "ru": "«Достаньте его для меня, а? Для всех нас. Этот ублюдок убил моего друга, и готов поспорить, что он собирается прикончить и всех остальных. Он совсем спятил, но, думаю, от того, что он принимает, ему только хуже»."
+  },
+  "1072": {
+   "en": "If the party asks what happened, @UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Old Hinji} replies that he's not sure; he felt the false Drukos’s memories calling to him, but he doesn't understand. He swiftly leaves, eager for rest. If the characters figure out now that he is a rogue psyker, they may wish to lock him up before he manifests any more warp phenomena.",
+   "ru": "Если отряд спросит, что случилось, @UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Старый Хинджи} отвечает, что и сам не уверен: он почувствовал, как его зовут воспоминания лже-Друкоса, но не понимает этого. Он быстро уходит, желая отдохнуть. Если персонажи уже поняли, что он псайкер-отступник, они могут захотеть запереть его, прежде чем он вызовет новые проявления варпа."
+  }
+ }
+}

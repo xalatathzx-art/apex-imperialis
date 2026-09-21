@@ -66,6 +66,14 @@ const nestedGroups = Object.entries(english)
 const problems = [];
 const translated = {};
 
+// The official modules were folded into this one, and the IMPMAL.* strings their
+// code still uses now have their English in our own lang/en.json. Those are
+// translated in RU like any other impmal key, so they count as a source here.
+const ownEnglish = flatten(read(path.join(ROOT, "lang/en.json")));
+for (const [key, value] of Object.entries(ownEnglish)) {
+  if (key in RU && !(key in flatEnglish)) flatEnglish[key] = value;
+}
+
 for (const [key, value] of Object.entries(RU)) {
   if (!(key in flatEnglish)) {
     problems.push(`${key} — not a key impmal, warhammer-lib or an installed C7 module defines`);
@@ -86,8 +94,7 @@ for (const [key, value] of Object.entries(RU)) {
 // were built, their English went into en.json, and nobody came back here.
 for (const [key, value] of Object.entries(OURS)) translated[key] = value;
 
-const ownEnglish = flatten(read(path.join(ROOT, "lang/en.json")));
-const untranslatedOwn = Object.keys(ownEnglish).filter(key => !(key in OURS));
+const untranslatedOwn = Object.keys(ownEnglish).filter(key => !(key in OURS) && !(key in RU));
 for (const key of untranslatedOwn) {
   problems.push(`${key} — in lang/en.json but not translated in OURS`);
 }
@@ -152,4 +159,7 @@ if (missing.length) {
     missing.map(key => `${key}\t${flatEnglish[key]}`).join("\n") + "\n"
   );
   console.log(`${missing.length} still English — listed in src/lang/untranslated.txt`);
+} else {
+  // Otherwise a list from an earlier run outlives the gaps it describes.
+  fs.rmSync(path.join(ROOT, "src/lang/untranslated.txt"), { force: true });
 }

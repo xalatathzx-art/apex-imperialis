@@ -2,7 +2,7 @@
   "name": "Blistering Evasion",
   "type": "talent",
   "_id": "malExpTal0000053",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On success dodge/parry:further attack against you -10. Stacks until next turn</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever you successfully Dodge or Parry an attack, any further attacks against you until the beginning of your next turn suffer a -10 Penalty. If you perform multiple successful Dodges and/or Parries, this penalty is cumulative until the beginning of your next turn. </em></span></p>",

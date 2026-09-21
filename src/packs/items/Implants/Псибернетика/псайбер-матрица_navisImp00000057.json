@@ -2,7 +2,7 @@
   "name": "Псайбер-Матрица",
   "type": "navis-apexialis.implant",
   "_id": "navisImp00000057",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00004",
   "sort": 5700,
   "system": {

@@ -2,7 +2,7 @@
   "name": "Forensic Chymestry",
   "type": "talent",
   "_id": "malExpTal0000077",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Grants the bonus of Forensic Expert to Medicae(Chem-Use)</span></p><hr><p><span style=\"font-family: Arial\"><em>Relating to the detection and identification of chemical substances such as drugs, as well as their effects on the human body. This field grants bonuses to Medicae (Chem-Use) tests as appropriate.</em></span></p>",

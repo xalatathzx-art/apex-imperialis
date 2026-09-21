@@ -2,7 +2,7 @@
   "name": "Squat",
   "type": "navis-apexialis.species",
   "_id": "navisSpc00000004",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder001",
   "sort": 400,
   "system": {
@@ -108,7 +108,7 @@
     {
       "_id": "navisSpFx0000004",
       "name": "Squat — physiology",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "changes": [
         {
           "key": "system.combat.wounds.max",

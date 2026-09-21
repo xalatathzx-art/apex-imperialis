@@ -62,6 +62,12 @@ export const byName = {
 
   /* Создание персонажа */
   Origin: { name: "Происхождение" },
-  "Random Talents": { name: "Случайные таланты" },
+  "Random Talents": {
+    name: "Случайные таланты",
+    results: {
+      qK4etcnjwzImjfVo: { description: "<p>Бросьте по этой таблице ещё два раза.</p>" },
+      dcW4JxmchOWh4GS0: { description: "<p>@UUID[Compendium.navis-apexialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Псайкер} или @UUID[Compendium.navis-apexialis.navis-core-items.Item.PpidBBZ7dG6yziXg]{Пустой}.</p>" }
+    }
+  },
   "Patron Faction": { name: "Служба покровителя" }
 };

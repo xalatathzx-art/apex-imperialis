@@ -2,7 +2,7 @@
   "name": "Urge the Penitent",
   "type": "talent",
   "_id": "malExpTal0000186",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">When reroll with FP: gain an extra +10 on the reroll. May share this ebenfit with an ally within sight&communication range as reaction</span></p><hr><p><span style=\"font-family: Arial\"><em>You gain a +1SL Bonus whenever you re-roll a Test with a Fate Point after failing your initial attempt. You may spend a Reaction to pass this benefit to any ally spending Fate Points to re-roll a Test as long as the ally is within line of sight and communications range.</em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "Faithful (Imperial Cult) Talent, 1 Advance in Presence(Leadership)",
-      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Leadership\" && i.system.skill == \"presence\")?.system?.advances >= 1) && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful(Imperial Cult)\")"
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Leadership\" && i.system.skill == \"presence\")?.system?.advances >= 1) && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful (imperial Cult)\")"
     },
     "test": {
       "difficulty": "challenging",

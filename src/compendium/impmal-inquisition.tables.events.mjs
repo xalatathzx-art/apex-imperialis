@@ -22,11 +22,11 @@ const U = (uuid, label) => `@UUID[${uuid}]{${label}}`;
 const e = (name, text) => ({ description: `<strong>${name}</strong>: ${text}` });
 
 const CORRUPTION = U(
-  "Compendium.impmal-core.journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.PuzopCeKzYgcYAwh",
+  "Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.PuzopCeKzYgcYAwh",
   "Порче"
 );
 const SUBTLETY = U(
-  "Compendium.impmal-inquisition.journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz",
+  "Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz",
   "Скрытности операции"
 );
 

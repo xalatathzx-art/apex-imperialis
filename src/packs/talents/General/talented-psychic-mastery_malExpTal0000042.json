@@ -2,7 +2,7 @@
   "name": "Talented (Psychic Mastery)",
   "type": "talent",
   "_id": "malExpTal0000042",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Once/session: re-roll Psychic Mastery check (take better)</span></p><hr><p><span style=\"font-family: Arial\"><em>You have a natural affinity towards Psychic Mastery. You must have two Advances in Psychic Mastery. Once per session, you may reroll any Test for Psychic Mastery even if the result is already a success. </em></span></p>",

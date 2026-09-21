@@ -2,7 +2,7 @@
   "name": "Внутренний Био-Монитор",
   "type": "navis-apexialis.implant",
   "_id": "navisImp00000045",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00003",
   "sort": 4500,
   "system": {

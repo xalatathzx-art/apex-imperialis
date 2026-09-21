@@ -3,7 +3,7 @@
   "name": "Trueborn Kabalite",
   "type": "npc",
   "_id": "YwULlBZZIXsJmjKb",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Blade Artist",
       "type": "trait",
       "_id": "ud8yfmELkrLGZbQn",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Power from Pain",
       "type": "trait",
       "_id": "ycMvXEHAnn0H7gDh",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Shardcarbine",
       "type": "weapon",
       "_id": "tmtCVauHJ5c6TDRM",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -448,7 +448,7 @@
       "name": "Knife",
       "type": "weapon",
       "_id": "ruoWWjOB827rVwGS",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -526,7 +526,7 @@
       "name": "Pain",
       "type": "specialisation",
       "_id": "XwPrrVpxI2EpAT0H",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -555,7 +555,7 @@
       "name": "One-Handed",
       "type": "specialisation",
       "_id": "Bl9HOahJk2aQjmR0",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -584,7 +584,7 @@
       "name": "Interrogation",
       "type": "specialisation",
       "_id": "4ue4hDmIrW4nlxN7",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -613,7 +613,7 @@
       "name": "Deception",
       "type": "specialisation",
       "_id": "rdnkDi4ESc3RUWHY",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

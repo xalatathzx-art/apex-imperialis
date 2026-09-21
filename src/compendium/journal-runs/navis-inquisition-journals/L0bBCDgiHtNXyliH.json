@@ -1,0 +1,129 @@
+{
+ "journal": "SJPyRkdBEOCtmD8R",
+ "journalName": "Sector Threats",
+ "page": "L0bBCDgiHtNXyliH",
+ "pageName": "Tôk's Firestorm Kindred",
+ "name": "",
+ "runs": {
+  "6": {
+   "en": "Tôk's Firestorm Kindred",
+   "ru": ""
+  },
+  "16": {
+   "en": "See this, ceramite from our forges. I guarantee that it is purer than any ‘factorum in the sector. Take this sample and make any tests you need; we will return to place your order, eh?",
+   "ru": ""
+  },
+  "24": {
+   "en": "Threat Overview",
+   "ru": ""
+  },
+  "34": {
+   "en": "Tôk’s Firestorm Kindred",
+   "ru": ""
+  },
+  "36": {
+   "en": " are a group of @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#the-leagues-of-votann]{Votann Kin} operating in the Macharian Sector.",
+   "ru": ""
+  },
+  "44": {
+   "en": "In their prospecting and trade efforts with other cultures, they operate from small voidships and work to keep the existence of their mothership, ",
+   "ru": ""
+  },
+  "46": {
+   "en": "The Cleansing Flame",
+   "ru": ""
+  },
+  "48": {
+   "en": ", from being discovered.",
+   "ru": ""
+  },
+  "56": {
+   "en": "They aim to prospect the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.MzIWAwZ8jPAOydDi]{Yix Subsector} of the Macharian Sector and present their superiors with a case for expanding into the region.",
+   "ru": ""
+  },
+  "66": {
+   "en": "The Kin only entered the Macharian Sector within the last few decades. Their initial focus in the region has been to explore the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.MzIWAwZ8jPAOydDi]{Sargassum Reaches} and interact with the factions established in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.riXKYZYMko558MLs]{Iron Archipelago} of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.MzIWAwZ8jPAOydDi]{Yix Systems}. They have engaged in preliminary trade, mainly as a means of gathering information and assessing the technological aptitudes of the cultures active in the region. As they carefully test the diplomatic waters, the Kin have gone to great lengths to maintain their secrecy. They recognise the importance of revealing only some of their assets, using shorter-range voidships to conduct these interactions.",
+   "ru": ""
+  },
+  "70": {
+   "en": "This is because Tôk’s Firestorm Kindred have a Bastion-class mining vessel prospecting and mining the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.MzIWAwZ8jPAOydDi]{Sargassum Reaches}. ",
+   "ru": ""
+  },
+  "72": {
+   "en": "The Cleansing Flame",
+   "ru": ""
+  },
+  "74": {
+   "en": " has conducted preliminary operations on several asteroids, moons, and habitable worlds. Their early conclusions are that the opportunities could justify a significantly increased Kin presence in the region. However, the Kindred’s elders continue to review @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.76CFMEzdNOznVcNf]{Hernkyn} reports about the various factions and threats in the sector. Until those analyses are completed, they remain uncommitted to significant, long-term extraction and refining operations.",
+   "ru": ""
+  },
+  "78": {
+   "en": "The vessel’s commander, Tôk Stonehewer, acting on guidance provided by a venerable Ancestor Core, believes that trading with the Imperium may ease relationships and bring about some sort of accord. @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.76CFMEzdNOznVcNf]{Hernkyn} groups have made discreet visits to dozens of worlds in the sector. They have yet to identify any ideal trading partners, though they have identified a few potential ones, particularly among Imperial organisations secretly involved in the Silent Trade.",
+   "ru": ""
+  },
+  "82": {
+   "en": "The Kin’s components and goods are often superior to what is produced locally on many Imperial worlds, and would prove valuable. However, dealing with xenos is heresy, and though the Kin are often careful to conduct trade through intermediaries posing as abhumans (the so-called Squats found on many worlds), it is only a matter of time before the sheer volume of goods and their superior quality raises suspicion. Many of Stonehewer’s underlings understand this, but are unwilling to contradict their leader, especially as he is acting in accordance with an Ancestor’s guidance.",
+   "ru": ""
+  },
+  "86": {
+   "en": "The Kin are willing to trade for information, particularly if they have reason to believe that a source is trustworthy and well-informed. They prefer to trade replaceable raw materials or salvage acquired in the region rather than relinquish their own artefacts. In some instances, the Kin supplied refurbished Imperium supplies to Imperial outposts without the final recipients recognising that xenos had performed maintenance on the devices.",
+   "ru": ""
+  },
+  "90": {
+   "en": "Tôk’s Firestorm Kindred wear the sigil of a stylised, redorange flame within the outline of a grey cloud. It is generally worn as a shoulder patch and inscribed on all significant pieces of Kin equipment. Notably, they do not typically conceal the sigil when interacting with outside cultures. When asked about it, they refer to it as a family crest.",
+   "ru": ""
+  },
+  "94": {
+   "en": "Resources",
+   "ru": ""
+  },
+  "98": {
+   "en": "The Kindred are well supplied and equipped within the Macharian Sector. ",
+   "ru": ""
+  },
+  "100": {
+   "en": "The Cleansing Flame",
+   "ru": ""
+  },
+  "102": {
+   "en": " is fully crewed and provisioned with equipment, including trade goods. It includes a wing of void shuttles capable of carrying @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.76CFMEzdNOznVcNf]{Hernkyn Yaegirs} to explore the region while the mining vessel continues its extraction and prospecting duties. During their exploration, the mining vessel’s storage capacity has begun to fill with rare and valuable metals and other resources.",
+   "ru": ""
+  },
+  "106": {
+   "en": "When visiting other cultures, the @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.76CFMEzdNOznVcNf]{Hernkyn} bring recording devices, scanners, and samples of their manufactured trade materials. Notably, they also carry duplicate personal equipment for their Yaegirs. That way, if a particular tool appears to have an immediate trade value, it can be bartered and later replaced from ship’s stores. Several of these tools have made their way into the hands of various Tech-Priests, who now hunt for their source.",
+   "ru": ""
+  },
+  "110": {
+   "en": "Methods",
+   "ru": ""
+  },
+  "120": {
+   "en": "Tôk’s Hernkyn are risk-averse as they investigate the Macharian Sector, and have prioritised stealth in their explorations. Whenever possible, they attempt to sneak into facilities — especially Imperial ones — and investigate them from within, posing as travellers from other parts of the world. At the first sign of resistance, the @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.76CFMEzdNOznVcNf]{Hernkyn} attempt to withdraw before the situation escalates. In keeping with this approach, the Kin usually target isolated settlements. The dangers of entering and safely escaping from major cities and hives exceed their calculated safety parameters.",
+   "ru": ""
+  },
+  "124": {
+   "en": "To the best of their abilities, the Kin try to bluff past their physical appearance and clothing differences — most Imperial citizens will always think of them as Squat abhumans upon first impressions. However, any apparent xenos technology they wield will act to out them. Only if they are unable to withdraw peacefully do the @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.76CFMEzdNOznVcNf]{Hernkyn} resort to violence, and they do not hold back. Instead, they quickly escalate to the best of their lethality and attempt to leave no witnesses behind. The Kin understand they might need to depart from the sector entirely if identified as a threat. Their biggest concerns are preserving or at least recovering any of their members and critical equipment. If either is captured, Kindred will escalate the situation. If necessary, they may bring ",
+   "ru": ""
+  },
+  "126": {
+   "en": "The Cleansing Flame",
+   "ru": ""
+  },
+  "128": {
+   "en": " to bear.",
+   "ru": ""
+  },
+  "132": {
+   "en": "Secrets",
+   "ru": ""
+  },
+  "136": {
+   "en": "The Kindred’s presence within the Macharian Sector and their connections outside the region remain a vital point of secrecy. They do not admit to any associations with any @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#the-leagues-of-votann]{Leagues} outside the sector or that such a notional civilisation exists.",
+   "ru": ""
+  },
+  "140": {
+   "en": "The Kindred have found a stable route from the Galactic Core to the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.MzIWAwZ8jPAOydDi]{Yix Subsector}. This means that if they can find worthwhile mining opportunities, they may choose to expand aggressively into the region. Other factions may be very interested in discovering that route, to use themselves or heavily blockade to prevent incursion.",
+   "ru": ""
+  }
+ }
+}

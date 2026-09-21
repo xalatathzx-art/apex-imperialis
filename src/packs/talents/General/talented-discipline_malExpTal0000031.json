@@ -2,7 +2,7 @@
   "name": "Talented (Discipline)",
   "type": "talent",
   "_id": "malExpTal0000031",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Once/session: re-roll Discipline check (take better)</span></p><hr><p><span style=\"font-family: Arial\"><em>You have a natural affinity towards Discipline. You must have two Advances in Discipline. Once per session, you may reroll any Test for Discipline even if the result is already a success. </em></span></p>",

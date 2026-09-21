@@ -2,7 +2,7 @@
   "name": "Stir, Spirits of Iron",
   "type": "talent",
   "_id": "malExpTal0000202",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">When MIU/VIC linked to vehicle, 1/encounter: may Tech-20 test, on success either grant Maneuverable trait OR increase one vehicle weapon damage by IntB. Both last IntB rounds.</span></p><hr><p><span style=\"font-family: Arial\"><em>While linked to a vehicle with your MIU or VIC implant, you can call upon it to enhance one of the vehicles systems. You must make a Hard (-20) Tech Test, if you succeed, you can either boost the vehicles engines and grant it the Maneuverable trait or overcharge one of its weapons by increasing one of the vehicles weapons damages by your Intelligence Bonus. These effects last for a number of rounds equal to your Intelligence Bonus and may only be done once per encounter</em></span></p>",

@@ -3,7 +3,7 @@
   "name": "Xothic Blood Locust Swarm",
   "type": "npc",
   "_id": "g6pD96mjTwnxv9aL",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Exsanguination",
       "type": "trait",
       "_id": "qmlCEVlv5L2ug3oI",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Overwhelming",
       "type": "trait",
       "_id": "aCfCh95aMwBwJ5Zb",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "A Thousand Needles",
       "type": "weapon",
       "_id": "Dov1w034qOBYoD0h",
-      "img": "modules/impmal-core/assets/icons/weapons/melee-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
       "system": {
         "notes": {
           "player": "",

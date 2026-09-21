@@ -2,7 +2,7 @@
   "name": "Storm of Iron",
   "type": "talent",
   "_id": "malExpTal0000138",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">When dealing damage with Rapid Fire: Spread targets all creatured within Short Range of the target</span></p><hr><p><span style=\"font-family: Arial\"><em>When facing a mass of enemies, you lay down a storm of firepower that even the most foolhardy cannot push through. When you deal damage to a target with a Rapid Fire attack with Spread, you target all creatures within Short Range of the target rather than Immediate Range. </em></span></p>",

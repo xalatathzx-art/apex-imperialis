@@ -2,7 +2,7 @@
   "name": "Do not Falter!",
   "type": "talent",
   "_id": "malExpTal0000174",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Test Presence (Leadership) to give allies within Medium range +2SL against Fear/Pinning/Mind-Altering Psychic Powers until end of your next turn</span></p><hr><p><span style=\"font-family: Arial\"><em>You may make a Presence (Leadership) Test to give allies within Medium Range an additional +2SL Bonus to Tests made to resist the effects of Fear, Pinning, and mind-altering psychic powers until the end of your next turn</em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "Faithful (Imperial Cult) Talent, 1 Advance in Presence(Leadership)",
-      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Leadership\" && i.system.skill == \"presence\")?.system?.advances >= 1) && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful(Imperial Cult)\")"
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Leadership\" && i.system.skill == \"presence\")?.system?.advances >= 1) && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful (imperial Cult)\")"
     },
     "test": {
       "difficulty": "challenging",

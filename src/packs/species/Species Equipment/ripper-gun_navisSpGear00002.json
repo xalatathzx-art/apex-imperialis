@@ -2,7 +2,7 @@
   "name": "Ripper Gun",
   "type": "weapon",
   "_id": "navisSpGear00002",
-  "img": "modules/impmal-core/assets/icons/weapons/melee-weapon.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
   "folder": "navisSpFolder004",
   "sort": 200,
   "system": {

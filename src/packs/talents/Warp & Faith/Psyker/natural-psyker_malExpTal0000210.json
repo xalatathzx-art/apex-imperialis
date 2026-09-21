@@ -2,7 +2,7 @@
   "name": "Natural Psyker",
   "type": "talent",
   "_id": "malExpTal0000210",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Choose Minor Psyker Power. 1/encounter may cast this as free action. Can also cast a \"normal\" Psyker power before/after this</span></p><hr><p><span style=\"font-family: Arial\"><em>When you take this talent, choose one Minor Psychic Power. As a Free Action, you may cast this power once per encounter. You will still be able to cast Psychic Powers as an action before or after you use this talent</em></span></p>",

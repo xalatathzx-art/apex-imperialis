@@ -2,7 +2,7 @@
   "name": "Into the Jaws of Hell",
   "type": "talent",
   "_id": "malExpTal0000088",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Followers (not players) are immune to Frightening&Pinning while you lead by example</span></p><hr><p><span style=\"font-family: Arial\"><em>Your followers become immune to the effects of the Frightening Talent and being pinned as long as you are physically there to lead them, and they can see you leading by example. Other player characters cannot benefit from this talent</em></span></p>",

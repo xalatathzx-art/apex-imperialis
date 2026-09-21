@@ -22,14 +22,14 @@ const p = text => ({ description: `<p>${text}</p>` });
 const e = (name, text) => row(`<strong>${name}</strong>: ${text}`);
 const ep = (name, text) => p(`<strong>${name}</strong>: ${text}`);
 
-const COND = "Compendium.impmal-core.journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe";
+const COND = "Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe";
 const PRONE = U(`${COND}#prone`, "Сбит с ног");
 const INCAP = U(`${COND}#incapacitated`, "Беспомощность");
 const FRIGHTENED = U(`${COND}#frightened`, "Страх");
 const STUNNED = U(`${COND}#stunned`, "Оглушение");
 const BLINDED = U(`${COND}#blinded`, "Слепота");
 const HALLUCINOGENIC = U(
-  "Compendium.impmal-inquisition.tables.RollTable.Dy8XzuHFhHpVFytC",
+  "Compendium.navis-apexialis.navis-inquisition-tables.RollTable.Dy8XzuHFhHpVFytC",
   "Действие галлюциногена"
 );
 

@@ -1,0 +1,65 @@
+{
+ "journal": "beAtErDMWYboLh9i",
+ "journalName": "Skills, Talents & Psychic Powers",
+ "page": "5BbYmstc3PJB4IZJ",
+ "pageName": "Skill Specialisations",
+ "name": "Специализации умений",
+ "runs": {
+  "2": {
+   "en": "The following Skill Specialisations are available to Acolytes of the Inquisition. Rules in full for @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.2MqLlcSMDCxkumCk#specialisations]{Skill Specialisations} are in ",
+   "ru": "IV s\nЧтобы преследовать и уничтожать врагов\nИмпериума слуги Инквизиции должны быть умелы\nи искусны. Некоторые агенты были завербованы\nименно за свои способности, другие оттачивают\nталанты уже на службе, приспосабливаясь к новым\nтребованиям и опасностям.\nЭта глава вводит новые специализации умений,\nталанты и психосилы, которые могут быть полезны\nили необходимы на службе в свите инквизитора,\nтем самым расширяя базовый перечень (стр. 91).\nПомните, что эта глава не отражает все доступные\nварианты – @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.2MqLlcSMDCxkumCk#specialisations]{Skill Specialisations}"
+  },
+  "6": {
+   "en": "Imperium Maledictum",
+   "ru": "чтобы создать сбалансированного\nперсонажа"
+  },
+  "16": {
+   "en": "Lore (Int): ",
+   "ru": "вам потребуется книга"
+  },
+  "18": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Nk6wt84q4L3inGkG]{Major Ordos}",
+   "ru": "правил.\nКак указано в книге правил, приведённые ниже\nспециализации умений – не единственные\nвозможные. Если игрок хочет получить\nопределённую специализацию (либо ведущий @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Nk6wt84q4L3inGkG]{Major Ordos}"
+  },
+  "20": {
+   "en": " (Various, Restricted).",
+   "ru": "хочет\nввести уместную для своей кампании),"
+  },
+  "22": {
+   "en": " When choosing this Specialisation, select either the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq.JournalEntryPage.AyQTdRJpdVm3zqdF#ordo-hereticus]{Ordo Hereticus}, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq.JournalEntryPage.AyQTdRJpdVm3zqdF#ordo-malleus]{Malleus}, or @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq.JournalEntryPage.AyQTdRJpdVm3zqdF#ordo-xenos]{Xenos}. You gain knowledge of the Ordo, including famous Inquisitors, the Ordos methods, iconic wargear, and typical foes. This Specialisation allows a character to requisition, commission, or craft wargear unique to the Ordo.",
+   "ru": "он может\nсделать это. Важно помнить, что специализации\nпризваны отражать мастерство на определённом\nузком поприще – они не должны быть слишком\nширокими и должны быть чётко связаны с\nопределённым умением.\nУ многих талантов есть требования, которым\nперсонаждолженудовлетворять,чтобыприобрести\nэтот талант. Если герой перестал соответствовать\nтребованиям, он теряет этот талант.\nУМЕНИЙ_____________\nНиже перечислены доступные аколитам Инквизиции\nспециализации. Полные правила специализаций см. в\nкниге правил на стр. 92.\nЗнания (Инт): Ордос Майорис (Разные, Особое).\nПриобретая эту специализацию, выберите её вариант\n– Ордо Еретикус, Ордо Маллеус или Ордо Ксенос. Вы\nобладаете знаниями об этом ордене, помните его\nвыдающихся инквизиторов, разбираетесь в методах,\nхарактерном снаряжении и типичных врагах. Также\nэта специализация позволяет герою приобретать,\nзаказывать или создавать уникальное для ордоса\nснаряжение.\nВзаимопонимание (Тов): Ксеножаргон. Знание\nэтикета, невербальных сигналов и общее понимание\nтого, как вести себя при общении с ксеносами –\nособенно теми, что часто вступают в контакт с\nЧеловечеством. Эта специализация помогает начать\nразговор или иное взаимодействие с чужаком,\nподсказывая, как сделать это в нейтральном тоне.\nСкрытность или Ловкость рук (Лов): Перевлощение.Эта специализация подразумевает не только\nпереодевание, но также смену манеры @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq.JournalEntryPage.AyQTdRJpdVm3zqdF#ordo-hereticus]{Ordo Hereticus} @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq.JournalEntryPage.AyQTdRJpdVm3zqdF#ordo-malleus]{Malleus} @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq.JournalEntryPage.AyQTdRJpdVm3zqdF#ordo-xenos]{Xenos}"
+  },
+  "28": {
+   "en": "Rapport (Fel): ",
+   "ru": "поведения,\nязыка тела и стиля"
+  },
+  "30": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.licxLnR8D6dPHcdl]{Xeno-Cant}. An assortment of etiquette, specific body language clues, and general knowledge of approaching and dealing with various xenos species, particularly ones that often make contact with Humanity. This Specialisation helps begin the process of conversation and interaction with xenos, guiding a character in how to approach on neutral terms.",
+   "ru": "речи. Как правило, просто избежать\nразоблачения или подозрений проще, чем выдавать\nсебя за кого-то конкретного. Обычно этому умению\nпротивостоит Чутьё.\nМедика (Инт): Химика. Персонаж разбирается в\nхимии, умеет определять образцы веществ и\nраспознавать признаки ядов и токсинов в существе\nили трупе. Также он разбирается в том, как создавать\nстимуляторы, яды и токсины.\niV\nИ ПСИХОСИЛЫ @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.licxLnR8D6dPHcdl]{Xeno-Cant}"
+  },
+  "36": {
+   "en": "Stealth/Dexterity (Ag): ",
+   "ru": "IV s Чтобы преследовать и уничтожать врагов Империума слуги Инквизиции должны быть умелы и искусны. Некоторые"
+  },
+  "38": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.4nfLviZnCvPvxPrz]{Disguise}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.4nfLviZnCvPvxPrz]{Disguise}"
+  },
+  "42": {
+   "en": " Training in disguise, not merely in terms of clothes and accessories, but also in mannerisms, body language, and verbal cues. Avoiding discovery or suspicion is typically easier than attempting to mimic or assume the identity of another individual. Disguise is typically opposed by Intuition.",
+   "ru": "агенты были завербованы именно за свои способности, другие оттачивают таланты уже на службе, приспосабливаясь к новым требованиям и опасностям. Эта глава вводит новые специализации умений, таланты и психосилы, которые могут быть полезны или необходимы на службе в свите инквизитора, тем самым расширяя базовый перечень (стр.  ). Помните, что эта глава не отражает все доступные варианты – чтобы создать сбалансированного персонажа вам потребуется книга правил. Как указано в книге правил, приведённые ниже специализации умений – не единственные возможные. Если игрок хочет получить определённую специализацию (либо ведущий хочет ввести уместную для своей кампании), он может сделать это. Важно помнить, что специализации призваны отражать мастерство на определённом узком поприще – они не должны быть слишком широкими и должны быть чётко связаны с определённым умением. У многих талантов есть требования, которым персонаждолженудовлетворять,чтобыприобрести этот талант. Если герой перестал соответствовать требованиям, он теряет этот талант. УМЕНИЙ_____________ Ниже перечислены доступные аколитам Инквизиции специализации. Полные правила специализаций см. в книге правил на стр.  . Знания (Инт): Ордос Майорис (Разные, Особое). Приобретая эту специализацию, выберите её вариант – Ордо Еретикус, Ордо Маллеус или Ордо Ксенос. Вы обладаете знаниями об этом"
+  },
+  "48": {
+   "en": "Medicae (Int): ",
+   "ru": "ордене, помните его выдающихся инквизиторов, разбираетесь в методах,"
+  },
+  "50": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.6cR5Ys6Jbp9s5VMn]{Chem-Use}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.6cR5Ys6Jbp9s5VMn]{Chem-Use}"
+  },
+  "54": {
+   "en": " Knowledge and expertise in chemistry, identifying chemical samples and the signs of poisons or toxins in a creature or corpse. Including an understanding of how to better craft chemical stimulants, poisons, and toxins.",
+   "ru": "характерном снаряжении и типичных врагах. Также эта специализация позволяет герою приобретать, заказывать или создавать уникальное для ордоса снаряжение. Взаимопонимание (Тов): Ксеножаргон. Знание этикета, невербальных сигналов и общее понимание того, как вести себя при общении с ксеносами – особенно теми, что часто вступают в контакт с Человечеством. Эта специализация помогает начать разговор или иное взаимодействие с чужаком, подсказывая, как сделать это в нейтральном тоне. Скрытность или Ловкость рук (Лов): Перево- площение.Эта специализация подразумевает не только переодевание, но также смену манеры поведения, языка тела и стиля речи. Как правило, просто избежать разоблачения или подозрений проще, чем выдавать себя за кого-то конкретного. Обычно этому умению противостоит Чутьё. Медика (Инт): Химика. Персонаж разбирается в химии, умеет определять образцы веществ и распознавать признаки ядов и токсинов в существе или трупе. Также он разбирается в том, как создавать стимуляторы, яды и токсины. iV И ПСИХОСИЛЫ"
+  }
+ }
+}

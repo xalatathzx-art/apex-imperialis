@@ -1,0 +1,161 @@
+{
+ "journal": "KbejcPMug5gfoWWz",
+ "journalName": "Subtlety",
+ "page": "UFzvuaAyzYywGpnN",
+ "pageName": "Changing Subtlety",
+ "name": "Изменение секретности",
+ "runs": {
+  "8": {
+   "en": "Though any mission begins with a set Subtlety rating, the party’s choices and activities during the mission cause it to increase or decrease. Enough change can eventually push Subtlety to a new level, typically deteriorating, changing the narrative and mechanical impacts on the further mission. At the end of an encounter and whenever the party engages in relevant activities between encounters, the GM should consider the events since the last Subtlety adjustment and increase or decrease accordingly. The questions in the @UUID[.XyTxLhjDZDkpE0Lz#changing-subtlety-ratings]{Changing Subtlety Ratings} Table are a great primer for judging what can trigger Subtlety changes, but they don’t cover every possibility.",
+   "ru": "VII СЕКРЕТНОСТЬ\nИЗМЕНЕНИЕ СЕКРЕТНОСТИ\nИсходный уровень секретности задаёт ведущий, но\nрешения и действия группы могут повысить или\nпонизить его уже в ходе задания. Порой это может\nсменить статус команды (обычно к худшему) и\nоказать, как механическое, так и повествовательное\nвоздействие на сюжет. В конце каждой сцены (а также\nвсякий раз, когда группа занимается чем-то важным\nмежду сценами) ведущему стоит оценить события,\nчто произошли с последнего изменения секретности\nи повысить или понизить её. Вопросы из таблицы\nизменениясекретностисо стр. 117 – отличный пример\nтого, какие действия могут изменить секретность, но\nэто не исчерпывающий список. Ниже дано более\nподробное руководство.\nКак правило, каждая сцена может принести от -2 до\n+1 очка секретности (есть два способа @UUID[.XyTxLhjDZDkpE0Lz#changing-subtlety-ratings]{Changing Subtlety Ratings}"
+  },
+  "12": {
+   "en": "Typically, each encounter can affect a party’s Subtlety rating between a range of −2 and +1 (two possible instances of −1 and a single possible +1).",
+   "ru": "получить -1 и\nодин способ получить +1).\nТем не менее, у аколитов всегда есть возможность\nотбросить осторожность и совершить что-то\nдраматичное, что резко обрушит"
+  },
+  "16": {
+   "en": "But there are always opportunities for parties to throw caution to the wind and do something dramatic to make their Subtlety Ratings plummet. Conversely, the GM may even have a plot twist up their sleeve to do the same (after all, no one is stopping an Inquisition Patron from announcing their acolyte’s existence). In such cases, the GM should choose a Level and shift their party’s rating to the best fit.",
+   "ru": "секретность. В свою\nочередь ведущий также может припасти похожий\nсюжетныйход(например,покровительможетобъявить\nо существовании своих аколитов). В таких случаях\nведущий выбирает новый статус группы и подгоняет\nуровень под него так, как считает лучшим.\nИзменившиеся обстоятельства также могут привести\nк изменению секретности. К примеру, если группа\nдействует в улье, чей губернатор объявляет\nкомендантский час, секретность явно упадёт, ведь"
+  },
+  "20": {
+   "en": "Changing circumstances within the party’s area of operation may also cause Subtlety adjustments. For example, if the party is operating in a hive and the Governor orders a hive-spanning security lockdown, the party’s Subtlety could naturally decrease since there are more eyes on the people. On the other hand, if the local populace is suddenly affected by a breakout daemonic plague, the presence of Inquisitorial entities may not be the people’s greatest priority, allowing the party’s Subtlety to increase.",
+   "ru": "за\nкаждым теперь будет следить больше глаз. С другой\nстороны, если местных терзает вспышка демонической\nчумы, то никто не обратит внимание на якобы\nинквизиторских подмастерьев, отчего секретность\nможет вырасти.\n\nVII СЕКРЕТНОСТЬ\nСНИЖЕНИЕ УРОВНЯ СЕКРЕТНОСТИ\nПотерять секретность легко, а подозрения\nвызывать нетрудно; кроме того, группа может терять\nсекретность просто за то, что ведёт расследование,\nне думая маскировать своё вмешательство.\nПосле каждой сцены ведущему стоит подумать над\nпроизошедшим и задать себе следующие вопросы:\n0 П П По о од д до о"
+  },
+  "26": {
+   "en": "Decreasing Subtlety Rating",
+   "ru": "оз з зр р ри и ит т те е ел"
+  },
+  "30": {
+   "en": "Decreasing Subtlety is relatively simple because there are many ways to act suspiciously unintentionally; the party can also decrease Subtlety simply by acting without secrecy as they prosecute their investigation. After each encounter, the GM should consider the following questions about what just occurred:",
+   "ru": "л ль ь ьн н ны ы ые е е д д де е ей й йс с ст т тв в ви и ия я я: :: заметил ли кто-то, как\nперсонажи занимались чем-то подозрительным?\nВстречались ли они с связными в необычных\nобстоятельствах, бывали ли около охраняемых\nили находящихся под наблюдением объектов?\n0 У У Ул л ли и ик к ки и и: :: назвался ли кто-то из членов группы\nсвоим"
+  },
+  "40": {
+   "en": "Suspicious Activity",
+   "ru": "настоящим именем,"
+  },
+  "42": {
+   "en": ": Have they been spotted engaging in suspicious activity in and around the mission? Meeting with contacts in unusual circumstances or loitering around high-security or scrutinised locations?",
+   "ru": "имея дело с властями?\nОставили ли герои явные доказательства\nприменения специальных инструментов или\nвзлома (отмычки, направленные заряды\nвзрывчатки, повреждённые сервиторы)?\nОставили ли они какие-то важные"
+  },
+  "52": {
+   "en": "Evidence",
+   "ru": "бумаги\n(чертежи"
+  },
+  "54": {
+   "en": ": Did any party member log their real name with a local authority? Did they leave behind any clear evidence of using specialised tools or tampering (like lockpicks, direct explosives, or damaged servitors)? Did they leave any sensitive documents (building schematics, stolen or falsified documents, guard schedules)?",
+   "ru": "здания, краденые или поддельные\nдокументы, расписание караулов)?\n0 Б Б Бо о ой й й: :: вступали ли они в открытый бой, наносили\nли сопутствующий урон, использовали ли особо\nприметное оружие? Они уничтожили крупный\nотряд врагов в одном столкновении? Похитили\nили убили человека, которого хватятся?\n0 В В Вл л ли и ия я ян н ни и ие е е:"
+  },
+  "64": {
+   "en": "Combat",
+   "ru": "применялось"
+  },
+  "66": {
+   "en": ": Have they engaged in open combat, caused collateral damage, or used particularly noticeable weaponry? Did they eliminate a large group of enemies simultaneously? Did they kill or capture any characters who would be missed?",
+   "ru": "ли влияние их покровителя\nили личное влияние (или изменялось ли оно)?\n0 П П Пс с си и их х хо о ос с си и ил л лы ы ы: :: применяли ли они очевидные\nпсихосилы, вызывающие психические феномены,\nили прилюдно пережили прорыв Варпа?\n0 С С Сн н на а"
+  },
+  "76": {
+   "en": "Influence",
+   "ru": "ар р ря я"
+  },
+  "78": {
+   "en": ": Did they have an interaction where their Patron’s Influence or a character’s Influence applies (or has been altered)?",
+   "ru": "яж ж же е ен н ни и ие е е: :: кто-то из них открыто носил или\nиспользовал необычное снаряжение или одежду?\nОни демонстрировали"
+  },
+  "88": {
+   "en": "Psychic Powers",
+   "ru": "розетту?\n0"
+  },
+  "90": {
+   "en": ": Did they use any @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1.JournalEntryPage.T3pf1AmXi3Qnm6ev#overt-powers]{Overt Psychic Power}, causing @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1.JournalEntryPage.buydA5mPJln97Qk5#psychic-phenomena]{Psychic Phenomena}, or publicly suffer the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1.JournalEntryPage.buydA5mPJln97Qk5#perils-of-the-warp]{Perils of the Warp}?",
+   "ru": "Демоны, мутанты, ксеносы: оставили ли они за\nсобой (или не смогли замести) следы присутствия\nксенотеха, доказательства обрядов культа или\nприсутствия демонов?\n0 И И Иг г гр р ро о ов в ва а ая я я м м ме е ех х ха а ан н ни и ик к ка а а: :: кто-то успешно прошёл\nпроверку, полагающуюся на то, что человек, с\nкоторым он имеет дело, верит, что он связаны с\nИнквизицией? Кто-нибудь получил критический\nпровал при попытке оценить статус и уровень\nсекретности?\nЕсли на вопрос приходится ответить «да», ведущий\nможет подумать о том, чтобы снизить секретность\nна 1. @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1.JournalEntryPage.T3pf1AmXi3Qnm6ev#overt-powers]{Overt Psychic Power} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1.JournalEntryPage.buydA5mPJln97Qk5#psychic-phenomena]{Psychic Phenomena} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1.JournalEntryPage.buydA5mPJln97Qk5#perils-of-the-warp]{Perils of the Warp}"
+  },
+  "100": {
+   "en": "Equipment",
+   "ru": "Если таких"
+  },
+  "102": {
+   "en": ": Is any party member openly wearing, carrying, or using unusual equipment or clothing? Did they openly display an @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq.JournalEntryPage.8VTOoxqcL2uC3eZm#the-inquisitorial-rosette]{Inquisitorial Rosette?}",
+   "ru": "«да» будет несколько, он может\nснизитьсекретностьна2,ноещёбольшееснижение\nсекретности должно быть итогом по-настоящему\nдраматичных событий.\nУВЕЛИЧЕНИЕ УРОВНЯ СЕКРЕТНОСТИ\nПовышать секретность несколько сложнее,\nпоскольку заставить людей умерить свои\nподозрения труднее, чем вызвать их. Поддерживать\nсекретность на @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq.JournalEntryPage.8VTOoxqcL2uC3eZm#the-inquisitorial-rosette]{Inquisitorial Rosette?}"
+  },
+  "112": {
+   "en": "Daemon, Mutant, Xenos",
+   "ru": "примерно одном уровне"
+  },
+  "114": {
+   "en": ": Did they leave behind or fail to clean up the presence of any xenos technology or evidence of cult rituals or daemonic presence?",
+   "ru": "проще, чем\nповышать. Так или иначе, группа может повысить\nсекретность, если целенаправленно пытается\nзамести следы или отвлечь чужое"
+  },
+  "124": {
+   "en": "Mechanical",
+   "ru": "внимание.\nПосле"
+  },
+  "126": {
+   "en": ": Did anyone succeed on a Test that relies on someone believing they are directly affiliated with the Inquisition? Did they roll a Critical Failure when gauging their current Subtlety Rating and Level?",
+   "ru": "каждой сцены ведущему стоит подумать над\nпроизошедшим и задать себе следующие вопросы:\n0 П П Пе е ер р ре е ек к кл л ла а ад д ды ы ыв в ва а ан н ни и ие е е в в ви и ин н ны ы ы: :: смогли ли аколиты\nподставить"
+  },
+  "134": {
+   "en": "If any circumstance causes these questions to be correct, the GM should consider reducing the party’s Subtlety Level by −1. If multiple circumstances cause an answer in the affirmative, reduce their Subtlety by −2; any further reductions would have to result from a truly dramatic twist.",
+   "ru": "другого персонажа (возможно, из\nдругого ведомства) под последствия своих\nдействий?\n0 А А Ал л ли и иб б би и и: :: сумела ли группа обеспечить себе\nправдоподобное алиби, отправляясь на задание?\n0 В В Вз з зя я ят т тк к ка а а: :: сумели ли аколиты убедить местных\nвластей замять распространение информации"
+  },
+  "142": {
+   "en": "Increasing Subtlety Rating",
+   "ru": "о\nпроизошедшем?\n0 О О От т тв"
+  },
+  "146": {
+   "en": "Increasing Subtlety is relatively difficult because it takes considerably more effort to make people less suspicious than they already are. It’s easier to maintain Subtlety at a certain rating than restore it. Regardless of the difficulty, the party can increase Subtlety by engaging in activities to cover their tracks or divert public attention. After each encounter, the GM should consider the following questions about what just occurred:",
+   "ru": "в вл л ле е еч ч че е ен н ни и ие е е: :: смогли ли герои спровоцировать\nволнения в округе или иным образом отвлечь\nместные власти? Озаботились ли они подкрепить\nэто подложными уликами?\n0 У У Уг г гр р ро о оз з зы ы ы: :: угрожали ли они свидетелям и требовали\nдать нужные показания (психическое воздействие\nтоже считается)?\n0 З З За а ал л ле е еч ч чь ь ь н н на а а д д дн н но о о: :: обеспечили они себе путь отхода,\nсилы поддержки и возможность пропасть с\nрадаров после завершения"
+  },
+  "156": {
+   "en": "Framing",
+   "ru": "задания?\nОтветив"
+  },
+  "158": {
+   "en": ": Did they frame a character, perhaps from another organisation, to take the fall for their activities?",
+   "ru": "на вопрос «да», повысьте секретность на\n+1. Если таких «да» будет несколько, не\nскладывайте результаты; как"
+  },
+  "168": {
+   "en": "Alibi",
+   "ru": "правило,"
+  },
+  "170": {
+   "en": ": Did the party set up a plausible alibi before going on the mission?",
+   "ru": "секретность\nможет вырасти только на одно очко (с учётом всех\nминусов;"
+  },
+  "180": {
+   "en": "Bribe",
+   "ru": "рассчитывайте"
+  },
+  "182": {
+   "en": ": Did they enlist local authorities to suppress information and communications around the incident forcibly?",
+   "ru": "сперва штрафы к\nсекретности и только потом все бонусы; общий\nитог не может быть выше +1)."
+  },
+  "192": {
+   "en": "Mislead",
+   "ru": "VII СЕКРЕТНОСТЬ ИЗМЕНЕНИЕ СЕКРЕТНОСТИ Исходный уровень"
+  },
+  "194": {
+   "en": ": Did they instigate a disturbance nearby to mislead or distract local organisations or authorities? Did they fabricate and plant any misleading evidence at the scene?",
+   "ru": "секретности задаёт ведущий, но решения и действия группы могут повысить или понизить его уже в ходе задания. Порой это может сменить статус команды (обычно к худшему) и оказать, как механическое, так и повествовательное воздействие на сюжет. В конце каждой сцены (а также всякий раз, когда группа занимается чем-то важным между сценами) ведущему стоит оценить события, что произошли с последнего изменения секретности и повысить или понизить её. Вопросы из таблицы изменениясекретностисо стр.   – отличный пример того, какие действия могут изменить секретность, но это не исчерпывающий список. Ниже дано более подробное руководство. Как правило, каждая сцена может принести от -  до +  очка секретности (есть два способа получить -  и один способ получить + ). Тем не менее, у аколитов всегда есть возможность отбросить осторожность и совершить что-то драматичное, что резко обрушит секретность. В свою очередь ведущий также может припасти похожий сюжетныйход(например,покровительможетобъявить о существовании своих аколитов). В таких случаях ведущий выбирает новый статус группы и подгоняет уровень под него так, как считает лучшим. Изменившиеся обстоятельства также могут привести к изменению секретности. К примеру, если группа действует в улье, чей губернатор объявляет комендантский час, секретность явно упадёт, ведь за каждым теперь будет следить больше глаз. С другой"
+  },
+  "204": {
+   "en": "Threaten",
+   "ru": "стороны, если местных терзает вспышка демонической чумы, то никто"
+  },
+  "206": {
+   "en": ": Did they threaten witnesses to speak a different truth (including psychically influencing them to do so)?",
+   "ru": "не обратит внимание на якобы инквизиторских подмастерьев, отчего секретность может вырасти.   VII СЕКРЕТНОСТЬ СНИЖЕНИЕ УРОВНЯ СЕКРЕТНОСТИ Потерять секретность легко, а подозрения вызывать нетрудно; кроме того, группа может терять секретность просто за то, что ведёт расследование, не думая маскировать своё вмешательство. После каждой сцены ведущему стоит подумать над произошедшим и задать себе следующие вопросы:   П П По о од д до о оз з зр р ри и ит т те е ел л ль ь ьн н ны ы ые е е д д де е ей й йс с ст т тв в ви и ия я я: :: заметил ли кто-то, как персонажи занимались чем-то подозрительным? Встречались ли они с связными в необычных обстоятельствах, бывали ли около охраняемых или находящихся под наблюдением объектов?   У У Ул л ли и ик к ки и и: :: назвался ли кто-то из членов группы своим настоящим именем, имея дело с властями? Оставили ли герои явные доказательства"
+  },
+  "216": {
+   "en": "Lay Low",
+   "ru": "применения специальных инструментов или взлома (отмычки,"
+  },
+  "218": {
+   "en": ": Did they secure a proper escape route from the scene, including backups, and intend to lay low after the mission?",
+   "ru": "направленные заряды взрывчатки, повреждённые сервиторы)? Оставили ли они какие-то важные бумаги (чертежи здания, краденые или поддельные документы, расписание караулов)?   Б Б Бо о ой й й: :: вступали ли они в открытый бой, наносили ли сопутствующий урон, использовали ли особо приметное оружие? Они уничтожили крупный отряд врагов в одном столкновении? Похитили или убили человека, которого хватятся?   В В Вл л ли и ия я ян н ни и ие е е: применялось ли влияние их покровителя или личное влияние (или изменялось ли оно)?   П П Пс с си и их х хо о ос с си и ил л лы ы ы: :: применяли ли они очевидные психосилы, вызывающие психические феномены, или прилюдно пережили прорыв Варпа?   С С Сн н на а ар р ря я яж ж же е ен н ни и ие е е: :: кто-то из них открыто носил или использовал необычное снаряжение или одежду? Они демонстрировали розетту?   Демоны, мутанты, ксеносы: оставили ли они за собой (или не смогли замести) следы присутствия ксенотеха,"
+  },
+  "226": {
+   "en": "If the answer is correct, increase their Subtlety Level by +1. Note that multiple efforts do not multiply results; typically, only a total +1 can be obtained, further weighed by any −1’s accrued from their reductions (calculate the negatives before weighing in the positives).",
+   "ru": "доказательства обрядов культа или присутствия демонов?   И И Иг г гр р ро о ов в ва а ая я я м м ме е ех х ха а ан н ни и ик к ка а а: :: кто-то успешно прошёл проверку, полагающуюся на то, что человек, с которым он имеет дело, верит, что он связаны с Инквизицией? Кто-нибудь получил критический провал при попытке оценить статус и уровень секретности? Если на вопрос приходится ответить «да», ведущий может подумать о том, чтобы снизить секретность на  . Если таких «да» будет несколько, он может снизитьсекретностьна ,ноещёбольшееснижение секретности должно быть итогом по-настоящему драматичных событий. УВЕЛИЧЕНИЕ УРОВНЯ СЕКРЕТНОСТИ Повышать секретность несколько сложнее, поскольку заставить людей умерить свои подозрения труднее, чем вызвать их. Поддерживать секретность на примерно одном уровне проще, чем повышать. Так или иначе, группа может повысить секретность, если целенаправленно пытается замести следы или отвлечь чужое внимание. После каждой сцены ведущему стоит подумать над произошедшим и задать себе следующие вопросы:   П П Пе е ер р ре е ек к кл л ла а ад д ды ы ыв в ва а ан н ни и ие е е в в ви и ин н ны ы ы: :: смогли ли аколиты подставить другого персонажа (возможно, из другого ведомства) под последствия своих действий?   А А Ал л ли и иб б би и и: :: сумела ли группа обеспечить себе правдоподобное алиби, отправляясь на задание?   В В Вз з зя я ят т тк к ка а а: :: сумели ли аколиты убедить местных властей замять распространение информации о произошедшем?   О О От т тв в вл л ле е еч ч че е ен н ни и ие е е: :: смогли ли герои спровоцировать волнения в округе или иным образом отвлечь местные власти? Озаботились ли они подкрепить это подложными уликами?   У У Уг г гр р ро о оз з зы ы ы: :: угрожали ли они свидетелям и требовали дать нужные показания (психическое воздействие тоже считается)?   З З За а ал л ле е еч ч чь ь ь н н на а а д д дн н но о о: :: обеспечили они себе путь отхода, силы поддержки и возможность пропасть с радаров после завершения задания? Ответив на вопрос «да», повысьте секретность на + . Если таких «да» будет несколько, не складывайте результаты; как правило, секретность может вырасти только на одно очко (с учётом всех минусов; рассчитывайте сперва штрафы к секретности и только потом все бонусы; общий итог не может быть выше + )."
+  }
+ }
+}

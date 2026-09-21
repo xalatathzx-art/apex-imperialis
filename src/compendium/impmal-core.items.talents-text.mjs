@@ -66,12 +66,12 @@ const SELLING = "JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.k5sND1C17nY9xB1G
 
 const DENY_THE_WITCH = "JournalEntry.3mzwixuzgerGUpu1.JournalEntryPage.T3pf1AmXi3Qnm6ev#deny-the-witch!";
 const BETWEEN_MISSIONS = "JournalEntry.eUFS6mIQy2oiz6IX";
-const PSYNISCIENCE = "Compendium.impmal-core.items.Item.lBzdm76EnuuoGfMq";
-const AELDARI_RANGER = "Compendium.impmal-core.actors.Actor.xHzo06YI2vDu4kM0";
-const HOLY_ICON = "Compendium.impmal-core.items.Item.oaY0wS7LewD6DXK6";
-const CHIRURGEONS_KIT = "Compendium.impmal-core.items.Item.qjjlckQ3WvF4KLxO";
-const AUSPEX = "Compendium.impmal-core.items.Item.dO7XoDXD9QYTy6zZ";
-const DEVOTED_SERVANT_TABLE = "Compendium.impmal-core.items.Item.GGfP3Qfmx9Zodkol";
+const PSYNISCIENCE = "Compendium.navis-apexialis.navis-core-items.Item.lBzdm76EnuuoGfMq";
+const AELDARI_RANGER = "Compendium.navis-apexialis.navis-core-actors.Actor.xHzo06YI2vDu4kM0";
+const HOLY_ICON = "Compendium.navis-apexialis.navis-core-items.Item.oaY0wS7LewD6DXK6";
+const CHIRURGEONS_KIT = "Compendium.navis-apexialis.navis-core-items.Item.qjjlckQ3WvF4KLxO";
+const AUSPEX = "Compendium.navis-apexialis.navis-core-items.Item.dO7XoDXD9QYTy6zZ";
+const DEVOTED_SERVANT_TABLE = "Compendium.navis-apexialis.navis-core-items.Item.GGfP3Qfmx9Zodkol";
 const RANDOM_TALENTS = "RollTable.9SLhM8FOgluaUwvO";
 
 export const byName = {

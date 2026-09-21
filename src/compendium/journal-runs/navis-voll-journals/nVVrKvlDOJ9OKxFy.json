@@ -1,0 +1,141 @@
+{
+ "journal": "DSccO5miF7LSJCVS",
+ "journalName": "Illicit Fabrications",
+ "page": "nVVrKvlDOJ9OKxFy",
+ "pageName": "Aftermath",
+ "name": "Развязка",
+ "runs": {
+  "2": {
+   "en": "If he is taken alive, @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Kathor Navrak}} pleads for his life. He promises the characters wealth and power, claiming connections with noble houses and extensive forbidden knowledge — all this is nothing but bluster aimed to save his own skin. Any examination of his purported connections reveals them to be a lie. His fate is at the character’s discretion, though if they do not prevent her from doing so, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Lerna Harrog} makes quick work of the man to fulfil her vendetta.",
+   "ru": "Если @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Катора Наврака} удастся взять живым, он молит о пощаде. Он сулит персонажам богатство и власть, хвастаясь связями в благородных домах и обширными запретными знаниями, — но всё это лишь пустое бахвальство ради спасения собственной шкуры. Любая проверка его мнимых связей показывает, что это ложь. Его судьбу решают персонажи, хотя, если они не помешают, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Лерна Харрог} быстро расправится с ним, свершив свою месть."
+  },
+  "6": {
+   "en": "If rescued, Tech-Priest @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Arx} offers a stilted, emotionless expression of gratitude for the rescue. The Tech-Priest is not of any notable rank, but directs his thanks to the party member with the most artificial limbs and implants, assuming they are in charge of the group. If the party escorts Arx back to the Skitarii, who are still occupying the ruins on the surface, the characters are approached by Landa-12 and thanked for their aid and told to leave — about the warmest thanks they could expect from the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.vsiOALilPnEe3dKg]{Skitarii Alpha}. The Skitarii immediately call off their crackdown of the area and retreat to their base at the ruined manufactorum.",
+   "ru": "Спасённый техножрец @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Аркс} выражает скупую, бесстрастную благодарность. Техножрец не занимает сколько-нибудь заметного положения, но обращает слова благодарности к тому члену отряда, у кого больше всего искусственных конечностей и имплантатов, полагая, что он здесь главный. Если отряд сопроводит Аркса к скитариям, которые по-прежнему занимают руины на поверхности, к персонажам подходит Ланда-12, благодарит их за помощь и велит уходить, — пожалуй, самая тёплая благодарность, какой можно ждать от @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.vsiOALilPnEe3dKg]{альфы скитариев}. Скитарии немедленно сворачивают облаву и отступают на свою базу в руинах мануфакторума."
+  },
+  "10": {
+   "en": "If @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Lerna Harrog} survived, the party has a difficult choice. She is a mutant, abhorrent in the God-Emperor’s eyes, but has also offered extensive aid to the characters. Do they believe she is a traditional mutant or merely the victim of chemical misfortune? Undisturbed, she gives thanks and turns her back on the characters, making for the maintenance tunnels she has hidden in thus far.",
+   "ru": "Если @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Лерна Харрог} выжила, отряду предстоит непростой выбор. Она мутант, мерзость в глазах Бога-Императора, но при этом немало помогла персонажам. Считают ли они её обычным мутантом или лишь жертвой химического несчастья? Если её не трогать, она благодарит персонажей, поворачивается к ним спиной и уходит в технические туннели, где пряталась до сих пор."
+  },
+  "14": {
+   "en": "Some NPCs the characters encountered could become valuable Contacts or Hirelings in their future adventures, such as ",
+   "ru": "Некоторые NPC, встреченные персонажами, могут стать ценными контактами или наёмниками в будущих приключениях, например "
+  },
+  "16": {
+   "en": "Tech-Priest",
+   "ru": "техножрец"
+  },
+  "18": {
+   "en": " @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Tybaris Arx} (if they successfully rescued him). ",
+   "ru": " @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Тибарис Аркс} (если его удалось спасти). "
+  },
+  "20": {
+   "en": "Datan",
+   "ru": "Датан"
+  },
+  "24": {
+   "en": "Kem",
+   "ru": "Кем"
+  },
+  "28": {
+   "en": "Yarneg",
+   "ru": "Ярнег"
+  },
+  "30": {
+   "en": " or ",
+   "ru": " или "
+  },
+  "32": {
+   "en": "Varik",
+   "ru": "Варик"
+  },
+  "34": {
+   "en": " all have significant connections in @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth's} underbelly (depending on who among them the characters left a favourable impression upon). Even the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{Skitarii Vanguard}, including their Alpha, ",
+   "ru": " — у каждого из них серьёзные связи на дне @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта} (в зависимости от того, на кого из них персонажи произвели хорошее впечатление). Даже @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{скитарии-авангарды}, включая их альфу "
+  },
+  "36": {
+   "en": "Landa-12",
+   "ru": "Ланду-12"
+  },
+  "38": {
+   "en": ", could become a valuable contact if they were treated as more of an ally than a foe during the adventure.",
+   "ru": ", могут стать ценным контактом, если в ходе приключения персонажи обращались с ними скорее как с союзниками, чем как с врагами."
+  },
+  "42": {
+   "en": "Experience Points",
+   "ru": "Очки опыта"
+  },
+  "46": {
+   "en": "All characters should earn @Reward[xp=30 reason=Illicit Fabrications]{30 XP} for participating in the adventure, but if any characters achieved personal goals or fulfilled a goal for a Patron their reward should be increased accordingly. In addition, the following experience can be awarded:",
+   "ru": "Все персонажи должны получить @Reward[xp=30 reason=Illicit Fabrications]{30 ОО} за участие в приключении, но если кто-то из них достиг личных целей или выполнил задачу покровителя, награду стоит соответственно увеличить. Кроме того, можно начислить следующий опыт:"
+  },
+  "54": {
+   "en": "@Reward[xp=10 reason=Tracked Kathor Navrak to his lair without being captured]{10 XP} for tracking @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Kathor Navrak} to his lair without being captured.",
+   "ru": "@Reward[xp=10 reason=Tracked Kathor Navrak to his lair without being captured]{10 ОО} за то, что выследили @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Катора Наврака} до его логова, не попавшись."
+  },
+  "62": {
+   "en": "@Reward[xp=10 reason=Exposed Calis DeGaur's identity as Barsis Vand]{10 XP} if they exposed Calis DeGaur's identity as @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Barsis Vand}.",
+   "ru": "@Reward[xp=10 reason=Exposed Calis DeGaur's identity as Barsis Vand]{10 ОО}, если разоблачили Калиса ДеГуара, скрывавшегося под личиной @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Барсиса Ванда}."
+  },
+  "70": {
+   "en": "@Reward[xp=20 reason=Defeated Kathor Navrak]{20 XP} for defeating @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Kathor Navrak}. ",
+   "ru": "@Reward[xp=20 reason=Defeated Kathor Navrak]{20 ОО} за победу над @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Катором Навраком}. "
+  },
+  "78": {
+   "en": "@Reward[xp=20 reason=Freed the captured labourers]{20 XP} for freeing the captured labourers.",
+   "ru": "@Reward[xp=20 reason=Freed the captured labourers]{20 ОО} за освобождение пленных рабочих."
+  },
+  "86": {
+   "en": "@Reward[xp=20 reason=Recovered the Tech-Priest Tybaris Arx]{20 XP} for recovering the Tech-Priest @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Tybaris Arx}.",
+   "ru": "@Reward[xp=20 reason=Recovered the Tech-Priest Tybaris Arx]{20 ОО} за спасение техножреца @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Тибариса Аркса}."
+  },
+  "94": {
+   "en": "Influence",
+   "ru": "Влияние"
+  },
+  "98": {
+   "en": "Award or reduce the character's Personal Influence according to their behaviour towards the factions they have encountered — primarily the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus} if they interacted with the Skitarii favourably, or ultimately rescued Tech-Priest @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Tybaris Arx}. Consider Influence gains or reductions based on the significant number of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionist} NPCs they encounter; rumours of their deeds are bound to spread across the Lower Hive.",
+   "ru": "Повысьте или понизьте личное влияние персонажей в зависимости от их поведения по отношению к встреченным фракциям — прежде всего к @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус}, если персонажи хорошо поладили со скитариями или в итоге спасли техножреца @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Тибариса Аркса}. Учтите также изменение влияния с учётом немалого числа встреченных NPC-@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{одиночек}: слухи о делах отряда неизбежно разойдутся по нижнему улью."
+  },
+  "102": {
+   "en": "These increases can bleed over to their Patron’s Influences if they represented their Patron honourably or made such a gross error in judgment as to affect their Patron’s standings. Aim to award (or detract) at least one point to each character and their Patron.",
+   "ru": "Эти изменения могут перейти и на влияние покровителя, если персонажи достойно представляли его или допустили настолько грубую ошибку, что она сказалась на его положении. Постарайтесь начислить (или снять) хотя бы одно очко каждому персонажу и его покровителю."
+  },
+  "106": {
+   "en": "Failure",
+   "ru": "Провал"
+  },
+  "110": {
+   "en": "@UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Kathor Navrak}’s gangers eventually capture Calis DeGuar, and he quickly becomes one of Navrak’s ‘volunteers’. More mutants, akin to @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Lerna Harrog}, begin to appear in and around the manufactorum ruins, as Kathor Navrak continues his experiments, producing more failures than results. Eventually, he requires more labourers and test subjects and begins abducting citizens from the surrounding hive sectors.",
+   "ru": "Гангеры @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Катора Наврака} в конце концов ловят Калиса ДеГуара, и тот быстро становится одним из «добровольцев» Наврака. В руинах мануфакторума и вокруг них появляется всё больше мутантов, подобных @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Лерне Харрог}: Катор Наврак продолжает опыты, и неудач у него больше, чем результатов. В конце концов ему требуется больше рабочих и подопытных, и он начинает похищать жителей из соседних секторов улья."
+  },
+  "114": {
+   "en": "The @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{Skitarii Vanguard} continue their cold and calculated crackdown on the area. It takes them some time to find @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Kathor Navrak}, but not before they’ve turned the surrounding hab blocks upside down looking for the source of @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Tybaris Arx}’s signal, harming local citizens’ perspectives of the machine cult, and causing manufactorum strikes in neighbouring hive sectors.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{Скитарии-авангарды} продолжают холодную и расчётливую облаву. Им понадобится немало времени, чтобы найти @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Катора Наврака}, но прежде они перевернут вверх дном окрестные жилые блоки в поисках источника сигнала @UUID[.0Ozt4mfDwFIqYyBJ#tech-priest-tybaris-arx]{Тибариса Аркса}, испортив отношение местных жителей к культу Машины и вызвав забастовки на мануфакторумах соседних секторов."
+  },
+  "118": {
+   "en": "In between all this, citizens begin to abandon their habs in the surrounding area, wedged between @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Kathor Navrak}’s abductions and the ongoing Skitarii crackdown. This sector of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth} is scarred for years to come, before the efforts to rebuild the manufactorum truly begin.",
+   "ru": "Тем временем жители, зажатые между похищениями @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Катора Наврака} и продолжающейся облавой скитариев, начинают покидать окрестные жилые блоки. Этот сектор @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{улья Рокарт} ещё долгие годы будет носить шрамы, прежде чем по-настоящему начнётся восстановление мануфакторума."
+  },
+  "122": {
+   "en": "What’s Next?",
+   "ru": "Что дальше?"
+  },
+  "126": {
+   "en": "The end of this adventure has a few loose ends that could be spun into further adventures for your party. Consider the following:",
+   "ru": "По завершении приключения остаётся несколько незакрытых нитей, из которых можно сплести новые приключения для отряда. Например:"
+  },
+  "134": {
+   "en": "The @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#the-vylathi-knives]{Vylathi Knives} have learned what the party did to @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Kathor Navrak} and his wayward plans. Even though Navrak was ultimately a fool, the gang cannot afford any blemish on their influence. The Knives hunt down and purge the rest of Navrak’s crew, but their kill teams also set their sights on the party. Learning this, their Patron suggests they look into the rumoured connection between the gangers and House Vylathi, and uncover something they can use as leverage over the gang. ",
+   "ru": "@UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#the-vylathi-knives]{Ножи Вилати} узнали, что отряд сделал с @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Катором Навраком} и его сумасбродными планами. Хотя Наврак в итоге оказался глупцом, банда не может позволить себе ни пятнышка на своём влиянии. Ножи выслеживают и уничтожают остатки шайки Наврака, но их отряды убийц нацеливаются и на персонажей. Узнав об этом, покровитель предлагает расследовать слухи о связи гангеров с домом Вилати и найти что-нибудь, чем можно надавить на банду. "
+  },
+  "142": {
+   "en": "Yarneg has set out to rebuild The Dreg in another sector of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth's} Lower Hive, and may seek to cut the characters in on the deal. Except there is a problem: the area he aims to move into is controlled by an unsavoury cult. Whispers speak of them worshipping a twisted version of the God-Emperor (if Yarneg died during the adventure, then his role could be fulfilled by Kem, using his clout as a fighter to raise in social standing).",
+   "ru": "Ярнег решил отстроить «Отстойник» в другом секторе нижнего улья @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта} и может предложить персонажам долю. Но есть загвоздка: район, куда он собирается перебраться, контролирует сомнительный культ. Шёпотом говорят, что его члены поклоняются искажённому образу Бога-Императора (если Ярнег погиб в ходе приключения, его роль может взять на себя Кем, использующий свою славу бойца, чтобы подняться по общественной лестнице)."
+  },
+  "150": {
+   "en": "The @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{Skitarii Vanguard} may call upon the party to aid them in future investigations, perhaps acknowledging their ability to parlay with @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth's} citizenry effectively. After the destruction of Manufactorum Vitus-II, Forge Fane Incalcos-6 has put the maniple’s attention towards the @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#the-vylathi-knives]{Vylathi Knives} and, by extension, House Vlyathi. The machine cult seeks to dissuade the Knives from ever treading upon their manufactorums ever again.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{Скитарии-авангарды} могут призвать отряд на помощь в будущих расследованиях, признав умение персонажей находить общий язык с жителями @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта}. После гибели мануфакторума «Витус-II» храм-кузня Инкалкос-6 обратил внимание манипула на @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#the-vylathi-knives]{Ножей Вилати}, а через них — и на дом Вилати. Культ Машины стремится навсегда отбить у Ножей охоту посягать на его мануфакторумы."
+  }
+ }
+}

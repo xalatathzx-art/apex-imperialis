@@ -3,7 +3,7 @@
   "name": "Magus",
   "type": "npc",
   "_id": "hhP2Hec8CfzzAo6L",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Genestealer Mutation",
       "type": "trait",
       "_id": "hF7BlK4LzamJBC3z",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Smite (Power)",
       "type": "trait",
       "_id": "KVSCk9oaJJCtycXH",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Psychic Shriek (Power)",
       "type": "trait",
       "_id": "mKhOXG2GJsq1TJ3Q",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -426,7 +426,7 @@
       "name": "Psychic Powers",
       "type": "trait",
       "_id": "Bpe6IBsnmD4i0a7w",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -486,7 +486,7 @@
       "name": "Telepath",
       "type": "trait",
       "_id": "KD7As0ia1H7rLuM4",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -546,7 +546,7 @@
       "name": "Warp Threshold",
       "type": "trait",
       "_id": "anwWMy4saAnKrxuQ",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -606,7 +606,7 @@
       "name": "Bolt Pistol",
       "type": "weapon",
       "_id": "81jIuLOdPSNlr16G",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -689,7 +689,7 @@
       "name": "Force Staff",
       "type": "weapon",
       "_id": "cmKz3SoPT3WMNbGC",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -762,7 +762,7 @@
       "name": "Psychic",
       "type": "specialisation",
       "_id": "7NqeEkPM4XRYSmST",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -791,7 +791,7 @@
       "name": "Telepathy",
       "type": "specialisation",
       "_id": "oUFHvq39H8kFhHK3",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -820,7 +820,7 @@
       "name": "Charm",
       "type": "specialisation",
       "_id": "utbp5dw1GmXq8JI1",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -849,7 +849,7 @@
       "name": "Deception",
       "type": "specialisation",
       "_id": "hGMFvOw3SBzXjv8y",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

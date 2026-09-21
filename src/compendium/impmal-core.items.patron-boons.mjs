@@ -33,8 +33,8 @@ const SUPERIORITY = U(`${R}.3j1kargHBeCTssE7`, "очко превосходст�
 const CORRUPTION = U(`${R}.PuzopCeKzYgcYAwh`, "порче");
 const FRIGHTENED = U("JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened", "Страх");
 
-const I = "Compendium.impmal-core.items.Item";
-const AC = "Compendium.impmal-core.actors.Actor";
+const I = "Compendium.navis-apexialis.navis-core-items.Item";
+const AC = "Compendium.navis-apexialis.navis-core-actors.Actor";
 const ADMIN_ADEPTS = U(`${AC}.vds8HRa533wcv1Pq`, "адептов Администратума");
 const TROOPERS = U(`${AC}.ZIodTiyH9W5QBRU9`, "солдат Астра Милитарум");
 const VIGILITES = U(`${AC}.gQxTENJSdTQTVfDM`, "вигилов");

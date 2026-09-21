@@ -2,7 +2,7 @@
   "name": "Archivautor",
   "type": "talent",
   "_id": "malExpTal0000071",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Reroll failed checks utilizing recorded information with a -10</span></p><hr><p><span style=\"font-family: Arial\"><em>When you make a Lore or Psychic Mastery Test utilizing sources of recorded information of any sort, such as cogitators, tomes, info-nets, and dataslates, you can reroll a failed test once with an additional -10 penalty. </em></span></p>",

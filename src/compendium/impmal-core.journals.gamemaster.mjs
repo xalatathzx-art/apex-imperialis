@@ -28,7 +28,7 @@ const SECTOR = "JournalEntry.B7MZBBT3bNew9N96";
 
 /* ── Ведущий (вводная), стр. 304 ────────────────────────────────────────*/
 const gmPage =
-  `<div class="journal-image float-right flip"><img src="modules/impmal-core/assets/images/ch10.webp" height="660" /></div>` +
+  `<div class="journal-image float-right flip"><img src="modules/navis-apexialis/assets/impmal-core/images/ch10.webp" height="660" /></div>` +
   p("Вам, как ведущему, досталась самая важная и полезная роль в игре: вы — связующее звено ",
     "между игроками и беспросветным мраком сорок первого тысячелетия. Вы будете задавать сцены и ",
     "рисовать пейзажи, полные готических шпилей и промышленного упадка. Вы будете играть ",
@@ -207,8 +207,8 @@ const example = (...paragraphs) =>
   `</details>`;
 
 const COMPL = "RollTable.eDQC0ssRGzZebgdq";
-const ACTOR = "Compendium.impmal-core.actors.Actor";
-const ITEM = "Compendium.impmal-core.items.Item";
+const ACTOR = "Compendium.navis-apexialis.navis-core-actors.Actor";
+const ITEM = "Compendium.navis-apexialis.navis-core-items.Item";
 const ARMOURY = "JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage";
 const BETWEEN = "JournalEntry.eUFS6mIQy2oiz6IX.JournalEntryPage";
 const PATRON = "JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage";
@@ -278,7 +278,7 @@ const runningPage =
     "куда более реалистично, чем просто не найти гильзы. Кроме того, такой подход позволяет героям ",
     "носить улики с собой, одержимо изучая их в драматичные мгновения в надежде обнаружить ",
     "подсказку, что они должны таить в себе.") +
-  `<div class="journal-image float-right"><img src="modules/impmal-core/assets/images/inquisitor-arrival.webp" width="300" /></div>` +
+  `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/images/inquisitor-arrival.webp" width="300" /></div>` +
 
   h(5, "no-wrong-answers", "Неправильных ответов не бывает") +
   p("Конечно, иногда игроки будут приходить не к тем выводам, что вы планировали. Возможно, они не ",
@@ -477,7 +477,7 @@ const runningPage =
     "чтобы бросить вашей неповторимой группе неповторимый вызов.") +
 
   h(5, "clever-creatures", "Умные противники") +
-  `<div class="journal-image float-right flip"><img src="modules/impmal-core/assets/actors/lamplighter.webp" width="300" /></div>` +
+  `<div class="journal-image float-right flip"><img src="modules/navis-apexialis/assets/impmal-core/actors/lamplighter.webp" width="300" /></div>` +
   p("В сорок первом тысячелетии немного по-настоящему бездумных созданий. Даже самые тупоголовые ",
     "огрины или фанатичные культисты наделены хитростью или инстинктом самосохранения. В бою ",
     "игрокам доступны разные ", U(`${RULES}.xf46pBDy93sT0ZDl`, "действия"),
@@ -543,7 +543,7 @@ const runningPage =
     "доступ сам покровитель или кто-то из его влиятельных знакомых.") +
   rewardRow("Возможности покровителя", "–", "Исполнение плана покровителя",
     "Если группа успешно выполнила задания, что способствовали интересам покровителя, господин " +
-    `может добыть для своих слуг новые ${U(`Compendium.impmal-core.journals.${PATRON}.JiJ2Z5aXJoIhESRX`, "возможности покровителя")} ` +
+    `может добыть для своих слуг новые ${U(`Compendium.navis-apexialis.navis-core-journals.${PATRON}.JiJ2Z5aXJoIhESRX`, "возможности покровителя")} ` +
     "или открыть к ним доступ.") +
   `</tbody></table>`;
 
@@ -564,7 +564,7 @@ const runningPage =
 const COND_PAGE = "JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe";
 const condRow = (anchor, name, skill) =>
   `<tr><td style="width:50%;font-weight:normal"><p>` +
-  `@UUID[Compendium.impmal-core.journals.${COND_PAGE}#${anchor}]{${name}}</p></td>` +
+  `@UUID[Compendium.navis-apexialis.navis-core-journals.${COND_PAGE}#${anchor}]{${name}}</p></td>` +
   `<td><p>${skill}</p></td></tr>`;
 
 const toolkitPage =
@@ -632,7 +632,7 @@ const toolkitPage =
     "иными словами, в условиях, где стрельба на расстояния, большие, чем указаны в правилах, ",
     "неэффективна. Это очень удачно позволяет отыгрывать бои с использованием тактических карт, ",
     "умещая такие карты на обычном столе.") +
-  `<div class="journal-image float-right"><img src="modules/impmal-core/assets/actors/penitent.webp" width="350" /></div>` +
+  `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/actors/penitent.webp" width="350" /></div>` +
   p("Конечно, вы можете использовать более реалистичные расстояния — особенно при снайперской ",
     "стрельбе или применении очень тяжёлого оружия. Вы можете позволить герою, потратившему ",
     "действие на прицеливание, увеличить дальность поражения своего оружия в десять раз против ",

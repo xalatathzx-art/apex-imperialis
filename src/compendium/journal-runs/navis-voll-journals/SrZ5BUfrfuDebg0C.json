@@ -1,0 +1,57 @@
+{
+ "journal": "mOfAsI4kLKUGTLXd",
+ "journalName": "Paradigm Shift",
+ "page": "SrZ5BUfrfuDebg0C",
+ "pageName": "Dramatis Personae",
+ "name": "Действующие лица",
+ "runs": {
+  "2": {
+   "en": "The party may encounter the following characters during the course of their adventure. Any other stat-blocks required to play can be found in the ",
+   "ru": "По ходу приключения отряд может встретить следующих персонажей. Прочие необходимые для игры профили можно найти в книге "
+  },
+  "6": {
+   "en": "Imperium Maledictum Core Book",
+   "ru": "Imperium Maledictum. Основная книга"
+  },
+  "10": {
+   "en": ", with the appropriate page number referenced in the adventure’s text.",
+   "ru": " — номера страниц указаны в тексте приключения."
+  },
+  "14": {
+   "en": "Lord Felputh",
+   "ru": "Лорд Фелпут"
+  },
+  "22": {
+   "en": "Kant Sandik",
+   "ru": "Кант Сандик"
+  },
+  "30": {
+   "en": "Magos Elipses Vark",
+   "ru": "Магос Элипсес Варк"
+  },
+  "38": {
+   "en": "Brandt Kesker",
+   "ru": "Брандт Кескер"
+  },
+  "52": {
+   "en": "Arkt Talgore",
+   "ru": "Аркт Талгор"
+  },
+  "60": {
+   "en": "Mesk",
+   "ru": "Меск"
+  },
+  "68": {
+   "en": "Gelka",
+   "ru": "Гелка"
+  },
+  "76": {
+   "en": "Beastman",
+   "ru": "Зверолюд"
+  },
+  "84": {
+   "en": "Mutated Beastman",
+   "ru": "Мутировавший зверолюд"
+  }
+ }
+}

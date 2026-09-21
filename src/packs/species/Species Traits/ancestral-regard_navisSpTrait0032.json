@@ -2,7 +2,7 @@
   "name": "Ancestral Regard",
   "type": "trait",
   "_id": "navisSpTrait0032",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder003",
   "sort": 3200,
   "system": {

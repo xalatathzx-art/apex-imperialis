@@ -3,7 +3,7 @@
   "name": "Cult Leader",
   "type": "npc",
   "_id": "n0Aewqp7XCqnASGY",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Fanatical Zealotry",
       "type": "trait",
       "_id": "ZXm0dBZX29shUVoW",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "The Price of Failure",
       "type": "trait",
       "_id": "TCAnZsznj22lRLtr",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Sanity is for the Weak",
       "type": "trait",
       "_id": "EiHoQP5qGVVE4Aq0",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -426,7 +426,7 @@
       "name": "Witch-mark",
       "type": "trait",
       "_id": "D0aTYV5oFzkZW4Mu",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -486,7 +486,7 @@
       "name": "Hand Cannon",
       "type": "weapon",
       "_id": "twkSuI5712XYaLvs",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -567,7 +567,7 @@
       "name": "Chainsword",
       "type": "weapon",
       "_id": "TXH6bGBYCkqLzJEU",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -641,7 +641,7 @@
       "name": "Knife",
       "type": "weapon",
       "_id": "qOIKnuRgiKsFqsb5",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -715,7 +715,7 @@
       "name": "Fear",
       "type": "specialisation",
       "_id": "gWAzQpdMEI9wNZBq",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -744,7 +744,7 @@
       "name": "Forbidden",
       "type": "specialisation",
       "_id": "DLe7Cfx1ydZkGDI0",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -773,7 +773,7 @@
       "name": "Forbidden",
       "type": "specialisation",
       "_id": "nxZHfORGi625gBKm",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -802,7 +802,7 @@
       "name": "One-handed",
       "type": "specialisation",
       "_id": "Tupn4VUFWZPLRRhA",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -831,7 +831,7 @@
       "name": "Intimidation",
       "type": "specialisation",
       "_id": "6WxxUtmQrhx64jo9",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -860,7 +860,7 @@
       "name": "Leadership",
       "type": "specialisation",
       "_id": "sG3lkYr0gUvvFYDY",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -889,7 +889,7 @@
       "name": "Deception",
       "type": "specialisation",
       "_id": "X8DubTn9duMOaZDn",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

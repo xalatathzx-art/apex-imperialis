@@ -1,0 +1,329 @@
+{
+ "journal": "FNEW8e33IisZh27W",
+ "journalName": "The Heresies Macharia",
+ "page": "ugwIBQXf8tEWYSE0",
+ "pageName": "Conclave II",
+ "name": "",
+ "runs": {
+  "6": {
+   "en": "Conclave II",
+   "ru": ""
+  },
+  "16": {
+   "en": "The second Conclave turns to corruption lying deeper beneath the surface. Of central concern is the fate of Inquisitor Lord Heironymo Drake. Multiple Inquisitors have pored over his notes left in Mare Cinis and discovered a personal archive, from which both his research and the information that led him to his death may be recovered.",
+   "ru": ""
+  },
+  "22": {
+   "en": "Dramatis Personae",
+   "ru": ""
+  },
+  "26": {
+   "en": "In attendance at the second Conclave are: @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Sylvestrine Horst}, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.gRAiiRJkLKviH0K5]{Konstan Serranus}, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud}, and @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.W50MW8gfyrDts9g3]{Aegidius Halikarn}. An agent of @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Kai Varol} expresses that their Inquisitor is pursuing a lead relating to the cult discovered on @UUID[.qMGtMcmwPnXnwPds#strife-i-c-the-fate-of-the-lucanus]{Calvus Station}. An astropath delivers a message on behalf of @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.sNDdDGlvY5m1HQ4R]{Ksenia Baek}, who is busy elsewhere undertaking a joint operation with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.upGG1JZPDbC7dpJJ]{Adeptus Astra Telepathica}.",
+   "ru": ""
+  },
+  "30": {
+   "en": "Intrigues",
+   "ru": ""
+  },
+  "34": {
+   "en": "Both @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud} and @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Kai Varol} have begun to suspect @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Sylvestrine Horst}’s involvement in the death of Inquisitor Lord Drake. Raud is making this suspicion known by her handling of the @UUID[.ugwIBQXf8tEWYSE0#strife-ii-b-the-drake-archive]{Drake Archive}. ",
+   "ru": ""
+  },
+  "36": {
+   "en": "Kai Varol",
+   "ru": ""
+  },
+  "38": {
+   "en": " is pursuing this investigation by ordering his acolytes to work from the Conclave’s shadows. Characters may recognise multiple acolytes in service to ",
+   "ru": ""
+  },
+  "40": {
+   "en": "Kai Varol",
+   "ru": ""
+  },
+  "42": {
+   "en": " around the facility, despite him having no formal presence at the Conclave.",
+   "ru": ""
+  },
+  "46": {
+   "en": "Each Inquisitor claimed an area of the @UUID[.Y1wjtyi7JdgHxQiF#mare-cinis]{Mare Cinis} base during the first Conclave, but as @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.sNDdDGlvY5m1HQ4R]{Ksenia Baek} has not returned, nor have any of her retinue, characters with security and infiltration training could attempt to access the rooms that she claimed, including cogitators with communication records. ",
+   "ru": ""
+  },
+  "48": {
+   "en": "Baek’s",
+   "ru": ""
+  },
+  "50": {
+   "en": " communications have expressed particular concern about the incident on Calvus Station.",
+   "ru": ""
+  },
+  "60": {
+   "en": "Strife II-A ",
+   "ru": ""
+  },
+  "64": {
+   "en": "The Fall of House Kition",
+   "ru": ""
+  },
+  "72": {
+   "en": "On the mercantile hive world of Asterion, a House Tavol informant serving Alis Raud reports that a competing Highborn arms manufacturer, House Kition, is preparing a martial coup to take over the planet.",
+   "ru": ""
+  },
+  "80": {
+   "en": "House Tavol have been stockpiling arms rather than contributing them to the Imperial Tithe and amassing a corps of heavily armed troops. Rumours circulating among the noble houses of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X0XXyOc86SRCgd4h]{Asterion} claim a dozen origins for these troops, from @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum} deserters and @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionist} mercenaries to abhumans and mutants. Merchants on Asterion are already under Inquisitorial observation for rumoured involvement in the so-called Silent Trade, but a potential coup backed by unknown forces warrants immediate scrutiny.",
+   "ru": ""
+  },
+  "88": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Sylvestrine Horst} is familiar with the political order on Asterion due to her Ordo Sororitas Famulous contacts among Asterion’s Highborn families. She suggests that if the troops prove heretical, they be eliminated; House Kition would then surely collapse from its own subsequent economic weakness without threatening the stability of Asterion’s trade network.",
+   "ru": ""
+  },
+  "96": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.W50MW8gfyrDts9g3]{Aegidius Halikarn} is incensed at the possibility of allowing traitors to go unpunished by the Inquisition, suggesting instead that if House Kition is found guilty of heresy, both the house and its army should be eliminated entirely, regardless of the consequences to a political system that Halikarn sees as contemptibly corrupt.",
+   "ru": ""
+  },
+  "104": {
+   "en": "Operation",
+   "ru": ""
+  },
+  "110": {
+   "en": "The characters travel to Asterion. Time is of the essence; they must investigate House Kition and dismantle their coup before it begins and destabilises Imperial rule in the system.",
+   "ru": ""
+  },
+  "116": {
+   "en": "Before they leave @UUID[.Y1wjtyi7JdgHxQiF#mare-cinis]{Mare Cinis}, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Sylvestrine Horst} advises characters deployed to @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X0XXyOc86SRCgd4h]{Asterion} to make contact with Sister Famulous Lysara of the Order of the Hallowed Glass. She has worked closely with multiple Highborn houses of Asterion and can introduce characters to the Mavins, trade lord rulers of Asterion’s noble houses. Characters will soon learn that the Mavins do not perceive House Kition as a threat — House Kition’s apparent drop in production has led the Mavins to pay it little mind, allowing the house to gather its fighting force largely unobserved.",
+   "ru": ""
+  },
+  "120": {
+   "en": "Through investigation, characters learn that House Kition’s leader, Mavin Aloysius Kition, perceived the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#silence-and-darkness]{Noctis Aeterna} as the death knell of Asterion’s bickering Mavins. The crisis demonstrated the need for a new form of governance with greater stability, which House Kition is equipped to provide and enforce.",
+   "ru": ""
+  },
+  "124": {
+   "en": "In truth, House Kition's planned coup is supported by forces beyond what they realise or understand. If the characters are able to remove the armour from a captured or slain Silent Guard, they encounter physiology resembling the cultists found or reported on @UUID[.qMGtMcmwPnXnwPds#strife-i-c-the-fate-of-the-lucanus]{Calvus Station}.",
+   "ru": ""
+  },
+  "128": {
+   "en": "The Silent Guard are a cell of the Herald’s Howl that originally formed in Asterion’s lower hives. Their leader, Primus Velten Zarn, made contact with House Kition during the chaos of the Noctis Aeterna.",
+   "ru": ""
+  },
+  "132": {
+   "en": "Zarn suggested to Kition that a coup could save the crisis-stricken planet, sowing the seeds of ambition backed with an offer of troops allegedly from an @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum} regiment whose vessel was unable to leave the planet. Zarn intends to kill Kition during the coup and claim the role of Governor for himself, impersonating the deceased Kition using a stolen supply of polymorphine. This will elevate the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#tyranids]{Genestealer Cult} and allow them to spread their influence through the populace in preparation for their day of ascension.",
+   "ru": ""
+  },
+  "136": {
+   "en": "If members of House Kition become aware that they or their troops are under threat, they feel forced to begin their play for the Planetary Governor. The Silent Guard is ordered to eradicate the Board Solar, the governing council of Mavins, a blow aimed at swiftly removing the leadership of all opponents to House Kition, then besiege the spire of the Planetary Governor.",
+   "ru": ""
+  },
+  "140": {
+   "en": "Outcome",
+   "ru": ""
+  },
+  "144": {
+   "en": "If characters successfully complete their operation on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X0XXyOc86SRCgd4h]{Asterion}, their Patron gains +2 Legitimacy. Eliminating the Silent Guard brings House Kition into steep political decline, with rival houses buying out their manufactorums. Eliminating House Kition entirely sends shockwaves through the Mavins' already damaged trade networks. If the characters fail in their mission and House Kition’s rise was not prevented, Velten Zarn uses his new position as Planetary Governor to begin proliferating arms to other cells of the Herald's Howl throughout the Macharian Sector. If the characters’ Patron does not take action, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.W50MW8gfyrDts9g3]{Aegidius Halikarn} leads a shadow war to destroy the Silent Guard and House Kition, earning +2 Legitimacy.",
+   "ru": ""
+  },
+  "156": {
+   "en": "Strife II-B ",
+   "ru": ""
+  },
+  "160": {
+   "en": "The Drake Archive",
+   "ru": ""
+  },
+  "168": {
+   "en": "The Conclave investigates an archive of information that Inquisitor Lord Drake left behind, locked away in a vault on Mare Cinis. The information within drives them to chase down two Rogue Traders and travel to a planet quarantined by Inquisitorial decree.",
+   "ru": ""
+  },
+  "176": {
+   "en": "The notes in Inquisitor Lord Drake's vault include multiple references to an archive hidden in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.y6qA7KARTXADwzeV]{Cytheris Subsector}, although even the Inquisitor Lord’s former Interrogator, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud}, is unaware of its location or what it might contain. What has been decyphered so far imparts the names of two @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#rogue-traders-of-note]{Rogue Traders}, Captain Ion Hawkscar and Captain Darius Klaskoloff, and a code phrase to be repeated to each of them: ",
+   "ru": ""
+  },
+  "178": {
+   "en": "‘CUSTODIA. RECONDITUS. ADSTRUM. ASPECTUM’",
+   "ru": ""
+  },
+  "184": {
+   "en": "Given that members of the Conclave suspect @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Sylvestrine Horst} having some hand in the death of her mentor, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud} expresses that it is imperative an impartial party access the archive and return its contents to the Conclave so that the Inquisitor Lord’s records of Macharian heresies be put to continued use.",
+   "ru": ""
+  },
+  "188": {
+   "en": "Operation",
+   "ru": ""
+  },
+  "194": {
+   "en": "The characters begin their hunt for the two Rogue Traders; though the Captains are unaware, each holds information that can reveal the location of the archive.",
+   "ru": ""
+  },
+  "200": {
+   "en": "Prior to the characters’ departure, they are contacted by an agent of @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Kai Varol}, who requests they return to him any information recovered that may implicate @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Sylvestrine Horst} in the death of Inquisitor Lord Drake — ",
+   "ru": ""
+  },
+  "202": {
+   "en": "Varol",
+   "ru": ""
+  },
+  "204": {
+   "en": " recognises that often the greatest threat to an Inquisitor comes from within their own retinue.",
+   "ru": ""
+  },
+  "208": {
+   "en": "Additionally, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.CbYL1IrXodXyGuyV]{Sylvestrine Horst} reluctantly agrees to equip the characters with a Rosette simulacra that had belonged to the late Inquisitor Lord — it is almost certain that this will be required to access the archive.",
+   "ru": ""
+  },
+  "212": {
+   "en": "Characters attempting to locate each Rogue Trader find that Captain Hawkscar is in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.y6qA7KARTXADwzeV]{Cytheris Subsector}, while Captain Klaskoloff is more difficult to locate, his vessel plying the edges of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.d0lv2v4FkeIb43jj]{Drimor Subsector}. Neither of them ever remembers meeting Inquisitor Lord Drake. Characters looking into either Rogue Trader’s history or flight logs discover they crossed paths in system ID3421-G3 (in the Cytheris Subsector) decades ago, but neither remembers meeting the other.",
+   "ru": ""
+  },
+  "216": {
+   "en": "Investigating ID-3421-G3, characters can learn that the planet Vitezovich, within the system, has been stricken from @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.VVyxPjdULmCks7NP#galaxy-of-peril]{Astra Cartographica} records. No records exist of this planet other than its name, location, and the fact that it was subject to ",
+   "ru": ""
+  },
+  "218": {
+   "en": "Exterminatus",
+   "ru": ""
+  },
+  "220": {
+   "en": " four centuries ago and cordoned by Inquisitorial decree ever since.",
+   "ru": ""
+  },
+  "224": {
+   "en": "If characters repeat the code phrase to either Rogue Trader, their eyes glaze over momentarily before seemingly returning to their senses. Upon activation, each is instinctively driven to gather an armed force and travel to Vitezovich, where they are to rendezvous and begin bombarding the planet, letting nothing stand in their way.",
+   "ru": ""
+  },
+  "228": {
+   "en": "Investigating Vitezovich directly involves donning voidsuits, as little of the planet’s atmosphere remains. The location of the archive is uncertain; only faint signs of life can be detected on the surface. They will find the archive being defended by a force of @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.kYpTOdUezMczq5eC]{voidsmen} acting on a subconscious imperative to prevent any save Inquisitor Lord Drake from entering the facility.",
+   "ru": ""
+  },
+  "232": {
+   "en": "The archive is centred on a datavault, protected by automated defences, in the form of wall and floor mounted servitor turrets. They will not fire on the bearer of Inquisitor Drake’s Rosette; others are automatically targeted by heavy stubber fire. The central datavault can be accessed by the bearer of Drake’s Rosette, though everything within is heavily cyphered. Returning the data to @UUID[.Y1wjtyi7JdgHxQiF#mare-cinis]{Mare Cinis} requires them to unplug massive arrays of hardware and transport it by voidship — a more complicated task if the activated Rogue Traders will soon arrive and once more bombard the planet.",
+   "ru": ""
+  },
+  "236": {
+   "en": "Outcome",
+   "ru": ""
+  },
+  "240": {
+   "en": "If the Inquisitor Lord’s archive is returned to @UUID[.Y1wjtyi7JdgHxQiF#mare-cinis]{Mare Cinis}, it provides information on the Inquisitor’s concerns in the Macharian Sector. However, little of it will be decyphered until the start of the next Conclave. The most populous data in the archive is designated the ‘Kryptman Protocol’, detailing a failsafe procedure of mass extermination in the event of a Tyranid invasion of the Macharian Sector.",
+   "ru": ""
+  },
+  "244": {
+   "en": "Characters recovering the Archive will earn the respect of @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud} and @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Kai Varol} should their search for information regarding Inquisitor Lord Drake’s death prove fruitful. Either way, their Patron gains +1 Legitimacy and access to the archive; therefore, they are the first to learn of the Kryptman Protocol.",
+   "ru": ""
+  },
+  "248": {
+   "en": "If the characters’ Patron does not take action or they fail to recover the archive, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Kai Varol} secretly launches the recovery operation. He retrieves Inquisitor Lord Drake’s archive and becomes the first to learn of the Kryptman Protocol.",
+   "ru": ""
+  },
+  "252": {
+   "en": "Characters may wish to aid in deprogramming the Rogue Trader captains, revealing more information on Drake’s cyphers (to assist in their investigations later) and gain +1 Influence with their respective Dynasties.",
+   "ru": ""
+  },
+  "262": {
+   "en": "Strife II-C ",
+   "ru": ""
+  },
+  "266": {
+   "en": "The Eskutchax Incongruity",
+   "ru": ""
+  },
+  "274": {
+   "en": "As the long siege of Eskutchax continues, a recent victory by Black Templar forces has left behind a heretical artefact in dire need of investigation and disposal.",
+   "ru": ""
+  },
+  "282": {
+   "en": "Arnaut Cisneros, Interrogator to @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.gRAiiRJkLKviH0K5]{Konstan Serranus}, received a message from his Tech-Priest contact, Magos Tal-Theta 661, raising concern over an artefact left in the wake of retreating heretic forces. The Tech-Priests and Black Templar Space Marines are equally uncertain of what should be done with the artefact after attempts to destroy it proved ineffectual.",
+   "ru": ""
+  },
+  "290": {
+   "en": "Despite his ongoing relationship with the Tech-Priests of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.jB9sg2SDLZJGZrac]{Eskutchax}, @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.gRAiiRJkLKviH0K5]{Konstan Serranus} recognises that the disposal of a Chaos artefact is outside his expertise, so he recommends that Ordo Hereticus forces investigate and dispose of the object.",
+   "ru": ""
+  },
+  "298": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud} requests that the artefact be returned and taken into Inquisitorial custody, claiming to have a means of safely sealing away or disposing of it.",
+   "ru": ""
+  },
+  "306": {
+   "en": "Operation",
+   "ru": ""
+  },
+  "312": {
+   "en": "Characters are deployed to the beleaguered forge world Eskutchax, where the artefact lies in the shattered remains of a manufactorum under guard by the Adeptus Astartes.",
+   "ru": ""
+  },
+  "318": {
+   "en": "Shortly after arrival, they are briefed by Magos TalTheta 661. The artefact, identified as the core of a shattered Daemon Engine, spreads a corrupting scrap code into nearby technology, poisoning the machine spirit with glitches and malfunctions.",
+   "ru": ""
+  },
+  "322": {
+   "en": "Thus far, it has proved difficult to extract and has forced the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus} and Adeptus Astartes to hold their distance — the scrap code poses too significant a risk towards augmetics and power armour.",
+   "ru": ""
+  },
+  "326": {
+   "en": "Magos Tal-Thera 661 hypothesises that the corruptive energies could be contained by a group of psykers creating a barrier around the artefact (such as @UUID[Compendium.navis-apexialis.navis-core-items.Item.weeeCywXm9wF54Ly]{Psychic Barrier}). However, this is a challenging prospect to entertain in the presence of the zealous Black Templars.",
+   "ru": ""
+  },
+  "330": {
+   "en": "The manufactorum surrounding the artefact’s location has been affected by ongoing malfunctions and infestations of ",
+   "ru": ""
+  },
+  "332": {
+   "en": "Glitchlings",
+   "ru": ""
+  },
+  "334": {
+   "en": ", diminutive daemons being called from the Warp by the machines’ daemonic infection (use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.pGOi4dyYeKojE9vm]{Nurgling} stat-block to represent them, except their Traits and Attacks inflict ",
+   "ru": ""
+  },
+  "336": {
+   "en": "Stunned",
+   "ru": ""
+  },
+  "338": {
+   "en": " in addition to ",
+   "ru": ""
+  },
+  "340": {
+   "en": "Poisoned",
+   "ru": ""
+  },
+  "342": {
+   "en": "). Should characters safely navigate the corrupted forge fane, they will discover that another problem has arisen — the artefact is now missing.",
+   "ru": ""
+  },
+  "346": {
+   "en": "Furthering their investigation, characters learn from Magos Tal-Theta 661 or other Tech-Priests that the Warpsmith Omneros’ attacks on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.jB9sg2SDLZJGZrac]{Eskutchax} included the strategic binding of daemons into the engines of this conquered forge fane. Many Tech-Priests are keeping this quiet to spare their technology from the likelihood of destruction by the Black Templars. While the faithful of the Omnissiah have undertaken blessing upon blessing, the infection cannot be excised without the removal or destruction of the Daemon Engine core. As a result, the corruption has been left unchecked, and daemonic scrap code has possessed numerous augmented workers, servitors, and skitarii, who have moved the Daemon Engine core from its resting place. Driven by the Daemon Engine core, the possessed bear it on the first steps of what, if not stopped, will become a pilgrimage in the shadows, spreading the scrap code across every one of the planet’s forge fanes.",
+   "ru": ""
+  },
+  "350": {
+   "en": "To retrieve the core, characters will need to locate it by following a trail of malfunctions and error reports and eliminate its corrupted bearers. They travel by subterranean maintenance tunnels, in the direction of the equatorial forge fane from which the Consuls govern @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.jB9sg2SDLZJGZrac]{Eskutchax}.",
+   "ru": ""
+  },
+  "354": {
+   "en": "This process will demand discretion, as engaging in open battle will draw the attention of the Adeptus Astartes, alerting them to the deeper infestation of daemonic corruption, and likely leading them to undertake a purge of heresy that would devastate the industry and population of Eskutchax. Should the core be captured, the daemonic virus will fight to protect itself throughout the extraction process, overriding nearby machinery and summoning Glitchling swarms to prevent its excision.",
+   "ru": ""
+  },
+  "358": {
+   "en": "Outcome",
+   "ru": ""
+  },
+  "362": {
+   "en": "If the Daemon Engine core is successfully extracted, the scrap code can finally be purged from the forge fanes of Eskutchax. Upon returning the artefact to the Inquisition, the characters’ Patron gains +2 Legitimacy and +1 Influence with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus}. If they side with the Black Templars, they gain +1 Influence with them instead of any Legitimacy. @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud} departs with the Daemon Engine core to undertake a psychic ritual to nullify it. In secret, she does so by tearing the daemon from this vessel and binding it to an imprisoned Human host.",
+   "ru": ""
+  },
+  "366": {
+   "en": "If characters fail to extract the Daemon Engine core, Magos Tal-Theta 661 reluctantly informs the Black Templars of the daemonic scrap code emanating from the core. The Adeptus Astartes exorcise the corruption with extreme prejudice, devastating the corrupted forge fane.",
+   "ru": ""
+  },
+  "370": {
+   "en": "If no other Inquisitor undertakes this operation, it is left to @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.9vSAxxrma5zbEIKL]{Alis Raud}, who gains +2 Legitimacy for retrieving and containing the Daemon Engine core.",
+   "ru": ""
+  },
+  "380": {
+   "en": "Conclave II Conclusion",
+   "ru": ""
+  },
+  "384": {
+   "en": "With the recovery of the Drake Archive, a tool of dreadful power has been brought under Inquisitorial control, either that of the Conclave or @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.y8Wjo2ThhVq782nY]{Eskender Thracius}. Meanwhile, the House Kition incident has heightened @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40.JournalEntryPage.gRAiiRJkLKviH0K5]{Serranus}’ existing concerns, for it suggests @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#tyranids]{Genestealer Cult} activity on a far larger scale than initially considered.",
+   "ru": ""
+  }
+ }
+}

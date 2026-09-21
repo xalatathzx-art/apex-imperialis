@@ -3,7 +3,7 @@
   "name": "Fallen Demagogue",
   "type": "npc",
   "_id": "imbAhYrnQLKtkupF",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Darkened Fate",
       "type": "trait",
       "_id": "1pqKWN6Cs86Cd74Y",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Defend Me!",
       "type": "trait",
       "_id": "lGronUSK8XFXbhWa",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Minions",
       "type": "trait",
       "_id": "4CnOX3rzGKifA6e4",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -426,7 +426,7 @@
       "name": "My Dear Child",
       "type": "trait",
       "_id": "rdwiKW3jk5bSyC4I",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -486,7 +486,7 @@
       "name": "Sanity is for the Weak",
       "type": "trait",
       "_id": "NTAKuCbEu12tqUkX",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -546,7 +546,7 @@
       "name": "Witch-mark",
       "type": "trait",
       "_id": "tmLpJvUkTZyWIqDy",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -606,7 +606,7 @@
       "name": "Bolt Pistol",
       "type": "weapon",
       "_id": "TNw7HqDiX0BtJIr0",
-      "img": "modules/impmal-core/assets/icons/weapons/ranged-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/ranged-weapon.webp",
       "system": {
         "notes": {
           "player": "",
@@ -689,7 +689,7 @@
       "name": "Electro-Flail",
       "type": "weapon",
       "_id": "uEVdSTCZylijWW9p",
-      "img": "modules/impmal-core/assets/icons/weapons/sword.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/sword.webp",
       "system": {
         "notes": {
           "player": "",
@@ -766,7 +766,7 @@
       "name": "Human",
       "type": "specialisation",
       "_id": "k7utEARp42NDjXuE",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -795,7 +795,7 @@
       "name": "High Gothic",
       "type": "specialisation",
       "_id": "OizY4HtTw6e5qJQP",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -824,7 +824,7 @@
       "name": "Theology",
       "type": "specialisation",
       "_id": "oSjiMBoh5YSrazGB",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",
@@ -853,7 +853,7 @@
       "name": "Leadership",
       "type": "specialisation",
       "_id": "WByJgpFvmTIKvLOI",
-      "img": "modules/impmal-core/assets/icons/generic.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
       "system": {
         "notes": {
           "player": "",

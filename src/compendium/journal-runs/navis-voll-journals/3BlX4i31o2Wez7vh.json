@@ -1,0 +1,329 @@
+{
+ "journal": "QbQ7dTzbEVJyBLXJ",
+ "journalName": "Interminable Devotion",
+ "page": "3BlX4i31o2Wez7vh",
+ "pageName": "Adventure Overview",
+ "name": "Обзор приключения",
+ "runs": {
+  "4": {
+   "en": "The auto quill scratches fitfully on the bone-white page as Curator Varness reviews the reports for the thirteenth time in two hours, yet the details remain the same. Then there are the picts, but she can’t deny them, though she’s tried. Having ruled out distortion, grime on the lens and atmospheric interference, she’s left with a single regretful conclusion: they’re real. As she scrubs all but a select few from the archive, acid rain lashes the narrow armaglass windows of her cramped quarters aboard the Interminable Devotion, beyond which the rolling fortresses’ harsh lumens reveal an expanse of inhospitable wasteland, corrosive fog and acidic devastation.",
+   "ru": "Автоперо судорожно царапает костяно-белую страницу: куратор Варнесс в тринадцатый раз за два часа перечитывает донесения, но подробности остаются прежними. А ещё есть пикты — отрицать их она не может, хотя и пыталась. Исключив искажения, грязь на линзе и атмосферные помехи, она пришла к единственному печальному выводу: всё это реально. Пока она стирает из архива всё, кроме нескольких избранных записей, кислотный дождь хлещет по узким бронестеклянным окнам её тесной каюты на борту «Нескончаемой преданности», а за ними резкие люмены катящейся крепости выхватывают из тьмы бескрайнюю негостеприимную пустошь, едкий туман и кислотное опустошение."
+  },
+  "10": {
+   "en": "Designed for a party of low to moderately advanced characters, Interminable Devotion combines mystery, horror and investigation elements to tell a story of murder, conspiracy and familial hatreds. The party is tasked by their Patron to investigate a secretive research mission and soon find themselves pulled into the thick of a mysterious string of murders aboard an ancient Capitol Imperialis traversing Voll’s acidic wasteland.",
+   "ru": "«Нескончаемая преданность» рассчитана на отряд персонажей от начального до среднего уровня развития и сочетает тайну, ужас и расследование в истории об убийствах, заговоре и семейной ненависти. Покровитель поручает отряду расследовать тайную исследовательскую экспедицию, и вскоре персонажи оказываются в самой гуще загадочной череды убийств на борту древнего «Капитолия Империалис», пересекающего кислотную пустошь Волла."
+  },
+  "14": {
+   "en": "@UUID[.gqWQ8LhVWHKBodFY]{Part 1: The Brunt of Voll} — After reaching the ",
+   "ru": "@UUID[.gqWQ8LhVWHKBodFY]{Часть 1: «Под ударом Волла»} — добравшись до "
+  },
+  "16": {
+   "en": "Interminable Devotion",
+   "ru": "«Нескончаемой преданности»"
+  },
+  "18": {
+   "en": ", the party discovers Captain Alarad Veridian’s corpse. Initially suspected of murder, they are soon vindicated and meet with Curator Varness, now the highest-ranking officer aboard the ",
+   "ru": ", отряд обнаруживает труп капитана Альрада Веридиана. Поначалу персонажей подозревают в убийстве, но вскоре оправдывают, и они встречаются с куратором Варнесс, теперь старшим по званию офицером на борту "
+  },
+  "20": {
+   "en": "Devotion",
+   "ru": "«Преданности»"
+  },
+  "22": {
+   "en": ". After telling them about strange happenings, she charges them with finding the killer.",
+   "ru": ". Рассказав им о странных происшествиях, она поручает им найти убийцу."
+  },
+  "26": {
+   "en": "@UUID[.vC2n6yi7x19C9HvR]{Part 2: Scrutiny and Suspicion} — The party begins their investigation, exploring the ",
+   "ru": "@UUID[.vC2n6yi7x19C9HvR]{Часть 2: «Под подозрением»} — отряд начинает расследование, обследуя "
+  },
+  "28": {
+   "en": "Devotion",
+   "ru": "«Преданность»"
+  },
+  "30": {
+   "en": " and talking to NPCs to uncover clues. As they progress, they’ll find new clues to help them solve the mystery, uncovering a dangerous chemical agent before building towards the final confrontation with the adventure’s villain, Vesterick Nethecaré. ",
+   "ru": " и расспрашивая NPC в поисках зацепок. По ходу дела персонажи находят новые зацепки, помогающие разгадать тайну, обнаруживают опасное химическое вещество и приближаются к финальному противостоянию со злодеем приключения — Вестериком Нетекаре. "
+  },
+  "34": {
+   "en": "@UUID[.8OWiZxbLaURKKVKb]{Part 3: A Mind in Ruins} — Armed now with a trove of information, the party returns to the Curator and makes their case, only for calamity to erupt as a concentrated form of Vesterick Nethecaré’s agent is released aboard the Devotion. Upon making their way through the maddened decks, the characters must pursue the noble into the wasteland for the last confrontation.",
+   "ru": "@UUID[.8OWiZxbLaURKKVKb]{Часть 3: «Разум в руинах»} — вооружившись ворохом сведений, отряд возвращается к куратору и излагает свои доводы, но тут разражается беда: на борту «Преданности» выпущено концентрированное вещество Вестерика Нетекаре. Пробившись через палубы, охваченные безумием, персонажи должны преследовать дворянина в пустошах ради последнего противостояния."
+  },
+  "40": {
+   "en": "@UUID[.MbWSJCh5GLhtUKvE]{Aftermath}",
+   "ru": "@UUID[.MbWSJCh5GLhtUKvE]{Развязка}"
+  },
+  "42": {
+   "en": " — With Vesterick Nethecaré defeated and his plan foiled, the party may recover or destroy the formula for the noxious chemical agent he had used upon the crew. Upon returning to the ",
+   "ru": " — когда Вестерик Нетекаре повержен, а его план сорван, отряд может забрать или уничтожить формулу ядовитого химического вещества, которое тот применял на экипаже. Вернувшись на "
+  },
+  "44": {
+   "en": "Devotion",
+   "ru": "«Преданность»"
+  },
+  "46": {
+   "en": ", the party calls for extraction. ",
+   "ru": ", отряд вызывает эвакуацию. "
+  },
+  "50": {
+   "en": "Vesterick Nethecaré",
+   "ru": "Вестерик Нетекаре"
+  },
+  "54": {
+   "en": "Vesterick Nethecaré was born into a decrepit, precarious branch of the vaulted House Nethecaré, the family name, while enough to raise him above the teeming filth and grant him a life amongst the smog-choked spires of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-dalal]{Hive Dalal}, it granted him little else. His young life was tense, ever wondering if the rest of the brood might tire of his family’s drain on the Nethecaré coffers and see fit instead to prune them. Yet this all changed with the death of his father. ",
+   "ru": "Вестерик Нетекаре родился в захудалой, шаткой ветви прославленного дома Нетекаре. Фамилии хватило, чтобы поднять его над кишащей грязью и подарить жизнь среди задыхающихся в смоге шпилей @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-dalal]{улья Далал}, но больше она ему почти ничего не дала. Юность его прошла в напряжении: он вечно гадал, не устанут ли остальные отпрыски дома от того, что его семья тянет деньги из казны Нетекаре, и не сочтут ли нужным её отсечь. Но всё изменилось со смертью отца. "
+  },
+  "58": {
+   "en": "Hundar Nethecaré left to attend a meeting and never returned. Despite a body never surfacing, he was swiftly declared dead, and a cursory memorial followed. After the mandatory mourning period was observed, Vesterick Nethecaré’s mother was quickly married to Gruledis Nethecaré — his grand-uncle from his father’s side of the family. Technically, this was a vast leap in status for the lesser noble and his mother, but his grand-uncle’s heirs ensured Vesterick Nethecaré never forgot the stain he was on the Nethecaré name. This atmosphere of ridicule and derision pushed the young man to work tirelessly to prove his worth and master the House trade. No gene went unmapped or cell unturned from the meagre remnants he was permitted to work with. Years passed without success, yet everything changed the night of the test. ",
+   "ru": "Хундар Нетекаре отправился на встречу и не вернулся. Хотя тело так и не нашли, его быстро объявили мёртвым, а затем последовали наспех устроенные поминки. Когда положенный срок траура истёк, мать Вестерика Нетекаре поспешно выдали за Груледиса Нетекаре — двоюродного деда по отцовской линии. Формально для мелкого дворянина и его матери это был огромный скачок в положении, но наследники двоюродного деда позаботились, чтобы Вестерик Нетекаре никогда не забывал, каким пятном он лежит на имени Нетекаре. Эта атмосфера насмешек и презрения заставила юношу неустанно трудиться, чтобы доказать свою ценность и овладеть ремеслом дома. Из жалких остатков, с которыми ему позволяли работать, он не оставил ни одного неисследованного гена и ни одной неизученной клетки. Годы проходили без успеха, но всё изменилось в ночь испытания. "
+  },
+  "62": {
+   "en": "Bitter and frustrated at the stark variables presented by his test thralls, the noble took rash action, injecting himself with an unknown concoction of potent hallucinogens and @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi }pheromones. The room spun, his perceptions reeled, he stumbled and fell as strange noises and hallucinations began to scurry and flutter in his periphery. Then he saw a vision.",
+   "ru": "Озлобленный и раздосадованный резкими отклонениями у подопытных рабов, дворянин пошёл на безрассудный шаг и ввёл себе неизвестную смесь мощных галлюциногенов и феромонов @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади}. Комната закружилась, чувства пошатнулись, он споткнулся и упал, а на краю зрения засновали и затрепетали странные звуки и видения. А затем ему явилось видение."
+  },
+  "66": {
+   "en": "Vesterick Nethecaré gasped as, amongst the melting walls, crawling things and disembodied laughter, a twisted figure emerged, Human flesh mingled with @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi} biology, yet the face was unmistakable; it was his father. ",
+   "ru": "Вестерик Нетекаре ахнул: среди плавящихся стен, ползучих тварей и бестелесного смеха возникла искажённая фигура — человеческая плоть, смешанная с биологией @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади}, но лицо было не спутать ни с чьим: это был его отец. "
+  },
+  "70": {
+   "en": "Vesterick Nethecaré fell back in horror, yet the monstrous revenant pushed forward, mandibles clacking so close to his face that he could smell the reeking spittle, then he began to speak. Several hours later, Vesterick Nethecaré awoke to his lab in ruins. He and his equipment lay broken, notes were scattered, and his hands were bloody, yet one thing caught his eye above all else. On the floor, written in blood, was a nearly complete chemical formula, one he believed allowed him to commune with the dead.",
+   "ru": "Вестерик Нетекаре в ужасе отшатнулся, но чудовищный призрак надвигался, щёлкая жвалами так близко от его лица, что он чуял смрадную слюну, — а затем заговорил. Несколько часов спустя Вестерик Нетекаре очнулся в разгромленной лаборатории. Он и его оборудование были разбиты, записи разбросаны, руки в крови, но больше всего его внимание привлекло другое. На полу кровью была написана почти полная химическая формула — та, что, как он верил, позволит ему говорить с мёртвыми."
+  },
+  "74": {
+   "en": "But he knew the formula needed more testing and resources than the house would allow. In his father’s notes, he learned about the ",
+   "ru": "Но он знал, что формуле нужно больше испытаний и ресурсов, чем позволит дом. Из отцовских записей он узнал о "
+  },
+  "76": {
+   "en": "Interminable Devotion",
+   "ru": "«Нескончаемой преданности»"
+  },
+  "78": {
+   "en": " and how it had fallen under the sway of the chem guild in their ongoing expeditions, and as a source of collecting the @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi }pheromone that his formula required. Vesterick Nethecaré saw an opportunity; he would go right to the source and continue his experiments far from @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-dalal]{Hive Dalal} in an enclosed environment. He would perfect his formula, commune with his father again, and show House Nethecaré his worth.",
+   "ru": " — о том, как она попала под власть химической гильдии для её непрекращающихся экспедиций и как с её помощью собирают феромон @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади}, необходимый для его формулы. Вестерик Нетекаре увидел свой шанс: он отправится прямо к источнику и продолжит опыты вдали от @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-dalal]{улья Далал}, в замкнутой среде. Он доведёт формулу до совершенства, снова поговорит с отцом и докажет дому Нетекаре свою ценность."
+  },
+  "82": {
+   "en": "The Last Living Castle",
+   "ru": "Последний живой замок"
+  },
+  "92": {
+   "en": "The ",
+   "ru": " "
+  },
+  "94": {
+   "en": "Interminable Devotion",
+   "ru": "«Нескончаемая преданность»"
+  },
+  "96": {
+   "en": ", a retrofitted Capitol Imperialis, grinds through Voll’s acid wastes on tracks large enough to crush buildings to dust. It currently shelters hundreds of souls deployed on a privately funded research mission. The veteran engine has a long history dating back to the Macharian Crusade — it was initially deployed as a mobile fortress for Imperial Knights and @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Astra Militarum} walker squads who hunted the planet’s once abundant strains of colossal @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi}. It could withstand the brunt of their monstrous attacks, provide ample artillery support, and transport their prized carcasses for study.",
+   "ru": " — переоснащённый «Капитолий Империалис» — ползёт по кислотным пустошам Волла на гусеницах, способных стереть здания в пыль. Сейчас в ней укрываются сотни душ, отправленных в частную исследовательскую экспедицию. У этой ветеранской машины долгая история, восходящая к Махарийскому крестовому походу: изначально её использовали как передвижную крепость для Имперских рыцарей и шагоходных отделений @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум}, охотившихся на некогда многочисленные породы исполинских @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади}. Она выдерживала их чудовищные атаки, обеспечивала мощную артиллерийскую поддержку и перевозила ценные туши для изучения."
+  },
+  "100": {
+   "en": "Even with the decline in colossal @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi}, the ",
+   "ru": "Хотя исполинских @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади} стало меньше, "
+  },
+  "102": {
+   "en": "Interminable Devotion",
+   "ru": "«Нескончаемая преданность»"
+  },
+  "104": {
+   "en": " still soldiers on across the wastes, surveying spawning grounds for signs of reemergence and catching strains for research. Some among the crew think it has been lost somewhere in the Departmento Munitorum’s records, or, while revered as an engine of war, deemed too burdensome to transport off Voll to a new battlefront. However, they still recognise how much of an honour it is to serve on such an ancient Imperialis.",
+   "ru": " по-прежнему упорно ползёт по пустошам, обследуя места нереста в поисках признаков их возвращения и отлавливая особей для исследований. Кое-кто из экипажа думает, что о ней затерялись записи где-то в Департменто Муниторум или что её, хоть и чтут как боевую машину, сочли слишком громоздкой, чтобы вывозить с Волла на новый фронт. И всё же они понимают, какая это честь — служить на столь древнем «Империалисе»."
+  },
+  "108": {
+   "en": "Centuries exposed to Voll’s rigours have not been kind to its internal workings. Despite recent and arcane maintenance rites performed by @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus} personnel regarding its environmental systems, many lie marred beyond repair. Perhaps worst of all is the inert macrocannon that juts at its zenith, the once-impressive armament serving as a symbol of power now lost to the ages. Yet even so, the mobile fortress is far from defenceless. Stalling due to engine failure or track damage is a constant threat, but there is little short of concentrated heavy ordinance that can pose the ",
+   "ru": "Века, проведённые в суровых условиях Волла, не пощадили её внутренних механизмов. Несмотря на недавние таинственные обряды обслуживания систем жизнеобеспечения, проведённые служителями @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус}, многие из них безнадёжно повреждены. Хуже всего, пожалуй, бездействующая макропушка на вершине: некогда внушительное орудие, символ силы, ныне утраченной в веках. Но даже так передвижная крепость далеко не беззащитна. Остановка из-за отказа двигателя или повреждения гусениц — постоянная угроза, но мало что, кроме сосредоточенного огня тяжёлой артиллерии, может всерьёз угрожать "
+  },
+  "110": {
+   "en": "Devotion",
+   "ru": "«Преданности»"
+  },
+  "112": {
+   "en": " serious peril from the outside. Inside, however, is another matter entirely.",
+   "ru": " снаружи. Внутри же — совсем другое дело."
+  },
+  "116": {
+   "en": "Chemical Communion",
+   "ru": "Химическое причастие"
+  },
+  "122": {
+   "en": "‘Through snaking pipelines and rusted vents, Vesterick Nethecaré’s chemical communion slithers its gaseous form through the Devotions bones, infiltrating every passage, occupying every chamber as vast as the Hangar, as minute as the smallest runoff grate, a hidden spectre, invisible and everywhere’.",
+   "ru": "«По змеящимся трубопроводам и ржавым вентиляционным шахтам химическое причастие Вестерика Нетекаре струится газом по костям «Преданности», проникая в каждый проход и заполняя каждое помещение — огромное, как ангар, и крошечное, как самая маленькая сточная решётка, — незримый призрак, невидимый и вездесущий»."
+  },
+  "128": {
+   "en": "This potent nerve agent, rendered from toxic fungi, @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi }pheromones and refined neural secretions quietly builds in the subject’s system, inducing paranoia and conjuring disturbing hallucinations before culminating in explosions of apoplectic violence. The ",
+   "ru": "Этот мощный нервно-паралитический агент, созданный из ядовитых грибов, феромонов @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади} и очищенных нейронных выделений, незаметно накапливается в организме, вызывая паранойю и тревожные галлюцинации, а в итоге — вспышки неистового насилия. У "
+  },
+  "130": {
+   "en": "Interminable Devotion",
+   "ru": "«Нескончаемой преданности»"
+  },
+  "132": {
+   "en": " possesses a bespoke filtration and air supply system to combat Voll’s hazardous environment — the perfect place, so contained and off the grid, for the noble to experiment with his chemical communion.",
+   "ru": " есть особая система фильтрации и подачи воздуха для защиты от опасной среды Волла — идеальное место, столь замкнутое и скрытое от чужих глаз, чтобы дворянин мог испытывать своё химическое причастие."
+  },
+  "136": {
+   "en": "Mixed with the standard oxygen supply, the chemical communion is impossible to detect on any craft systems, and there is no central source for any curious menial to blunder into. Vesterick Nethecaré himself has tampered with the equipment aboard to avoid any interference. For example, all rebreathers and protective gear aboard have been carefully and undetectably damaged to ensure the crew’s exposure. Despite preventative measures, tar-like build-ups have congealed in the ",
+   "ru": "Смешанное с обычной подачей кислорода, химическое причастие невозможно обнаружить никакими системами машины, и нет никакого центрального источника, на который мог бы наткнуться любопытный чернорабочий. Сам Вестерик Нетекаре испортил оборудование на борту, чтобы избежать помех. Например, все респираторы и защитное снаряжение на борту аккуратно и незаметно повреждены, чтобы экипаж гарантированно подвергался воздействию. Несмотря на меры предосторожности, в воздушных фильтрах "
+  },
+  "138": {
+   "en": "Devotions",
+   "ru": "«Преданности»"
+  },
+  "140": {
+   "en": "’ air filters. Should a character possess the knowledge or tools to analyse this substance, they may attempt a ",
+   "ru": " скопились дёгтеобразные наросты. Если у персонажа есть знания или инструменты, чтобы исследовать это вещество, он может пройти "
+  },
+  "142": {
+   "en": "Hard (+20) Logic (Investigation)",
+   "ru": "Сложную (−20) проверку Логики (Расследование)"
+  },
+  "144": {
+   "en": " Test. If they succeed, inform them of the following:",
+   "ru": ". При успехе сообщите ему следующее:"
+  },
+  "150": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "154": {
+   "en": "The residue appears to have congealed from an airborne substance synthesised from acynadi pheromones. An extended analysis with lab equipment would be required to unravel its secrets fully. However, it’s likely to have hallucinogenic properties. It’s pretty likely this substance has been leaking outside the Devotion. This could account for much of the strange acynadi behaviour surrounding the craft.",
+   "ru": "Похоже, осадок сгустился из летучего вещества, синтезированного из феромонов ацинади. Чтобы полностью раскрыть его тайны, потребуется продолжительный анализ с лабораторным оборудованием. Однако, скорее всего, у него есть галлюциногенные свойства. Весьма вероятно, что это вещество просачивается наружу из «Преданности». Это могло бы объяснить большую часть странного поведения ацинади вокруг машины."
+  },
+  "160": {
+   "en": "Vesterick Nethecaré believes his deceased father has supplied the formula for his chemical communion and that he can commune with him while under its hallucinogenic effects. The noble has built up a tolerance to the communion, allowing him to withstand constant mild exposure while aboard the ",
+   "ru": "Вестерик Нетекаре верит, что формулу химического причастия дал ему покойный отец и что под действием галлюциногена он может с ним общаться. У дворянина выработалась устойчивость к причастию, позволяющая ему выносить постоянное слабое воздействие на борту "
+  },
+  "162": {
+   "en": "Devotion",
+   "ru": "«Преданности»"
+  },
+  "164": {
+   "en": ". Additionally, he has devised grenades that hold a concentrated form of the communion along with syringes loaded with a similar liquid solution. ",
+   "ru": ". Кроме того, он изготовил гранаты с концентрированным причастием и шприцы с похожим жидким раствором. "
+  },
+  "168": {
+   "en": "Contamination",
+   "ru": "Заражение"
+  },
+  "172": {
+   "en": "During the adventure, the party is passively exposed to Vesterick Nethecaré’s chemical communion via the ",
+   "ru": "По ходу приключения отряд пассивно подвергается воздействию химического причастия Вестерика Нетекаре через систему подачи воздуха "
+  },
+  "174": {
+   "en": "Devotions",
+   "ru": "«Преданности»"
+  },
+  "176": {
+   "en": "' air supply. Ask the characters to make Fortitude Tests at various points in the adventure (do not invoke the Poison specialisation as it might give the game away!). The following list covers some suggested points in the narrative to ask for these Tests, but it rather depends on how long your characters spend on the ",
+   "ru": ". В разные моменты приключения просите персонажей проходить проверки Стойкости (не упоминайте специализацию «Яды», иначе можно выдать игру!). Ниже приведены предлагаемые моменты для таких проверок, но многое зависит от того, сколько времени персонажи проведут на "
+  },
+  "178": {
+   "en": "Interminable Devotion",
+   "ru": "«Нескончаемой преданности»"
+  },
+  "180": {
+   "en": " trying to figure out the mystery.",
+   "ru": ", пытаясь разгадать тайну."
+  },
+  "188": {
+   "en": "At the end of Part 1 (when the party is detained in the brig).",
+   "ru": "В конце части 1 (когда отряд задержан в карцере)."
+  },
+  "196": {
+   "en": "After they have investigated a few locations in Part 2.",
+   "ru": "После того как персонажи обследуют несколько мест в части 2."
+  },
+  "204": {
+   "en": "After they have investigated a few more locations in Part 2 (see @UUID[.vC2n6yi7x19C9HvR#time-for-communion]{Time for Communion}).",
+   "ru": "После того как персонажи обследуют ещё несколько мест в части 2 (см. @UUID[.vC2n6yi7x19C9HvR#time-for-communion]{«Время причастия»})."
+  },
+  "212": {
+   "en": "As they race through the ",
+   "ru": "Когда персонажи мчатся через "
+  },
+  "214": {
+   "en": "Devotion",
+   "ru": "«Преданность»"
+  },
+  "216": {
+   "en": " in Part 3.",
+   "ru": " в части 3."
+  },
+  "224": {
+   "en": "As their exposure to the chemical increases, the Difficulty of these Fortitude Tests also increases.",
+   "ru": "По мере усиления воздействия химиката сложность этих проверок Стойкости растёт."
+  },
+  "232": {
+   "en": "During Part 1: ",
+   "ru": "В части 1: "
+  },
+  "234": {
+   "en": "Routine (+20)",
+   "ru": "Рутинная (+20)"
+  },
+  "244": {
+   "en": "During Part 2: ",
+   "ru": "В части 2: "
+  },
+  "246": {
+   "en": "Challenging (+0)",
+   "ru": "Средняя (+0)"
+  },
+  "256": {
+   "en": "During Part 3: ",
+   "ru": "В части 3: "
+  },
+  "258": {
+   "en": "Hard (−20)",
+   "ru": "Сложная (−20)"
+  },
+  "268": {
+   "en": "Among the characters who fail these Tests, choose someone who rolled the least SL. They experience some form of auditory or visual hallucination. See the ",
+   "ru": "Среди персонажей, проваливших эти проверки, выберите того, кто набрал меньше всего КУ. У него возникает слуховая или зрительная галлюцинация. Примеры того, что персонажи могут испытать под действием заражения, см. в таблицах "
+  },
+  "270": {
+   "en": "Auditory Hallucinations",
+   "ru": "«Слуховые галлюцинации»"
+  },
+  "272": {
+   "en": " and ",
+   "ru": " и "
+  },
+  "274": {
+   "en": "Visual Hallucinations",
+   "ru": "«Зрительные галлюцинации»"
+  },
+  "276": {
+   "en": " Tables for some ideas for what characters could experience under the effects of contamination — but any of these suggestions can be improved by adding aspects of NPCs who are important to the characters, especially anyone who has passed away; family, friends, lost comrades and the like (much like how Vesterick Nethecaré saw visions of his dead father when first exposed).",
+   "ru": " — но любой из вариантов станет сильнее, если добавить в него черты NPC, важных для персонажей, особенно умерших: родных, друзей, павших товарищей и тому подобных (так же, как Вестерику Нетекаре при первом воздействии явился покойный отец)."
+  },
+  "280": {
+   "en": "Furthermore, any character who fails two of these Tests in a row begins to suffer severely from the chemical communion. They effectively have the ",
+   "ru": "Кроме того, персонаж, проваливший две такие проверки подряд, начинает тяжело страдать от химического причастия. Фактически он получает состояние "
+  },
+  "282": {
+   "en": "Fatigued",
+   "ru": "«Усталость»"
+  },
+  "284": {
+   "en": " Condition, rolling all Tests with Disadvantage, until they can breathe clean air once more (either by fixed breathing apparatus, spending time outside the ",
+   "ru": " и проходит все проверки с помехой, пока снова не сможет дышать чистым воздухом (с помощью исправного дыхательного аппарата, проведя время вне "
+  },
+  "286": {
+   "en": "Devotion",
+   "ru": "«Преданности»"
+  },
+  "288": {
+   "en": ", or fixing Vesterick Nethecaré’s sabotage of the air systems).",
+   "ru": " или устранив диверсию Вестерика Нетекаре в системе воздухоснабжения)."
+  },
+  "292": {
+   "en": "@Embed[Compendium.navis-apexialis.navis-voll-tables.RollTable.w6qJK8mdonMAPkSG noCenter=true description=bottom]{Hallucination}",
+   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-tables.RollTable.w6qJK8mdonMAPkSG noCenter=true description=bottom]{Галлюцинация}"
+  },
+  "300": {
+   "en": "@Embed[Compendium.navis-apexialis.navis-voll-tables.RollTable.Gl7QDuzJmGGFTiLg noCenter=true description=bottom]{Hallucination}",
+   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-tables.RollTable.Gl7QDuzJmGGFTiLg noCenter=true description=bottom]{Галлюцинация}"
+  }
+ }
+}

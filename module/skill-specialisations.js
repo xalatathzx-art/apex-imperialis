@@ -14,19 +14,37 @@
  * продвижения), бросаем по нему, иначе продвижения потерялись бы.
  */
 
+import { byName as RUSSIAN_SPECIALISATIONS } from "../src/compendium/impmal-core.items.specialisations.mjs";
+
 const MODULE_ID = "navis-apexialis";
+
+const SPECIALISATION_ALIASES = new Map();
+for (const [english, data] of Object.entries(RUSSIAN_SPECIALISATIONS)) {
+  SPECIALISATION_ALIASES.set(normaliseName(english), english);
+  SPECIALISATION_ALIASES.set(normaliseName(data.name), english);
+}
 
 export function normaliseName(name) {
   return String(name ?? "").trim().toLowerCase().replace(/\s+/g, " ");
 }
 
+/** A client-language-independent identity for a core specialisation label. */
+export function canonicalSpecialisationName(name) {
+  const normalised = normaliseName(name);
+  return SPECIALISATION_ALIASES.get(normalised) ?? normalised;
+}
+
+/** Show core specialisations in the current client's language without mutating data. */
+export function displaySpecialisationName(name, language = globalThis.game?.i18n?.lang) {
+  const canonical = canonicalSpecialisationName(name);
+  return language?.startsWith("ru")
+    ? RUSSIAN_SPECIALISATIONS[canonical]?.name ?? name
+    : canonical;
+}
+
 /**
- * В список идут все специализации из компендиумов — включая особые вроде
- * Психического чутья и все ветки Техники (Безопасность, Аугметика и прочие).
- *
- * Фильтр по `restricted` и по пометкам «(Особое)» в названии был здесь раньше
- * и прятал лишнее: право взять специализацию — вопрос ведущего, а видеть, что
- * вообще бывает, полезно всегда. Нужен только сам тип и привязка к умению.
+ * В каталог идут только доступные специализации. Особые (`restricted`) система
+ * уже отмечает сама; они появляются на листе лишь когда выданы персонажу.
  */
 export function isBaseSpecialisation(item) {
   return item?.type === "specialisation" && Boolean(item?.system?.skill);
@@ -40,8 +58,8 @@ export function groupBySkill(items = []) {
   const groups = {};
   const seen = new Set();
   for (const item of items) {
-    if (!isBaseSpecialisation(item)) continue;
-    const signature = `${item.system.skill}|${normaliseName(item.name)}`;
+    if (!isBaseSpecialisation(item) || item.system?.restricted) continue;
+    const signature = `${item.system.skill}|${canonicalSpecialisationName(item.name)}`;
     if (seen.has(signature)) continue;
     seen.add(signature);
     (groups[item.system.skill] ??= []).push(item.name);
@@ -55,7 +73,13 @@ export function ownedSpecialisation(actor, skill, name) {
   return [...(actor?.items ?? [])].find(item =>
     item.type === "specialisation"
     && item.system?.skill === skill
-    && normaliseName(item.name) === normaliseName(name));
+    && canonicalSpecialisationName(item.name) === canonicalSpecialisationName(name));
+}
+
+/** The effective specialisation total, falling back to the parent skill. */
+export function specialisationTotal(actor, skill, name) {
+  const specialisation = ownedSpecialisation(actor, skill, name);
+  return specialisation?.system?.total ?? actor?.system?.skills?.[skill]?.total;
 }
 
 let cache = null;
@@ -63,7 +87,7 @@ export async function specialisationCatalogue() {
   if (cache) return cache;
   const find = globalThis.warhammer?.utility?.findAllItems;
   if (typeof find !== "function") return {};
-  cache = groupBySkill(await find("specialisation", "", false));
+  cache = find("specialisation", "", false).then(groupBySkill);
   return cache;
 }
 

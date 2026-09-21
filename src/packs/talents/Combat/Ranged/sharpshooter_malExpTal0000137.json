@@ -2,7 +2,7 @@
   "name": "Sharpshooter",
   "type": "talent",
   "_id": "malExpTal0000137",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On target hit Location: take -20 penalty (instead Disadvantage)</span></p><hr><p><span style=\"font-family: Arial\"><em>When you Target Location (pg. 210), you suffer a -20 Penalty instead of Disadvantage on the test. </em></span></p>",

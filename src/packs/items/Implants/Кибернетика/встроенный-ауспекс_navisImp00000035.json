@@ -2,7 +2,7 @@
   "name": "Встроенный Ауспекс",
   "type": "navis-apexialis.implant",
   "_id": "navisImp00000035",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00003",
   "sort": 3500,
   "system": {

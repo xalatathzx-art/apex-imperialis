@@ -1,0 +1,121 @@
+{
+  "generatedAt": "2026-09-17T11:51:26.864Z",
+  "migrated": [
+    {
+      "from": "impmal-core.actors",
+      "to": "navis-core-actors",
+      "documents": 922
+    },
+    {
+      "from": "impmal-core.items",
+      "to": "navis-core-items",
+      "documents": 1164
+    },
+    {
+      "from": "impmal-core.journals",
+      "to": "navis-core-journals",
+      "documents": 161
+    },
+    {
+      "from": "impmal-core.tables",
+      "to": "navis-core-tables",
+      "documents": 1140
+    },
+    {
+      "from": "impmal-core.scenes",
+      "to": "navis-core-scenes",
+      "documents": 294
+    },
+    {
+      "from": "impmal-inquisition.actors",
+      "to": "navis-inquisition-actors",
+      "documents": 625
+    },
+    {
+      "from": "impmal-inquisition.items",
+      "to": "navis-inquisition-items",
+      "documents": 373
+    },
+    {
+      "from": "impmal-inquisition.journals",
+      "to": "navis-inquisition-journals",
+      "documents": 156
+    },
+    {
+      "from": "impmal-inquisition.tables",
+      "to": "navis-inquisition-tables",
+      "documents": 438
+    },
+    {
+      "from": "impmal-requisition.actors",
+      "to": "navis-requisition-actors",
+      "documents": 267
+    },
+    {
+      "from": "impmal-requisition.items",
+      "to": "navis-requisition-items",
+      "documents": 296
+    },
+    {
+      "from": "impmal-requisition.journals",
+      "to": "navis-requisition-journals",
+      "documents": 53
+    },
+    {
+      "from": "impmal-requisition.tables",
+      "to": "navis-requisition-tables",
+      "documents": 443
+    },
+    {
+      "from": "impmal-voll.actors",
+      "to": "navis-voll-actors",
+      "documents": 664
+    },
+    {
+      "from": "impmal-voll.items",
+      "to": "navis-voll-items",
+      "documents": 3
+    },
+    {
+      "from": "impmal-voll.journals",
+      "to": "navis-voll-journals",
+      "documents": 55
+    },
+    {
+      "from": "impmal-voll.tables",
+      "to": "navis-voll-tables",
+      "documents": 93
+    },
+    {
+      "from": "impmal-voll.scenes",
+      "to": "navis-voll-scenes",
+      "documents": 13
+    }
+  ],
+  "assets": [
+    "impmal-core",
+    "impmal-inquisition",
+    "impmal-requisition",
+    "impmal-voll"
+  ],
+  "uuidMap": {
+    "Compendium.impmal-core.actors": "Compendium.navis-apexialis.navis-core-actors",
+    "Compendium.impmal-core.items": "Compendium.navis-apexialis.navis-core-items",
+    "Compendium.impmal-core.journals": "Compendium.navis-apexialis.navis-core-journals",
+    "Compendium.impmal-core.tables": "Compendium.navis-apexialis.navis-core-tables",
+    "Compendium.impmal-core.scenes": "Compendium.navis-apexialis.navis-core-scenes",
+    "Compendium.impmal-inquisition.actors": "Compendium.navis-apexialis.navis-inquisition-actors",
+    "Compendium.impmal-inquisition.items": "Compendium.navis-apexialis.navis-inquisition-items",
+    "Compendium.impmal-inquisition.journals": "Compendium.navis-apexialis.navis-inquisition-journals",
+    "Compendium.impmal-inquisition.tables": "Compendium.navis-apexialis.navis-inquisition-tables",
+    "Compendium.impmal-requisition.actors": "Compendium.navis-apexialis.navis-requisition-actors",
+    "Compendium.impmal-requisition.items": "Compendium.navis-apexialis.navis-requisition-items",
+    "Compendium.impmal-requisition.journals": "Compendium.navis-apexialis.navis-requisition-journals",
+    "Compendium.impmal-requisition.tables": "Compendium.navis-apexialis.navis-requisition-tables",
+    "Compendium.impmal-voll.actors": "Compendium.navis-apexialis.navis-voll-actors",
+    "Compendium.impmal-voll.items": "Compendium.navis-apexialis.navis-voll-items",
+    "Compendium.impmal-voll.journals": "Compendium.navis-apexialis.navis-voll-journals",
+    "Compendium.impmal-voll.tables": "Compendium.navis-apexialis.navis-voll-tables",
+    "Compendium.impmal-voll.scenes": "Compendium.navis-apexialis.navis-voll-scenes"
+  }
+}

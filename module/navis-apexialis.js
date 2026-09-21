@@ -17,6 +17,7 @@ import { registerBiomonitor } from "./biomonitor/index.js";
 import { registerRetarget } from "./retarget.js";
 import { registerScriptNames } from "./script-names.js";
 import { registerSkin } from "./skin.js";
+import { registerSpecialisationLanguageCompatibility } from "./specialisation-language-compatibility.js";
 import { registerSpeciesModel, registerSpeciesSheet } from "./species/index.js";
 import { registerTerminology } from "./terminology.js";
 
@@ -30,6 +31,13 @@ registerContentStrings();
 registerScriptNames();
 
 Hooks.once("init", () => {
+  game.settings.register(MODULE_ID, "uuidMigrationComplete", {
+    name: "Navis UUID migration complete",
+    scope: "world",
+    config: false,
+    type: Boolean,
+    default: false
+  });
   registerSkin();
   registerEnvironment();
   registerSheetBars();
@@ -77,6 +85,7 @@ Hooks.once("setup", () => {
   if (game.system.id !== "impmal") return;
   registerHorde();
   registerRetarget();
+  registerSpecialisationLanguageCompatibility();
 
   // Тексты правил для действий техники дописывают в конфиг impmal-core и
   // impmal-requisition, оба на init. Чей init последний — решает порядок

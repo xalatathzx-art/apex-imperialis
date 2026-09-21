@@ -2,7 +2,7 @@
   "name": "Оптический Мехадендрит",
   "type": "navis-apexialis.implant",
   "_id": "navisImp00000084",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00006",
   "sort": 8400,
   "system": {

@@ -1,0 +1,65 @@
+{
+ "journal": "tFbQS9Pwk46yjwFq",
+ "journalName": "The Holy Orders",
+ "page": "8VTOoxqcL2uC3eZm",
+ "pageName": "The Inquisitior",
+ "name": "Инквизиция",
+ "runs": {
+  "4": {
+   "en": "‘We are neither spies, soldiers, nor enforcers, yet we are all these at once. We are whatever the Imperium needs us to be. We alone know the horrors that await Mankind should the Imperium fall, so we alone are willing to do whatever it takes to prevent it. Whatever that makes us.’",
+   "ru": "ИНКВИЗИЦИЯ\n«Каждый из нас – не шпион, не солдат и не сыщик, а \nшпион, солдат, сыщик в оном лице. Мы становимся \nтеми, кто нужен Империуму. Мы одни знаем, что \nза ужасы ждут Человечество, если Империум \nпогибнет, и мы одни готовы делать всё, чтобы он \nвыжил. Чем бы это не обернулось"
+  },
+  "12": {
+   "en": "— Lord Inquisitor Fidus Kryptman",
+   "ru": "для нас самих»\n- лорд-инквизитор"
+  },
+  "22": {
+   "en": "In legend, an Inquisitor’s authority is second only to the Emperor Himself. Their holy duty is to identify and resolve threats within the Imperium: psykers, mutants, rebellion, corruption, xenos entities, and even traitorous incompetence fall under their jurisdiction. None are beyond their reach or above their scrutiny; even the most resolute, including the High Lords of Terra, are all vulnerable to corruption and failure. Ambition and greed cause immeasurable damage alone, but worse, they provide fertile soil for the Ruinous Powers to fester.",
+   "ru": "Фид Криптман\nЛегендыгласят,чтовластьинквизиторауступаеттолько\nтой, которой обладает сам Император. Священный\nдолг носителей печати состоит в том, чтобы искать и\nустранять угрозы Империуму – псайкеров, мутантов,\nповстанцев, порчу, ксеносов и даже изводить\nпредательскуюнекомпетентность.Никтонеможетбыть\nсвободен от их взора: даже верховные лорды Терры\nуязвимы ко скверне и имеют свои слабости. Алчность\nи честолюбие могут причинить неизмеримый урон,\nно кроме того, именно на них прорастают семена\nГубительных сил.\nИнквизиторы пугают; нередко они столь"
+  },
+  "26": {
+   "en": "Inquisitors are terrifying individuals; in many cases, they are just as unnerving as the inhuman enemies they hunt. The burden of power they must wield is staggering. If their task suits them, Inquisitors can call on the resources of an entire world. Space Marine Chapters, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Astra Militarum}, Adepta Sororitas, and even Imperial Assassins are at their beck and call.",
+   "ru": "же\nустрашающи, сколь те враги, на которых они охотятся.\nБремя власти, что несёт каждый из них, тяжело. Если\nдело того стоит, инквизитор может привлечь ресурсы\nцелого мира. Ордены космического десанта, полки\nАстра Милитарум, Адепта Сороритас и даже имперские\nассасины откликаются на их зов.\nНо инквизиторы осознают, насколько осторожно\nследуетприменятьсвоиполномочия;онидолжнызнать\nне только своего врага, но и понимать двойственную\nнатуру имперских служб и политическую @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Astra Militarum}"
+  },
+  "30": {
+   "en": "But Inquisitors know they must tread carefully with their authority; as much as they know their enemies, they understand the duplicitous nature of the Imperium’s factions and political landscape. Resources are finite, influence is never a guarantee, and bureaucracy always delays. Most Inquisitors prefer to operate from the shadows, employing acolytes and deniable assets to operate with utmost discretion.",
+   "ru": "обстановку.\nВсе ресурсы конечны, ничьё влияние не бывает\nабсолютным,абюрократиявечноставитпалкивколёса.\nБольшинство инквизиторов предпочитают действовать\nиз тени руками аколитов и одноразовых помощников.\nСтать инквизитором – непростая задача. Они\nдесятилетиями плетут агентурные сети, добиваются\nвеса в Адептус Терра и изучают своих врагов, рискуя\nзаразиться их скверной.\nМногие кандидаты на получение печати"
+  },
+  "34": {
+   "en": "Ascending to the position of Inquisitor is no simple task. It takes decades to build up networks of operatives, gather influence within the Adeptus Terra, and know their enemies so well as to risk corruption.",
+   "ru": "уже так или\nиначе проявили себя в борьбе с врагами Императора\n– как закалённые в битвах воины, флотоводцы или\nмогучие псайкеры. Другие могут доказать своё\nмастерство, служа в свите инквизитора и будучи"
+  },
+  "40": {
+   "en": "Parties can create their own Inquisitor Patron in @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.ZzHsqdssD6GJyhDE]{Patrons of the Inquisition}. There are some sample @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40]{Inquisitor Patrons} available in ",
+   "ru": "его\nучеником-дознавателем–самымблизкимидоверенным\nаколитом. Такие получают розетту, когда наставник\nрешит, что ученик достоин этого… или когда сам\nнаставник падёт.\nТяжёлая правда состоит в том, что большинство\nинквизиторов гибнут на службе Императора, либо\nживут достаточно долго, чтобы проникнуться идеями\nрадикализма @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.ZzHsqdssD6GJyhDE]{Patrons of the Inquisition} @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.b06xyMjo4E4cYc40]{Inquisitor Patrons}"
+  },
+  "42": {
+   "en": "The Inquisition GM's Guide",
+   "ru": "или пасть жертвой"
+  },
+  "44": {
+   "en": ". Each of these Patrons have their own guarded secrets and backstories tied to greater plots within the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W]{Heresies Macharia}.",
+   "ru": "Губительных сил,\nпротив которых борются – это неотвратимое\nпоследствие самостоятельности и свободы в выборе\nмировоззрения. Немало носителей печати получили\nсвой титул, послужив судьёй, присяжным и палачом\nсвоему @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.FNEW8e33IisZh27W]{Heresies Macharia}"
+  },
+  "50": {
+   "en": "Most have already proven themselves against the foes of the Emperor in one way or another — as battlehardened warriors, battlefleet generals, or indomitable psykers. Others may rise through an Inquisitor’s retinue via a direct apprenticeship as their Interrogator, an Inquisitor’s most trusted and capable acolyte, inheriting the position and power upon their mentor’s demise or when their master considers them ready for elevation.",
+   "ru": "отступившему от чистоты наставнику.\nУгрозы, против которых борются Святые Ордосы,\nстоль неподвластны разуму, что страх и ненависть,\nкоторые сеют инквизиторы – это необходимое зло.\nНоситель печати знает, что долг – важнее всего, а\nмилосердие – роскошь, которую он не может себе\nпозволить. Ни один враг – внешний, внутренний или\nпотусторонний–неостановитсяипопытаетсянавредить\nчеловечеству, если у него будет возможность. Если\nпадёт одна"
+  },
+  "54": {
+   "en": "It is a terrible truth that most Inquisitors die in service to the Emperor, survive long enough to succumb to radicalised ideas, or become corrupted by the Ruinous Powers they fight — an unfortunate byproduct of their necessary individualised methods and selfgarnered philosophies. Indeed, a staggering number of Inquisitors rose to their position by eliminating their former mentors as prime judges or witnesses of their fall from purity.",
+   "ru": "планета, значит падёт и следующая – в итоге\nпогибнут сотни миров и будут потеряны миллиарды\nдуш.\nИгроки могут создать себе покровителнквизитора по правилам из г г гл л ла а ав в вы ы ы I I II I I (стр.\n24). В « « «Р Р Ру у ук к ко о ов в во о од д дс с ст т тв в ве е е п п по о о И И Ин н нк к кв в ви и из з зи и иц ц ци и ии и и д д дл л ля я я\nв в ве е ед д ду у ущ щ ще е ег г го о о» » » и на сайте Cubicle 7 Games есть\nнесколько примеров."
+  },
+  "58": {
+   "en": "The threats they face are so beyond reason that the fear and antipathy they spread is a necessary evil of their work, all in service to the Imperium. Inquisitors know their duty must be unwavering, and mercy is a luxury no one can afford. No threat, within, without, or beyond, would hold back from eradicating Humankind if it gained a single foothold. They know that if one planet falls, certainly the next will, and so on, until hundreds of worlds and billions of lives are lost.",
+   "ru": "Каждый из таких\nготовых покровителей имеет тайны и\nпрошлое, связанное с масштабными\nзаговорами по всему Махарию.\nИНКВИЗИТОРСКАЯ\nРОЗЕТТА\nКаждый инквизитор, получая свой титул, создаёт\nзнак полномочий, что даёт ему наивысший\nуровень доступа по всему Империуму – розетту.\nБольшая часть таких артефактов содержит\nгенетический код владельца. Инквизитор создаёт\nсобственную розетту, отражая в ней свои вкусы,\nпрошлое и миссию – это уникальное\nподтверждение его личности. Теоретически, с\nпомощью розетты"
+  },
+  "64": {
+   "en": "The Inquisitorial Rosette",
+   "ru": "можно преодолеть любой"
+  },
+  "74": {
+   "en": "Each Inquisitor, upon their ascension, forges a badge of office that admits them the highest level of clearance across the Imperium. This artefact is called an @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.UmYkx98dKv97QSJy]{Inquisitorial Rosette}, and many of them have ingrained the Inquisitor’s genetic encoding within them. The Inquisitor designs their Rosette to represent their aesthetics, history, and mission, becoming a unique identifier of their authority. Theoretically, a Rosette can bypass any lock or barrier, physical or bureaucratic, that gets in the way of their investigation — the only barrier it cannot bypass is fickle Human behaviour.",
+   "ru": "замок\nи преграду, физическую или бюрократическую –\nей неподвластно лишь изменчивое человеческое\nповедение. @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.UmYkx98dKv97QSJy]{Inquisitorial Rosette}"
+  }
+ }
+}

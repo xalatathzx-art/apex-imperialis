@@ -2,7 +2,7 @@
   "name": "Astartes Power Armour",
   "type": "protection",
   "_id": "navisSpGear00005",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder004",
   "sort": 500,
   "system": {

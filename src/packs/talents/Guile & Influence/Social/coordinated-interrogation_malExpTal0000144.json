@@ -2,7 +2,7 @@
   "name": "Coordinated Interrogation",
   "type": "talent",
   "_id": "malExpTal0000144",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">+1SL to all Presence(Interrogation). Additional +1SL for every 2 aiding characters with the same Talent. You gain effect of being Helped</span></p><hr><p><span style=\"font-family: Arial\"><em>A trained interrogator, especially when working in conjunction with others, can induce cooperation from even the most hardened of suspect and heretics. You gain a +1SL bonus to all Presence (Interrogation) Tests, and an additional +1 SL for every two other characters participating in the interrogation who also have Coordinated Interrogation. You will also gain the effects of being Helped (IM CRB pg. 189). </em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "Clues from the Crowd Talent, 1 Advance in Presence(Interrogation)",
-      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Interrogation\" && i.system.skill == \"presence\")?.system?.advances >= 1) && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Clues from the Crowd\")"
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Interrogation\" && i.system.skill == \"presence\")?.system?.advances >= 1) && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Clues from the Crowds\")"
     },
     "test": {
       "difficulty": "challenging",

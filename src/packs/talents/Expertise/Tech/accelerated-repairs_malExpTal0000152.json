@@ -2,7 +2,7 @@
   "name": "Accelerated Repairs",
   "type": "talent",
   "_id": "malExpTal0000152",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Rush (repair) Job only takes -10 penalty. Careful Repairs: additional time is only 25% (not 50%)</span></p><hr><p><span style=\"font-family: Arial\"><em>You may now perform Repair Tests at a swifter rate. When opting to perform a Repair Test as a Rush Job, you suffer a -10 Penalty instead of the normal -30. When electing to make Careful Repairs, you increase the repair time by 25% instead of 50% (a repair that would take 12 hours takes 15 hours instead of the 18 it would normally take with Careful Repairs).</em></span></p>",

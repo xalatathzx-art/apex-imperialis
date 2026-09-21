@@ -1,0 +1,101 @@
+{
+ "journal": "SJPyRkdBEOCtmD8R",
+ "journalName": "Sector Threats",
+ "page": "bH6ISJRLFkjEbAbY",
+ "pageName": "Company of the Twisted Sickle",
+ "name": "",
+ "runs": {
+  "6": {
+   "en": "Company of the Twisted Sickle",
+   "ru": ""
+  },
+  "16": {
+   "en": "As you consume, you transform into its reflection.",
+   "ru": ""
+  },
+  "24": {
+   "en": "Threat Overview",
+   "ru": ""
+  },
+  "32": {
+   "en": "The Company of the Twisted Sickle is a Traitor Guard regiment in league with Nurgle cultists who occupy sectors on the agri world of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok}.",
+   "ru": ""
+  },
+  "40": {
+   "en": "They purport to believe they are liberating the planet’s labourers from the Imperium’s oppressive machinations.",
+   "ru": ""
+  },
+  "48": {
+   "en": "Their ambition is simple: continue to spread across Goros Pok and exploit the Imperium’s supply chains to infect other worlds",
+   "ru": ""
+  },
+  "58": {
+   "en": "An @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum} company, the 203rd Quannus-V regiment, were dispatched to quell an insurrection on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok}. The company had to depend upon local resources to function during the occupation. Their quartermasters requisitioned supplies from local farms and manufactorums to ensure the troopers remained well-fed and ready for action. A hidden Nurgle cult saw an opportunity and intercepted the supplies, contaminating them before they reached the company, allowing them to spread their blight among the newly arrived troopers.",
+   "ru": ""
+  },
+  "62": {
+   "en": "The resulting pox spread quickly among their ranks, culling their numbers substantially, leaving the work of pacifying @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok} to other units. The regiment’s field chirurgeons were helpless, their @UUID[Compendium.navis-apexialis.navis-core-items.Item.kous2Ot3MNPfthuo]{diagnostors} unable to offer any useful information on infection, which saw stinking red welts erupt from skin of the face and arms, rendering strong soldiers helpless in a matter of hours. The 203rd were quarantined to prevent the spread of the disease and a supply of broad-spectrum medicae tonics was requested from @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.59y8WFXTbwKRwiRI]{Voll}, though there seemed little hope of aid arriving soon enough to be useful. As a final insult, the regiment’s command elements evacuated just hours before the order to quarantine arrived.",
+   "ru": ""
+  },
+  "66": {
+   "en": "Despairing and abandoned, the soldiers of the 203rd expected little more than to suffer and die having never sighted the enemy, until cultists of the Twisted Sickle arrived with offers of another path.",
+   "ru": ""
+  },
+  "70": {
+   "en": "To the suffering soldiery they made a simple proposal — abandon their loyalty to the Emperor, who had so clearly abandoned them, and instead choose to serve a god who could offer them something tangible — relief from their suffering. Had not the illness been so grevious and their suffering so great, doubtless the soldiers would have refused. As it was, many loyalists rose from their deathbed, @UUID[Compendium.navis-apexialis.navis-core-items.Item.8tlu4X5Qpzl98Uye]{lasguns} in hand, to make a final stand, but they were too few and too ill to resist.",
+   "ru": ""
+  },
+  "74": {
+   "en": "The surviving soldiers swore themselves to the Plague God, and though the pox remained, their suffering ended. Indeed, it seems that the fetid welts became a source of strength, a mark of their god’s favour. Where once stood an entire regiment, only a company’s worth of soldiers remained, but they were remade, and the Company of the Twisted Sickle was born. They discarded their Imperial iconography, drawing new marks onto their uniforms — three black sickles arranged to form a triangle, for it seems a pleasing symbol for their new master.",
+   "ru": ""
+  },
+  "78": {
+   "en": "The Company’s ranks have since swelled, new recruits drawn from other regiments or recruited directly from the planet’s populace. Together, they have undertaken numerous missions to corrupt the planet’s harvests and storage facilities, spreading the same pox that made them what they are. They have spread Nurgle’s contagion to several outposts and destabilised critical agricultural and processing facilities. Now, the Company seeks to expand, securing more of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok} and spreading like a virus across the entire sector.",
+   "ru": ""
+  },
+  "82": {
+   "en": "Resources",
+   "ru": ""
+  },
+  "86": {
+   "en": "After shifting their loyalties, the traitors’ first actions were to seize what arms and armoured assets they could before local authorities recognised their change in allegiance. They now sit on a sizeable stockpile of standard @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum} equipment, everything from @UUID[Compendium.navis-apexialis.navis-core-items.Item.8tlu4X5Qpzl98Uye]{lasguns} to ground vehicles.",
+   "ru": ""
+  },
+  "90": {
+   "en": "In addition, many of the Company’s support elements have become @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.GM0SvY5IcLmeiJ6a]{Poxwalkers}. These contaminated individuals follow the main ranks like a swarm of flies, creating more of their ilk from those who survive the Company’s assaults. Fully trained members of the Company have only undergone this transformation after suffering egregious wounds in combat — a final ‘reward’ for those of proven loyalty.",
+   "ru": ""
+  },
+  "94": {
+   "en": "Methods",
+   "ru": ""
+  },
+  "104": {
+   "en": "As the Company of the Twisted Sickle spreads across @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok}, they have dispatched a handful of squads of traitorous soldiers aboard vessels purportedly carrying agricultural exports. They use the guise of guards assigned to the shipments to infiltrate new worlds and contaminate food and water stockpiles with Nurgle’s plague. The troopers only confront local powers once contamination has taken hold of some of the populace, adding these people to their ranks with the promise of relief. So far, they have met with only isolated greater success, but they have established minor footholds on at least a half dozen worlds. Should they meet with greater success, their next step is often to take over supply depots to arm their new recruits and lead assaults on fortified targets with waves of new @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.GM0SvY5IcLmeiJ6a]{Poxwalkers.}",
+   "ru": ""
+  },
+  "108": {
+   "en": "Among the megafarms on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok} taken over by the host of plagues and poxes unleashed by Nurgle's servants are a small clade of corrupted @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.vds8HRa533wcv1Pq]{Administratum Adepts} and @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.CsFqLJu3uHM45otd]{Arbitrators}. The Twisted Sickle rely upon them to set up the export orders and manifests they need to secretly spread their plague across the sector. Under the thumb of the @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.lpytiuTAh3y4JhNv]{Traitor Enforcers}, and @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.j3u29w8o6uvvQe0Y]{Traitor Guardsmen} they work round the clock and are always under watch, holed up in a seized @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Adminstratum} field office.",
+   "ru": ""
+  },
+  "112": {
+   "en": "Secrets",
+   "ru": ""
+  },
+  "116": {
+   "en": "Though few members suspect it possible, a daemon known as @UUID[.imrbNdJygrtuAgOn]{'The Reaper'} was instrumental in swaying the Company’s loyalty. This daemon has directly blessed the Twisted Sickle’s ranking officers, but few recognise or remember their interactions with it.",
+   "ru": ""
+  },
+  "120": {
+   "en": "Some survivors of the original 203rd Quannus-V regiment still exist on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.AZrjjtrYpox78Zme]{Goros Pok}, having evaded capture by the traitors. Most still bear the mark of the pox, deep scars where the welts appeared upon their skin. They lie in wait among the populace and desperately seek to contact the Inquisition. Making contact with these troopers would be instrumental in dismantling the Company.",
+   "ru": ""
+  },
+  "126": {
+   "en": "GM Advice",
+   "ru": ""
+  },
+  "130": {
+   "en": "The Company of the Twisted Sickle are a good match for a party that enjoys combat, as the mix of armed soldiers, @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.GM0SvY5IcLmeiJ6a]{Poxwalkers}, and a potential daemonic encounter will provide plenty of action. Their presence on Goros Pok will be relatively easy to reveal — they are widespread and, though successful so far, not well-trained infiltrators. The assistance of a Chamber Militant is almost certainly called for, but most Patrons will be at least somewhat reluctant to unleash a war upon one of the sector’s most vital agri worlds. They will expect their acolytes to assess the geographical spread of the threat, identify any enemy strongholds, and eliminate key enemy figureheads in an effort to constrain the scale of the conflict.",
+   "ru": ""
+  }
+ }
+}

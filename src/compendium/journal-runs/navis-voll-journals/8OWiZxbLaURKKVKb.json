@@ -1,0 +1,597 @@
+{
+ "journal": "QbQ7dTzbEVJyBLXJ",
+ "journalName": "Interminable Devotion",
+ "page": "8OWiZxbLaURKKVKb",
+ "pageName": "Part 3: A Mind in Ruins",
+ "name": "Часть 3: «Разум в руинах»",
+ "runs": {
+  "2": {
+   "en": "At this point, the party should have enough information to suspect that @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} is behind the murders and is currently posing as @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Sergeant Drukos}. If not, use the following events to bring the investigation forward:",
+   "ru": "К этому моменту у отряда должно быть достаточно сведений, чтобы заподозрить, что за убийствами стоит @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре} и что сейчас он выдаёт себя за @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{сержанта Друкоса}. Если нет, продвиньте расследование с помощью следующих событий:"
+  },
+  "10": {
+   "en": "If they decide to search the ",
+   "ru": "Если персонажи решат обыскать "
+  },
+  "12": {
+   "en": "Interminable Devotion",
+   "ru": "«Нескончаемую преданность»"
+  },
+  "14": {
+   "en": " for @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Drukos}, who keeps dodging their presence, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} can slip up in his imitations of the sergeant over the vox by giving incorrect details or acting rashly. If you need to press the point, members of Drukos’ squad could approach the Party asking if they’ve seen him.",
+   "ru": " в поисках @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Друкоса}, который всё время от них уклоняется, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре} может выдать себя, изображая сержанта по воксу: назвать неверные подробности или повести себя опрометчиво. Если нужно подтолкнуть отряд, к нему могут подойти бойцы из отделения Друкоса и спросить, не видели ли они его."
+  },
+  "22": {
+   "en": "If @UUID[.u9wPwSqM2FTyo8pg#scribe-hess]{Scribe Hess} is still alive, they’ll have inspected the Medicae’s (Drukos’) body and concluded that the corpse is @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Sergeant Drukos}, adding that the Medicae has been missing all day.",
+   "ru": "Если @UUID[.u9wPwSqM2FTyo8pg#scribe-hess]{писарь Хесс} ещё жив, он осмотрит тело медикуса (Друкоса) и придёт к выводу, что это труп @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{сержанта Друкоса}, добавив, что медикус весь день не показывался."
+  },
+  "30": {
+   "en": "If none of the above works, @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{Curator Varness} calls the party to her cabin for a progress report, after which you can begin the following scenes.",
+   "ru": "Если ничто из этого не сработает, @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{куратор Варнесс} вызывает отряд к себе в каюту с отчётом о ходе дела, после чего можно начинать следующие сцены."
+  },
+  "38": {
+   "en": "The party must present their findings to @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{Curator Varness}. She thinks the idea of a hidden Nethecaré noble being responsible is initially preposterous. Unbeknownst to the party, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} is listening in through the small vox receiver he hid in her augmentic hand some time ago under the guise of @UUID[.u9wPwSqM2FTyo8pg#medicae-roderick]{Medicae Roderick}.",
+   "ru": "Отряд должен представить свои выводы @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{куратору Варнесс}. Поначалу мысль о том, что во всём виноват скрывающийся дворянин из дома Нетекаре, кажется ей нелепой. Отряд не знает, что @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре} подслушивает через маленький вокс-приёмник, который он некоторое время назад спрятал в её аугметической руке под видом @UUID[.u9wPwSqM2FTyo8pg#medicae-roderick]{медикуса Родерика}."
+  },
+  "42": {
+   "en": "The party meeting with @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{Varness} triggers the climax of the adventure. Once finished stating their case, but before the party leaves the Curator’s cabin, the chamber is swallowed in darkness before red emergency lights kick in. Then the craft-wide vox crackles, and the following can be heard.",
+   "ru": "Встреча отряда с @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{Варнесс} запускает кульминацию приключения. Когда персонажи закончат излагать свои доводы, но ещё до того, как они покинут каюту куратора, помещение погружается во тьму, а затем включается красное аварийное освещение. Потом трещит общекорабельный вокс, и раздаётся следующее."
+  },
+  "48": {
+   "en": "‘My my, aren’t you the clever little lab rats? Unfortunately for you, you still find yourselves within my maze and I can’t have you scuttling off and spoiling things, there are grander things at work here.’",
+   "ru": "«Ну-ну, какие же вы смышлёные лабораторные крыски! На вашу беду, вы всё ещё в моём лабиринте, и я не могу позволить вам разбежаться и всё испортить — здесь вершатся дела поважнее»."
+  },
+  "54": {
+   "en": "Then the groaning sound of aching metal splits the air as the ",
+   "ru": "Затем воздух раскалывает стон терзаемого металла, и "
+  },
+  "56": {
+   "en": "Devotion",
+   "ru": "«Преданность»"
+  },
+  "58": {
+   "en": " rocks sharply. Each character must make a ",
+   "ru": " резко раскачивается. Каждый персонаж должен пройти "
+  },
+  "60": {
+   "en": "Challenging (+0) Athletics (Climbing",
+   "ru": "Среднюю (+0) проверку Атлетики (Лазанье"
+  },
+  "62": {
+   "en": ") Test or be knocked ",
+   "ru": "), иначе получает состояние "
+  },
+  "64": {
+   "en": "Prone",
+   "ru": "«Сбит с ног»"
+  },
+  "66": {
+   "en": " and suffer 3 Damage. The vox then crackles again, the voice now frantic, rapturous even. ",
+   "ru": " и 3 урона. Затем вокс снова трещит, а голос теперь исступлённый, почти восторженный. "
+  },
+  "72": {
+   "en": "‘He’s come… he’s finally come for me… he’s come to save me… father, I’m here!... Let this be my parting gift to you. The formula works! Breathe in the blessing of chemical communion!’",
+   "ru": "«Он пришёл… он наконец пришёл за мной… он пришёл спасти меня… отец, я здесь!.. Пусть это будет мой прощальный подарок вам. Формула работает! Вдохните благословение химического причастия!»"
+  },
+  "78": {
+   "en": "A hiss sounds as a pungent, sickly sweet odour fills the air. The characters must make a ",
+   "ru": "Раздаётся шипение, и воздух наполняется резким, приторно-сладким запахом. Персонажи должны пройти "
+  },
+  "80": {
+   "en": "Hard (−20) Fortitude (Poison)",
+   "ru": "Сложную (−20) проверку Стойкости (Яды)"
+  },
+  "82": {
+   "en": " Test as @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} releases his communion at full concentration aboard the ",
+   "ru": ": @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре} выпускает своё причастие в полной концентрации на борту "
+  },
+  "84": {
+   "en": "Devotion",
+   "ru": "«Преданности»"
+  },
+  "86": {
+   "en": " (see @UUID[.3BlX4i31o2Wez7vh#contamination]{Contamination}). ",
+   "ru": " (см. @UUID[.3BlX4i31o2Wez7vh#contamination]{«Заражение»}). "
+  },
+  "92": {
+   "en": "‘Curator Varness races to her cogitator, typing frantically. ‘Something has crippled the Devotion’s left track. We’re paralysed,’ she coughs. ‘And that bastard might have sealed us in, but if we can get down to the Hangar, we should be able to release that door manually.’",
+   "ru": "Куратор Варнесс бросается к когитатору и лихорадочно стучит по клавишам. «Что-то вывело из строя левую гусеницу «Преданности». Мы обездвижены, — кашляет она. — И этот ублюдок, возможно, запер нас, но если мы доберёмся до ангара, то сможем открыть ворота вручную»."
+  },
+  "100": {
+   "en": "Vesterick's Plotting",
+   "ru": "Замысел Вестерика"
+  },
+  "104": {
+   "en": "As the characters cobble together their last clues and present their findings to @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{Curator Varness}, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} has put his final plans into motion. Hiding between the Devotion’s decks and crawlspaces, he has created the final form of his chemical communion and has set it up to distribute throughout the Capitol Imperialis’s air filtration system.",
+   "ru": "Пока персонажи собирают воедино последние зацепки и излагают свои выводы @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{куратору Варнесс}, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре} приводит в действие свои последние планы. Прячась между палубами и в технических лазах «Преданности», он создал окончательную форму своего химического причастия и подготовил её к распространению по всей системе фильтрации воздуха «Капитолия Империалис»."
+  },
+  "108": {
+   "en": "At the same time, the @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi }outside the ",
+   "ru": "Тем временем @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади} снаружи "
+  },
+  "110": {
+   "en": "Devotion",
+   "ru": "«Преданности»"
+  },
+  "112": {
+   "en": " have continued to swarm towards it. All this time, some of @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré}’s chemical communion has been leaking from the Capitol Imperialis, the pheromone component within the formula has been attracting the @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi}. A behemoth-sized, latently psychic, and unclassified acynadi is about to strike the ",
+   "ru": " продолжают стекаться к ней. Всё это время часть химического причастия @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерика Нетекаре} просачивалась из «Капитолия Империалис», и феромонная составляющая формулы привлекала @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади}. Исполинский, скрыто-психический и не описанный наукой ацинади вот-вот обрушится на "
+  },
+  "114": {
+   "en": "Interminable Devotion",
+   "ru": "«Нескончаемую преданность»"
+  },
+  "120": {
+   "en": "When @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} sees this colossal @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi} coming, he believes his father has come back for him, and seeks to escape the Imperialis and meet him in the nearby ruins.",
+   "ru": "Увидев приближение этого колоссального @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади}, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре} решает, что за ним вернулся отец, и пытается сбежать из «Империалиса», чтобы встретиться с ним в ближайших руинах."
+  },
+  "126": {
+   "en": "Rush to Save the Crew",
+   "ru": "Спасти экипаж"
+  },
+  "130": {
+   "en": "The party is challenged to descend through the ",
+   "ru": "Отряду предстоит спуститься по палубам "
+  },
+  "132": {
+   "en": "Devotion’s",
+   "ru": "«Преданности»"
+  },
+  "134": {
+   "en": " decks as chemical-induced madness overtakes the crew. Their goal is to reach the Hangar and vent the @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{chemical communion} from the ",
+   "ru": ", пока экипаж охватывает химическое безумие. Цель — добраться до ангара и выпустить @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химическое причастие} с палуб "
+  },
+  "136": {
+   "en": "Devotion’s",
+   "ru": "«Преданности»"
+  },
+  "138": {
+   "en": " decks (if they do not think of this solution, Varness can pose it to them). If they have a workable solution of their own design, use the following encounters to hamper their movement towards their goal.",
+   "ru": " (если персонажи не додумаются до этого сами, Варнесс может подсказать). Если у них есть собственное осуществимое решение, используйте следующие сцены, чтобы затруднить им путь к цели."
+  },
+  "142": {
+   "en": "In each challenge, failure causes the character to make another ",
+   "ru": "В каждом испытании провал заставляет персонажа пройти ещё одну "
+  },
+  "144": {
+   "en": "Hard (−20) Fortitude (Poison)",
+   "ru": "Сложную (−20) проверку Стойкости (Яды)"
+  },
+  "146": {
+   "en": " Test to resist the@UUID[.3BlX4i31o2Wez7vh#chemical-communion]{ chemical communion}.",
+   "ru": ", чтобы противостоять @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химическому причастию}."
+  },
+  "152": {
+   "en": "‘Beyond the Curators’ cabin, the sound of maddened screams and gunfire fills the Militarum Deck as manic mercenaries fire at one another and things only they seem to see.’",
+   "ru": "«За каютой куратора палубу Милитарума наполняют безумные вопли и стрельба: обезумевшие наёмники палят друг в друга и в то, что видят только они»."
+  },
+  "158": {
+   "en": "In this first challenge, the characters need to avoid or confront the mercenaries. They could make a ",
+   "ru": "В первом испытании персонажам нужно избежать наёмников или противостоять им. Они могут пройти "
+  },
+  "160": {
+   "en": "Challenging (+0) Reflexes (Dodge)",
+   "ru": "Среднюю (+0) проверку Рефлексов (Уклонение)"
+  },
+  "162": {
+   "en": " or ",
+   "ru": " или "
+  },
+  "164": {
+   "en": "Stealth (Move Silently)",
+   "ru": "Скрытности (Бесшумное движение)"
+  },
+  "166": {
+   "en": " Test to avoid them, or find a different route with a ",
+   "ru": ", чтобы избежать их, либо найти обходной путь с помощью "
+  },
+  "168": {
+   "en": "Challenging (+0) Navigation (Tracking)",
+   "ru": "Средней (+0) проверки Ориентирования (Следы)"
+  },
+  "170": {
+   "en": " or ",
+   "ru": " или "
+  },
+  "172": {
+   "en": "Tech (Engineering)",
+   "ru": "Техники (Инженерное дело)"
+  },
+  "174": {
+   "en": " to find an alternate route. Treat the corridors as a ",
+   "ru": ". Если персонажи провалят проверки, считайте коридоры "
+  },
+  "176": {
+   "en": "Minor Hazard",
+   "ru": "слегка опасной местностью"
+  },
+  "178": {
+   "en": " if the characters fail their Tests.",
+   "ru": "."
+  },
+  "184": {
+   "en": "‘Passing down a stairwell, another shudder rocks the Devotion as something batters it from outside threatening to send you all tumbling down the narrow metal stairs.’",
+   "ru": "«Когда вы спускаетесь по лестничному пролёту, «Преданность» сотрясает новый толчок — что-то бьёт по ней снаружи, грозя сбросить вас всех вниз по узким металлическим ступеням»."
+  },
+  "190": {
+   "en": "In this second challenge, the characters need to pass a ",
+   "ru": "Во втором испытании персонажи должны пройти "
+  },
+  "192": {
+   "en": "Hard (−20) Athletics (Climbing)",
+   "ru": "Сложную (−20) проверку Атлетики (Лазанье)"
+  },
+  "194": {
+   "en": " or ",
+   "ru": " или "
+  },
+  "196": {
+   "en": "Fortitude (Endurance)",
+   "ru": "Стойкости (Неустанность)"
+  },
+  "198": {
+   "en": " Test to stay on their feet. If they fail they fall ",
+   "ru": ", чтобы устоять на ногах. При провале они получают состояние "
+  },
+  "200": {
+   "en": "Prone",
+   "ru": "«Сбит с ног»"
+  },
+  "202": {
+   "en": " and take Damage equal to their negative SL.",
+   "ru": " и урон, равный их отрицательным КУ."
+  },
+  "208": {
+   "en": "‘Entering the Habitation Deck you see huge gangs of menials running through the passages, jagged metal and tools in their blood slick hands. Howling like beasts they drag a screaming scribe out from under a bunk and bludgeon him to death.’",
+   "ru": "«Войдя на жилую палубу, вы видите, как по коридорам носятся огромные толпы чернорабочих с зазубренными обломками металла и инструментами в скользких от крови руках. Воя, как звери, они вытаскивают из-под койки вопящего писаря и забивают его насмерть»."
+  },
+  "214": {
+   "en": "In this third challenge, the characters can choose to aid the captured scribe, or continue on to keep pace. If they choose to aid the scribe, they’ll fall behind and @UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Old Hinji} will get to the Hangar release before them (described at the end of these encounters), and they’ll be forced to make another ",
+   "ru": "В третьем испытании персонажи могут помочь схваченному писарю или продолжить путь, не сбавляя темпа. Если они решат помочь, то отстанут, и @UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Старый Хинджи} доберётся до механизма ворот ангара раньше них (см. в конце этих сцен), а за промедление им придётся пройти ещё одну "
+  },
+  "216": {
+   "en": "Hard (−20) Fortitude (Poison)",
+   "ru": "Сложную (−20) проверку Стойкости (Яды)"
+  },
+  "218": {
+   "en": " Test to resist the @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{chemical communion} for lingering. Otherwise ask them to make a Test similar to the first challenge to avoid the mob, but the area is considered a ",
+   "ru": ", чтобы противостоять @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химическому причастию}. В противном случае попросите их пройти проверку, как в первом испытании, чтобы избежать толпы, но при провале эта зона считается "
+  },
+  "220": {
+   "en": "Major Hazard",
+   "ru": "опасной местностью"
+  },
+  "222": {
+   "en": " if they fail.",
+   "ru": "."
+  },
+  "228": {
+   "en": "‘Reaching the Enginarium Deck you see menials and haywire servitors thrashing about, under the effects of the chemical communion. Some are crowding near the hangar door’s control console, and they notice you.’",
+   "ru": "«Добравшись до палубы энгинариума, вы видите чернорабочих и взбесившихся сервиторов, мечущихся под действием химического причастия. Некоторые толпятся у пульта управления воротами ангара — и замечают вас»."
+  },
+  "234": {
+   "en": "In this fourth challenge, the characters are confronted by two menials (use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{Manufactorum Labourer} stat-block to represent them) and two @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.px7pplClKR01chqM]{Servitor}. Under the effects of the chemical communion, they attack randomly, perhaps even each other, and all Tests against them are at Advantage. The characters are four Zones away from the door controls, located up a small gantry way next to the door aperture. They can avoid the assailants and reach the hangar’s door control console by making a ",
+   "ru": "В четвёртом испытании персонажам противостоят двое чернорабочих (используйте для них профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{рабочего с мануфакторума}) и два @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.px7pplClKR01chqM]{сервитора}. Под действием химического причастия они атакуют как попало, возможно даже друг друга, и все проверки против них проходят с преимуществом. Персонажей отделяют четыре зоны от пульта управления воротами, расположенного на небольшом мостике у проёма ворот. Вместо схватки они могут обойти нападающих и добраться до пульта, пройдя "
+  },
+  "236": {
+   "en": "Difficult (−10) Athletics (Climbing)",
+   "ru": "Трудную (−10) проверку Атлетики (Лазанье)"
+  },
+  "238": {
+   "en": " or ",
+   "ru": " или "
+  },
+  "240": {
+   "en": "Reflexes (Dodge)",
+   "ru": "Рефлексов (Уклонение)"
+  },
+  "242": {
+   "en": " Test instead, but failing causes them to fall into the fight.",
+   "ru": ", но при провале оказываются втянуты в драку."
+  },
+  "246": {
+   "en": "No test is needed to activate the door’s release mechanism, so long as someone reaches it and hits the clearly marked button, then proceed to the next section.",
+   "ru": "Чтобы задействовать механизм открытия ворот, проверка не нужна — достаточно, чтобы кто-нибудь добрался до него и нажал на чётко обозначенную кнопку; затем переходите к следующему разделу."
+  },
+  "250": {
+   "en": "Old Hinji’s Fate",
+   "ru": "Судьба Старого Хинджи"
+  },
+  "260": {
+   "en": "If the characters do not make it there in time, or all succumb to the effects of the @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{chemical communion}, @UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Old Hinji} comes to the crew’s rescue in their stead. He senses his way to the Hangar and releases the hangar door, allowing the toxic gas to drain from the ",
+   "ru": "Если персонажи не успеют вовремя или все поддадутся действию @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химического причастия}, экипаж вместо них спасает @UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Старый Хинджи}. Чутьём находя путь до ангара, он открывает ворота, и ядовитый газ уходит с палуб "
+  },
+  "262": {
+   "en": "Devotion’s",
+   "ru": "«Преданности»"
+  },
+  "264": {
+   "en": " decks.",
+   "ru": "."
+  },
+  "268": {
+   "en": "The party finds him next to the hangar door console on the brink of death, having been pushed to his limit. Only a ",
+   "ru": "Отряд находит его у пульта ворот ангара при смерти — он дошёл до предела своих сил. Стабилизировать его может лишь "
+  },
+  "270": {
+   "en": "Very Hard (−30) Medicae (Human",
+   "ru": "Очень сложная (−30) проверка Медики (Люди"
+  },
+  "272": {
+   "en": ") Test can stabilise him, otherwise he’ll promptly die after relaying the following information.",
+   "ru": "); иначе он умрёт сразу после того, как передаст следующие сведения."
+  },
+  "276": {
+   "en": "If the characters made it to the hangar door console in time, they’ll find Old Hinji nearby; exhausted. He’ll need medicae attention, but no Test is required to stabilise him.",
+   "ru": "Если персонажи успели к пульту ворот ангара вовремя, они найдут Старого Хинджи неподалёку, измождённого. Ему нужна медицинская помощь, но проверка для стабилизации не требуется."
+  },
+  "280": {
+   "en": "@UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Old Hinji }tells the party he ran into @UUID[.u9wPwSqM2FTyo8pg#medicae-roderick]{Medicae Roderick} (@UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré}) on his way to the Hangar, and has some vital information for them: ",
+   "ru": "@UUID[.u9wPwSqM2FTyo8pg#old-hinji]{Старый Хинджи} рассказывает, что по пути в ангар наткнулся на @UUID[.u9wPwSqM2FTyo8pg#medicae-roderick]{медикуса Родерика} (@UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерика Нетекаре}), и у него есть для отряда важные сведения: "
+  },
+  "286": {
+   "en": "‘Ruins outside, he said he was going to meet his father in the ruins’.",
+   "ru": "«Руины снаружи… он сказал, что идёт встретиться с отцом в руинах»."
+  },
+  "292": {
+   "en": "The chemical communion vents out of the ",
+   "ru": "Химическое причастие уходит из "
+  },
+  "294": {
+   "en": "Interminable Devotion",
+   "ru": "«Нескончаемой преданности»"
+  },
+  "296": {
+   "en": ", but at the same time, @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi }of various sizes begin to enter the Hangar from outside, investigating the source of the airborne pheramones (mostly tiny variants and @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.7F9x6CZCJCp0IV6b]{Acynadi Beta-3}, among a few more ornery @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ZIxRrvXoXCRKAYyI]{Acynadi Delta-5}). The characters can aid in setting up barricades and warding the enemy tide off, or you can skip to the next section; some of the ",
+   "ru": ", но в то же время в ангар снаружи начинают заходить @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади} разных размеров, привлечённые источником летучих феромонов (в основном мелкие разновидности и @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.7F9x6CZCJCp0IV6b]{ацинади Бета-3}, а среди них несколько более злобных @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ZIxRrvXoXCRKAYyI]{ацинади Дельта-5}). Персонажи могут помочь возвести баррикады и отбить вражескую волну, либо можно сразу перейти к следующему разделу: охрана "
+  },
+  "298": {
+   "en": "Devotion’s",
+   "ru": "«Преданности»"
+  },
+  "300": {
+   "en": " security and @UUID[.u9wPwSqM2FTyo8pg#mathus-49]{Mathus-49}’s servitors come to do the job regardless.",
+   "ru": " и сервиторы @UUID[.u9wPwSqM2FTyo8pg#mathus-49]{Мальтуса-49} в любом случае справятся с этим."
+  },
+  "304": {
+   "en": "Stalled in the Wastes",
+   "ru": "Застряв в пустошах"
+  },
+  "308": {
+   "en": "Regrouping with @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{Curator Varnes}s, she speculates how @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} could have known they were on to him. If the characters do not search her office or augmetic arm for the hidden vox caster, Varness discovers it alone. She curses herself as a fool and destroys the device. ",
+   "ru": "Когда отряд вновь собирается у @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{куратора Варнесс}, она гадает, как @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре} мог узнать, что они вышли на его след. Если персонажи не обыщут её кабинет или аугметическую руку в поисках спрятанного вокс-передатчика, Варнесс находит его сама. Она проклинает себя за глупость и уничтожает устройство. "
+  },
+  "312": {
+   "en": "She relays the state of the ",
+   "ru": "Она рассказывает персонажам о состоянии "
+  },
+  "314": {
+   "en": "Devotion",
+   "ru": "«Преданности»"
+  },
+  "316": {
+   "en": " to the characters. Whatever hit the Capitol Imperialis caused the ancient engine to stall, and @UUID[.u9wPwSqM2FTyo8pg#mathus-49]{Mathus-49} is working to get it moving again. They won’t be underway for some time. Regardless, the crew is in shambles. Their minds are broken, and many of them are dead. Anyone still alive is fending off the stray @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi }who scuttled aboard or is patching up the engine.",
+   "ru": ". То, что ударило по «Капитолию Империалис», заглушило древнюю машину, и @UUID[.u9wPwSqM2FTyo8pg#mathus-49]{Мальтус-49} трудится, чтобы снова привести её в движение. Тронуться в путь удастся не скоро. Так или иначе, экипаж в полном раздрае. Разумы людей сломлены, многие мертвы. Все, кто ещё жив, либо отбиваются от проникших на борт @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади}, либо латают двигатель."
+  },
+  "320": {
+   "en": "To gain some form of victory from this ordeal, the Curator presses the party to finish their job and chase down @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} once and for all. She hands them a report formed from the ",
+   "ru": "Чтобы вырвать хоть какую-то победу из этого испытания, куратор настаивает, чтобы отряд довёл дело до конца и раз и навсегда настиг @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерика Нетекаре}. Она вручает им отчёт по данным ауспиков "
+  },
+  "322": {
+   "en": "Devotion’s",
+   "ru": "«Преданности»"
+  },
+  "324": {
+   "en": " augur scans, and only one patch of ruins is nearby, marked on an attached map. They have a moment to catch their breath but must make haste to find the madman.",
+   "ru": ": поблизости есть лишь одно скопление руин, отмеченное на приложенной карте. У персонажей есть минута, чтобы перевести дух, но нужно спешить, чтобы найти безумца."
+  },
+  "328": {
+   "en": "The Ruins",
+   "ru": "Руины"
+  },
+  "332": {
+   "en": "Leaving the ",
+   "ru": "Покинув "
+  },
+  "334": {
+   "en": "Devotion",
+   "ru": "«Преданность»"
+  },
+  "336": {
+   "en": " and emerging into the storm-wracked acidic wilderness, the party’s portable lumens soon reveal dozens of huge depressions scattered around the side of the Capitol Imperialis. These are immense footprints, each at least twenty feet wide, leading out into the dark. Armed with a data slate loaded with geographic reconnaissance data, the party knows the ruins aren’t far. ",
+   "ru": " и выйдя в истерзанную бурей кислотную глушь, отряд вскоре видит в свете переносных люменов десятки огромных впадин, разбросанных у борта «Капитолия Империалис». Это исполинские следы, каждый не меньше двадцати футов в ширину, уходящие во тьму. С инфопланшетом, загруженным данными географической разведки, отряд знает, что руины недалеко. "
+  },
+  "340": {
+   "en": "The area is filled with @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi}, though they are more interested in getting into the ",
+   "ru": "Вокруг полно @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади}, но им куда интереснее пробраться в "
+  },
+  "342": {
+   "en": "Devotion",
+   "ru": "«Преданность»"
+  },
+  "344": {
+   "en": " than getting in the character’s way. They reach the edge of the ruins unhampered, read or paraphrase the following:",
+   "ru": ", чем преграждать путь персонажам. Те беспрепятственно добираются до края руин; зачитайте или перескажите следующее:"
+  },
+  "350": {
+   "en": "‘Sharp lines of acidic rain cut through the bright beams of your portable lumens as you see them, rotten and fang-like. Ragged stone structures, broken and ruined, leer out of the storm forming angular walls, crumbled pillars and sharp-edged obelisks.’",
+   "ru": "«Резкие струи кислотного дождя прорезают яркие лучи ваших переносных люменов, и вы видите их — гнилые, похожие на клыки. Истерзанные каменные постройки, разбитые и разрушенные, злобно проступают из бури: угловатые стены, раскрошившиеся колонны и острые обелиски»."
+  },
+  "356": {
+   "en": "They should easily notice that no @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi }are in the ruins, as if they won’t step inside. The few they see seem to stand still at the edge. As they move deeper, the outcrops of stones grow closer together until something resembling a massive ruined structure looms out of the dark, its huge circular entryway yawning like a vast, hungry maw. Read or paraphrase the following:",
+   "ru": "Персонажи без труда заметят, что в руинах нет ни одного @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади}, будто те не решаются туда ступить. Те немногие, что видны, неподвижно стоят у края. По мере продвижения вглубь каменные выступы смыкаются всё теснее, пока из тьмы не проступает нечто похожее на огромное разрушенное сооружение, чей гигантский круглый вход зияет, словно огромная голодная пасть. Зачитайте или перескажите следующее:"
+  },
+  "362": {
+   "en": "‘The winding passages terminate in a huge circular chamber, its domed ceiling, cracked and broken, looms precariously as the storm winds whip through in a series of keening howls. Huge, crumbling pillars dominate the space in a forest of shattered stone while at the centre a raised dias supports an altar inlaid with strange spirals.’",
+   "ru": "«Извилистые проходы заканчиваются огромным круглым залом; его купол, растрескавшийся и разбитый, опасно нависает, а штормовые ветры проносятся сквозь него пронзительным воем. Огромные осыпающиеся колонны заполняют пространство лесом разбитого камня, а в центре на возвышении стоит алтарь, инкрустированный странными спиралями»."
+  },
+  "376": {
+   "en": "Investigating the Ruins",
+   "ru": "Осмотр руин"
+  },
+  "380": {
+   "en": "The characters should be making haste to confront @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré}, but if any of them halt to glance at the ruins, you can reveal some of the following information.",
+   "ru": "Персонажам следует поспешить, чтобы противостоять @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерику Нетекаре}, но если кто-то задержится, чтобы взглянуть на руины, можете раскрыть часть следующих сведений."
+  },
+  "388": {
+   "en": "Apart from the crumbling parts of the structure, none of the ruins’s architecture present seams or breaks between the stonework, seeming impossible to construct by conventional imperial means.",
+   "ru": "Не считая осыпающихся частей, в кладке руин нет ни швов, ни стыков — кажется, что обычными имперскими методами такое построить невозможно."
+  },
+  "396": {
+   "en": "The only markings on the ruins surfaces (walls and floors) are strange, spiral-like indentations; some are small, thumb-sized spirals, others take up entire spans of rock.",
+   "ru": "Единственные отметины на поверхностях руин (стенах и полах) — странные спиралевидные углубления: одни маленькие, размером с большой палец, другие занимают целые каменные пролёты."
+  },
+  "404": {
+   "en": "The stone appears incredibly acid-resistant. Unlike imperial construction, there are no acid-markings from centuries of being submerged in Voll’s acidic swampland.",
+   "ru": "Камень кажется невероятно стойким к кислоте. В отличие от имперских построек, на нём нет кислотных следов, хотя руины веками стоят в кислотных топях Волла."
+  },
+  "414": {
+   "en": "Once inside the inner chamber, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} makes his presence known, stepping onto the raised dais at the chamber's centre. He insults the party, mocking them for their stupidity as he hid right under their noses. As his madness and paranoia come to the fore, read aloud or paraphrase the following:",
+   "ru": "Оказавшись во внутреннем зале, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре} обнаруживает себя, выходя на возвышение в центре зала. Он оскорбляет отряд, насмехаясь над их глупостью: ведь он прятался у них под самым носом. Когда его безумие и паранойя выходят на первый план, зачитайте вслух или перескажите следующее:"
+  },
+  "420": {
+   "en": "‘They sent you to ruin this for me, didn't they? Didn't they?! Who was it? My Uncle? One of his heirs? They’ve always tried to keep me down, pushing my nose into the dirt so they can laugh like I wasn't a Nethecaré! But not anymore! I’ve solved the formula! The chemical communion! My formula will bring the house to new heights!’ Behind him, heavy, thunderous, plodding steps approach the ruins, shaking the earth and threatening everyone to their knees. Vesterick cackles madly, withdrawing an odd-looking grenade. ‘You see! Father is coming, father is coming to rescue me!’ He pulls the pin on the grenade, dropping it at his feet. It releases a thick plume of orange gas as he vanishes into the forest of pillars.’",
+   "ru": "«Вас послали всё мне испортить, да? Да?! Кто это был? Мой дядя? Один из его наследников? Они всегда старались меня принизить, тыкали носом в грязь, чтобы посмеяться, будто я не Нетекаре! Но больше этому не бывать! Я разгадал формулу! Химическое причастие! Моя формула вознесёт дом к новым высотам!» Позади него к руинам приближаются тяжёлые, громовые, грузные шаги — земля содрогается, грозя поставить всех на колени. Вестерик безумно хохочет, доставая странного вида гранату. «Видите! Отец идёт, отец идёт меня спасти!» Он выдёргивает чеку и роняет гранату себе под ноги. Та выпускает густой шлейф оранжевого газа, и Вестерик исчезает в лесу колонн»."
+  },
+  "426": {
+   "en": "Once among the pillars, characters can attempt to make a ",
+   "ru": "Оказавшись среди колонн, персонажи могут пройти "
+  },
+  "428": {
+   "en": "Challenging (+0) Perception (Sight)",
+   "ru": "Среднюю (+0) проверку Бдительности (Зрение)"
+  },
+  "430": {
+   "en": " Test to search for @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré}. Should they be successful, they hear the unmistakable click of a pin being pulled from a grenade before a sudden plume of bright orange gas erupts around them. Characters must make a ",
+   "ru": ", чтобы найти @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерика Нетекаре}. При успехе они слышат безошибочный щелчок выдёргиваемой чеки, а затем вокруг них внезапно вырывается шлейф ярко-оранжевого газа. Персонажи должны пройти "
+  },
+  "432": {
+   "en": "Challenging (+0) Fortitude (Poison)",
+   "ru": "Среднюю (+0) проверку Стойкости (Яды)"
+  },
+  "434": {
+   "en": " Test to resist the @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{chemical communion}. Any character who was successful in their Perception Test may make the Fortitude Test with Advantage as they anticipate the coming hazard. ",
+   "ru": ", чтобы противостоять @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химическому причастию}. Персонажи, преуспевшие в проверке Бдительности, проходят проверку Стойкости с преимуществом, поскольку ожидают опасности. "
+  },
+  "438": {
+   "en": "@UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} aims to attack those he’s afflicted with his chemical communion, evading the party until he can get the drop on them. Three rounds after combat begins, as the heavy footsteps grow closer, the following occurs:",
+   "ru": "@UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре} старается атаковать тех, кого поразило его химическое причастие, уклоняясь от отряда, пока не сможет застать кого-то врасплох. Через три раунда после начала боя, когда тяжёлые шаги становятся ближе, происходит следующее:"
+  },
+  "446": {
+   "en": "‘The colossal thumping footsteps now hammer the ground beyond the chamber’s walls, each thunderous boom louder than the storm as the ground trembles. Something huge beyond reckoning and dark as the night smashes a section of the domed ceiling, sending large chunks of stone plummeting to the floor.’",
+   "ru": "«Колоссальные громыхающие шаги теперь молотят землю прямо за стенами зала; каждый громовой удар громче бури, и земля дрожит. Нечто невообразимо огромное и тёмное, как ночь, проламывает часть купола, и на пол обрушиваются огромные глыбы камня»."
+  },
+  "452": {
+   "en": "The party must make a ",
+   "ru": "Отряд должен пройти "
+  },
+  "454": {
+   "en": "Challenging (+0) Reflexes (Dodge)",
+   "ru": "Среднюю (+0) проверку Рефлексов (Уклонение)"
+  },
+  "456": {
+   "en": " Test to avoid the falling stone. On a failure, they are knocked ",
+   "ru": ", чтобы увернуться от падающих камней. При провале персонажи получают состояние "
+  },
+  "458": {
+   "en": "Prone",
+   "ru": "«Сбит с ног»"
+  },
+  "460": {
+   "en": " and suffer 5 Damage. All Zones gain the ",
+   "ru": " и 5 урона. Все зоны получают свойство окружения "
+  },
+  "462": {
+   "en": "Lightly Obscured",
+   "ru": "«Слегка скрыт»"
+  },
+  "464": {
+   "en": " Environmental Trait from all the silt and debris kicked up into the air. Meanwhile, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} continues to evade the party as best he can in the same manner as before. Debris continues to fall into different Zones for another two rounds, then the following occurs: ",
+   "ru": " из-за поднятых в воздух ила и обломков. Тем временем @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре} по-прежнему как может уклоняется от отряда. Обломки продолжают падать в разные зоны ещё два раунда, затем происходит следующее: "
+  },
+  "470": {
+   "en": "‘A horrible scream cuts through the din, and you see Vesterick Nethecaré, his legs pinned beneath a heavy piece of rubble. ‘Father,’ he screams. ‘Father, please help me!’ As if beckoned by his call, a huge tentacular claw emerges from the shadowed canopy beyond the dome. Slimy, glistening and dotted with small bioluminescent pits so synonymous with deep water acynadi. It reaches towards him.’",
+   "ru": "«Сквозь грохот прорывается жуткий крик, и вы видите Вестерика Нетекаре — его ноги придавлены тяжёлой глыбой. «Отец! — кричит он. — Отец, прошу, помоги мне!» Словно на его зов, из затенённого полога за куполом появляется огромная щупальцевидная клешня — склизкая, блестящая, усеянная маленькими биолюминесцентными ямками, столь характерными для глубоководных ацинади. Она тянется к нему»."
+  },
+  "476": {
+   "en": "The party can react in a number of ways, but make it clear to them that they only have six rounds to escape the ruins unscathed:",
+   "ru": "Отряд может отреагировать по-разному, но дайте понять, что у персонажей есть лишь шесть раундов, чтобы невредимыми выбраться из руин:"
+  },
+  "480": {
+   "en": "They may wish to free @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} from the rubble and take him back to the ",
+   "ru": "Персонажи могут захотеть освободить @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерика Нетекаре} из-под завала и доставить его на "
+  },
+  "482": {
+   "en": "Interminable Devotion",
+   "ru": "«Нескончаемую преданность»"
+  },
+  "484": {
+   "en": ", to answer for his crimes and face the God-Emperor’s justice. Freeing him requires an extended ",
+   "ru": ", чтобы он ответил за свои преступления и предстал перед правосудием Бога-Императора. Для этого нужна продолжительная "
+  },
+  "486": {
+   "en": "Hard (+20) Athletics (Might)",
+   "ru": "Сложная (−20) групповая проверка Атлетики (Мощь)"
+  },
+  "488": {
+   "en": " Group Test, requiring 8 total SL to succeed. The party has three rounds in which to succeed in freeing Vesterick Nethecaré before the giant creature seizes him and draws him out into the blackness beyond the ruins.",
+   "ru": " с общей целью в 8 КУ. У отряда есть три раунда, чтобы освободить Вестерика Нетекаре, прежде чем исполинское существо схватит его и утащит во тьму за руинами."
+  },
+  "492": {
+   "en": "However, the party may wish to escape right away, as it should be clear that the ceiling has become critically unstable. Fleeing the ruins requires a ",
+   "ru": "Однако отряд может захотеть сразу бежать, ведь должно быть ясно, что потолок стал угрожающе непрочным. Чтобы выбраться из руин, нужна "
+  },
+  "494": {
+   "en": "Routine (−20) Reflexes (Dodge) ",
+   "ru": "Рутинная (+20) проверка Рефлексов (Уклонение) "
+  },
+  "496": {
+   "en": "or",
+   "ru": "или"
+  },
+  "498": {
+   "en": " Athletics (Running)",
+   "ru": " Атлетики (Бег)"
+  },
+  "500": {
+   "en": " Test as they move around the falling debris. They need to succeed at this Test twice to escape individually. If they are dragging @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} along, the Difficulty of these Tests increases to ",
+   "ru": ", пока персонажи пробираются между падающими обломками. Чтобы выбраться, каждому нужно преуспеть в этой проверке дважды. Если они тащат с собой @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерика Нетекаре}, сложность этих проверок возрастает до "
+  },
+  "502": {
+   "en": "Hard (+20)",
+   "ru": "Сложной (−20)"
+  },
+  "504": {
+   "en": ". Failing this Test, a chunk of debris hits them for 3 Damage, or on a Critical Failure, they are also knocked ",
+   "ru": ". При провале персонажа задевает обломок, нанося 3 урона, а при критическом провале он также получает состояние "
+  },
+  "506": {
+   "en": "Prone",
+   "ru": "«Сбит с ног»"
+  },
+  "512": {
+   "en": "If the party takes any opportunity to go through @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré}’s possessions, they find a dataslate detailing the formula for his @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{chemical communion} along with three of his remaining gas grenades.",
+   "ru": "Если отряд воспользуется случаем и обыщет вещи @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерика Нетекаре}, персонажи найдут инфопланшет с формулой его @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химического причастия} и три оставшиеся газовые гранаты."
+  },
+  "516": {
+   "en": "As the party emerges into the wilderness, the ruined structure behind them crumbles as they narrowly avoid its total collapse. As the dust cloud subsides, they notice all the @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi }that had gathered are now gone. Furthermore to their relief the storm seems to be moving off and the sky begins to brighten. Read aloud or paraphrase the following:",
+   "ru": "Когда отряд выбирается в глушь, разрушенное сооружение позади рушится — персонажи едва успевают избежать полного обвала. Когда облако пыли оседает, они замечают, что все собравшиеся @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади} исчезли. Более того, к их облегчению, буря, похоже, уходит, и небо начинает светлеть. Зачитайте вслух или перескажите следующее:"
+  },
+  "522": {
+   "en": "‘The raging storm seems to shift to the west away from the Interminable Devotion and deeper into the barren acidic wasteland. The darkness within the lashing tempest seems to swallow the oncoming landscape under the shrouding pressure of its heavy clouds. Yet every so often a flash of lightning illuminates that dark inner world and in its after image you see a shape, vast and monolithic, moving in its blackened depths.’",
+   "ru": "«Бушующая буря, похоже, смещается на запад, прочь от «Нескончаемой преданности», вглубь бесплодной кислотной пустоши. Тьма в хлещущем урагане словно поглощает встречный пейзаж под гнётом тяжёлых туч. Но время от времени вспышка молнии освещает этот тёмный внутренний мир, и в её остаточном свете вы видите силуэт — огромный, монолитный, движущийся в чёрных глубинах»."
+  },
+  "528": {
+   "en": "With the storm moving the characters see salvation nearby in the proud defiant shape of the ",
+   "ru": "Буря уходит, и персонажи видят неподалёку спасение — гордый, непокорный силуэт "
+  },
+  "530": {
+   "en": "Interminable Devotion",
+   "ru": "«Нескончаемой преданности»"
+  },
+  "532": {
+   "en": ", its armored battlements dominating the landscape, beckoning them to return to safety.",
+   "ru": ": её бронированные стены возвышаются над местностью, маня вернуться в безопасность."
+  }
+ }
+}

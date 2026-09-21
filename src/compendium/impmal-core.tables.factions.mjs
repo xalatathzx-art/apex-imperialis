@@ -18,5 +18,15 @@ export const byName = {
   "Shrine World Faction": { name: "Служба — мир-храм" },
   "Voidborn Faction": { name: "Служба — Пустота" },
 
-  "Encounter Complications": { name: "Осложнения боевых сцен" }
+  "Encounter Complications": {
+    name: "Осложнения боевых сцен",
+    results: {
+      "8oqzCccJxsEJ6qSq": { name: "Осложнения боевых сцен — Окружение" },
+      "OHWabNrip9DLbGgA": { name: "Осложнения боевых сцен — Тактика" },
+      "ga2hzznkkuhZjcJH": { name: "Осложнения боевых сцен — Время" },
+      "WoHRNIx3biECREf6": { name: "Осложнения боевых сцен — Защита" },
+      "2HYSCkpx7xUrlIGj": { name: "Осложнения боевых сцен — Важная цель" },
+      "nTgd5ikNBBZWToXM": { name: "Осложнения боевых сцен — Взаимодействие" }
+    }
+  }
 };

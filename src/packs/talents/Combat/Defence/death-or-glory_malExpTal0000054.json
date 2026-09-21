@@ -2,7 +2,7 @@
   "name": "Death or Glory",
   "type": "talent",
   "_id": "malExpTal0000054",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">May immediately charge an enemy that would trigger frighten you as free action if within range</span></p><hr><p><span style=\"font-family: Arial\"><em>When confronting an enemy that would cause you to make a test against the Frightened condition, you may instead immediately Charge (CRB pg. 207) the source of the test as an any-time Free Action, so long as they are within range and are a tangible threat (charging a Daemon is fine, charging the consequences of your actions is not). This talent may be used even if you have already done an Action.</em></span></p>",

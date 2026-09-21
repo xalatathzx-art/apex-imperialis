@@ -2,7 +2,7 @@
   "name": "Accustomed to Crowds",
   "type": "talent",
   "_id": "malExpTal0000114",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Free action Awareness check to prevent Reaction attack from engaged enemy upon leaving, Crowds are not difficult terrain</span></p><hr><p><span style=\"font-family: Arial\"><em>You do not consider packed crowds to be Difficult Terrain. Additionally, when you attempt to leave while Engaged without performing the Disengage Action, you may make perform an Awareness Test as a free Action to prevent enemies from attacking you as a Reaction.</em></span></p>",

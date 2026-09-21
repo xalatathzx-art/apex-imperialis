@@ -2,7 +2,7 @@
   "name": "Псайбернетический Усилитель",
   "type": "navis-apexialis.implant",
   "_id": "navisImp00000058",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00004",
   "sort": 5800,
   "system": {

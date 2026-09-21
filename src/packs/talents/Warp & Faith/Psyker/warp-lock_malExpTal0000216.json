@@ -2,7 +2,7 @@
   "name": "Warp Lock",
   "type": "talent",
   "_id": "malExpTal0000216",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">1/session: negate Psychic Phenomena roll (including Perils) but take 1d5 damage to head ignoring armor. Cannot use or sustain powers until your next turn</span></p><hr><p><span style=\"font-family: Arial\"><em>You have learned to swiftly cut yourself off from the Warp to protect your mind from its tendrils. Once per session, you may ignore the effects of Psychic Phenomena you have rolled (including the Perils of the Warp result on the table), completely negating its effects. However, you suffer 1d5 Damage to your head, ignoring armor, and cannot make any Psychic Mastery Tests or sustain any psychic powers until the start of your next turn. </em></span></p>",

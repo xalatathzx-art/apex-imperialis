@@ -1,0 +1,165 @@
+{
+ "journal": "r6clx5uYnIpkdaRq",
+ "journalName": "Between Missions",
+ "page": "zt3agZuaQd99PTyc",
+ "pageName": "Inquisition Group Endeavours",
+ "name": "Групповые занятия Инквизиции",
+ "runs": {
+  "2": {
+   "en": "The servants of the Inquisition do not always agree on the value of unity. Some factions, particularly the Radical Isstvanians, believe in strife over cooperation as a means of shepherding strength. However, even Isstvanian cells cannot operate wholly alone and must turn to nominally trusted allies for difficult tasks. The Group Endeavours in this section include tasks that cannot be completed by any single character alone. As with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX.JournalEntryPage.AuM2Lzd784VPe32b#group-endeavours]{Group Endeavours} rules outlined in ",
+   "ru": "VIII МЕЖДУ ЗАДАНИЯМИ\nгекмаграмматических печатей\nТребования: участие Ордо Маллеус.\nКоманда использует техноарканные и иные тайные\nметоды Инквизиции, чтобы укрепить границу между\nВарпом и реальным миром в небольшой области и\nсделать вторжения из Имматериума менее вероятными.\nГруппа может обезопасить область размером с жилой\nсегмент города-улья, городка на феодальном мире\nили командного центра на действующем фронте. До\nследующего перерыва между заданиями присутствие и\nвлияние сил Варпа в этом месте ослабнет, что сделает\nдемонов и псайкеров менее опасными. Увы, печати\nнужно регулярно обновлять и защищать от @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.eUFS6mIQy2oiz6IX.JournalEntryPage.AuM2Lzd784VPe32b#group-endeavours]{Group Endeavours}"
+  },
+  "6": {
+   "en": "Imperium Maledictum",
+   "ru": "мирского\nи метафизического"
+  },
+  "10": {
+   "en": ", every member of the group must commit to the Endeavour at the same time for it to succeed. GMs using the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz]{Subtlety} rules should consider how these Endeavours affect the group’s status. Certain methods of completing the Endeavours or Failed Tests could impact Subtlety at the GM’s discretion.",
+   "ru": "износа – чтобы они действовали\nдольше, это занятие нужно повторять.\nДля находящихся в защищённой печатями области\nсотворение психосилы обычно требует сложной (-20)\nпроверки Дисциплины (Психосилы) в дополнение к\nобычным проверкам. Провал накладывает на творца\nУсталость. Также любые броски на психические\nфеномены и прорывы Варпа (стр. 164-165 книги\nправил) получают штраф -30 на итоговый @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz]{Subtlety}"
+  },
+  "14": {
+   "en": "Several of the group Endeavours listed in this section are associated with a specific Holy Order of the Inquisition and are most commonly carried out by acolytes associated with that Ordo. As such, they have an associated requirement of that Ordo’s presence in some way, as little as having a player character or NPC related to that Ordo present. See the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.BbyZqcWs3HbrAO3Y.JournalEntryPage.aq3meonzDWNY8A0W]{Requisitions} section, which outlines how acolytes can gain interfactional support to pursue these restricted Endeavours.",
+   "ru": "результат.\nПсихические феномены никогда не превращаются в\nаномалии. Демоны в защищённой области страдают\nещё больше – они получают помеху на все проверки, а\nброня, которую дают им свойства, вроде Младшего\nдемона, падает на 2 (до минимума в 1).\nслуг Инквизиции\nних занятиях.\nСОБЫТИЯ, СВЯЗАННЫЕ С ИНКВИЗИЦИЕЙ\nк100 Событие\n76–82\nОхота на псайкеров:слухи о возросшей пси-активности требуют внимания. Персонаж может выбить ответы из \nместных средней (+0) проверкой Командования (Запугивания), отыскать спящего псайкера трудной (-10) проверкой\nЧутья (Окружение) или, если прошлые варианты не удались, доложить в @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.BbyZqcWs3HbrAO3Y.JournalEntryPage.aq3meonzDWNY8A0W]{Requisitions}"
+  },
+  "18": {
+   "en": "Prepare Hexagrammatic Wards",
+   "ru": "ордос и устроить охоту на"
+  },
+  "24": {
+   "en": "Requirement",
+   "ru": "ведьм – она"
+  },
+  "26": {
+   "en": ": Ordo Malleus presence.",
+   "ru": "не \nтребует проверки, но"
+  },
+  "30": {
+   "en": "The group utilises techno-arcana and other secrets of the Inquisition to strengthen the boundaries between realspace and the Warp in a small area, reducing the effects of warp incursions.",
+   "ru": "понижает статус секретности. Успех позволяет найти нечистого псайкера, захватить его и сдать \nвластям на содержание до прибытия Чёрных кораблей. Это принесёт герою временный бонус +1 к"
+  },
+  "34": {
+   "en": "The group can secure a region equivalent to a hive city hab-segment, feudal world town, or the command centres of an embattled front. Until the group’s next downtime period, the presence and intrusion of the Warp is lessened, weakening psykers and daemonic entities. However, these wards must be regularly maintained against both mundane and metaphysical wear to sustain their effect, requiring a new instance of this Endeavour to function past that point.",
+   "ru": "влиянию на Адептус \nАстра Телепатика и Инквизицию до начала следующего промежутка между заданиями.\n83–91\nПаутина лжи: в народе начинается истерия. Вокруг видят еретиков и колдунов, сплетники и торговцы информацией не \nговорят ничего конкретного, но подозревают преступников. Чтобы пробиться через слухи, потребуется  средняя (+0)\nпроверка Взаимопонимания (Сбор сведений). Успех приносит +2 КУ на один бросок по выбору персонажа до начала \nследующего промежутка."
+  },
+  "38": {
+   "en": "While in the affected area, attempting to manifest a Psychic Power normally requires a ",
+   "ru": "Бросок должен быть связан с местными событиями, негодяями или необычными"
+  },
+  "40": {
+   "en": "Hard (–20) Discipline (Psychic)",
+   "ru": "явлениями.\n92–00\nСемена страха:"
+  },
+  "42": {
+   "en": " Test in addition to all normal Tests. Failure inflicts the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#fatigued]{Fatigued} condition on the manifester. In addition, all rolls on the @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.9aSbu2mswOOI43J1]{Psychic Phenomena} and @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.2YYlAUyaVIt4bZVa]{Perils of the Warp} Tables are resolved with a −30 to the final roll. Psychic Phenomena manifested during this time never become permanent. @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.O9kga3ngGfFyIsze]{Daemons} in the warded area are even more severely impacted, suffering Disadvantage on all Tests and reducing the Armour gained from Lesser Daemon or similar Traits by 2 (to a minimum of 1).",
+   "ru": "недавние сожжения ведьм, публичные пытки и другие жестокие наказания внушили людям \nпокорность и загнали несогласных в подполье. До следующего промежутка между заданиями персонаж получает +1 \nуспех на связанные проверки, когда демонстрирует свои официальные полномочия, связанные с Инквизицией. Если \nпроверка будет провалена на две ступени, местные возмутятся и выплеснут своё недовольство на персонажа.\n\nVIII МЕЖДУ ЗАДАНИЯМИ\nГруппа, что решила предаваться этому занятию, будет\nобретать власть благодаря страху – это горький путь.\nОни будут применять свои полномочия в открытую,\nхотямогутскрытьлицазамаскамиилидействоватьчерез\nпосредников, чтобы избежать расправы. Предаваясь\nэтому занятию, группа предпринимает среднюю (+0)\nгрупповую проверку Командования (Допрос) или\nКомандования (Запугивание). За каждого персонажа,\nчто успешно прошёл эту проверку, успешные проверки\nКомандования, предпринятые @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#fatigued]{Fatigued} @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.9aSbu2mswOOI43J1]{Psychic Phenomena} @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.2YYlAUyaVIt4bZVa]{Perils of the Warp} @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.O9kga3ngGfFyIsze]{Daemons}"
+  },
+  "46": {
+   "en": "Search for Xenos Infiltration",
+   "ru": "до следующего перерыва\nмежду"
+  },
+  "52": {
+   "en": "Requirement",
+   "ru": "заданиями,"
+  },
+  "54": {
+   "en": ": Ordo Xenos presence.",
+   "ru": "получают +1 успех –"
+  },
+  "58": {
+   "en": "By various methods, from studying import records and augur data to scrutinising gene-samples from flora, fauna, and even the local population, the group secures possible avenues by which xenos contaminants and infiltrators could have entered.",
+   "ru": "местные готовы\nвыказывать беспрекословное повиновение. Увы, если\nлюди знают, что персонаж участвовал в этом занятии,\nон получает помеху на все проверки Взаимопонимания\n(Обаяние), направленные на тех, кого угнетал. Этот\nштраф сохраняется до тех,"
+  },
+  "62": {
+   "en": "This work both examines the possibility of past weaknesses and closes vulnerabilities for the future. In cases where xenos infiltration has not occurred, the visible state of alert also serves to remind the populace about the hostile threats of the galaxy and to keep them focused on their tasks for the Imperium, grateful for the dubious protections of its grinding war machine.",
+   "ru": "пор, пока ведущий не решит,\nчто персонаж сумел впечатлить жертв особенно\nправедной карой или обработать красноречивыми\nдоводами.\nОбмен тайнами\nТребования: покровитель-инквизитор.\nИнквизитор велит другим силам Святых Ордосов и\nзначимым аколитам поделиться друг с другом\nзнанием, чтобы уничтожить определённого врага или\nпросто получить взаимное преимущество. Обычно\nинквизиторы и их"
+  },
+  "66": {
+   "en": "After the group chooses to undertake this Endeavour, each character should make a ",
+   "ru": "агенты довольно замкнуты. Они\nработают небольшими ячейками, что почти"
+  },
+  "68": {
+   "en": "Challenging (+0) Presence (Intimidation)",
+   "ru": "не\nвзаимодействуют друг с другом –"
+  },
+  "72": {
+   "en": "Rapport (Inquiry)",
+   "ru": "отчасти потому"
+  },
+  "74": {
+   "en": ", or ",
+   "ru": "что\nтогда"
+  },
+  "76": {
+   "en": "Tech (Security)",
+   "ru": "провал одной"
+  },
+  "78": {
+   "en": " Group Test. If half of the characters involved are successful (rounding down), then their apparent vigilance serves to galvanise Imperial support among the locals and cow dissenters, providing +1 SL on Tests to acquire popular or immediate support for their actions before their next downtime period. If all characters involved are successful, the GM should provide them with one or more clues about the presence or absence of xenos infiltration in the area, granting Advantage on Tests where the provided clues are relevant.",
+   "ru": "команды не подставит все\nостальные, но куда больше – из недоверия. Однако\nиногдаинквизиторымогутпреодолетьсвоюпаранойюи\nснизойти до личной встречи или послать на неё своего\nпредставителя.\nКогда место встречи будет найдено, все меры\nбезопасности – приняты, а участники соберутся,\nперсонажи начнут шпионскую игру, направленную на\nто, чтобы получить как можно больше сведений, выдав\nв ответ как можно меньше. Конечно, они не одни такие\nхитрецы на этом совете! Каждый персонаж обязан\nпройти трудную (-10) проверку Взаимопонимания\n(Сбор"
+  },
+  "82": {
+   "en": "Punish Dissent",
+   "ru": "сведений). За"
+  },
+  "88": {
+   "en": "Requirement",
+   "ru": "каждого"
+  },
+  "90": {
+   "en": ": Ordo Hereticus presence.",
+   "ru": "персонажа, что успешно\nпрошёл"
+  },
+  "94": {
+   "en": "Innocence Proves Nothing. The Inquisition has never tolerated ideas such as the need to prove guilt of a crime or to spare punishment of those whose status is merely free of a particular sin as anything more than spurious weakness. Even if a citizen of the Imperium is not the heretic they seek, any Inquisitor hardened enough to bear the rosette would still prefer them as a casualty to excessive zeal than a future weakness in the Imperium’s armour. So it is that whole cities have been rounded up for torment and questioning to no avail, then brutally executed to prevent the possibility that the survivors would seek revenge or rebellion.",
+   "ru": "проверку, группа может перебросить две\nпроверки в ходе следующего задания, если они связаны\nс разведданными или тайнами, которые удалось узнать.\nИгрокам и ведущему стоит обсудить происходящее на\nконклаве и то, с кем говорили герои – это может\nпринести и чисто сюжетные преимущества вне\nзависимости от исхода бросков.\nлазутчиков\nТребования: участие Ордо Ксенос.\nПускаявходмножествометодов–отанализадокументов\nна ввозимые грузы до ауспиций, что помогут изучить\nобразцы флоры, фауны и местного населения – группа\nищет ксеноскверну и лазутчиков-чужаков.\nТакая работа поможет устранить уже имеющиеся\nслабости и закрыть бреши на будущее. Даже если\nникакого"
+  },
+  "98": {
+   "en": "Groups that choose this Endeavour pursue the path of authority through fear to its bitterest conclusions. They wield their power as Inquisitorial agents openly. However, they may conceal their identities behind masks or lackeys to avoid future recognition or reprisal. When performing this Endeavour, the group makes a ",
+   "ru": "ксенопроникновения нет, деятельность\nаколитов напомнит людям о враждебности галактики и\nпоможетсосредоточитьсянатрудедляблагаИмпериума\nи быть благодарным за какую-никакую защиту, что\nдаёт его боевая машина.\nЕсли группа решила предаваться этому занятию,\nкаждый персонаж должен пройти среднююгрупповую\n(+0) проверку Командования"
+  },
+  "100": {
+   "en": "Challenging (+0) Presence (Interrogation)",
+   "ru": "(Запугивание),\nВзаимопонимания (Сбор"
+  },
+  "102": {
+   "en": " or ",
+   "ru": "сведений)"
+  },
+  "104": {
+   "en": "Presence (Intimidation)",
+   "ru": "или Техники\n(Безопасность)."
+  },
+  "106": {
+   "en": " Group Test. For every character who was successful during this Endeavour, successful Presence Tests made before the next downtime period have their SLs increased by 1 as the population sets themselves to unquestioning obedience. However, should a character be known to have participated in this Endeavour, all Rapport (Charm) Tests with those they have oppressed are at Disadvantage. Unlike the compliance of the populace, this penalty lasts indefinitely unless the GM rules that the character manages to impress their victims with a righteous display of punishment or a persuasive piece of indoctrination.",
+   "ru": "Если половина участников прошла\nпроверку (округлять вниз), значит их работа\nподстегнуламестныевластииустрашиласомневающихся\n– это приносит +1 успех в проверках, предпринятых\nдля того, чтобы немедленно получить помощь или\nзаручится поддержкой масс. Бонус сохраняется до\nследующего перерыва между заданиями. Если успех\nсопутствовал всем персонажам, ведущий может дать\nим одну-две наводки на присутствие или отсутствие\nксеносов-лазутчиков и преимущество на связанными\nс такими уликами проверки.\nНаказание\nинакомыслящих\nТребования: участие Ордо Еретикус.\nНевиновность ничего не доказывает. Инквизиция\nникогда не терпела"
+  },
+  "110": {
+   "en": "Pool Knowledge",
+   "ru": "необходимости"
+  },
+  "116": {
+   "en": "Requirement",
+   "ru": "доказывать"
+  },
+  "118": {
+   "en": ": Inquisition Patron.",
+   "ru": "чьо вину или воздерживаться"
+  },
+  "122": {
+   "en": "The group’s Inquisitor calls upon other Inquisition forces and prominent acolytes in the area, aiming to pool knowledge in hopes of mutual advantage or to aid in thwarting a particular threat. Inquisitors and their agents are insular by nature. They operate in small cells that communicate little with each other, partly to prevent their network from being compromised by a single cell’s failure but also out of distrust for one another. On occasion, Inquisitors may put aside their paranoia and condescend to meet in person or send representatives to attend in their place.",
+   "ru": "от наказания для тех, кто\nне провинился ни в чём, кроме слабости. Даже если\nимперский обыватель окажется не тем еретиком,\nкоторого ищут Святые Ордосы, инквизитор, стоящий\nсвоей розетты, предпочтёт видеть его жертвой\nизлишнего рвения, а не будущей прорехой в броне\nИмпериума. Порой целые города подвергали\nбезрезультатным допросам и пыткам, которые\nзавершались казнями, дабы не осталось выживших,\nкоторые будут искать мести или разжигать восстания."
+  },
+  "126": {
+   "en": "Once a meeting place has been found and secured, and characters have travelled to the meeting, the characters conspire to gain as much useful information as they can from their fellow agents, revealing as little as they can of their operations. Of course, the other attendees are playing the same game! Each character must make a ",
+   "ru": "VIII МЕЖДУ ЗАДАНИЯМИ гекмаграмматических печатей Требования: участие Ордо Маллеус. Команда использует техноарканные и иные тайные методы Инквизиции, чтобы укрепить границу между Варпом и реальным миром в небольшой области и сделать вторжения из Имматериума менее вероятными. Группа может обезопасить область размером с жилой сегмент города-улья, городка на феодальном мире или командного центра на действующем фронте. До следующего перерыва между заданиями присутствие и влияние сил Варпа в этом месте ослабнет, что сделает демонов и псайкеров менее опасными. Увы, печати нужно регулярно обновлять и защищать от мирского и метафизического износа – чтобы они действовали дольше, это занятие нужно повторять. Для находящихся в защищённой печатями области сотворение психосилы обычно требует сложной (- ) проверки Дисциплины (Психосилы) в дополнение к обычным проверкам. Провал накладывает на творца Усталость. Также любые броски на психические феномены и прорывы Варпа (стр.  -  книги правил) получают штраф -  на итоговый результат. Психические феномены никогда не превращаются в аномалии. Демоны в защищённой области страдают ещё больше – они получают помеху на все проверки, а броня, которую дают им свойства, вроде Младшего демона, падает на   (до минимума в  ). слуг Инквизиции них занятиях. СОБЫТИЯ, СВЯЗАННЫЕ С ИНКВИЗИЦИЕЙ к  Событие  –  Охота на псайкеров:слухи о возросшей пси-активности требуют внимания. Персонаж может выбить ответы из местных средней (+ ) проверкой Командования (Запугивания), отыскать спящего псайкера трудной (- ) проверкой Чутья (Окружение) или, если прошлые варианты не удались, доложить в ордос и устроить охоту на ведьм – она не требует проверки, но понижает статус секретности. Успех позволяет найти нечистого псайкера, захватить его и сдать властям на содержание до прибытия Чёрных кораблей. Это принесёт герою временный бонус +  к влиянию на Адептус Астра Телепатика и Инквизицию до начала следующего промежутка между заданиями.  –  Паутина лжи: в народе начинается истерия. Вокруг видят еретиков и колдунов, сплетники и торговцы информацией не говорят ничего конкретного, но подозревают преступников. Чтобы пробиться через слухи, потребуется средняя (+ ) проверка Взаимопонимания (Сбор сведений). Успех приносит +  КУ на один бросок по выбору персонажа до начала следующего промежутка. Бросок должен быть связан с местными событиями, негодяями или необычными явлениями.  –  Семена страха: недавние сожжения ведьм, публичные пытки и другие жестокие наказания внушили людям покорность и загнали несогласных в подполье. До следующего промежутка между заданиями персонаж получает +  успех на связанные проверки, когда демонстрирует свои официальные полномочия, связанные с Инквизицией. Если проверка будет провалена на две ступени, местные возмутятся и выплеснут своё недовольство на персонажа.   VIII МЕЖДУ ЗАДАНИЯМИ Группа, что решила предаваться этому занятию, будет обретать власть благодаря страху – это горький путь. Они будут применять свои полномочия в открытую, хотямогутскрытьлицазамаскамиилидействоватьчерез посредников, чтобы избежать расправы. Предаваясь этому занятию, группа предпринимает среднюю (+ ) групповую проверку Командования (Допрос) или Командования (Запугивание). За каждого"
+  },
+  "128": {
+   "en": "Difficult (−10) Rapport (Inquiry)",
+   "ru": "персонажа, что успешно прошёл эту проверку, успешные проверки Командования, предпринятые до следующего перерыва между заданиями, получают +  успех – местные готовы выказывать беспрекословное повиновение. Увы, если люди знают, что персонаж участвовал в этом занятии, он получает помеху на все проверки Взаимопонимания"
+  },
+  "130": {
+   "en": " Test. For every character who is successful, the party may reroll two Tests during the next mission based on the intelligence or secret knowledge they received. The player and GM are encouraged to discuss the events of the conclave and who the characters interacted with, which may provide narrative benefits regardless of the Test outcome.",
+   "ru": "(Обаяние), направленные на тех, кого угнетал. Этот штраф сохраняется до тех, пор, пока ведущий не решит, что персонаж сумел впечатлить жертв особенно праведной карой или обработать красноречивыми доводами. Обмен тайнами Требования: покровитель-инквизитор. Инквизитор велит другим силам Святых Ордосов и значимым аколитам поделиться друг с другом знанием, чтобы уничтожить определённого врага или просто получить взаимное преимущество. Обычно инквизиторы и их агенты довольно замкнуты. Они работают небольшими ячейками, что почти не взаимодействуют друг с другом – отчасти потому что тогда провал одной команды не подставит все остальные, но куда больше – из недоверия. Однако иногдаинквизиторымогутпреодолетьсвоюпаранойюи снизойти до личной встречи или послать на неё своего представителя. Когда место встречи будет найдено, все меры безопасности – приняты, а участники соберутся, персонажи начнут шпионскую игру, направленную на то, чтобы получить как можно больше сведений, выдав в ответ как можно меньше. Конечно, они не одни такие хитрецы на этом совете! Каждый персонаж обязан пройти трудную (- ) проверку Взаимопонимания (Сбор сведений). За каждого персонажа, что успешно прошёл проверку, группа может перебросить две проверки в ходе следующего задания, если они связаны с разведданными или тайнами, которые удалось узнать. Игрокам и ведущему стоит обсудить происходящее на конклаве и то, с кем говорили герои – это может принести и чисто сюжетные преимущества вне зависимости от исхода бросков. лазутчиков Требования: участие Ордо Ксенос. Пускаявходмножествометодов–отанализадокументов на ввозимые грузы до ауспиций, что помогут изучить образцы флоры, фауны и местного населения – группа ищет ксеноскверну и лазутчиков-чужаков. Такая работа поможет устранить уже имеющиеся слабости и закрыть бреши на будущее. Даже если никакого ксенопроникновения нет, деятельность аколитов напомнит людям о враждебности галактики и поможетсосредоточитьсянатрудедляблагаИмпериума и быть благодарным за какую-никакую защиту, что даёт его боевая машина. Если группа решила предаваться этому занятию, каждый персонаж должен пройти среднююгрупповую (+ ) проверку Командования (Запугивание), Взаимопонимания (Сбор сведений) или Техники (Безопасность). Если половина участников прошла проверку (округлять вниз), значит их работа подстегнуламестныевластииустрашиласомневающихся – это приносит +  успех в проверках, предпринятых для того, чтобы немедленно получить помощь или заручится поддержкой масс. Бонус сохраняется до следующего перерыва между заданиями. Если успех сопутствовал всем персонажам, ведущий может дать им одну-две наводки на присутствие или отсутствие ксеносов-лазутчиков и преимущество на связанными с такими уликами проверки. Наказание инакомыслящих Требования: участие Ордо Еретикус. Невиновность ничего не доказывает. Инквизиция никогда не терпела необходимости доказывать чью- то вину или воздерживаться от наказания для тех, кто не провинился ни в чём, кроме слабости. Даже если имперский обыватель окажется не тем еретиком, которого ищут Святые Ордосы, инквизитор, стоящий своей розетты, предпочтёт видеть его жертвой излишнего рвения, а не будущей прорехой в броне Империума. Порой целые города подвергали безрезультатным допросам и пыткам, которые завершались казнями, дабы не осталось выживших, которые будут искать мести или разжигать восстания."
+  }
+ }
+}

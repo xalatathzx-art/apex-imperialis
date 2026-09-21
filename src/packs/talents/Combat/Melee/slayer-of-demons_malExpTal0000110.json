@@ -2,7 +2,7 @@
   "name": "Slayer of Demons",
   "type": "talent",
   "_id": "malExpTal0000110",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">+10 WS and +2 damage when melee fighting daemons</span></p><hr><p><span style=\"font-family: Arial\"><em>Vowing to battle the beasts from the beyond, you have marked the warp-spawned for death. You gain a +10 to your Weapons Skill and deal +2 Damage in melee when fighting Daemons.</em></span></p>",

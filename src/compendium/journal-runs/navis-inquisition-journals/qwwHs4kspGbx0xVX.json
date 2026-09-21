@@ -1,0 +1,185 @@
+{
+ "journal": "xxcZ1PUz0t1ycevK",
+ "journalName": "Running Inquisition Adventures",
+ "page": "qwwHs4kspGbx0xVX",
+ "pageName": "Inquisition Maledictum",
+ "name": "",
+ "runs": {
+  "2": {
+   "en": "By its nature, the Inquisition is a profoundly secretive institution. Though perceived to operate under a hierarchy and by sets of policies or rules, the Inquisition does so loosely. It is, in fact, more of a ‘purpose’ than an organisation. It is an eclectic collection of disparate individuals and their retinues, all generally acting towards what, in theory, is a common goal — seeking and eliminating overt and covert threats to the Imperium.",
+   "ru": ""
+  },
+  "6": {
+   "en": "Just how Inquisitors operate is very much up to the individual. Some are dour figures of menace, while others are effusively charming. Some are scrupulously honest and believe in conforming rigidly to the codified laws of the Imperium. In contrast, others believe the means are irrelevant as long as their ends are achieved. Some are pure and noble, righteously sending thousands to their deaths to preserve the sanctity of the Emperor’s realm. Others are corrupt and desperate, selling their very souls to embrace the unhallowed powers of their enemies, telling themselves they are only doing so to strike down the nightmares that plague them and the Imperium.",
+   "ru": ""
+  },
+  "10": {
+   "en": "Inquisition games in ",
+   "ru": ""
+  },
+  "12": {
+   "en": "Imperium Maledictum",
+   "ru": ""
+  },
+  "14": {
+   "en": " can span various themes and atmospheric settings. And since Inquisitors are empowered to go anywhere and compel testimony from anyone, they can be set in nearly any part of the Imperium, from the murky depths of a hive’s sump to the decayed glory of a planetary governor’s palace. That said, there are common threads that will wind through all Inquisition games.",
+   "ru": ""
+  },
+  "18": {
+   "en": "Foremost among these is an investigative focus. While Inquisitors often confront obvious and overt threats, they most commonly hunt things that do not wish to be found. A surreptitious incursion of Drukhari seeks to harvest souls and feast on their suffering unseen. A blasphemous cult insists on sinister secrecy until their fiendish ends are achieved. Inquisition games, therefore, tend to focus on finding clues and using them to piece together a picture of who the enemy is and what they are doing — often a difficult task in itself due to the widespread repression of information in the Imperium (see @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.uzQAAUFfkNu8TZOi.JournalEntryPage.75evxRXWoYG9mizR]{Forbidden Knowledge}).",
+   "ru": ""
+  },
+  "24": {
+   "en": "Subtlety",
+   "ru": ""
+  },
+  "28": {
+   "en": "The advice presented in this chapter goes hand-inhand with using the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz]{Subtlety} Mechanic . Further details and advice for implementing this mechanic are presented in @UUID[.tuASnDHy4WyxFVOZ#subtlety]{Running Investigations}.",
+   "ru": ""
+  },
+  "34": {
+   "en": "Only when a threat is fully identified will an Inquisitor mobilise the resources needed to stop whatever malfeasance is underway. However, not all Inquisitors have equal access to the resources they are ostensibly pledged, and many demand that their investigating acolytes put their souls even further at risk to combat their unspeakable foes. Investigation-focused games require forethought and planning. It is essential that the clues the characters uncover are relevant and will lead them towards a greater truth. Even red herring clues must fit logically into the story, but they should not distract the players for too long or too far from the truth.",
+   "ru": ""
+  },
+  "38": {
+   "en": "Because Inquisitors tend to work in the shadows, paranoia is another theme common to Inquisition games. Until an enemy is identified, they could be anyone. And even then, they could have agents and allies willing to act on their behalf nearly anywhere, at varying levels of culpability. Threats are often layered, where solving one mystery merely reveals another beneath it. Deception and obfuscation wielded like weapons can throw the Inquisitor off the trail. Even those considered trustworthy can be suspect — bribery, blackmail, and extortion can turn even the most reliable ally, and differences in philosophy occasionally lead to Inquisitors hunting one another. At its heart, the Inquisitor's unspoken creed is quite simple: trust no one.",
+   "ru": ""
+  },
+  "42": {
+   "en": "The result is a game that often shifts through shades of grey. While some things — heretical cults, xenos conspiracies and the like — are starkly harmful and wrong, many others will be more nuanced. A planetary governor withholding tithes to ensure their people do not starve violates Imperial law, but a starving world may soon produce no tithe. The best Inquisition games force the players to confront difficult choices and often choose between the lesser of numerous evils. That said, you should not deny your players the periodic satisfaction of finally confronting and overcoming a clear and present threat. Endlessly ambiguous games will, eventually just become frustrating!",
+   "ru": ""
+  },
+  "48": {
+   "en": "How to make it feel like Warhammer",
+   "ru": ""
+  },
+  "52": {
+   "en": "The ",
+   "ru": ""
+  },
+  "54": {
+   "en": "Warhammer 40,000",
+   "ru": ""
+  },
+  "56": {
+   "en": " universe is a unique and diverse gothic-inspired science fiction setting. Beyond the intricate histories and characterisations, new players and even GMs can often forget aspects of what makes this setting what it is. The following points represent constants in the world, all interlinked, that permeates everything in the setting. Take them to heart when crafting stories and running game sessions, and pass on the themes and tones to your players.",
+   "ru": ""
+  },
+  "64": {
+   "en": "Physical Scale",
+   "ru": ""
+  },
+  "70": {
+   "en": "Everything is massive all the time. Humanity has grown into a population of quadrillions spread across a million worlds, most of whom live in thousand-layer hive cities. Even when it comes to structures and utilities, most buildings, even the doorways and windows built within, seem needlessly massive. People travel between the stars on cathedral-like voidships larger than any skyscraper. Press upon your players how small they are in the grand scheme.",
+   "ru": ""
+  },
+  "80": {
+   "en": "Timescale",
+   "ru": ""
+  },
+  "86": {
+   "en": "In the Imperium, things rarely happen in an instant. Characters might spend years mired in an investigation, travelling between planets or systems, or stuck in the glacial tide of the Administratum’s bureaucracy. As GM, your ability to skip ahead in time is vital, but do not forget to press upon your players the time spent — you can punctuate this by filling up their years with extended downtime activities (see @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.56xpJ7ADckt2kxHB]{Inquisition Long-term Endeavours} in the Inquisition Player’s Guide).",
+   "ru": ""
+  },
+  "96": {
+   "en": "The Imperial Creed",
+   "ru": ""
+  },
+  "102": {
+   "en": "Its unique history and religious grasp affect everyone in the setting, whether they adhere to it, reject it, or are rejected by it. Most citizens have grown up in lifestyles where they visit temples and grand cathedrums every week to pay respects to the God-Emperor of Mankind and receive sermons to bolster their piety. Yet the scale at which the Imperial Creed reaches and the divisions of the void in between leave room for dangerous interpretation by both zealots and quiet detractors.",
+   "ru": ""
+  },
+  "112": {
+   "en": "Conflict",
+   "ru": ""
+  },
+  "118": {
+   "en": "Like the Imperial Creed, the God-Emperor’s war machine touches every soul in the Imperium in one way or another. Every citizen knows someone who has been shipped off to fight on some far-flung war-torn planet. Entire forge worlds and their populations are devoted to manufacturing arms to feed the front lines. This eternal war can never stop; if it did, the status quo would crumble, and Humanity would fall to its innumerable enemies.",
+   "ru": ""
+  },
+  "128": {
+   "en": "Fear",
+   "ru": ""
+  },
+  "134": {
+   "en": "On some level, everyone is terrified. Forces within and without the Imperium press the dire need for compliance and duty to every citizen; where faith falters, fear must take its place. Everyone has someone breathing down their neck. This fear starts at the top of the Adeptus Terra. It trickles down through the controlling factions of the Adeptus Terra and the ruling nobilities to the labouring citizens at the bottom. No citizen has any natural choice in the matter — who in their right mind would trade their everyday plight for the uncountable and unknowable enemies clawing at the Imperium’s borders?",
+   "ru": ""
+  },
+  "144": {
+   "en": "Technology",
+   "ru": ""
+  },
+  "150": {
+   "en": "Despite the fears and restrictions imposed upon technology in the Imperium’s laws and strictures, it is rare for a character to be without some kind of technology on their person or as part of their daily lives. Humanity is reliant upon technology to survive. Machines to recycle breathable air, generate food, fight for survival, or replace a lost limb. Yet despite advances, not everyone has access to everything they need. Technological inequality is so vast and staunchly defended that aspects known and studied by some are myth and magic to others.",
+   "ru": ""
+  },
+  "168": {
+   "en": "How to make it feel like Imperium Maledictum",
+   "ru": ""
+  },
+  "174": {
+   "en": "Imperium Maledictum",
+   "ru": ""
+  },
+  "176": {
+   "en": " operates within a unique area in the Warhammer 40,000 setting — one close to the ground among the citizenry of the Imperium, dealing with the plights that fall upon them from forces internal and external to their lives. It often centres around Machiavellian patrons caught between the demands of duty and ambitions for power who use people as pawns to further their goals. The following points represent what playing Imperium Maledictum should evoke in your players and what makes it a unique experience. Keep these points in mind when running games and building your own stories.",
+   "ru": ""
+  },
+  "184": {
+   "en": "Noir Themes",
+   "ru": ""
+  },
+  "190": {
+   "en": "Stories in ",
+   "ru": ""
+  },
+  "192": {
+   "en": "Imperium Maledictum",
+   "ru": ""
+  },
+  "194": {
+   "en": " are often set in the dirt, far from the Imperium’s frontlines. Characters have a dark and nihilistic outlook on life, doing their best just to get by. Prominent themes in the setting are corruption, criminality, and inequality, which in this setting can manifest as heresy or even the heavy hand of purity. Nothing is ever black or white; the narrative hinges on moral quandaries and ambiguity, choosing the lesser of malefic evils.",
+   "ru": ""
+  },
+  "200": {
+   "en": "Gothic Themes",
+   "ru": ""
+  },
+  "206": {
+   "en": "The world’s atmosphere leans on gloom and decay, coupled with constant oppression, unknowns, or impending threats. Most characters have some kind of tragic backstory, even if it is just their station in the Imperium — yet they are forced to be barbaric, superstitious, or unenlightened. Turning points come from supernatural events that are often challenging to explain and accept — horror and suspense surround these mysteries, and it is up to the players to explore them.",
+   "ru": ""
+  },
+  "212": {
+   "en": "Deadly Encounters",
+   "ru": ""
+  },
+  "218": {
+   "en": "It is easy for player characters to be harmed and just as likely to die, especially when diving into combat unprepared. As GM, using the threat of violence is often more important than enacting it. Perpetuate this threat throughout the world — the Imperium is an unforgiving and violent place, no matter where you look — and it will keep the tensions high and create many more dramatic moments for your players to enjoy.",
+   "ru": ""
+  },
+  "224": {
+   "en": "Brains and Brawns",
+   "ru": ""
+  },
+  "230": {
+   "en": "Characters should be able to solve situations as they best see fit. Violence should not be the go-to answer. Characters can pick apart their problems intelligently. Investigate, politick, and make dubious alliances and deals. Sometimes a challenge can even be overcome by filing the correct paperwork. The GM’s job is to facilitate the wealth of options available to their players and drive home the consequences of their actions.",
+   "ru": ""
+  },
+  "236": {
+   "en": "Patrons and Agents",
+   "ru": ""
+  },
+  "242": {
+   "en": "The player characters have a unique partnership with their Patron and an unequal one at that. What does the Patron want from them, and what can they get in return? The Patron may provide them with rare comfort and safety but is often within their power to ask for unreasonable sacrifices in return. The GM’s job is to perpetuate the Patron’s involvement in the narrative — they should constantly pressure the player characters and be an unignorable part of their lives, for better or worse.",
+   "ru": ""
+  },
+  "248": {
+   "en": "Find Leverage",
+   "ru": ""
+  },
+  "254": {
+   "en": "Players should be challenged to leverage every advantage they can find. Players need to think critically. Investigate their surroundings and the factions and alliances they have access to, and scrape together what they can. The GM should place obstacles in their way, evoke the labyrinthine nature of the Imperium, and remind them that nothing is ever free. This aspect can manifest mechanically through the game’s Influence and Superiority systems and new contacts and clues that appear along the way.",
+   "ru": ""
+  }
+ }
+}

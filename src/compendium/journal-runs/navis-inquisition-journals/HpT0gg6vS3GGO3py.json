@@ -1,0 +1,37 @@
+{
+ "journal": "UHAAGHOTknUiUTUj",
+ "journalName": "Familiars",
+ "page": "HpT0gg6vS3GGO3py",
+ "pageName": "Familiars in Combat",
+ "name": "Фамильяры в бою",
+ "runs": {
+  "4": {
+   "en": "’I have people for information gathering, armaments, and whatnot, but when I finally make my move, it’s always just me and my two Cyberhounds. Never trust someone with free will and a gun at your back.’",
+   "ru": "«У меня есть люди для сбора сведений, вооружения и прочего, но когда я наконец делаю ход, со мной всегда только я и два моих киберпса. Никогда не доверяй тому, у кого за твоей спиной есть свобода воли и ствол»."
+  },
+  "12": {
+   "en": "— Jeremus Wrax, Hive Oberyl bounty hunter",
+   "ru": "— Джеремус Ракс, охотник за головами из улья Оберил"
+  },
+  "24": {
+   "en": "Many Familiars are trained or augmented to assist their Master in combat. Hired help and allies are intelligent and independent enough to understand an Inquisitor’s plan of attack and execute their part without supervision, but Familiars lack such autonomy. The following new rules apply when using Familiars in combat:",
+   "ru": "Многих фамильяров обучают или аугментируют, чтобы они помогали хозяину в бою. Наёмники и союзники достаточно умны и самостоятельны, чтобы понять план атаки инквизитора и выполнить свою часть без надзора, но фамильярам такой самостоятельности не хватает. При использовании фамильяров в бою действуют следующие новые правила:"
+  },
+  "32": {
+   "en": "Familiars with Combat Instincts do not suffer Disadvantages to Tests in combat so long as they are in keeping with those Instincts. A Familiar with Melee Instincts using a ranged attack still takes the penalty, for example.",
+   "ru": "Фамильяры с боевыми инстинктами не получают помехи к проверкам в бою, пока действуют в соответствии с этими инстинктами. Например, фамильяр с инстинктом ближнего боя, совершая дистанционную атаку, всё равно получает штраф."
+  },
+  "40": {
+   "en": "A character with a Familiar must spend their Move or Action in a Turn to order their Familiar. The Familiar moves and acts on its turn in the initiative order.",
+   "ru": "Персонаж с фамильяром должен потратить в свой ход перемещение или действие, чтобы отдать фамильяру приказ. Фамильяр перемещается и действует в свой ход в порядке инициативы."
+  },
+  "48": {
+   "en": "A Familiar cannot take more than a single Move and Action in a Round unless special Abilities or psychic powers compel them.",
+   "ru": "Фамильяр не может совершить больше одного перемещения и одного действия за раунд, если его не вынуждают к этому особые способности или психические силы."
+  },
+  "56": {
+   "en": "Familiars are assumed to follow close to their Master unless ordered otherwise. An avian Familiar might perch on their Master’s shoulder until ordered to fly overhead and watch for threats, for example.",
+   "ru": "Считается, что фамильяры держатся рядом с хозяином, если не приказано иное. Например, птичий фамильяр может сидеть на плече хозяина, пока ему не прикажут взлететь и высматривать угрозы."
+  }
+ }
+}

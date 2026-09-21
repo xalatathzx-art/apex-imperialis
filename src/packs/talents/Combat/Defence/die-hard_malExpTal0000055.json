@@ -2,7 +2,7 @@
   "name": "Die Hard",
   "type": "talent",
   "_id": "malExpTal0000055",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Reroll Fortitude (Endurance) to resist Bleeding</span></p><hr><p><span style=\"font-family: Arial\"><em>Through either willpower or sheer stubbornness, you refuse to die. When you suffer from the Bleeding condition, you may reroll Fortitude (Endurance) Tests to resist the condition. </em></span></p>",

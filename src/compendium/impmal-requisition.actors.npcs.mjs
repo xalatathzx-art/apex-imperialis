@@ -23,10 +23,10 @@ export const label = "Существа (Реквизиция)";
 const U = (uuid, label) => `@UUID[${uuid}]{${label}}`;
 const p = (...parts) => `<p>${parts.join("")}</p>`;
 
-const IMP = "Compendium.impmal-core.journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage";
-const BEAST = "Compendium.impmal-core.journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage";
-const REQ = "Compendium.impmal-requisition.actors.Actor";
-const CORE_ACTOR = "Compendium.impmal-core.actors.Actor";
+const IMP = "Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage";
+const BEAST = "Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage";
+const REQ = "Compendium.navis-apexialis.navis-requisition-actors.Actor";
+const CORE_ACTOR = "Compendium.navis-apexialis.navis-core-actors.Actor";
 
 const ADMIN = U(`${IMP}.3TtxuCzt0nNV1ysj`, "Адептус Администратум");
 const MILITARUM = U(`${IMP}.r6JYS3jOfrAEorvd`, "Астра Милитарум");

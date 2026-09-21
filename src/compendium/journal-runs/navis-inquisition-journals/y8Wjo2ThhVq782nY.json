@@ -1,0 +1,149 @@
+{
+ "journal": "b06xyMjo4E4cYc40",
+ "journalName": "Roleplaying Inquisitors",
+ "page": "y8Wjo2ThhVq782nY",
+ "pageName": "Eskender Thracius",
+ "name": "",
+ "runs": {
+  "4": {
+   "en": "‘The Macharian Sector gives credence to the saying, ‘survival of the fittest’. Long ago, Lord Solar Macharius crushed or bent the will of weak houses and rebels, uniting the sector as one, but that was a long time ago. The Imperium cannot prosper while on the back foot, and I have the perfect enemies in mind.’",
+   "ru": ""
+  },
+  "16": {
+   "en": "Ordo",
+   "ru": ""
+  },
+  "18": {
+   "en": ": @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-xenos]{Xenos}",
+   "ru": ""
+  },
+  "22": {
+   "en": "Philosophy",
+   "ru": ""
+  },
+  "24": {
+   "en": ": @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.UAWh0hEvWDwob6CT]{Isstvanist}",
+   "ru": ""
+  },
+  "28": {
+   "en": "Known Interrogators",
+   "ru": ""
+  },
+  "30": {
+   "en": ": Julios Macrio",
+   "ru": ""
+  },
+  "34": {
+   "en": "Operational Territory",
+   "ru": ""
+  },
+  "36": {
+   "en": ": @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.y6qA7KARTXADwzeV]{Cytheris Subsector}",
+   "ru": ""
+  },
+  "40": {
+   "en": "Primary Concerns",
+   "ru": ""
+  },
+  "50": {
+   "en": "Study of xenos designation @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.xxcZ1PUz0t1ycevK.JournalEntryPage.GyAY9bnCmCZ3JjzK#aeldari]{Aeldari}.",
+   "ru": ""
+  },
+  "58": {
+   "en": "Use this knowledge to prepare for the return of the God-Emperor.",
+   "ru": ""
+  },
+  "66": {
+   "en": "Maintain his web of aliases and avoiding death or capture.",
+   "ru": ""
+  },
+  "84": {
+   "en": "Long before his excommunication from the Inquisition, @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.M3LcQ68Fm8nP7KJT]{Thracius} used his position as a member of the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.brh2O5CexxurRbM7.JournalEntryPage.YFKg8L1rfWbScqkr#ordo-xenos]{Ordo Xenos} to further his Isstvanian goals — drawing the Imperium into conflicts with xenos forces in and around the Macharian Sector. He believes that xenos are Humanity’s most potent enemy — bizarre enough to test and broaden the skills of Humanity’s war machine and a uniting enemy, one that all of Humanity can easily agree to rally against.",
+   "ru": ""
+  },
+  "88": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.M3LcQ68Fm8nP7KJT]{Thracius} has spent long years consorting with the Aeldari, investigating their culture and technologies, but for the end goal of luring several Craftworlds into open warfare with the Imperium. He knows that other Inquisitors in the sector, particularly @UUID[.9vSAxxrma5zbEIKL]{Raud} and @UUID[.gRAiiRJkLKviH0K5]{Serranus}, have shreds of evidence towards his meddling, though more towards declaring him an outright heretic than a Radical Isstvanist.",
+   "ru": ""
+  },
+  "92": {
+   "en": "Since the recent death of Inquisitor Lord Drake, @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.M3LcQ68Fm8nP7KJT]{Thracius} has turned his trade towards the Macharian Inquisition itself — partly to occlude his heretical operations but otherwise to apply his Isstvanist beliefs from a different angle. He feels that if the Inquisition were put at war with itself, in its currently weakened state, it could lead to the ascension of more Inquisitors and perhaps the entitling of a new Inquisitor Lord.",
+   "ru": ""
+  },
+  "96": {
+   "en": "Thracius' Secrets",
+   "ru": ""
+  },
+  "100": {
+   "en": "Fearing the Inquisition’s wrath, @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.M3LcQ68Fm8nP7KJT]{Thracius} has spent decades building a roster of aliases, allowing him to remain active within the Macharian Inquisition. Each one he can perform in person, using the scarce substance known as polymorphine, or from afar using various technologies to reroute his communications and shroud locations.",
+   "ru": ""
+  },
+  "116": {
+   "en": "Thracius' Active Aliases",
+   "ru": ""
+  },
+  "128": {
+   "en": "Name",
+   "ru": ""
+  },
+  "136": {
+   "en": "Title",
+   "ru": ""
+  },
+  "144": {
+   "en": "Believed to be...",
+   "ru": ""
+  },
+  "158": {
+   "en": "Kai Varol",
+   "ru": ""
+  },
+  "162": {
+   "en": "Ordo Hereticus Inquisitor",
+   "ru": ""
+  },
+  "166": {
+   "en": "Active in the Macharian Sector (Primary Alias)",
+   "ru": ""
+  },
+  "174": {
+   "en": "Valerius Nabopalassar",
+   "ru": ""
+  },
+  "178": {
+   "en": "Ordo Xenos Specialist",
+   "ru": ""
+  },
+  "182": {
+   "en": "Working closely with Inquisitor @UUID[.gRAiiRJkLKviH0K5]{Konstan Serranus} as an Aeldari specialist",
+   "ru": ""
+  },
+  "190": {
+   "en": "Bayezid Karvonan",
+   "ru": ""
+  },
+  "194": {
+   "en": "Long-lost scion of the nobility of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.ZIDINp9DtgCCj1Mg]{Harjus}",
+   "ru": ""
+  },
+  "198": {
+   "en": "Seeking to reclaim their position within the Harjus nobility",
+   "ru": ""
+  },
+  "206": {
+   "en": "Selim Iaysus",
+   "ru": ""
+  },
+  "210": {
+   "en": "Semi-legitimate scion of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#rogue-traders-of-note]{Iaysus Rogue Trader Dynasty}",
+   "ru": ""
+  },
+  "214": {
+   "en": "Exploring the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.d0lv2v4FkeIb43jj]{Drimor Subsector} for trade opportunities",
+   "ru": ""
+  },
+  "228": {
+   "en": "In his guise as Valerius Nabopalassar, @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.M3LcQ68Fm8nP7KJT]{Thracius} has earned his closest allies in the Xenarites of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus}, a radical sect of the cult of the Machine God, who deem the collection of alien knowledge their holy work. Far from their homeworld of Stygies VIII, a small Xenarite sect formed unnoticed on @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.jB9sg2SDLZJGZrac]{Eskutchax} during a siege of the world from Chaos forces. The Black Templars' arrival on the planet as reinforcement has driven the Xenarites to tighter secrecy; thus, interaction with Thracius has become a vital lifeline to their research, with Thracius’ acolytes readily equipped with xenos tech and wargear in return.",
+   "ru": ""
+  }
+ }
+}

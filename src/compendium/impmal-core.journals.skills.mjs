@@ -25,7 +25,7 @@ const box = (header, ...paragraphs) =>
   paragraphs.map(t => `<p>${t}</p>`).join("") +
   `</section>`;
 
-const ITEM = "Compendium.impmal-core.items.Item";
+const ITEM = "Compendium.navis-apexialis.navis-core-items.Item";
 const CHAR = "JournalEntry.uJURMn2glWHhjqJk.JournalEntryPage";
 const WEAPONS = "JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te";
 const RULES_ACTIONS = "JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl";
@@ -50,13 +50,13 @@ const FORBIDDEN_MEDICAE = U(".NrJuy93Put0XCYq9#medicae-(int)", "Медику (З
  */
 
 const IMG = {
-  skull4: `<div class="journal-image float-right"><img src="modules/impmal-core/assets/images/spot-skull4.webp" width="200" /></div>`,
-  dexterity: `<div class="journal-image fit"><img src="modules/impmal-core/assets/images/dexterity.webp" /></div>`,
-  tarot: `<div class="journal-image float-right"><img src="modules/impmal-core/assets/images/spot-tarot.webp" width="200" /></div>`,
-  chainsword: `<div class="journal-image float-right"><img style="transform:rotate(-15deg)" src="modules/impmal-core/assets/items/chainsword.webp" height="100" width="330" /></div>`,
-  ranged: `<div class="journal-image float-right"><img src="modules/impmal-core/assets/images/ranged.webp" width="300" /></div>`,
-  warrior: `<div class="journal-image float-right"><img src="modules/impmal-core/assets/images/spot-warrior.webp" width="300" /></div>`,
-  tech: `<div class="journal-image float-right flip"><img src="modules/impmal-core/assets/images/tech.webp" width="200" style="margin-top:-40px" /></div>`
+  skull4: `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/images/spot-skull4.webp" width="200" /></div>`,
+  dexterity: `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-core/images/dexterity.webp" /></div>`,
+  tarot: `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/images/spot-tarot.webp" width="200" /></div>`,
+  chainsword: `<div class="journal-image float-right"><img style="transform:rotate(-15deg)" src="modules/navis-apexialis/assets/impmal-core/items/chainsword.webp" height="100" width="330" /></div>`,
+  ranged: `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/images/ranged.webp" width="300" /></div>`,
+  warrior: `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/images/spot-warrior.webp" width="300" /></div>`,
+  tech: `<div class="journal-image float-right flip"><img src="modules/navis-apexialis/assets/impmal-core/images/tech.webp" width="200" style="margin-top:-40px" /></div>`
 };
 
 const specList = entries =>
@@ -242,11 +242,11 @@ const skillList =
  */
 
 const TALENT_IMG = {
-  honours: `<div class="journal-image float-right"><img src="modules/impmal-core/assets/images/spot-battle-honours.webp" width="200" /></div>`,
-  explosives: `<div class="journal-image float-right"><img src="modules/impmal-core/assets/images/spot-explosives.webp" width="300" /></div>`,
-  weapon: `<div class="journal-image float-right"><img src="modules/impmal-core/assets/images/spot-weapon.webp" width="300" /></div>`,
-  hitAndRun: `<div class="journal-image float-right flip"><img src="modules/impmal-core/assets/images/hit-and-run.webp" width="300" /></div>`,
-  shadows: `<div class="journal-image float-right flip"><img src="modules/impmal-core/assets/images/in-the-shadows.webp" width="300" /></div>`
+  honours: `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/images/spot-battle-honours.webp" width="200" /></div>`,
+  explosives: `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/images/spot-explosives.webp" width="300" /></div>`,
+  weapon: `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/images/spot-weapon.webp" width="300" /></div>`,
+  hitAndRun: `<div class="journal-image float-right flip"><img src="modules/navis-apexialis/assets/impmal-core/images/hit-and-run.webp" width="300" /></div>`,
+  shadows: `<div class="journal-image float-right flip"><img src="modules/navis-apexialis/assets/impmal-core/images/in-the-shadows.webp" width="300" /></div>`
 };
 
 const talents = (...entries) =>
@@ -451,7 +451,7 @@ export const byName = {
         name: "Умения и таланты",
         text:
           `<div class="journal-image float-right">` +
-          `<img height="660" src="modules/impmal-core/assets/images/ch3.webp" /></div>` +
+          `<img height="660" src="modules/navis-apexialis/assets/impmal-core/images/ch3.webp" /></div>` +
           p("Империум живёт лишь благодаря бесконечному труду несметных миллиардов, что всеми ",
             "силами пытаются удовлетворить нужды всегалактического государства. Большинство ",
             "подданных обречены надрываться до самой смерти. Лишь выдающиеся люди могут избежать ",

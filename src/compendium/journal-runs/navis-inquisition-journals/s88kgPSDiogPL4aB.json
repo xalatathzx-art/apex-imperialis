@@ -1,0 +1,85 @@
+{
+ "journal": "brh2O5CexxurRbM7",
+ "journalName": "The Inquisition",
+ "page": "s88kgPSDiogPL4aB",
+ "pageName": "Xanthism",
+ "name": "",
+ "runs": {
+  "12": {
+   "en": "Xanthism",
+   "ru": ""
+  },
+  "20": {
+   "en": "\"The power of the Warp is a weapon. We can put this infernal power to righteous use in the right hands.\"",
+   "ru": ""
+  },
+  "28": {
+   "en": "Xanthism Tenets:",
+   "ru": ""
+  },
+  "38": {
+   "en": "The monsters of the Warp and the powers of Chaos should be bent to Humanity’s will.",
+   "ru": ""
+  },
+  "46": {
+   "en": "Chaos cannot be defeated, but it can be understood and tamed.",
+   "ru": ""
+  },
+  "54": {
+   "en": "Wield that which is forbidden in order to better combat it.",
+   "ru": ""
+  },
+  "64": {
+   "en": "Modus Operandi:",
+   "ru": ""
+  },
+  "76": {
+   "en": "Investigate Warp breaches, phenomena, and Chaos activity throughout the sector. Safely capture Warp-twisted artefacts and daemons where possible in order to study and understand them. Apply what is learned to fight back against the Ruinous Powers and save the Imperium.",
+   "ru": ""
+  },
+  "82": {
+   "en": "Few Inquisitors would openly advocate using Chaotic power in their work, but Xanthism promotes such an approach. This extremely Radical group of Inquisitors believe that just as the Imperium harnesses the power of the Warp for interstellar travel, so too can Warp power be utilised in the fight against the Imperium’s enemies. Such Inquisitors learn forbidden lore from tomes that most would consider dangerous and heretical, attempt to capture and control daemonic entities, and hunt out Chaos artefacts. Even the most ardent follower of Xanthism would admit there are risks to such ventures. Still, given the foes the Imperium of Man faces, they often consider extreme methods a necessity to ensure its survival.",
+   "ru": ""
+  },
+  "86": {
+   "en": "The ancient philosophy of Xanthism began with Zaranchek Xanthus, executed for heresy in the early 32nd millennium. He believed that Chaos could — and should — be utilised for the benefit of Mankind. Despite his execution, many Inquisitors have adopted his views over the millennia, and Xanthites are surprisingly common, especially among the Ordo Malleus. Xanthist Inquisitors might come to the Macharian Sector hoping to uncover new sources of Warp-based power, some searching among the strange discoveries already logged in the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.MzIWAwZ8jPAOydDi]{Yix} Subsector.",
+   "ru": ""
+  },
+  "90": {
+   "en": "Most Puritans outright oppose the methods used by Xanthist Inquisitors. When most Inquisitors find Warp-charged items, they destroy or lock them away under stasis fields. But Xanthists believe they should be wielded against the enemy instead. With a threat as great as the daemons of the Warp a constant concern, any such advantage is invaluable.",
+   "ru": ""
+  },
+  "96": {
+   "en": "Roleplaying a Xanthite:",
+   "ru": ""
+  },
+  "106": {
+   "en": "A Xanthite would exude understanding and superiority, perhaps even arrogance when pitted against the powers of Chaos or the Warp.",
+   "ru": ""
+  },
+  "114": {
+   "en": "As followers of a highly radical Inquisitorial philosophy, they fear interference from other Inquisitors. They are uncomfortable with or act reserved toward their peers or their peers’ agents and would likely shy away or outright ignore the chance to collaborate.",
+   "ru": ""
+  },
+  "122": {
+   "en": "Many Xanthites are unaware they are being used as pawns by the Ruinous Powers until it is too late — they might not know themselves as well as they think.",
+   "ru": ""
+  },
+  "132": {
+   "en": "Expunged Knowledge",
+   "ru": ""
+  },
+  "136": {
+   "en": "The Xanthite Inquisitor has learned that one of his peers in the Ordo Malleus has discovered a Chaos cult harbouring a collection of nine rare forbidden tomes: the ‘Enneadex of Naxos’. Retrieve these books for study to ensure the rival Inquisitor cannot destroy them. Make sure you leave no trace.",
+   "ru": ""
+  },
+  "140": {
+   "en": "A double-edged blade",
+   "ru": ""
+  },
+  "144": {
+   "en": "One of the Xanthite Inquisitor’s cells was recently destroyed. They were on the hunt for a daemon, and provided a @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ucp7Z81P4kMxGcMN]{Daemonblade} to aid them in the task — but it was not recovered from the scene. Before returning to the hunt, fearful the blade has fallen into dangerous hands, this weapon must be found and retrieved — or destroyed — at all costs.",
+   "ru": ""
+  }
+ }
+}

@@ -2,7 +2,7 @@
   "name": "In HIS Name!",
   "type": "talent",
   "_id": "malExpTal0000177",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On Rapport(Charm)/Presence(Leadership) with imperials: spend FP to gain Advantage</span></p><hr><p><span style=\"font-family: Arial\"><em>You have spent time studying the holy writings of the Cult Imperialis and can invoke hallowed passages to sway others. You may spend a Fate Point to gain Advantage when making a Rapport (Charm) or Presence (Leadership) Test when interacting with an Imperial.</em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "Faithful (Imperial Cult) Talent, 1 Advance in Lore(Theology)",
-      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Theology\" && i.system.skill == \"lore\")?.system?.advances >= 1) && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful(Imperial Cult)\")"
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Theology\" && i.system.skill == \"lore\")?.system?.advances >= 1) && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful (imperial Cult)\")"
     },
     "test": {
       "difficulty": "challenging",

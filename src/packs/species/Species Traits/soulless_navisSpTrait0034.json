@@ -2,7 +2,7 @@
   "name": "Soulless",
   "type": "trait",
   "_id": "navisSpTrait0034",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder003",
   "sort": 3400,
   "system": {

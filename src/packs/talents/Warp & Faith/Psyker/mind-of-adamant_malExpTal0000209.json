@@ -2,7 +2,7 @@
   "name": "Mind of Adamant",
   "type": "talent",
   "_id": "malExpTal0000209",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On Opposed Discipline check for Psychic Power: may spend FP to gain IntB SL</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever you make an Opposed Discipline Skill Test for a Psychic Power (either yours or your opponents), you may spend a Fate Point. If you do so, you gain a number of success levels equal to your Intelligence Bonus. This may turn a failed test into a successful one. </em></span></p>",

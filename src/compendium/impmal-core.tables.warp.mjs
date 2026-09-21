@@ -27,10 +27,10 @@ const MODERATE_CORRUPTION = U(
   "JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.PuzopCeKzYgcYAwh#moderate-exposure",
   "среднему источнику порчи"
 );
-const CHOKE = U("Compendium.impmal-core.items.Item.OjLq7yDUPG8TpISi", "удушающей гранаты");
+const CHOKE = U("Compendium.navis-apexialis.navis-core-items.Item.OjLq7yDUPG8TpISi", "удушающей гранаты");
 const PERILS = U("RollTable.2YYlAUyaVIt4bZVa", "таблице прорывов Варпа");
 
-const A = "Compendium.impmal-core.actors.Actor";
+const A = "Compendium.navis-apexialis.navis-core-actors.Actor";
 const PLAGUEBEARER = U(`${A}.4bhFOh1nTrYloc8s`, "чумоносец");
 const BLOODLETTER = U(`${A}.r38KjnD2RWhYIykh`, "кровопускатель");
 const DAEMONETTE = U(`${A}.xzqdh2P5F2c7QpVm`, "демонетка");

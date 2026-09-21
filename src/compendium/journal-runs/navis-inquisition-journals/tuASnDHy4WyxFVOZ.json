@@ -1,0 +1,337 @@
+{
+ "journal": "xxcZ1PUz0t1ycevK",
+ "journalName": "Running Inquisition Adventures",
+ "page": "tuASnDHy4WyxFVOZ",
+ "pageName": "Running Investigations",
+ "name": "",
+ "runs": {
+  "2": {
+   "en": "Given the investigation-heavy nature of many Inquisition games in ",
+   "ru": ""
+  },
+  "4": {
+   "en": "Imperium Maledictum",
+   "ru": ""
+  },
+  "6": {
+   "en": ", a GM must consider specific aspects of their story. Giving thought to these in advance will help you run an immersive and seamless game that is not plagued by unintentionally misleading clues, inadvertent investigative dead-ends, or having the story derailed by the unexpected use of a character’s Equipment or Psychic Powers.",
+   "ru": ""
+  },
+  "12": {
+   "en": "Daemon's in the details",
+   "ru": ""
+  },
+  "18": {
+   "en": "A fine mind is a blessing of the Emperor; it should not be cluttered with trivialities.",
+   "ru": ""
+  },
+  "24": {
+   "en": "Do not worry about tracking every minute detail! Your players will remember the dramatic narrative and tense moments more than they will remember precise mechanics. Use the game's mechanics, like Subtlety and Influence, to guide the game’s narrative. And if something creates friction for your game or your players, remove it.",
+   "ru": ""
+  },
+  "30": {
+   "en": "Clues",
+   "ru": ""
+  },
+  "34": {
+   "en": "Clues are pieces of information or physical objects that players discover during play, allowing them to advance the story. They may present as weapons, a bloodstain, an article of clothing, or even statements made by NPCs or entries in a personal journal. Regardless, clues should rarely remain hidden from the characters; their true meaning should be obscured. All clues must fulfil two conditions to be useful — they must be relevant to the story, and coherent.",
+   "ru": ""
+  },
+  "38": {
+   "en": "Being relevant is self-explanatory. An irrelevant clue will not help advance the story and may simply stall it. This does not mean a clue’s relevance must be immediately apparent. For instance, the importance of a bloody footprint in a corridor may only become evident when the characters discover a gruesome murder nearby. This is not to discount clues intended to be deliberate red herrings, but even these must be designed so their misleading nature eventually becomes clear. An oily footprint, for example, has no immediately apparent relationship to a murder. It is ambiguous and may waste game time unless you remove the ambiguity and demonstrate its relevance by having the players discover a clear link between it and the murder.",
+   "ru": ""
+  },
+  "42": {
+   "en": "This is not to say that clues cannot be deliberately misleading. Such red herrings can certainly heighten tension in a game, but they should be used sparingly. Moreover, the players should be able to determine their misleading nature quickly. To do otherwise risks frustrating the players, needlessly slowing the game down and lessening their engagement.",
+   "ru": ""
+  },
+  "46": {
+   "en": "Where you place a clue also matters, as is how it is presented. In general, rarely hide a clue from the players, especially one that begins a thread to more definitive ones. What is more critical is obscuring the meaning behind the clue — do not hide a bloodstain, but obscure the meaning of it. Give the players something to chew on. Oddities like this should stand out against the background of the scene, or revealed on a relatively easy or opportune search.",
+   "ru": ""
+  },
+  "50": {
+   "en": "A clue is coherent if it flows logically from what came before it and points the players to what comes after it. For instance, a bloody footprint could point the players towards the footwear of various suspect NPCs. This could lead the players to examine that footwear, finding another clue: a boot with a distinctly matching print. That could then, in turn, lead the players towards a suspect or even to another clue — perhaps information indicating that the boot’s owner has not worn that pair in months. Suggesting that the suspect is being set up could open a whole new line of investigation for the players.",
+   "ru": ""
+  },
+  "54": {
+   "en": "As an aid to developing good clues, you can consider working backwards. For instance, if you know where you want the players to get at the end of a particular beat, you can design clues in that beat and the preceding ones to lead them there. And do not forget the three things commonly taken to prove a suspect guilty of a crime — means, motive and opportunity. Designing clues that will assist in revealing those aspects (and clues that point at those clues) will ensure that clues are relevant and coherent.",
+   "ru": ""
+  },
+  "58": {
+   "en": "Note that some clues may require forensic or deeper analysis. If the characters do not have the means, this is an opportunity to engage other Factions related to the investigation or locale. For instance, an NPC from the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.cvpsLwcsXf4myIpK]{Adeptus Administratum} may be able to verify the authenticity of some paperwork — if the characters have or can gain the Influence to arrange it. Furthermore, offering the characters more than one clue at a time is often interesting, creating branching paths in the investigation. A selection of clues can be solved at different times, always giving the players a thread to follow if they believe they have come to a dead end.",
+   "ru": ""
+  },
+  "62": {
+   "en": "Tests",
+   "ru": ""
+  },
+  "66": {
+   "en": "Tests are described in detail in @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.EwKNNdQ5EYayCPdA]{Rules}. Make sure you are familiar with those rules before you continue!",
+   "ru": ""
+  },
+  "70": {
+   "en": "Tests may be required if the characters undertake actions during their investigation that transcend what would reasonably be basic knowledge and understanding. For instance, simply finding a bloodstain on a bulkhead does not require a Test, but discerning the significance of its spatter pattern does. You must balance using Tests against the need to keep the story moving and the players engaged. Too many Tests are time-consuming, and too few renders the players choice of Skills and Talents irrelevant.",
+   "ru": ""
+  },
+  "74": {
+   "en": "You must also decide what to do about failure. If the PCs can fail a Test to identify the meaning or message of a cryptic sigil scrawled on a bulkhead, that information should never be so critical to advancing the plot that it brings your story to an absolute halt. In that case, what is your ‘fallback’? To continue this example:",
+   "ru": ""
+  },
+  "82": {
+   "en": "The PCs could find someone (an NPC or Contact) to analyse the sigil definitively (thereby taking more time or incurring a debt).",
+   "ru": ""
+  },
+  "90": {
+   "en": "The PCs could search for more instances of the cryptic sigil (or similar) in the area, leading them to other potentially connected locations (thereby taking more time or forcing them to explore dangerous parts of the world).",
+   "ru": ""
+  },
+  "98": {
+   "en": "Alternatively, the PCs could uncover another clue in the vicinity that points in a similar direction (thereby delaying the revelation of the sigil’s meaning until later but letting them continue their investigation).",
+   "ru": ""
+  },
+  "106": {
+   "en": "Similar consideration should be given to the degree of success expressed by the Test’s Success Level (SL). For instance, if the characters achieve an Astounding Success in the Test to identify the sigil, is there additional information that you could impart to them about it? They could discern the sigil’s meaning at the base level of success. But with greater success, they could identify the cult that wrote the sigil and, even more so, learn what Chaotic deity they align themselves with.",
+   "ru": ""
+  },
+  "110": {
+   "en": "For this reason — dealing with failure or unanticipated success — you should, as much as possible, plan the Tests that the PCs will have to conduct during their investigation. Especially take into consideration the concept of ‘",
+   "ru": ""
+  },
+  "112": {
+   "en": "failing foward’",
+   "ru": ""
+  },
+  "114": {
+   "en": ". There is nothing worse for the players' investigation and investment in the story than a dead end. How can your players continue their investigations, analyse clues and track down suspects when they fail a critical Test? The answer should allow them to continue pursuing their threads but with more obstacles — they should still be able to succeed, but must work at it to do so.",
+   "ru": ""
+  },
+  "118": {
+   "en": "For example, when setting up a bloodstain clue, you could determine that a Test to identify the species will use the ",
+   "ru": ""
+  },
+  "120": {
+   "en": "Medicae",
+   "ru": ""
+  },
+  "122": {
+   "en": " Skill with the ",
+   "ru": ""
+  },
+  "124": {
+   "en": "Human",
+   "ru": ""
+  },
+  "126": {
+   "en": " Specialisation and that the PC performing it will gain Advantage if they have the @UUID[Compendium.navis-apexialis.navis-core-items.Item.gzG57HKU32iQBSkO]{Pathologist} Talent or use a @UUID[Compendium.navis-apexialis.navis-core-items.Item.kous2Ot3MNPfthuo]{Diagnostor}. Having set the parameters for the Test, if PCs fail, they will still be able to obtain a sample that can be reliably analysed by an unhelpful NPC chirurgeon, costing them some time. An Impressive or Astounding Success in the Test will reveal not just the species but other traits related to the individual. By establishing this beforehand, you will be ready to deal with the Test and its outcome when it comes up in play.",
+   "ru": ""
+  },
+  "136": {
+   "en": "Passive Tests",
+   "ru": ""
+  },
+  "140": {
+   "en": "As an alternative to Tests, you can employ ‘Passive’ Tests. These forego the normal procedure for making a Test entirely. Instead, you can determine that some clues can simply be provided to a player if they have particular Skills, Talents, or Equipment. This provides a distinction between a PC with no relevant experience or training in a subject and one who does have it, without requiring a Test.",
+   "ru": ""
+  },
+  "144": {
+   "en": "For example, say your characters are examining the scene of a battle between Gangers and Cultists in the lower levels of Hive Rokarth, trying to discern how events played out. If one of the characters has the ",
+   "ru": ""
+  },
+  "146": {
+   "en": "Awareness",
+   "ru": ""
+  },
+  "150": {
+   "en": "Intuition",
+   "ru": ""
+  },
+  "152": {
+   "en": ", or ",
+   "ru": ""
+  },
+  "154": {
+   "en": "Logic",
+   "ru": ""
+  },
+  "156": {
+   "en": " Skill or the @UUID[Compendium.navis-apexialis.navis-core-items.Item.C4qz5xdqvEPUt9Un]{Combat Master} Talent, then instead of making a Test, you may simply rule the character can reasonably reconstruct the events of the battle without a regular Test.",
+   "ru": ""
+  },
+  "160": {
+   "en": "The advantage of such ‘Passive Tests’ is that it can reliably provide the players with information that will help advance the story. This is useful for story-critical information, meaning you do not have to worry about the consequences of a failed Test. It still allows that player or character to shine, showcasing their hard-won skills and knowledge.",
+   "ru": ""
+  },
+  "164": {
+   "en": "Using a Passive Test does not preclude a subsequent regular Test. The combat-savvy character in the above example may be able to unravel the progression of the battle, but they may have to make a regular Test to identify the specific weapons involved.",
+   "ru": ""
+  },
+  "168": {
+   "en": "Downtime Ponderings",
+   "ru": ""
+  },
+  "172": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.z9PTik4AMrYlbVhR#litanies-of-recollection]{Litanies of Recollection} is a group or individual Endeavour that characters may undertake between missions. The party, or the character, may use discussion, meditation, and reflection to consider what they have learned so far in the course of an investigation.",
+   "ru": ""
+  },
+  "176": {
+   "en": "This may allow them to realise that they have missed important clues, see connections between clues that may not have been obvious, or otherwise ‘remember’ information that will assist in moving their investigation — and the story — forward. You could also consider allowing the characters to spend Fate during a session to realise that they missed something",
+   "ru": ""
+  },
+  "180": {
+   "en": "The sort of Test this may involve, or whether it involves a Test at all, is up to you. In the absence of a Test, you may simply wish to give the players an important clue they missed, reasoning that their extended period of quiet, contemplative reflection and discussion caused them to realise it.",
+   "ru": ""
+  },
+  "190": {
+   "en": "A Passive Test, as described above, is another way of giving the players the information they are missing. This is a good way of dealing with missed or misunderstood clues, with the trade-off being that the characters are not able to undertake other Endeavours while engaged in the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.z9PTik4AMrYlbVhR#litanies-of-recollection]{Litanies of Recollection}.",
+   "ru": ""
+  },
+  "194": {
+   "en": "Alternatively, you may wish to use the opportunity provided by the ",
+   "ru": ""
+  },
+  "196": {
+   "en": "Litanies of Recollection",
+   "ru": ""
+  },
+  "198": {
+   "en": " to provide the players with new insights and revelations based on the information they already have. This is a good time to use an @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.EwKNNdQ5EYayCPdA#extended-test]{Extended Test}. Successes accrued during each attempt provide a small piece of useful information, with a major revelation if the characters succeed overall. These successes could result in the characters having Advantage in subsequent Tests related to clues when they resume their investigation.",
+   "ru": ""
+  },
+  "202": {
+   "en": "Technology",
+   "ru": ""
+  },
+  "206": {
+   "en": "Technology can greatly aid in the conduct of an investigation. The usefulness of some types of technology is obvious — for instance, an @UUID[Compendium.navis-apexialis.navis-core-items.Item.dO7XoDXD9QYTy6zZ]{Auspex} would be helpful in locating a hidden recording device by detecting its emissions, while an @UUID[Compendium.navis-apexialis.navis-core-items.Item.paXqMCUFqcpVEEBE]{Excruciator Kit} could help compel testimony from an unwilling prisoner.",
+   "ru": ""
+  },
+  "210": {
+   "en": "However, you should remain open to innovative uses of technology possessed by the characters. For instance, a character may propose using a @UUID[Compendium.navis-apexialis.navis-core-items.Item.Yp1Fmiml09wxHj4h]{vox bead} as a temporary impromptu bug to listen in on a meeting between leaders of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionist} gangs, a @UUID[Compendium.navis-apexialis.navis-core-items.Item.qjjlckQ3WvF4KLxO]{Chirurgeon's Kit} to assist in determining if a dead body has been surgically altered, or a @UUID[Compendium.navis-apexialis.navis-core-items.Item.kous2Ot3MNPfthuo]{Diagnostor} to help to identify blood and tissue samples. While such uses might technically fall outside a strict reading of these items as described in ",
+   "ru": ""
+  },
+  "212": {
+   "en": "Imperium Maledictum",
+   "ru": ""
+  },
+  "214": {
+   "en": " (particularly the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.A1aeWZR8mZ0Kd98e#tools]{Tools} section), they likely do fall within a reasonable envelope of capability for them. However, such unusual uses may require difficult Tech Tests, and may even be seen as blasphemy by some purists from, for instance, the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.9frbPZ9v3lFR9Kva]{Adeptus Mechanicus}.",
+   "ru": ""
+  },
+  "218": {
+   "en": "The investigative nature of Inquisition games also means that some sorts of often overlooked technology may be extremely useful. For instance, assume the characters diligently use a @UUID[Compendium.navis-apexialis.navis-core-items.Item.rgkUmSGkBrOKvo5p]{Pict Recorder} and a @UUID[Compendium.navis-apexialis.navis-core-items.Item.h1g1g9Rrjt7CnYeW]{Dataslate} to record their ongoing investigations. You may wish to give Advantage on some subsequent Tests, grant Superiority, or even offer some benefit to @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.z9PTik4AMrYlbVhR#litanies-of-recollection]{Litanies of Recollection}, any action that would benefit from having detailed and objective information collected earlier.",
+   "ru": ""
+  },
+  "222": {
+   "en": "The @UUID[Compendium.navis-apexialis.navis-core-items.Item.AMVwCpsT9ISRY65Z]{Emperor's Tarot} (and any similar sort of @UUID[Compendium.navis-apexialis.navis-core-items.Item.RJQOgOg4q8krADXi]{instrument of divination}) is another useful way of imparting important information to the players, but it should be a more indirect sort of insight, given its mystical and prophetic nature. For instance, the Emperor’s Tarot may not point directly at an incriminating document secreted in the files of an @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.cvpsLwcsXf4myIpK]{Adeptus Administratum} NPC known to the characters. It may, however, offer a glimpse of endless rows of stacked documents being ceaselessly sorted by dour, blank-faced figures. Such a portent should be enough to get the characters at least considering their Contacts in the Adeptus Administratum for a closer look!",
+   "ru": ""
+  },
+  "226": {
+   "en": "Psychic Powers",
+   "ru": ""
+  },
+  "230": {
+   "en": "Psychic powers are detailed in @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1]{Imperium Maledictum}",
+   "ru": ""
+  },
+  "234": {
+   "en": "The Inquisition has a complicated relationship with psychic powers. On the one hand, psykers represent a profound, even existential threat of the very sort that the Inquisition — and particularly the Ordo Hereticus — seeks to expunge from the Imperium, or at least strictly contain them by aiding the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.upGG1JZPDbC7dpJJ]{Adeptus Astra Telepathica}. On the other hand, psykers can be a powerful addition to an Inquisitor’s retinue, both to wield psychic might offensively and to defend against the psychic powers of their enemies. Assuming that one of the characters or an NPC cooperating with them is a psyker, the question of using psychic powers to further an investigation will inevitably arise.",
+   "ru": ""
+  },
+  "244": {
+   "en": "Setting aside the myriad and complex issues around the legitimate use of psychic powers and their ramifications, such powers can be helpful as an investigative tool. You should allow the characters to employ their powers as they see fit — again, of course, being mindful of the potential consequences of using them, but of potentially being seen to be using them. Again, setting those matters aside, how much information should the characters be able to derive from psychic investigation?",
+   "ru": ""
+  },
+  "248": {
+   "en": "Some powers have obvious applications to investigation. For example, @UUID[Compendium.navis-apexialis.navis-core-items.Item.Qc4Adi2niwAoeY1j]{Preternatural Senses}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.UxhvWWKjI4rkQFii]{Psychic Scrutiny} and @UUID[Compendium.navis-apexialis.navis-core-items.Item.plATcbLJsFW1evOT]{Soulsight} can all assist in gaining information about and locating clues at a crime scene, while @UUID[Compendium.navis-apexialis.navis-core-items.Item.XuFiBvRR2vT9IPeC]{Spectral Hands} may assist in retrieving clues from otherwise inaccessible locations. @UUID[Compendium.navis-apexialis.navis-core-items.Item.sZluux2xrMuK4w1H]{Mental Interrogation} can pry critical information from a suspect. Various powers of Divination, such as @UUID[Compendium.navis-apexialis.navis-core-items.Item.xfNouLz2vwT0L7Gr]{Question the Warp} and @UUID[Compendium.navis-apexialis.navis-core-items.Item.3vquTkVELDNBVsZL]{Psychometry}, can help the characters unravel what may have happened and the motivations of those involved.",
+   "ru": ""
+  },
+  "252": {
+   "en": "The players themselves, though, may come up with innovative uses for Psychic Powers to assist them. For example, a character may use @UUID[Compendium.navis-apexialis.navis-core-items.Item.nsW4ViB2r0oIfyKp]{Dull Pain} or @UUID[Compendium.navis-apexialis.navis-core-items.Item.tNcKq3ZaMDeogkh3]{Seal Wounds} to ease the injuries of a wounded enemy in an attempt to make them more willing to reveal information — this could take the form of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#temporary-influence]{Temporary Influence}. You should remain open to such novel uses of Psychic Powers.",
+   "ru": ""
+  },
+  "256": {
+   "en": "Generally, you should view the characters’ use of Psychic Powers as another useful way of providing them with information and clues. To that end, when creating a story, you should try to anticipate when the characters are likely to attempt to use Psychic Powers and prepare accordingly. And, if the characters begin to rely on them too much, the rules for Psychic Powers offer built-in limiters, such as accumulating @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1.JournalEntryPage.buydA5mPJln97Qk5]{Warp Charges}, manifesting @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.9aSbu2mswOOI43J1]{Psychic Phenomena}, and triggering @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.2YYlAUyaVIt4bZVa]{Perils of the Warp}. Even if these things do not themselves result in disasters, they can attract unwanted attention to the characters and make their investigations more difficult!",
+   "ru": ""
+  },
+  "260": {
+   "en": "Expert Assistance",
+   "ru": ""
+  },
+  "270": {
+   "en": "There are several ways that the players may engage with expert assistance during the course of a game. The most obvious is taking advantage of their @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.2TukBjlkS5RG5Qka]{Contacts}, either by making use of their Patron’s Influence with that Contact’s Faction, or their own @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#personal-influence]{Personal Influence}, potentially boosted by @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#temporary-influence]{Temporary Influence} in the form of bribes or blackmail. Clever players may make note of potentially incriminating evidence of wrongdoing uncovered during the course of an investigation, but instead of simply bringing the miscreant to justice, they may hold onto that sinister knowledge to use as Temporary Influence later.",
+   "ru": ""
+  },
+  "274": {
+   "en": "If the players do so, you should consider the sort of information that these Contacts might reveal. Even if the characters have considerable Influence with a Faction, members of that Faction are unlikely to undermine their own interests. For instance, if an officer of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum} is involved in a profitable conspiracy to skim tithes from an Imperial world, then that officer is unlikely to assist the characters in uncovering that same conspiracy, no matter how much Influence they bring to bear — unless, of course, they can otherwise convince that officer it would be worth their while!",
+   "ru": ""
+  },
+  "278": {
+   "en": "Not all expert assistance will necessarily come from using Influence with Faction Contacts, however. You may decide to simply make expert assistance available, if it would help advance the story. For example, in order to provide the characters with forensic expertise they do not have, you could simply stipulate that their Patron’s retinue includes an NPC retainer with that expertise. This could allow the characters to focus on finding the clues, such as the evidence itself, that will advance their investigation — the exciting part — rather than spending time and effort finding some way to analyse the samples — a likely less-exciting prospect.",
+   "ru": ""
+  },
+  "282": {
+   "en": "Superiority",
+   "ru": ""
+  },
+  "286": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.3j1kargHBeCTssE7]{Superiority} is a resource which can fundamentally reshape a battle or encounter. It can be used to increase the SL on a single Test during a turn of combat, and is also compared with NPC @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.dZFX8HOdsFDpI7l0#resolve]{Resolve} to determine if those NPCs become @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.3j1kargHBeCTssE7#resolve]{Desperate}.",
+   "ru": ""
+  },
+  "290": {
+   "en": "Of the three ways given in ",
+   "ru": ""
+  },
+  "292": {
+   "en": "Imperium Maledictum",
+   "ru": ""
+  },
+  "294": {
+   "en": " to gain Superiority, the results of an Inquisitorial investigation most obviously apply to two — Know Thy Foe and Know Thy Battlefield. In the case of Know Thy Foe, clues uncovered during the investigation may reveal critical weaknesses that can be exploited. For example, assume the characters find evidence of nothing but strikes by melee weapons at the scene of a suspected massacre perpetrated by a Drukhari raiding party. They may be able to infer from this that the Drukhari in question either do not have, or preferentially do not use ranged weapons in combat. If the players specifically draw that conclusion, then you should consider giving them +1 Superiority with respect to those Drukhari.",
+   "ru": ""
+  },
+  "298": {
+   "en": "Similarly, suppose the characters discover a blood trail they believe to be left by an injured cultist fleeing into a safehouse somewhere in the lower levels of @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf]{Hive Rokarth}. In that case, they may be able to discern a likely destination. They could then use this information to learn more about the location from residents of the lower hive or @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.gQxTENJSdTQTVfDM]{Vigilites} who have patrolled the area. Again, if the players make this connection, it would be reasonable to give them +1 Superiority for undertaking such forward-thinking preparations.",
+   "ru": ""
+  },
+  "302": {
+   "en": "Note, however, that you should only grant Superiority if the characters draw a suitable conclusion from the results of their investigation. In the second example above, if the characters find the blood trail but do nothing but simply follow it, then a Superiority bonus would not be justified. It is not sufficient to merely find clues to gain Superiority — the players must take the next step, using those clues as the basis for inferences that would warrant a Superiority award.",
+   "ru": ""
+  },
+  "306": {
+   "en": "When you are preparing your story and designing your clues, it is a good idea to make notes of what sorts of conclusions drawn from them that would prompt you to give a Superiority award. This is not to suggest this would be exhaustive — the players may come up with other conclusions that are just as worthy and you should remain open to them. However, it is another way of saving time during play, while also making it less likely that you will miss an opportunity for the players to earn Superiority.",
+   "ru": ""
+  },
+  "310": {
+   "en": "Subtlety",
+   "ru": ""
+  },
+  "314": {
+   "en": "The Inquisition Player’s Guide introduces the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz]{Subtlety} mechanic to Imperium Maledictum. This optional ruleset provides a framework for GMs and players to dynamically adjust the world and characters in response to how covertly or overtly the players approach objectives. On the surface, it is an excellent tool for players to judge how well their characters and decisions perform and gain a small reward. But on a deeper level, it will enable you, the GM, to do the same.",
+   "ru": ""
+  },
+  "318": {
+   "en": "The rules contained in the ",
+   "ru": ""
+  },
+  "322": {
+   "en": "Inquisition Player’s Guide",
+   "ru": ""
+  },
+  "326": {
+   "en": " outline the mechanics for players and GMs alike; consider the following advice:",
+   "ru": ""
+  },
+  "334": {
+   "en": "When using Subtlety, you secretly track the party’s actual rating. The party has to spend time in or around their mission to figure out (and not always successfully) what their Subtlety rating is every time they want an update. Make it clear to them they should do this occasionally, as part of their duty as a covert agent is to know where they stand with their assets.",
+   "ru": ""
+  },
+  "342": {
+   "en": "The party may not be aware of everything affecting their Subtlety. Like gauging Subtlety, in some instances, they will have to put time and effort into figuring out what could be affecting their rating. This also allows you to introduce these aspects to your story (especially if the players missed earlier threads or threats against them).",
+   "ru": ""
+  },
+  "350": {
+   "en": "Consider introducing narrative elements in the world when their Subtlety Levels change (such as from @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.k3IIBps2ZS9Ap23D#suspicious-(subtlety-7-5)]{Suspicious} to @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.k3IIBps2ZS9Ap23D#overt-(subtlety-4-2)]{Overt}). Do NPCs react to them differently? Do they quickly hear rumours of people searching for them, or perhaps an enemy has detected them and goes deeper into hiding?",
+   "ru": ""
+  }
+ }
+}

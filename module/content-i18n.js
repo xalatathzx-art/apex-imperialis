@@ -31,11 +31,18 @@ const TRANSLATION_DIR = "compendium";
  * Babele fires `babele.init` from its own `init` hook, and module order decides
  * whether that is before or after ours — so the listener is armed at load time,
  * while the ES module is being evaluated, which is earlier than any init hook.
+ *
+ * Nothing here asks what language the client speaks, and that is deliberate:
+ * `init` is too early to know. `game.i18n.lang` still holds the *server's*
+ * default at that point — Foundry only loads the client's own choice between
+ * `init` and `i18nInit` — so on a server defaulting to English the check reads
+ * "en" for a Russian client and silently drops every compendium translation.
+ * Babele does not need to be told: the registration is declared `lang: "ru"`,
+ * and Babele itself discards it unless the client is on Russian, at `ready`,
+ * when the answer is actually known.
  */
 export function registerCompendiumTranslations() {
   Hooks.once("babele.init", babele => {
-    if (game.i18n.lang !== "ru") return;
-
     babele.register({ module: MODULE_ID, lang: "ru", dir: TRANSLATION_DIR });
     console.log(`${MODULE_ID} | registered Russian compendium translations with Babele`);
   });

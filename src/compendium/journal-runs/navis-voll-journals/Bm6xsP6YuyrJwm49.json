@@ -1,0 +1,141 @@
+{
+ "journal": "yAAIQKv8lK49HRLz",
+ "journalName": "Implacable",
+ "page": "Bm6xsP6YuyrJwm49",
+ "pageName": "Getting Started",
+ "name": "Начало",
+ "runs": {
+  "2": {
+   "en": "The adventure begins with the characters already situated in @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth}, perhaps wrapping up the loose ends of one of the other missions within ",
+   "ru": "Приключение начинается, когда персонажи уже находятся в @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{улье Рокарт} — возможно, улаживают последние дела одного из других заданий из "
+  },
+  "4": {
+   "en": "Voll Adventures",
+   "ru": "«Приключений на Волле»"
+  },
+  "6": {
+   "en": ". When the party is gathered in a relatively secluded location, an ornate and heavily scrimshawed servo-skull approaches them and begins relaying an urgent message from their Patron. ",
+   "ru": ". Когда отряд собирается в относительно уединённом месте, к нему подлетает богато украшенный резьбой сервочереп и начинает передавать срочное послание от покровителя. "
+  },
+  "10": {
+   "en": "Read or paraphrase the following text:",
+   "ru": "Зачитайте или перескажите следующий текст:"
+  },
+  "16": {
+   "en": "‘A suddenly pressing matter needs your immediate attention. What were once thought to be random acts of murder and sabotage occurring throughout the eastern portion of Rokarth have been linked to a growing heretical cult known as the Vertexis. They supposedly worship a figure known as the Harbinger whom they dare claim is an angel of the Emperor and say is responsible for the violence. Many workers have apparently grown so fearful of this Harbinger that production has greatly slowed and the Tithe is endangered.",
+   "ru": "«Внезапно возникло неотложное дело, требующее вашего немедленного внимания. Случаи убийств и диверсий в восточной части Рокарта, которые считались разрозненными, связали с разрастающимся еретическим культом, известным как Вертексис. По слухам, его приверженцы поклоняются фигуре, именуемой Предвестником, — они смеют называть его ангелом Императора — и приписывают ему это насилие. Похоже, многие рабочие так боятся этого Предвестника, что производство сильно замедлилось, а десятина под угрозой."
+  },
+  "24": {
+   "en": "Find this Harbinger, discover its nature, and eliminate it. There is a contact who has earned my trust, Captain Matis Vern, a Vigilite who can give you more information to direct your efforts. Seek him in the East Wing, Block 3, of the Precinct Fortress Majoris. There are conduct passes within this servo-skull to grant you access to the fortress.",
+   "ru": "Найдите этого Предвестника, выясните, что он такое, и уничтожьте его. Есть человек, заслуживший моё доверие, — капитан Матис Верн, вигил, который может дать вам больше сведений, чтобы направить ваши усилия. Ищите его в восточном крыле, блок 3, участковой крепости «Майорис». В этом сервочерепе есть пропуска, дающие вам доступ в крепость."
+  },
+  "32": {
+   "en": "Blasphemy cannot be tolerated. Neither can failure. May His will light your wa",
+   "ru": "Богохульство нельзя терпеть. Как и провал. Да осветит Его воля ваш пу"
+  },
+  "34": {
+   "en": "y.’",
+   "ru": "ть»."
+  },
+  "38": {
+   "en": "The characters have some time to prepare, gather equipment, or anything else they think they might need for the mission ahead, before heading to Precinct Fortress Majoris.",
+   "ru": "У персонажей есть немного времени, чтобы подготовиться, собрать снаряжение или что-то ещё, что, по их мнению, может понадобиться для предстоящего задания, прежде чем отправиться в участковую крепость «Майорис»."
+  },
+  "44": {
+   "en": "Identity and Authorisations",
+   "ru": "Легенда и полномочия"
+  },
+  "48": {
+   "en": "The players may wish to work out what their character’s cover for this investigation will be, though this may well be influenced by whatever past relationship they’ve developed with @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth's} @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.GuqQhiqch248agDB]{Macharian Vigilites}. Worth noting is that the passes which their Patron has bequeathed to the characters bear the symbol of Voll’s Ruling House Castyx and give access to not only the fortress but authorization to ride a private Maglift within the hive’s central Maglev Nexus to it — consider how their Patron came upon these passes. An Inquisitor Patron could have simply demanded them, whereas an Infractionsit Patron may have spent a considerable sum of solars to create forgeries.",
+   "ru": "Игроки могут захотеть продумать, под каким прикрытием их персонажи будут вести расследование, хотя на это вполне может повлиять то, какие отношения у них сложились с @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.GuqQhiqch248agDB]{махарийскими вигилами} @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта}. Стоит отметить, что пропуска, которые покровитель вручил персонажам, несут символ правящего дома Волла — Кастикс — и дают не только доступ в крепость, но и право проехать до неё на частном маглифте по центральному маглев-узлу улья; подумайте, как покровитель раздобыл эти пропуска. Покровитель-инквизитор мог просто потребовать их, тогда как покровитель из одиночек мог потратить немалую сумму соляров на подделки."
+  },
+  "56": {
+   "en": "Patrons",
+   "ru": "Покровители"
+  },
+  "60": {
+   "en": "This adventure has many hooks that can draw the attention of any type of Patron. The following are suggestions for each Patron Faction:",
+   "ru": "У этого приключения много зацепок, способных привлечь внимание покровителя любого типа. Ниже приведены варианты для каждой фракции покровителей:"
+  },
+  "68": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Adeptus Administratum}: Your Patron is concerned for the state of the Imperial Tithe, especially since the Macharian Sector is still in the midst of recovery from the dark years of the Noctis Aeterna. Anything that jeopardises @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth's} tithe must be eliminated as quickly as possible.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.3TtxuCzt0nNV1ysj]{Адептус Администратум}: покровителя беспокоит состояние имперской десятины, особенно с учётом того, что сектор Махарий всё ещё оправляется от тёмных лет Ноктис Этерна. Всё, что угрожает десятине @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта}, должно быть устранено как можно быстрее."
+  },
+  "76": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.OjmVcVX5lv76LsvL]{Adeptus Astra Telepathica}: The disruption caused by the nightmares of the fearful populace of Rokarth resonates in the Warp and has dramatically affected its psykers. Your Patron believes that the sooner the mass murders stop, the quicker the immaterium calms and the psykers’ headaches will cease.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.OjmVcVX5lv76LsvL]{Адептус Астра Телепатика}: смятение, вызванное кошмарами запуганного населения Рокарта, отдаётся в варпе и сильно сказывается на псайкерах. Покровитель считает, что чем скорее прекратятся массовые убийства, тем быстрее успокоится имматериум и прекратятся головные боли псайкеров."
+  },
+  "84": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus}: Your Patron suspects that the brutal and ruthless efficiency of the killings suggests work of an advanced combat servitor. It must be captured so its corrupted machine spirit can be purged and reconsecrated towards more righteous purposes.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Адептус Механикус}: покровитель подозревает, что жестокая и беспощадная эффективность убийств указывает на работу продвинутого боевого сервитора. Его нужно захватить, чтобы очистить его порченого машинного духа и вновь освятить для более праведных целей."
+  },
+  "92": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Adeptus Ministorum}: Your Patron is deeply concerned by tales of citizens worshipping this Harbinger as an angel of the Emperor. This heretical cult, the Vertexis, must be crushed quickly, lest it grow further. Stopping the figure behind their idolatry is the best way to return everyone to the light of the Imperial Creed.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Адептус Министорум}: покровителя глубоко тревожат рассказы о горожанах, поклоняющихся Предвестнику как ангелу Императора. Этот еретический культ, Вертексис, нужно быстро раздавить, пока он не разросся. Остановить того, кто стоит за их идолопоклонством, — лучший способ вернуть всех к свету Имперского кредо."
+  },
+  "100": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Astra Militarum}: @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth} is a large producer of medicae drugs for the entire sector, which Astra Militarum regiments greatly need and are already short on. Anything that hampers production is a concern worth dealing with from your Patron’s point of view, to say nothing of the fact that they suspect the killings and sabotage may be direct enemy activity, a possibility that must be investigated.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум}: @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Улей Рокарт} — крупный производитель медицинских препаратов для всего сектора, в которых остро нуждаются полки Астра Милитарум и которых им уже не хватает. С точки зрения покровителя, всё, что мешает производству, заслуживает того, чтобы им заняться, не говоря уже о том, что он подозревает, что убийства и диверсии могут быть прямой деятельностью врага, — и эту возможность нужно проверить."
+  },
+  "108": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.HlxK2pbpx2Uio6bU]{Imperial Fleet}: The smooth flow of goods is essential to both mercantile and naval concerns throughout the Macharian Sector. Your Patron is greatly troubled that Voll’s supply chain can be disrupted by apparently a single individual and wants the matter resolved quickly.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.HlxK2pbpx2Uio6bU]{Имперские флотилии}: бесперебойный поток грузов жизненно важен и для торговых, и для флотских интересов по всему сектору Махарий. Покровителя сильно тревожит, что цепочку поставок Волла, судя по всему, может нарушить один-единственный индивид, и он хочет, чтобы дело разрешилось быстро."
+  },
+  "116": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionists}: Your Patron explains that the Harbinger is bad for business. A little fear can motivate, but terror keeps citizens indoors, preventing them from partaking in illicit goods and services. Worse, the Vigilites are cracking down even more brutally than normal and demanding even higher bribes due to the danger.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Одиночки}: покровитель объясняет, что Предвестник вредит делу. Немного страха может подстегнуть, но ужас заставляет горожан сидеть по домам, не давая им пользоваться незаконными товарами и услугами. Хуже того, вигилы свирепствуют ещё жёстче обычного и из-за опасности требуют ещё больших взяток."
+  },
+  "124": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.41XgDdxnZ76elnvr]{Inquisition}: The brutal killings reported so far could draw the attention of Inquisitors from any Holy Order. It could be the work of daemons, a vile heretic cult, or proof that a xenos entity has infiltrated @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth}.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.41XgDdxnZ76elnvr]{Инквизиция}: жестокие убийства, о которых уже сообщено, могут привлечь внимание инквизиторов любого из Святых ордосов. Это может быть делом рук демонов, мерзкого еретического культа или доказательством того, что в @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{улей Рокарт} проникла ксеносская сущность."
+  },
+  "132": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.h6Z6Ia2q5RkRUlDG]{Rogue Trader Dynasties}: Your Patron is convinced that something escaped from the hold of a voidship that must be stopped, or seeks to gain a favour from House Castyx by taking care of their production problem.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.h6Z6Ia2q5RkRUlDG]{Династии вольных торговцев}: покровитель убеждён, что из трюма пустотного корабля сбежало нечто, что необходимо остановить, или стремится заслужить расположение дома Кастикс, решив его проблему с производством."
+  },
+  "146": {
+   "en": "Depending on a Patron’s Motivation, the following may also be suitable:",
+   "ru": "В зависимости от мотивации покровителя подойдут и следующие варианты:"
+  },
+  "156": {
+   "en": "Conflict",
+   "ru": "Конфликт"
+  },
+  "158": {
+   "en": ": Kill the Harbinger and hunt down any accomplices, including its burgeoning cult.",
+   "ru": ": убейте Предвестника и выследите всех его пособников, включая набирающий силу культ."
+  },
+  "168": {
+   "en": "Information",
+   "ru": "Информация"
+  },
+  "170": {
+   "en": ": Discover exactly who and what the Harbinger is, who sent it, and what their motivations were. ",
+   "ru": ": выясните, кто и что такое Предвестник, кто его послал и каковы были мотивы."
+  },
+  "180": {
+   "en": "Materiel",
+   "ru": "Снаряжение"
+  },
+  "182": {
+   "en": ": Seize any unusual equipment the Harbinger has access to and claim a portion of the goods, the flow of which is made possible by its elimination.",
+   "ru": ": захватите всё необычное снаряжение, к которому у Предвестника есть доступ, и заберите часть грузов, поток которых станет возможен после его устранения."
+  },
+  "192": {
+   "en": "Reputation",
+   "ru": "Репутация"
+  },
+  "194": {
+   "en": ": Permanently stop the killings, and make it clear to all of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth} who eliminated what was hunting them.",
+   "ru": ": навсегда прекратите убийства и дайте понять всему @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{улью Рокарт}, кто уничтожил того, кто на них охотился."
+  },
+  "204": {
+   "en": "Unity",
+   "ru": "Единство"
+  },
+  "206": {
+   "en": ": Stop the Harbinger, making certain to involve agents of the Administratum and the Vigilites so all can claim they had a part in ending its brutal attacks.",
+   "ru": ": остановите Предвестника, непременно вовлёкши агентов Администратума и вигилов, чтобы все могли заявить, что приложили руку к прекращению его жестоких нападений."
+  }
+ }
+}

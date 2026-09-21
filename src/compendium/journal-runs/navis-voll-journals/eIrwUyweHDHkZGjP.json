@@ -1,0 +1,221 @@
+{
+ "journal": "mOfAsI4kLKUGTLXd",
+ "journalName": "Paradigm Shift",
+ "page": "eIrwUyweHDHkZGjP",
+ "pageName": "Part 1: Initial Investigations",
+ "name": "Часть 1: «Первые шаги расследования»",
+ "runs": {
+  "8": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh}’s compound is among the Hive Spires, in the exclusive, well-defended upper-class echelons of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth}. If the characters haven’t been to the Hive Spires before, they travel by maglift from the upper hive, and their entry should be challenged by a pair of @UUID[Compendium.impmal-starter-set.actors.Actor.O49jTi2TzoFQH5GT]{Macharian Vigilites}. The papers they carry are genuine, but unless the characters appear to belong in the Hive Spires, the Vigilites may require some persuasion (or a bribe) to let them through unhindered.",
+   "ru": "Поместье @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорда Фелпута} находится среди шпилей улья, в привилегированных, хорошо охраняемых верхних эшелонах @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{улья Рокарт}. Если персонажи раньше не бывали среди шпилей, они добираются туда маглифтом из верхнего улья, и на входе их должна остановить пара @UUID[Compendium.impmal-starter-set.actors.Actor.O49jTi2TzoFQH5GT]{махарийских вигилов}. Бумаги у персонажей подлинные, но если только те не выглядят как свои среди шпилей, вигилов, возможно, придётся уговорить (или подкупить), чтобы они беспрепятственно пропустили отряд."
+  },
+  "12": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh}’s address, in the Steeple district, is on the papers. Two of his household guards are stationed at the entrance. They are ex-militarum and can be represented by the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZIodTiyH9W5QBRU9]{Astra Militarum Trooper}, though they carry no grenades, and their armour is a bright magenta. The characters must convince the guards they have an appointment; they’re viewed with suspicion despite their proper papers. In any case, before being admitted to the atrium, they are instructed to remove their weapons as well as their acid-stained outer garments and footwear.",
+   "ru": "Адрес @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорда Фелпута} в районе Шпиль указан в бумагах. У входа стоят двое его домашних стражников. Это бывшие военные, и для них можно использовать профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZIodTiyH9W5QBRU9]{солдата Астра Милитарум}, только без гранат и в ярко-пурпурной броне. Персонажам нужно убедить стражников, что им назначено; несмотря на надлежащие бумаги, на них смотрят с подозрением. Так или иначе, прежде чем пропустить в атриум, им велят сдать оружие, а также снять покрытую кислотными пятнами верхнюю одежду и обувь."
+  },
+  "16": {
+   "en": "Beyond the atrium, a vast echoing hall awaits. A shrine to the God-Emperor looms over the characters from the far end, and doors on either side lead into the rest of the building. Unless the characters try the doors, they won’t realise they are false. @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felput}h had to sell much of his ancestral compound to pay debts and maintain his staff, so he’s gone to great pains to ensure his home still appears far larger than it is.",
+   "ru": "За атриумом их ждёт огромный гулкий зал. В дальнем его конце над персонажами возвышается святилище Бога-Императора, а двери по обе стороны ведут в остальные части здания. Пока персонажи не попробуют открыть двери, они не поймут, что те фальшивые. @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Лорду Фелпуту} пришлось продать большую часть родового поместья, чтобы расплатиться с долгами и содержать слуг, поэтому он изо всех сил старается, чтобы его дом по-прежнему казался куда больше, чем есть на самом деле."
+  },
+  "20": {
+   "en": "Here they are met by a black-clad woman, decked with knives and twin autopistols hanging unobstructed from her belt. This is @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Kant Sandik}. She ignores any questions and leads them through one of the many doors, into a small chamber. @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh} is waiting here, sitting on a throne-like chair behind an armaglass screen (the screen provides him with an additional 5 Armour).",
+   "ru": "Здесь их встречает женщина в чёрном, увешанная ножами, с парой автопистолетов, свободно висящих на поясе. Это @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Кант Сандик}. Она не отвечает ни на какие вопросы и ведёт персонажей через одну из многочисленных дверей в небольшую комнату. Там их ждёт @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорд Фелпут}, восседающий в похожем на трон кресле за бронестеклянным экраном (экран даёт ему дополнительно 5 брони)."
+  },
+  "24": {
+   "en": "Interviewing Lord Felputh",
+   "ru": "Разговор с лордом Фелпутом"
+  },
+  "28": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Sandik} takes the characters’ papers and presents them to @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh}, slipping them through a box in the protective screen. The noble scrutinises them before welcoming the characters and thanking them for coming to his aid. He plays the part of a concerned ruler deeply troubled by what might have happened at the plant. He claims his problems are caused by a worker uprising, though if pressed, he admits that the speed at which it happened and the lack of any demands make this seem somewhat unlikely. He mentions that @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Brandt Kesker} was stirring up so much trouble among the former workers that Felputh was forced to replace them all.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Сандик} забирает у персонажей бумаги и передаёт их @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорду Фелпуту} через окошко в защитном экране. Дворянин внимательно изучает их, после чего приветствует персонажей и благодарит за то, что пришли ему на помощь. Он играет роль обеспокоенного правителя, глубоко встревоженного тем, что могло случиться на заводе. Он утверждает, что его беды вызваны восстанием рабочих, хотя, если на него надавить, признаёт, что быстрота произошедшего и отсутствие каких-либо требований делают это не слишком правдоподобным. Он упоминает, что @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Брандт Кескер} так баламутил прежних рабочих, что Фелпуту пришлось заменить их всех."
+  },
+  "32": {
+   "en": "If the players ask more about @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Kesker}, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Felputh} tells them the labourer is likely living in the habsprawl near the refinery, since he graciously allowed the workers to continue living there despite being unable to employ them any longer. If the players ask why the workers caused trouble or why he could no longer use them, Felputh admits there was some trouble with conditions at the plant, but the Magos who inspected it assured him that no urgent repairs were necessary. If questioned further, Felputh supplies the name of the Magos, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.fdJv9lqD4Nr2SAQz]{Elipses Vark}, who now works in Forge-Fane Incalcos-6 (located among @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth's} Hive Spires).",
+   "ru": "Если игроки спросят о @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Кескере} подробнее, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Фелпут} отвечает, что рабочий, скорее всего, живёт в жилых кварталах у завода: он великодушно позволил рабочим и дальше жить там, хотя больше не мог их нанимать. Если игроки спросят, почему рабочие устроили беспорядки или почему он больше не мог ими пользоваться, Фелпут признаёт, что с условиями на заводе были некоторые трудности, но магос, проводивший проверку, заверил его, что срочный ремонт не требуется. Если его расспросить дальше, Фелпут называет имя магоса — @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.fdJv9lqD4Nr2SAQz]{Элипсес Варк}, — который теперь работает в храме-кузне Инкалкос-6 (расположенном среди шпилей улья @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарт})."
+  },
+  "36": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh} is grateful to the characters for looking into his problem and insists they take @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Sandik} with them as a guide and protector (if they manage to refuse, Sandik follows them from a stealthy distance). He asks that they don’t linger in his home, however, as the presence of such ‘visitors’ might invite suspicion.",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Лорд Фелпут} благодарен персонажам за то, что они взялись за его беду, и настаивает, чтобы они взяли с собой @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Сандик} в качестве проводника и защитника (если персонажам удастся отказаться, Сандик скрытно следует за ними на расстоянии). Однако он просит их не задерживаться у него в доме, поскольку присутствие подобных «гостей» может вызвать подозрения."
+  },
+  "40": {
+   "en": "While Felputh is keen for the characters to leave, they might wish to question his household guards on the way out. They initially seem reluctant to talk, but if the characters speak to one out of @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Sandik}’s hearing, the guard reveals what they know: @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Felputh} has been docking their pay for the most minor of infringements recently, and the guards are concerned that his wealth, and therefore their livelihood, are at risk. Always a paranoid employer, the noble has been especially fearful of late, and his moods have become more erratic. The trouble with the refinery has made him desperate, and possibly dangerous.",
+   "ru": "Хотя Фелпуту не терпится, чтобы персонажи ушли, на выходе они могут захотеть расспросить его домашних стражников. Поначалу те неохотно идут на разговор, но если персонажи заговорят с одним из них так, чтобы @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Сандик} не слышала, стражник рассказывает, что знает: в последнее время @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Фелпут} урезает им жалованье за малейшие провинности, и стражники опасаются, что его богатство, а значит, и их средства к существованию под угрозой. Дворянин всегда был подозрительным нанимателем, но в последнее время особенно пуглив, и его настроение стало ещё переменчивее. Беда с заводом довела его до отчаяния и, возможно, сделала опасным."
+  },
+  "44": {
+   "en": "Interviewing Magos Elipses Vark",
+   "ru": "Разговор с магосом Элипсесом Варком"
+  },
+  "48": {
+   "en": "The characters may wish to seek out @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.fdJv9lqD4Nr2SAQz]{Magos Elipses Vark} at Forge-Fane Incalcos-6. If they ask for Vark directly, they are told to wait outside, as the Tech-Priests have no intention of admitting outsiders to the Forge-Fane. After an hour of waiting, the Magos, along with a pair of armed servitors, meets with the party just beyond the gates, that seal shut abruptly behind him. He only has time to answer a few questions before excusing himself to return to his work.",
+   "ru": "Персонажи могут захотеть разыскать @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.fdJv9lqD4Nr2SAQz]{магоса Элипсеса Варка} в храме-кузне Инкалкос-6. Если они спросят Варка напрямую, им велят ждать снаружи: техножрецы не собираются впускать в храм-кузню посторонних. После часа ожидания магос в сопровождении пары вооружённых сервиторов встречается с отрядом прямо за воротами, которые резко захлопываются за ним. У него есть время лишь на несколько вопросов, после чего он извиняется и возвращается к работе."
+  },
+  "54": {
+   "en": "Forge-Fane Incalcos-6 is detailed in @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf]{Rokarth: A Guide to the Hive}. It is the sanctum mechanicum of the Cult of Mars in @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Hive Rokarth}, where the highest-ranking Tech-Priests in Rokarth pursue their essential and esoteric works. It is a veritable fort of knowledge; even Tech-Priests and Tech-adepts within the Adeptus Mechanicus have trouble accessing the building.",
+   "ru": "Храм-кузня Инкалкос-6 описан в @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf]{«Рокарт: путеводитель по улью»}. Это святая святых культа Марса в @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{улье Рокарт}, где самые высокопоставленные техножрецы Рокарта ведут свои важнейшие и сокровенные труды. Это настоящая крепость знания; даже техножрецам и техноадептам Адептус Механикус непросто попасть в это здание."
+  },
+  "60": {
+   "en": "From Vark, the characters can learn about his inspection of the refinery. No urgent repairs were required, but plenty of minor ones could have been hurried along if @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{Lord Felputh} had been willing to make an appropriate donation to the Tech-Priesthood of Mars. Vark expresses concern that Felputh was more concerned with fulfilling the tithe than appeasing the machine-spirits. He believes the conditions of the refinery must be so poor by now that no Humans could possibly work there safely. Vark would be grateful if the party could ensure the refinery is restored and put back to work — the machine spirits should not be left to degrade in such a way. If the characters agree to help, Vark mentions that the ventilation shafts might provide a good vantage to survey the refinery itself, should they need to.",
+   "ru": "От Варка персонажи могут узнать о его проверке завода. Срочного ремонта не требовалось, но множество мелких работ можно было бы ускорить, если бы @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.BMt1lzDVRMWAsuQk]{лорд Фелпут} согласился сделать подобающее пожертвование жречеству Марса. Варк выражает беспокойство, что Фелпута больше заботила выплата десятины, чем умиротворение машинных духов. Он считает, что условия на заводе к этому времени наверняка настолько плохи, что ни один человек не сможет безопасно там работать. Варк был бы благодарен, если бы отряд позаботился о восстановлении завода и возвращении его к работе: машинных духов нельзя оставлять деградировать подобным образом. Если персонажи согласятся помочь, Варк упоминает, что вентиляционные шахты могут стать хорошей точкой обзора, если понадобится осмотреть сам завод."
+  },
+  "64": {
+   "en": "Interviewing Brandt Kesker",
+   "ru": "Разговор с Брандтом Кескером"
+  },
+  "68": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Brandt Kesker} is the last thread they can chase before heading to the Refinery. Travelling to the Lower Hive from the Hive Spires takes the characters the better part of a day, so they may wish to prepare or rest before taking on the next part of the adventure. ",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Брандт Кескер} — последняя ниточка, за которую можно потянуть перед отправкой на завод. Путь от шпилей улья до нижнего улья занимает у персонажей бо́льшую часть дня, так что перед следующей частью приключения они, возможно, захотят подготовиться или отдохнуть. "
+  },
+  "72": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Kesker} can be found in the crumbling habsprawls surrounding the Refinery, but it takes the characters some effort to locate him directly. @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Kant Sandik} has some idea of where he is — remember that she is accompanying the party or following them from the shadows. Otherwise, they’ll need to interview other citizens to find their way. They can make ",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Кескер} живёт в разваливающихся жилых кварталах вокруг завода, но найти его персонажам будет непросто. @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Кант Сандик} примерно представляет, где он, — помните, что она сопровождает отряд или следует за ним из тени. В противном случае персонажам придётся расспрашивать других горожан. Чтобы собрать сведения, они могут пройти "
+  },
+  "74": {
+   "en": "Challenging (+0) Logic (Investigation)",
+   "ru": "Средние (+0) проверки Логики (Расследование)"
+  },
+  "78": {
+   "en": "Navigation (Surface)",
+   "ru": "Ориентирования (Поверхность)"
+  },
+  "80": {
+   "en": ", or ",
+   "ru": " или "
+  },
+  "82": {
+   "en": "Rapport (Inquiry)",
+   "ru": "Взаимопонимания (Сбор сведений)"
+  },
+  "84": {
+   "en": " Tests to gather information. Failure means lost time, adding several hours to their search and may cause them to become ",
+   "ru": ". Провал означает потерянное время: поиски затягиваются на несколько часов, и персонажи могут получить состояние "
+  },
+  "86": {
+   "en": "Fatigued",
+   "ru": "«Усталость»"
+  },
+  "92": {
+   "en": "They should notice that many of the local citizens here are suffering from a disease, revealed to be known as Bloodlung. These inhabitants can be represented by @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{Manufactorum Labourers}, but they have an ongoing ",
+   "ru": "Персонажи должны заметить, что многие местные жители страдают от болезни, которую, как выясняется, называют кровавым лёгким. Для этих жителей можно использовать профиль @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{рабочего с мануфакторума}, но у них постоянно действует состояние "
+  },
+  "94": {
+   "en": "Poisoned (Minor)",
+   "ru": "«Отравление (Малое)»"
+  },
+  "96": {
+   "en": " Condition. @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Kesker} is in the final stages of the disease, lying on a bed of rags in the corner of a crowded hab. The other residents keep their distance, fearful of sharing his fate.",
+   "ru": ". @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Кескер} находится на последней стадии болезни и лежит на подстилке из тряпья в углу переполненного жилища. Остальные жильцы держатся от него подальше, боясь разделить его участь."
+  },
+  "100": {
+   "en": "If asked about his supposed rebellion, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Kesker} says he got in trouble for daring to complain about the refinery conditions. He then escaped through one of the run-off pipes. His whole shift was dismissed as punishment. He doesn’t know who worked there afterwards, but is afraid they may have all perished there as the refinery is dangerously toxic. If the party can persuade him to speculate, he’ll tell them about the rumours that the whole place is staffed by mutants, but he finds this ridiculous, since surely even mutants can die.",
+   "ru": "Если спросить его о якобы поднятом им бунте, @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Кескер} говорит, что попал в беду, осмелившись пожаловаться на условия на заводе. Затем он сбежал через одну из сточных труб. В наказание уволили всю его смену. Он не знает, кто работал там после, но боится, что все они могли погибнуть, ведь завод опасно ядовит. Если отряд сумеет убедить его порассуждать, он расскажет о слухах, будто на заводе работают одни мутанты, но сам считает это нелепицей: ведь даже мутанты наверняка могут умереть."
+  },
+  "106": {
+   "en": "Helping Kesker",
+   "ru": "Помощь Кескеру"
+  },
+  "110": {
+   "en": "If the characters can restore or shore up @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Kesker}’s health, he is willing to accompany them to the manufactorum, usher them to the run-off pipe entrance and lead the characters around. @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Kant Sandik} is opposed to this, saying he’s in such bad shape he’ll die before even getting there. In truth, she wishes to stay in better control of the situation and views Kesker as a wild card. If the characters do accept Kesker’s help, he’ll die soon after the adventure concludes, but may sacrifice himself using his ",
+   "ru": "Если персонажам удастся восстановить или хотя бы поддержать здоровье @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Кескера}, он готов сопровождать их на мануфакторум, провести ко входу через сточную трубу и показать им всё вокруг. @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Кант Сандик} против: мол, он так плох, что умрёт, даже не добравшись туда. На самом деле она хочет лучше контролировать ситуацию и считает Кескера непредсказуемым. Если персонажи всё же примут помощь Кескера, он умрёт вскоре после завершения приключения, но может пожертвовать собой, воспользовавшись своей чертой "
+  },
+  "112": {
+   "en": "I’ll Die Trying",
+   "ru": "«Умру, но сделаю»"
+  },
+  "114": {
+   "en": " Trait.",
+   "ru": "."
+  },
+  "120": {
+   "en": "Rumours that players might hear from @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Kesker} or other locals are as follows:",
+   "ru": "Слухи, которые игроки могут услышать от @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Кескера} или других местных, таковы:"
+  },
+  "124": {
+   "en": "@Embed[Compendium.navis-apexialis.navis-voll-tables.RollTable.No9sZ8JS0BvcygHQ noCenter=true description=bottom]{Rumour}",
+   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-tables.RollTable.No9sZ8JS0BvcygHQ noCenter=true description=bottom]{Слух}"
+  },
+  "130": {
+   "en": "Bloodlung",
+   "ru": "Кровавое лёгкое"
+  },
+  "134": {
+   "en": "The lowliest inhabitants of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth}are plagued with various conditions, infections, and diseases. Not all are named, but Bloodlung is well-known as a common affliction among refinery workers, likely as a result of their daily inhalation of poisonous vapours. The symptoms begin with a scratchy throat and dry cough, progress to painful, rattling lungs, and finally develop into a hacking, retching cough that brings up first blood, then partially dissolved lung tissue. Few live long after reaching this stage, and the Officio Medicae has no officially sanctioned cure.",
+   "ru": "Беднейших обитателей @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта} терзают всевозможные хвори, инфекции и болезни. Не у всех есть названия, но кровавое лёгкое хорошо известно как распространённый недуг рабочих очистительных заводов — вероятно, из-за того, что они ежедневно вдыхают ядовитые пары. Симптомы начинаются с першения в горле и сухого кашля, переходят в болезненные хрипы в лёгких и, наконец, в надсадный, рвотный кашель, при котором отходит сначала кровь, а затем частично растворённая лёгочная ткань. Мало кто живёт долго после этой стадии, а у Официо Медика нет официально одобренного лекарства."
+  },
+  "138": {
+   "en": "If the characters spend too long in the refinery, they may begin to experience early symptoms themselves. If unprotected, after each encounter, characters should make a ",
+   "ru": "Если персонажи проведут на заводе слишком много времени, у них самих могут проявиться первые симптомы. Без защиты после каждой сцены персонажи должны проходить "
+  },
+  "140": {
+   "en": "Difficult (−10) Fortitude (Endurance)",
+   "ru": "Трудную (−10) проверку Стойкости (Неустанность)"
+  },
+  "142": {
+   "en": " Test. Any who fail become inflicted with the ",
+   "ru": ". Провалившие получают состояние "
+  },
+  "144": {
+   "en": "Poisoned (Minor)",
+   "ru": "«Отравление (Малое)»"
+  },
+  "146": {
+   "en": " Condition for the remainder of the adventure, or until they receive treatment. Several quack cures are sold in the black markets of @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth}— some of these are useless but harmless, while others might make a character’s situation worse. It is at your discretion whether a character who tries one is cured or gains Corruption as a result.",
+   "ru": " до конца приключения или пока не получат лечение. На чёрных рынках @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Рокарта} продаётся несколько шарлатанских снадобий — одни бесполезны, но безвредны, другие могут ухудшить положение персонажа. На ваше усмотрение персонаж, попробовавший такое средство, исцеляется или получает порчу."
+  },
+  "152": {
+   "en": "Onto the Refinery",
+   "ru": "На завод"
+  },
+  "156": {
+   "en": "Maltus Refinery VI is within an hour’s walking distance of @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Brandt Kesker}’s hab unit. @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Sandik} can lead them there, or they can gain directions from local citizens. When they reach the refinery, read the following:",
+   "ru": "Очистительный завод «Мальтус VI» находится в часе ходьбы от жилища @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Брандта Кескера}. @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Сандик} может отвести их туда, или же дорогу можно узнать у местных. Когда персонажи доберутся до завода, зачитайте следующее:"
+  },
+  "162": {
+   "en": "‘After pushing your way through the unwashed crowds of the Lower Hive, the sudden emptiness of the habways in front of Lord Felputh’s refinery is an ominous relief. Despite the distant rumble of the hive’s Generatorium, the manufactorum is unsettlingly quiet, embodied by a grave-like hush. Even with the refinery dormant, the heat remains intense, and the thick brownish air stings exposed skin. The ground is water-logged, and when flashes of the flickering lumens cast enough light, they reveal an oily scum floating on the surface. The towering iron gates rise before you, the welding that sealed them shut obvious from the lumpy scar of molten metal oozing and hardened through the gate’s central seal.’",
+   "ru": "«После того как вы продрались сквозь немытые толпы нижнего улья, внезапная пустота жилых переходов перед заводом лорда Фелпута приносит зловещее облегчение. Несмотря на далёкий гул генераториума улья, на мануфакторуме тревожно тихо — царит могильное безмолвие. Хотя завод бездействует, жар по-прежнему сильный, а густой буроватый воздух жжёт открытую кожу. Земля пропитана водой, и когда мигающие люмены дают достаточно света, видно, как на её поверхности плавает маслянистая плёнка. Перед вами высятся громадные железные ворота; сварка, наглухо запечатавшая их, видна по бугристому шраму расплавленного металла, который стёк и застыл вдоль центрального стыка ворот»."
+  },
+  "168": {
+   "en": "The liquid at the characters’ feet is a corrosive but diluted acid. It’s essentially harmless, but it means there’s little evidence to find, other than some organic matter slowly melting that might once have been part of a limb. Examining the gates, they can make a ",
+   "ru": "Жидкость под ногами персонажей — едкая, но разбавленная кислота. По сути она безвредна, но из-за неё улик почти не найти, кроме медленно растворяющихся органических остатков, которые когда-то, возможно, были частью конечности. Осматривая ворота, персонажи могут пройти "
+  },
+  "170": {
+   "en": "Challenging (+0) Lore (Forbidden)",
+   "ru": "Среднюю (+0) проверку Знаний (Запретное)"
+  },
+  "172": {
+   "en": " Test to identify what has been scrawled upon them. What initially looks like rusted patches are in fact symbols painted in blood, in effigy of the eight-pointed mark of Chaos.",
+   "ru": ", чтобы понять, что на них нацарапано. То, что поначалу выглядит пятнами ржавчины, на самом деле символы, нарисованные кровью, — подобие восьмиконечного знака Хаоса."
+  },
+  "176": {
+   "en": "The gates are a @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#barrier]{Barrier} that can be surmounted by a ",
+   "ru": "Ворота — это @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#barrier]{преграда}, которую можно преодолеть, пройдя "
+  },
+  "178": {
+   "en": "Hard (−20) Athletics (Climbing)",
+   "ru": "Сложную (−20) проверку Атлетики (Лазанье)"
+  },
+  "180": {
+   "en": " Test or by dealing 20 Damage targeted at the welded area in the middle. @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Sandik} discourages using this entry, as making any noise or climbing over might alert whatever is inside. This method causes a party of @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastmen} to attack soon after they enter the refinery.",
+   "ru": " или нанеся 20 урона по заваренному участку в середине. @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Сандик} отговаривает от этого пути: любой шум или попытка перелезть могут насторожить то, что внутри. Если выбрать этот способ, вскоре после проникновения на завод на персонажей нападает отряд @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{зверолюдов}."
+  },
+  "184": {
+   "en": "If the characters heard about the ventilation shafts from @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.fdJv9lqD4Nr2SAQz]{Vark} or the run-off pipes from @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Kesker}, they can locate these entrances without the need for a Test. Otherwise, searching for one of these entrances requires making a ",
+   "ru": "Если персонажи слышали о вентиляционных шахтах от @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.fdJv9lqD4Nr2SAQz]{Варка} или о сточных трубах от @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.npwGHKbHhFlY0A8u]{Кескера}, они находят эти входы без проверки. В противном случае для поиска такого входа нужна "
+  },
+  "186": {
+   "en": "Challenging (+0) Awareness (Sight)",
+   "ru": "Средняя (+0) проверка Бдительности (Зрение)"
+  },
+  "188": {
+   "en": " or ",
+   "ru": " или "
+  },
+  "190": {
+   "en": "Navigation (Surface)",
+   "ru": "Ориентирования (Поверхность)"
+  },
+  "192": {
+   "en": " Test. Failure means the party could take some Damage from traversing the area or alert the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{Beastmen} within if they make too much noise. @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Sandik} is reluctant to help here, wary of dredging through the runoff, but follows the players if they find a way to enter.",
+   "ru": ". Провал означает, что отряд может получить урон, пробираясь по местности, или насторожить @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ri94quNUXFjXfjI3]{зверолюдов} внутри, если наделает слишком много шума. @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.0zWbIXfmA6absQL7]{Сандик} неохотно помогает здесь, не желая лезть в сточные воды, но следует за игроками, если те найдут способ проникнуть внутрь."
+  }
+ }
+}

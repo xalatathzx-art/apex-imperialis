@@ -1,0 +1,433 @@
+{
+ "journal": "UHAAGHOTknUiUTUj",
+ "journalName": "Familiars",
+ "page": "YTjT0gYfJiYRSTIZ",
+ "pageName": "Creating A Familiar",
+ "name": "Создание фамильяра",
+ "runs": {
+  "2": {
+   "en": "The galaxy contains an almost infinite variety of creatures and constructs that might make suitable Familiars, and these are often further tailored mechanically and genetically to fit their Master’s precise needs. A player may simply choose a premade Familiar to accompany their character (from the @UUID[.CXjCudhmpd5uT0Yj]{Familiar Bestiary}), some of which have special Traits and higher costs, or create their own if they cannot find one that best suits their character’s needs or desires.",
+   "ru": "В галактике почти бесконечное разнообразие существ и конструкций, которые могут стать подходящими фамильярами, и их часто дополнительно подгоняют механически и генетически под точные нужды хозяина. Игрок может просто выбрать для своего персонажа готового фамильяра (из @UUID[.CXjCudhmpd5uT0Yj]{бестиария фамильяров}) — у некоторых из них есть особые свойства и более высокая цена — или создать собственного, если не найдёт того, кто лучше всего отвечает нуждам или желаниям персонажа."
+  },
+  "6": {
+   "en": "To create a Familiar, follow these steps. Choosing from the associated Tables or roll to generate their new Familiar’s features and traits randomly (note that rolling randomly still affects the Familiar’s cost in some places).",
+   "ru": "Чтобы создать фамильяра, выполните следующие шаги. Выбирайте из соответствующих таблиц или бросайте кубики, чтобы случайно определить особенности и свойства нового фамильяра (учтите, что случайный бросок всё равно местами влияет на цену фамильяра)."
+  },
+  "14": {
+   "en": "A Familiar’s base Cost is 10,000 Solars, and their base Upkeep cost is 10% of their Master’s Pay Grade.",
+   "ru": "Базовая цена фамильяра — 10 000 соляров, а базовая стоимость содержания — 10% оклада хозяина."
+  },
+  "22": {
+   "en": "Determine Familiar’s Size (See @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.CzOVN4IYgu7cMuAR]{Familiar Size} Table). Note the Cost Multiplier, and apply it to the initial cost of the Familiar.",
+   "ru": "Определите размер фамильяра (см. таблицу @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.CzOVN4IYgu7cMuAR]{«Размер фамильяра»}). Отметьте множитель цены и примените его к исходной цене фамильяра."
+  },
+  "30": {
+   "en": "A Familiar’s Characteristics all start at 5. Increase the Familiar’s Characteristics as desired, using a pool of 200 points. Unless modified by Familiar Size, the maximum for any Characteristic is 50.",
+   "ru": "Все характеристики фамильяра начинаются с 5. Повысьте характеристики фамильяра по желанию, распределив запас из 200 очков. Если размер фамильяра не меняет этого, максимум любой характеристики — 50."
+  },
+  "38": {
+   "en": "Determine Familiar’s Combat and Preservation Instincts (See Familiar Instincts Table).",
+   "ru": "Определите боевой инстинкт и инстинкт самосохранения фамильяра (см. таблицу «Инстинкты фамильяра»)."
+  },
+  "46": {
+   "en": "Determine Familiar’s Mobility (See Familiar Mobility Table).",
+   "ru": "Определите подвижность фамильяра (см. таблицу «Подвижность фамильяра»)."
+  },
+  "54": {
+   "en": "Choose 5 Skills to gain 1 Advance each, and give one of them a @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.2MqLlcSMDCxkumCk#specialisations]{Skill Specialisation}.",
+   "ru": "Выберите 5 умений, получающих по 1 улучшению, и дайте одному из них @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.2MqLlcSMDCxkumCk#specialisations]{специализацию}."
+  },
+  "62": {
+   "en": "Add 2 @UUID[.Vil8B54FxAl0jFcZ#familiar-talents]{Familiar Talents}.",
+   "ru": "Добавьте 2 @UUID[.Vil8B54FxAl0jFcZ#familiar-talents]{таланта фамильяров}."
+  },
+  "70": {
+   "en": "Add @UUID[.1KVRCsdRBsWAbvN9]{Cyber-} or @UUID[.aul6tv8Zh6mX52Ly]{Psyber-} template, if desired. This will further increase the base cost, including additional Talents or Augmetics.",
+   "ru": "При желании добавьте шаблон @UUID[.1KVRCsdRBsWAbvN9]{кибер-} или @UUID[.aul6tv8Zh6mX52Ly]{псибер-}фамильяра. Это ещё больше повысит базовую цену, включая дополнительные таланты или аугметику."
+  },
+  "78": {
+   "en": "If the Familiar is a Cyber-Familiar, its type is Construct. Otherwise, its type is Beast.",
+   "ru": "Если фамильяр — киберфамильяр, его тип — конструкция. Иначе его тип — зверь."
+  },
+  "86": {
+   "en": "Derive Wounds (based on the Wounds column in the @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.CzOVN4IYgu7cMuAR]{Familiar Size} Table), Critical Wounds (equal to their Toughness Bonus), Encumbrance (Strength Bonus + Toughness Bonus) and Initiative (their Perception Bonus + Agility Bonus).",
+   "ru": "Рассчитайте раны (по столбцу «Раны» таблицы @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.CzOVN4IYgu7cMuAR]{«Размер фамильяра»}), критические раны (равны бонусу Выносливости), нагрузку (бонус Силы + бонус Выносливости) и инициативу (бонус Восприятия + бонус Ловкости)."
+  },
+  "94": {
+   "en": "Determine Quirks (See @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.j7xwtmxepVD5r597]{Familiar Quirk} Table) and Name the Familiar.",
+   "ru": "Определите причуды (см. таблицу @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.j7xwtmxepVD5r597]{«Причуды фамильяра»}) и дайте фамильяру имя."
+  },
+  "108": {
+   "en": "Additional Notes (unless otherwise stated):",
+   "ru": "Дополнительные примечания (если не указано иное):"
+  },
+  "118": {
+   "en": "A Familiar's Role is Troop.",
+   "ru": "Роль фамильяра — отряд."
+  },
+  "126": {
+   "en": "Familiars have no Fate.",
+   "ru": "У фамильяров нет Судьбы."
+  },
+  "134": {
+   "en": "Familiars have no Handedness.",
+   "ru": "У фамильяров нет ведущей руки."
+  },
+  "142": {
+   "en": "Familiars have a Resolve equal to their Master’s (if their Master is an NPC).",
+   "ru": "Решимость фамильяра равна решимости хозяина (если хозяин — NPC)."
+  },
+  "150": {
+   "en": "Familiars begin with no Armour unless an effect grants them any during creation.",
+   "ru": "Фамильяры начинают без брони, если какой-либо эффект при создании не даёт им её."
+  },
+  "158": {
+   "en": "Familiars don’t naturally have a Faction but belong to their Master’s Faction by extension.",
+   "ru": "У фамильяров нет собственной фракции, но они принадлежат к фракции хозяина."
+  },
+  "166": {
+   "en": "All Familiars have an Unarmed Attack (Melee (Brawling), 0 + StrB Damage. @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#ineffective]{Ineffective}).",
+   "ru": "У всех фамильяров есть безоружная атака (Ближний бой (Кулачный бой), урон 0 + бСил, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#ineffective]{Бесполезное})."
+  },
+  "182": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.CzOVN4IYgu7cMuAR]{Familiar Size}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.CzOVN4IYgu7cMuAR]{Размер фамильяра}"
+  },
+  "194": {
+   "en": "1d10",
+   "ru": "1к10"
+  },
+  "202": {
+   "en": "Size",
+   "ru": "Размер"
+  },
+  "210": {
+   "en": "Cost multiplier",
+   "ru": "Множитель цены"
+  },
+  "218": {
+   "en": "Strength Max",
+   "ru": "Макс. Силы"
+  },
+  "226": {
+   "en": "Toughness Max",
+   "ru": "Макс. Выносливости"
+  },
+  "234": {
+   "en": "Agility Max",
+   "ru": "Макс. Ловкости"
+  },
+  "242": {
+   "en": "Wounds",
+   "ru": "Раны"
+  },
+  "256": {
+   "en": "1-2",
+   "ru": "1–2"
+  },
+  "260": {
+   "en": "Tiny (Servo-Skull)",
+   "ru": "Крошечный (сервочереп)"
+  },
+  "264": {
+   "en": "1/4",
+   "ru": "1/4"
+  },
+  "268": {
+   "en": "-20",
+   "ru": "−20"
+  },
+  "272": {
+   "en": "-20",
+   "ru": "−20"
+  },
+  "276": {
+   "en": "+20",
+   "ru": "+20"
+  },
+  "280": {
+   "en": "2 x Toughness Bonus",
+   "ru": "2 × бонус Выносливости"
+  },
+  "288": {
+   "en": "3-4",
+   "ru": "3–4"
+  },
+  "292": {
+   "en": "Small (Canid)",
+   "ru": "Маленький (канид)"
+  },
+  "296": {
+   "en": "1/2",
+   "ru": "1/2"
+  },
+  "300": {
+   "en": "-10",
+   "ru": "−10"
+  },
+  "304": {
+   "en": "-10",
+   "ru": "−10"
+  },
+  "308": {
+   "en": "+10",
+   "ru": "+10"
+  },
+  "312": {
+   "en": "(2 x Toughness Bonus) + Willpower Bonus",
+   "ru": "(2 × бонус Выносливости) + бонус Силы воли"
+  },
+  "320": {
+   "en": "5-6",
+   "ru": "5–6"
+  },
+  "324": {
+   "en": "Average (Human)",
+   "ru": "Средний (человек)"
+  },
+  "328": {
+   "en": "None",
+   "ru": "Нет"
+  },
+  "332": {
+   "en": "No Change",
+   "ru": "Без изменений"
+  },
+  "336": {
+   "en": "No Change",
+   "ru": "Без изменений"
+  },
+  "340": {
+   "en": "No Change",
+   "ru": "Без изменений"
+  },
+  "344": {
+   "en": "Strength Bonus + (2 x Toughness Bonus) + Willpower Bonus",
+   "ru": "Бонус Силы + (2 × бонус Выносливости) + бонус Силы воли"
+  },
+  "352": {
+   "en": "7-10",
+   "ru": "7–10"
+  },
+  "356": {
+   "en": "Large (Orgyn)",
+   "ru": "Крупный (огрин)"
+  },
+  "360": {
+   "en": "x2",
+   "ru": "×2"
+  },
+  "364": {
+   "en": "+10",
+   "ru": "+10"
+  },
+  "368": {
+   "en": "+10",
+   "ru": "+10"
+  },
+  "372": {
+   "en": "-10",
+   "ru": "−10"
+  },
+  "376": {
+   "en": "(Strength Bonus + (2 x Toughness Bonus) + Willpower Bonus) x 2",
+   "ru": "(Бонус Силы + (2 × бонус Выносливости) + бонус Силы воли) × 2"
+  },
+  "398": {
+   "en": "Familiar Instincts",
+   "ru": "Инстинкты фамильяра"
+  },
+  "410": {
+   "en": "1d10",
+   "ru": "1к10"
+  },
+  "418": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.iSQvBadbqf9vlZmO]{Combat Instinct}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.iSQvBadbqf9vlZmO]{Боевой нрав фамильяра}"
+  },
+  "426": {
+   "en": "Effect",
+   "ru": "Эффект"
+  },
+  "434": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.8KmfFCuH0EfpKf3t]{Preservation Instinct}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.8KmfFCuH0EfpKf3t]{Охранительный нрав фамильяра}"
+  },
+  "442": {
+   "en": "Effect",
+   "ru": "Эффект"
+  },
+  "456": {
+   "en": "1-2",
+   "ru": "1–2"
+  },
+  "460": {
+   "en": "Melee",
+   "ru": "Ближний бой"
+  },
+  "464": {
+   "en": "Will @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#charge]{Charge} the nearest enemy or @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#defend]{Defend} their Master.",
+   "ru": "Совершает @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#charge]{натиск} на ближайшего врага или @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#defend]{защищает} хозяина."
+  },
+  "468": {
+   "en": "Fearless",
+   "ru": "Бесстрашный"
+  },
+  "472": {
+   "en": "Fights to the death unless ordered to withdraw.",
+   "ru": "Сражается насмерть, если не приказано отступить."
+  },
+  "480": {
+   "en": "3-4",
+   "ru": "3–4"
+  },
+  "484": {
+   "en": "Ranged",
+   "ru": "Стрелковый"
+  },
+  "488": {
+   "en": "Shoots nearest enemy, will manoeuvre to maintain optimal distance.",
+   "ru": "Стреляет в ближайшего врага, маневрирует, чтобы держать оптимальную дистанцию."
+  },
+  "492": {
+   "en": "Brave",
+   "ru": "Храбрый"
+  },
+  "496": {
+   "en": "Attempts to withdraw once it loses half its Wounds.",
+   "ru": "Пытается отступить, потеряв половину ран."
+  },
+  "504": {
+   "en": "5-6",
+   "ru": "5–6"
+  },
+  "508": {
+   "en": "Stalker",
+   "ru": "Скрытный охотник"
+  },
+  "512": {
+   "en": "Takes Actions to @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#hide]{Hide}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#attack]{Attacks} from Stealth, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#disengage]{Disengages} to repeat.",
+   "ru": "Тратит действия на то, чтобы @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#hide]{спрятаться}, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#attack]{атакует} из укрытия и @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#disengage]{выходит из боя}, чтобы повторить."
+  },
+  "516": {
+   "en": "Wary",
+   "ru": "Осторожный"
+  },
+  "520": {
+   "en": "Attempts to withdraw after losing a quarter of its Wounds.",
+   "ru": "Пытается отступить, потеряв четверть ран."
+  },
+  "528": {
+   "en": "7-10",
+   "ru": "7–10"
+  },
+  "532": {
+   "en": "Coward",
+   "ru": "Трус"
+  },
+  "536": {
+   "en": "Avoids combat, focuses on Helping Characters (such as Healing or Repairing)",
+   "ru": "Избегает боя, сосредотачивается на помощи персонажам (например, лечении или ремонте)"
+  },
+  "540": {
+   "en": "Coward",
+   "ru": "Трус"
+  },
+  "544": {
+   "en": "Attempts to withdraw if threatened or loses any of its Wounds.",
+   "ru": "Пытается отступить, если ему угрожают или он теряет хотя бы одну рану."
+  },
+  "566": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.a5moZHz2bwNH8mlv]{Familiar Mobility}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.a5moZHz2bwNH8mlv]{Передвижение фамильяра}"
+  },
+  "578": {
+   "en": "1d10",
+   "ru": "1к10"
+  },
+  "586": {
+   "en": "Mobility",
+   "ru": "Подвижность"
+  },
+  "594": {
+   "en": "Effect",
+   "ru": "Эффект"
+  },
+  "608": {
+   "en": "1-2",
+   "ru": "1–2"
+  },
+  "612": {
+   "en": "Wheels or Tracks",
+   "ru": "Колёса или гусеницы"
+  },
+  "616": {
+   "en": "+1500 Solars to base Cost. See ",
+   "ru": "+1500 соляров к базовой цене. Правила по "
+  },
+  "620": {
+   "en": "Imperium Maledictum",
+   "ru": "Imperium Maledictum"
+  },
+  "624": {
+   "en": " for rules on @UUID[Compendium.navis-apexialis.navis-core-items.Item.AKyR6gu2VqFCimHq]{Augmetic Tracks and Wheel Movement}.",
+   "ru": " для @UUID[Compendium.navis-apexialis.navis-core-items.Item.AKyR6gu2VqFCimHq]{передвижения на аугметических гусеницах и колёсах}."
+  },
+  "632": {
+   "en": "3-4",
+   "ru": "3–4"
+  },
+  "636": {
+   "en": "Serpentine",
+   "ru": "Змеевидный"
+  },
+  "640": {
+   "en": "Slow Speed, Advantage on Stealth (Moving Silently), @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Difficult Terrain} does not cause them Disadvantage.",
+   "ru": "Медленная скорость, преимущество на Скрытность (Бесшумное движение), @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{пересечённая местность} не даёт ему помехи."
+  },
+  "648": {
+   "en": "5-6",
+   "ru": "5–6"
+  },
+  "652": {
+   "en": "Bipedal",
+   "ru": "Двуногий"
+  },
+  "656": {
+   "en": "Normal Speed, moves as per Human.",
+   "ru": "Обычная скорость, передвигается как человек."
+  },
+  "664": {
+   "en": "7-8",
+   "ru": "7–8"
+  },
+  "668": {
+   "en": "Quadrupedal",
+   "ru": "Четвероногий"
+  },
+  "672": {
+   "en": "Fast Speed in straight lines, Advantage on Athletics (Running).",
+   "ru": "Быстрая скорость по прямой, преимущество на Атлетику (Бег)."
+  },
+  "680": {
+   "en": "9-10",
+   "ru": "9–10"
+  },
+  "684": {
+   "en": "Mulitpedal",
+   "ru": "Многоногий"
+  },
+  "688": {
+   "en": "Slow Speed, Advantage on Athletics (Climbing).",
+   "ru": "Медленная скорость, преимущество на Атлетику (Лазанье)."
+  },
+  "696": {
+   "en": "Note: Any Familiar can gain Flight in addition or instead of any of the above options. This adds +1000 Solars to their base Cost for Slow Flight Speed, +2000 for Normal Flight Speed, +3000 for Fast Flight Speed.",
+   "ru": "Примечание: любой фамильяр может получить полёт вдобавок к любому из вариантов выше или вместо него. Это добавляет к базовой цене +1000 соляров за медленную скорость полёта, +2000 за обычную, +3000 за быструю."
+  },
+  "706": {
+   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.j7xwtmxepVD5r597]{Quirk}",
+   "ru": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.j7xwtmxepVD5r597]{Причуда}"
+  }
+ }
+}

@@ -21,9 +21,9 @@ const p = (...parts) => `<p>${parts.join("")}</p>`;
 const cognomens = (...names) => p("<strong>Когномены</strong>: ", names.join(", "), ".");
 const designations = (...names) => p("<strong>Обозначения</strong>: ", names.join(", "), ".");
 
-const CORE = "Compendium.impmal-core.journals.JournalEntry";
-const ITEM = "Compendium.impmal-core.items.Item";
-const REQ = "Compendium.impmal-requisition.items.Item";
+const CORE = "Compendium.navis-apexialis.navis-core-journals.JournalEntry";
+const ITEM = "Compendium.navis-apexialis.navis-core-items.Item";
+const REQ = "Compendium.navis-apexialis.navis-requisition-items.Item";
 const IMP = `${CORE}.GPqYZykonC12TJb1.JournalEntryPage`;
 const SECTOR = `${CORE}.B7MZBBT3bNew9N96.JournalEntryPage`;
 

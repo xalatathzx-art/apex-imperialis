@@ -1,0 +1,101 @@
+{
+ "journal": "SJPyRkdBEOCtmD8R",
+ "journalName": "Sector Threats",
+ "page": "XvrTcOyogUXcVtrJ",
+ "pageName": "Mizrax Tallian, The Herald of Blood",
+ "name": "",
+ "runs": {
+  "6": {
+   "en": "Mizrax Tallian, The Herald of Blood",
+   "ru": ""
+  },
+  "16": {
+   "en": "The skies are full of Ork roks, and the trenches already full of the dead and dying. Blood flows freely in the habways. You never lived before this day, Sergeant, so why now fear death? There is a better way…",
+   "ru": ""
+  },
+  "24": {
+   "en": "Threat Overview",
+   "ru": ""
+  },
+  "32": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.7RBUr5GqvTTAfxfc]{Mizrax Tallian} is a mortal servant of Khorne.",
+   "ru": ""
+  },
+  "40": {
+   "en": "He is drawn to places on the eve of terrible battles, somehow able to sense the bloodshed to come.",
+   "ru": ""
+  },
+  "48": {
+   "en": "He fosters Khornate blood cults among the soldiery, bolstering their martial prowess for the battle to come in exchange for allegiance to the Skull Throne.",
+   "ru": ""
+  },
+  "58": {
+   "en": "Among many regiments of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.6Yav4onpokz5e5jg]{Astra Militarum}, there are rumours of a figure known to appear on the eve of battle, a warrior whose threadbare robes hide crimson armour, and who bears an axe of gleaming brass. Some claim he is one of the Emperor’s own sons, who comes to bolster His righteous warriors before a great battle. Others say he is an omen of doom, a portent of the endless slaughter to come, and death to any who lay eyes upon him.",
+   "ru": ""
+  },
+  "62": {
+   "en": "In truth, he is @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.7RBUr5GqvTTAfxfc]{Mizrax Tallian}, a warrior and an orator, a swearer of dread oaths and a tool of Khorne, Lord of Slaughter. Mizrax is an anomaly, for he is often subtle in his ways and unpredictable in his appearances. This is a far cry from most servants of Khorne, who typically favour direct assault over every other approach, and who revile trickery in all its forms. Mizrax is no stranger to slaughter, and his axe has claimed a respectable number of skulls for his master, but his strength lies elsewhere.",
+   "ru": ""
+  },
+  "66": {
+   "en": "Mizrax has a sense for impending conflict that borders on the peternatural. He knows when bloodshed is coming, and precisely where he should be to expand and inflame it. In the weeks before a mighty battle, Mizrax will appear, arriving by means known only to himself. He will then find a means to ensconce himself among the soldiers to take part in the coming battle, taking on whatever guise is best to do so. He may appear as a @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5Bx7K8k9VgjOZmA4]{Ministorum} preacher, a minor officer just recently transferred, or a simple mercenary offering his services to those in need of them.",
+   "ru": ""
+  },
+  "70": {
+   "en": "Once he is firmly entrenched, he will begin to spread the worship of Khorne, at first organising training bouts between soldiers, then assuaging the fear that naturally arises in the days before combat by instilling a lust for battle and bloodshed that most naive commanders see as quite commendable.",
+   "ru": ""
+  },
+  "74": {
+   "en": "Once battle is joined, the truth often reveals itself — those who have given themselves over to @UUID[.XvrTcOyogUXcVtrJ]{Mizrax}’s teachings are mighty warriors, but they know neither restraint nor temperance in their pursuit of blood. Orders are ignored, allies are ruthlessly overrun, and every chance at a tactical advantage or strategic gain is ignored in favour of endless slaughter. His duty done, Mizrax inevitably disappears, on his way to the next battleground. Among those few of his proteges who survive, a nascent blood cult forms, often subsuming whole regiments in worship of the Blood God. Thus has he earned the title, Herald of Blood.",
+   "ru": ""
+  },
+  "78": {
+   "en": "Mizrax’s very existence is a question that has riven Inquisitorial Conclaves, and indeed any discussion of him seems to lead to disagreement and often violent conflict. Though sightings would suggest he is a mortal man, his presence has been recorded at battles as far back as the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#the-macharian-heresy]{Macharian Heresy} itself, suggesting he is centuries old. Many Inquisitors have claimed to have slain @UUID[.XvrTcOyogUXcVtrJ]{Mizrax}, only for him to appear once more on the eve of a great battle, years later and a dozen worlds away. Some suggest that his identity may be a title rather than that of a single individual, while others think him a daemon rather than a mortal servant of the Ruinous Powers.",
+   "ru": ""
+  },
+  "82": {
+   "en": "Resources",
+   "ru": ""
+  },
+  "86": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.7RBUr5GqvTTAfxfc]{Mizrax} arrives on worlds bearing little more than an axe and a thirst for bloodshed, but he quickly builds a band of @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.dPJKFex2tEKcZevv]{devoted followers}. He is unusually charismatic and considered for a follower of the Blood God, able to talk his way out of difficult questions as to his identity, drawing the fearful and the violent to him with ease. Any who would confront Mizrax should do so quickly, for otherwise they may quickly find themselves facing a well-armed, capable group of warriors. He is also unusually skilled at finding his way to the site of a coming battle, slipping into voidships unseen or stowing away amidst ordinary soldiers on their way to the fight.",
+   "ru": ""
+  },
+  "90": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.7RBUr5GqvTTAfxfc]{Mizrax} undoubtedly has the favour of Khorne and is a fine warrior by any mortal standard. More unusual is his gift for sowing strife and discord among his enemies — any discussion of Mizrax quickly descends into disagreement. Some within the Inquisition have guessed at this dark gift, but it is naturally difficult to discuss it in any reasonable way. Only blanks or powerfully gifted psykers are immune to this effect, and characters discussing Mizrax should make a ",
+   "ru": ""
+  },
+  "92": {
+   "en": "Challenging (+0) Discipline (Composure)",
+   "ru": ""
+  },
+  "94": {
+   "en": " Test to avoid finding everything being said about him by others to be intensely disagreeable.",
+   "ru": ""
+  },
+  "98": {
+   "en": "Methods",
+   "ru": ""
+  },
+  "102": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.7RBUr5GqvTTAfxfc]{Mizrax} moves often, travelling from battlefield to battlefield, sowing the word of Khorne among common soldiers wherever he can. He usually begins by offering useful training and advice — he is a skilful warrior and well-versed in combat — and reassurance to the fearful. He preaches of the glory of combat, the joy of overcoming one's foes, and the simple purity of slaughter in the name of… Well, Mizrax rarely lies, but he does allow people to draw their own conclusions from his words. Many take him for a particularly devout and militant follower of the Imperial Creed, and this is a guise he has worn often.",
+   "ru": ""
+  },
+  "106": {
+   "en": "Once he has established a loyal band of @UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.dPJKFex2tEKcZevv]{followers} among the rank-and-file, Mizrax will begin to turn his attention to the officer corp, targetting those with the authority to change battlefield plans. He encourages close engagement and brutal melee over all else, and artillery crews will often find themselves reassigned to front-line combat, aircraft will be grounded, and all other considerations ignored within the corrupted officer's zone area of responsibility. Though Mizrax’s influence has surely won some battles, it has doubtless lost a great many wars.",
+   "ru": ""
+  },
+  "110": {
+   "en": "Secrets",
+   "ru": ""
+  },
+  "114": {
+   "en": "@UUID[.XvrTcOyogUXcVtrJ]{Mizrax }is indeed a mortal man, one whose life has been inexplicably prolonged during his service to Khorne. In fact, he was once an advisor to General @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#machariuss-generals]{Borgan Crassus}, and commander of the 26th regiment of the Harakoni Warhawks. On Adrantis V, during brutal attritional warfare, Mizrax proved his valour over and over again, leaving a wake of victories — and bodies — behind him. When morale appeared to falter, it was Mizrax who bolstered it, speaking of the glory of war and the mighty victory that they would inevitably win once the planet was liberated. When, appalled at the losses suffered during the Adrantis Campaign, @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW]{Lord Solar Macharius} ordered the world all but shattered by a diverted comet, Mizrax was left a broken man. Every sacrifice, every victory, every death was rendered meaningless by unthinking megatons of ice and rock. Into his broken soul poured the fury and bloodlust of Khorne. Of all of Crassus’ closest advisors, only Mizrax turned traitor during the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.X5EFP7IgIUx6CaBW#the-macharian-heresy]{Macharian Heresy} that followed Macharius’ death. Facing death, Mizrax chose to serve his new-found master in other ways and has been doing so ever since.",
+   "ru": ""
+  },
+  "118": {
+   "en": "Though all this occurred centuries ago, there remains something of that honourable soldier in Mizrax’s heart. If the Herald of Blood could be reminded of this, though it would not change his dedication to Khorne, it may well cause him to falter just long enough to land a killing blow.",
+   "ru": ""
+  }
+ }
+}

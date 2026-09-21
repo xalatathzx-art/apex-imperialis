@@ -3,7 +3,7 @@
   "name": "Ambull",
   "type": "npc",
   "_id": "kjKWREhbiGjlvhkT",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Tunneler",
       "type": "trait",
       "_id": "p3SKQOo6Cd6rvau5",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Claws & Bite",
       "type": "weapon",
       "_id": "kHvRwMzzuVtYkwMJ",
-      "img": "modules/impmal-core/assets/icons/weapons/melee-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
       "system": {
         "notes": {
           "player": "",

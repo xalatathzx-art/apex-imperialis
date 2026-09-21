@@ -1,0 +1,141 @@
+{
+ "journal": "UHAAGHOTknUiUTUj",
+ "journalName": "Familiars",
+ "page": "CXjCudhmpd5uT0Yj",
+ "pageName": "Familiar Bestiary",
+ "name": "Бестиарий фамильяров",
+ "runs": {
+  "8": {
+   "en": "An alternative to creating a Familiar from scratch, players can choose from a wide selection of creatures within the Familiar Bestiary. Among them are some of the galaxy’s most iconic creatures, from Cyber-Mastifs to Psyber-Eaglers or even the enigmatic Jokaero.",
+   "ru": "Вместо того чтобы создавать фамильяра с нуля, игроки могут выбрать из множества существ в бестиарии фамильяров. Среди них — одни из самых узнаваемых созданий галактики, от кибермастифов до псиберорлов и даже загадочных жокаэро."
+  },
+  "12": {
+   "en": "Should the player wish, Familiars presented here can learn additional Talents and be upgraded into Cyber- or Psyber-Familiars (if they haven’t been already). Many of these Familiars are more advanced than what can be created using the @UUID[.YTjT0gYfJiYRSTIZ]{rules}, some have unique Traits and Attacks, but their advancement is reflected in their additional or reduced cost. Some of the following Stat-blocks could easily represent creatures of a similar type to what they’re based on. The Psyber-Eagle, for example, could easily represent a Psyber-Raven or Psyber-Owl instead.",
+   "ru": "При желании игрока представленные здесь фамильяры могут изучать дополнительные таланты и улучшаться до кибер- или псиберфамильяров (если они ещё не таковы). Многие из этих фамильяров совершеннее тех, что можно создать по @UUID[.YTjT0gYfJiYRSTIZ]{правилам}, у некоторых есть уникальные свойства и атаки, но их развитие отражено в повышенной или сниженной стоимости. Некоторые из следующих профилей легко могут представлять существ, похожих на те, на которых они основаны. Например, псиберорёл вполне может изображать псиберворона или псиберсову."
+  },
+  "24": {
+   "en": "Familiars",
+   "ru": "Фамильяры"
+  },
+  "36": {
+   "en": "Name",
+   "ru": "Название"
+  },
+  "44": {
+   "en": "Cost",
+   "ru": "Цена"
+  },
+  "52": {
+   "en": "Avail",
+   "ru": "Доступность"
+  },
+  "66": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.vOMZqNUtEm6Sjlne]{Cherubim}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.vOMZqNUtEm6Sjlne]{Херувим}"
+  },
+  "70": {
+   "en": "15000",
+   "ru": "15000"
+  },
+  "74": {
+   "en": "Scarce",
+   "ru": "Необычная"
+  },
+  "82": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.mVvzTcb8LJKDroT7]{Cyber-Mastiff}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.mVvzTcb8LJKDroT7]{Кибермастиф}"
+  },
+  "86": {
+   "en": "10000",
+   "ru": "10000"
+  },
+  "90": {
+   "en": "Rare",
+   "ru": "Редкая"
+  },
+  "98": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.znpt8HSpu0OndcLV]{Gyrinx}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.znpt8HSpu0OndcLV]{Гиринкс}"
+  },
+  "102": {
+   "en": "25000",
+   "ru": "25000"
+  },
+  "106": {
+   "en": "Exotic",
+   "ru": "Диковинная"
+  },
+  "114": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.5GFrOdow4KVmWJDO]{Jokaero}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.5GFrOdow4KVmWJDO]{Жокаэро}"
+  },
+  "118": {
+   "en": "30000",
+   "ru": "30000"
+  },
+  "122": {
+   "en": "Exotic",
+   "ru": "Диковинная"
+  },
+  "130": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.ZSHlRo5aAi1cXOS3]{Multi-Task Servitor}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.ZSHlRo5aAi1cXOS3]{Многозадачный сервитор}"
+  },
+  "134": {
+   "en": "12000",
+   "ru": "12000"
+  },
+  "138": {
+   "en": "Scarce",
+   "ru": "Необычная"
+  },
+  "146": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.X5Wbej4NfgrZrvGc]{Multi-Task Servo-Skull}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.X5Wbej4NfgrZrvGc]{Многозадачный сервочереп}"
+  },
+  "150": {
+   "en": "5000",
+   "ru": "5000"
+  },
+  "154": {
+   "en": "Scarce",
+   "ru": "Необычная"
+  },
+  "162": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.jQjVkmnGPda3x519]{Psyber-Eagle}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.jQjVkmnGPda3x519]{Псиберорёл}"
+  },
+  "166": {
+   "en": "10000",
+   "ru": "10000"
+  },
+  "170": {
+   "en": "Scarce",
+   "ru": "Необычная"
+  },
+  "178": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.GxJbWONanlhYhMC1]{Razorwing}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.GxJbWONanlhYhMC1]{Острокрыл}"
+  },
+  "182": {
+   "en": "25000",
+   "ru": "25000"
+  },
+  "186": {
+   "en": "Rare",
+   "ru": "Редкая"
+  },
+  "194": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.eYskYCJT8lPCxoTF]{Wyvach}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-actors.Actor.eYskYCJT8lPCxoTF]{Вивах}"
+  },
+  "198": {
+   "en": "35000",
+   "ru": "35000"
+  },
+  "202": {
+   "en": "Exotic",
+   "ru": "Диковинная"
+  }
+ }
+}

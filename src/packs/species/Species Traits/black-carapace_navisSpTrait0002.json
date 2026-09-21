@@ -2,7 +2,7 @@
   "name": "Black Carapace",
   "type": "trait",
   "_id": "navisSpTrait0002",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder003",
   "sort": 200,
   "system": {

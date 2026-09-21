@@ -2,7 +2,7 @@
   "name": "Warp Disruption",
   "type": "talent",
   "_id": "malExpTal0000223",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">Manifest tests in your zone have Warp Rating +1 and sustaining psychic powers in your zone requires (free action) sustain check</span></p><hr><p><span style=\"font-family: Arial\"><em>Any Psychic Power being manifested within your zone increases its Warp Rating by 1, and any Psyker currently sustained a Psychic Power within Short Range of you must test to continue sustaining it as a Free Action. If you take this Talent again, Daemons within Short Range of you must make a Difficult (-10) Willpower Test at the start of their turn as long as they remain within Short Range of you. If they fail this test, they are suffer 3 + WilB Damage that ignores Armor. </em></span></p>",

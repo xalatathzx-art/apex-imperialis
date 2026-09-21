@@ -1,0 +1,337 @@
+{
+ "journal": "r6clx5uYnIpkdaRq",
+ "journalName": "Between Missions",
+ "page": "z9PTik4AMrYlbVhR",
+ "pageName": "Inquisition Individual Endeavours",
+ "name": "Личные занятия Инквизиции",
+ "runs": {
+  "8": {
+   "en": "The pursuits of acolytes are frequently varied and eclectic, as strange a lot as the specialities of the acolytes themselves. Common threads exist, however, and frequently relate to the control of knowledge, allies, and power. Another common focus for activities is the study of others, both allies and enemies. An array of activities built around these common themes is provided in this section for characters to pursue between their missions on behalf of the Inquisition.",
+   "ru": "VIII МЕЖДУ ЗАДАНИЯМИ\nПоддерживатьколоссальнуюагентурнуюсетьнепросто,\nно без неё аколит сможет получать нужные сведения\nтолько самолично отправляясь в каждую горячую\nточку.\nПерсонаж предпринимает среднюю (+0) проверку\nВзаимопонимания (Сбор сведений). В случае успеха он\nможет выбрать один бонус, который будет действовать\nтолько на протяжении следующего задания:\n0 Влияние персонажа на определённую"
+  },
+  "12": {
+   "en": "Condemn Nemesis",
+   "ru": "службу\nвозрастёт"
+  },
+  "16": {
+   "en": "You dedicate yourself to destroying a particular foe, scouring any available lore to learn their weaknesses, or customising wargear into your nemesis’ anathema.",
+   "ru": "на +1.\n0 Персонаж получает влияние 1 на одну новую\nслужбу.\nПровал на три ступени или больше означает, что\nосведомителей персонажа поймала"
+  },
+  "20": {
+   "en": "Cultivating extremely dangerous enemies is an occupational hazard for Inquisitors and acolytes alike. Fortunately, they have access to bespoke equipment and knowledge they can tailor towards individual adversaries. An acolyte may seek out fragments of a daemon’s true name, concoct biological toxins coded to a creature’s genetic makeup, or dig up family shames to make their taunts extra personal.",
+   "ru": "«контрразведка»,\nи на допросе они выдали, на кого работали. По\nрешению ведущего персонаж теряет единицу влияния\nс этой службой вместо того, чтобы получить его, либо\nвся группа теряет часть секретности.\nСЛУГ ИНКВИЗИЦИИ\nАколиты могут заниматься самыми разными и самыми\nстранными делами – не менее разнообразными, чем\nсами аколиты. Впрочем, в них есть"
+  },
+  "24": {
+   "en": "The character specifies a specific enemy when they choose this Endeavour. This must be an individual, not a general enemy type (e.g. a specific Genestealer Patriarch, not Genestealers or their cults in general). Until the next downtime period, if the character meets this enemy, they immediately gain 2 Superiority. If they do not encounter their nemesis until a time beyond that, they immediately gain 1 Superiority instead. These benefits cease to apply if the enemy adapts to the character’s existing tactics or any special wargear they use is no longer available.",
+   "ru": "нечто общее –\nчасто хлопоты слуг Инквизиции связаны с поисками\nсоюзников, знаний и власти. Другое общее место –\nизучение своих врагов и союзников. В этом разделе\nописаны тематичные занятия, которым члены\nИнквизиции могут предаваться между заданиями.\nПодготовка к схватке\nВы тратите время на охоту за конкретным врагом,\nизучаете его слабости или работаете над своим\nснаряжением, чтобы сделать его более полезным в бою\nс этим противником.\nПоявление особенно опасных врагов –\nпрофессиональный риск"
+  },
+  "28": {
+   "en": "Cultivate Network",
+   "ru": "инквизиторов и"
+  },
+  "32": {
+   "en": "You expand your sphere of intelligence by recruiting new spies and commissioning reports from existing assets. It is said the Inquisition’s eyes are everywhere, but in reality, Inquisitors are not as omniscient as they wish, compared to what the oppressed Imperial masses believe. Recruiting new agents, processing reports, monitoring surveillance, and intercepting communications sector-wide requires tireless effort.",
+   "ru": "аколитов. К\nсчастью, они могут полагаться на специальное\nснаряжение и знания, которые подскажут, как\nсправиться с таким противником. Аколит может\nразыскивать частицы истинного имени демона,\nсоставлять биологические токсины, смертельные для\nносителя определённого генокода, или искать в\nродословной врага тайны, что сделают насмешки более\nболезненными.\nПредаваясь"
+  },
+  "36": {
+   "en": "Handling this colossal intelligence network is daunting, but there is no surer way for an acolyte to become informed besides visiting a flashpoint themselves.",
+   "ru": "этому занятию, персонаж указывает,\nпротив кого он будет работать. Это должен быть не\nтип врагов, а конкретный его представитель"
+  },
+  "40": {
+   "en": "The character makes a ",
+   "ru": "(например,\nопределённый"
+  },
+  "42": {
+   "en": "Challenging (+0) Rapport (Inquiry)",
+   "ru": "патриарх генокрадов, а не"
+  },
+  "44": {
+   "en": " Test. If they succeed, they choose one of the following benefits to apply for the next mission only:",
+   "ru": "«генокрады»\nили «культы генокрадов»). Если персонаж повстречает\nэтого врага до следующего"
+  },
+  "52": {
+   "en": "The character’s Influence Level with a chosen Faction increases by 1.",
+   "ru": "перерыва между заданиями,\nон немедленно получит два очка"
+  },
+  "60": {
+   "en": "The character gains an Influence value of 1 with a new Faction.",
+   "ru": "превосходства. Если\nон не встретит этого врага в такой"
+  },
+  "68": {
+   "en": "If the Test fails at −3 SL or more, the character’s informants are captured by a faction’s counter-intelligence operatives and interrogated until their paymaster is revealed. At the GM’s discretion, the character reduces their Influence by 1 with the relevant faction instead of increasing it, or the slip-up negatively affects their party’s @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Subtlety}.",
+   "ru": "срок, то немедленно\nполучитодноочко превосходства.Этотбонуспропадёт,\nесли враг приспособиться к тактике персонажа или\nсам герой утратит специальное снаряжение, на которое\nполагался.\nРазвитие агентурной сети\nВы расширяете сферу своего влияния, вербуя новых\nагентов и получая доклады от старых. Говорят, что у\nСвятых Ордосов везде есть глаза, но на деле\nинквизиторы не так всеведущи, какхотели бы, или как\nверят @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{Subtlety}"
+  },
+  "72": {
+   "en": "Erase Truth",
+   "ru": "угнетённые"
+  },
+  "76": {
+   "en": "You eliminate remaining trace evidence of heresy, corruption, and the Inquisition to preserve the blessed ignorance of the Emperor’s subjects.",
+   "ru": "массы. Анализ докладов, вербовка\nосведомителей,изучениематериаловслежкииперехват\nпосланий по всему сектору требуют огромных"
+  },
+  "80": {
+   "en": "Knowledge is power, and the Inquisition does not tolerate rivals to its authority. As such, none in the Imperium are permitted to know as much as the Inquisition, with knowledge of the organisation itself being the most dangerous and forbidden of all. In the aftermath of Inquisitorial operations, acolytes may protect their identities by cleansing surveillance, redacting records, and silencing witnesses, acting by their ultimate authority to protect themselves and their work. The moral cost of such drastic action is high. Yet, the Inquisition’s doctrines state that morality only impedes righteousness, and few acolytes dare question it.",
+   "ru": "усилий.\n\nVIII МЕЖДУ ЗАДАНИЯМИ\nПредаваясь этому занятию, персонаж может изменить\nодинизбоевыхинстинктовилиинстинктоввыживания\nфамильяра (стр. 110). Также он может выбрать\nодного из своих фамильяров и предпринять среднюю\n(+0) проверку Взаимопонимания (Животные) или\nТехники (Аугметика) в зависимости от того, является\nвыбранный фамильяр конструктом или зверем. За\nкаждый успех фамильяр получает 10 очков опыта,\nкоторые может потратить на улучшения и таланты.\nПолные правила фамильяров и их применения см. в\nглаве VI (стр. 100).\nЗащита от скверны\nОжидая испытаний,"
+  },
+  "84": {
+   "en": "The character makes a Test to cover up evidence of their previous mission. Which Skill is appropriate depends on the mission and the approach the characters adopted in the aftermath, but ",
+   "ru": "вы готовите свои разум и тело к\nуловкам Врага внутреннего, Врага внешнего и Врага\nпотустороннего, и делаете всё возможное, чтобы их\nкозни не навредили"
+  },
+  "86": {
+   "en": "Challenging (+0) Presence (Intimidation)",
+   "ru": "вам.\nПодготовка ко встрече с"
+  },
+  "90": {
+   "en": " Stealth (Conceal)",
+   "ru": "ужасами, что"
+  },
+  "92": {
+   "en": ", or",
+   "ru": "угрожают\nИмпериуму,"
+  },
+  "94": {
+   "en": " Tech (Security)",
+   "ru": "тяжела, но"
+  },
+  "96": {
+   "en": " Tests are commonly appropriate.",
+   "ru": "последствия поражения"
+  },
+  "100": {
+   "en": "If the character succeeds, they gain Advantage on all future Tests to deny or conceal their involvement in the previous mission. In addition, when the character Tests to persuade another person to accept their (likely fraudulent) account of what happened in the previous mission, they gain +1 SL.",
+   "ru": "могут\nбыть ещё тяжелее. Истощающий режим приёма\nпрепаратов, молитв и постов или их сочетание с более\nэзотерическими мерами помогает человеку обострить\nдуховную стойкость. Эти превентивные меры даруют\nзащиту, которой может оказаться достаточно, чтобы\nвернуться"
+  },
+  "104": {
+   "en": "Familiar Training",
+   "ru": "с задания"
+  },
+  "108": {
+   "en": "Life is no easier in the Imperium for animals than it is for the multitudes of man; anyone seeking to care for a Familiar, to ensure they are healthy, and the bond between Master and Familiar remains strong, will need to put in significant time to ensure they are a fit and able tool to aid them in their missions.",
+   "ru": "чистым и невредимым.\nПредаваясь этому занятию, персонаж понижает своё\nмаксимальное количество ран на Х до начала\nследующего промежутка между заданиями. Величину\nХ персонаж выбирает сам, но Х не может превышать\nбонус Выносливости – так выражается то, что\nперсонаж сам"
+  },
+  "112": {
+   "en": "A character with one or more Familiars must undertake this Endeavour at least once between every two missions. If a character has multiple Familiars, taking this Endeavour covers the training for all of them at once. If neglected, each Familiar suffers a −10 penalty to all Tests they make until the next time they take this Endeavour — as it takes too long for the creature to register a command, hesitates, malfunctions, or simply refuses to listen.",
+   "ru": "определяет, насколько суровыми будут\nпринятые им меры зашиты. За каждое очко, на которое\nперсонаж понизил максимум ран, он получает одну\nпопытку аннулировать воздействие на себя источника\nпорчи. При контакте с источником порчи он может\nпредпринять проверку Дисциплины (Самообладание)\nили Стойкости (Боль). В случае успеха скверна не\nсумеет пустить в нём корни. Сложность проверки\nзависит от"
+  },
+  "116": {
+   "en": "During this Endeavor, the character can change one of the Familiar’s Combat or Preservation @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.UHAAGHOTknUiUTUj.JournalEntryPage.YTjT0gYfJiYRSTIZ]{Instincts}. They may also choose one of their Familiars. If that Familiar is a Construct, they make a ",
+   "ru": "источника: малый источник требует средней\n(+0) проверки, средний источник – трудной (-10)\nпроверки, а серьёзный источник – очень сложной (-30)\nпроверки.\nУничтожение правды\nВы ликвидируете оставшиеся следы ереси, порчи и\nвмешательства Инквизиции, чтобы подданные\nИмператора и дальше @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.UHAAGHOTknUiUTUj.JournalEntryPage.YTjT0gYfJiYRSTIZ]{Instincts}"
+  },
+  "118": {
+   "en": "Challenging (+0) Tech (Augmetics)",
+   "ru": "пребывали в блаженном\nневедении.\nЗнание"
+  },
+  "120": {
+   "en": " Test. If that Familiar is a Beast, they make a ",
+   "ru": "– это сила и власть, а Инквизиция не"
+  },
+  "122": {
+   "en": "Challenging (+0) Rapport (Animals)",
+   "ru": "терпит\nсоперников своей"
+  },
+  "124": {
+   "en": " Test. For each SL Achieved, the Familiar gains 10 XP it can spend on Advances and Talents. For complete information on Familiars and how to use them, see @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.UHAAGHOTknUiUTUj.JournalEntryPage.BWMw4bzQxBwJjUIm]{Chapter VI: Familiars}.",
+   "ru": "власти. Никому во всём Империуме\nне открыто столько, сколько Святым Ордосам, да и\nсамо знание об этой организации опасно и запретно.\nЗакончив расследование, аколиты могут попытаться\nобезопасить себя и свой труд, уничтожив касающиеся\nих материалы, отредактировав @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.UHAAGHOTknUiUTUj.JournalEntryPage.BWMw4bzQxBwJjUIm]{Chapter VI: Familiars}"
+  },
+  "128": {
+   "en": "Fortify Sanctity",
+   "ru": "документы и"
+  },
+  "138": {
+   "en": "Anticipating the trials that lie ahead, you brace your mind and body to be subject to the wiles of the Enemies Within, Without, and Beyond and make what preparations you can to emerge unscathed.",
+   "ru": "заставив\nсвидетелей замолчать. С этической точки зрения цена\nтаких мер высока, но доктрины Инквизиции гласят,\nчто этика лишь мешает работе, и мало какой аколит\nосмелится"
+  },
+  "142": {
+   "en": "The preparation process to confront the horrors that threaten the Imperium is arduous, although nothing so severe as the consequences of failing to resist them. A gruelling regimen of medicae, prayer and fasting, or some combination of these and even more esoteric methods, causes the practitioner to achieve a heightened sense of spiritual resilience. This battery of preventative measures creates a bulwark that may prove enough to see them return from their missions unscathed by the sinister power of their foes.",
+   "ru": "возражать.\nЧтобы скрыть сведения о прошлом задании, персонаж\nпредпринимает проверку. Какое умение он задействует\n– зависит от того, что было за задание, и как аколит\nсобирается заметать следы, но самые расхожие\nварианты – это средние (+0) проверки Командования\n(Запугивания), Скрытности(Маскировки)и Техники\n(Безопасности).\nВ случае успеха персонаж получает преимущество на\nвсе будущие проверки, призванные скрыть или\nотрицать своё вмешательство в события"
+  },
+  "146": {
+   "en": "Upon taking this Endeavour, the character selects the severity of their preparations. They may reduce their Maximum Wounds by an amount up to their Toughness Bonus for the next mission, suffering the reduction until their next downtime period. For each point reduced in their Maximum Wounds, the character may attempt to nullify a single Exposure to Corruption on their next mission with a ",
+   "ru": "того задания.\nКроме того, когда персонаж убеждает другого человека\nповеритьвего(скореевсеголживый)рассказособытиях\nпрошлого задания, он получает +1 успех.\nОбучение фамильяра\nЖизнь животных в Империуме не легче, чем жизнь\nлюдей; любой, кто держит фамильяра, должен\nзаботиться о его здоровье и крепости уз с хозяином,\nдабы он и дальше служил"
+  },
+  "148": {
+   "en": "Discipline (Composure)",
+   "ru": "ценным подспорьем,"
+  },
+  "150": {
+   "en": " or ",
+   "ru": "а для\nэтого"
+  },
+  "152": {
+   "en": "Fortitude (Pain)",
+   "ru": "потребуется"
+  },
+  "154": {
+   "en": " Test. The Difficulty of the Test is based on the severity of the exposure: ",
+   "ru": "немало времени.\nЕслиуперсонажаестьодинилинесколькофамильяров,\nон"
+  },
+  "156": {
+   "en": "Challenging (+0)",
+   "ru": "обязан предаваться"
+  },
+  "158": {
+   "en": " for a @Corruption[minor]{Minor Exposure}, ",
+   "ru": "этому занятию хотя бы раз в\nдва @Corruption[minor]{Minor Exposure}"
+  },
+  "160": {
+   "en": "Difficult (−10)",
+   "ru": "промежутка"
+  },
+  "162": {
+   "en": " for a @Corruption[moderate]{Moderate Exposure}, or ",
+   "ru": "между заданиями. Если у персонажа\nнесколько @Corruption[moderate]{Moderate Exposure}"
+  },
+  "164": {
+   "en": "Very Hard (−30)",
+   "ru": "фамильяров,"
+  },
+  "166": {
+   "en": " for a @Corruption[major]{Major Exposure}. Success on the test means the character’s preparations prevent the Corruption from taking root.",
+   "ru": "одно занятие подразумевает\nработу со всеми сразу. Если о фамильяре забыть, он\nполучит штраф -10 на все проверки, @Corruption[major]{Major Exposure}"
+  },
+  "170": {
+   "en": "Litanies of Recollection",
+   "ru": "который\nсохранится до"
+  },
+  "174": {
+   "en": "In high-stakes and stressful investigations, in a place so cluttered with information as the Imperium, it’s easy for acolytes to miss or overlook clues. Acolytes should take the time to meditate, reflect on what they’ve learned so far, or revisit scenes or witnesses to glean new context. This may allow them to realise that they have missed important clues, see connections between clues that may not have been obvious, or otherwise recall information that will assist in moving their investigations, and the campaign, forward.",
+   "ru": "тех пор, пока хозяин не воспользуется\nэтим занятием. Это вызвано тем, что животное хуже\nпонимаетприказы,сомневается,поступаетнеправильно\nили вовсе отказывается подчиняться.\n\nVIII МЕЖДУ ЗАДАНИЯМИ\nПросьба о наставлении\nТребования: влияние 2 или выше на Инквизицию\nВы обращаетесь к вышестоящим членам Святых\nОрдосов за информацией, надеясь, что ваша просьба\nдостаточно важна, чтобы открыто испытывать их\nтерпение. У инквизиторов мало времени, и они могут\nтратить только"
+  },
+  "178": {
+   "en": "The character makes a ",
+   "ru": "на самые важные и"
+  },
+  "180": {
+   "en": "Hard (−20) Logic (Investigation)",
+   "ru": "срочные дела, и не\nпотерпят"
+  },
+  "182": {
+   "en": " Test, or any other the GM deems appropriate relating to aspects of the investigation. For each positive SL achieved, the GM confirms a link between two clues, highlights a clue the characters may have overlooked, or reveals a new clue they missed altogether. If multiple characters choose to undertake this Endeavour simultaneously, they can @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#help]{help} each other make the Test.",
+   "ru": "тех, кто отнимает его.\nЧтобы самому запросить и получить аудиенцию у\nинквизитора, потребуется средняя (+0) проверка\nВзаимопонимания (Сбор сведений). Для встречи с\nдознавателем или недружественным вам инквизитором\nпотребуется аналогичная сложная (-20) проверка. В\nслучае провала вас отчитывают за то, что вы без толку\nтратите время вышестоящих.\nПомните, что успех означает лишь то, что вы\nполучаете полезный, но краткий доступ к @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.xf46pBDy93sT0ZDl#help]{help}"
+  },
+  "186": {
+   "en": "Mental Sanitisation",
+   "ru": "агентурной\nсети"
+  },
+  "190": {
+   "en": "You cleanse your mind and soul by subjecting yourself to the scourging process of Imperial re-education. Acolytes confront appalling, existentially horrifying dangers in their missions, the pressure of which can shatter their conditioned loyalty to the Inquisition and leave them easy prey to the Ruinous Powers. Characters wary of the looming dangers can temporarily forestall their doom by correcting their deviant thoughts with psycho-spiritual treatments. The processes are as varied as they are unpleasant: telepathic mind wipes; pharmaceutically-induced amnesia; hypno-suggested conditioning; or Ecclesiarchy-observed flagellation. Only the tremendously fortunate will be prescribed anything as prosaic as rest.",
+   "ru": "Инквизиции. Игрок, чей персонаж предаётся\nэтому занятию, может задать ведущему Х вопросов,\nгде Х – это его показатель влияния на Инквизицию.\nЕсли ведущий сочтёт, что собеседник может обладать\nнужным знанием, а у персонажа достаточно высокий\nдоступ, он выдаст те сведения, что считает уместными.\nОмоложение\nТребования: чтобы воспользоваться этим занятием,\nнеобходимо потратить 5000 соляров или обладать\nвлиянием +3 или выше на Инквизицию или иную\nподходящую службу.\nВы принимаете курс медицинских препаратов, что\nпродлевают срок жизни и вызывают кратковременный\nвсплеск жизненных сил. Если вы достаточно богаты\nили влиятельны, чтобы"
+  },
+  "194": {
+   "en": "The character removes 1 point of @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.PuzopCeKzYgcYAwh]{Corruption}, then makes a ",
+   "ru": "позволить себе такое лечение,\nадепты-омолодители обеспечат вам несколько лишних\nдесятилетий или даже веков. Множество диковинных\nалхимических препаратов @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.PuzopCeKzYgcYAwh]{Corruption}"
+  },
+  "196": {
+   "en": "Challenging (+0) Fortitude (Pain)",
+   "ru": "замедлят естественное\nстарение"
+  },
+  "198": {
+   "en": " or ",
+   "ru": "и искусственно"
+  },
+  "200": {
+   "en": "Discipline (Composure)",
+   "ru": "придадут вам"
+  },
+  "202": {
+   "en": " Test. If they succeed, they may remove an additional point of Corruption. For the duration of the next mission, the character reduces their Maximum Wounds by 2 due to the physical trauma they sustained in the sanitisation process.",
+   "ru": "бодрость\nмолодости. Хотя цена может быть велика, а побочные\nэффекты – ужасны, большинство инквизиторов и их\nдоверенных аколитов считают, что дело того стоит."
+  },
+  "206": {
+   "en": "Petition for Guidance",
+   "ru": "В\nтакомопасномсекторечленыСвятыхОрдосовслишком\nзаняты,"
+  },
+  "218": {
+   "en": "Requirement",
+   "ru": "чтобы умирать.\nНапротяженииследующегозаданиявашемаксимальное\nколичество"
+  },
+  "220": {
+   "en": ": Influence of 2 or Greater with the Inquisition.",
+   "ru": "ран повышается на 2. Также"
+  },
+  "224": {
+   "en": "You reach out to your superiors in the Inquisition for more information, hoping your need is great enough not to overly test their patience. They can spare only limited time for all but the most urgent tasks and are ruthless to those who waste their time.",
+   "ru": "ваша\nестественная продолжительность жизни возрастает на\n1к100 лет.\nЛитании размышлений\nВ важных и напряжённых расследованиях, идущих в\nтаком перегруженном информацией месте, как\nИмпериум, очень легко пропустить какие-то"
+  },
+  "228": {
+   "en": "Reaching out to an Inquisitor without prior instruction requires a ",
+   "ru": "улики\nили забыть о деталях. Аколитам стоит найти время"
+  },
+  "230": {
+   "en": "Challenging (+0) Rapport (Inquiry)",
+   "ru": "на\nспокойные рассуждения,"
+  },
+  "232": {
+   "en": " Test to secure an audience, while approaching another ranking member of the Inquisition, such as an Interrogator or rival Inquisitor, requires a ",
+   "ru": "обдумать всё, что они нашли,\nещё раз побывать на местах преступлений или задать\nновые вопросы свидетелям. Иногда это"
+  },
+  "234": {
+   "en": "Hard (−20) Rapport (Inquiry)",
+   "ru": "помогает\nсыщикам"
+  },
+  "236": {
+   "en": " Test. In failure, they are rebuked for wasting the time of their betters.",
+   "ru": "осознать, что они пропустили, увидеть\nнеочевидные связи между"
+  },
+  "240": {
+   "en": "However, success grants them a brief but valuable window to access the information network of the Inquisition. The player whose character is taking the Endeavour should present the GM with a number of questions up to their Influence with the Inquisition. If the GM deems the knowledge reasonable for the superior to possess and the character has sufficient clearance, the information is granted in whatever way feels appropriate.",
+   "ru": "уликами или иным образом\nузнать что-то, что поможет продвинуть вперёд\nрасследование и общий сюжет.\nПерсонажи предпринимает сложную (-20) проверку\nЛогики (Следствия) или любую другую, которую\nведущий сочтёт уместной в текущем расследовании.\nЗа каждый набранный успех ведущий подтверждает\nсвязь между двумя уликами, указывает на улики, что\nперсонажи могли пропустить, или раскрывает"
+  },
+  "244": {
+   "en": "Rejuvenat Treatment",
+   "ru": "новые.\nЕсли этому"
+  },
+  "250": {
+   "en": "Requirement",
+   "ru": "занятию"
+  },
+  "252": {
+   "en": ": Taking this Endeavour costs 5,000 Solars unless the character has Influence with the Inquisition or another relevant Faction at a level of 3 or higher.",
+   "ru": "предаётся несколько персонажей\nодновременно, они помогут помочь друг другу в броске\n(стр. 189 книги правил).\nДуховное очищение\nВы очищаете"
+  },
+  "256": {
+   "en": "You submit to a pharmaceutical programme that extends your natural life in the long term and boosts your vitality in the short term. For those wealthy or influential enough to afford the treatment, the care of rejuvenat adepts can extend a mortal lifespan by decades or centuries. A cocktail of alchemical curios combat the natural degradation of Human bodily processes and generate artificial energy boosts that restore youth’s vivacity within the subject. Though the costs are exorbitant and the side effects brutal, most Inquisitors and highly-valued acolytes consider the trade-off worth it. In a sector as dangerous as this, Inquisitors are simply too busy to die.",
+   "ru": "разум и душу, повергая себя суровой\nэкзекуции. Аколит, столкнувшиеся с отталкивающим,\nэкзистенциальным ужасом, несёт бремя воспоминаний,\nчто могут сломать его верность Инквизиции и\nсделать лёгкой добычей Губительных сил. Персонажи,\nзнающие о нависшей над ними опасности, могут\nотсрочить погибель, избавив себя от опасных и мыслей\nчерез духовно-психические процедуры. Они бывают\nразными, но никогда не бывают приятными – это\nтелепатическая чистка разума, вызванная лекарствами\nамнезия, гипновнушение или самобичевание под\nприсмотром Экклезиархии. Лишь самым удачливым\nназначают нечто столь прозаичное, как"
+  },
+  "260": {
+   "en": "For the duration of the next mission, the character increases their Maximum Wounds by 2. The character also extends their natural lifespan by 1d100 years.",
+   "ru": "отдых и покой.\nПерсонаж снимает одно очко порчи (стр. 220 книги\nправил), затем предпринимает среднюю(+0)проверку\nСтойкости(Боль)или"
+  },
+  "264": {
+   "en": "Secure Information Network",
+   "ru": "Дисциплины(Самообладание).\nВ"
+  },
+  "268": {
+   "en": "You take steps to ensure that the knowledge you trade in travels in only one direction, searching for weak links amongst your contacts. Information only known to yourself is significantly more valuable than open knowledge or secrets revealed to the public or your enemies. To avoid such situations and prevent the rise of double agents within your ranks, you must monitor your contacts secretly and apply pressure where needed.",
+   "ru": "случае успеха он может немедленно снять ещё одно\nочко порчи. На протяжении следующего задания\nперсонаж снижает максимальное количество своих\nран на 2 – так сказываются травмы, полученные в ходе\nочищения."
+  },
+  "272": {
+   "en": "When taking this Endeavour, the character selects up to three of their Contacts in the same Faction and makes a ",
+   "ru": "VIII МЕЖДУ ЗАДАНИЯМИ Поддерживатьколоссальнуюагентурнуюсетьнепросто, но без неё аколит сможет получать нужные сведения только самолично отправляясь в каждую горячую точку. Персонаж предпринимает среднюю (+ ) проверку Взаимопонимания (Сбор сведений). В случае успеха он может выбрать один бонус, который будет действовать только на протяжении следующего задания:   Влияние персонажа на определённую службу возрастёт на + .   Персонаж получает влияние   на одну новую службу. Провал на три ступени или больше означает, что осведомителей персонажа поймала «контрразведка», и на допросе они выдали, на кого работали. По решению ведущего персонаж теряет единицу влияния с этой службой вместо того, чтобы получить его, либо вся группа теряет часть секретности. СЛУГ ИНКВИЗИЦИИ Аколиты могут заниматься самыми разными и самыми странными делами – не менее разнообразными, чем сами аколиты. Впрочем, в них есть нечто общее – часто хлопоты слуг Инквизиции связаны с поисками союзников, знаний и власти. Другое общее место – изучение своих врагов и союзников. В этом разделе описаны тематичные занятия, которым члены Инквизиции могут предаваться между заданиями. Подготовка к схватке Вы тратите время на охоту за конкретным врагом, изучаете его слабости или работаете над своим снаряжением, чтобы сделать его более полезным в бою с этим противником. Появление особенно опасных врагов – профессиональный риск инквизиторов и аколитов. К счастью, они могут полагаться на специальное снаряжение и знания, которые подскажут, как справиться с таким противником. Аколит может разыскивать частицы истинного имени демона, составлять биологические токсины, смертельные для носителя определённого генокода, или искать в родословной врага тайны, что сделают насмешки более болезненными. Предаваясь этому занятию, персонаж указывает, против кого он будет работать. Это должен быть не тип врагов, а конкретный его представитель (например, определённый патриарх генокрадов, а не «генокрады» или «культы генокрадов»). Если персонаж повстречает этого врага до следующего"
+  },
+  "274": {
+   "en": "Challenging (+0) Rapport (Inquiry)",
+   "ru": "перерыва между заданиями, он немедленно получит два очка превосходства. Если он не встретит этого врага в такой срок, то немедленно получитодноочко превосходства.Этотбонуспропадёт, если враг приспособиться к тактике персонажа или сам герой утратит специальное снаряжение, на которое полагался. Развитие агентурной сети Вы расширяете сферу своего влияния, вербуя новых агентов и получая доклады от старых. Говорят, что у Святых Ордосов везде есть глаза, но на деле инквизиторы не так всеведущи, какхотели бы, или как верят угнетённые массы. Анализ докладов, вербовка осведомителей,изучениематериаловслежкииперехват посланий"
+  },
+  "278": {
+   "en": "Presence (Intimidation)",
+   "ru": "по всему сектору требуют огромных усилий.   VIII МЕЖДУ ЗАДАНИЯМИ Предаваясь этому занятию, персонаж может изменить одинизбоевыхинстинктовилиинстинктоввыживания фамильяра (стр.  ). Также он может выбрать одного из своих фамильяров и предпринять среднюю (+ ) проверку Взаимопонимания (Животные) или Техники (Аугметика) в зависимости от того, является выбранный фамильяр конструктом или зверем. За каждый успех фамильяр"
+  },
+  "282": {
+   "en": "Stealth (Conceal)",
+   "ru": "получает   очков опыта, которые может потратить на улучшения и таланты. Полные правила фамильяров и их применения см. в главе VI (стр.  ). Защита от скверны Ожидая испытаний, вы готовите свои разум и тело к уловкам Врага внутреннего, Врага внешнего и Врага потустороннего, и делаете всё возможное, чтобы их"
+  },
+  "284": {
+   "en": ", or ",
+   "ru": "козни не навредили вам. Подготовка ко встрече с ужасами, что угрожают Империуму, тяжела, но"
+  },
+  "286": {
+   "en": "Tech (Security)",
+   "ru": "последствия поражения могут быть ещё тяжелее. Истощающий режим приёма препаратов, молитв и постов или их сочетание с более эзотерическими мерами помогает человеку обострить духовную стойкость. Эти превентивные меры даруют защиту, которой может оказаться достаточно, чтобы"
+  },
+  "288": {
+   "en": " Test. For every −2 SL, the character must choose one of those Contacts and reduce their influence with that individual by 1, as their investigation is discovered. On a success, they learn the highest Influence each Contact has, plus an additional Influence possessed by each Contact for each SL past the first — learning who might sway the loyalties of these Contacts.",
+   "ru": "вернуться с задания чистым и невредимым. Предаваясь этому занятию, персонаж понижает своё максимальное количество ран на Х до начала следующего промежутка между заданиями. Величину Х персонаж выбирает сам, но Х не может превышать бонус Выносливости – так выражается то, что персонаж сам определяет, насколько суровыми будут принятые им меры зашиты. За каждое очко, на которое персонаж понизил максимум ран, он получает одну попытку аннулировать воздействие на себя источника порчи. При контакте с источником порчи он может предпринять проверку Дисциплины (Самообладание) или Стойкости (Боль). В случае успеха скверна не сумеет пустить в нём корни. Сложность проверки зависит от источника: малый источник требует средней (+ ) проверки, средний источник – трудной (- ) проверки, а серьёзный источник – очень сложной (- ) проверки. Уничтожение правды Вы ликвидируете оставшиеся следы ереси, порчи и вмешательства Инквизиции, чтобы подданные Императора и дальше пребывали в блаженном неведении. Знание – это сила и власть, а Инквизиция не терпит соперников своей власти. Никому во всём Империуме не открыто столько, сколько Святым Ордосам, да и само знание об этой организации опасно и запретно. Закончив расследование, аколиты могут попытаться обезопасить себя и свой труд, уничтожив касающиеся их материалы, отредактировав документы и заставив свидетелей замолчать. С этической точки зрения цена таких мер высока, но доктрины Инквизиции гласят, что этика лишь мешает работе, и мало какой аколит осмелится возражать. Чтобы скрыть сведения о прошлом задании, персонаж предпринимает проверку. Какое умение он задействует – зависит от того, что было за задание, и как аколит собирается заметать следы, но самые расхожие варианты – это средние (+ ) проверки Командования (Запугивания), Скрытности(Маскировки)и Техники (Безопасности). В случае успеха персонаж получает преимущество на все будущие проверки, призванные скрыть или отрицать своё вмешательство в события того задания. Кроме того, когда персонаж убеждает другого человека поверитьвего(скореевсеголживый)рассказособытиях прошлого задания, он получает +  успех. Обучение фамильяра Жизнь животных в Империуме не легче, чем жизнь людей; любой, кто держит фамильяра, должен заботиться о его здоровье и крепости уз с хозяином, дабы он и дальше служил ценным подспорьем, а для этого потребуется немало времени. Еслиуперсонажаестьодинилинесколькофамильяров, он обязан предаваться этому занятию хотя бы раз в два промежутка между заданиями. Если у персонажа несколько фамильяров, одно занятие подразумевает работу со всеми сразу. Если о фамильяре забыть, он получит штраф -  на все проверки, который сохранится до тех пор, пока хозяин не воспользуется этим занятием. Это вызвано тем, что животное хуже понимаетприказы,сомневается,поступаетнеправильно или вовсе отказывается подчиняться.   VIII МЕЖДУ ЗАДАНИЯМИ Просьба о наставлении Требования: влияние   или выше на Инквизицию Вы обращаетесь к вышестоящим членам Святых Ордосов за информацией, надеясь, что ваша просьба достаточно важна, чтобы открыто испытывать их терпение. У инквизиторов мало времени, и они могут тратить только на самые важные и срочные дела, и не потерпят тех, кто отнимает его. Чтобы самому запросить и получить аудиенцию у инквизитора, потребуется средняя (+ ) проверка Взаимопонимания (Сбор сведений). Для встречи с дознавателем или недружественным вам инквизитором потребуется аналогичная сложная (- ) проверка. В случае провала вас отчитывают за то, что вы без толку тратите время вышестоящих. Помните, что успех означает лишь то, что вы получаете полезный, но краткий доступ к агентурной сети Инквизиции. Игрок, чей персонаж предаётся этому занятию, может задать ведущему Х вопросов, где Х – это его показатель влияния на Инквизицию. Если ведущий сочтёт, что собеседник может обладать нужным знанием, а у персонажа достаточно высокий доступ, он выдаст те сведения, что считает уместными. Омоложение Требования: чтобы воспользоваться этим занятием, необходимо потратить   соляров или обладать влиянием +  или выше на Инквизицию или иную подходящую службу. Вы принимаете курс медицинских препаратов, что продлевают срок жизни и вызывают кратковременный всплеск жизненных сил. Если вы достаточно богаты или влиятельны, чтобы позволить себе такое лечение, адепты-омолодители обеспечат вам несколько лишних десятилетий или даже веков. Множество диковинных алхимических препаратов замедлят естественное старение и искусственно придадут вам бодрость молодости. Хотя цена может быть велика, а побочные эффекты – ужасны, большинство инквизиторов и их доверенных аколитов считают, что дело того стоит. В такомопасномсекторечленыСвятыхОрдосовслишком заняты, чтобы умирать. Напротяженииследующегозаданиявашемаксимальное количество ран повышается на  . Также ваша естественная продолжительность жизни возрастает на  к  лет. Литании размышлений В важных и напряжённых расследованиях, идущих в таком перегруженном информацией месте, как Империум, очень легко пропустить какие-то улики или забыть о деталях. Аколитам стоит найти время на спокойные рассуждения, обдумать всё, что они нашли, ещё раз побывать на местах преступлений или задать новые вопросы свидетелям. Иногда это помогает сыщикам осознать, что они пропустили, увидеть неочевидные связи между уликами или иным образом узнать что-то, что поможет продвинуть вперёд расследование и общий сюжет. Персонажи предпринимает сложную (- ) проверку Логики (Следствия) или любую другую, которую ведущий сочтёт уместной в текущем расследовании. За каждый набранный успех ведущий подтверждает связь между двумя уликами, указывает на улики, что персонажи могли пропустить, или раскрывает новые. Если этому занятию предаётся несколько персонажей одновременно, они помогут помочь друг другу в броске (стр.   книги правил). Духовное очищение Вы очищаете разум и душу, повергая себя суровой экзекуции. Аколит, столкнувшиеся с отталкивающим, экзистенциальным ужасом, несёт бремя воспоминаний, что могут сломать его верность Инквизиции и сделать лёгкой добычей Губительных сил. Персонажи, знающие о нависшей над ними опасности, могут отсрочить погибель, избавив себя от опасных и мыслей через духовно-психические процедуры. Они бывают разными, но никогда не бывают приятными – это телепатическая чистка разума, вызванная лекарствами амнезия, гипновнушение или самобичевание под присмотром Экклезиархии. Лишь самым удачливым назначают нечто столь прозаичное, как отдых и покой. Персонаж снимает одно очко порчи (стр.   книги правил), затем предпринимает среднюю(+ )проверку Стойкости(Боль)или Дисциплины(Самообладание). В случае успеха он может немедленно снять ещё одно очко порчи. На протяжении следующего задания персонаж снижает максимальное количество своих ран на   – так сказываются травмы, полученные в ходе очищения."
+  }
+ }
+}

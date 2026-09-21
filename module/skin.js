@@ -7,10 +7,11 @@
  * character sheets the structure the stylesheet lays out.
  */
 
-import { refitTestCard, refitMessageHeader, refitItemPost, refitNpcSheet, refitWarp, refitEditorSections, refitAddEffect, refitChargen, refitChargenStage, refitAdvancement } from "./refit.js";
+import { refitTestCard, refitMessageHeader, refitItemPost, refitNpcSheet, refitWarp, refitEditorSections, refitAddEffect, refitChargen, refitChargenStage, refitAdvancement, usesNpcSheet } from "./refit.js";
 import { refitHordeCard, refitHordeRow } from "./horde/index.js";
 import { refitCharacterSheet } from "./refit-character.js";
 import { refitVehicleSheet } from "./refit-vehicle.js";
+import { specialisationTotal } from "./skill-specialisations.js";
 import { SPECIES_TYPE, SUBSPECIES_TYPE } from "./species/index.js";
 
 /** Last warp bar width per actor, so a re-render can animate from it. */
@@ -94,6 +95,15 @@ function labels() {
     influence: t("IMPMAL.Influence"),
     standing: t("NAVIS.Sheet.Standing"),
     group: t("NAVIS.Sheet.Group"),
+
+    // Фамильяр: инстинкты. Полные названия — «Инстинкт самосохранения» и
+    // «Боевой инстинкт» — не встают подписью над выпадашкой в треть строки,
+    // поэтому над ней короткая форма, а полная остаётся подсказкой. Тот же
+    // приём, что у показателей НИП и брони техники.
+    preservationShort: t("NAVIS.Sheet.PreservationShort"),
+    combatShort: t("NAVIS.Sheet.CombatShort"),
+    preservationInstinct: t("IMPMAL.PreservationInstinct"),
+    combatInstinct: t("IMPMAL.CombatInstinct"),
 
     // Combat tab
     armament: t("NAVIS.Sheet.Armament"),
@@ -306,6 +316,7 @@ function characterData(actor) {
   };
   return {
     criticals: actor.system.combat?.criticals,
+    dodge: specialisationTotal(actor, "reflexes", "Dodge"),
     species: speciesData(actor),
     armour: id => Number(actor.items.get(id)?.system?.armour),
     location: uuid => {
@@ -345,9 +356,12 @@ Hooks.on("renderActorSheetV2", (app, element) => {
   // заметок есть у персонажа, НИП, покровителя и машины. Пас общий, поэтому
   // стоит до разбора типа: свернуть пустую секцию нужно на любом листе.
   refitEditorSections(element);
-  if (actor?.type === "npc") {
+  // Фамильяр из impmal-inquisition — отдельный тип актёра на анкете НИП, так
+  // что пас выбирается по разметке, а не по типу. Орда — исключение: это
+  // механика НИП, у фамильяра такого поля нет.
+  if (usesNpcSheet(element)) {
     refitNpcSheet(element, labels());
-    refitHordeRow(element, actor);
+    if (actor?.type === "npc") refitHordeRow(element, actor);
   }
   else if (actor?.type === "character") refitCharacterSheet(element, labels(), characterData(actor));
   else if (actor?.type === "vehicle") refitVehicleSheet(element, labels());

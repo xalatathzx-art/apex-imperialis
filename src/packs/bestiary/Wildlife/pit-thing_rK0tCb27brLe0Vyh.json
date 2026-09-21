@@ -3,7 +3,7 @@
   "name": "Pit Thing",
   "type": "npc",
   "_id": "rK0tCb27brLe0Vyh",
-  "img": "modules/impmal-core/assets/tokens/unknown.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
   "system": {
     "characteristics": {
       "ws": {
@@ -206,7 +206,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "modules/impmal-core/assets/tokens/unknown.webp",
+      "src": "modules/navis-apexialis/assets/impmal-core/tokens/unknown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -246,7 +246,7 @@
       "name": "Aura of Hate",
       "type": "trait",
       "_id": "lr7HiKRkf3hlrHsO",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -306,7 +306,7 @@
       "name": "Utterly Terrifying",
       "type": "trait",
       "_id": "aS0fH5EEg14TIcpo",
-      "img": "modules/impmal-core/assets/icons/blank.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/blank.webp",
       "system": {
         "notes": {
           "player": "",
@@ -366,7 +366,7 @@
       "name": "Claws",
       "type": "weapon",
       "_id": "Do3JD61rztPeHmI1",
-      "img": "modules/impmal-core/assets/icons/weapons/melee-weapon.webp",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
       "system": {
         "notes": {
           "player": "",

@@ -2,7 +2,7 @@
   "name": "Эфирные Жилы",
   "type": "navis-apexialis.implant",
   "_id": "navisImp00000055",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisImpFld00004",
   "sort": 5500,
   "system": {

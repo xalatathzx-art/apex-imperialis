@@ -1,0 +1,261 @@
+{
+ "journal": "UHAAGHOTknUiUTUj",
+ "journalName": "Familiars",
+ "page": "Vil8B54FxAl0jFcZ",
+ "pageName": "Training A Familiar",
+ "name": "Обучение фамильяра",
+ "runs": {
+  "2": {
+   "en": "With time and proper care, a Familiar can become a formidable creature in its own right, excelling in its ordained role. Though they require a great deal of training, they repay their Master’s efforts with unquestionable loyalty, dedication, and genuine friendship; a rare commodity in the 41st Millennium.",
+   "ru": "Со временем и при должном уходе фамильяр может стать грозным существом сам по себе, превосходно справляясь с предназначенной ему ролью. Хотя ему нужно много тренироваться, он вознаграждает старания хозяина беспрекословной преданностью, самоотдачей и искренней дружбой — редким товаром в 41-м тысячелетии."
+  },
+  "6": {
+   "en": "The Price Of Loyalty",
+   "ru": "Цена преданности"
+  },
+  "10": {
+   "en": "Newly purchased Familiars are assumed to be previously trained to follow and obey their Master and can immediately begin to play alongside them. The Master must take charge of all further training. A Character with one or more Familiars must undertake the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.z9PTik4AMrYlbVhR#familiar-training]{Familiar Training} Endeavour at least once between every two missions. Neglecting training risks a Familiar failing at a critical moment; if left too long, a −10 penalty is applied to all of the Familiar’s Tests, as it takes too long to register a command, hesitates, malfunctions, or simply refuses to listen.",
+   "ru": "Считается, что только что купленные фамильяры уже обучены следовать за хозяином и подчиняться ему и могут сразу вступить в игру вместе с ним. Всё дальнейшее обучение хозяин должен взять на себя. Персонаж с одним или несколькими фамильярами должен браться за занятие @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.r6clx5uYnIpkdaRq.JournalEntryPage.z9PTik4AMrYlbVhR#familiar-training]{«Обучение фамильяра»} хотя бы раз за каждые два задания. Пренебрежение тренировками грозит тем, что фамильяр подведёт в решающий момент; если запустить обучение слишком надолго, ко всем проверкам фамильяра применяется штраф −10: он слишком долго соображает, что ему приказали, медлит, сбоит или просто не слушается."
+  },
+  "14": {
+   "en": "Familiar Talents",
+   "ru": "Таланты фамильяров"
+  },
+  "18": {
+   "en": "Although Familiars tend to favour a specific role, their Master can further tailor the niche they fill with additional training. The following Talents can only be purchased for Familiars. It costs 100 XP (of the Master’s or the Familiar’s combined XP) to gain a new Talent, following the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.ZoyVpQ2Wtbz5JA3x]{same rules} for player characters.",
+   "ru": "Хотя фамильяры обычно склонны к определённой роли, хозяин может дополнительным обучением ещё точнее настроить их под нужную нишу. Следующие таланты можно покупать только фамильярам. Новый талант стоит 100 ОО (из общего опыта хозяина или фамильяра) и приобретается по @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.ZoyVpQ2Wtbz5JA3x]{тем же правилам}, что и для персонажей игроков."
+  },
+  "22": {
+   "en": "General Familiar Talents",
+   "ru": "Общие таланты фамильяров"
+  },
+  "26": {
+   "en": "These Talents are available to all Familiar types.",
+   "ru": "Эти таланты доступны фамильярам любого типа."
+  },
+  "30": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.j9Qm1hohRB3sKXiQ]{Entwined Fates}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.j9Qm1hohRB3sKXiQ]{Сплетённые судьбы}"
+  },
+  "34": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.4CitwoyGBiPvcgLz]{Indomitable}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.4CitwoyGBiPvcgLz]{Неукротимый}"
+  },
+  "38": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.x01YBy6OaAgywEPs]{Inflicting Attack}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.x01YBy6OaAgywEPs]{Накладывающая атака}"
+  },
+  "42": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.D5IQ6TB7JzTIo0JF]{Judge Of Character}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.D5IQ6TB7JzTIo0JF]{Знаток характеров}"
+  },
+  "46": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.lSq43WaQHTpeV5Vc]{Natural Implements}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.lSq43WaQHTpeV5Vc]{Природное оружие}"
+  },
+  "50": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.89gc3DA1j41FCBqH]{Rite Of Fortification}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.89gc3DA1j41FCBqH]{Обряд укрепления}"
+  },
+  "54": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.c5xA80JT17k7DQ3v]{Uncanny Bond}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.c5xA80JT17k7DQ3v]{Сверхъестественная связь}"
+  },
+  "60": {
+   "en": "Core Talents",
+   "ru": "Таланты основной книги"
+  },
+  "64": {
+   "en": "Familiars may purchase the following listed @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.ZoyVpQ2Wtbz5JA3x]{Talents} from ",
+   "ru": "Фамильяры могут покупать следующие @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.ZoyVpQ2Wtbz5JA3x]{таланты} из книги "
+  },
+  "68": {
+   "en": "Imperium Maledictum",
+   "ru": "Imperium Maledictum"
+  },
+  "72": {
+   "en": ", with the same functions and requirements outlined there. Talents not listed tend to require a measure of full sapience and cultural knowledge only available to player characters. But no one Familiar is the same as another — discuss with your GM if you find a Talent elsewhere that you think is suitable for your Familiar.",
+   "ru": " с теми же действием и требованиями, что указаны там. Не перечисленные таланты обычно требуют полноценного разума и культурных знаний, доступных только персонажам игроков. Но не бывает двух одинаковых фамильяров — обсудите с ведущим, если найдёте где-то ещё талант, который, по-вашему, подходит вашему фамильяру."
+  },
+  "78": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.WiHMdN6Z18qExOSs]{Acute Sense}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.WiHMdN6Z18qExOSs]{Обострённые чувства}"
+  },
+  "82": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.Y6uxJU4DSkAhInLb]{Disarm}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.Y6uxJU4DSkAhInLb]{Разоружение}"
+  },
+  "86": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.aGn9gv2Tk5ijUBsz]{Hit And Run}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.aGn9gv2Tk5ijUBsz]{Ударил-отступил}"
+  },
+  "90": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.QL5duoZzrZUgZnee]{Adrenaline Acceleration}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.QL5duoZzrZUgZnee]{Прилив адреналина}"
+  },
+  "94": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.fx0O2fkolBWBtcjM]{Distracting}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.fx0O2fkolBWBtcjM]{Бесцеремонный}"
+  },
+  "98": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.wAQPGvyAhD3xXucb]{Holdout Expert}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.wAQPGvyAhD3xXucb]{Потайные карманы}"
+  },
+  "102": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.kXb64Ub6lnmHHTGE]{Agile Attacks}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.kXb64Ub6lnmHHTGE]{Проворные удары}"
+  },
+  "106": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.rWtFlGbvQIt894Ff]{Drilled}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.rWtFlGbvQIt894Ff]{Боевое слаживание}"
+  },
+  "110": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.t7Bn85SD9ALvjQCH]{Inspiring Presence}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.t7Bn85SD9ALvjQCH]{Вдохновляющее присутствие}"
+  },
+  "114": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.ntymdPZ2ZikZMQoe]{Attentive Assistant}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.ntymdPZ2ZikZMQoe]{Заботливый помощник}"
+  },
+  "118": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.VfTqqLjouvL20ju9]{Dual Wielder}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.VfTqqLjouvL20ju9]{Парные клинки}"
+  },
+  "122": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.PGOft5lT1Ayt2wkd]{Lickspittle}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.PGOft5lT1Ayt2wkd]{Подхалим}"
+  },
+  "126": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.k8C1ELU0BtmblnxW]{Bone Breaker}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.k8C1ELU0BtmblnxW]{Костолом}"
+  },
+  "130": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.gA4E3advCZOPiOgR]{Duellist}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.gA4E3advCZOPiOgR]{Дуэлянт}"
+  },
+  "134": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.HRM5Nsi2y9F9Shbd]{Porter}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.HRM5Nsi2y9F9Shbd]{Носильщик}"
+  },
+  "138": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.dulCkHleuBo13Jai]{Bulwark}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.dulCkHleuBo13Jai]{Щитоносец}"
+  },
+  "142": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.iaPxPzO3we3oXSJk]{Ever Vigilant}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.iaPxPzO3we3oXSJk]{Всегда начеку}"
+  },
+  "146": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.o2agRFEakB6NB09v]{Quickdraw}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.o2agRFEakB6NB09v]{Быстрое выхватывание}"
+  },
+  "150": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.WTmX6OvD2dKAfLJ1]{Burglar}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.WTmX6OvD2dKAfLJ1]{Взломщик}"
+  },
+  "154": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.t4OTpobGkFSkottt]{Exploit Vulnerability}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.t4OTpobGkFSkottt]{Болевые точки}"
+  },
+  "158": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.ZevSYJiyN49duB0T]{Shock Assault}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.ZevSYJiyN49duB0T]{Неожиданный удар}"
+  },
+  "162": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.4TLQA0xONuQb5MuJ]{Close Quarters Discipline}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.4TLQA0xONuQb5MuJ]{Огневая дисциплина}"
+  },
+  "166": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.uGLoQPBRcavMTZXn]{False Retreat}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.uGLoQPBRcavMTZXn]{Ложное отступление}"
+  },
+  "170": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.FGtjHfixuOKtRWRA]{Skulker}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.FGtjHfixuOKtRWRA]{По пятам}"
+  },
+  "174": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.C4qz5xdqvEPUt9Un]{Combat Master}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.C4qz5xdqvEPUt9Un]{Мастер рукопашной}"
+  },
+  "178": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.STJxawkgrHLSZpq3]{Familiar Terrain}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.STJxawkgrHLSZpq3]{Я здесь как дома}"
+  },
+  "182": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.JzeoXcBD3dcZzxNU]{Slippery}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.JzeoXcBD3dcZzxNU]{Отскок}"
+  },
+  "186": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.ctcyvZNuGavWRW71]{Contortionist}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.ctcyvZNuGavWRW71]{Человек-змея}"
+  },
+  "190": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.6qd7xH1i8o1pLUC3]{Flanking Fire}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.6qd7xH1i8o1pLUC3]{Фланкирующий огонь}"
+  },
+  "194": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.eHytpMtz4a7SzfHO]{Suppressing Fire}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.eHytpMtz4a7SzfHO]{Огонь на подавление}"
+  },
+  "198": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.ZrLSxT3bAVvSDann]{Counter Attack}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.ZrLSxT3bAVvSDann]{Контратака}"
+  },
+  "202": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.NuhnhASUgwxv5Eup]{Full-auto Fanatic}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.NuhnhASUgwxv5Eup]{Фанатичный обстрел}"
+  },
+  "206": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.zPZuVKWfZ21IO98X]{Sure-footed}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.zPZuVKWfZ21IO98X]{Незыблемый}"
+  },
+  "210": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.Zj59ZE9Q1pDBTIkW]{Coup De Grâce}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.Zj59ZE9Q1pDBTIkW]{Последний удар}"
+  },
+  "214": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.i7ZHAB4l2wYrQLSR]{Frenzy}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.i7ZHAB4l2wYrQLSR]{Неистовство}"
+  },
+  "218": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.Te254iTyJkwBk53f]{Tactical Movement}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.Te254iTyJkwBk53f]{Тактическое передвижение}"
+  },
+  "222": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.yaLYVLB3Mani31Bw]{Deadeye}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.yaLYVLB3Mani31Bw]{Орлиный глаз}"
+  },
+  "226": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.Qgizt0UEKSP5zVtr]{Guardian}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.Qgizt0UEKSP5zVtr]{Спаситель}"
+  },
+  "230": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.TT6Y595FYMinTVlu]{Tenacious}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.TT6Y595FYMinTVlu]{Живучий}"
+  },
+  "234": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.FFdHQLnPUis8UEj3]{Directed Strikes}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.FFdHQLnPUis8UEj3]{Точные удары}"
+  },
+  "238": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.wzrkE4YFunm2Uc7O]{Gunslinger}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.wzrkE4YFunm2Uc7O]{Акимбо}"
+  },
+  "242": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.OsFKx2UtEhBlVgCG]{Unremarkable}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.OsFKx2UtEhBlVgCG]{Непримечательный}"
+  },
+  "246": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.L2PvRyivXFydM2Lb]{Dirty Fighting}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.L2PvRyivXFydM2Lb]{Грязный бой}"
+  },
+  "250": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.EZpa8JdH0cJHLExD]{Hatred}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.EZpa8JdH0cJHLExD]{Ненависть}"
+  },
+  "254": {
+   "en": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.a7cLKEWjEi9X3Bxp]{Void Legs}",
+   "ru": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.a7cLKEWjEi9X3Bxp]{Походка пустохода}"
+  }
+ }
+}

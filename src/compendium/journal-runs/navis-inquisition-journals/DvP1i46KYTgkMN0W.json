@@ -1,0 +1,45 @@
+{
+ "journal": "brh2O5CexxurRbM7",
+ "journalName": "The Inquisition",
+ "page": "DvP1i46KYTgkMN0W",
+ "pageName": "Philosophies",
+ "name": "",
+ "runs": {
+  "2": {
+   "en": "Inquisitors are a diverse group of individuals, each with their own beliefs and goals that drive their methods. Their philosophical views land somewhere between the scale of Puritan and Radical, and it is common for an Inquisitor’s philosophy to shift towards one of these extremes given time and the ever more terrible decisions they face.",
+   "ru": ""
+  },
+  "6": {
+   "en": "An Inquisitor’s philosophy may be a private matter, a set of beliefs that privately influence their actions, or it might prompt them to join a group or faction of like-minded individuals. Depending on how Radical a philosophy is, its followers may have to keep it a secret, especially from their peers within the Holy Orders. So while on the surface an Inquisitor shares the goals of their Ordo, they likely have their own furtive agenda they are working on beneath the surface.",
+   "ru": ""
+  },
+  "10": {
+   "en": "Always remember that an Inquisitor believes they are doing the right thing for the Imperium through the lens of their Puritan or Radical philosophy; this is a core ideal and driving force for any Inquisitor. Their philosophy should not drive them to act selfishly or for characteristically malevolent reasons.",
+   "ru": ""
+  },
+  "14": {
+   "en": "During @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.ZzHsqdssD6GJyhDE]{Inquisitor Patron creation}, discuss with your players what Philosophy their Patron should follow and whether they lean more Puritan or Radical. Options presented in the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.ZzHsqdssD6GJyhDE.JournalEntryPage.lFT1A8eGYjmaOne2]{Inquisition Player’s Guide} and their accompanying summaries are good starting points, but this section fleshes out the existing and more esoteric options.",
+   "ru": ""
+  },
+  "18": {
+   "en": "If players are unsure or undecided, feel free to introduce their Patron’s Philosophy further down the line once they have had a chance to explore the setting and run a few missions, or feel free to roll on the @UUID[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.1gzUacqcHeN4JwkK]{Inquisition Philosophies} Table to determine it randomly. A Patron’s Philosophy can be a significant part of their general mystique. Discuss with your players if they want to know their Philosophy upfront. They may grant you carte blanche to choose one on their behalf to better suit the stories you want to tell. Remember, it is not uncommon for Radical Inquisitors to present themselves in a more Puritan light to survive, then dramatically reveal their true Philosophy later. On the other hand, Puritan Inquisitors can appear just as unhinged as some Radical counterparts, the purity they strive for taking a toll upon them, or imbued with sheer fervor for the tenets they follow.",
+   "ru": ""
+  },
+  "22": {
+   "en": "All to say, an Inquisitor of one stance can easily be mistaken for the other, which is another tool you can use to build their Patron’s character.",
+   "ru": ""
+  },
+  "26": {
+   "en": "A Patron’s Philosophy guides what variety of stories your players wish to explore. In terms of Inquisitor Patron creation, Philosophy replaces Motivation but fulfils the same drive. While characters investigate the Inquisition’s threats, aspects of their Patron’s Philosophy quietly bubble away in the background. Their Philosophy can act as the setup for entire missions or buildup to your campaign’s grand finale, where their Patron might achieve their Philosophy’s goals or see their hopes dashed — by their enemies or even by the players’ hands.",
+   "ru": ""
+  },
+  "30": {
+   "en": "From a character’s perspective, often more concerned with their survival, a Patron’s Philosophy primarily represents ways they could get into trouble. Consider how you react to a player character’s decisions from their Patron’s point of view. Whether a character’s beliefs align with their Patron’s is up to the player at hand — but do they even have the power to oppose or work around what their Inquisitor demands of them? How would their Patron punish them for disobeying the tenets of their Philosophy? You will need to figure out these aspects, but staying consistent in these manners will undoubtedly enrich their Patron’s character.",
+   "ru": ""
+  },
+  "38": {
+   "en": "@TableHTML[Compendium.navis-apexialis.navis-inquisition-tables.RollTable.1gzUacqcHeN4JwkK]{Philosophy}",
+   "ru": ""
+  }
+ }
+}

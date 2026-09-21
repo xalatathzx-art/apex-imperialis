@@ -1,0 +1,197 @@
+{
+ "journal": "QbQ7dTzbEVJyBLXJ",
+ "journalName": "Interminable Devotion",
+ "page": "u9wPwSqM2FTyo8pg",
+ "pageName": "Dramatis Personae",
+ "name": "Действующие лица",
+ "runs": {
+  "2": {
+   "en": "The ",
+   "ru": " "
+  },
+  "4": {
+   "en": "Interminable Devotion",
+   "ru": "«Нескончаемая преданность»"
+  },
+  "6": {
+   "en": " shelters some two hundred souls from the storm-wracked darkness beyond its walls. Some are major players who influence the ebb and flow of power upon the craft, while others fade into the faceless morass of downtrodden souls. Each major character holds information that can inform the party of @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré}’s presence and agenda. ",
+   "ru": " укрывает около двух сотен душ от истерзанной бурями тьмы за её стенами. Одни — важные фигуры, от которых зависят приливы и отливы власти на борту, другие растворяются в безликой массе забитых душ. У каждого важного персонажа есть сведения, которые могут подсказать отряду о присутствии и замыслах @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерика Нетекаре}. "
+  },
+  "10": {
+   "en": "Apart from these characters, the ",
+   "ru": "Помимо этих персонажей, экипаж "
+  },
+  "12": {
+   "en": "Interminable Devotion",
+   "ru": "«Нескончаемой преданности»"
+  },
+  "14": {
+   "en": " is crewed by a mix of menials (@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{Manufactorum Labourers}), @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.px7pplClKR01chqM]{Servitors}, @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.vds8HRa533wcv1Pq]{Administratum Adepts}, and @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZIodTiyH9W5QBRU9]{Astra Militarum Troopers}.",
+   "ru": " составляют чернорабочие (@UUID[Compendium.navis-apexialis.navis-core-actors.Actor.qBvBctGcZoWcW7Tz]{рабочие с мануфакторума}), @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.px7pplClKR01chqM]{сервиторы}, @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.vds8HRa533wcv1Pq]{адепты Администратума} и @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZIodTiyH9W5QBRU9]{солдаты Астра Милитарум}."
+  },
+  "18": {
+   "en": "Curator Varness",
+   "ru": "Куратор Варнесс"
+  },
+  "22": {
+   "en": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.Dhe0z7z8c9ZFDeM0 description=top table=true style=width:70%;margin:auto;]{Curator Varness}",
+   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.Dhe0z7z8c9ZFDeM0 description=top table=true style=width:70%;margin:auto;]{Куратор Варнесс}"
+  },
+  "26": {
+   "en": "Roleplaying the Curator ",
+   "ru": "Отыгрыш куратора "
+  },
+  "30": {
+   "en": "As this is her first senior post, the Curator is eager to do well and to put forward an air of authority and unflappable leadership. However, she fears that she is far out of her depth. Initially, she is curt and to the point, providing only the information the party needs and supplying what is requested in as few words as possible. As the adventure moves on and pressure builds, the cracks in her mask begin to show. She becomes prone to barking orders and stumbling over her words.",
+   "ru": "Это её первая высокая должность, и куратор стремится проявить себя, изображая властность и невозмутимое руководство. Однако она боится, что взялась за дело себе не по силам. Поначалу она резка и говорит по существу: сообщает отряду лишь необходимое и выдаёт запрошенное, тратя как можно меньше слов. По мере развития приключения и роста напряжения маска даёт трещины. Она всё чаще срывается на крик, отдавая приказы, и путается в словах."
+  },
+  "34": {
+   "en": "The Curator takes to plying herself with amasec, resulting in an acrid smell that follows her like a cloud. She harbours an incredible fear of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.41XgDdxnZ76elnvr]{Inquisition}, heightened due to the effects of @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré}’s @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{chemical communion}. If the party’s Patron is an Inquisitor, and Varness becomes aware of this fact, she aims to avoid speaking to the party, making it evident that she is hiding something. If pressed, she swiftly cracks and provides the clue below.",
+   "ru": "Куратор начинает накачиваться амасеком, и за ней, словно облако, тянется едкий запах. Она испытывает невероятный страх перед @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.41XgDdxnZ76elnvr]{Инквизицией}, усиленный действием @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химического причастия} @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерика Нетекаре}. Если покровитель отряда — инквизитор и Варнесс узнаёт об этом, она старается избегать разговоров с персонажами, и становится очевидно, что она что-то скрывает. Если на неё надавить, она быстро ломается и выдаёт зацепку ниже."
+  },
+  "40": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "44": {
+   "en": "Fearful of the Inquisition’s intervention, Varness destroyed almost all reports of strange phenomena recorded by the Devotion’s expedition and reported by the crew. The Curator then divulges that she formally held a low-ranking position and was given this assignment and rank by a mysterious benefactor. All paperwork was marked with a wax seal bearing the initials ‘V.N.’ (unaware it was Vesterick Nethecaré).",
+   "ru": "Опасаясь вмешательства Инквизиции, Варнесс уничтожила почти все отчёты о странных явлениях, зафиксированных экспедицией «Преданности» и доложенных экипажем. Затем куратор признаётся, что прежде занимала низкую должность, а это назначение и звание получила от таинственного благодетеля. Все бумаги были скреплены восковой печатью с инициалами «В. Н.» (она не знает, что это Вестерик Нетекаре)."
+  },
+  "50": {
+   "en": "Mathus-49",
+   "ru": "Мальтус-49"
+  },
+  "54": {
+   "en": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.rilaQaBPslIRzGco description=top table=true style=width:70%;margin:auto;]{Curator Varness}",
+   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.rilaQaBPslIRzGco description=top table=true style=width:70%;margin:auto;]{Мальтус-49}"
+  },
+  "58": {
+   "en": "Medicae Roderick",
+   "ru": "Медикус Родерик"
+  },
+  "62": {
+   "en": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.ncXwqNsh38L8CyRo description=top table=true style=width:70%;margin:auto;]{Medicae Roderick}",
+   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.ncXwqNsh38L8CyRo description=top table=true style=width:70%;margin:auto;]{Медикус Родерик}"
+  },
+  "66": {
+   "en": "Roleplaying Medicae Roderick",
+   "ru": "Отыгрыш медикуса Родерика"
+  },
+  "70": {
+   "en": "When roleplaying Medicae Roderick, you are roleplaying a disguise of @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré}. He has become a talented mimic and has had long years to perfect his guise as the kindly old Medicae, he can still occasionally slip into older, more typically highborn speech patterns. Medicae Roderick is helpful and understanding, eager to assist when troubles or ailments might be eased. As a result, he is a well-liked figure amongst the ",
+   "ru": "Отыгрывая медикуса Родерика, вы отыгрываете личину @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерика Нетекаре}. Он стал искусным подражателем и долгие годы оттачивал образ добродушного старого медикуса, хотя порой всё ещё сбивается на прежнюю, свойственную высокородным манеру речи. Медикус Родерик услужлив и понимающ, охотно помогает там, где можно облегчить беды или хвори. Поэтому он пользуется любовью среди экипажа "
+  },
+  "72": {
+   "en": "Devotion’s",
+   "ru": "«Преданности»"
+  },
+  "74": {
+   "en": " crew with a reputation for wisdom and warmth. Should he be questioned about advising @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{Varness} to destroy reports, he states truthfully that he felt it was in the expedition’s best interests. ",
+   "ru": " и славится мудростью и теплотой. Если его спросят, зачем он посоветовал @UUID[.u9wPwSqM2FTyo8pg#curator-varness]{Варнесс} уничтожить отчёты, он честно ответит, что считал это лучшим для экспедиции. "
+  },
+  "78": {
+   "en": "As the story progresses, @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Vesterick Nethecaré} usurps @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{Sergeant Drukos}’s identity to cover his tracks. Think of this as another mask behind which the same character you have been portraying already hides. You may even drop subtle hints after this event occurs, such as Drukos’s renowned grim demeanour being broken by the odd jovial remark or helpful offer as Vesterick Nethecaré struggles to break the habits of his former guise.",
+   "ru": "По ходу истории @UUID[.3BlX4i31o2Wez7vh#vesterick-nethecare]{Вестерик Нетекаре} присваивает личность @UUID[.u9wPwSqM2FTyo8pg#sergeant-drukos]{сержанта Друкоса}, чтобы замести следы. Считайте это ещё одной маской, за которой прячется тот же персонаж, которого вы уже отыгрываете. После этого события можно даже оставлять тонкие намёки — например, знаменитая мрачность Друкоса вдруг прерывается шутливым замечанием или предложением помощи: Вестерику Нетекаре трудно избавиться от привычек прежней личины."
+  },
+  "84": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "88": {
+   "en": "Should the players wish to cast a critical eye over Roderick, they may make a ",
+   "ru": "Если игроки захотят присмотреться к Родерику критически, они могут пройти "
+  },
+  "90": {
+   "en": "Routine (+20) Intuition (People)",
+   "ru": "Рутинную (+20) проверку Чутья (Люди)"
+  },
+  "92": {
+   "en": " Test. Upon success, they realise that on occasion, how the Medicae orders his words is somewhat elaborate, extravagant even, almost as if he were of noble birth.",
+   "ru": ". При успехе они понимают, что порой медикус строит фразы несколько витиевато, даже вычурно, — словно человек благородного происхождения."
+  },
+  "98": {
+   "en": "Menial Boris",
+   "ru": "Чернорабочий Борис"
+  },
+  "102": {
+   "en": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.XfuOWlQ5fvUgtElU description=top table=true style=width:70%;margin:auto;]{Menial Boris}",
+   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.XfuOWlQ5fvUgtElU description=top table=true style=width:70%;margin:auto;]{Чернорабочий Борис}"
+  },
+  "106": {
+   "en": "Old Hinji",
+   "ru": "Старый Хинджи"
+  },
+  "110": {
+   "en": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.qBvBctGcZoWcW7Tz description=top table=true style=width:70%;margin:auto;]{Old Hinji}",
+   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.qBvBctGcZoWcW7Tz description=top table=true style=width:70%;margin:auto;]{Старый Хинджи}"
+  },
+  "114": {
+   "en": "Roleplaying Old Hinji",
+   "ru": "Отыгрыш Старого Хинджи"
+  },
+  "118": {
+   "en": "Despite his impairments, Old Hinji is a jovial and animated fellow fond of chatter and eager to find ears to listen to him. He happily wiles away the hours discussing almost anything with anyone, especially when a strong drink is offered. He is also an infamous gambler, the only crewman to have never lost a game of ‘Dagger Counts’ in @UUID[.vC2n6yi7x19C9HvR#b2.-the-mess]{the Mess}.",
+   "ru": "Несмотря на свои увечья, Старый Хинджи — весёлый и живой малый, любитель поболтать, всегда ищущий свободные уши. Он охотно коротает часы, обсуждая почти что угодно с кем угодно, особенно если ему предложат выпить чего покрепче. Кроме того, он печально известный игрок — единственный член экипажа, ни разу не проигравший в «Счёт кинжалов» в @UUID[.vC2n6yi7x19C9HvR#b2.-the-mess]{столовой}."
+  },
+  "122": {
+   "en": "Most write off the old man’s attachment to @UUID[.vC2n6yi7x19C9HvR#b2.-the-mess]{the Mess} to his love of drinking and gambling; however, Old Hinji sticks close to the Mess because he fears being alone. Though unaware of his psychic potential, due to the effects of the @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{chemical communion}, he believes that a strange @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{acynadi }presence is calling out to him. Immersing himself in the chatter of the Mess drones out the worst of it. Yet many of these delusions persist and spinning them into tales is the only way he can manage to cope.",
+   "ru": "Большинство списывают привязанность старика к @UUID[.vC2n6yi7x19C9HvR#b2.-the-mess]{столовой} на его любовь к выпивке и азартным играм, однако Старый Хинджи держится поближе к столовой потому, что боится одиночества. Он не подозревает о своём психическом потенциале, но из-за действия @UUID[.3BlX4i31o2Wez7vh#chemical-communion]{химического причастия} верит, что его зовёт странное присутствие @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.Kz0WP5E5hu0eHF4O#the-acynadi]{ацинади}. Погружаясь в гомон столовой, он заглушает худшее. Но многие из этих бредней не отступают, и единственный способ с ними справиться — сплетать из них байки."
+  },
+  "126": {
+   "en": "Spending any significant time with Old Hinji, he tells the characters the following tale. ",
+   "ru": "Если провести со Старым Хинджи достаточно времени, он расскажет персонажам следующую байку. "
+  },
+  "132": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "136": {
+   "en": "‘There was a boy once… a boy that lived in high towers, sharp as knives and tall as the clouds. Yet the folk he lived with were sharper still, and they did away with this father and married his mother off to some lord or other… t’was his kin that did it… Wretched doings, and the boy never got over it. He spoke to the shadows that come about when you’re at that sort of business… but he never could feel any better, I think his mind ‘as gone a bit rotten now… poor lad… I just hope he doesn’t hurt anyone.’",
+   "ru": "«Жил-был как-то мальчик… мальчик, что жил в высоких башнях, острых, как ножи, и высоких, как облака. Да только люди, среди которых он жил, были ещё острее: они извели его отца, а мать выдали за какого-то там лорда… это родня его всё сделала… Гнусные дела, и мальчик так и не оправился. Он говорил с тенями, что приходят, когда занимаешься такими делами… да только легче ему не становилось, думаю, умишко у него теперь малость подгнил… бедняга… лишь бы он никому не навредил»."
+  },
+  "142": {
+   "en": "Scribe Hess",
+   "ru": "Писарь Хесс"
+  },
+  "146": {
+   "en": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.vds8HRa533wcv1Pq description=top table=true style=width:70%;margin:auto;]{Scribe Hess}",
+   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.vds8HRa533wcv1Pq description=top table=true style=width:70%;margin:auto;]{Писарь Хесс}"
+  },
+  "150": {
+   "en": "Sergeant Drukos",
+   "ru": "Сержант Друкос"
+  },
+  "154": {
+   "en": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.wyyOOGQNpAYh5Txm description=top table=true style=width:70%;margin:auto;]{Sergeant Drukos}",
+   "ru": "@Embed[Compendium.navis-apexialis.navis-voll-actors.Actor.wyyOOGQNpAYh5Txm description=top table=true style=width:70%;margin:auto;]{Сержант Друкос}"
+  },
+  "158": {
+   "en": "Roleplaying Sergeant Drukos",
+   "ru": "Отыгрыш сержанта Друкоса"
+  },
+  "168": {
+   "en": "Having secured such a lucrative contract for him and his men in an out-of-the-way place with so little risk feels almost too good to be true. As a result, Drukos takes his position as sergeant quite seriously, eager to get this mission done, enjoy his earnings and secure potential future employment. ",
+   "ru": "Такой выгодный контракт для него и его людей, в глуши и почти без риска, кажется слишком хорошим, чтобы быть правдой. Поэтому Друкос относится к своему сержантскому званию очень серьёзно: он стремится поскорее выполнить задание, насладиться заработком и обеспечить себе будущие заказы. "
+  },
+  "172": {
+   "en": "Yet all of this fine luck is not enough to lift his spirits. The threat of his past lingers like a ghost in the back of his mind. He’s paranoid that one day he will be discovered by the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Astra Militarum} for desertion. then it will be his skull getting the last las-round. Drukos will not easily give up the information about his shady past unless persuaded with a ",
+   "ru": "Однако вся эта удача не может поднять ему настроение. Угроза из прошлого, словно призрак, не отпускает его. Он боится, что однажды @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Астра Милитарум} разоблачит его как дезертира, и тогда последний лаз-заряд достанется уже его черепу. Друкос не выдаст сведений о своём тёмном прошлом, если его не убедить "
+  },
+  "174": {
+   "en": "Hard (−20) Rapport (Charm)",
+   "ru": "Сложной (−20) проверкой Взаимопонимания (Обаяние)"
+  },
+  "176": {
+   "en": " Test or confronted with hard evidence. The characters can find this evidence if they notice the inconsistencies found in the personnel files in the @UUID[.vC2n6yi7x19C9HvR#a2.-central-cogitarum]{Cogitarum}, granting the following clue.",
+   "ru": " или не предъявить ему неопровержимые доказательства. Персонажи могут найти их, если заметят нестыковки в личных делах в @UUID[.vC2n6yi7x19C9HvR#a2.-central-cogitarum]{когитаруме}, что даёт следующую зацепку."
+  },
+  "182": {
+   "en": "CLUE",
+   "ru": "ЗАЦЕПКА"
+  },
+  "186": {
+   "en": "Drukos and his mercenaries are deserters of the Astra Militarum. Having only secured this contract by the aid of a mysterious benefactor who provided falsified papers and identity tags. These documents were marked with a wax seal bearing the initials V.N. (once more standing for Vesterick Nethecaré).",
+   "ru": "Друкос и его наёмники — дезертиры Астра Милитарум. Этот контракт они получили лишь благодаря таинственному благодетелю, снабдившему их поддельными бумагами и личными жетонами. Эти документы были скреплены восковой печатью с инициалами «В. Н.» (и снова это Вестерик Нетекаре)."
+  }
+ }
+}

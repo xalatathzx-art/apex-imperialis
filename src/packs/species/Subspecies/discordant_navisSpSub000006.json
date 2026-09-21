@@ -2,7 +2,7 @@
   "name": "Discordant",
   "type": "navis-apexialis.subspecies",
   "_id": "navisSpSub000006",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "folder": "navisSpFolder002",
   "sort": 600,
   "system": {

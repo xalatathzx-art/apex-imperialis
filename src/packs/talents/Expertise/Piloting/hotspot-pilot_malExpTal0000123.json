@@ -2,7 +2,7 @@
   "name": "Hotspot Pilot",
   "type": "talent",
   "_id": "malExpTal0000123",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On Failed Piloting/Riding: may suffer Fatigued to reduce failed SL by AgiB/2 (min -1). On success: may suffer Fatigued(Minor) to add AgiB/2 SL on top</span></p><hr><p><span style=\"font-family: Arial\"><em>When you succeed on a Piloting or Athletics (Riding) Test, you may suffer the Fatigued (Minor) Condition to add a number of Success Levels equal to half your Agility Bonus. When you fail a Piloting or  athletics (Riding) Test, you may voluntarily suffer the Fatigued Condition to reduce the failed SLs by an amount equal to half your Agility Bonus to a minimum of -1.</em></span></p>",

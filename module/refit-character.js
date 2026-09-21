@@ -581,7 +581,7 @@ export function refitDefending(banner) {
 }
 
 /** The four figures above the actions. */
-export function refitReadiness(row, labels = {}) {
+export function refitReadiness(row, labels = {}, data = {}) {
   if (!claim(row)) return;
   const L = { ...DEFAULTS, ...labels };
   row.classList.add("navis-ready");
@@ -590,6 +590,10 @@ export function refitReadiness(row, labels = {}) {
     if (box.querySelector('.label a[data-action^="roll"]')) box.classList.add("navis-roll");
     if (box.querySelector(".superiority-update")) box.querySelector(":scope > .label")?.append(el("span", "navis-group", L.group));
     if (box.querySelector('.label a[data-action="speedConfig"]')) box.classList.add("navis-speed");
+    if (box.querySelector('.label a[data-action="rollDodge"]') && Number.isFinite(data.dodge)) {
+      const input = box.querySelector('input[type="number"]');
+      if (input) input.value = String(data.dodge);
+    }
   }
 }
 
@@ -841,7 +845,7 @@ export function refitCharacterCombat(tab, labels = {}, data = {}) {
   if (banner) refitDefending(banner);
 
   const readiness = [...tab.querySelectorAll(":scope > .flexrow")].find(row => row.querySelector(":scope > .attribute-box.single"));
-  if (readiness) refitReadiness(readiness, labels);
+  if (readiness) refitReadiness(readiness, labels, data);
 
   const actions = tab.querySelector(":scope > .action-list");
   if (actions) refitActions(actions, labels);

@@ -2,7 +2,7 @@
   "name": "Coward's Grace",
   "type": "talent",
   "_id": "malExpTal0000117",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">While running away: Speed increase by one step</span></p><hr><p><span style=\"font-family: Arial\"><em>When running away from combat (including fleeing from melee, being Frightened, or Retreating), count your speed as one higher than it normally is (Normal speed becomes Fast). Additionally, you may not purchase Advancements to Willpower or Discipline without losing this talent. This talent does not stack with the speed boost from Adrenaline Acceleration.</em></span></p>",

@@ -2,7 +2,7 @@
   "name": "Confessor",
   "type": "talent",
   "_id": "malExpTal0000167",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">On ally reduces corruption gained: reduce one more</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever a Character in the group would reduce Corruption, they may reduce the amount of Corruption by an additional point.</em></span></p>",
@@ -10,7 +10,7 @@
     },
     "requirement": {
       "value": "Faithful (Imperial Cult) Talent",
-      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful(Imperial Cult)\")"
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful (imperial Cult)\")"
     },
     "test": {
       "difficulty": "challenging",

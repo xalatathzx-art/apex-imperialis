@@ -2,7 +2,7 @@
   "name": "Double Team",
   "type": "talent",
   "_id": "malExpTal0000106",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">When outnumbering: +1SL on melee. If your outnumbering ally als has Double Team, get another 1SL</span></p><hr><p><span style=\"font-family: Arial\"><em>You have experience fighting in paired teams that work together to take down their enemies. When outnumbering an opponent, you gain +1SL on Melee Tests. If both you and your ally that outnumber the enemy have this Talent, then you gain another +1SL for a total of +2SL. This bonus is in addition to the normal bonus from outnumbering on an opponent (CRB pg. 214) . </em></span></p>",

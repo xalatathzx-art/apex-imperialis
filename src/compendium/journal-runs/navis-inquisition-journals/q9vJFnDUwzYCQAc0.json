@@ -1,0 +1,89 @@
+{
+ "journal": "tFbQS9Pwk46yjwFq",
+ "journalName": "The Holy Orders",
+ "page": "q9vJFnDUwzYCQAc0",
+ "pageName": "Perception and Propaganda",
+ "name": "Восприятие и пропаганда",
+ "runs": {
+  "6": {
+   "en": "‘The soul of the Imperium teeters on the edge of damnation. Our role is not only to prevent its fall, but to ensure that the blessedly ignorant masses never learn just how close we have come to failure.’",
+   "ru": "ВОСПРИЯТИЕ И\nПРОПАГАНДА\nВсю жизнь подданных Империума учат бояться и\nненавидеть ксеносов, мутантов и еретиков. Такое\n«образование» даёт Министорум, но его поддерживают\nи остальные ветви Адептус"
+  },
+  "16": {
+   "en": "- Inquisitor @UUID[Compendium.impmal-starter-set.actors.Actor.Oh1HWiuX3Lmk0q0l]{Aegidius Halikarn}",
+   "ru": "Терра, ибо блажен разум,\nслишком слабый, чтобы сомневаться.\nЛюдейнеучатпониматьтакиеужасы,ведьпонимание–\nэто @UUID[Compendium.impmal-starter-set.actors.Actor.Oh1HWiuX3Lmk0q0l]{Aegidius Halikarn}"
+  },
+  "32": {
+   "en": "In life, citizens of the Imperium are taught to fear and hate the xenos, the mutant, and the heretic. This education is proffered primarily by the @UUID[Compendium.navis-apexialis.navis-core-items.Item.PdQjDIH5C6kx3vAy]{Ministorum} and seconded by every other facet of the Adeptus Terra; blessed is the mind too small for doubt.",
+   "ru": "первый шаг на пути к проклятию. Понимать – удел\nИнквизициииеёаколитов.Малоктоизпростолюдинов\nосознаёт,какуюработунужноисполнять,какиежертвы\nприноситьикаковпо-настоящемугалактическийразмах\nопасностей, с которыми сталкивается Империум.\nСтрахипростогонародапередИнквизициейрождаются\nиз слухов и пропаганды. @UUID[Compendium.navis-apexialis.navis-core-items.Item.PdQjDIH5C6kx3vAy]{Ministorum}"
+  },
+  "36": {
+   "en": "But citizens are not taught to understand these horrors, for in understanding lies the first step on the path toward damnation. This task falls to the Inquisition and its acolytes. Few citizens understand the work that needs to be done, the sacrifices required, and the galactic scale of threats facing the Imperium.",
+   "ru": "Легенды, искажённо\nпередаются из поколения в поколения, поднимаются\nиз жилых ярусов в шпили и переплетаются с той\nприемлемой ложью, которой Святые Ордосы\nподменяют ужасную правду, пытаясь укрепить свою\nвласть. Но чаще всего аколит действует в условиях,\nкоторые чужды ему, в мире, где прежде не бывал"
+  },
+  "40": {
+   "en": "Their fears and attitudes towards the Inquisition come from rumours and propaganda. Legends twisted through generational tale-telling and spread from hab level to spire, versus what measures the Inquisition has taken to spin worse truths in digestible lies, aiming to bolster their authority. But more often than not, an acolyte will stride into a world that is foreign to their presence, where no citizen has been before.",
+   "ru": "ни\nодин человек.\nАколитам нужно знать, чего ждать от имперских\nобывателейилислужащихподзнаменемАдептусТерра,\nпонимать, какой будет их естественная реакция на\nвмешательство Инквизиции и почему нередко лучше\nскрывать свою личность. Ниже приведено несколько\nпримеров.\n«Конечно, досточтимые\nаколиты, планетарный\nсовет сделает всё, что в\nего силах, чтобы помочь\nвам. Моя личная гвардия\nбудет направлять"
+  },
+  "44": {
+   "en": "Acolytes should know what to expect when investigating or working alongside @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.RsIGQ61VYTusa8TR]{Imperial Citizens} or those under the banner of the Adeptus Terra — their initial reactions to Inquisitorial authority and why it might be in an acolyte’s better interest to obscure their identity. Following are some examples.",
+   "ru": "вас,\nбудет подле вас днём и\nночью, станет оберегать\nваш сон. Я позабочусь,\nчтобы вам предоставили\nпокои в моём дворце. Все\nваши нужды будут\nудовлетворены, и вы\nникогда не останетесь\nодни».\n- Джаспар Кастикс, планетарный губернатор Волла\n«Душа Империума замерла на грани\nпроклятия. Наше дело – не только\nпредотвратить падение, но и\nубедиться, что массы @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.RsIGQ61VYTusa8TR]{Imperial Citizens}"
+  },
+  "58": {
+   "en": "‘Of course, esteemed Acolytes, the planetary council will do everything in their power to aid you. My personal guard will be your guide, at your side night and day, even as you sleep. I’ll arrange for you to stay in private quarters at my estate. Your every need will be met, and you’ll never be left alone.’",
+   "ru": "пребывают в\nблаженном неведении о том, как\nблизки мы были к поражению».\n- инквизитор Эгидий Халикарн\n\n«Проклятие на мою\nголову! Йовен вчера в\nочереди говорил о\nваших. Я велел ему\nзаткнуться или вы\nтут же появитесь,\nкак из ниоткуда, и\nсхватите нас. Я не\nдолжен болтать с\nвами. Магос\nназначит"
+  },
+  "66": {
+   "en": "— Jaspar Castyx, Planetary Governor of Voll",
+   "ru": "мне\nслужбу-имперпитиус,\nесли узнает».\n-"
+  },
+  "84": {
+   "en": "‘The eye that sees all, searching among my flock! Heresy is present here; I should’ve known. Extra services each day, benedictions and flagellations! We’ll sweat the heresy out of them, Acolyte! All must be told of your presence here! Bring the Emperor’s judgement to the people.’",
+   "ru": "Телин Страйд, рабочий с мануфакторума\n«Император\nмилосердный!\nПожалуйста, не\nочищайте мне\nмозги, господин\nаколит. Не\nзабирайте меня, у\nменя семья!\nПожалуйста, я\nничего не знаю! Я\nскажу всё, что\nвам нужно…»\n- Нервяк,\nульевая крыса\n«Я понял,\nаколит, я тебе\nпомогу, но я"
+  },
+  "92": {
+   "en": "— Sister Celestia of the Orders Hospitaller",
+   "ru": "не\nмогу дать\nтвоему запросу\nвысший\nприоритет.\nТы"
+  },
+  "110": {
+   "en": "‘Understood, Acolyte, I will aid you in your request, but understand, yours is not my highest priority. You and your master must respect the rights and privileges of the Priesthood of Mars, afforded to us by the Emperor of Mankind, just as He has afforded your authority here.’",
+   "ru": "и твой господин должны уважать права и\nпривилегии Духовенства Марса, дарованные нам\nИмператором Человечества, так же, как он\nдаровал вам ваши полномочия».\n- ремесленник Хайлон Эпсилон-Ворн, техножрец\n«Своей властью\nбудешь козырять\nв шпиле! Ты не\nлучше этих\nскотов"
+  },
+  "118": {
+   "en": "— Artisan Hailon Epsilon Vorn, Tech-Priest",
+   "ru": "вигилов, а\nс ними я дралась\nгодами. Я не"
+  },
+  "136": {
+   "en": "‘Curse me! Joven spoke of your kind the other day on the line. I told him to keep his mouth shut, or you’d appear out of thin air to damn us. I shouldn’t be talking to you; the Magos will put me in servitude imperpituis if they find out.",
+   "ru": "сдам\nсвоих ребят, так\nчто тебе\nпридётся меня\nубить».\n’\n- Фурункул из банды Резчиков\n«Вам стоит поговорить с\nкомиссаром. Мне тоже\nотдали приказ – следить\nза порядком. Может быть,\nбез этого бы обошлось, если\nбы вы получше"
+  },
+  "144": {
+   "en": "— Talin Stride, Manufactorum Worker",
+   "ru": "изводили\nксеносов и не дали бы"
+  },
+  "162": {
+   "en": "‘Take your authority back up the spire with you! You lot’re no better brutes than the Vigilites, and I’ve been fighting them for years. I won’t turn on my boys; you’ll have to kill me first.’",
+   "ru": "им\nзанять всю планету. Тогда\nя и мой отряд сумели бы\nвернуться домой, а не\nсторожить этот комок\nгрязи до конца наших\nдней…»\n-КаллиТаннерин,\nимперский гвардеец\n«Всевидящее"
+  },
+  "170": {
+   "en": "—Blister, Cutters Ganger",
+   "ru": "око,\nвыискивающее"
+  },
+  "188": {
+   "en": "‘Emperor’s mercy! Please don’t scour my mind sir acolyte. Don’t take me away, I’ve a family to care for. We don’t know anything, please! I’ll say whatever you need me to say...’",
+   "ru": "врагов\nсреди паствы! Ересь\nпоблизости; я должна\nбыла догадаться! Теперь\nкаждый день будет\nбольше молебнов,\nбольше благословлений и\nсамобичеваний! Мы\nвыжмем ересь из\nвиновных,"
+  },
+  "196": {
+   "en": "—Fidget, Hab Rat",
+   "ru": "аколит! Все\nузнают"
+  },
+  "214": {
+   "en": "You should be talking to the Commissar. I’ve got my orders, too, and that’s to watch the line. Might not have to watch it so hard if you lot had done your job purging these foul xenos before they took over the planet. Me and the squad might still be back home rather than spend the best of our life guarding piles of mud…",
+   "ru": "о вашем\nприсутствии! Несите\nлюдям правосудие\nИмператора».\n- сестра Селестия из\nгоспитального ордена"
+  },
+  "222": {
+   "en": "— Kalli Tannerin, Militarum Trooper",
+   "ru": "I rders ВОСПРИЯТИЕ И ПРОПАГАНДА Всю жизнь подданных Империума учат бояться и ненавидеть ксеносов, мутантов и еретиков. Такое «образование» даёт Министорум, но его поддерживают и остальные ветви Адептус Терра, ибо блажен разум, слишком слабый, чтобы сомневаться. Людейнеучатпониматьтакиеужасы,ведьпонимание– это первый шаг на пути к проклятию. Понимать – удел Инквизициииеёаколитов.Малоктоизпростолюдинов осознаёт,какуюработунужноисполнять,какиежертвы приноситьикаковпо-настоящемугалактическийразмах опасностей, с которыми сталкивается Империум. СтрахипростогонародапередИнквизициейрождаются из слухов и пропаганды. Легенды, искажённо передаются из поколения в поколения, поднимаются из жилых ярусов в шпили и переплетаются с той приемлемой ложью, которой Святые Ордосы подменяют ужасную правду, пытаясь укрепить свою власть. Но чаще всего аколит действует в условиях, которые чужды ему, в мире, где прежде не бывал ни один человек. Аколитам нужно знать, чего ждать от имперских обывателейилислужащихподзнаменемАдептусТерра, понимать, какой будет их естественная реакция на вмешательство Инквизиции и почему нередко лучше скрывать свою личность. Ниже приведено несколько примеров. «Конечно, досточтимые аколиты, планетарный совет сделает всё, что в его силах, чтобы помочь вам. Моя личная гвардия будет направлять вас, будет подле вас днём и ночью, станет оберегать ваш сон. Я позабочусь, чтобы вам предоставили покои в моём дворце. Все ваши нужды будут удовлетворены, и вы никогда не останетесь одни». - Джаспар Кастикс, планетарный губернатор Волла «Душа Империума замерла на грани проклятия. Наше дело – не только предотвратить падение, но и убедиться, что массы пребывают в блаженном неведении о том, как близки мы были к поражению». - инквизитор Эгидий Халикарн   I СВЯТЫЕ ОРДОСЫ «Проклятие на мою голову! Йовен вчера в очереди говорил о ваших. Я велел ему заткнуться или вы тут же появитесь, как из ниоткуда, и схватите нас. Я не должен болтать с вами. Магос назначит мне службу-имперпитиус, если узнает». - Телин Страйд, рабочий с мануфакторума «Император милосердный! Пожалуйста, не очищайте мне мозги, господин аколит. Не забирайте меня, у меня семья! Пожалуйста, я ничего не знаю! Я скажу всё, что вам нужно…» - Нервяк, ульевая крыса «Я понял, аколит, я тебе помогу, но я не могу дать твоему запросу высший приоритет. Ты и твой господин должны уважать права и привилегии Духовенства Марса, дарованные нам Императором Человечества, так же, как он даровал вам ваши полномочия». - ремесленник Хайлон Эпсилон-Ворн, техножрец «Своей властью будешь козырять в шпиле! Ты не лучше этих скотов вигилов, а с ними я дралась годами. Я не сдам своих ребят, так что тебе придётся меня убить». ’ - Фурункул из банды Резчиков «Вам стоит поговорить с комиссаром. Мне тоже отдали приказ – следить за порядком. Может быть, без этого бы обошлось, если бы вы получше изводили ксеносов и не дали бы им занять всю планету. Тогда я и мой отряд сумели бы вернуться домой, а не сторожить этот комок грязи до конца наших дней…» -КаллиТаннерин, имперский гвардеец «Всевидящее око, выискивающее врагов среди паствы! Ересь поблизости; я должна была догадаться! Теперь каждый день будет больше молебнов, больше благословлений и самобичеваний! Мы выжмем ересь из виновных, аколит! Все узнают о вашем присутствии! Несите людям правосудие Императора». - сестра Селестия из госпитального ордена"
+  }
+ }
+}

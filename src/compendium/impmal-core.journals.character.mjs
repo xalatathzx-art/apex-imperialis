@@ -34,7 +34,7 @@ const sidebarW = (width, ...paragraphs) =>
 const RULES = "JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage";
 const ARMOURY = "JournalEntry.wqlquQ8Njtd5fb4Y";
 const SECTOR = "JournalEntry.B7MZBBT3bNew9N96";
-const ITEM = "Compendium.impmal-core.items.Item";
+const ITEM = "Compendium.navis-apexialis.navis-core-items.Item";
 
 /* ── Создание персонажа (вводная), стр. 46–47 ───────────────────────────
  *
@@ -54,7 +54,7 @@ const STEP_SLUG = [
 const step = (n, uuid, name) => h(4, STEP_SLUG[n - 1], `${n}) ${U(uuid, name)}`);
 
 const creatingPage =
-  `<div class="journal-image float-right flip"><img height="660" src="modules/impmal-core/assets/images/ch2.webp" /></div>` +
+  `<div class="journal-image float-right flip"><img height="660" src="modules/navis-apexialis/assets/impmal-core/images/ch2.webp" /></div>` +
   p("Создав или выбрав покровителя в ",
     U("JournalEntry.QrGsY2UZDirxvDaB", "«Создании покровителя»"),
     ", можно браться за вашего собственного героя в «<strong>Империуме Маледиктум</strong>». ",
@@ -108,7 +108,7 @@ const creatingPage =
 
 /* ── Карьера, стр. 47 ───────────────────────────────────────────────────*/
 const careerPage =
-  `<div class="journal-image float-right"><img src="modules/impmal-core/assets/actors/imperial-citizen.webp" width="250" /></div>` +
+  `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/actors/imperial-citizen.webp" width="250" /></div>` +
   p("Карьера — это вся жизнь персонажа до начала игры в «<strong>Империум Маледиктум</strong>». Она ",
     "началась с вашего рождения и прошла через детство, когда способ служения Империуму определил ",
     "ваше положение в его иерархии. Карьеру можно считать вашим жизненным путём, ибо нет жизни вне ",
@@ -123,7 +123,7 @@ const careerPage =
 /* ── Характеристики, стр. 50–51 ─────────────────────────────────────────*/
 const characteristicsPage =
   title("Характеристики") +
-  `<div class="journal-image float-right"><img src="modules/impmal-core/assets/images/characteristics.webp" width="300" /></div>` +
+  `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/images/characteristics.webp" width="300" /></div>` +
   p("Характеристики отражают изначальный потенциал персонажа, его природные телесные и духовные ",
     "показатели, такие как Сила, Ловкость, Интеллект, а также умение сражаться. У героев ",
     "«<strong>Империума Маледиктум</strong>» девять характеристик, которые вместе с умениями ",
@@ -349,7 +349,7 @@ const IT = id => `${ITEM}.${id}`;
 const dutyH = (slug, id, name) => h(4, slug, U(IT(id), name));
 const dutyHead = () => h(3, "duty", "Обязанности");
 const factionImg = file =>
-  `<div class="journal-image fit"><img src="modules/impmal-core/assets/images/${file}" /></div>`;
+  `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-core/images/${file}" /></div>`;
 const quote = (text, source) =>
   p(`<em>${text}</em>`) + `<p style="text-align:right">— ${source}</p>`;
 const INFLUENCE = `${RULES}.qxkAEAcB9xAl56Xa#personal-influence`;
@@ -410,9 +410,9 @@ const administratumPage =
     " в выбранной вами службе, талант ", U(IT("sTF7rVvFTa2RE3Vc"), "Инфоархеолог"), ", ",
     U(IT("D9X5jPYYafLyPqKh"), "одеяния"), ", ", U(IT("h1g1g9Rrjt7CnYeW"), "инфопланшет"), ", ",
     U(IT("7ipsWHaVhIsF7b3S"), "писчий прибор"), " и 800 соляров.") +
-  dutyH("@uuid[compendium.impmal-core.items.item.9nutueoqescdevay]{clerk}", "9NUTueOQEsCDEVaY", "Клерк") +
-  dutyH("@uuid[compendium.impmal-core.items.item.meuexxwyb26avetj]{offici", "mEuexXWYb26AVetJ", "Оффицио Медика") +
-  dutyH("@uuid[compendium.impmal-core.items.item.anrhxsiakzrohdao]{scrive", "ANRhxsIaKzroHdAo", "Писарь") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.9nutueoqescdevay]{clerk}", "9NUTueOQEsCDEVaY", "Клерк") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.meuexxwyb26avetj]{offici", "mEuexXWYb26AVetJ", "Оффицио Медика") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.anrhxsiakzrohdao]{scrive", "ANRhxsIaKzroHdAo", "Писарь") +
   factionImg("faction-administratum.webp");
 
 /* Адептус Астра Телепатика, стр. 58–59 */
@@ -471,9 +471,9 @@ const telepathicaPage =
     " с улучшением ", U(IT("rD6BtFSjpfupZss1"), "«Моноклинок»"), ", ",
     U(IT("D9X5jPYYafLyPqKh"), "одеяние"), ", ",
     U(IT("RJQOgOg4q8krADXi"), "принадлежности для гадания"), " и 500 соляров.") +
-  dutyH("@uuid[compendium.impmal-core.items.item.z5crsk9tjz55ggo9]{black-", "Z5crSk9tJz55GGO9", "Пустоход с Чёрного корабля") +
-  dutyH("@uuid[compendium.impmal-core.items.item.6fgiyni86dmgxwgg]{sancti", "6fGIyNI86dmgxwGG", "Санкционированный псайкер") +
-  dutyH("@uuid[compendium.impmal-core.items.item.c9ti88te1h3crlb7]{sister", "c9Ti88te1H3crLb7", "Сестра-послушница") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.z5crsk9tjz55ggo9]{black-", "Z5crSk9tJz55GGO9", "Пустоход с Чёрного корабля") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.6fgiyni86dmgxwgg]{sancti", "6fGIyNI86dmgxwGG", "Санкционированный псайкер") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.c9ti88te1h3crlb7]{sister", "c9Ti88te1H3crLb7", "Сестра-послушница") +
   factionImg("faction-telepathica.webp");
 
 /* Адептус Механикус, стр. 60–61 */
@@ -533,9 +533,9 @@ const mechanicusPage =
     "получаете +1 к влиянию на Адептус Механикус, ", U(IT("D9X5jPYYafLyPqKh"), "одеяния"), ", ",
     U(IT("h1g1g9Rrjt7CnYeW"), "инфопланшет"), ", флакон ",
     U(IT("S8vLsphFt4PnjsHc"), "священного масла"), " и 100 соляров.") +
-  dutyH("@uuid[compendium.impmal-core.items.item.u1ed67kucsyuynzl]{appren", "U1eD67kuCsyuYNZl", "Подмастерье машиноведа") +
-  dutyH("@uuid[compendium.impmal-core.items.item.6hnf1oelxm1mnize]{appren", "6HnF1OeLxM1mNIZE", "Подмастерье генетора") +
-  dutyH("@uuid[compendium.impmal-core.items.item.dfzqpuwyxax0cit6]{appren", "DFzqPUWYxAx0cIt6", "Подмастерье логиса") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.u1ed67kucsyuynzl]{appren", "U1eD67kuCsyuYNZl", "Подмастерье машиноведа") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.6hnf1oelxm1mnize]{appren", "6HnF1OeLxM1mNIZE", "Подмастерье генетора") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.dfzqpuwyxax0cit6]{appren", "DFzqPUWYxAx0cIt6", "Подмастерье логиса") +
   factionImg("faction-mechanicus.webp");
 
 /* Адептус Министорум, стр. 62–63 */
@@ -594,9 +594,9 @@ const ministorumPage =
     U(IT("IdfJxc7yhpVLeOKS"), "Набожность (Имперский культ)"), ", ",
     U(IT("D9X5jPYYafLyPqKh"), "одеяния"), ", ", U(IT("oaY0wS7LewD6DXK6"), "священный символ"),
     " и ", U(IT("B55qG1YQTS9IyuTm"), "рюкзак"), ".") +
-  dutyH("@uuid[compendium.impmal-core.items.item.gj6jss4kb3otophk]{missio", "Gj6JsS4Kb3oTOpHk", "Миссионер") +
-  dutyH("@uuid[compendium.impmal-core.items.item.jsknq6qocarqp0wf]{preach", "jskNq6qocaRQp0WF", "Проповедник") +
-  dutyH("@uuid[compendium.impmal-core.items.item.chu6a16oq0m29tdo]{sister", "cHU6A16oq0m29tdO", "Сестра-послушница") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.gj6jss4kb3otophk]{missio", "Gj6JsS4Kb3oTOpHk", "Миссионер") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.jsknq6qocarqp0wf]{preach", "jskNq6qocaRQp0WF", "Проповедник") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.chu6a16oq0m29tdo]{sister", "cHU6A16oq0m29tdO", "Сестра-послушница") +
   factionImg("faction-ministorum.webp");
 
 /* Астра Милитарум, стр. 64–65 */
@@ -650,9 +650,9 @@ const militarumPage =
     U(IT("qQ8Y8nmiaTaKgzvs"), "нож"), ", ",
     U(IT("pEFmeV070knXgwZ5"), "флак-доспех Астра Милитарум"), ", ",
     U(IT("0fB10YisRQoUabab"), "фраг-гранату"), " и 300 соляров.") +
-  dutyH("@uuid[compendium.impmal-core.items.item.ggts3zl8tdftihed]{melee-", "GGTS3zL8tDFTIhEd", "Боец ближнего боя") +
-  dutyH("@uuid[compendium.impmal-core.items.item.dxugukpgytyk86u3]{scout}", "dXuguKPgyTyk86u3", "Разведчик") +
-  dutyH("@uuid[compendium.impmal-core.items.item.060qdcc5ddlqwdhi]{troope", "060QdCc5DdlQwdhI", "Пехотинец") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.ggts3zl8tdftihed]{melee-", "GGTS3zL8tDFTIhEd", "Боец ближнего боя") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.dxugukpgytyk86u3]{scout}", "dXuguKPgyTyk86u3", "Разведчик") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.060qdcc5ddlqwdhi]{troope", "060QdCc5DdlQwdhI", "Пехотинец") +
   factionImg("faction-militarum.webp");
 
 /* Имперские флотилии, стр. 66–67 */
@@ -711,9 +711,9 @@ const fleetPage =
     "один из приведённых ниже готовых наборов, чтобы ускорить создание персонажа. Также вы ",
     "получаете +1 к влиянию на Навис Империалис и талант ",
     U(IT("a7cLKEWjEi9X3Bxp"), "Походка пустохода"), ".") +
-  dutyH("@uuid[compendium.impmal-core.items.item.imvufjnid1vqjvqi]{aerona", "IMVufJnId1vQJVQI", "Пилот Аэронавтики") +
-  dutyH("@uuid[compendium.impmal-core.items.item.wjzmmloioqcekvci]{armsma", "WjZMmlOIOQceKVci", "Оруженосец") +
-  dutyH("@uuid[compendium.impmal-core.items.item.t89zdzxolfnrz2aw]{navis-", "T89ZdZXolFnRZ2aW", "Флотский офицер") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.imvufjnid1vqjvqi]{aerona", "IMVufJnId1vQJVQI", "Пилот Аэронавтики") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.wjzmmloioqcekvci]{armsma", "WjZMmlOIOQceKVci", "Оруженосец") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.t89zdzxolfnrz2aw]{navis-", "T89ZdZXolFnRZ2aW", "Флотский офицер") +
   factionImg("faction-navy.webp");
 
 /* Одиночки, стр. 68–69
@@ -768,9 +768,9 @@ const infractionistPage =
     "влиянию на одиночек, талант ", U(IT("IltjlfIs6KFj3pYr"), "Хорошая подготовка"), ", ",
     U(IT("qQ8Y8nmiaTaKgzvs"), "нож"), ", ", U(IT("B55qG1YQTS9IyuTm"), "рюкзак"),
     " и [[/r 5d10]] соляров.") +
-  dutyH("@uuid[compendium.impmal-core.items.item.nktnb8lmhjgxnuoy]{fixer}", "NkTnB8lmhjGXnuoy", "Посредник") +
-  dutyH("@uuid[compendium.impmal-core.items.item.6wpplngdkp1s6o5w]{ganger", "6WpPLngDKP1S6O5w", "Боец банды") +
-  dutyH("@uuid[compendium.impmal-core.items.item.yjuro0nmqfapw4da]{hiveru", "yJURo0nMQFapW4DA", "Ульевой курьер") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.nktnb8lmhjgxnuoy]{fixer}", "NkTnB8lmhjGXnuoy", "Посредник") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.6wpplngdkp1s6o5w]{ganger", "6WpPLngDKP1S6O5w", "Боец банды") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.yjuro0nmqfapw4da]{hiveru", "yJURo0nMQFapW4DA", "Ульевой курьер") +
   factionImg("faction-infractionists.webp");
 
 /* Инквизиция, стр. 70–71 */
@@ -829,12 +829,12 @@ const inquisitionPage =
     U(IT("sYDTAe3hDjoSD0Gb"), "бронекомбинезон"), ", ",
     U(IT("1LgXZfag35FhcNoj"), "светосферу"), ", ", U(IT("QEbKaRlz9eZV01ix"), "оковы"),
     " и 400 соляров.") +
-  dutyH("@uuid[compendium.impmal-core.items.item.dwjniqijsaz1bqth]{acolyt", "dWjniqiJsaZ1BQTh", "Аколит") +
-  dutyH("@uuid[compendium.impmal-core.items.item.oxjeeskuvz7pj89y]{exorci", "oxJeESKuVz7pj89y", "Экзорцист") +
-  dutyH("@uuid[compendium.impmal-core.items.item.jbxxpplgdg8mpxhp]{sage}", "jBxxPPlGdg8mPXhp", "Мудрец") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.dwjniqijsaz1bqth]{acolyt", "dWjniqiJsaZ1BQTh", "Аколит") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.oxjeeskuvz7pj89y]{exorci", "oxJeESKuVz7pj89y", "Экзорцист") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.jbxxpplgdg8mpxhp]{sage}", "jBxxPPlGdg8mPXhp", "Мудрец") +
   `<div class="gallery" style="justify-content:space-between">` +
-  `<div class="journal-image"><img src="modules/impmal-core/assets/images/faction-inquisitor1.webp" width="300" /></div>` +
-  `<div class="journal-image"><img src="modules/impmal-core/assets/images/faction-inquisitor2.webp" width="300" /></div></div>`;
+  `<div class="journal-image"><img src="modules/navis-apexialis/assets/impmal-core/images/faction-inquisitor1.webp" width="300" /></div>` +
+  `<div class="journal-image"><img src="modules/navis-apexialis/assets/impmal-core/images/faction-inquisitor2.webp" width="300" /></div></div>`;
 
 /* Династии вольных торговцев, стр. 72–73 */
 const rogueTraderPage =
@@ -887,9 +887,9 @@ const rogueTraderPage =
     "получаете +1 к влиянию на династии вольных торговцев, талант ",
     U(IT("jHr44qRG22iXQT4v"), "Делец"), ", ", U(IT("sYDTAe3hDjoSD0Gb"), "бронекомбинезон"), " и ",
     U(IT("AdB3ZzAOrnREfdsv"), "мультикомпас"), ".") +
-  dutyH("@uuid[compendium.impmal-core.items.item.ojjluyhi4flrydol]{advent", "oJJLUyhI4FLRYdol", "Искатель приключений") +
-  dutyH("@uuid[compendium.impmal-core.items.item.wnnxin3wj7eu1a9b]{catalo", "WnNXIN3wJ7eU1A9B", "Каталогизатор") +
-  dutyH("@uuid[compendium.impmal-core.items.item.tj8ahbdxb6wamkql]{diplom", "TJ8aHBdxB6wAMkql", "Дипломат") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.ojjluyhi4flrydol]{advent", "oJJLUyhI4FLRYdol", "Искатель приключений") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.wnnxin3wj7eu1a9b]{catalo", "WnNXIN3wJ7eU1A9B", "Каталогизатор") +
+  dutyH("@uuid[Compendium.navis-apexialis.navis-core-items.item.tj8ahbdxb6wamkql]{diplom", "TJ8aHBdxB6wAMkql", "Дипломат") +
   factionImg("faction-rogue-trader.webp");
 
 /* ── Роль и шесть ролей, стр. 74–80 ─────────────────────────────────────
@@ -948,7 +948,7 @@ const rolePage =
 
 /** Страница роли: эпиграф, картинка, ссылка на предмет-роль, лор. */
 const roleImg = file =>
-  `<div class="journal-image float-right"><img src="modules/impmal-core/assets/actors/${file}" width="200" /></div>`;
+  `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/actors/${file}" width="200" /></div>`;
 
 const interlocutorPage =
   quote("«Итак, по вашему собственному признанию, вы виновны в ереси. Я предлагаю вам сдаться. " +
@@ -1223,7 +1223,7 @@ const detailPage =
   `<td class="label">${U(`${TABLE}.LQQSVSJW5j8d87MJ`, "Тайное")}</td></tr></thead><tbody>` +
   NAMES.map(([roll, cells]) => nameRow(roll, cells)).join("") +
   `</tbody></table>` +
-  `<div class="journal-image float-right"><img src="modules/impmal-core/assets/images/spot-halo-skull.webp" width="100" /></div>` +
+  `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/images/spot-halo-skull.webp" width="100" /></div>` +
 
   h(4, "physical-appearance", "Внешность") +
   p("Человечество немыслимо разнообразно, так что внешность вашего героя вы определяете сами. ",
@@ -1277,7 +1277,7 @@ const detailPage =
     "оказывают на это огромное влияние. Телосложение задают ваши телесные характеристики — Сила, ",
     "Выносливость и Ловкость, — хотя описать его вы можете как вам угодно. Рост вашего героя равен ",
     "4 футам 9 дюймам + [[/r 2d10 # Дюймы]]{2к10 дюймам}, или вы можете выбрать его сами.") +
-  `<div class="journal-image fit"><img src="modules/impmal-core/assets/images/imperium-of-man.webp" /></div>`;
+  `<div class="journal-image fit"><img src="modules/navis-apexialis/assets/impmal-core/images/imperium-of-man.webp" /></div>`;
 
 /* ── Цели персонажей, стр. 85–86 ────────────────────────────────────────*/
 const goalsPage =
@@ -1285,7 +1285,7 @@ const goalsPage =
   p("Выполняя задания, вы способствуете планам покровителя, но у вашего персонажа есть и ",
     "собственные цели. Они могут быть связаны с каким-то событием в прошлом или возникнуть в ходе ",
     "кампании. За достижение целей вы получаете очки опыта.") +
-  `<div class="journal-image float-right"><img src="modules/impmal-core/assets/actors/ork-hunter.webp" width="250" /></div>` +
+  `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/actors/ork-hunter.webp" width="250" /></div>` +
 
   h(4, "choosing-goals", "Выбор целей") +
   p("Выбирая цели, вспомните происхождение, службу и роль вашего героя, а также другие касающиеся ",
@@ -1345,7 +1345,7 @@ const bringingPage =
     "роли.") +
 
   h(4, "ten-questions", "Десять вопросов") +
-  `<div class="journal-image float-right"><img src="modules/impmal-core/assets/actors/martyred-lady.webp" width="200" /></div>` +
+  `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/actors/martyred-lady.webp" width="200" /></div>` +
   p("Один из способов создать герою интересное прошлое — это ответить на несколько вопросов о нём. ",
     "Если какой-то из них побуждает вас что-то в персонаже поменять — сделайте это! К примеру, ",
     "подумав о детстве героя, вы можете захотеть изменить выбор, сделанный на шаге ",
@@ -1395,7 +1395,7 @@ const bringingPage =
     "причин. Почему среди бесчисленных жителей сектора Махарий он выбрал вас? Вы наделены особыми ",
     "умениями, талантами или менее зримыми качествами? Чего он ожидает от вас на своей службе? Был ",
     "ли у вас выбор или покровитель завербовал вас против вашей воли?") +
-  `<div class="journal-image float-right"><img src="modules/impmal-core/assets/images/spot-skull1.webp" width="200" /></div>` +
+  `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/images/spot-skull1.webp" width="200" /></div>` +
 
   h(5, "what-do-you-think-of-your-patron?", "Что вы думаете о своём покровителе?") +
   p("Прошлый опыт и первая встреча с господином явно сложили у вас мнение о нём. Это таинственный ",
@@ -1462,7 +1462,7 @@ const bringingPage =
 /* ── Развитие персонажа, стр. 90 ────────────────────────────────────────*/
 const advancementPage =
   title("Развитие персонажа") +
-  `<div class="journal-image float-right"><img src="modules/impmal-core/assets/images/spot-skull3.webp" width="150" /></div>` +
+  `<div class="journal-image float-right"><img src="modules/navis-apexialis/assets/impmal-core/images/spot-skull3.webp" width="150" /></div>` +
   p("Если у вас остался опыт, полученный за то, что вы доверили часть решений при создании ",
     "персонажа броску костей, вы можете потратить его ещё до начала игры. Полагаясь на случайность ",
     "на каждом этапе, вы получите целых 200 очков опыта! По ходу игры в «<strong>Империум ",

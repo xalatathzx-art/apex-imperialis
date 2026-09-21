@@ -1,9 +1,46 @@
-import { ownedSpecialisation, rollSpecialisation, specialisationCatalogue } from "./skill-specialisations.js";
+import {
+  displaySpecialisationName, ownedSpecialisation, rollSpecialisation, specialisationCatalogue
+} from "./skill-specialisations.js";
+import { matchesSkillSearch } from "./skill-search.js";
+import { usesNpcSheet } from "./refit.js";
 
 const MODULE_ID = "navis-apexialis";
 const MARK = "navis-bar-readout";
 const TWF_MARK = "navis-twf-off";
 const PICK_MARK = "navis-spec-pick";
+const SEARCH_MARK = "navis-skill-search";
+
+/** A client-only filter: it never changes the sheet data or its roll handlers. */
+function skillSearch(element) {
+  const tab = element.querySelector('.tab[data-tab="skills"]');
+  const list = tab?.querySelector(":scope > .sheet-list.skills");
+  if (!tab || !list || tab.querySelector(`.${SEARCH_MARK}`)) return;
+
+  const search = document.createElement("label");
+  search.className = SEARCH_MARK;
+  search.innerHTML = '<i class="fa-solid fa-magnifying-glass" aria-hidden="true"></i>';
+  const input = document.createElement("input");
+  input.type = "search";
+  input.autocomplete = "off";
+  input.placeholder = game.i18n.localize("NAVIS.SkillSearch.Placeholder");
+  input.setAttribute("aria-label", game.i18n.localize("NAVIS.SkillSearch.Label"));
+  search.append(input);
+
+  const filter = () => {
+    for (const row of list.querySelectorAll('.list-content > .list-row[data-key]')) {
+      row.hidden = !matchesSkillSearch(input.value, [row.textContent]);
+    }
+  };
+  input.addEventListener("input", filter);
+  input.addEventListener("keydown", event => {
+    if (event.key === "Escape" && input.value) {
+      input.value = "";
+      filter();
+      event.stopPropagation();
+    }
+  });
+  list.before(search);
+}
 
 /**
  * Цифры на полосе нагрузки.
@@ -86,25 +123,33 @@ async function specialisationPicker(element, actor) {
   for (const row of rows) {
     const skill = row.dataset.key;
     const names = catalogue[skill];
+    const ownedRows = [...row.querySelectorAll(`.row-content.specialisation:not(.${PICK_MARK})`)];
+    const ownedItems = actor.system?.skills?.[skill]?.specialisations ?? [];
+    ownedRows.forEach((line, index) => {
+      line.classList.toggle("navis-spec-untrained", Number(ownedItems[index]?.system?.advances) === 0);
+    });
     if (!names?.length || row.querySelector(`.${PICK_MARK}`)) continue;
 
     // Без продвижений значение специализации равно значению самого умения.
     const total = actor.system?.skills?.[skill]?.total ?? "";
-    const owned = row.querySelectorAll(".row-content.specialisation").length;
+    const owned = ownedRows.length;
+    const fragment = document.createDocumentFragment();
 
     for (const [index, name] of names.entries()) {
       if (ownedSpecialisation(actor, skill, name)) continue;
       const line = document.createElement("div");
       line.className = `row-content specialisation ${PICK_MARK}`;
       if (!owned && index === 0) line.classList.add("first");
-      line.innerHTML = `<a class="list-name">${name}</a><div></div>`
+      line.innerHTML = `<a class="list-name">${displaySpecialisationName(name)}</a><div></div>`
         + `<div class="small">0</div>`
         + `<div class="small"><a class="roll">${total}</a></div>`
         + `<div class="list-controls"></div>`;
       line.addEventListener("click", () => rollSpecialisation(actor, skill, name));
-      row.append(line);
+      fragment.append(line);
     }
+    row.append(fragment);
   }
+  element.querySelector(`.${SEARCH_MARK} input`)?.dispatchEvent(new Event("input"));
 }
 
 /**
@@ -132,7 +177,9 @@ function baseSheetSize(sheet, options) {
 export function registerSheetBars() {
   Hooks.on("renderActorSheetV2", (sheet, element, _context, options) => {
     const type = sheet?.document?.type;
-    if (!["character", "npc"].includes(type)) return;
+    // Фамильяр — свой тип актёра на анкете НИП, поэтому ряд действий ищется
+    // по разметке листа, а не по типу документа.
+    if (type !== "character" && !usesNpcSheet(element)) return;
 
     // Ряд действий есть у обоих листов, остальное — только у персонажа:
     // у НИП нет ни полосы нагрузки, ни умений с их специализациями.
@@ -141,6 +188,7 @@ export function registerSheetBars() {
 
     baseSheetSize(sheet, options);
     encumbranceReadout(element, sheet.document);
+    skillSearch(element);
     specialisationPicker(element, sheet.document);
   });
 }

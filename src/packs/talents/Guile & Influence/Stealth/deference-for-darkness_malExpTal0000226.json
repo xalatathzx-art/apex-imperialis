@@ -2,7 +2,7 @@
   "name": "Deference for Darkness",
   "type": "talent",
   "_id": "malExpTal0000226",
-  "img": "modules/impmal-core/assets/icons/generic.webp",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
   "system": {
     "notes": {
       "player": "<p><span style=\"font-family: Arial\">+2SL to Hide and Attack while Hidden if in dark or poorly lit zone</span></p><hr><p><span style=\"font-family: Arial\"><em>When under the cover of the Dark or Poorly Lit features in a zone, you gain a +2SL bonus on Stealth Tests to Hide and avoid being hit, and gain +2SL on tests to attack while hidden (CRB pg. 214)</em></span></p>",
