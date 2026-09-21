@@ -3,203 +3,203 @@
  "journalName": "The Inquisition's Armoury",
  "page": "ltmzAS2aRsr0f57v",
  "pageName": "Protection",
- "name": "Средства защиты",
+ "name": "Защита",
  "runs": {
   "8": {
    "en": "Inquisitors know that their enemies regard them as the ultimate target and that their death would cause a mighty blow to the Imperium. As such, most Inquisitors wear or wield unique armour designed to deter or stifle their enemy’s powers, constructed from rare and esoteric materials. General rules for @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.Wqnie6SvhIq6hZrS]{Protection and Armour} are outlined in ",
-   "ru": "V АРСЕНАЛ ИНКВИЗИЦИИ\nДемон или существо, обладающее порогом, получает\nштраф -10 на все проверки против носителя такого\nщита. Остальные правила использования щитов см. на\nстр. 142 книги правил.\nИКОНА ПРАВОСУДИЯ\nТакие иконы обычно выполнены в виде символа\nИнквизиции или молота Ордо Маллеус. В них встроен\nизлучатель мощного защитного поля, освящённый и\nусиленными оберегами; он направляет праведную\nяростьсвоегообладателяиособеннополезенвсражении\nс нечестивыми силами Варпа.\nДемон или существо, обладающее порогом, получает\nштраф -20 на все проверки против носителя иконы.\nТакже икона считается преобразующим полем (стр.\n142 книги правил), которое имеет вес 0, перегружается\nна 15 поглощённых очках урона и обладает защитой\n1к10+5.\nСРЕДСТВА ЗАЩИТЫ\nЧлены Святых Ордосов знают, что враг будет считать\nих приоритетной целью, а их смерть станет тяжёлым\nударом по Империуму. Большинство инквизиторов\nносят неповторимые доспехи из редких материалов,\nобычно способные ослаблять или сдерживать удары\nврагов. Общие правила брони и иных мер защиты\nописаны на стр. 138 книги правил, а свойства брони –\nна стр. 124-125 её же.\nГРОЗОВОЙ ЩИТ КРЕСТОНОСЦА\nРостовый щит из многослойной пластали и керамита.\nКрестоносцам привычны щиты-подавители,\nпеределанные для того, чтобы использовать их в бою\nс врагами Ордо Маллеус. Они покрыты священными\nмаслами, гексаграмматическими печатями и сигилами,\nзащищающими от Имматериума, а это надёжно\nоберегает воина от демонов.\nЗАЩИТНЫЕ ПОЛЯ\nИкона правосуд. 1к10+5 15 0 7000 Диков. -\nДОСПЕХИ\nНазвание Зона Цена Дост. Свойства\nГрозовой щит\nкрестоносца\nОсобое * 4 1000 Диков. Щит (4)\nПрезидиум\nПротектива Особое * 4 1500 Диков. Щит (6)\nИстинное\nсеребро\nРуки, торс,\nноги\n3 3 5000 Диков.\nГексаграмматич.\nброня\nРуки, торс,\nноги\n5 4 8000 Диков. Тяжёлое (4), Громкое\nБроня Вес\nНазвание Зона Цена Дост. Свойства Броня Вес\n\nV The InquIsITIon Armoury\nПРЕЗИДИУМ ПРОТЕКТИВА\nСчитается, что такие щиты содержат в себе частицу\nдоспехасамогоИмператора.Онисделаныизмножества\nслоёв армапласса и керамита, а надёжностью не\nуступают силовой броне. С мига своего создания такой\nщит мог быть благословлён разными способами, но\nвсегда несёт на себе печать праведности и чистоты.\nЭтот символ веры используют почти исключительно\nАдептаСороритас,ноизвестныслучаи,когдатакойщит\nпреподносили инквизитору, сражавшемуся плечом к\nплечу с сёстрами битвы.\nПрезидиум Протектива – это щит, который может\nнести только персонаж, облачённый в силовой\nдоспех. Демон или существо, обладающее порогом,\nполучает штраф -20 на все проверки против носителя\nПротективы. Остальные правила использования щитов\nсм. на стр. 142 книги правил.\nИСТИННОЕ СЕРЕБРО\nСплав освящённого серебра и железа может принимать\nмножество обличий и служить грозным оружием\nпротив демонов и нематериальных врагов. Ленты\nтакогоматериала,вплетённыевшинельилинанесённые\nна пласталевый доспех надёжно защищает от демонов\nи нечистых псайкеров. Истинное серебро вспыхивает\nярким белым светом, когда ощущает нечестивое\nприкосновение Имматериума.\nДемон или существо, обладающее порогом, получает\nштраф -10 на все проверки против носителя истинного\nсеребра.\nГЕКСАГРАММАТИЧЕСКАЯ @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.Wqnie6SvhIq6hZrS]{Protection and Armour}"
+   "ru": "Инквизиторы знают, что враги считают их главной целью и что их гибель стала бы тяжёлым ударом по Империуму. Поэтому большинство инквизиторов носят особую броню, созданную из редких и диковинных материалов, чтобы сдерживать или подавлять силы врага. Общие правила @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.Wqnie6SvhIq6hZrS]{защиты и брони} изложены в книге "
   },
   "12": {
    "en": "Imperium Maledictum",
-   "ru": "БРОНЯ\nОснову такого доспеха составляют тщательно\nподготовленные слои пластали и керамита, что делает\nего похожим на панцирную"
+   "ru": "Imperium Maledictum"
   },
   "16": {
    "en": " and related @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#weapons-and-armour-traits]{Armour Traits}.",
-   "ru": "брони. Однако куда\nважнее остаются печати и сигилы, выгравированные\nна пластинах. Каждый защитный знак, благословенный\nправедным оружейником, каждый сигил и каждая\nгексаграмматическая печать защищают носителя от\nприкосновения демонов и психических сил.\nПопытки сотворить психосилу, направленную на\nносителя такой брони или в его зону, получают\nпомеху. Демон или существо, обладающее порогом,\nполучает штраф -10 на все проверки против носителя\nгексаграмматической брони.\nГРОЗОВОЙ ЩИТ\nКРЕСТОНОСЦА\nАНТИПСАЙКЕРСКАЯ\nГРАНАТА\nПСИ-ОККУЛУМ @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#weapons-and-armour-traits]{Armour Traits}"
+   "ru": " вместе с соответствующими @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#weapons-and-armour-traits]{свойствами брони}."
   },
   "28": {
    "en": "Armour",
-   "ru": "V АРСЕНАЛ ИНКВИЗИЦИИ Демон или существо, обладающее порогом, получает штраф -  на все проверки против носителя"
+   "ru": "Броня"
   },
   "40": {
    "en": "Name",
-   "ru": "такого щита. Остальные правила использования щитов см. на стр.   книги"
+   "ru": "Название"
   },
   "48": {
    "en": "Locations",
-   "ru": "правил. ИКОНА ПРАВОСУДИЯ Такие иконы обычно выполнены в виде символа Инквизиции или молота Ордо Маллеус. В них встроен излучатель мощного защитного поля, освящённый и"
+   "ru": "Области"
   },
   "56": {
    "en": "Armour",
-   "ru": "усиленными оберегами; он направляет праведную яростьсвоегообладателяиособеннополезенвсражении с нечестивыми"
+   "ru": "Броня"
   },
   "64": {
    "en": "Enc",
-   "ru": "силами Варпа. Демон или существо, обладающее порогом,"
+   "ru": "Нагр."
   },
   "72": {
    "en": "Cost",
-   "ru": "получает штраф -  на все проверки против носителя иконы. Также икона"
+   "ru": "Цена"
   },
   "80": {
    "en": "Avail",
-   "ru": "считается преобразующим полем (стр.   книги правил), которое имеет вес  , перегружается на"
+   "ru": "Доступн."
   },
   "88": {
    "en": "Traits",
-   "ru": "поглощённых очках урона и обладает защитой  к + . СРЕДСТВА ЗАЩИТЫ Члены Святых Ордосов знают, что враг будет"
+   "ru": "Свойства"
   },
   "102": {
    "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.vxMXZAPXzHavbkDz]{Crusader Storm Shield}",
-   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.vxMXZAPXzHavbkDz]{Crusader Storm Shield}"
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.vxMXZAPXzHavbkDz]{Штурмовой щит крестоносца}"
   },
   "106": {
    "en": "Special",
-   "ru": "считать их приоритетной целью, а их смерть станет тяжёлым ударом по Империуму. Большинство инквизиторов носят неповторимые доспехи"
+   "ru": "Особое"
   },
   "114": {
    "en": "4",
-   "ru": "из редких"
+   "ru": "4"
   },
   "118": {
    "en": "1000",
-   "ru": "материалов, обычно способные ослаблять или сдерживать удары врагов. Общие"
+   "ru": "1000"
   },
   "122": {
    "en": "Exotic",
-   "ru": "правила брони и иных мер защиты описаны на стр.   книги правил, а свойства брони – на стр.  -  её же. ГРОЗОВОЙ"
+   "ru": "Диковинная"
   },
   "126": {
    "en": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#shield-(rating)]{Shield (4)}",
-   "ru": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#shield-(rating)]{Shield (4)}"
+   "ru": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#shield-(rating)]{Щит (4)}"
   },
   "134": {
    "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Kt7pWgWNLABjWhah]{Praesidium Protectiva}",
-   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Kt7pWgWNLABjWhah]{Praesidium Protectiva}"
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.Kt7pWgWNLABjWhah]{Президиум Протектива}"
   },
   "138": {
    "en": "Special",
-   "ru": "ЩИТ КРЕСТОНОСЦА Ростовый щит из многослойной пластали и керамита. Крестоносцам привычны щиты-подавители, переделанные для того,"
+   "ru": "Особое"
   },
   "146": {
    "en": "4",
-   "ru": "чтобы использовать"
+   "ru": "4"
   },
   "150": {
    "en": "1500",
-   "ru": "их в бою с врагами Ордо Маллеус. Они покрыты священными маслами,"
+   "ru": "1500"
   },
   "154": {
    "en": "Exotic",
-   "ru": "гексаграмматическими печатями и сигилами, защищающими от Имматериума, а это надёжно оберегает воина от демонов."
+   "ru": "Диковинная"
   },
   "158": {
    "en": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#shield-(rating)]{Shield (6)}",
-   "ru": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#shield-(rating)]{Shield (6)}"
+   "ru": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#shield-(rating)]{Щит (6)}"
   },
   "166": {
    "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.hTmQbTs6tObxYzti]{Truesilver Weave}",
-   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.hTmQbTs6tObxYzti]{Truesilver Weave}"
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.hTmQbTs6tObxYzti]{Плетение истинного серебра}"
   },
   "170": {
    "en": "Arms, Body, Legs",
-   "ru": "ЗАЩИТНЫЕ ПОЛЯ Икона правосуд.  к +        Диков. - ДОСПЕХИ Название Зона Цена Дост. Свойства Грозовой щит крестоносца Особое *     Диков. Щит ( ) Президиум Протектива Особое *     Диков. Щит ( ) Истинное серебро Руки, торс, ноги       Диков. Гексаграмматич. броня Руки, торс, ноги       Диков. Тяжёлое ("
+   "ru": "Руки, Тело, Ноги"
   },
   "174": {
    "en": "3",
-   "ru": "), Громкое Броня"
+   "ru": "3"
   },
   "178": {
    "en": "3",
-   "ru": "Вес Название Зона"
+   "ru": "3"
   },
   "182": {
    "en": "5000",
-   "ru": "Цена Дост. Свойства Броня Вес   V The InquIsITIon Armoury ПРЕЗИДИУМ"
+   "ru": "5000"
   },
   "186": {
    "en": "Exotic",
-   "ru": "ПРОТЕКТИВА Считается, что такие щиты содержат в себе частицу доспехасамогоИмператора.Онисделаныизмножества слоёв"
+   "ru": "Диковинная"
   },
   "198": {
    "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.OjYzpQaseVnZaams]{Warded Armour}",
-   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.OjYzpQaseVnZaams]{Warded Armour}"
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.OjYzpQaseVnZaams]{Обереговый доспех}"
   },
   "202": {
    "en": "Arms, Body, Legs",
-   "ru": "армапласса и керамита, а надёжностью не уступают силовой броне. С мига своего создания такой щит мог быть благословлён разными способами, но всегда несёт на себе печать праведности и чистоты. Этот символ веры используют почти исключительно АдептаСороритас,ноизвестныслучаи,когдатакойщит преподносили"
+   "ru": "Руки, Тело, Ноги"
   },
   "206": {
    "en": "5",
-   "ru": "инквизитору,"
+   "ru": "5"
   },
   "210": {
    "en": "4",
-   "ru": "сражавшемуся плечом"
+   "ru": "4"
   },
   "214": {
    "en": "8000",
-   "ru": "к плечу с сёстрами битвы. Президиум Протектива – это щит, который может нести"
+   "ru": "8000"
   },
   "218": {
    "en": "Exotic",
-   "ru": "только персонаж, облачённый в силовой доспех. Демон или существо, обладающее порогом, получает штраф -  на все"
+   "ru": "Диковинная"
   },
   "222": {
    "en": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#heavy-(rating)]{Heavy (4)}, @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#loud]{Loud}",
-   "ru": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#heavy-(rating)]{Heavy (4)} @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#loud]{Loud}"
+   "ru": "@UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#heavy-(rating)]{Тяжёлое (4)}, @UUID[Compendium.apex-imperialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#loud]{Громкое}"
   },
   "240": {
    "en": "Force Fields",
-   "ru": "проверки против носителя Протективы. Остальные правила использования щитов см. на стр.   книги правил. ИСТИННОЕ СЕРЕБРО Сплав освящённого серебра и железа может принимать множество обличий и служить грозным оружием против демонов и"
+   "ru": "Силовые поля"
   },
   "252": {
    "en": "Name",
-   "ru": "нематериальных врагов. Ленты такогоматериала,вплетённыевшинельилинанесённые"
+   "ru": "Название"
   },
   "260": {
    "en": "Protection",
-   "ru": "на пласталевый доспех надёжно защищает от демонов и нечистых псайкеров. Истинное серебро вспыхивает ярким белым светом, когда ощущает нечестивое прикосновение Имматериума. Демон или существо,"
+   "ru": "Защита"
   },
   "268": {
    "en": "Overload",
-   "ru": "обладающее порогом, получает штраф -  на все проверки против носителя истинного серебра. ГЕКСАГРАММАТИЧЕСКАЯ БРОНЯ Основу такого доспеха составляют"
+   "ru": "Перегрузка"
   },
   "276": {
    "en": "Enc",
-   "ru": "тщательно подготовленные слои пластали и керамита, что"
+   "ru": "Нагр."
   },
   "284": {
    "en": "Cost",
-   "ru": "делает его похожим на панцирную брони. Однако куда важнее остаются печати и"
+   "ru": "Цена"
   },
   "292": {
    "en": "Avail",
-   "ru": "сигилы, выгравированные на пластинах. Каждый защитный знак, благословенный праведным оружейником,"
+   "ru": "Доступн."
   },
   "306": {
    "en": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.aX0pXxNuSzXeAOjl]{Icon of the Just}",
-   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.aX0pXxNuSzXeAOjl]{Icon of the Just}"
+   "ru": "@UUID[Compendium.apex-imperialis.navis-inquisition-items.Item.aX0pXxNuSzXeAOjl]{Икона праведника}"
   },
   "310": {
    "en": "1d10+5",
-   "ru": "каждый сигил и каждая гексаграмматическая печать защищают носителя от прикосновения демонов и психических сил. Попытки"
+   "ru": "1к10+5"
   },
   "314": {
    "en": "15",
-   "ru": "сотворить психосилу, направленную на"
+   "ru": "15"
   },
   "318": {
    "en": "0",
-   "ru": "носителя такой брони"
+   "ru": "0"
   },
   "322": {
    "en": "7000",
-   "ru": "или в его зону, получают помеху. Демон или существо, обладающее порогом, получает"
+   "ru": "7000"
   },
   "326": {
    "en": "Exotic",
-   "ru": "штраф -  на все проверки против носителя гексаграмматической брони. ГРОЗОВОЙ ЩИТ КРЕСТОНОСЦА АНТИПСАЙКЕРСКАЯ ГРАНАТА ПСИ-ОККУЛУМ"
+   "ru": "Диковинная"
   }
  }
 }
