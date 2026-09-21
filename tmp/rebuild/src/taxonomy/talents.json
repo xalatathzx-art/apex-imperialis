@@ -1,0 +1,61 @@
+{
+  "pack": "navis-talents",
+  "documentType": "Item",
+  "note": "Folder tree for the Talents compendium. 'key' is the source folder name in impmal-malexp; documents are routed by it. Colours follow the Navis Apexialis palette (see src/taxonomy/palette.json).",
+  "folders": [
+    {
+      "name": "Combat",
+      "color": "#7a2020",
+      "sort": 100,
+      "children": [
+        { "name": "Melee", "color": "#963030", "sort": 100, "keys": ["Melee"] },
+        { "name": "Ranged", "color": "#963030", "sort": 200, "keys": ["Ranged"] },
+        { "name": "Defence", "color": "#963030", "sort": 300, "keys": ["Defense", "Defence"] },
+        { "name": "Movement", "color": "#963030", "sort": 400, "keys": ["Movement"] }
+      ]
+    },
+    {
+      "name": "Expertise",
+      "color": "#1f4e79",
+      "sort": 200,
+      "children": [
+        { "name": "Knowledge", "color": "#2f6ba3", "sort": 100, "keys": ["Knowledge"] },
+        { "name": "Medicae", "color": "#2f6ba3", "sort": 200, "keys": ["Medicae"] },
+        { "name": "Tech", "color": "#2f6ba3", "sort": 300, "keys": ["Tech"] },
+        { "name": "Piloting", "color": "#2f6ba3", "sort": 400, "keys": ["Piloting"] }
+      ]
+    },
+    {
+      "name": "Guile & Influence",
+      "color": "#5b2f8b",
+      "sort": 300,
+      "children": [
+        { "name": "Social", "color": "#7a46b0", "sort": 100, "keys": ["Social"] },
+        { "name": "Leadership", "color": "#7a46b0", "sort": 200, "keys": ["Leadership"] },
+        { "name": "Stealth", "color": "#7a46b0", "sort": 300, "keys": ["Stealth"] }
+      ]
+    },
+    {
+      "name": "Warp & Faith",
+      "color": "#8b6a1f",
+      "sort": 400,
+      "children": [
+        { "name": "Faith", "color": "#b08c30", "sort": 100, "keys": ["Faith"] },
+        { "name": "Psyker", "color": "#b08c30", "sort": 200, "keys": ["Psyker"] },
+        { "name": "Untouchables", "color": "#b08c30", "sort": 300, "keys": ["Untouchables"] }
+      ]
+    },
+    {
+      "name": "Adeptus Mechanicus",
+      "color": "#8b5a2f",
+      "sort": 500,
+      "keys": ["Mechanicus"]
+    },
+    {
+      "name": "General",
+      "color": "#4a4a4a",
+      "sort": 600,
+      "keys": ["General"]
+    }
+  ]
+}

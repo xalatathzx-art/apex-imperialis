@@ -1,0 +1,59 @@
+{
+  "name": "Accustomed to Crowds",
+  "type": "talent",
+  "_id": "malExpTal0000114",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Free action Awareness check to prevent Reaction attack from engaged enemy upon leaving, Crowds are not difficult terrain</span></p><hr><p><span style=\"font-family: Arial\"><em>You do not consider packed crowds to be Difficult Terrain. Additionally, when you attempt to leave while Engaged without performing the Disengage Action, you may make perform an Awareness Test as a free Action to prevent enemies from attacking you as a Reaction.</em></span></p>",
+      "gm": "Talent Category: Movement"
+    },
+    "requirement": {
+      "value": "-",
+      "script": ""
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "peKMu9b8pxb7bDBT",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 100000
+}

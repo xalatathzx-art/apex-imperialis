@@ -1,0 +1,59 @@
+{
+  "name": "Reclamator",
+  "type": "talent",
+  "_id": "malExpTal0000195",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Requistion item with 1-step reduced scarcity (min: Common) but it is damaged and needs repairing (8+h extended Engineering task). Illegel if your not Admech</span></p><hr><p><span style=\"font-family: Arial\"><em>You have access to a reliable supply of broken or damaged technology, and can reassemble it yourself at half the cost. When you requisition items, you can choose to reduce the Rarity by one level (to a minimum of Common). However, if you do so, the item cannot be used until you repair it. You must undertake an 8-hour minimum Extended Tech Engineering) Test with a difficulty according to the table in the Crafting Endeavor (pg. 233) – but you are not required to actually take the endeavor to undertake the repairs. If you are not a member of the Adeptus Mechanicus, this activity is considered illegal, a violation of both the Lex Imperialis and the Treaty of Mars. </em></span></p>",
+      "gm": "Talent Category: Mechanicus"
+    },
+    "requirement": {
+      "value": "1 Advance in Tech(Engineering)",
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Engineering\" && i.system.skill == \"tech\")?.system?.advances >= 1)"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "v1jaQSwVla5DGTQg",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 600000
+}

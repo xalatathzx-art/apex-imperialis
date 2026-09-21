@@ -1,0 +1,59 @@
+{
+  "name": "Cleanse with Fire",
+  "type": "talent",
+  "_id": "malExpTal0000166",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Add WilB/2 to any flamer damage</span></p><hr><p><span style=\"font-family: Arial\"><em>When attacking with a weapon with the Flamer Trait, you may add half your Willpower Bonus (rounding up) to your Damage. </em></span></p>",
+      "gm": "Talent Category: Faith"
+    },
+    "requirement": {
+      "value": "Faithful (Imperial Cult) Talent, 2 Advances in Ranged",
+      "script": "return this.actor.system.skills.ranged.advances >= 2 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Faithful (imperial Cult)\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "oBHvd40uCHrPtfbK",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 1400000
+}

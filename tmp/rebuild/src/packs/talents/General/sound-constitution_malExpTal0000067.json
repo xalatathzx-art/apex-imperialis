@@ -1,0 +1,171 @@
+{
+  "name": "Sound Constitution",
+  "type": "talent",
+  "_id": "malExpTal0000067",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">+X wounds (increases by 1 each time the talent is bought)</span></p><hr><p><span style=\"font-family: Arial\"><em>You gain one additional wound each time you have purchased this talent. Note the number of times this talent has been taken, such as Sound Constitution (3).</em></span></p>",
+      "gm": "Talent Category: General"
+    },
+    "requirement": {
+      "value": "-",
+      "script": ""
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [
+    {
+      "name": "Sound Constitution",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "_id": "ze43FwW17DjlNUne",
+      "type": "base",
+      "system": {
+        "transferData": {
+          "type": "document",
+          "originalType": "document",
+          "documentType": "Actor",
+          "avoidTest": {
+            "value": "none",
+            "opposed": false,
+            "prevention": true,
+            "reversed": false,
+            "skill": {}
+          },
+          "testIndependent": false,
+          "equipTransfer": false,
+          "selfOnly": false,
+          "prompt": false,
+          "area": {
+            "templateData": {
+              "borderColor": null,
+              "fillColor": null,
+              "texture": null
+            },
+            "keep": false,
+            "aura": {
+              "transferred": false,
+              "render": false
+            },
+            "duration": "sustained"
+          },
+          "zone": {
+            "type": "zone",
+            "transferred": false,
+            "traits": {
+              "barrier": false,
+              "difficult": false,
+              "warpTouched": false
+            },
+            "skipImmediateOnPlacement": false,
+            "keep": false
+          }
+        },
+        "itemTargetData": {
+          "ids": [],
+          "allItems": false
+        },
+        "scriptData": [
+          {
+            "script": "this.actor.system.combat.wounds.max += this.actor.itemTypes[\"talent\"].find(i => i.name == \"Sound Constitution\")?.system?.taken",
+            "label": "SoundConstitution",
+            "trigger": "computeCombat",
+            "options": {
+              "targeter": false,
+              "defending": false,
+              "deleteEffect": false
+            },
+            "async": false
+          }
+        ],
+        "zone": {
+          "type": "zone",
+          "traits": {},
+          "skipImmediateOnPlacement": false
+        },
+        "sourceData": {
+          "test": {}
+        },
+        "computed": false
+      },
+      "changes": [
+        {
+          "key": "system.characteristics.ws.modifier",
+          "mode": 2,
+          "value": "",
+          "priority": null
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "combat": null,
+        "seconds": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "description": "",
+      "origin": null,
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "sort": 0,
+      "flags": {
+        "impmal": {
+          "manualEffectKeys": false
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.345",
+        "systemId": "impmal",
+        "systemVersion": "3.1.0"
+      }
+    }
+  ],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "KmCDAtV80ZeH9J36",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 200000
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Фрейм Ремесленник",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000112",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 11200,
+  "system": {
+    "notes": {
+      "player": "<p>Фрейм для высших чинов Технопровидцев — символ ранга и набор аугментаций для созидания и ремонта, с вереницей тонких мехадендритов, расходящейся от пояса металлической юбкой.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт Интерфейсные Порты ко всем распространённым инструментам для Крафта и <strong>+1 успех на проверки Техники</strong>, если владелец подключился через них, снижает время смены для Крафта и ремонта на 2 часа. Взамен <strong>−1 к скорости</strong> любым способом передвижения, <strong>−1 успех на Уклонение</strong>, считается на 1 Размер больше в расчёте атак и Скрытности, а скорость Бега падает до скорости Натиска.</p>",
+    "page": "DoomBC стр. 273",
+    "category": "mechanicum",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp01110",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt11100",
+            "kind": "testMod",
+            "skill": "tech",
+            "value": 1
+          },
+          {
+            "id": "navisImpEnt11101",
+            "kind": "testMod",
+            "skill": "reflexes",
+            "value": -1
+          },
+          {
+            "id": "navisImpEnt11102",
+            "kind": "speed",
+            "key": "land",
+            "value": -1
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 273",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

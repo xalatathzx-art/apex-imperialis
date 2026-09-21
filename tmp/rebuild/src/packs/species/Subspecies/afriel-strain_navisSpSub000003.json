@@ -1,0 +1,88 @@
+{
+  "name": "Afriel Strain",
+  "type": "navis-apexialis.subspecies",
+  "_id": "navisSpSub000003",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder002",
+  "sort": 300,
+  "system": {
+    "notes": {
+      "player": "<p>You are a clone, an artificially grown human assembled by genetors from the DNA of great heroes or of geniuses in their field, so as to inherit their talent. Yet however great your inborn gift, it is often cancelled out by the curse of inexplicable misfortune that hangs over you and over every other Afriel. That curse is well enough known that cloning people is not popular at all, except for organs and for the gene-seed farms.</p> <p>Perhaps you were made by a madman, or by a fool who believed he could outplay the powers that send the curse; or perhaps you were made as an organ donor or a sacrificial lamb for a gene-seed farm, escaped somehow, and your original is walking somewhere in the Galaxy still.</p>",
+      "gm": "<p><em>Conversion:</em> DoomBC makes two characteristics and three skills \"friendly\", meaning cheaper to advance. impmal has one XP ladder and no friendly or unfriendly tiers, so the trait states a flat 10 XP reduction for the chosen five, applied by the GM.</p>"
+    },
+    "category": "transhuman",
+    "reference": "DoomBC p.5",
+    "restricted": false,
+    "characteristics": {
+      "modifiers": {
+        "ws": 0,
+        "bs": 0,
+        "str": 0,
+        "tgh": 0,
+        "ag": 0,
+        "int": 0,
+        "per": 0,
+        "wil": 0,
+        "fel": 0
+      },
+      "choice": {
+        "number": 0,
+        "value": 5,
+        "keys": []
+      }
+    },
+    "skills": {},
+    "size": "",
+    "corruption": 0,
+    "roles": [
+      "Savant",
+      "Interlocutor",
+      "Warrior"
+    ],
+    "removes": [],
+    "grantedTraits": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0029",
+          "id": "navisSpTrait0029",
+          "name": "Engineered Talent",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0030",
+          "id": "navisSpTrait0030",
+          "name": "Cursed Luck",
+          "diff": {}
+        }
+      ]
+    },
+    "talents": {
+      "list": []
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": []
+    },
+    "requires": "Human"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

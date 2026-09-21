@@ -1,0 +1,82 @@
+{
+  "name": "Сервоматрица Протектора",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000077",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00005",
+  "sort": 7700,
+  "system": {
+    "notes": {
+      "player": "<p>Сеть вторичных систем дублирует почти всю бионику и биологические органы Скитария, а контрольные цепи в мозге содержат триггер-рутины для роли телохранителя.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт <strong>+10 Ран</strong> и черту Фанатик, которую владелец обязан использовать, заметив атаку на своего командира, а также дополнительную Реакцию, которую можно потратить только на эту черту.</p>",
+    "page": "DoomBC стр. 270",
+    "category": "skitarii",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 3500,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Бонус к Ранам ниже.",
+      "2": "",
+      "3": "Бонус к Ранам выше.",
+      "4": "Бонус к Ранам максимален."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00760",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt07600",
+            "kind": "wounds",
+            "value": 10
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 270",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

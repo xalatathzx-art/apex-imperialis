@@ -1,0 +1,33 @@
+{
+  "name": "Coiled Body",
+  "type": "trait",
+  "_id": "navisSpTrait0021",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 2100,
+  "system": {
+    "notes": {
+      "player": "<p>No legs. A great deal of everything else.</p> <p>You cannot be knocked <em>Prone</em>, and you ignore Difficult Terrain made of water, mud or undergrowth. Ladders, stairs built for human legs and anything requiring you to sit are a problem you solve slowly and with bad grace.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

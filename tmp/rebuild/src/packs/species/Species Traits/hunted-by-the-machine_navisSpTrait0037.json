@@ -1,0 +1,33 @@
+{
+  "name": "Hunted by the Machine",
+  "type": "trait",
+  "_id": "navisSpTrait0037",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 3700,
+  "system": {
+    "notes": {
+      "player": "<p>Both Mechanicums build sensors to find your kind, and squads to end them.</p> <p>Your Influence with the Adeptus Mechanicus can never rise above 0, and you have Disadvantage on every social Test with any of its servants. Someone is always looking.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

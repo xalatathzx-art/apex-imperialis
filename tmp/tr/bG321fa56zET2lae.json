@@ -1,0 +1,17 @@
+{
+ "name": "Слабости",
+ "runs": {
+  "2": "В этом разделе приведены новые слабости, которые могут быть у покровителей-инквизиторов. Как и с возможностями, не каждая слабость подходит любому покровителю — в зависимости от его пуританской или радикальной позиции и от того, какой философии он придерживается. Вашей группе стоит обратиться к соответствующим таблицам возможностей и слабостей за базовым набором вариантов. При создании покровителя можно выбирать и @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.z2s8dXrvTS7rx1J4]{слабости} из книги Imperium Maledictum.",
+  "6": "Некоторые слабости снижают влияние покровителя у одной или нескольких фракций, отражая дурные последствия его прошлых поступков для его репутации.",
+  "16": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.41xnk9hJVhc0555E]{Кризис веры}",
+  "20": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.sPEvdG4NWrSwN7xx]{Смертельные задания}",
+  "24": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ECZvrU6GcqZxSSsq]{Вражеские оперативники}",
+  "28": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.id8cdcbMOMVLSMzN]{Связь с еретехом}",
+  "32": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.7fBCYT6juc6o2vI2]{Скрытая философия}",
+  "42": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.mddYHlcLmbkOVaiO]{Потерянный и проклятый}",
+  "46": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.aYOpeeOkZDLmOTCp]{Навязчивая цель}",
+  "50": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.oKdtATvr5hn5yXbn]{В санкции отказано}",
+  "54": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.fjCQ7BvHdISNT5q8]{Спящий агент}",
+  "58": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.jcbEhQkzpNfm5UZr]{Колёса внутри колёс}"
+ }
+}

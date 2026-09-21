@@ -1,0 +1,59 @@
+{
+  "name": "Hunter's Instinct",
+  "type": "talent",
+  "_id": "malExpTal0000133",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Ranged attacks against enemies out of Cover: +1 damage</span></p><hr><p><span style=\"font-family: Arial\"><em>Far too frequently, Imperial Forces find themselves facing off against brutishly large enemies, or targets so huge and tough that the idea of taking cover is laughable. In such cases, a calm eye for weak points can do surprising damage. Your ranged attacks against enemies not in cover deal 1 extra damage.</em></span></p>",
+      "gm": "Talent Category: Ranged"
+    },
+    "requirement": {
+      "value": "1 Advance in Ranged",
+      "script": "return this.actor.system.skills.ranged.advances >= 1"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "RR06fV9NhqJFz6js",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 200000
+}

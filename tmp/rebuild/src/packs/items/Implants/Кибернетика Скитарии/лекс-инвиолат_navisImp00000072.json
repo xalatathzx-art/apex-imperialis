@@ -1,0 +1,70 @@
+{
+  "name": "Лекс Инвиолат",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000072",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00005",
+  "sort": 7200,
+  "system": {
+    "notes": {
+      "player": "<p>Код имплантов Скитария дополнительно укреплён против взлома, а его Ноосферный Фид отделён от прочих систем закодированными дата-коннекторами.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Все проверки Техночудес, направленные на бионику и кибернетику владельца, получают штраф.</p>",
+    "page": "DoomBC стр. 270",
+    "category": "skitarii",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 3500,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Штраф ниже.",
+      "2": "",
+      "3": "Штраф выше.",
+      "4": "Штраф максимален."
+    },
+    "slot": "cortex",
+    "side": "",
+    "location": "head",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 270",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

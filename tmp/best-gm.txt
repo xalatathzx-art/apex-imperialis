@@ -1,0 +1,59 @@
+distinct gm 58
+2 | <p>Possessions: A set of Kabalite Armor, a collection of horrific battle trophies.</p> | Kabalite Warrior, Trueborn Kabalite
+1 | <p>Possessions: None. Source lists this profile's role as 'Master' tier (above Leader); stored here as Leader, the closest supported role, since the sheet has no separate Master category.</p> | Genestealer Patriarch
+13 | <p>Possessions: None.</p> | Krootox, Dybuk Killer, Ariadne Helspider
+2 | <p>Possessions: a set of Cult Robes, a Disguise Kit, some Heretical Writings, a Glow Globe, an Unholy Icon, 20 Solars</p> | Cultist, Cult Gunner
+2 | <p>Possessions: A set of Astra Militarum Flak Armor, a pair of dog tags, a Gas Mask, an Entrenching Tool, a uniform, a set of Survival Gear in a backpack, 30 Solars</p> | Renegade Guardsman, Renegade Sergeant
+1 | <p>Source lists Wounds as '8 or 11' for a Medium or Large swarm respectively; the Large variant has 11 Wounds instead of 8.</p> | Mutant Rat Swarm
+1 | <p>Possessions: A set of riveted flakboard plates.</p> | Ogryn Brute
+1 | <p>Possessions: A set of Aeldari Mesh Armor, an empty Spirit Stone, 2x Plasma Grenades, 2x Krak Grenades</p> | Storm Guardian
+1 | <p>Possessions: A set of Light Aeldari Aspect Armor, an empty Spirit Stone</p> | Dire Avengers
+3 | <p>Possessions: A set of Wychsuit armor, a collection of horrific battle trophies, 1 dose of a single combat drug.</p> | Wych, Beastmaster, Hekatrix
+1 | <p>Possessions: Light Aspect Armor, Howling Banshee Mask, Empty Spirit Stone</p> | Howling Banshee
+1 | <p>Possessions: Armored Bodyglove, 1d10 Solars, Gang Colors, Filtration Plugs, Cameleoline Cloak, Auto-Sense Goggles</p> | Sanctus
+2 | <p>Possessions: A set of Aeldari Aspect Armor, an empty Spirit Stone</p> | Dark Reaper, Striking Scorpion
+1 | <p>Possessions: Heavy Leathers, 1d10 Solars, Gang Colors, Filtration Plugs, Vox Interceptor Array (counts as Vox Caster, Leech, and Signal Jammer), Laud Hailer</p> | Clamavus
+1 | <p>Possessions: Carapace Chestplate, Vox-Caster, Auspex, Cult/Gang Colors</p> | Nexos
+1 | <p>Possessions: An Unholy Icon, tattered rags.</p> | Chaos Beastman
+1 | <p>Possessions: Grisly trophies, 6 doses of Slaught, Injector</p> | Wrack
+1 | <p>Possessions: Carapace Chestplate, Gang/Cult Colors, Rebreather, Cult Icon</p> | Primus
+1 | <p>Possessions: Tattered Light Leathers, an Unholy Icon.</p> | Rogue Psyker
+1 | <p>Possessions: Corrupted Carapace Armor, Heretical Writings, an Unholy Icon, a Storm Shield.</p> | Blessed Blade
+1 | <p>Possessions: Carapace Chestplate Refractor Field, a pair of dog tags, a Gas Mask, an Entrenching Tool, a uniform, a set of Survival Gear in a Backpack, 300 Solars.</p> | Renegade Officer
+1 | <p>Possessions: Heavy Leathers, 1d10 Solars, Gang/Cult Colors, Filtration Plugs, Remote Detonators, 2x Demolition Charges</p> | Reductus Saboteur
+1 | <p>Possessions: A set of Aeldari Aspect Armor, an empty Spirit Stone, a Warp Jump Generator</p> | Warp Spider
+1 | <p>Possessions: Crisis Battlesuit, 4x Support Systems</p> | XV8 Crisis Battlesuit Commander
+1 | <p>Possessions: Set of Cult Robes, Heretical Writings, an Unholy Icon, 1d10 Solars</p> | Cult Fanatic
+1 | <p>Possessions: Some Tech-Assassins may have clothing to hide themselves amongst crowds.</p> | Tech-Assassin
+1 | <p>Possessions: A set of Mk. VII "Aquila" Power Armor.</p> | Traitor Legionnaire
+1 | <p>Possessions: Fire Warrior Heavy Combat Armor</p> | Fireblade
+2 | <p>Possessions: Xenos Mesh, Cult/Gang Colors, Filtration Plugs, Cult Icon</p> | Benefictus, Magus
+1 | <p>Possessions: Pathfinder Recon Armor, Markerlight, may exchange Rail Rifle with Pulse Carbine or Ion Rifle</p> | Pathfinder
+2 | <p>Possessions: Fire Warrior Combat Armor, Replace Pulse Rifle with Pulse Carbine and EMP Grenade with Photon Flash Grenade if part of a Breacher Team.</p> | Fire Warrior Shas'ui, Fire Warrior
+1 | <p>Possessions: A set of Aeldari Mesh Armor, an empty Spirit Stone</p> | Guardian Defender
+1 | <p>Possessions: ragged Heavy Leathers, an Unholy Icon, 1d10 solars.</p> | Accursed Cultist
+1 | <p>Possessions: Heavy Leathers, 1d10 Solars, Gang/Cult Colors, Filtration Plugs</p> | Neophyte Hybrid
+1 | <p>Possessions: A set of Aeldari Light Mesh Armor, an empty Spirit Stone.</p> | Aeldari Ranger
+1 | <p>Possessions: Heavy Leathers, 2d10 Solars, Cult/Gang Colors</p> | Acolyte Hybrid
+1 | <p>Possessions: A set of Aeldari Aspect Armor, an empty Spirit Stone, 2x Melta Bombs</p> | Fire Dragon
+1 | <p>Base profile shows 3 Wounds, but while acting as a swarm it counts as having 20 Wounds (see Overwhelming).</p> | Xothic Blood Locust Swarm
+1 | <p>Possessions: A set of Wychsuit armor, a collection of horrific battle trophies, 3 doses of Accelerai.</p> | Succubus
+1 | <p>Possessions: Ornamental Robes, Hidden Mesh Vest, Cult Icon</p> | Locus
+2 | <p>Possessions: Heavy Leathers, 1d10 Solars, Gang/Cult Colors, Filtration Plugs, Motorbike (IM CRB pg. 226) or Combat Bike (Vehicles of the Imperium pg. 18) or Quadbike (MRG pg. 85)</p> | Atalan Jackal Alphus, Atalan Jackal
+1 | <p>Possessions: Broadside Battlesuit</p> | XV88 Broadside Battlesuit
+1 | <p>Possessions: Xenos Mesh, Desecrated Robes, 1d10x1000 Solars, Heretical books</p> | Fallen Demagogue
+1 | <p>Possessions: Ornamental Robes</p> | Ethereal
+1 | <p>Initiative is listed in the source as PerB+AgB (Per Bonus + Agility Bonus = 3+5 = 8).</p> | Ambull
+1 | <p>Possessions: Stingwing Armor</p> | Vespid Stingwing
+1 | <p>Possessions: Tattered Heavy Leathers, an Unholy Icon, a Cult Standard, a book of abominable knowledge.</p> | Cult Leader
+1 | <p>Possessions: A set of Tempestus Carapace armour incorporating an Omnishield Helm (built in Photo-visors, Respirator, and Vox Bead), a Chirurgeon's Kit, a pair of dog tags, a set of Magnoculars, a Pict Recorder, a copy of the Imperial Infantryman's Uplifting Primer.</p> | Renegade Veteran
+1 | <p>Possessions: Heavy Leathers, 1d10 Solars</p> | Hybrid Metamorph
+1 | <p>Possessions: Ragged Light Leathers</p> | Kroot Shaper
+1 | <p>Possessions: None. Resolve is listed as 'Special' in the source (tied to Machine Intelligence) and is set to 0 here for lack of an automatable value.</p> | T'au Drone
+1 | <p>Possessions: Tattered Heavy Leathers, Cult Icon</p> | Iconarch
+1 | <p>Possessions: Heavy Leathers, Gang/Cult Colors, Filtration Plugs, Ornamental Cape</p> | Kelermorph
+1 | <p>Possessions: Heavy Leathers, Gang/Cult Colors, Gasmask, Poison Vials, 2x Hallucinogen Grenades (Inq. PG pg. 91)</p> | Biophagus
+1 | <p>Possessions: None. Resolve is listed as 'Special' in the source (protected by Mindwyrm Familiar) and is set to 0 here for lack of an automatable value.</p> | Abominant
+1 | <p>Possessions: A Clone Field, 1d5 doses of all drugs</p> | Haemonculus
+1 | <p>Possessions: A set of Ghostplate Armor, Shadow Field, 3 doses of Corpse Obmulen, a collection of horrific battle trophies, a Soul Trap</p> | Archon
+1 | <p>Possessions: Crisis Battlesuit, 3x Support Systems</p> | XV8 Crisis Battlesuit

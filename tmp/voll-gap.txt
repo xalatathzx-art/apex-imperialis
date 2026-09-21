@@ -1,0 +1,230 @@
+## trait | Call for Backup | 12z2XfTtvXfn6kwY Морган Трейс
+<p>While in the @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.0sTvCVRuh5Wpawt9.JournalEntryPage.eiMwmm7AQZLlFOkn#f.-the-float]{Float}, as an Action, Trace can call for backup on her Vox Bead. All Marauders hear this call within 1 mile. Backup usually arrives in [[/r 1d5]] Rounds and consists of a mix of @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZUWBWGM4eH7xFZ8P]{Dregs} and @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{Gangers}.</p>
+
+## trait | Marauder Commander | 12z2XfTtvXfn6kwY Морган Трейс
+<p>As an Action, Trace may make a <strong>Challenging (+0) Presence (Leadership)</strong> Test. For every SL, a member of Trace’s Marauders within Medium Range may spend their Reaction to take an immediate action.</p>
+
+## trait | I Know My Ride | 2b1OPABz1PyQO5eq Зеньи Рестакс
+<p>Restax has Advantage on all Piloting Tests in her Cargo-8, including any Tech Tests to repair or maintain it.</p>
+
+## trait | Fearless | 47e5e8pz6cKrei1w Предвестник
+<p>The Harbinger is immune to the <em>Frightened</em> Condition.</p>
+
+## trait | Two-handed Reaper | 47e5e8pz6cKrei1w Предвестник
+<p>The Harbinger has grown adept at swinging his power sycthe in wide, destructive arcs. In his hands the weapon gains the <em>Spread</em> Trait, though his attacks never target himself. If his allies fall to his blade, however, this is no less than the Emperor’s will.</p>
+
+## trait | Slippery Burrower | 7F9x6CZCJCp0IV6b Ацинади Бета-3
+<p>When in shallow pools of liquid or atop soft earth, the Acynadi Beta-3 can make a Hide Action to burrow out of sight. It can also do this as a free action immediately after making the Disengage Action.</p>
+
+## trait | Elongated Bulk | 8dS1s1UvVXyt6dyv Ацинади Гамма-7
+<p>When the Acynadi Gamma-7 Charges, its target must make a <strong>Challenging (+0) Reflexes (Balance)</strong> Test to avoid being knocked Prone.</p>
+
+## trait | Slippery Burrower | 8dS1s1UvVXyt6dyv Ацинади Гамма-7
+<p>When in shallow pools of liquid or atop soft earth, the Acynadi Gamme-7 can make a Hide Action to burrow out of sight. It can also do this as a free action immediately after making the Disengage Action.</p>
+
+## trait | Wall Climber | 8dS1s1UvVXyt6dyv Ацинади Гамма-7; ZIxRrvXoXCRKAYyI Ацинади Дельта-5
+<p>The Acynadi Delta-5 can climb most surfaces without making a Test. When it attacks or defends against a target from above, it gains Advantage.</p>
+
+## trait | Home Turf | AU5nhd0cV0sffDku Огрин-гангер
+<p>The Ogryn Ganger has +1 Resolve and Advantage on Discipline, Presence, Navigation, and Stealth Tests if it is in its own Gang's territory.</p>
+
+## trait | Ogryn Might | AU5nhd0cV0sffDku Огрин-гангер
+<p>The Ogryn Ganger has +10 to Strength and Toughness but −10 to Intelligence and Fellowship.</p>
+
+## trait | Voice of Authority | BMt1lzDVRMWAsuQk лорд Фелпут
+<p>Lord Felputh is always sure he’s right, even when he’s lying. He gains +1 Resolve and Advantage on any Social Test, except when engaging with a character of higher social or Imperial rank.</p>
+
+## trait | Harbinger's Faithful | BNzIELnXHo5A5LGP Культист Вертексис
+<p>As long as the Harbinger is conscious and fighting, the Vertexis Cultist gains Advantage on any Discipline (Fear) Test, and their Resolve increases to 3. If the Harbinger falls, their Resolve drops to 0, and they flee.</p>
+
+## trait | Left Hand of Sihn | CQH3R36NIhE0JyQ9 Адриана Корбид
+<p>Corbid can use her action to command a member of the Court of Sihn within Medium range to make an immediate action.</p>
+
+## trait | Visions of Sihn | CQH3R36NIhE0JyQ9 Адриана Корбид
+<p>If Corbid makes a <em>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.6hX0E9XlPUoRaDaQ.JournalEntryPage.dZFX8HOdsFDpI7l0#resolve]{Look Out, Sir!}</em> action to protect Markis Sihn, she makes an <strong>Easy (+20) Reflexes (Dodge)</strong> Test to do so.</p>
+
+## specialisation | Forbidden | FS6l4jv4KbzBf89s Аркт Талгор
+<p>@UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Linguistics}</p><p>Those possessed of this skill understand a language or form of communication that is either highly restricted or prohibited within the Imperium. With few exceptions, it is considered heretical to know the languages of aliens; however, the Sisters of the Orders Dialogus are frequently granted special dispensation from the Adeptus Ministorum to learn such in pursuit of their duties. Some xenos languages, such as the Kroot’s, are unpronounceable by a Human tongue without augmentation. While some languages are considered too profane to speak, others are too holy for common knowledge. The Lingua-technis of the Adeptus Mechanicus is a forbidden language that few outside their order have ever learned, in part, because it is based on binary machine code that all but the most gifted individuals require cybernetic implants to speak. Thoughtmark, the form of sign language used by the Sisters of Silence, is also known to very few outsiders. Each Forbidden Language requires taking a corresponding @UUID[Compendium.navis-apexialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Forbidden Knowledge} Talent in order to learn it. </p>
+
+## trait | Bestial Rage | FS6l4jv4KbzBf89s Аркт Талгор
+<p>When Talgore makes a successful attack or is wounded, he gains +1 SL on his next attack.</p>
+
+## trait | Bullish Charge | FS6l4jv4KbzBf89s Аркт Талгор
+<p>When Talgore Charges, he does not gain Disadvantage on Melee and Reflexes Tests.</p>
+
+## trait | Malefic Psyker | FS6l4jv4KbzBf89s Аркт Талгор
+<p>Arkt Talgore can use the following Minor Psychic Powers: Call Vermin, Dread Presence, Smite.</p>
+
+## trait | Call for Backup | GuqQhiqch248agDB Махарийский вигил
+<p>As an Action, a Vigilite can call for backup. All Macharian Vigilites in a 1 mile radius respond in [[/r 1d10]] Rounds (or minutes if out of combat).</p>
+
+## trait | Incarceratus | GuqQhiqch248agDB Махарийский вигил
+<p>When a Vigilite is Grappling an individual they can Manacle them as a Free Action</p>
+
+## trait | Ambusher | H0LFfoPZTNE4TWjM Эскар Хелдракс
+<p>Heldrax can attempt to make a Stealth Test as part of his Movement if the Zone he is in has <em>Cover</em>.</p>
+
+## trait | Cameleoline Training | H0LFfoPZTNE4TWjM Эскар Хелдракс
+<p>Heldrax has Advantage on Stealth Tests if he does not move that turn.</p>
+
+## trait | Stalker's Riposte | H0LFfoPZTNE4TWjM Эскар Хелдракс
+<p>If an enemy is wounded within Short Range of Heldrax he can use his Reaction to order a Heldrax’s Stalkers member within hearing to make an immediate Action against that target (this uses the character’s Reaction).</p>
+
+## trait | True Faith | J2XpzgNHnNgxTXDV Каул
+<p>Caul has 1 point of Fate.</p>
+
+## trait | Burn the Witch | J2XpzgNHnNgxTXDV Каул
+<p>When a psyker within Short Range of Caul Manifests a power, Caul may use his Reaction to make an immediate @UUID[.Pw1HijVPDKGXJYlM]{Hand Flamer} attack on the zone that psyker is in.</p>
+
+## trait | Sanctioned Psyker | J2XpzgNHnNgxTXDV Каул
+<p>Caul has a Warp Threshold equal to double his Willpower bonus.</p>
+
+## trait | Bestial Rage | J8fomG1IJs18g3F5 Гелка
+<p>When Gelka makes a successful attack or is wounded, he gains +1 SL on his next attack.</p>
+
+## trait | Bullish Charge | J8fomG1IJs18g3F5 Гелка
+<p>When Gelka Charges, he does not gain Disadvantage on Melee and Reflexes Tests.</p>
+
+## trait | Ambusher | Ke8aMBc9sS3H8SpH Трисса Вант
+<p>Vant can attempt to make a Stealth Test as part of their Movement if the Zone they are in has Cover.</p>
+
+## trait | Cameleoline Training | Ke8aMBc9sS3H8SpH Трисса Вант
+<p>Trissa Vant has Advantage on Stealth Tests if she does not move that turn.</p>
+
+## trait | Heldrax's Guardian | Ke8aMBc9sS3H8SpH Трисса Вант
+<p>When an enemy in Short Range of Heldrax attacks him, Vant may use her Reaction to make an immediate attack with her Sniper Rifle against that character.</p>
+
+## trait | Utility Mechadendrite | PrUAoOrVdfD1HcAx Тибарис Аркс; rilaQaBPslIRzGco Мальтус-49
+<p>Functions as a Combi-tool and a melee weapon.</p>
+
+## augmetic | Utility Mechadendrite | PrUAoOrVdfD1HcAx Тибарис Аркс; rilaQaBPslIRzGco Мальтус-49
+<p>These snake-like metal devices are affixed to the chest, back, or shoulders and act as additional manipulators. They are only found among adepts of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.uJURMn2glWHhjqJk.JournalEntryPage.1oKZw1hTM7Gx5cqB]{Adeptus Mechanicus}, and extend roughly 2 metres in length. Each is fitted with its own special mechanisms. Using any Mechadendrite requires an Action.</p><p>Each Mechadendrite counts as a separate augmentation towards the maximum number a character can possess. If a character with Mechadendrites would suffer a Critical Wound to the Body location, roll a d10. If the result is less than the number of functioning Mechadendrites the character has installed, one of those is damaged instead. Damaged Mechadendrites cannot be used until they are repaired.</p><ul><li><p><strong>Utility</strong>: These are fitted with several devices for repairing and renovating machines, and are the most common form of Mechadendrite. They count as a Standard Quality @UUID[Compendium.navis-apexialis.navis-core-items.Item.xQ2vhqZTWMBZ3Jxi]{Combi-Tool}, granting +2 SL to Tech Tests, and can be used in melee combat as an @UUID[Compendium.navis-apexialis.navis-core-items.Item.CrbE669FitnwNPZX]{Improvised Melee Weapon (One-handed)}.</p></li></ul>
+
+## trait | Stalwart | QaiU7Hod2xMnOTM7 Боец группы «Эхо»
+<p>Echo Team Troopers have Advantage on Tests to resist or end the <em>Frightened</em> Condition.</p>
+
+## trait | Bestial Rage | TRcwwntLPqt7KaJy Мутировавший зверолюд
+<p>When a Mutated Beastman makes a successful attack or is wounded, he gains +2 SL on his next attack.</p>
+
+## trait | Bullish Charge | TRcwwntLPqt7KaJy Мутировавший зверолюд
+<p>When a Mutated Beastman Charges, he does not gain Disadvantage on Melee and Reflexes Tests.</p>
+
+## trait | Mutation | TRcwwntLPqt7KaJy Мутировавший зверолюд
+<p>For each Mutated Beastman encountered, roll [[/r 1d10]] to determine, or choose its mutation:</p><p><strong>1-4: Extra Eye</strong> — The Mutated Beastman has grown extra eyes on its head or body. They have Advantage on Awareness (Sight) Tests.</p><p><strong>5-7: Extra Limb</strong> — The Mutated Beastman has an extra limb. They may make an additional Hoof Strike or Unarmed attack during their turn.</p><p><strong>8-0: Grasping Tentacle</strong> — The Mutated Beastman has grown a Tentacle. Its Unarmed attacks gain the Reach and Inflict (Restrained) Traits.</p>
+
+## trait | Bio-Meltdown | Tb2PzBCvBZiVSKPD Эверсор Интеритас
+<p>Should Eversor Interitas perish, deeply embedded genetic kill codes trigger, driving what remains of his enhanced metabolism into overdrive. The resulting explosion threatens all those in Immediate Range, who must make a <strong>Difficult (−10) Reflexes (Dodge)</strong> Test or suffer [[/r 2d10]] damage to a random hit location.</p>
+
+## trait | Inhuman Physiology | Tb2PzBCvBZiVSKPD Эверсор Интеритас
+<p> A mixture of bio-modification and auto-injected combat drugs such as Frenzon make Eversor Interitas immune to the <em>Fatigued</em>, <em>Frightened</em>, and <em>Stunned</em> Conditions. He also gains Advantage on any Test to resist mind-altering psychic powers and substances.</p>
+
+## trait | Lightning Reflexes | Tb2PzBCvBZiVSKPD Эверсор Интеритас
+<p>The Eversor’s reflexes have been enhanced far beyond Human limits. He may dodge any ranged attack, even ones he would seem to be unaware of.</p>
+
+## trait | Lethal Toxins | Tb2PzBCvBZiVSKPD Эверсор Интеритас
+<p>An Eversor’s toxins are short-lived but particularly lethal. A Poisoned Condition inflicted by an Eversor’s weaponry has a duration of <span class="inline" style="border: 1px solid var(--border-normal); font-family: var(--font-code); font-size: 13.6px; font-style: inherit; font-weight: inherit; margin: -0.2em 0px; padding: 0px 0.2em; vertical-align: baseline; line-height: 1.125rem; background: var(--background-code); text-indent: 0px; white-space: pre-wrap; border-radius: 4px; height: auto; width: auto">[[/r 1d5]]</span><span class="latin12CompactTimeStamp_c19a55 timestamp_c19a55 timestampVisibleOnHover_c19a55 alt_c19a55" style="border: 0px; font-family: inherit; font-size: 0.6875rem; font-style: inherit; font-weight: var(--font-weight-medium); margin-top: 0px; margin-right: var(--custom-message-meta-space); margin-bottom: 0px; margin-left: 0px; padding: 0px; vertical-align: baseline; outline: 0px; cursor: default; display: inline-block; height: 1.375rem; pointer-events: auto; opacity: 0; width: 56px; color: var(--text-muted); line-height: 1.375rem; text-align: right; text-indent: 0px; left: 0px; position: absolute; user-select: none; z-index: 1"><em class="separator_c19a55" aria-hidden="true" style="display: inline-block; font-style: normal; opacity: 0; position: absolute; z-index: -1;"><time aria-label="Aujourd’hui à 17:52" id="message-timestamp-1412193370272694455" datetime="2025-09-01T21:52:16.757Z">[</time></em><time aria-label="Aujourd’hui à 17:52" id="message-timestamp-1412193370272694455" datetime="2025-09-01T21:52:16.757Z">17:52</time><em class="separator_c19a55" aria-hidden="true" style="display: inline-block; font-style: normal; opacity: 0; position: absolute; z-index: -1;"><time aria-label="Aujourd’hui à 17:52" id="message-timestamp-1412193370272694455" datetime="2025-09-01T21:52:16.757Z">]</time></em></span>rounds, after which time the character must pass a  <strong>Challenging (+0) Fortitude (Poison)</strong> Test or die.</p>
+
+## trait | Overkill Protocols | Tb2PzBCvBZiVSKPD Эверсор Интеритас
+<p>Eversor Interitas is inhumanly fast, and acts twice each round — once on its own initiative, and once again at the end of the initiative order. Additionally, any time he inflicts a Critical Wound, he may immediately make another attack.</p>
+
+## trait | Sentinel Array | Tb2PzBCvBZiVSKPD Эверсор Интеритас
+<p>The Eversor cannot be Surprised, and gains Advantage on all Awareness Tests.</p>
+
+## trait | Bullish Charge | YWOtDHG1vScQKCB4 Меск
+<p>When Mesk Charges, he does not gain Disadvantage on Melee and Reflexes Tests.</p>
+
+## trait | Bestial Rage | YWOtDHG1vScQKCB4 Меск
+<p>When Mesk makes a successful attack or is wounded, he gains +1 SL on his next attack.</p>
+
+## weapon | Herdcrafted Cleaver | YWOtDHG1vScQKCB4 Меск
+<p>Mesk only has access to this weapon if he can recover one or is given one by the characters.</p>
+
+## trait | Slippery Burrower | ZIxRrvXoXCRKAYyI Ацинади Дельта-5
+<p>When in shallow pools of liquid or atop soft earth, the Acynadi Delta-5 can make a Hide Action to burrow out of sight. It can also do this as a free action immediately after making the Disengage Action.</p>
+
+## trait | Stalwart | c8ecBxgeS9Rrtxpm капитан Поллис
+<p>Captain Pollis has Advantage on Tests to resist or end the <em>Frightened</em> Condition.</p>
+
+## trait | Guided Volley | c8ecBxgeS9Rrtxpm капитан Поллис
+<p>As an Action, Captain Pollis can target a Zone adjacent to one of her troopers and make a <strong>Challenging (+0) Presence (Leadership)</strong> Test. For each SL gained, a member of Echo Team within short range of her target Zone makes an immediate ranged attack on an enemy in that Zone.</p>
+
+## trait | Grafted Muscle | ciU9gLyQG3bdXpT1 Гангер с пересаженными мышцами
+<p>Unstable, grafted muscle implants reinforce this brute's frame. At the start of their turn, a Grafted Ganger may choose to add +5 SL to any Strength or Weapon Skill Tests until the end of their turn. If they do so, they take 5 Damage at the end of their turn which is not reduced by armour.</p>
+
+## trait | Home Turf | ciU9gLyQG3bdXpT1 Гангер с пересаженными мышцами
+<p>The Gang Leader has +1 Resolve and Advantage on Discipline, Presence, Navigation, and Stealth Tests if it is in its own Gang's territory</p>
+
+## trait | Bureaucratic Boldness | gw1UiYXapR7TRNHF Барсис Ванд
+<p>The character has advantage whenever dealing with paperwork, tithes, or any other bureaucratic conversation.</p>
+
+## trait | Chief Whip | gw1UiYXapR7TRNHF Барсис Ванд
+<p>As an Action, the character can command any Troop of the Adeptus Administratum to immediately take an Action.</p>
+
+## trait | Unnatural Physique | i1LNkpV6WWiZR7PL Лерна Харрог
+<p>Harrog’s flesh and bones are unnaturally malleable, allowing her to squeeze through gaps far too small for someone her size to manage otherwise. She also gains +1 Critical Wound.</p>
+
+## trait | True Faith | iKvdzTSaNlUB2E4l Освятитель
+<p>The Sanctifier has 1 point of Fate.</p>
+
+## trait | Command Protocol | jSJkugzVGrfqbl9o Скитарий-авангард; vsiOALilPnEe3dKg Альфа скитариев-авангардов
+<p>The Skitarii Vanguard Alpha is always ready for action; their Initiative is increased by 10.</p>
+
+## trait | Rad-saturation | jSJkugzVGrfqbl9o Скитарий-авангард; vsiOALilPnEe3dKg Альфа скитариев-авангардов
+<p>Non-Adeptus Mechanicus characters who share a Zone with a Skitarii Vanguard Alpha become <em>Poisoned (Minor)</em>. This effect does not stack with other instances of the <em>Rad-saturation</em> Trait.</p>
+
+## trait | Omnispex Augmetics | jSJkugzVGrfqbl9o Скитарий-авангард; vsiOALilPnEe3dKg Альфа скитариев-авангардов
+<p>Skitarii Vanguard Alpha can ignore the <em>Dark</em> or <em>Poorly Lit</em> Environmental Traits in their Zone and adjacent Zones.</p>
+
+## trait | Touch of Corruption | kzYsrPppcXUNYTVe Маркис Син
+<p>Characters affected by Sihn’s <em>Cleanse</em> or <em>Seal Wounds</em> Psychic Powers must make a <strong>Challenging (+0) Fortitude (Endurance)</strong> Test to resist gaining 1 point of Corruption.</p>
+
+## trait | Unrestrained Power | kzYsrPppcXUNYTVe Маркис Син
+<p>Sihn can choose to gain Advantage on any Psychic Mastery Test. If he does so, he must double the Warp Charge gained.</p>
+
+## trait | Burn the Witch | lnafsO0ZA2MZTKRq Агоракс
+<p>When a non-sanctioned psyker within Medium Range of Agorax Manifests a power, Agorax may use his Reaction to make an immediate @UUID[.zwmTchhxfQXGWDzn]{Heavy Flamer} attack on the zone that psyker is in.</p>
+
+## trait | Ogryn Might | lnafsO0ZA2MZTKRq Агоракс
+<p>Agorax has +10 to Strength and Toughness but −10 to Intelligence and Fellowship.</p>
+
+## trait | True Faith | lnafsO0ZA2MZTKRq Агоракс
+<p>Agorax has 1 point of Fate.</p>
+
+## trait | Call for Backup | n6q9PZhLT9AdBPLp Рамм Крагон
+<p> If in earshot of Kragon’s Flask, Kragon can call for backup once per encounter. Backup usually arrives in [[/br 1d5 # Rounds]] Rounds and consists of a mix of loyal @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZUWBWGM4eH7xFZ8P]{Dregs} and @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{Gangers}.</p>
+
+## trait | Not In My House | n6q9PZhLT9AdBPLp Рамм Крагон
+<p>When an ally in the Flask fails a Test and can see Kragon, Kragon can use his Reaction to allow the ally to reroll the failed Test.</p>
+
+## trait | I'll Die Trying | npwGHKbHhFlY0A8u Брандт Кескер
+<p>Kesker knows he hasn’t long left to live and has nothing to lose now but a few agonising days. If he can help his fellow labourers or hurt Lord Felputh, he’ll summon one last burst of strength to do it. If motivated, his Characteristic and Skill values can be doubled for one round, after which he succumbs to the extent of his Bloodlung and dies.</p>
+
+## trait | Ambusher | qxrAa19ybCJ4BWf7 Ловчий Хелдракса
+<p>A Heldrax’s Stalker can attempt to make a Stealth Test as part of their Movement if the Zone they are in has Cover.</p>
+
+## trait | Cameleoline Training | qxrAa19ybCJ4BWf7 Ловчий Хелдракса
+<p>The Heldrax’s Stalker has Advantage on Stealth Tests if they do not move that turn.</p>
+
+## trait | Stalwart | r7RGS2rmtlm1xF4m лейтенант Коул
+<p> Lieutenant Cole has Advantage on Tests to resist or end the <em>Frightened</em> Condition.</p>
+
+## trait | Trained Operator | r7RGS2rmtlm1xF4m лейтенант Коул
+<p> Lieutenant Cole has Advantage on Tech Tests when operating his Vox caster or any standard piece of Astra Militarum equipment.</p>
+
+## trait | Bestial Rage | ri94quNUXFjXfjI3 Зверолюд
+<p>When a Beastman makes a successful attack or is wounded, he gains +1 SL on his next attack.</p>
+
+## trait | Bullish Charge | ri94quNUXFjXfjI3 Зверолюд
+<p>When a Beastman Charges, he does not gain Disadvantage on Melee and Reflexes Tests.</p>
+
+## trait | Data Disguiser | siMMykRHCMATkA9u Растиган Дорин
+<p> Dorin is an expert at covering his tracks. Any Tests made to find or retrieve information from his dataslate or computer terminals are increased to <strong>Hard (−20) Difficulty</strong>.</p>
+
+## trait | Right Hand of Sihn | siMMykRHCMATkA9u Растиган Дорин
+<p>Dorin can use his action to command a member of the Court of Sihn within Medium range to make an immediate action.</p>
+
+## talent | Data Delver | vds8HRa533wcv1Pq Галлант Хесс
+<p>The Administratum Adept has Advantage on Tests made to find or retrieve information from a document or archive (whether analog or digital).</p>
+
+## trait | Enhanced Data-tether | vsiOALilPnEe3dKg Альфа скитариев-авангардов
+<p>The Skitarii Vanguard Alpha is constantly fed data from their Skitarii masters. While connected, the Alpha’s Resolve cannot deplete, they cannot become Desperate, and they have Advantage on all Willpower Tests.</p>

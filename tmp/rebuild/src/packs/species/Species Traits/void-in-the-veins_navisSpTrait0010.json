@@ -1,0 +1,33 @@
+{
+  "name": "Void in the Veins",
+  "type": "trait",
+  "_id": "navisSpTrait0010",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 1000,
+  "system": {
+    "notes": {
+      "player": "<p>Your people have lived in ships and holds since before the Imperium had a name for either.</p> <p>You have Advantage on Tech Tests to work on machinery you can put your hands on, and on Navigation Tests aboard a vessel or in a void station.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

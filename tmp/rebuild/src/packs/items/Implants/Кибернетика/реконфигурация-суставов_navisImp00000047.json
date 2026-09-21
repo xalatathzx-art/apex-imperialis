@@ -1,0 +1,95 @@
+{
+  "name": "Реконфигурация Суставов",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000047",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00003",
+  "sort": 4700,
+  "system": {
+    "notes": {
+      "player": "<p>Комплекс бионических имплантов заменяет большинство суставов, а контрольный модуль в основании мозжечка позволяет изгибать тело далеко за пределы обычной гибкости.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт <strong>+10 к Ловкости</strong>, но <strong>−10 к Силе</strong> и <strong>−5 к Выносливости</strong> из-за менее надёжной опоры изменённого скелета. Раз в Раунд позволяет переброс проверки Уклонения или попытки вырваться из Захвата или пут, используя Ловкость. Владелец может протискиваться в проходы вдвое уже обычного для его габаритов. Жёсткая броня требует доводки как от мутации, иначе все преимущества теряются.</p>",
+    "page": "DoomBC стр. 267",
+    "category": "cybernetic",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Эффект одинаков на всех уровнях качества.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "skeleton",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00460",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt04600",
+            "kind": "characteristic",
+            "key": "ag",
+            "value": 10
+          },
+          {
+            "id": "navisImpEnt04601",
+            "kind": "characteristic",
+            "key": "str",
+            "value": -10
+          },
+          {
+            "id": "navisImpEnt04602",
+            "kind": "characteristic",
+            "key": "tgh",
+            "value": -5
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 267",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

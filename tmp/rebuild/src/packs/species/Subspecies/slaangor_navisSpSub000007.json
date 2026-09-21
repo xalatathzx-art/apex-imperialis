@@ -1,0 +1,94 @@
+{
+  "name": "Slaangor",
+  "type": "navis-apexialis.subspecies",
+  "_id": "navisSpSub000007",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder002",
+  "sort": 700,
+  "system": {
+    "notes": {
+      "player": "<p>Slaanesh's Beastmen are easily known by their elongated, graceful limbs and refined muzzles, often closer to a bull's than a goat's. Their hides are frequently hairless, showing pinkish skin drawn tight over bulging muscle. A Slaangor's mind undergoes further transformation, turning him into an obsessive hedonist who seeks pleasure at any price and in any form — food, luxury, dancing, sex, or violence done to others, and ideally some combination of these.</p>",
+      "gm": ""
+    },
+    "category": "mutant",
+    "reference": "DoomBC p.12",
+    "restricted": false,
+    "characteristics": {
+      "modifiers": {
+        "ws": 0,
+        "bs": 0,
+        "str": 0,
+        "tgh": 0,
+        "ag": 5,
+        "int": 0,
+        "per": 5,
+        "wil": 0,
+        "fel": 0
+      },
+      "choice": {
+        "number": 0,
+        "value": 5,
+        "keys": []
+      }
+    },
+    "skills": {},
+    "size": "",
+    "corruption": 1,
+    "roles": [
+      "Warrior",
+      "Interlocutor",
+      "Penumbra"
+    ],
+    "removes": [],
+    "grantedTraits": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0038",
+          "id": "navisSpTrait0038",
+          "name": "Digitigrade",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0039",
+          "id": "navisSpTrait0039",
+          "name": "Pincer Claw",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0040",
+          "id": "navisSpTrait0040",
+          "name": "Hedonist",
+          "diff": {}
+        }
+      ]
+    },
+    "talents": {
+      "list": []
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": []
+    },
+    "requires": "Beastman"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

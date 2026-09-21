@@ -1,0 +1,33 @@
+{
+  "name": "Hollow Bones",
+  "type": "trait",
+  "_id": "navisSpTrait0017",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 1700,
+  "system": {
+    "notes": {
+      "player": "<p>Everything that lets you fly is a reason you break.</p> <p>When you suffer a Critical Wound to an arm or a leg, roll on the Critical table one step worse. You cannot wear armour heavier than mesh without losing the ability to fly.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

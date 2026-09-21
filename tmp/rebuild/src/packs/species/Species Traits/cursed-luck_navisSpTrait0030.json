@@ -1,0 +1,33 @@
+{
+  "name": "Cursed Luck",
+  "type": "trait",
+  "_id": "navisSpTrait0030",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 3000,
+  "system": {
+    "notes": {
+      "player": "<p>Whatever powers object to men being copied have taken an interest in you.</p> <p>When a hazard would fall on nobody in particular — a collapsing gantry, a stray round, a sniper with no reason to prefer a target — it falls on you. If a thing can go wrong it does, and the GM is invited to be imaginative about it.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,90 @@
+0aU07JBpNMjdUABI | modification | Omnispex | Омниспик
+<p>An Omnispex uses spectral sensors to analyse wavelengths outside of Human perception, so that even in darkness few can hide themselves from detection.</p><p>A Omnispex can be attached to most ranged weapons and removes Disadvantage when firing into a Zone that is @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#dark]{Dark} or @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#poorly-lit]{Poorly Lit}.</p>
+
+0fB10YisRQoUabab | weapon | Frag Grenade | Фраг-граната
+<p>Perhaps the most widely used Imperial military-grade munitions, Frag munitions are most commonly found in grenade and missile form. Both explode in showers of shrapnel and other lacertaing metals, making them ideal for anti-infantry duties. Almost every warrior in the Imperium, from Militarum troopers to elite Space Marines, carries frag grenades to aid in assaulting positions, with grenade launchers providing longer range infantry suppression. Frag missiles are the more powerful version, with a greater range to soften up distant positions such as heavy weapon teams.</p><p>Frag grenades have a large radius, and deal decent damage.</p>
+
+0fcoA2lzARTHovsa | ammo | Man-Stopper Bullets | Бронебойные патроны
+<p>Designed primarily to defeat personal protection, Man-stopper bullets are ideal when facing armoured foes such as Enforcers, Militarum troopers, and very successful criminals.</p>
+
+1betTHOKX0m7ukk6 | weapon | Demolition Charge | Подрывной заряд
+<p>Repurposed industrial devices, demolition charges are most often heavy packs or containers filled with shaped explosives that must be placed against their target rather than thrown. They use a variety of delays, from standard det chords to electronic timers, to ensure the user is far enough away when they detonate.</p><p>A Demolition Charge always comes with a linked @UUID[Compendium.navis-apexialis.navis-core-items.Item.4e2Jhd8jwmKiszzB]{Remote Detonator}.</p>
+
+6Z8t2ZCNILy6CV0m | weapon | Frag Missile | Фраг-ракета
+<p>Perhaps the most widely used Imperial military-grade munitions, Frag munitions are most commonly found in grenade and missile form. Both explode in showers of shrapnel and other lacertaing metals, making them ideal for anti-infantry duties. Almost every warrior in the Imperium, from Militarum troopers to elite Space Marines, carries frag grenades to aid in assaulting positions, with grenade launchers providing longer range infantry suppression. Frag missiles are the more powerful version, with a greater range to soften up distant positions such as heavy weapon teams.</p><p>Frag grenades have a large radius, and deal decent damage.</p>
+
+6ckd4WfSgctod9Wc | ammo | Executioner Rounds | Патроны «Палач»
+<p>These solid slugs contain tiny guidance cogitators that track targets, greatly extending the weapon's range, while simultaneously making micro-adjustments to circumvent cover or locate weak points in armour. If Executioner rounds are fired from a Shotgun, the Shotgun loses the @UUID[JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#spread]{Spread} Trait for that attack.</p>
+
+8vxhLmzHfqSBUVUz | modification | Backpack Ammo Supply | Ранец для боеприпасов
+<p>Backpack Ammo Supplies utilise back-mounted drum magazines, thrumming power packs, or oversized fuel canisters to drastically increase the amount of ammunition a weapon can hold. Unfortunately, they are both heavy and dangerous, as carrying so much volatile material into battle makes every stray shot potentially fatal.</p><p>A Backpack Ammo Supply quadruples a linked weapon's Magazine size, but adds +1 Enc when worn. The Backpack Ammo Supply takes 5 minutes to reload. In addition, if you suffer a @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE#critical-hit]{Critical Hit} while wearing a Backpack Ammo Supply, roll [[/r 1d10]]. On a result of 7+, the backpack detonates, dealing double the weapon's Damage to your Torso. The Backpack Ammo Supply is permanently destroyed if it explodes in this way. A Backpack Ammo Supply has the same Availability and Cost as the linked weapon. Enough ammo to fill the Backpack costs four times the listed price for reloads for the linked weapon.</p>
+
+99dVOsy85KLNtGTj | weapon | Melta Bomb | Мельта-бомба
+<p>These powerful but unwieldy explosives are generally affixed to stationary targets via magnetic adhesion. They use technology similar to Melta weapons but concentrate their effects into a shaped charge; this makes them exceptionally lethal against even the strongest of armour plating and tank hulls.</p><p>Melta bombs deal very high damage and have the @UUID[JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#rend-(rating)]{Rend} Trait, but only affect the target they are attached to.</p>
+
+ASCqZKcEmboAsfK8 | ammo | Tox Rounds | Отравленные патроны
+<p>Tox rounds are coated or filled with lethal poisons, chemicals, and even local fungi. These ensure that even if a hit doesn't take down the target, the harmful toxins will finish the job.</p>
+
+BMklaKKiyCUgQfOX | modification | Exterminator Cartridge | Экстерминатор
+<p>An Exterminator Cartridge is a stripped-down Flamer with enough fuel for a single use. They are popular among Imperial fanatics and zealots, who attach them to roaring Chainswords to douse their foes in cleansing fire as they charge in a blazing embodiment of the Emperor's fury.</p><p>An Exterminator Cartridge is a @UUID[Compendium.navis-apexialis.navis-core-items.Item.blRx8XLXQaD9sjDz]{Flamer} that can be attached to any melee or ranged weapon. It can be fired as an Action, counting as a Ranged Attack. Once an Exterminator Cartridge has been fired, the Exterminator Cartridge is expended and takes 5 minutes to reload. Reloads can be acquired for 5 solars, and are Common.</p>
+
+HQ4thlBy0uFtXo13 | weapon | Blasting Charge | Шахтёрский подрывной заряд
+<p>Ostensibly designed for mining operations, blasting charges are most often bulky tubes filled with compact explosives. Though they are designed to be linked together and detonated from a distance, they are nonetheless favoured as improvised explosives by gangs and dissidents on industrial worlds, where knowledge of their operation is widespread and are found in bulk. Blasting charges are powerful but have a limited radius.</p>
+
+ImfX7JAVfmy02DsH | weapon | Web Grenade | Паутинная граната
+<p>These grenades employ the same constricting filament gel as webbers, but are rigged to explode in a wide area. Their effect is similar; the strands expand through the air, ensnaring anyone and anything in a nearly impenetrable net that pulls tighter the more they struggle, perfect for capturing bounties and other prey.</p><p>When a Web Grenade hits a Zone, all creatures in that Zone must make a <strong>Hard (−20) Reflexes</strong> Test or suffer the @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#restrained]{Restrained} (Minor) Condition. Escaping the webbing requires a <strong>Challenging (+0) Extended Athletics (Might)</strong> Test requiring a total of 10 SL, with one Test allowed per turn.</p>
+
+JU4aGpoaxZLY7eIO | weapon | Fire Bomb | Огненная бомба
+<p>Fire bombs are ancient explosives, dating back to the unknowable past when Humans first discovered that certain liquids were flammable. Promethium or other exotic substances are placed in fragile containers, fitted with burning cloth or electronic igniters, and hurled. The container bursts on impact, spreading flaming liquid across a wide area. Due to their ease of construction, crude bombs are found on almost all Imperial worlds, and the flames they spread are often the first signs of an uprising.</p><p>You can make a Ranged Attack to target an enemy with a Fire Bomb. The target is set @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#ablaze]{Ablaze}. Alternatively, you can target a Zone with a Fire Bomb. A Fire Bombs turns a Zone it hits into a @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#hazard]{Minor Hazard} for three rounds. This duration can be extended or shortened depending on the amount of flammable material in the Zone, such as arid forests or rain-slicked spires.</p>
+
+LhciQZrfQDuk8k3W | weapon | Krak Grenade | Крак-граната
+<p>Krak grenades and missiles are found throughout the Imperium war machine. They are designed for armour penetration and overwhelm most personal protective gear with ease. Krak rounds also excel at blowing apart bulkheads, vehicle hulls, and fortifications, leaving those inside exposed and vulnerable. </p><p>Krak munitions have high damage and the @UUID[JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#penetrating-(rating)]{Penetrating} Trait, but a limited radius.</p>
+
+LqQBByxsreNT3C09 | modification | Silencer | Глушитель
+<p>Silencers use sonic bafflers and other devices to reduce the often loud and piercing retorts of weapons fire.</p><p>While attached, a Silencer removes a ranged weapon's @UUID[JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#loud]{Loud} Trait.</p>
+
+Nxu0oeQVLPHI4R8A | weapon | Photon Flash Grenade | Фотонная вспышка
+<p>These stunning grenades detonate with searing bursts of light that blinds and disorients those not wearing adequate eye protection. These explosives are so bright that they can reflect off matte plasteel and concrete, blinding those who turn their backs from the explosion itself.</p><p>When a Photon Flash Grenade hits a Zone, all creatures in that Zone must make a <strong>Hard (−20) Reflexes</strong> Test or suffer the @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#blinded]{Blinded} Condition for three rounds.</p>
+
+OjLq7yDUPG8TpISi | weapon | Choke Grenade | Удушающая граната
+<p>These grenades release clouds of noxious gases, enough to bring the sturdiest rioter gasping to their knees. Enforcers often use them to disperse mobs and clear taverns of suspects, consequently many outlaws carry filtration masks to counter their debilitating effects.</p><p>When a Choke Grenade hits a Zone, all creatures in that Zone must make a <strong>Hard (−20) Fortitude (Endurance)</strong> Test or suffer the @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Stunned} (Minor) Condition for three rounds. Additionally, anyone who enters or starts their turn in that Zone for the next three rounds must make the same Test. This duration can be extended or shortened depending on the ventilation, such as enclosed spaces or strong winds.</p>
+
+Sa0x6Yf5xZ2OcfVp | modification | Omniscope | Омниприцел
+<p>A basic but most often bulky arrangement of lenses in a sturdy casing, Omniscopes allow the user to see distant targets with greater clarity and precision.</p><p>This sight increases the Range of a compatible ranged weapon by one step, but it loses the @UUID[JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#close]{Close} Trait if it has it. An Omniscope can also be used as @UUID[Compendium.navis-apexialis.navis-core-items.Item.7lBipnmSZ4lD5WCo]{Magnoculars}.</p>
+
+VUiRLSaCXVvdkn6n | ammo | Hot-Shot Las Pack | Пробивной заряд
+<p>Hot-Shot Las Packs are overcharged magazines or bulky power packs that upgrade standard Las weapons with greater power and armour penetration at the cost of increased ammunition expenditure and reduced reliability. Hot-Shot Las Packs have a magazine size equal to half that of the weapon they are purchased for, and remove the @UUID[JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#reliable]{Reliable} Trait.</p>
+
+WQuwPZshSkpPrWcG | weapon | Krak Missile | Крак-ракета
+<p>Krak grenades and missiles are found throughout the Imperium war machine. They are designed for armour penetration and overwhelm most personal protective gear with ease. Krak rounds also excel at blowing apart bulkheads, vehicle hulls, and fortifications, leaving those inside exposed and vulnerable. </p><p>Krak munitions have high damage and the @UUID[JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#penetrating-(rating)]{Penetrating} Trait, but a limited radius.</p>
+
+bme7IUpsgm3NzL83 | modification | Melee Attachment | Штык
+<p>Most commonly known as bayonets, melee attachments affix a long blade to the end of a ranged weapon such as a Lasgun, Autogun or Flamer. Oft times these humble attachments can be the difference between life and death when the enemy bears down upon a warrior.</p><p>A melee attachment functions as a @UUID[Compendium.navis-apexialis.navis-core-items.Item.bS4Uy21y8pkp7I7P]{Mundane Sword} when affixed to a Ranged Weapon with the Two-handed Trait. It may be attached or removed as an Action. Wielding a ranged weapon with a melee attachment counts as a melee weapon for the purpose of defending yourself (see @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.Rjw4KykpjGJlGYEk#melee-attack]{Melee Attacks}). Note that when not attached to a weapon, a typical Melee Attachment counts as a @UUID[Compendium.navis-apexialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{knife}.</p>
+
+cZKCgaW4oI9CpvFl | modification | Bipod | Сошки
+<p>A bipod is among the simplest of weapon attachments. It allows users of weapons with the Heavy trait to brace them anywhere they wish, without requiring cover or another suitable terrain feature.</p>
+
+iXETjksopXDMhxCa | forceField | Refractor Field | Отражающее поле
+<p>Refractor Fields emit a soft glow and crackle while active, a sure sign that the user has far more than the Emperor's protection to ward them from harm. While often a glorious radiance, the light is detrimental to most covert activities.</p><p>While the field is active, the user automatically fails most Stealth Tests.</p>
+
+kZuL2i84eWjUTUFv | ammo | Bleeder Rounds | Патроны «Кровопийца»
+<p>Bleeder rounds are a particularly cruel and effective form of projectile designed to induce catastrophic haemorrhaging in a target. These include intense anti-coagulants and other chemicals to keep even the slightest of wounds profusely gushing blood.</p>
+
+kw9N0gOOA3YVqN4i | weapon | Smoke Grenade | Дымовая граната
+<p>Smoke grenades release plumes of thick gas that obscure the vision of most species (especially Humans). They don't block infrared, sound, or other means of detection, and so are easily mitigated by prepared combatants.</p><p>Smoke grenades make the target Zone @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#obscured]{Heavily Obscured} for three rounds. This duration can be extended or shortened depending on the ventilation, such as enclosed spaces or strong winds.</p>
+
+lCkJSiH0GMakGv35 | ammo | Inferno Shells | Патроны «Инферно»
+<p>These shells contain partially stabilised flammable chemicals, igniting on impact to spread a gel of adhesive flame across the target.</p>
+
+rD6BtFSjpfupZss1 | modification | Mono-edge | Моноклинок
+<p>Popular among assassins and other fighters who need to pierce armour with ease, Mono-edges are molecule-thin superfine blades that never dull.</p><p>A Mono-edge can be applied to any Mundane bladed melee weapon, granting it the Penetrating (2) Trait, or increasing its Penetrating rating by 2 if it already has the Trait. At the GM's discretion, they may allow other Mundane weapons to use this modification. In this case, the modification takes the form of a powerful pneumatic spike or kill-plate.</p>
+
+s8IYzKs3E2tDNutI | modification | Laser Sight | Лазерный целеуказатель
+<p>This attachment uses a low-power laser to pick out a target so that the user can more easily make a kill shot. Others (including the target) may notice the appearance of the small red dot, though, revealing the shooter's presence.</p><p>A Laser Sight adds +1 SL to Ranged Attacks made with the weapon, but targets have Advantage on Awareness Tests to spot the wielder. An unaware target who notices the dot may attempt to Dodge the ranged attack. The sight may be switched on or off once per round as a Free Action.</p>
+
+xclUKPJkNVeWfZqi | forceField | Conversion Field | Преобразующее поле
+<p>These devices convert energy from an attack into a powerful burst of light, and for that reason are also called 'flare fields'. In the Macharian Sector, honoured members of the Ecclesiarchy are sometimes bestowed a variant known as a rosarius, some of which date back to the preachers who first accompanied the Lord Solar in bringing the Emperor's light to untamed worlds during the conquest of the Macharian Sector.</p><p>If a Conversion Field reduces 10 or more Damage from a single attack, it erupts in brilliant light, inflicting the @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#blinded]{Blinded} Condition on all creatures in the Zone for one round. This renders any attempt at stealth a failure, but does not otherwise affect the user.</p>
+
+ypBcdHfYzcs14rZR | modification | Fire Selector | Переключатель вида боеприпасов
+<p>Fire Selectors employ complex magazines that can be loaded with a mix of ammunition that can be toggled at the flick of a switch.</p><p>When loading a weapon with a Fire Selector, you can choose to load up to three different types of @UUID[JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.luQOhxIEeYF6tMgt#ammunition]{ammunition}. Divide the Magazine between the loaded ammunition types as you desire. You can switch between loaded ammunition using the Fire Selector as a Free Action. Any weapon modified with a Fire Selector loses the @UUID[JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#reliable]{Reliable} Trait if it has it.</p>
+

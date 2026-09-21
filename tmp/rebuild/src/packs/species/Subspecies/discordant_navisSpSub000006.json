@@ -1,0 +1,88 @@
+{
+  "name": "Discordant",
+  "type": "navis-apexialis.subspecies",
+  "_id": "navisSpSub000006",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder002",
+  "sort": 600,
+  "system": {
+    "notes": {
+      "player": "<p>An exceedingly rare psychic mutation surrounds you with an aura of technological contempt that destroys any advanced technology. For reasons still unstudied, Discordants are born exclusively in places of technological abundance — voidships, or the forges of the Mechanicum. Both the loyal Mechanicus and the Dark Mechanicum hold the very existence of your kind to be an abomination, and methodically hunt down and destroy Discordants while they are still infants, or occasionally children.</p> <p>You escaped by a miracle, most likely under the protection of some radical luddite cult that reads the Discordant's curse as a blessing and as divine proof of its own anti-technological dogma — or else you fled the holdings of the Mechanicum and grew up in the wastes beyond the cities and the forges.</p>",
+      "gm": "<p><em>Conversion:</em> the book's aura is a radius in metres with a Haywire intensity. impmal fights in zones and has no Haywire scale, so the aura is your zone and the effect is stated in impmal's own terms.</p>"
+    },
+    "category": "human",
+    "reference": "DoomBC p.5",
+    "restricted": true,
+    "characteristics": {
+      "modifiers": {
+        "ws": 0,
+        "bs": 0,
+        "str": 0,
+        "tgh": 0,
+        "ag": 0,
+        "int": 0,
+        "per": 0,
+        "wil": 0,
+        "fel": 0
+      },
+      "choice": {
+        "number": 0,
+        "value": 5,
+        "keys": []
+      }
+    },
+    "skills": {},
+    "size": "",
+    "corruption": 0,
+    "roles": [
+      "Mystic",
+      "Zealot",
+      "Penumbra"
+    ],
+    "removes": [],
+    "grantedTraits": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0036",
+          "id": "navisSpTrait0036",
+          "name": "Aura of Technological Contempt",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0037",
+          "id": "navisSpTrait0037",
+          "name": "Hunted by the Machine",
+          "diff": {}
+        }
+      ]
+    },
+    "talents": {
+      "list": []
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": []
+    },
+    "requires": "Human"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

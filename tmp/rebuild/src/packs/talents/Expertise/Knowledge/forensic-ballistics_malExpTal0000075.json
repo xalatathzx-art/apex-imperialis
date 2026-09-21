@@ -1,0 +1,59 @@
+{
+  "name": "Forensic Ballistics",
+  "type": "talent",
+  "_id": "malExpTal0000075",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Grants the bonus of Forensic Expert to analyzing firearms and munitions, potentially deducing the skill of the shooter</span></p><hr><p><span style=\"font-family: Arial\"><em>Relating to the analysis of firearms and their munitions. Training in this field allows you to deduce exactly what weapons and munitions were used, with a high number of SLs allowing you to evaluate the shooters skill.</em></span></p>",
+      "gm": "Talent Category: Knowledge"
+    },
+    "requirement": {
+      "value": "Forensic Expert Talent",
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Forensic Expert\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "sYF7k1rcP4ZWyjHQ",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": -250000
+}

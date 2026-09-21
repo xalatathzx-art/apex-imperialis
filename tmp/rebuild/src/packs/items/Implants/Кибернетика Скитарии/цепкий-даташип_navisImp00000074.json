@@ -1,0 +1,70 @@
+{
+  "name": "Цепкий Даташип",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000074",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00005",
+  "sort": 7400,
+  "system": {
+    "notes": {
+      "player": "<p>Гибкий мехадендрит с жалом, установленный под спиной Скитария, подобно скорпионьему хвосту.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт бонус на проверки Акробатики и Трудного Ландшафта, действуя как балансир, и может использоваться как оружие со своим профилем.</p>",
+    "page": "DoomBC стр. 270",
+    "category": "skitarii",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 3500,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 1,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "mechadendrite",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 270",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

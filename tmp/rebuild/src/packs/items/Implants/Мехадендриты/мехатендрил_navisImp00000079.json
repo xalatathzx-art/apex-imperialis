@@ -1,0 +1,104 @@
+{
+  "name": "Мехатендрил",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000079",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00006",
+  "sort": 7900,
+  "system": {
+    "notes": {
+      "player": "<p>Простейший мехадендрит с четырёхпалым манипулятором на конце — дополнительная рука без специализированных свойств, способная на любую работу, посильную человеческой руке, и пользующаяся инструментами, но не оружием.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт бонус на любые проверки Крафта за каждый установленный мехатендрил. Эту сумму механика предмета не видит — она считается по всем вашим мехатендрилам сразу, а предмет знает только себя. Мехадендриты несут собственный показатель Силы, независимый от Силы владельца, и используют его при подъёме и переноске.</p><p>Рукопашная атака мехатендрилом: <strong>урон 11</strong>, <em>Бесполезное</em>, <em>Длинное</em> (стебель 3 м).</p><p><em>Бонус Силы владельца к этому урону не прибавляется: собственная Сила мехадендрита уже учтена в числе.</em></p>",
+    "page": "DoomBC стр. 277",
+    "category": "mechadendrite",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 1200,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 1,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "mechadendrite",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00780",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt07800",
+            "kind": "weapon",
+            "profile": {
+              "name": "Мехатендрил",
+              "attackType": "melee",
+              "category": "mundane",
+              "spec": "brawling",
+              "range": "",
+              "damage": {
+                "base": "11",
+                "characteristic": "",
+                "SL": false,
+                "ignoreAP": false
+              }
+            }
+          },
+          {
+            "id": "navisImpEnt07801",
+            "kind": "weaponTrait",
+            "traitKey": "ineffective"
+          },
+          {
+            "id": "navisImpEnt07802",
+            "kind": "weaponTrait",
+            "traitKey": "reach"
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 277",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

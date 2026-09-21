@@ -1,0 +1,195 @@
+##### malExpTal0000001 | Cold-Hearted
+REQ: -
+<p><span style="font-family: Arial">Seducing you auto-fails. Charm tests are one step harder on you</span></p><hr><p><span style="font-family: Arial"><em>Either you have undergone chemical and surgical treatments, or sheer will and training have been able to render yourself immune to most mundane temptations. Seduction attempts against you fail automatically, and tests to Charm you increase their difficulty by one level. </em></span></p>
+
+##### malExpTal0000002 | Combat Formation
+REQ: Drilled Talent, 2 Advances in Discipline
+<p><span style="font-family: Arial">Every character with Drilled talent gains +1 for each Drilled character</span></p><hr><p><span style="font-family: Arial"><em>You make sure your team is constantly alert and prepared for danger, planning out their actions for many contingencies if attacked. Any other character that has the Drilled Talent alongside you gains +1 Initiative (including yourself).  </em></span></p>
+
+##### malExpTal0000003 | Combat Sense
+REQ: 1 Advance in Awareness
+<p><span style="font-family: Arial">May calculate initiative as follows: 2 x PerB</span></p><hr><p><span style="font-family: Arial"><em>You have the ability to consciously recognize the prodding of your subconscious as it reacts to your preternaturally sharp senses, giving you an edge that mere speed cannot match. You may use 2x Perception Bonus instead of Perception Bonus + Agility Bonus when determining your initiative</em></span></p>
+
+##### malExpTal0000004 | Decadence
+REQ: 1 Advance in Fortitude(Poison)
+<p><span style="font-family: Arial">Ignore poison/drugs unless failing Fortitude by more than TghB. +1SL to resist addiction</span></p><hr><p><span style="font-family: Arial"><em>When you consume intoxicants, are unwillingly subjected to drugs, or are poisoned, you may choose to be unaffected by their effects unless you fail a Fortitude test by an mount of SLs equal to or greater than your Toughness Bonus. You also gain a +1SL Bonus to resist the effects of addiction. </em></span></p>
+
+##### malExpTal0000005 | Excellent Cook
+REQ: Devoted Servant (Agronomist) Talent
+<p><span style="font-family: Arial">Prepare great meal giving boni: +5 Discipline (next encounter). 3+SL: when spending FP, roll d10 on 10, the point is restored</span></p><hr><p><span style="font-family: Arial"><em>You are an expertly trained cook, and you have not yet found a reason to give up your passion. Once per Session, you may make a Difficult (-10) Intelligence Test. This action takes at least an hour, in which you may gain bonuses for acquiring ingredients to truly enhance the meal. If you succeed, anyone that eats your food gains a +5 Bonus to Discipline Tests until the end of the next encounter. If you succeed by +3SL, the first time each other player spends a Fate Point, roll a 1d10. On a 10, they gain the benefit of the Fate Point without spending it. </em></span></p>
+
+##### malExpTal0000006 | Feat of Strength
+REQ: 2 Advanced in Athletics (Might)
+<p><span style="font-family: Arial">Spend FP to double StB until turn-end, then: Fatigued (Major)</span></p><hr><p><span style="font-family: Arial"><em>Once per mission, you may spend a Fate Point to double your Strength Bonus until the end of your turn. At this point, you immediately gain the Fatigued (Major) Condition.</em></span></p>
+
+##### malExpTal0000007 | Laborer
+REQ: -
+<p><span style="font-family: Arial">Per session: gain Fatigue (Minor) for +StB/2 on Atheltic test</span></p><hr><p><span style="font-family: Arial"><em>Once per session, you may gain the Fatigued (Minor) Condition to increase the Success Levels you have on an Athletics test by half your Strength Bonus (rounded up).</em></span></p>
+
+##### malExpTal0000008 | Mastery (Athletics)
+REQ: 4 Advances in Athletics, Talented (Athletics) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Athletics, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Athletics and the Talented(Athletics) on. You can spend a Fate Point to automatically pass a Athletics Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000009 | Mastery (Awareness)
+REQ: 4 Advances in Awareness, Talented (Awareness) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Awareness, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Awareness and the Talented(Awareness) on. You can spend a Fate Point to automatically pass a Awareness Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000010 | Mastery (Dexterity)
+REQ: 4 Advances in Dexterity, Talented (Dexterity) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Dexterity, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Dexterity and the Talented(Dexterity) on. You can spend a Fate Point to automatically pass a Dexterity Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000011 | Mastery (Discipline)
+REQ: 4 Advances in Discipline, Talented (Discipline) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Discipline, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Discipline and the Talented(Discipline) on. You can spend a Fate Point to automatically pass a Discipline Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000012 | Mastery (Fortitude)
+REQ: 4 Advances in Fortitude, Talented (Fortitude) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Fortitude, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Fortitude and the Talented(Fortitude) on. You can spend a Fate Point to automatically pass a Fortitude Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000013 | Mastery (Intuition)
+REQ: 4 Advances in Intuition, Talented (Intuition) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Intuition, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Intuition and the Talented(Intuition) on. You can spend a Fate Point to automatically pass a Intuition Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000014 | Mastery (Linguistics)
+REQ: 4 Advances in Linguistics, Talented (Linguistics) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Linguistics, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Linguistics and the Talented(Linguistics) on. You can spend a Fate Point to automatically pass a Linguistics Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000015 | Mastery (Logic)
+REQ: 4 Advances in Logic, Talented (Logic) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Logic, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Logic and the Talented(Logic) on. You can spend a Fate Point to automatically pass a Logic Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000016 | Mastery (Lore)
+REQ: 4 Advances in Lore, Talented (Lore) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Lore, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Lore and the Talented(Lore) on. You can spend a Fate Point to automatically pass a Lore Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000017 | Mastery (Medicae)
+REQ: 4 Advances in Medicae, Talented (Medicae) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Medicae, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Medicae and the Talented(Medicae) on. You can spend a Fate Point to automatically pass a Medicae Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000018 | Mastery (Melee)
+REQ: 4 Advances in Melee, Talented (Melee) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Melee, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Melee and the Talented(Melee) on. You can spend a Fate Point to automatically pass a Melee Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000019 | Mastery (Navigation)
+REQ: 4 Advances in Navigation, Talented (Navigation) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Navigation, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Navigation and the Talented(Navigation) on. You can spend a Fate Point to automatically pass a Navigation Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000020 | Mastery (Piloting)
+REQ: 4 Advances in Piloting, Talented (Piloting) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Piloting, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Piloting and the Talented(Piloting) on. You can spend a Fate Point to automatically pass a Piloting Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000021 | Mastery (Presence)
+REQ: 4 Advances in Presence, Talented (Presence) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Presence, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Presence and the Talented(Presence) on. You can spend a Fate Point to automatically pass a Presence Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000022 | Mastery (Psychic Mastery)
+REQ: 4 Advances in Psychic Mastery, Talented (Psychic Mastery) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Psychic Mastery, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Psychic Mastery and the Talented(Psychic Mastery) on. You can spend a Fate Point to automatically pass a Psychic Mastery Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000023 | Mastery (Ranged)
+REQ: 4 Advances in Ranged, Talented (Ranged) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Ranged, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Ranged and the Talented(Ranged) on. You can spend a Fate Point to automatically pass a Ranged Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000024 | Mastery (Rapport)
+REQ: 4 Advances in Rapport, Talented (Rapport) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Rapport, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Rapport and the Talented(Rapport) on. You can spend a Fate Point to automatically pass a Rapport Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000025 | Mastery (Reflexes)
+REQ: 4 Advances in Reflexes, Talented (Reflexes) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Reflexes, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Reflexes and the Talented(Reflexes) on. You can spend a Fate Point to automatically pass a Reflexes Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000026 | Mastery (Stealth)
+REQ: 4 Advances in Stealth, Talented (Stealth) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Stealth, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Stealth and the Talented(Stealth) on. You can spend a Fate Point to automatically pass a Stealth Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000027 | Mastery (Tech)
+REQ: 4 Advances in Tech, Talented (Tech) Talent
+<p><span style="font-family: Arial">Spend FP to auto-succeed on selected Tech, scored SL = associated stat bonus</span></p><hr><p><span style="font-family: Arial"><em>You must have 4 Advances in Tech and the Talented(Tech) on. You can spend a Fate Point to automatically pass a Tech Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>
+
+##### malExpTal0000028 | Talented (Athletics)
+REQ: 2 Advances in Athletics
+<p><span style="font-family: Arial">Once/session: re-roll Athletics check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Athletics. You must have two Advances in Athletics. Once per session, you may reroll any Test for Athletics even if the result is already a success. </em></span></p>
+
+##### malExpTal0000029 | Talented (Awareness)
+REQ: 2 Advances in Awareness
+<p><span style="font-family: Arial">Once/session: re-roll Awareness check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Awareness. You must have two Advances in Awareness. Once per session, you may reroll any Test for Awareness even if the result is already a success. </em></span></p>
+
+##### malExpTal0000030 | Talented (Dexterity)
+REQ: 2 Advances in Dexterity
+<p><span style="font-family: Arial">Once/session: re-roll Dexterity check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Dexterity. You must have two Advances in Dexterity. Once per session, you may reroll any Test for Dexterity even if the result is already a success. </em></span></p>
+
+##### malExpTal0000031 | Talented (Discipline)
+REQ: 2 Advances in Discipline
+<p><span style="font-family: Arial">Once/session: re-roll Discipline check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Discipline. You must have two Advances in Discipline. Once per session, you may reroll any Test for Discipline even if the result is already a success. </em></span></p>
+
+##### malExpTal0000032 | Talented (Fortitude)
+REQ: 2 Advances in Fortitude
+<p><span style="font-family: Arial">Once/session: re-roll Fortitude check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Fortitude. You must have two Advances in Fortitude. Once per session, you may reroll any Test for Fortitude even if the result is already a success. </em></span></p>
+
+##### malExpTal0000033 | Talented (Intuition)
+REQ: 2 Advances in Intuition
+<p><span style="font-family: Arial">Once/session: re-roll Intuition check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Intuition. You must have two Advances in Intuition. Once per session, you may reroll any Test for Intuition even if the result is already a success. </em></span></p>
+
+##### malExpTal0000034 | Talented (Linguistics)
+REQ: 2 Advances in Linguistics
+<p><span style="font-family: Arial">Once/session: re-roll Linguistics check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Linguistics. You must have two Advances in Linguistics. Once per session, you may reroll any Test for Linguistics even if the result is already a success. </em></span></p>
+
+##### malExpTal0000035 | Talented (Logic)
+REQ: 2 Advances in Logic
+<p><span style="font-family: Arial">Once/session: re-roll Logic check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Logic. You must have two Advances in Logic. Once per session, you may reroll any Test for Logic even if the result is already a success. </em></span></p>
+
+##### malExpTal0000036 | Talented (Lore)
+REQ: 2 Advances in Lore
+<p><span style="font-family: Arial">Once/session: re-roll Lore check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Lore. You must have two Advances in Lore. Once per session, you may reroll any Test for Lore even if the result is already a success. </em></span></p>
+
+##### malExpTal0000037 | Talented (Medicae)
+REQ: 2 Advances in Medicae
+<p><span style="font-family: Arial">Once/session: re-roll Medicae check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Medicae. You must have two Advances in Medicae. Once per session, you may reroll any Test for Medicae even if the result is already a success. </em></span></p>
+
+##### malExpTal0000038 | Talented (Melee)
+REQ: 2 Advances in Melee
+<p><span style="font-family: Arial">Once/session: re-roll Melee check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Melee. You must have two Advances in Melee. Once per session, you may reroll any Test for Melee even if the result is already a success. </em></span></p>
+
+##### malExpTal0000039 | Talented (Navigation)
+REQ: 2 Advances in Navigation
+<p><span style="font-family: Arial">Once/session: re-roll Navigation check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Navigation. You must have two Advances in Navigation. Once per session, you may reroll any Test for Navigation even if the result is already a success. </em></span></p>
+
+##### malExpTal0000040 | Talented (Piloting)
+REQ: 2 Advances in Piloting
+<p><span style="font-family: Arial">Once/session: re-roll Piloting check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Piloting. You must have two Advances in Piloting. Once per session, you may reroll any Test for Piloting even if the result is already a success. </em></span></p>
+
+##### malExpTal0000041 | Talented (Presence)
+REQ: 2 Advances in Presence
+<p><span style="font-family: Arial">Once/session: re-roll Presence check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Presence. You must have two Advances in Presence. Once per session, you may reroll any Test for Presence even if the result is already a success. </em></span></p>
+
+##### malExpTal0000042 | Talented (Psychic Mastery)
+REQ: 2 Advances in Psychic Mastery
+<p><span style="font-family: Arial">Once/session: re-roll Psychic Mastery check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Psychic Mastery. You must have two Advances in Psychic Mastery. Once per session, you may reroll any Test for Psychic Mastery even if the result is already a success. </em></span></p>
+
+##### malExpTal0000043 | Talented (Ranged)
+REQ: 2 Advances in Ranged
+<p><span style="font-family: Arial">Once/session: re-roll Ranged check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Ranged. You must have two Advances in Ranged. Once per session, you may reroll any Test for Ranged even if the result is already a success. </em></span></p>
+
+##### malExpTal0000044 | Talented (Rapport)
+REQ: 2 Advances in Rapport
+<p><span style="font-family: Arial">Once/session: re-roll Rapport check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Rapport. You must have two Advances in Rapport. Once per session, you may reroll any Test for Rapport even if the result is already a success. </em></span></p>
+
+##### malExpTal0000045 | Talented (Reflexes)
+REQ: 2 Advances in Reflexes
+<p><span style="font-family: Arial">Once/session: re-roll Reflexes check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Reflexes. You must have two Advances in Reflexes. Once per session, you may reroll any Test for Reflexes even if the result is already a success. </em></span></p>
+
+##### malExpTal0000046 | Talented (Stealth)
+REQ: 2 Advances in Stealth
+<p><span style="font-family: Arial">Once/session: re-roll Stealth check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Stealth. You must have two Advances in Stealth. Once per session, you may reroll any Test for Stealth even if the result is already a success. </em></span></p>
+
+##### malExpTal0000047 | Talented (Tech)
+REQ: 2 Advances in Tech
+<p><span style="font-family: Arial">Once/session: re-roll Tech check (take better)</span></p><hr><p><span style="font-family: Arial"><em>You have a natural affinity towards Tech. You must have two Advances in Tech. Once per session, you may reroll any Test for Tech even if the result is already a success. </em></span></p>
+
+##### malExpTal0000067 | Sound Constitution
+REQ: -
+<p><span style="font-family: Arial">+X wounds (increases by 1 each time the talent is bought)</span></p><hr><p><span style="font-family: Arial"><em>You gain one additional wound each time you have purchased this talent. Note the number of times this talent has been taken, such as Sound Constitution (3).</em></span></p>
+
+##### malExpTal0000150 | War Cry
+REQ: 1 Advance in Presence(Intimidation)
+<p><span style="font-family: Arial">Spend action: you are source of Fear for all enemy within (auditory) Long Range. Fatigued at end of turn</span></p><hr><p><span style="font-family: Arial"><em>At the start of any of your turns, you may declare that you are spending an Action to make a War Cry. All enemies within Long Range treat you as if you are a Source of Fear and must test to not be Frightened provided they can hear you until the start of your next turn. While screaming, you cannot communicate in any other way, and gain the Fatigued Condition at the end of your turn. </em></span></p>

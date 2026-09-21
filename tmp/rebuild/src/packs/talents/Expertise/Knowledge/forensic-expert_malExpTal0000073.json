@@ -1,0 +1,59 @@
+{
+  "name": "Forensic Expert",
+  "type": "talent",
+  "_id": "malExpTal0000073",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">+1 SL to any checks related to investigating biological, trace, and impression evidence, as well as examining and comparing other basic information at a crime scene</span></p><hr><p><span style=\"font-family: Arial\"><em>You have been trained in the Forensics science of Criminalistics, and are a candidate to receive further dedicated training. When making a Logic (Investigation) test, you gain a +1SL bonus on it in terms of investigating biological, trace, and impression evidence, as well as examining and comparing other basic information at a crime scene. This talent may be taken multiple times, which grants a +1SL bonus to Logic (Investigation) tests and other skills relating to its field. Each time after the first, choose from one of the following fields: Data Forensics, Forensic Ballistics, Forensic Biologis, Forensic Chymestry, Forensic Engineering, Forensic Psykologis</em></span></p>",
+      "gm": "Talent Category: Knowledge"
+    },
+    "requirement": {
+      "value": "2 Advances in Logic(Investigation)",
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Investigation\" && i.system.skill == \"logic\")?.system?.advances >= 2)"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "sYF7k1rcP4ZWyjHQ",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": -275000
+}

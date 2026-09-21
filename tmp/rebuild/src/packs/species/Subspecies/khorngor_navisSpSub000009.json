@@ -1,0 +1,86 @@
+{
+  "name": "Khorngor",
+  "type": "navis-apexialis.subspecies",
+  "_id": "navisSpSub000009",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder002",
+  "sort": 900,
+  "system": {
+    "notes": {
+      "player": "<p>Khorne's Beastmen are easily known by their muscled bodies and reddish hides, by bronze horns, claws and hooves, and by muzzles turned more predatory, mixing goat with wolf. A Khorngor's mind hangs forever on the edge of a mad fury, ready to fly at friends and allies over the slightest insult. Of those born Khorngor, that temper means only the strongest survive — and, remarkably, the most courteous and diplomatic, since even the finest fighter cannot live long while picking fights with everyone.</p>",
+      "gm": ""
+    },
+    "category": "mutant",
+    "reference": "DoomBC p.12",
+    "restricted": false,
+    "characteristics": {
+      "modifiers": {
+        "ws": 5,
+        "bs": 0,
+        "str": 5,
+        "tgh": 0,
+        "ag": 0,
+        "int": 0,
+        "per": 0,
+        "wil": 0,
+        "fel": 0
+      },
+      "choice": {
+        "number": 0,
+        "value": 5,
+        "keys": []
+      }
+    },
+    "skills": {},
+    "size": "",
+    "corruption": 1,
+    "roles": [
+      "Warrior"
+    ],
+    "removes": [],
+    "grantedTraits": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0044",
+          "id": "navisSpTrait0044",
+          "name": "Brutal Charge",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0045",
+          "id": "navisSpTrait0045",
+          "name": "Blood Rage",
+          "diff": {}
+        }
+      ]
+    },
+    "talents": {
+      "list": []
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": []
+    },
+    "requires": "Beastman"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

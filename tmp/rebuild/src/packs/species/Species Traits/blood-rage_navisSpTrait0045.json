@@ -1,0 +1,33 @@
+{
+  "name": "Blood Rage",
+  "type": "trait",
+  "_id": "navisSpTrait0045",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 4500,
+  "system": {
+    "notes": {
+      "player": "<p>The Blood God's temper, in a body that was never patient.</p> <p>Whenever you take damage, are insulted or are threatened, pass a <strong>Challenging (+0) Discipline</strong> Test or attack the nearest target until nothing near you is standing. You may choose to fail. Most Khorngor who live to adulthood are unusually polite, for exactly this reason.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

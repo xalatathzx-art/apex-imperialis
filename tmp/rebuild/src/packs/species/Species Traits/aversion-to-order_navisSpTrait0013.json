@@ -1,0 +1,33 @@
+{
+  "name": "Aversion to Order",
+  "type": "trait",
+  "_id": "navisSpTrait0013",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 1300,
+  "system": {
+    "notes": {
+      "player": "<p>The machine spirits do not like you, and the feeling is mutual.</p> <p>You have Disadvantage on all Tech Tests. Every augmetic implanted in you costs you <strong>2 maximum Wounds</strong> rather than the usual price, and it never quite stops aching.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

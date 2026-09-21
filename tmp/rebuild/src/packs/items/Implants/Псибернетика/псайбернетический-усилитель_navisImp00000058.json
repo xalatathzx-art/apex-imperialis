@@ -1,0 +1,70 @@
+{
+  "name": "Псайбернетический Усилитель",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000058",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00004",
+  "sort": 5800,
+  "system": {
+    "notes": {
+      "player": "<p>Археотеховый мозговой имплант из раскопок начала Эры Раздора — по всей видимости, одна из последних отчаянных попыток цивилизации ТЭТ обуздать своей технологией растущее безумие Варпа.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Установка человеку (не Космодесантнику) даёт черту Псайкер со случайным Психическим Рейтингом, фокус случайной дисциплины и несколько психосил этой дисциплины; персонаж считается Несвязанным и получает крупную дозу Порчи, если сам не Хаосит. После операции требуется проверка Силы воли, иначе персонаж на некоторое время впадает в убийственное безумие. Каждая манифестация психосилы после установки приносит Порчу.</p>",
+    "page": "DoomBC стр. 268",
+    "category": "psybernetic",
+    "rarity": 4,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 15000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Провал проверки при активации наносит 1d10+1 урона в Силу воли вместо 1d5+1.",
+      "2": "",
+      "3": "Провал проверки при активации не наносит урона в Силу воли.",
+      "4": "Как Уровень 3, и вдобавок проверка Силы воли на активацию проходит с Преимуществом."
+    },
+    "slot": "cortex",
+    "side": "",
+    "location": "head",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 268",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

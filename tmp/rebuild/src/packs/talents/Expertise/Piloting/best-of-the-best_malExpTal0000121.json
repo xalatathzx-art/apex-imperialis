@@ -1,0 +1,59 @@
+{
+  "name": "Best of the Best",
+  "type": "talent",
+  "_id": "malExpTal0000121",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Automatically win ties in opposed Piloting/Riding checks</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever you make an Opposed Piloting or Athletics (Riding) Test, if you and your opponent have the same number of Success Levels, you count as winning the Test (in essence, you automatically win ties).</em></span></p>",
+      "gm": "Talent Category: Piloting"
+    },
+    "requirement": {
+      "value": "Talented (Piloting (Any)) or Talented (Athletics (Riding)) Talent",
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name.includes(\"Talented\") && i.name.includes(\"Piloting\")) || this.actor.itemTypes[\"talent\"].find(i => i.name.includes(\"Talented\") && i.name.includes(\"Athletics\"))"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "3JxhLA6h0JYJZyf9",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 500000
+}

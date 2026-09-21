@@ -1,0 +1,100 @@
+# The Inquisition's Armoury / The Inquisition Armoury (9 runs)
+8: The Imperium is plagued with war and strife, conspiracy and heresy. The Inquisition, and those who serve it, delve deeper into the darkness than anyone else, bringing with them the Emperor’s light — and often, his fury. For this duty, the Inquisition must be well-equipped. This chapter contains a selection of wargear used by the Inquisition on the front lines of the hidden war for the soul of the Imperium, along with new essential tools for espionage and investigation.
+12: Availability
+16: The iconic arsenal of the Inquisition is beyond rare among open markets or traders. Some weaponry takes years to craft, wrought from materials almost impossible to acquire, and anointed by the most faithful of the Ministorum. Others are appropriated from the enemy itself, reverse-engineered tools of the xenos, or handcrafted along the Radical path, from secrets torn from the enemy and used to shape weapons, fighting Chaos with Chaos.
+20: Rare equipment might be possible to locate across a breadth of worlds using an Availability Test; see @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.k5sND1C17nY9xB1G]{Trading Equipment}. Many of the items found in this chapter, however, are Exotic. These items might be unknown to many acolytes without specialised knowledge or research and beyond discovery in simple bartering. Exotic items are only available if the GM determines they are.
+26: PATRON REQUISITION
+30: Many Patrons firmly believe in using the right tool for the job, Inquisitors do not differ. As research or investigations begin to turn up more information, hints of the dangers ahead, or the peculiar nature of some of those threats, an Inquisitor might provide their acolytes with wargear that would otherwise be impossible to acquire.
+36: Icons of Ordo and Philosophy
+40: The Holy Orders of the Inquisition are known to differ not only in their approach but in their preferred tools. Such pieces of wargear become commonplace among their warriors, even symbolic. Many within the Orders can recognise a Malleus acolyte by the Daemonhammer they carry or a Hereticus acolyte by the Inferno Pistol strapped to their thigh.
+44: Beyond these philosophical and methodological differences, Inquisitors across the spectrum of doctrine and darkness attain vastly different wargear. Various equipment throughout this chapter may note that certain items are limited to specific Ordos or specific to the Puritan or Radical Inquisitors and are, therefore, only possible to acquire with the agreement of the GM and a compelling narrative explanation.
+# The Inquisition's Armoury / Melee Weapons (89 runs)
+8: The Inquisition has a unique arsenal of Melee Weapons; each forged to fight the specific enemies of each Major Ordo or draw upon their enemy’s powers in unique ways to turn the tide. General rules for wielding @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.novkkBnSD2XC7Lgh]{Melee Weapons} are outlined in 
+12: Imperium Maledictum
+16: , along with related @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#weapons-and-armour-traits]{Weapon and Armour Traits} and related @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.novkkBnSD2XC7Lgh#melee-weapon-types]{Melee Weapon Types}.
+20: Exotic Melee Weapons
+24: Exotic in both rarity and design, melee weapons of this classification draw on elements from multiple existing types or have wholly unique effects that confuse Imperial categorisation. Wielding most of these strange weapons would brand you a heretic by the Inquisition, often xenos in origin and effect.
+28: Mundane Weapons
+32: These weapons often predate the Imperium. They were simple tools once made of metal and wood, derived from primal Human designs. @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.novkkBnSD2XC7Lgh#mundane-weapons]{Mundane Weapons} typically have only a few simple Traits.
+36: Daemonbane Weapons
+40: Many of the Inquisition’s weapons and armour are forged in the fires of faith. Anointed materials are wrought into staves and hammerheads, sanctified with holy oils and censers, and engraved with sigils to banish daemons and disrupt a psyker’s powers. Daemonbane weapons are astonishingly rare. Most are wielded by the Grey Knights, but some have been granted to the most dedicated servants of the Ordo Malleus.
+46: Naming The Damned
+50: The secret of forging a Nemesis Weapon, if it is still known at all, is held by no more than a handful of Inquisitors within the Ordo Malleus. It is known that the price of doing so is high, and this must be so, for otherwise such efficacious arms would surely be more prevalent.
+54: The Inquisitor Vespar Draal of the @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.tFbQS9Pwk46yjwFq.JournalEntryPage.AyQTdRJpdVm3zqdF#ordo-hereticus]{Ordo Hereticus} is known to have set out to learn the means of forging such a weapon centuries ago, for he suspected his compatriots in the Ordo Malleus of corruption most foul. Though it is said he was successful, the endeavour would ultimately claim his life. His belongings are held within Vault of Follies on Suluk. These amount to a handful of his surviving written records, alongisde a great hammer of a dark metal. His grimoire is said to contain, among other things, the most accurate account of the death of Lord Solar Macharius, and the true name of a Greater Daemon.
+64: Null
+74: Null weapons are crafted to syphon away psychic energies, weakening daemonic entities and robbing rogue psykers of their power. Tests made to Manifest a psychic power that targets the Zone of the wielder, any individual within that zone, or made within Short Range of a wielder of a Null weapon, suffers from Disadvantage. Additionally, daemons treat the Zone of a wielder with a Null weapon as a @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#hazard]{Minor Hazard}.
+78: Power Weapons
+82: Typically reserved for the exceptionally wealthy, well-connected, or higher-ranking members of the Imperium’s military. They are deadly close combat weapons that, by using little-understood technology, generate a disruption energy field that amplifies their lethality. Power weapons often deal high Damage and have the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#penetrating-(rating)]{Penetrating} Trait while active. The following weapons have additional abilities, noted at the end of their entries.
+86: Tainted Weapons
+90: Used by the minions of the Dark Gods and by Radical Inquisitors who seek to use the enemy’s tools against the enemy, there are many weapons wrought by corruption. Each time the wielder of a Tainted Weapon spends or burns a Fate Point in relation to using the weapon, they gain 2 Corruption Points. Additionally, Tainted Weapons gain bonus damage equal to the wielder’s Corruption up to their Willpower Bonus (WilB).
+102: Melee Weapons
+114: Name
+122: Specialisation
+130: Cost
+138: Avail
+152: Exotic Melee Weapons
+160: @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.afJLuzjnptJUfead]{Blink-Blade}
+166: One Handed
+172: 8000
+176: Exotic
+184: @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.qhWOJgRnsrcmfo1s]{Scythian Venom Talon}
+190: One Handed
+196: 5000
+200: Exotic
+208: Mundane Weapons
+216: @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.P4QWuSrzvsxZkpjy]{Duelling Glaive}
+220: Two Handed
+224: 1000
+228: Rare
+236: Nemesis Weapons
+244: @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ra4EI3fMN7L9fVLt]{Daemonhammer}
+248: One Handed
+252: 150000
+256: Exotic
+264: @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ra4EI3fMN7L9fVLt]{Daemonhammer}
+268: Two Handed
+272: 200000
+276: Exotic
+284: @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.W2LpU3JDTLmslpe0]{Nemesis Daemonhammer}
+288: One Handed
+292: 250000
+296: Exotic
+304: @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.W2LpU3JDTLmslpe0]{Nemesis Daemonhammer}
+308: Two Handed
+312: 300000
+316: Exotic
+324: @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.vk2cj2VV3IZYcT9K]{Truename Staff}
+328: Two Handed
+332: 200000
+336: Exotic
+344: Null Weapons
+352: @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.orOXlTrGQbiPEGfC]{Null Rod}
+356: Two Handed
+360: 150000
+364: Rare
+372: Power Weapons
+380: @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.C8R9eFDZWtkLI9Oa]{Aeldari Power Sword}
+384: One Handed
+388: 150000
+392: Exotic
+400: @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.aMTMi6CfZIo46S6v]{Executioner Greatblade}
+404: Two Handed
+408: 150000
+412: Exotic
+420: @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ez30hpgFYrPj3gqI]{Power Stake}
+424: Two Handed
+428: 1000
+432: Rare
+440: @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.mYqlFOVZAInHnQbe]{Xenophase Blade}
+444: One Handed
+448: 500000
+452: Exotic
+460: Tainted Weapons
+468: @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.ucp7Z81P4kMxGcMN]{Daemonblade}
+472: Two Handed
+476: 1000000
+480: Exotic
+488: @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Z9w5Zceh9qvjOvoY]{Tainted Blade}
+492: One Handed
+496: 1000000
+500: Exotic

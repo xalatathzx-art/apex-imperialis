@@ -1,0 +1,11 @@
+import fs from "node:fs"; import path from "node:path"; import os from "node:os";
+import { readPack } from "../tools/lib/level.mjs";
+const load = async dir => { const d = fs.mkdtempSync(path.join(os.tmpdir(), "c-")); fs.cpSync(dir, d, { recursive: true, filter: s => !s.endsWith("LOCK") }); return readPack(d); };
+const a = await load("packs/navis-talents"), b = await load("tmp/rebuild/packs/navis-talents");
+const strip = v => { const c = structuredClone(v); delete c._stats; return c; };
+const keysA = Object.keys(a).filter(k => !k.startsWith("!folders")), keysB = Object.keys(b).filter(k => !k.startsWith("!folders"));
+console.log("live", keysA.length, "rebuilt", keysB.length, "only live", keysA.filter(k => !b[k]).length, "only rebuilt", keysB.filter(k => !a[k]).length);
+const fields = new Map();
+const diff = (x, y, p = "") => { if (JSON.stringify(x) === JSON.stringify(y)) return; if (x && y && typeof x === "object" && typeof y === "object") { for (const k of new Set([...Object.keys(x), ...Object.keys(y)])) diff(x[k], y[k], p ? `${p}.${k}` : k); } else fields.set(p.replace(/\.\d+\./g, ".#."), (fields.get(p) ?? 0) + 1); };
+for (const k of keysA) if (b[k]) diff(strip(a[k]), strip(b[k]));
+console.log([...fields].sort((x, y) => y[1] - x[1]).slice(0, 15));

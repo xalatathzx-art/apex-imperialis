@@ -1,0 +1,70 @@
+{
+  "name": "Рад Печь",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000063",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00005",
+  "sort": 6300,
+  "system": {
+    "notes": {
+      "player": "<p>Комплекс радиационных излучателей и экранирования, устанавливаемый на Авангардов Скитарии.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт иммунитет к радиации и лучевой болезни. Все не иммунные к радиации существа в радиусе 4м снижают Силу и Выносливость на 10, пока не покинут радиус; тот, кто провёл в ауре три Хода подряд, получает попадание радиацией, пробивающее броню. Актуаторные Банки внутри Печи дают иммунитет к Усталости от бега и действуют как Катушка Потенции с одним зарядом. Со временем накопленная радиация вызывает у самого владельца лучевую болезнь, игнорирующую его иммунитет.</p>",
+    "page": "DoomBC стр. 269",
+    "category": "skitarii",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 1500,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Не даёт иммунитета к радиации.",
+      "2": "",
+      "3": "Радиус ауры +2м, порог лучевой болезни владельца выше.",
+      "4": "Как Уровень 3, но лучевая болезнь у владельца не развивается вовсе."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 269",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

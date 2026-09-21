@@ -1,0 +1,59 @@
+{
+  "name": "Combat Formation",
+  "type": "talent",
+  "_id": "malExpTal0000002",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Every character with Drilled talent gains +1 for each Drilled character</span></p><hr><p><span style=\"font-family: Arial\"><em>You make sure your team is constantly alert and prepared for danger, planning out their actions for many contingencies if attacked. Any other character that has the Drilled Talent alongside you gains +1 Initiative (including yourself).  </em></span></p>",
+      "gm": "Talent Category: General"
+    },
+    "requirement": {
+      "value": "Drilled Talent, 2 Advances in Discipline",
+      "script": "return this.actor.system.skills.discipline.advances >= 2 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Drilled\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "KmCDAtV80ZeH9J36",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 4800000
+}

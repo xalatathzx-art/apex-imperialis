@@ -1,0 +1,59 @@
+{
+  "name": "Rite of Awe",
+  "type": "talent",
+  "_id": "malExpTal0000196",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">All humans within Long Range: test Discipline+0 test or have Disadvantage to next Skill test. Only augmented hearing can detect this</span></p><hr><p><span style=\"font-family: Arial\"><em>All humans, regardless of their ability to hear, within Long Range feel a sense of dread and suffer Disadvantage on their next Skill Test. Characters may ignore these effects with a Challenging (+0) Discipline Test. Whilst incanting the rite, you become unable to talk or communicate with others. Humans without auditory implants cannot hear infrasonic sound, and though are still affected, will not know you are speaking.</em></span></p>",
+      "gm": "Talent Category: Mechanicus"
+    },
+    "requirement": {
+      "value": "-",
+      "script": ""
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "v1jaQSwVla5DGTQg",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 700000
+}

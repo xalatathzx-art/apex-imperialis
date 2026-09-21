@@ -1,0 +1,159 @@
+{
+  "name": "Squat",
+  "type": "navis-apexialis.species",
+  "_id": "navisSpc00000004",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder001",
+  "sort": 400,
+  "system": {
+    "notes": {
+      "player": "<p>You call your people the Kin; humans call you Squats. Genetically modified for mining work in the regions of the Galactic Core that are hostile to all life, your kind is hardier and stronger than humans, if slightly shorter.</p> <p>Deep in the Core the Kin built a civilisation independent of the Imperium, but their prospecting expeditions, cut off from the Leagues of Votann during the Age of Strife, were taken in by the Imperium as Squats and classified as abhumans. Your kind rarely yields to the temptations of Chaos, because your souls resist Corruption — but it happens, and perhaps you had no choice at all, born into one of the few communities that already serve the Dark Gods.</p>",
+      "gm": "<p><em>Conversion:</em> Unnatural S (2) and Unnatural T (4) fold into the stat line. The book's Blunted (1) — a dampened warp presence — is carried by the subspecies of the same name rather than doubled here.</p>"
+    },
+    "category": "abhuman",
+    "reference": "DoomBC p.9",
+    "restricted": false,
+    "characteristics": {
+      "modifiers": {
+        "ws": 0,
+        "bs": 0,
+        "str": 5,
+        "tgh": 10,
+        "ag": -5,
+        "int": 5,
+        "per": 0,
+        "wil": 5,
+        "fel": -5
+      },
+      "choice": {
+        "number": 1,
+        "value": 5,
+        "keys": [
+          "tgh",
+          "int",
+          "wil"
+        ]
+      },
+      "maximums": {
+        "ws": 60,
+        "bs": 60,
+        "str": 60,
+        "tgh": 60,
+        "ag": 60,
+        "int": 60,
+        "per": 60,
+        "wil": 60,
+        "fel": 60
+      }
+    },
+    "skills": {
+      "tech": 2,
+      "fortitude": 1,
+      "lore": 1
+    },
+    "size": "medium",
+    "corruption": 0,
+    "roles": [
+      "Savant",
+      "Warrior",
+      "Zealot"
+    ],
+    "removes": [],
+    "grantedTraits": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0008",
+          "id": "navisSpTrait0008",
+          "name": "Hard as Stone",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0009",
+          "id": "navisSpTrait0009",
+          "name": "Sure Tread",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0010",
+          "id": "navisSpTrait0010",
+          "name": "Void in the Veins",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0011",
+          "id": "navisSpTrait0011",
+          "name": "Clever Hands",
+          "diff": {}
+        }
+      ]
+    },
+    "talents": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-talents.Item.malExpTal0000068",
+          "id": "malExpTal0000068",
+          "name": "Tireless",
+          "diff": {}
+        }
+      ]
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": []
+    }
+  },
+  "effects": [
+    {
+      "_id": "navisSpFx0000004",
+      "name": "Squat — physiology",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "changes": [
+        {
+          "key": "system.combat.wounds.max",
+          "mode": 2,
+          "value": "2",
+          "priority": 20
+        }
+      ],
+      "disabled": false,
+      "transfer": true,
+      "origin": null,
+      "duration": {},
+      "description": "",
+      "statuses": [],
+      "flags": {
+        "navis-apexialis": {
+          "source": "DoomBC_Core",
+          "generated": "tools/make-species.mjs"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "impmal",
+        "systemVersion": "3.3.0"
+      }
+    }
+  ],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

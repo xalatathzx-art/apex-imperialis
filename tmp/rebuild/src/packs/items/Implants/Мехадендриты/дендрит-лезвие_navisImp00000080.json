@@ -1,0 +1,105 @@
+{
+  "name": "Дендрит Лезвие",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000080",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00006",
+  "sort": 8000,
+  "system": {
+    "notes": {
+      "player": "<p>Подвижный мехадендрит с бритвенно острым лезвием на конце, извивающийся вокруг владельца в хаотичном танце — на деле управляемом полуавтономным духом машины, отводящим удары в сторону.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт штраф всем рукопашным атакам против владельца за каждое установленное лезвие (до предела) и может само нанести ответное попадание при крупном провале атакующего.</p><p>Рукопашная атака лезвием: <strong>урон 13</strong>, <em>Бронебойное 3</em>, <em>Длинное</em> (стебель 4 м). Книжное <em>Razor Sharp</em> — удвоение пробития при 3+ успехах — в impmal не выражается и остаётся на усмотрение ГМа.</p><p>Лезвие принимает модификации рукопашного оружия, считаясь ножом. Доработка силовым полем поднимает его до <strong>урона 17</strong> и <em>Бронебойного 7</em>, но это отдельная покупка, а не стандартный дендрит.</p><p><em>Бонус Силы владельца к этому урону не прибавляется: собственная Сила мехадендрита уже учтена в числе.</em></p>",
+    "page": "DoomBC стр. 277",
+    "category": "mechadendrite",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 1200,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 1,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Урон снижен до 5, пробитие 0.",
+      "2": "",
+      "3": "Выдвижные механизмы заставляют лезвие вибрировать: свойство Tearing.",
+      "4": "Как Уровень 3, и вдобавок железа с ядом даёт свойство Toxic(0)."
+    },
+    "slot": "mechadendrite",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00790",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt07900",
+            "kind": "weapon",
+            "profile": {
+              "name": "Дендрит Лезвие",
+              "attackType": "melee",
+              "category": "mundane",
+              "spec": "brawling",
+              "range": "",
+              "damage": {
+                "base": "13",
+                "characteristic": "",
+                "SL": false,
+                "ignoreAP": false
+              }
+            }
+          },
+          {
+            "id": "navisImpEnt07901",
+            "kind": "weaponTrait",
+            "traitKey": "penetrating",
+            "traitValue": 3
+          },
+          {
+            "id": "navisImpEnt07902",
+            "kind": "weaponTrait",
+            "traitKey": "reach"
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 277",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

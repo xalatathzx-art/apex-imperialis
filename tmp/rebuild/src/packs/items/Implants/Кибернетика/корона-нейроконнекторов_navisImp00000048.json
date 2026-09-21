@@ -1,0 +1,95 @@
+{
+  "name": "Корона Нейроконнекторов",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000048",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00003",
+  "sort": 4800,
+  "system": {
+    "notes": {
+      "player": "<p>Система продвинутых нейральных коннекторов вживлена в кору головного мозга, десятками кабелей выходя из черепа. После установки волосы на голове перестают расти, кроме участка на макушке.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Подключает силовую броню и экзоскелеты как МИУ, снижая штраф брони к Ловкости и повышая её потолок, а также позволяя ощущать касание сенсорами брони как кожей. Сама броня требует модификации Редкости 2, чтобы к ней можно было подключиться короной.</p>",
+    "page": "DoomBC стр. 267",
+    "category": "cybernetic",
+    "rarity": 4,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 15000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Коннекторы мешают работе мозга: <strong>−10 к Интеллекту и Товариществу</strong>, пока имплант установлен.",
+      "2": "",
+      "3": "Даёт дополнительное зрение и слух для сенсоров и визоров брони или вокса.",
+      "4": "Оба эффекта Уровня 3, и вдобавок штраф брони к Ловкости и её потолок улучшаются ещё сильнее."
+    },
+    "slot": "cortex",
+    "side": "",
+    "location": "head",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00470",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt04700",
+            "kind": "characteristic",
+            "key": "int",
+            "value": {
+              "1": -10,
+              "2": 0
+            }
+          },
+          {
+            "id": "navisImpEnt04701",
+            "kind": "characteristic",
+            "key": "fel",
+            "value": {
+              "1": -10,
+              "2": 0
+            }
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 267",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

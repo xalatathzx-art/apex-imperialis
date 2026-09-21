@@ -1,0 +1,10 @@
+import fs from "node:fs";
+const blob = fs.readdirSync("src/compendium").filter(f => f.startsWith("impmal-voll") || f.includes("voll")).map(f => fs.readFileSync("src/compendium/" + f, "utf8")).join("\n")
+  + fs.readdirSync("src/compendium/shared").map(f => fs.readFileSync("src/compendium/shared/" + f, "utf8")).join("\n")
+  + Object.values(JSON.parse(fs.readFileSync("compendium/navis-apexialis.navis-voll-journals.json", "utf8")).entries).map(j => JSON.stringify(j)).join("\n");
+const probes = { "Rokarth": ["Рокарт"], "Dalal": ["Далал"], "Nethecar": ["Нетекар", "Незекар", "Нетэкар"], "Sihn": ["Син"], "Vertexis": ["Вертекс"], "Interitas": ["Интерит"], "Vylathi": ["Вилат", "Вайлат"], "Vitus": ["Витус"], "Maltus": ["Мальтус"], "Incalcos": ["Инкалк"], "rejuvenat": ["омолаж", "ювенат"], "Devotion": ["Преданност", "Предан", "Благочест"], "Aserion": ["Асерион"], "Flask": ["Фляг"], "Trackless": ["Цепь", "Бесслед"], "Jau": ["Джау", "Жау"], "Echo Team": ["«Эхо»"], "Bloodlung": ["легк", "Кровав"], "Dreg": ["Отстой", "Дрег"], "Yarneg": ["Ярнег"], "Lenimen": ["Ленимен"], "Halion": ["Халион", "Галион"], "Gamma-74": ["Гамма-74"], "Cargo-8": ["Карго", "Груз"], "Veridian": ["Веридиан"], "Cogitarum": ["Когитар"], "Medicae Ward": ["Медицинск", "лазарет"], "the Mess": ["Столов", "Кают-компан"], "Vesterick": ["Вестерик"], "Venykar": ["Венык", "Венык"], "Parnham": ["Парнем", "Парнхэм", "Парнам"], "Arthos": ["Артос"], "Court of Sihn": ["Двор Син"], "Eye of Voll": ["Око Волл"], "Castyx": ["Кастикс"], "Corbid": ["Корбид"], "Hinji": ["Хиндж"], "Drukos": ["Друкос"], "Varness": ["Варнесс"], "Roderick": ["Родерик"], "Navrak": ["Наврак"], "DeGuar": ["Дегуар", "ДеГуар"], "Sanctifier": ["Освятител"], "wasteland": ["Пустош", "пустош"], "Beastm": ["зверолюд"], "Stalker": ["Ловч"] };
+for (const [en, ruList] of Object.entries(probes)) {
+  const hits = new Map();
+  for (const ru of ruList) for (const m of blob.matchAll(new RegExp(`[«„]?${ru}[А-Яа-яёЁ-]*(?: [А-ЯЁ«][А-Яа-яёЁ»-]*)?`, "g"))) hits.set(m[0], (hits.get(m[0]) ?? 0) + 1);
+  console.log(en.padEnd(14), [...hits].sort((a, b) => b[1] - a[1]).slice(0, 5).map(([k, v]) => `${k}×${v}`).join(" | "));
+}

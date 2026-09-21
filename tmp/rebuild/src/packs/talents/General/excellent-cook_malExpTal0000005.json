@@ -1,0 +1,59 @@
+{
+  "name": "Excellent Cook",
+  "type": "talent",
+  "_id": "malExpTal0000005",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Prepare great meal giving boni: +5 Discipline (next encounter). 3+SL: when spending FP, roll d10 on 10, the point is restored</span></p><hr><p><span style=\"font-family: Arial\"><em>You are an expertly trained cook, and you have not yet found a reason to give up your passion. Once per Session, you may make a Difficult (-10) Intelligence Test. This action takes at least an hour, in which you may gain bonuses for acquiring ingredients to truly enhance the meal. If you succeed, anyone that eats your food gains a +5 Bonus to Discipline Tests until the end of the next encounter. If you succeed by +3SL, the first time each other player spends a Fate Point, roll a 1d10. On a 10, they gain the benefit of the Fate Point without spending it. </em></span></p>",
+      "gm": "Talent Category: General"
+    },
+    "requirement": {
+      "value": "Devoted Servant (Agronomist) Talent",
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Devoted Servant(Agronomist)\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "KmCDAtV80ZeH9J36",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 4500000
+}

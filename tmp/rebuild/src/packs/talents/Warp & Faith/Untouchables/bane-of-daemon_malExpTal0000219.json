@@ -1,0 +1,59 @@
+{
+  "name": "Bane of Daemon",
+  "type": "talent",
+  "_id": "malExpTal0000219",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Daemons treat the Zone you are in as a Major Hazard</span></p><hr><p><span style=\"font-family: Arial\"><em>Daemons treat the Zone you are in as a Major Hazard (pg. 206) instead of a Minor Hazard.</em></span></p>",
+      "gm": "Talent Category: Untouchables"
+    },
+    "requirement": {
+      "value": "Blank Talent, 2 Advances in Discipline",
+      "script": "return this.actor.system.skills.discipline.advances >= 2 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Blank\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "u3oMExDzCNqURptB",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 100000
+}

@@ -1,0 +1,9 @@
+## Taste 
+ <p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Awareness}</p><p>Superior ability to discern various flavours, including the signs of certain poisons and drugs. </p><p></p> 
+
+## Swimming 
+ <p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#athletics-(str)]{Athletics}</p><p>Better aptitude at swimming through liquids, typically water. Essential on some worlds with planet-spanning oceans, and almost unknown on others.</p> 
+
+## Security 
+ <p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Tech}</p><p>Knowledge of how to interact with the Machine Spirits that control security devices, along with whatever other systems have been linked to the same, such as doors, thermo-regulators, weapons systems, and so forth, in order to direct them in specific ways. Accomplished through the use of binary codes, modern and ancient, along with various techniques used to sift information from datavaults, secured or otherwise. A Specialisation known to few outside the @UUID[JournalEntry.uJURMn2glWHhjqJk.JournalEntryPage.1oKZw1hTM7Gx5cqB]{Adeptus Mechanicus}. </p> 
+

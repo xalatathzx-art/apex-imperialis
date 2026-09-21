@@ -1,0 +1,5787 @@
+[
+ {
+  "id": "0BNmH6VFM4L2cahw",
+  "name": "Kabalite Warrior",
+  "gm": "<p>Possessions: A set of Kabalite Armor, a collection of horrific battle trophies.</p>",
+  "player": "",
+  "species": "Drukhari (Kabal)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Drukhari"
+  },
+  "items": [
+   {
+    "id": "fjHaE3SKvXH17Yda",
+    "type": "trait",
+    "name": "Blade Artist"
+   },
+   {
+    "id": "KQny6Fia7qtwrXN9",
+    "type": "trait",
+    "name": "Power from Pain"
+   },
+   {
+    "id": "z33yEPdsszupioXD",
+    "type": "weapon",
+    "name": "Splinter Rifle"
+   },
+   {
+    "id": "fBUsUDJgZ36PiNec",
+    "type": "weapon",
+    "name": "Knife"
+   },
+   {
+    "id": "E9uIwAvVzQZ8RfpS",
+    "type": "specialisation",
+    "name": "Pain"
+   },
+   {
+    "id": "H9SUcl99tYmwmtu2",
+    "type": "specialisation",
+    "name": "One-Handed"
+   },
+   {
+    "id": "yQupDHq74cburRK7",
+    "type": "specialisation",
+    "name": "Interrogation"
+   },
+   {
+    "id": "vwPXizp0IOYDtbti",
+    "type": "specialisation",
+    "name": "Deception"
+   }
+  ]
+ },
+ {
+  "id": "0PoMQDBqgH3v3F3a",
+  "name": "Genestealer Patriarch",
+  "gm": "<p>Possessions: None. Source lists this profile's role as 'Master' tier (above Leader); stored here as Leader, the closest supported role, since the sheet has no separate Master category.</p>",
+  "player": "",
+  "species": "Genestealer (Genestealer Cult)",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Star Children"
+  },
+  "items": [
+   {
+    "id": "zeTrdggOF3rLxVk2",
+    "type": "trait",
+    "name": "Ambush Predator"
+   },
+   {
+    "id": "mG7T31nhH1sBMKuu",
+    "type": "trait",
+    "name": "Cosmic Horror"
+   },
+   {
+    "id": "ljGYsVoDLDAKwoSU",
+    "type": "trait",
+    "name": "Familiars"
+   },
+   {
+    "id": "eFlMdraJpBqNbAEX",
+    "type": "trait",
+    "name": "Genestealer Kiss"
+   },
+   {
+    "id": "1OHncirUXssbJWWD",
+    "type": "trait",
+    "name": "Hive Mind"
+   },
+   {
+    "id": "4P0KQAo5JjtHfiqo",
+    "type": "trait",
+    "name": "Psychic Powers"
+   },
+   {
+    "id": "uO9yuuAcIYk7Xiib",
+    "type": "trait",
+    "name": "Telepath"
+   },
+   {
+    "id": "AfRE04ujcgOLKWgt",
+    "type": "trait",
+    "name": "Warp Threshold"
+   },
+   {
+    "id": "jZXv7uyEQc8ag4Wd",
+    "type": "weapon",
+    "name": "Claws and Talons"
+   }
+  ]
+ },
+ {
+  "id": "0zdoHTA3qra0ezmp",
+  "name": "Necron Pariah",
+  "gm": "",
+  "player": "",
+  "species": "Necron",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Necron (Dynasty)"
+  },
+  "items": [
+   {
+    "id": "HEIEYzOYf8TQSlR2",
+    "type": "trait",
+    "name": "Living Metal (4)"
+   },
+   {
+    "id": "X9aV0tNJfEudKwYY",
+    "type": "trait",
+    "name": "Phase Out"
+   },
+   {
+    "id": "UjY3PDzw6YT69kgW",
+    "type": "trait",
+    "name": "Reanimation Protocols (7+)"
+   },
+   {
+    "id": "SoFHf7XLQj8QGKHn",
+    "type": "trait",
+    "name": "Blank"
+   },
+   {
+    "id": "RF3b0oC2K6RQ1FYj",
+    "type": "trait",
+    "name": "Soulless Nightmare"
+   },
+   {
+    "id": "UHFlPtFT1ye0kMa3",
+    "type": "weapon",
+    "name": "Warscythe"
+   }
+  ]
+ },
+ {
+  "id": "1B0XLaT5TmMzauqG",
+  "name": "Krootox",
+  "gm": "<p>Possessions: None.</p>",
+  "player": "",
+  "species": "Kroot (T'au Empire)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "T'au Empire"
+  },
+  "items": [
+   {
+    "id": "E3EhnffSMwfoWmXR",
+    "type": "trait",
+    "name": "Kroot-Served Weapon Platform"
+   },
+   {
+    "id": "Pkbq5erYkZbIlgOr",
+    "type": "weapon",
+    "name": "Ranged Attack (Kroot Gun)"
+   },
+   {
+    "id": "JWD3ZXXXKXa5C962",
+    "type": "weapon",
+    "name": "Stomp"
+   }
+  ]
+ },
+ {
+  "id": "1OJKulqkev5lEMLs",
+  "name": "Cultist",
+  "gm": "<p>Possessions: a set of Cult Robes, a Disguise Kit, some Heretical Writings, a Glow Globe, an Unholy Icon, 20 Solars</p>",
+  "player": "",
+  "species": "Human (Heretics)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Heretics"
+  },
+  "items": [
+   {
+    "id": "O8cGyIeFvn8nZ6Y0",
+    "type": "trait",
+    "name": "Sanity is for the Weak"
+   },
+   {
+    "id": "DCGeQbi0kXdkdF9A",
+    "type": "trait",
+    "name": "Witch-mark"
+   },
+   {
+    "id": "9M2SevipYYpO8DjZ",
+    "type": "weapon",
+    "name": "Autogun"
+   },
+   {
+    "id": "kd8SpsVeG4xKpD3l",
+    "type": "weapon",
+    "name": "Autopistol"
+   },
+   {
+    "id": "XMkLagcQ66VDoMAa",
+    "type": "weapon",
+    "name": "Shotgun (Pump-Action)"
+   },
+   {
+    "id": "yo7cM452BHtARwRw",
+    "type": "weapon",
+    "name": "Tox Spray"
+   },
+   {
+    "id": "UnWrnF0s7rj4VJPg",
+    "type": "weapon",
+    "name": "Nail Bomb"
+   },
+   {
+    "id": "wiuA0JyQ3h9puiXg",
+    "type": "weapon",
+    "name": "Sword"
+   },
+   {
+    "id": "NOz8UzVk8tXUWwTH",
+    "type": "weapon",
+    "name": "Knife"
+   },
+   {
+    "id": "mYsZljo59rPgTpdB",
+    "type": "specialisation",
+    "name": "Forbidden"
+   },
+   {
+    "id": "lKY9pZOYHt8pdd3m",
+    "type": "specialisation",
+    "name": "Forbidden"
+   },
+   {
+    "id": "SgvTgJ2Bh0CH6XR8",
+    "type": "specialisation",
+    "name": "Deception"
+   }
+  ]
+ },
+ {
+  "id": "3J3FXJDoVx7F2fBw",
+  "name": "Necron Warrior",
+  "gm": "",
+  "player": "",
+  "species": "Necron",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Necron (Dynasty)"
+  },
+  "items": [
+   {
+    "id": "WLJPigBc7lxQYW84",
+    "type": "trait",
+    "name": "Living Metal (2)"
+   },
+   {
+    "id": "NWTrait2PhaseOut",
+    "type": "trait",
+    "name": "Phase Out"
+   },
+   {
+    "id": "gH8IvdD41Ptsb7bD",
+    "type": "trait",
+    "name": "Reanimation Protocols (7+)"
+   },
+   {
+    "id": "ZPR8cvZFC51vxXlT",
+    "type": "trait",
+    "name": "Their Number is Legion"
+   },
+   {
+    "id": "YICKz7He40mHmWIi",
+    "type": "weapon",
+    "name": "Gauss Flayer"
+   }
+  ]
+ },
+ {
+  "id": "3pMh7o8jfe3Dy5CX",
+  "name": "Renegade Guardsman",
+  "gm": "<p>Possessions: A set of Astra Militarum Flak Armor, a pair of dog tags, a Gas Mask, an Entrenching Tool, a uniform, a set of Survival Gear in a backpack, 30 Solars</p>",
+  "player": "",
+  "species": "Human (Renegade Militarum)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Heretics"
+  },
+  "items": [
+   {
+    "id": "EEzzOyVHLYC9Pvfa",
+    "type": "trait",
+    "name": "Sanity is for the Weak"
+   },
+   {
+    "id": "2Kd8BvONYK9TNzdt",
+    "type": "trait",
+    "name": "Witch-mark"
+   },
+   {
+    "id": "Kqhc4XZQMG2pdjFe",
+    "type": "weapon",
+    "name": "Lasgun"
+   },
+   {
+    "id": "2C6kmKhfm2rqr3B4",
+    "type": "weapon",
+    "name": "Frag Grenade"
+   },
+   {
+    "id": "qFskadT8nQJMlVkV",
+    "type": "weapon",
+    "name": "Krak Grenade"
+   },
+   {
+    "id": "PtsrM6SgXie76zLy",
+    "type": "weapon",
+    "name": "Knife"
+   }
+  ]
+ },
+ {
+  "id": "43qHdKCRGD4fc2jD",
+  "name": "Mutant Rat Swarm",
+  "gm": "<p>Source lists Wounds as '8 or 11' for a Medium or Large swarm respectively; the Large variant has 11 Wounds instead of 8.</p>",
+  "player": "",
+  "species": "Rat Swarm (Fauna)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Fauna"
+  },
+  "items": [
+   {
+    "id": "mt9qrnRBBtGaprBP",
+    "type": "trait",
+    "name": "Swarm"
+   },
+   {
+    "id": "hLERW0CbvaQqrpxC",
+    "type": "weapon",
+    "name": "Teeth and Claws"
+   },
+   {
+    "id": "CduFxFv3il5Qf5OR",
+    "type": "specialisation",
+    "name": "Smell"
+   }
+  ]
+ },
+ {
+  "id": "4ImbUXQHWz8IDIez",
+  "name": "Ogryn Brute",
+  "gm": "<p>Possessions: A set of riveted flakboard plates.</p>",
+  "player": "",
+  "species": "Ogryn (Heretics)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Heretics"
+  },
+  "items": [
+   {
+    "id": "7drgrtClQAfzUhYF",
+    "type": "trait",
+    "name": "Ever-Loyal Guardian"
+   },
+   {
+    "id": "c7luHXTtHUYXl1Yt",
+    "type": "trait",
+    "name": "Sanity is for the Weak"
+   },
+   {
+    "id": "ZbcmBf4U8xMje5ze",
+    "type": "trait",
+    "name": "Witch-mark"
+   },
+   {
+    "id": "yXKB754hcrCwQe0p",
+    "type": "weapon",
+    "name": "Massive Cleaver"
+   },
+   {
+    "id": "xg9nNOJCCJHGYt5n",
+    "type": "specialisation",
+    "name": "Forbidden"
+   }
+  ]
+ },
+ {
+  "id": "4Jk1oVdjGtd5c9zH",
+  "name": "Dybuk Killer",
+  "gm": "<p>Possessions: None.</p>",
+  "player": "",
+  "species": "Human (Heretic)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Heretics"
+  },
+  "items": [
+   {
+    "id": "tFUa7O2SIkT2Jraf",
+    "type": "trait",
+    "name": "Dybuk Creation"
+   },
+   {
+    "id": "uHm9G2O80PPuoIaa",
+    "type": "trait",
+    "name": "Frenzy"
+   },
+   {
+    "id": "II4nSVv012QWdGXR",
+    "type": "trait",
+    "name": "Tenacious"
+   },
+   {
+    "id": "Z3QSVAzCoTAXcCzR",
+    "type": "trait",
+    "name": "Iron Skin"
+   },
+   {
+    "id": "Eh9bisHhJWplYpvs",
+    "type": "trait",
+    "name": "Witch-mark"
+   },
+   {
+    "id": "pHggbnUb3r98Fa4e",
+    "type": "weapon",
+    "name": "Axe"
+   },
+   {
+    "id": "tCNtQ3jJPARXSwre",
+    "type": "specialisation",
+    "name": "Intimidation"
+   },
+   {
+    "id": "KUxsiDFdIrSgcivP",
+    "type": "specialisation",
+    "name": "Deception"
+   },
+   {
+    "id": "vQ6WQ3K6KBoyp5cd",
+    "type": "specialisation",
+    "name": "Dodge"
+   },
+   {
+    "id": "Qs5c1RULhi59jBqf",
+    "type": "specialisation",
+    "name": "Move Silently"
+   }
+  ]
+ },
+ {
+  "id": "62mNCMCAG2vHrZ4B",
+  "name": "Storm Guardian",
+  "gm": "<p>Possessions: A set of Aeldari Mesh Armor, an empty Spirit Stone, 2x Plasma Grenades, 2x Krak Grenades</p>",
+  "player": "",
+  "species": "Aeldari",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Aeldari"
+  },
+  "items": [
+   {
+    "id": "zqRKFup1skk5Akco",
+    "type": "trait",
+    "name": "Defender of the Craftworld"
+   },
+   {
+    "id": "K9I6wOInB6CbJzXe",
+    "type": "trait",
+    "name": "Psychic Sensitivity"
+   },
+   {
+    "id": "T4Tee0p0PyT4FyXY",
+    "type": "trait",
+    "name": "Stormblades"
+   },
+   {
+    "id": "9pSt1Gu90HHCZQRe",
+    "type": "weapon",
+    "name": "Shuriken Pistol"
+   },
+   {
+    "id": "tZXbZ2GljjyBlHi7",
+    "type": "weapon",
+    "name": "Fusion Gun"
+   },
+   {
+    "id": "tgFIZvMir36X8B3V",
+    "type": "weapon",
+    "name": "Eldar Flamer"
+   },
+   {
+    "id": "Er3ukeYCoCpWer0j",
+    "type": "weapon",
+    "name": "Plasma Grenade"
+   },
+   {
+    "id": "0O1JrjznmJHj6nvU",
+    "type": "weapon",
+    "name": "Krak Grenade"
+   },
+   {
+    "id": "RNARaH9w4mPo1Jbb",
+    "type": "weapon",
+    "name": "Eldar Chainsword"
+   },
+   {
+    "id": "4x0CpRWaABFAv86P",
+    "type": "specialisation",
+    "name": "Psyniscience"
+   },
+   {
+    "id": "LHpWLXKXUKFtELbb",
+    "type": "specialisation",
+    "name": "Pistols"
+   }
+  ]
+ },
+ {
+  "id": "69rIO6tBuRK2j1If",
+  "name": "Dire Avengers",
+  "gm": "<p>Possessions: A set of Light Aeldari Aspect Armor, an empty Spirit Stone</p>",
+  "player": "",
+  "species": "Aeldari",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Aeldari"
+  },
+  "items": [
+   {
+    "id": "WqrAz2KrHhSyrntT",
+    "type": "trait",
+    "name": "Aspect Armor"
+   },
+   {
+    "id": "1Lzdw41CoXFkytae",
+    "type": "trait",
+    "name": "Psychic Sensitivity"
+   },
+   {
+    "id": "EztB1R0ElzOEksLx",
+    "type": "trait",
+    "name": "Defence Tactics"
+   },
+   {
+    "id": "PMwnkH7KDZQEQbZY",
+    "type": "weapon",
+    "name": "Avenger Shuriken Catapult"
+   },
+   {
+    "id": "UDQZgbxYEe6i455L",
+    "type": "weapon",
+    "name": "Eldar Chainsword"
+   },
+   {
+    "id": "vwWWstRRLvK88sKm",
+    "type": "specialisation",
+    "name": "Psyniscience"
+   },
+   {
+    "id": "G0VreISMnvGv6uDr",
+    "type": "specialisation",
+    "name": "Long Gun"
+   }
+  ]
+ },
+ {
+  "id": "6LLW1U5XUSuafWdM",
+  "name": "Ariadne Helspider",
+  "gm": "<p>Possessions: None.</p>",
+  "player": "",
+  "species": "Ariadne Helspider (Wych Cult)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Drukhari"
+  },
+  "items": [
+   {
+    "id": "rxJBsSEwfTKpVWSy",
+    "type": "trait",
+    "name": "Temporal Predator"
+   },
+   {
+    "id": "26mcqghP5cCNy5Bd",
+    "type": "weapon",
+    "name": "Time-Rending Mandibles"
+   },
+   {
+    "id": "mw71EAJoJQTT2ohi",
+    "type": "weapon",
+    "name": "Webbing"
+   },
+   {
+    "id": "fvzpg1cMpfhzTcqy",
+    "type": "specialisation",
+    "name": "Dodge"
+   }
+  ]
+ },
+ {
+  "id": "6Zz5lpXS9kvfLNX6",
+  "name": "Skitarii Marshal",
+  "gm": "",
+  "player": "",
+  "species": "Human",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Adeptus Mechanicus"
+  },
+  "items": [
+   {
+    "id": "XvZCKMTHurGAMJFZ",
+    "type": "trait",
+    "name": "Heavily Augmented"
+   },
+   {
+    "id": "W9Hou7f63M1ZxAgE",
+    "type": "trait",
+    "name": "Augmetic Heart"
+   },
+   {
+    "id": "D7zEvogfcGS2EfXH",
+    "type": "trait",
+    "name": "Augmetic Respiratory System"
+   },
+   {
+    "id": "MaWhvKnq4G790Qgp",
+    "type": "trait",
+    "name": "Control Edicts"
+   },
+   {
+    "id": "LewpYF11sSHjS081",
+    "type": "trait",
+    "name": "Noosphere Uplink"
+   },
+   {
+    "id": "b2uSghowV8YYyq4h",
+    "type": "weapon",
+    "name": "Phosphor Blast Pistol"
+   },
+   {
+    "id": "GY9RTSCxmypJAhF6",
+    "type": "weapon",
+    "name": "Control Staff"
+   }
+  ]
+ },
+ {
+  "id": "6iIKvG235onEsSAU",
+  "name": "Wych",
+  "gm": "<p>Possessions: A set of Wychsuit armor, a collection of horrific battle trophies, 1 dose of a single combat drug.</p>",
+  "player": "",
+  "species": "Drukhari (Wych Cult)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Drukhari"
+  },
+  "items": [
+   {
+    "id": "aGxKOqA2fTuVnHAt",
+    "type": "trait",
+    "name": "Blade Mistress"
+   },
+   {
+    "id": "mm8tnZohsHH93kC6",
+    "type": "trait",
+    "name": "Power from Pain"
+   },
+   {
+    "id": "Fxffv4KTMojV3328",
+    "type": "weapon",
+    "name": "Splinter Pistol"
+   },
+   {
+    "id": "En3gB5fvJISFbBwo",
+    "type": "weapon",
+    "name": "2x Knives"
+   },
+   {
+    "id": "lProLtEFsh2gsxCs",
+    "type": "specialisation",
+    "name": "Pain"
+   },
+   {
+    "id": "BViAzHW1F7S97P9W",
+    "type": "specialisation",
+    "name": "One-Handed"
+   },
+   {
+    "id": "Ld9fDsP7fi9qUzug",
+    "type": "specialisation",
+    "name": "Interrogation"
+   },
+   {
+    "id": "DF18MbB1gnBttglC",
+    "type": "specialisation",
+    "name": "Acrobatics"
+   },
+   {
+    "id": "CBiCmyQ733TnVzhp",
+    "type": "specialisation",
+    "name": "Deception"
+   }
+  ]
+ },
+ {
+  "id": "6j6BmJAbNYCZiTJk",
+  "name": "Chronomancer",
+  "gm": "",
+  "player": "",
+  "species": "Necron",
+  "role": "master",
+  "faction": {
+   "id": "",
+   "name": {
+    "athletics": 2,
+    "awareness": 1,
+    "discipline": 3,
+    "fortitude": 3,
+    "intuition": 1,
+    "lore": 3,
+    "logic": 3,
+    "melee": 2,
+    "presence": 3,
+    "ranged": 1,
+    "tech": 3
+   }
+  },
+  "items": [
+   {
+    "id": "jEulZvw8nAImMKJX",
+    "type": "trait",
+    "name": "Living Metal (4)"
+   },
+   {
+    "id": "ztmlDgd4Boz0gP2C",
+    "type": "trait",
+    "name": "Phase Out"
+   },
+   {
+    "id": "8kDtY3iAEJXCMzPb",
+    "type": "trait",
+    "name": "Reanimation Protocols (7+)"
+   },
+   {
+    "id": "4cVeGhCOWL05H7az",
+    "type": "trait",
+    "name": "Chronometron"
+   },
+   {
+    "id": "QP5WHk0nFK2QlTkz",
+    "type": "trait",
+    "name": "Harbinger of Eternity"
+   },
+   {
+    "id": "smm4rviMzH9WdpCK",
+    "type": "trait",
+    "name": "Timesplinter Cloak"
+   },
+   {
+    "id": "IZ3GjyFjZQ0GgXO8",
+    "type": "weapon",
+    "name": "Aeonstave (Ranged)"
+   },
+   {
+    "id": "5JlGwRoXF9hoADsM",
+    "type": "weapon",
+    "name": "Aeonstave (Melee)"
+   },
+   {
+    "id": "N4Vxj9bnwX6T7EtT",
+    "type": "weapon",
+    "name": "Chronotendrils"
+   }
+  ]
+ },
+ {
+  "id": "6k4a9ISApmCr13Ul",
+  "name": "Howling Banshee",
+  "gm": "<p>Possessions: Light Aspect Armor, Howling Banshee Mask, Empty Spirit Stone</p>",
+  "player": "",
+  "species": "Aeldari",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Aeldari"
+  },
+  "items": [
+   {
+    "id": "w8VL02AHFWMLE0EG",
+    "type": "trait",
+    "name": "Blademistress"
+   },
+   {
+    "id": "CUUZVxNgTRH2z1Li",
+    "type": "trait",
+    "name": "Howling Banshee Mask"
+   },
+   {
+    "id": "gYEFgIJiZXqpSevz",
+    "type": "trait",
+    "name": "Psychic Sensitivity"
+   },
+   {
+    "id": "9sTHwzJ2mMER7R7D",
+    "type": "weapon",
+    "name": "Shuriken Pistol"
+   },
+   {
+    "id": "u8C6HgIZDfemlM5v",
+    "type": "weapon",
+    "name": "Eldar Power Sword"
+   },
+   {
+    "id": "lyrS7mqbkQuMgcdZ",
+    "type": "specialisation",
+    "name": "One-Handed"
+   },
+   {
+    "id": "RqBuvtL7BTK5Rkyz",
+    "type": "specialisation",
+    "name": "Acrobatics"
+   },
+   {
+    "id": "asMM6s61Tu72Npj1",
+    "type": "specialisation",
+    "name": "Dodge"
+   }
+  ]
+ },
+ {
+  "id": "7Rm6c6zzCYZLF0Za",
+  "name": "Apprentek",
+  "gm": "",
+  "player": "",
+  "species": "Necron",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": {
+    "athletics": 2,
+    "awareness": 1,
+    "discipline": 2,
+    "fortitude": 2,
+    "intuition": 1,
+    "lore": 2,
+    "logic": 2,
+    "melee": 2,
+    "presence": 2,
+    "ranged": 1,
+    "tech": 2
+   }
+  },
+  "items": [
+   {
+    "id": "5FcjHAqi0nhp8NtY",
+    "type": "trait",
+    "name": "Living Metal (3)"
+   },
+   {
+    "id": "n4M7HRAnkHxoy5xL",
+    "type": "trait",
+    "name": "Phase Out"
+   },
+   {
+    "id": "kEDVqmKQ6yYmwlbm",
+    "type": "trait",
+    "name": "Reanimation Protocols (7+)"
+   },
+   {
+    "id": "KWLOKxZ2yAwhm3xK",
+    "type": "trait",
+    "name": "Pupil to Greatness"
+   },
+   {
+    "id": "fMuXT7eNeCp1jK4p",
+    "type": "weapon",
+    "name": "Arcane Conduit (Ranged)"
+   },
+   {
+    "id": "PCT09CmbpzyzrSlN",
+    "type": "weapon",
+    "name": "Arcane Conduit (Melee)"
+   }
+  ]
+ },
+ {
+  "id": "7kkv6sagzBLYKQA7",
+  "name": "Sanctus",
+  "gm": "<p>Possessions: Armored Bodyglove, 1d10 Solars, Gang Colors, Filtration Plugs, Cameleoline Cloak, Auto-Sense Goggles</p>",
+  "player": "",
+  "species": "Mutant (Genestealer Cults)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Star Children"
+  },
+  "items": [
+   {
+    "id": "mvPCItF0RMCDK4H9",
+    "type": "trait",
+    "name": "Genestealer Mutation"
+   },
+   {
+    "id": "y4ECTVs0QtXSrpsY",
+    "type": "trait",
+    "name": "The Shadows Strike"
+   },
+   {
+    "id": "OWLrzFX9GTaRaodq",
+    "type": "trait",
+    "name": "Soulsight Familiar"
+   },
+   {
+    "id": "mWXYIR0Lg5CzRL6t",
+    "type": "weapon",
+    "name": "Silenced Needle Rifle"
+   },
+   {
+    "id": "CTFwcI5bLAlKqSr3",
+    "type": "weapon",
+    "name": "Sanctus Biodagger"
+   },
+   {
+    "id": "xwUUB9sGVPmz6WTQ",
+    "type": "specialisation",
+    "name": "Might"
+   },
+   {
+    "id": "kFfbDMw4qLVsjRJ5",
+    "type": "specialisation",
+    "name": "Smell"
+   },
+   {
+    "id": "oiwJQWT2Jdbm1GOC",
+    "type": "specialisation",
+    "name": "One-Handed"
+   },
+   {
+    "id": "WLaGBC7o637bQ3Ic",
+    "type": "specialisation",
+    "name": "Long Guns"
+   },
+   {
+    "id": "GyZA7D4D0O5GrivF",
+    "type": "specialisation",
+    "name": "Acrobatics"
+   },
+   {
+    "id": "YVClo6sFt4guJA6x",
+    "type": "specialisation",
+    "name": "Hide"
+   }
+  ]
+ },
+ {
+  "id": "87gYHi4g2GH9aifU",
+  "name": "Khymera",
+  "gm": "<p>Possessions: None.</p>",
+  "player": "",
+  "species": "Khymera (Wych Cult)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Drukhari"
+  },
+  "items": [
+   {
+    "id": "lon0JnUKVOgemlic",
+    "type": "trait",
+    "name": "Lesser Daemon"
+   },
+   {
+    "id": "dDOQeQ1cekEtIKfF",
+    "type": "trait",
+    "name": "Pack Hunter"
+   },
+   {
+    "id": "h8gpCOlyqzNJIZWk",
+    "type": "weapon",
+    "name": "Claws"
+   },
+   {
+    "id": "Y1jOiD8MNB8Q8oSd",
+    "type": "weapon",
+    "name": "Talons"
+   },
+   {
+    "id": "4PihaDvonLhQiqRA",
+    "type": "specialisation",
+    "name": "Move Silently"
+   },
+   {
+    "id": "5pekg96OYRW8jdqT",
+    "type": "specialisation",
+    "name": "Hide"
+   }
+  ]
+ },
+ {
+  "id": "8rj21UuYYCUefznd",
+  "name": "Dark Reaper",
+  "gm": "<p>Possessions: A set of Aeldari Aspect Armor, an empty Spirit Stone</p>",
+  "player": "",
+  "species": "Aeldari",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Aeldari"
+  },
+  "items": [
+   {
+    "id": "5sZcoG1fY78Sut8D",
+    "type": "trait",
+    "name": "Psychic Sensitivity"
+   },
+   {
+    "id": "eLq2eSB8mgzmT44D",
+    "type": "trait",
+    "name": "Inescapable Accuracy"
+   },
+   {
+    "id": "Gp0Zx72nG4SAl8Ln",
+    "type": "weapon",
+    "name": "Reaper Launcher (Starswarm)"
+   },
+   {
+    "id": "td0wIjF6X8JEviid",
+    "type": "weapon",
+    "name": "Reaper Launcher (Starshot)"
+   },
+   {
+    "id": "Nk7j1IeTukaQRdOf",
+    "type": "specialisation",
+    "name": "Psyniscience"
+   },
+   {
+    "id": "WYj6ncBzVun0Ry73",
+    "type": "specialisation",
+    "name": "Ordnance"
+   }
+  ]
+ },
+ {
+  "id": "91DwM4Ye8gR1vlKH",
+  "name": "Serberys Raider",
+  "gm": "",
+  "player": "",
+  "species": "Human",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Adeptus Mechanicus"
+  },
+  "items": [
+   {
+    "id": "rBmDckvpJsVangcP",
+    "type": "trait",
+    "name": "Heavily Augmented"
+   },
+   {
+    "id": "4BLLCfdUh3RqfkGP",
+    "type": "trait",
+    "name": "Augmetic Heart"
+   },
+   {
+    "id": "8fHzJ4WVGSsxaEnT",
+    "type": "trait",
+    "name": "Augmetic Respiratory System"
+   },
+   {
+    "id": "itmTOu0SWn8CB8kj",
+    "type": "trait",
+    "name": "Mounted Warrior"
+   },
+   {
+    "id": "TxStb0Twcy8w0hta",
+    "type": "weapon",
+    "name": "Galvanic Carbine"
+   },
+   {
+    "id": "BJV1hAtlyvW9Nxdg",
+    "type": "weapon",
+    "name": "Power Saber"
+   }
+  ]
+ },
+ {
+  "id": "9l8qcla6OOzVLUci",
+  "name": "Clamavus",
+  "gm": "<p>Possessions: Heavy Leathers, 1d10 Solars, Gang Colors, Filtration Plugs, Vox Interceptor Array (counts as Vox Caster, Leech, and Signal Jammer), Laud Hailer</p>",
+  "player": "",
+  "species": "Human (Genestealer Cults)",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Star Children"
+  },
+  "items": [
+   {
+    "id": "RdZxTcJwYYcJnls8",
+    "type": "trait",
+    "name": "Genestealer Mutation"
+   },
+   {
+    "id": "z9Po8GdbFjv1JJD8",
+    "type": "trait",
+    "name": "Scrambler Vox Array"
+   },
+   {
+    "id": "6Re64TQLdKz3QXaY",
+    "type": "trait",
+    "name": "The Shadow Calls"
+   },
+   {
+    "id": "wviJ8QwW4afev14x",
+    "type": "trait",
+    "name": "The Voice of Truth"
+   },
+   {
+    "id": "CmzjWWpZUiNcyTYq",
+    "type": "weapon",
+    "name": "Stub Pistol"
+   },
+   {
+    "id": "cQiBdInYBiSjHTET",
+    "type": "weapon",
+    "name": "Knife"
+   },
+   {
+    "id": "Wqjdknt5SZJwpluq",
+    "type": "specialisation",
+    "name": "Charm"
+   }
+  ]
+ },
+ {
+  "id": "A8r5IslWdpZsUdtn",
+  "name": "Nexos",
+  "gm": "<p>Possessions: Carapace Chestplate, Vox-Caster, Auspex, Cult/Gang Colors</p>",
+  "player": "",
+  "species": "Human (Genestealer Cults)",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Star Children"
+  },
+  "items": [
+   {
+    "id": "NjLf8j82DhMFVHev",
+    "type": "trait",
+    "name": "Battlefield Analysis"
+   },
+   {
+    "id": "otVrS0ooGfHhrLBR",
+    "type": "trait",
+    "name": "Genestealer Mutation"
+   },
+   {
+    "id": "ED7HqRdDfpbVz5Dp",
+    "type": "trait",
+    "name": "Never Alone"
+   },
+   {
+    "id": "60wsH8ShxYYbOVWd",
+    "type": "weapon",
+    "name": "Autopistol"
+   },
+   {
+    "id": "TmFLtxBSWbXsVLF1",
+    "type": "weapon",
+    "name": "Knife"
+   },
+   {
+    "id": "FzvW1AMpgW20Y1FN",
+    "type": "specialisation",
+    "name": "Leadership"
+   },
+   {
+    "id": "uw90jX2KlzZ1ukgS",
+    "type": "specialisation",
+    "name": "Tactics"
+   },
+   {
+    "id": "7TZkjIKwRzCNmMeA",
+    "type": "specialisation",
+    "name": "Forbidden"
+   }
+  ]
+ },
+ {
+  "id": "CcSXZ0z4q8cHxwj4",
+  "name": "Chaos Beastman",
+  "gm": "<p>Possessions: An Unholy Icon, tattered rags.</p>",
+  "player": "",
+  "species": "Beastman (Heretic)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Heretics"
+  },
+  "items": [
+   {
+    "id": "WxzYCRAINYJ0jS9d",
+    "type": "trait",
+    "name": "Beastial Gaze"
+   },
+   {
+    "id": "7HG660EqT1VmIDXD",
+    "type": "trait",
+    "name": "Sanity is for the Weak"
+   },
+   {
+    "id": "5ZPAKlro2eVT4d1f",
+    "type": "trait",
+    "name": "Witch-mark"
+   },
+   {
+    "id": "tZCsewOqlV4gbaPh",
+    "type": "weapon",
+    "name": "Autopistol"
+   },
+   {
+    "id": "YkCv8HtRUjr6hIIp",
+    "type": "weapon",
+    "name": "Sword"
+   }
+  ]
+ },
+ {
+  "id": "CdciKk5hs2JZzZFr",
+  "name": "Purestrain Genestealer",
+  "gm": "<p>Possessions: None.</p>",
+  "player": "",
+  "species": "Genestealer (Genestealer Cult)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Star Children"
+  },
+  "items": [
+   {
+    "id": "urrTpSCBhM5coEix",
+    "type": "trait",
+    "name": "Ambush Predator"
+   },
+   {
+    "id": "N5ecRHoeTAR7W0S2",
+    "type": "trait",
+    "name": "Genestealer Kiss"
+   },
+   {
+    "id": "sYnTte9qnLcathr9",
+    "type": "trait",
+    "name": "Hive Mind"
+   },
+   {
+    "id": "6MrGVRKU1i4i97Q8",
+    "type": "trait",
+    "name": "Resurgence"
+   },
+   {
+    "id": "phoitvbsTuWNTgS8",
+    "type": "weapon",
+    "name": "Claws and Talons"
+   }
+  ]
+ },
+ {
+  "id": "EiySlgxW6qNtLC7U",
+  "name": "Serberys Sulphurhound",
+  "gm": "",
+  "player": "",
+  "species": "Human",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Adeptus Mechanicus"
+  },
+  "items": [
+   {
+    "id": "vXeAXrSCh4pdXBvf",
+    "type": "trait",
+    "name": "Heavily Augmented"
+   },
+   {
+    "id": "grZnkk9p8L9JNO1H",
+    "type": "trait",
+    "name": "Augmetic Heart"
+   },
+   {
+    "id": "Flf3uthC34qYvgyt",
+    "type": "trait",
+    "name": "Augmetic Respiratory System"
+   },
+   {
+    "id": "J96jryAttgpJNOzC",
+    "type": "trait",
+    "name": "Mounted Warrior"
+   },
+   {
+    "id": "W60vkaI0gTpQMyGF",
+    "type": "trait",
+    "name": "Line-Breaker"
+   },
+   {
+    "id": "8Sz8aRB4zkRbDCkr",
+    "type": "weapon",
+    "name": "Phosphor Blast Carbine"
+   },
+   {
+    "id": "erSSJ6i84TO78Bgw",
+    "type": "weapon",
+    "name": "Shock Maul"
+   }
+  ]
+ },
+ {
+  "id": "Fc0BW9wtQ2COVPbV",
+  "name": "Skitarii Alpha",
+  "gm": "",
+  "player": "",
+  "species": "Human",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Adeptus Mechanicus"
+  },
+  "items": [
+   {
+    "id": "FbKq8VwcNnDLFgol",
+    "type": "trait",
+    "name": "Heavily Augmented"
+   },
+   {
+    "id": "is31MslG4c6Lne88",
+    "type": "trait",
+    "name": "Augmetic Heart"
+   },
+   {
+    "id": "5AD4GGfsWTEIKiFu",
+    "type": "trait",
+    "name": "Augmetic Respiratory System"
+   },
+   {
+    "id": "wJ2H9kYP6e3ABUjQ",
+    "type": "weapon",
+    "name": "Phosphor Blast Pistol"
+   },
+   {
+    "id": "72rvlBgtzYmgS9Ys",
+    "type": "weapon",
+    "name": "Power Sword"
+   }
+  ]
+ },
+ {
+  "id": "FrCfZ4U2EqkNk6sE",
+  "name": "Boreworm",
+  "gm": "",
+  "player": "",
+  "species": "Worm (Fauna)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Fauna"
+  },
+  "items": [
+   {
+    "id": "r6f4gUy0BQ8DEoFo",
+    "type": "trait",
+    "name": "Burrowing Teeth"
+   },
+   {
+    "id": "gNCAI3Ao3pxTnHyf",
+    "type": "trait",
+    "name": "Independent Segments"
+   },
+   {
+    "id": "6t5YdIngBaVbVJBM",
+    "type": "weapon",
+    "name": "Teeth"
+   }
+  ]
+ },
+ {
+  "id": "HGtLUCtTPHM5QW9H",
+  "name": "Wrack",
+  "gm": "<p>Possessions: Grisly trophies, 6 doses of Slaught, Injector</p>",
+  "player": "",
+  "species": "Drukhari (Haemonculus Coven)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Drukhari"
+  },
+  "items": [
+   {
+    "id": "Pe1Roek8JO44uEUP",
+    "type": "trait",
+    "name": "Horrific Experiments"
+   },
+   {
+    "id": "alwNoixXpA8LotfE",
+    "type": "trait",
+    "name": "Power from Pain"
+   },
+   {
+    "id": "SGz1945xM4xxwJ1i",
+    "type": "weapon",
+    "name": "Liquifier Gun"
+   },
+   {
+    "id": "T8UO9VHPQfj3cWXl",
+    "type": "weapon",
+    "name": "2x Poisoned Blades"
+   },
+   {
+    "id": "eQ6HvAlJVPRkydAk",
+    "type": "specialisation",
+    "name": "Pain"
+   },
+   {
+    "id": "wXYIrxKPUgjqKR03",
+    "type": "specialisation",
+    "name": "One-Handed"
+   }
+  ]
+ },
+ {
+  "id": "IJqWzuI5uhOKVL1T",
+  "name": "Primus",
+  "gm": "<p>Possessions: Carapace Chestplate, Gang/Cult Colors, Rebreather, Cult Icon</p>",
+  "player": "",
+  "species": "Mutant (Genestealer Cults)",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Star Children"
+  },
+  "items": [
+   {
+    "id": "LhT9T6TNr2XF8aSU",
+    "type": "trait",
+    "name": "Day of Ascension"
+   },
+   {
+    "id": "I6G3fvwaTBuJdry5",
+    "type": "trait",
+    "name": "Genestealer Mutation"
+   },
+   {
+    "id": "rffWltzMovJC5LhB",
+    "type": "trait",
+    "name": "Multi-Limbed"
+   },
+   {
+    "id": "uIglmiRgC2mQXwWS",
+    "type": "trait",
+    "name": "Supreme Commander"
+   },
+   {
+    "id": "V9x7wFuQsqh3z39R",
+    "type": "weapon",
+    "name": "Needle Pistol"
+   },
+   {
+    "id": "SLMLY6GpoQ2MRlyM",
+    "type": "weapon",
+    "name": "Bonesword"
+   },
+   {
+    "id": "tJmRzrzNBEaZGMWo",
+    "type": "weapon",
+    "name": "Toxin Injector"
+   },
+   {
+    "id": "AUNuaqBbv4k0wmbJ",
+    "type": "specialisation",
+    "name": "Talents"
+   },
+   {
+    "id": "5sXQTPU0TSRbHERh",
+    "type": "specialisation",
+    "name": "One-Handed"
+   },
+   {
+    "id": "lyLCKfnL3HyCGOah",
+    "type": "specialisation",
+    "name": "Leadership"
+   },
+   {
+    "id": "boVjMBotj9xkEnyf",
+    "type": "specialisation",
+    "name": "Pistols"
+   }
+  ]
+ },
+ {
+  "id": "IUvwmGXYR8y2jVCM",
+  "name": "Rogue Psyker",
+  "gm": "<p>Possessions: Tattered Light Leathers, an Unholy Icon.</p>",
+  "player": "",
+  "species": "Human (Heretic)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Heretics"
+  },
+  "items": [
+   {
+    "id": "NxnIDEByZFIRUroA",
+    "type": "trait",
+    "name": "Malefic Psyker"
+   },
+   {
+    "id": "5oWMVXG5gnVOYf62",
+    "type": "trait",
+    "name": "Doombolt (Power)"
+   },
+   {
+    "id": "K1HflR7ZNjaqO1tp",
+    "type": "trait",
+    "name": "Foul Cage (Power)"
+   },
+   {
+    "id": "PQjOXR3nGL1yMiGs",
+    "type": "trait",
+    "name": "Source of Corruption"
+   },
+   {
+    "id": "66tD6cNm5Xb96m6X",
+    "type": "trait",
+    "name": "Unrestrained Power"
+   },
+   {
+    "id": "ukqzqt1H1CRXglrv",
+    "type": "trait",
+    "name": "Warp Threshold"
+   },
+   {
+    "id": "rD5wyx4gIBwIsbCU",
+    "type": "weapon",
+    "name": "Laspistol"
+   },
+   {
+    "id": "I73IUT5n32E9Erqh",
+    "type": "weapon",
+    "name": "Chaos Stave (Force Staff, Psy Focus)"
+   },
+   {
+    "id": "ix9nS7cyOJJClhFY",
+    "type": "specialisation",
+    "name": "Psyniscience"
+   },
+   {
+    "id": "DvuhADtcNEnGSW8M",
+    "type": "specialisation",
+    "name": "Forbidden"
+   },
+   {
+    "id": "oLXCmsEFX04NTKpe",
+    "type": "specialisation",
+    "name": "Forbidden"
+   }
+  ]
+ },
+ {
+  "id": "J0KS0IYWMdTvx3JJ",
+  "name": "Sicarian Infiltrator",
+  "gm": "",
+  "player": "",
+  "species": "Human",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Adeptus Mechanicus"
+  },
+  "items": [
+   {
+    "id": "nea5MhKuOMw2kkA2",
+    "type": "trait",
+    "name": "Heavily Augmented"
+   },
+   {
+    "id": "t6cEDyBL0pWadnZq",
+    "type": "trait",
+    "name": "Augmetic Heart"
+   },
+   {
+    "id": "H4qEja45dNxhOKk8",
+    "type": "trait",
+    "name": "Augmetic Respiratory System"
+   },
+   {
+    "id": "3Dkc1EzkU31ZjJ4t",
+    "type": "trait",
+    "name": "Neurostatic Aura"
+   },
+   {
+    "id": "b1ZUx2nbU9QdQ14j",
+    "type": "weapon",
+    "name": "Stubcarbine"
+   },
+   {
+    "id": "U296F7HE9M5zcW0H",
+    "type": "weapon",
+    "name": "Power Sword"
+   }
+  ]
+ },
+ {
+  "id": "JHtzgjr7MmMFr5eX",
+  "name": "Chaos Hound",
+  "gm": "",
+  "player": "",
+  "species": "Beast",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Nurgle"
+  },
+  "items": [
+   {
+    "id": "hveqPzAlgOD4fFsZ",
+    "type": "specialisation",
+    "name": "Dodge"
+   },
+   {
+    "id": "Xj3VdNDmyYHlSkAv",
+    "type": "weapon",
+    "name": "Bite"
+   },
+   {
+    "id": "rpGmBLeI5Pkehx2D",
+    "type": "trait",
+    "name": "Fetch Me Their Souls"
+   }
+  ]
+ },
+ {
+  "id": "JMcIyfHaBy9wdWqV",
+  "name": "Blessed Blade",
+  "gm": "<p>Possessions: Corrupted Carapace Armor, Heretical Writings, an Unholy Icon, a Storm Shield.</p>",
+  "player": "",
+  "species": "Human (Heretic)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Heretics"
+  },
+  "items": [
+   {
+    "id": "fplWlVDuEJ90OZGA",
+    "type": "trait",
+    "name": "Sanity is for the Weak"
+   },
+   {
+    "id": "WyE4OzTRXe4uQzGw",
+    "type": "trait",
+    "name": "Ultimate Sacrifice"
+   },
+   {
+    "id": "JhQr1HNu3hiBxNGX",
+    "type": "trait",
+    "name": "Utterly Loyal"
+   },
+   {
+    "id": "RgwGGHjQ7LvEotkR",
+    "type": "trait",
+    "name": "Witch-mark"
+   },
+   {
+    "id": "IwUGhdZlAdrjgXzK",
+    "type": "weapon",
+    "name": "Power Greatsword"
+   },
+   {
+    "id": "Cmojxzqq8cD2gjeH",
+    "type": "specialisation",
+    "name": "Forbidden"
+   },
+   {
+    "id": "NSfnRMFEFolEJZwE",
+    "type": "specialisation",
+    "name": "Forbidden"
+   },
+   {
+    "id": "K8BZKQPh1hObjSZU",
+    "type": "specialisation",
+    "name": "Intimidation"
+   }
+  ]
+ },
+ {
+  "id": "JdwePVHZvFhC5Tr5",
+  "name": "Herald of Nurgle",
+  "gm": "",
+  "player": "",
+  "species": "Daemon",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Nurgle"
+  },
+  "items": [
+   {
+    "id": "CRbiFh5WMo9qsrfF",
+    "type": "specialisation",
+    "name": "Leadership"
+   },
+   {
+    "id": "HMTZOmEMEB7A7sAE",
+    "type": "trait",
+    "name": "Heraldic Daemon"
+   },
+   {
+    "id": "Zb6GeqtQ9SGgIf6Y",
+    "type": "trait",
+    "name": "Heraldic Psyker"
+   },
+   {
+    "id": "szY7bWfGtbQ0PH6g",
+    "type": "trait",
+    "name": "Source of Corruption"
+   },
+   {
+    "id": "JYXpGuUlMgp1ss2V",
+    "type": "trait",
+    "name": "Emissary of the Plague Lord"
+   },
+   {
+    "id": "ukhGyPwEbkPQTu08",
+    "type": "trait",
+    "name": "Disgustingly Resilient"
+   },
+   {
+    "id": "cLucMa6T7JHCCEl8",
+    "type": "power",
+    "name": "Smite"
+   },
+   {
+    "id": "tHwITztu6z7xmzGD",
+    "type": "power",
+    "name": "Nurgle's Rot"
+   },
+   {
+    "id": "DsIicWmp2f3hItjr",
+    "type": "specialisation",
+    "name": "Nurglite Powers"
+   },
+   {
+    "id": "6YlzpKCtmX7XUzCX",
+    "type": "weapon",
+    "name": "Plaguesword"
+   }
+  ]
+ },
+ {
+  "id": "JtYUQihc16fV1tEn",
+  "name": "Renegade Officer",
+  "gm": "<p>Possessions: Carapace Chestplate Refractor Field, a pair of dog tags, a Gas Mask, an Entrenching Tool, a uniform, a set of Survival Gear in a Backpack, 300 Solars.</p>",
+  "player": "",
+  "species": "Human (Renegade Militarum)",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Heretics"
+  },
+  "items": [
+   {
+    "id": "KAASo30B0WcOQ6Uu",
+    "type": "trait",
+    "name": "Fanatical Zealotry"
+   },
+   {
+    "id": "pyLFNFDBUmISzNpK",
+    "type": "trait",
+    "name": "The Price of Failure"
+   },
+   {
+    "id": "uXStwe4wZQZ4yNSp",
+    "type": "trait",
+    "name": "Sanity is for the Weak"
+   },
+   {
+    "id": "d5LpMDyCTkfZvJco",
+    "type": "trait",
+    "name": "Witch-mark"
+   },
+   {
+    "id": "yzQbLxSA9oUrlKeS",
+    "type": "weapon",
+    "name": "Bolt Pistol"
+   },
+   {
+    "id": "ud7kIBZ6MJnXeBYx",
+    "type": "weapon",
+    "name": "Frag Grenade"
+   },
+   {
+    "id": "BPYOy9zVLODBVw96",
+    "type": "weapon",
+    "name": "Krak Grenade"
+   },
+   {
+    "id": "og8PAGb7cO6qOpiA",
+    "type": "weapon",
+    "name": "Power Sword"
+   }
+  ]
+ },
+ {
+  "id": "KpiWMjEAoTXdCQuV",
+  "name": "Reductus Saboteur",
+  "gm": "<p>Possessions: Heavy Leathers, 1d10 Solars, Gang/Cult Colors, Filtration Plugs, Remote Detonators, 2x Demolition Charges</p>",
+  "player": "",
+  "species": "Human (Genestealer Cult)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Star Children"
+  },
+  "items": [
+   {
+    "id": "5woEoKico7iwQgHR",
+    "type": "trait",
+    "name": "Genestealer Mutation"
+   },
+   {
+    "id": "9bEPkjbqwoLbFeMJ",
+    "type": "trait",
+    "name": "Multi-Limbed"
+   },
+   {
+    "id": "4hn9FDzjQb4Fs7Dg",
+    "type": "trait",
+    "name": "Primed and Ready"
+   },
+   {
+    "id": "zEluJkqBIPGlOgCA",
+    "type": "trait",
+    "name": "Three Big Booms"
+   },
+   {
+    "id": "Hh1gpXHWDqE19e4N",
+    "type": "weapon",
+    "name": "Autopistol"
+   },
+   {
+    "id": "IL1hNTdoSdImBgPl",
+    "type": "weapon",
+    "name": "Knife"
+   },
+   {
+    "id": "ujRgKzQdb7hocjRk",
+    "type": "specialisation",
+    "name": "Defusing"
+   },
+   {
+    "id": "cRZucGI6zZ2ZuP3m",
+    "type": "specialisation",
+    "name": "Conceal"
+   },
+   {
+    "id": "MtR61ctXYgpkfyku",
+    "type": "specialisation",
+    "name": "Engineering"
+   },
+   {
+    "id": "besrdMg0tzto1NsB",
+    "type": "specialisation",
+    "name": "Security"
+   }
+  ]
+ },
+ {
+  "id": "KygWHyF8FYnGWq5N",
+  "name": "Skitarii Vanguard",
+  "gm": "",
+  "player": "",
+  "species": "Human",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Adeptus Mechanicus"
+  },
+  "items": [
+   {
+    "id": "SsZp2sOw23A4VZoJ",
+    "type": "trait",
+    "name": "Heavily Augmented"
+   },
+   {
+    "id": "xeYnICyVYM1C1Rr2",
+    "type": "trait",
+    "name": "Augmetic Heart"
+   },
+   {
+    "id": "kMm7s7Otc8qER9VR",
+    "type": "trait",
+    "name": "Augmetic Respiratory System"
+   },
+   {
+    "id": "HGWZsUp9KUWrOtIO",
+    "type": "trait",
+    "name": "Rad Scourge"
+   },
+   {
+    "id": "1Gr47PJcHRmKF3Pz",
+    "type": "weapon",
+    "name": "Radium Carbine"
+   }
+  ]
+ },
+ {
+  "id": "MnM8VGR9PyWdzg9e",
+  "name": "Secutarii Axiarch",
+  "gm": "",
+  "player": "",
+  "species": "Human",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Titan Legions"
+  },
+  "items": [
+   {
+    "id": "UxpA6qF0wPYVxVUn",
+    "type": "trait",
+    "name": "Heavily Augmented"
+   },
+   {
+    "id": "6D3jNujKF9Wc8p6f",
+    "type": "trait",
+    "name": "Augmetic Heart"
+   },
+   {
+    "id": "uBJAkN0BARqb9Imx",
+    "type": "trait",
+    "name": "Augmetic Respiratory System"
+   },
+   {
+    "id": "G8mmMTipWnuC5JGy",
+    "type": "trait",
+    "name": "Kyropatris Field Generator"
+   },
+   {
+    "id": "uaYW7csQp8zHNdtX",
+    "type": "trait",
+    "name": "Titanguard"
+   },
+   {
+    "id": "z6J3UcHhFQ1EToaA",
+    "type": "trait",
+    "name": "Control Edicts"
+   },
+   {
+    "id": "OZ7zTmBttVcjc8PC",
+    "type": "trait",
+    "name": "Noosphere Uplink"
+   },
+   {
+    "id": "C8DyUR9v73uMsmmz",
+    "type": "weapon",
+    "name": "Radium Pistol"
+   },
+   {
+    "id": "Gb2VIcHCBGLJk7RF",
+    "type": "weapon",
+    "name": "Power Sword"
+   }
+  ]
+ },
+ {
+  "id": "N4awcLNngZQCSJl6",
+  "name": "Warp Spider",
+  "gm": "<p>Possessions: A set of Aeldari Aspect Armor, an empty Spirit Stone, a Warp Jump Generator</p>",
+  "player": "",
+  "species": "Aeldari",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Aeldari"
+  },
+  "items": [
+   {
+    "id": "KcrG1RWL0ztL8NcQ",
+    "type": "trait",
+    "name": "Aspect Armor"
+   },
+   {
+    "id": "KPv3IvVnfHXp7gXt",
+    "type": "trait",
+    "name": "Psychic Sensitivity"
+   },
+   {
+    "id": "befb1tJNwNRO0BNX",
+    "type": "trait",
+    "name": "Warp Jump Generator"
+   },
+   {
+    "id": "bzDfnfwPvwywSgbi",
+    "type": "trait",
+    "name": "Wrath of Lhykosidae"
+   },
+   {
+    "id": "iCwTVigdrKkcNvJN",
+    "type": "weapon",
+    "name": "Death Spinner"
+   },
+   {
+    "id": "FMfGY8WBRx1bA6um",
+    "type": "specialisation",
+    "name": "Psyniscience"
+   },
+   {
+    "id": "IkN2KoTBkOBSFPiy",
+    "type": "specialisation",
+    "name": "Ordnance"
+   }
+  ]
+ },
+ {
+  "id": "NHk6Q7g6XDEPdx5e",
+  "name": "XV8 Crisis Battlesuit Commander",
+  "gm": "<p>Possessions: Crisis Battlesuit, 4x Support Systems</p>",
+  "player": "",
+  "species": "Battlesuit (T'au Empire)",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "T'au Empire"
+  },
+  "items": [
+   {
+    "id": "IsB1HOGR5nUxvnlS",
+    "type": "trait",
+    "name": "Battlesuit Jump Pack"
+   },
+   {
+    "id": "yYkBj1TDK4YHmp7B",
+    "type": "trait",
+    "name": "For the Greater Good"
+   },
+   {
+    "id": "FBEYLSHu8Uiay7uV",
+    "type": "trait",
+    "name": "Mont'Ka"
+   },
+   {
+    "id": "F4qz3cYF6nChSbuB",
+    "type": "weapon",
+    "name": "Cyclic Ion Blaster"
+   },
+   {
+    "id": "MoFefBUxMyBXIyIa",
+    "type": "weapon",
+    "name": "Missile Pods w/ Frag Missiles"
+   },
+   {
+    "id": "VJ1VJWIN7LiqfMt9",
+    "type": "weapon",
+    "name": "Fusion Blaster"
+   },
+   {
+    "id": "rNl0lyqtwvrzfrhk",
+    "type": "specialisation",
+    "name": "Leadership"
+   },
+   {
+    "id": "H4udrHQM4vZZT2yh",
+    "type": "specialisation",
+    "name": "Ordnance"
+   }
+  ]
+ },
+ {
+  "id": "NcT5GMfecUIrpXmZ",
+  "name": "Cult Fanatic",
+  "gm": "<p>Possessions: Set of Cult Robes, Heretical Writings, an Unholy Icon, 1d10 Solars</p>",
+  "player": "",
+  "species": "Human (Heretic)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Heretics"
+  },
+  "items": [
+   {
+    "id": "7DcVg6h5kga0oGvR",
+    "type": "trait",
+    "name": "Frenzy"
+   },
+   {
+    "id": "chVhsBC45rQtmZDp",
+    "type": "trait",
+    "name": "Sanity is for the Weak"
+   },
+   {
+    "id": "U1WzftZL9IrpxtYl",
+    "type": "trait",
+    "name": "Witch-mark"
+   },
+   {
+    "id": "W293LL2Ne7tffqWc",
+    "type": "weapon",
+    "name": "Hand Cannon"
+   },
+   {
+    "id": "cB1jAf8JBRZInxwu",
+    "type": "weapon",
+    "name": "Sword"
+   },
+   {
+    "id": "iFsL33pjsOnbMGuw",
+    "type": "weapon",
+    "name": "Chainaxe"
+   },
+   {
+    "id": "rpnWt1N3LMyTJ1gU",
+    "type": "specialisation",
+    "name": "Forbidden"
+   },
+   {
+    "id": "ZcKiCBy8yIot9ik2",
+    "type": "specialisation",
+    "name": "Forbidden"
+   },
+   {
+    "id": "fQqZt2ui3eIrCHo7",
+    "type": "specialisation",
+    "name": "Intimidation"
+   },
+   {
+    "id": "XSjaKiQrm75PDfn8",
+    "type": "specialisation",
+    "name": "Deception"
+   }
+  ]
+ },
+ {
+  "id": "Nnj4SpPrrqWFGnac",
+  "name": "Tech-Assassin",
+  "gm": "<p>Possessions: Some Tech-Assassins may have clothing to hide themselves amongst crowds.</p>",
+  "player": "",
+  "species": "Servitor (Dark Mechanicum)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Heretics"
+  },
+  "items": [
+   {
+    "id": "qifZcsObEyHRpoDa",
+    "type": "trait",
+    "name": "Heavily Augmented"
+   },
+   {
+    "id": "1wuFYf2XI6auWkj9",
+    "type": "trait",
+    "name": "Augmetic Heart"
+   },
+   {
+    "id": "q31K4XFE6MoFF0rc",
+    "type": "trait",
+    "name": "Augmetic Respiratory System"
+   },
+   {
+    "id": "gDkMhws1hlsvmWbB",
+    "type": "trait",
+    "name": "Biomechanical Interface"
+   },
+   {
+    "id": "8InJhiO6qjXoLNUd",
+    "type": "trait",
+    "name": "Chem Gland"
+   },
+   {
+    "id": "WquNyLRW5nr4FZSg",
+    "type": "trait",
+    "name": "Cybernetic Dermaguise"
+   },
+   {
+    "id": "L1km1qRjsf9irP1G",
+    "type": "trait",
+    "name": "Programmed to Serve"
+   },
+   {
+    "id": "vGRELusLxTUqSHI4",
+    "type": "weapon",
+    "name": "Hotshot Lasgun (MIUWI)"
+   },
+   {
+    "id": "Zmr6Ne7wA0ViKUW2",
+    "type": "weapon",
+    "name": "Power Sword"
+   }
+  ]
+ },
+ {
+  "id": "NzNFvWWt8uwtFHFE",
+  "name": "Plasmancer",
+  "gm": "",
+  "player": "",
+  "species": "Necron",
+  "role": "master",
+  "faction": {
+   "id": "",
+   "name": {
+    "athletics": 2,
+    "awareness": 1,
+    "discipline": 3,
+    "fortitude": 3,
+    "intuition": 1,
+    "lore": 3,
+    "logic": 3,
+    "melee": 2,
+    "presence": 3,
+    "ranged": 1,
+    "tech": 3
+   }
+  },
+  "items": [
+   {
+    "id": "RCBIUpQgHNvKtZsZ",
+    "type": "trait",
+    "name": "Living Metal (4)"
+   },
+   {
+    "id": "TCEjr9bGYtUFEvnC",
+    "type": "trait",
+    "name": "Phase Out"
+   },
+   {
+    "id": "ddivKVetDXIZUuMU",
+    "type": "trait",
+    "name": "Reanimation Protocols (7+)"
+   },
+   {
+    "id": "qIlvpkgJJohDQaJv",
+    "type": "trait",
+    "name": "Harbinger of Destruction"
+   },
+   {
+    "id": "mJbdurfIACi8Dsfv",
+    "type": "trait",
+    "name": "Living Lightning"
+   },
+   {
+    "id": "1Rt9tLo7GHDkurY7",
+    "type": "trait",
+    "name": "Solar Pulse"
+   },
+   {
+    "id": "B7J0QgH4GW4JGyI8",
+    "type": "weapon",
+    "name": "Eldritch Lance (Ranged)"
+   },
+   {
+    "id": "Vs6BsxkcQPHOuRi4",
+    "type": "weapon",
+    "name": "Eldritch Lance (Melee)"
+   }
+  ]
+ },
+ {
+  "id": "OIOU5Dx1dH685CGN",
+  "name": "Skitarii Ranger",
+  "gm": "",
+  "player": "",
+  "species": "Human",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Adeptus Mechanicus"
+  },
+  "items": [
+   {
+    "id": "VX4mAq2HK1hEMSrV",
+    "type": "trait",
+    "name": "Heavily Augmented"
+   },
+   {
+    "id": "CPKZ7AVvHSST8WcY",
+    "type": "trait",
+    "name": "Augmetic Heart"
+   },
+   {
+    "id": "qQdn5ab2SJLekCAg",
+    "type": "trait",
+    "name": "Augmetic Respiratory System"
+   },
+   {
+    "id": "sgBA4SVF3MsgXLfl",
+    "type": "weapon",
+    "name": "Galvanic Rifle"
+   }
+  ]
+ },
+ {
+  "id": "Ok1dZp5fP32sU8ke",
+  "name": "Traitor Legionnaire",
+  "gm": "<p>Possessions: A set of Mk. VII \"Aquila\" Power Armor.</p>",
+  "player": "",
+  "species": "Astartes (Heretic Astartes)",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Heretics"
+  },
+  "items": [
+   {
+    "id": "kYKitX35VAymE5GK",
+    "type": "trait",
+    "name": "Betcher's Gland"
+   },
+   {
+    "id": "h5VDAwyGuu3fnXqM",
+    "type": "trait",
+    "name": "Catalapsean Node"
+   },
+   {
+    "id": "PN7MQjHNnBPhwIsw",
+    "type": "trait",
+    "name": "Preomnor & Mucranoid"
+   },
+   {
+    "id": "4xjrBpCzqdNrIJzx",
+    "type": "trait",
+    "name": "Larraman's Organ"
+   },
+   {
+    "id": "luaegOfRn6oi8B5S",
+    "type": "trait",
+    "name": "Lyman's Ear"
+   },
+   {
+    "id": "nrX0dbnxynfftOni",
+    "type": "trait",
+    "name": "Multi-Lung"
+   },
+   {
+    "id": "ApsoemFjUfsVFwwZ",
+    "type": "trait",
+    "name": "Neuroglottis"
+   },
+   {
+    "id": "cGI1HzTcUJP4q4wQ",
+    "type": "trait",
+    "name": "Occulobe"
+   },
+   {
+    "id": "nGrBFUFLL4z4ytZs",
+    "type": "trait",
+    "name": "Oolitic Kidney"
+   },
+   {
+    "id": "X6LqWzj1rmCpQrXI",
+    "type": "trait",
+    "name": "Sus-an Membrane"
+   },
+   {
+    "id": "Llbqoe8gIrB4sMUl",
+    "type": "trait",
+    "name": "Slave to Darkness"
+   },
+   {
+    "id": "24gICwfWnxW108JY",
+    "type": "trait",
+    "name": "Source of Corruption"
+   },
+   {
+    "id": "VziqbE3gERWXU3fX",
+    "type": "trait",
+    "name": "Transhuman Dread"
+   },
+   {
+    "id": "28YyLQlepJ3yMUBE",
+    "type": "weapon",
+    "name": "Boltgun"
+   },
+   {
+    "id": "EISGwnclk21GNbwG",
+    "type": "weapon",
+    "name": "Bolt Pistol"
+   },
+   {
+    "id": "ng5CELlOg53xZYas",
+    "type": "weapon",
+    "name": "Astartes Combat Knife"
+   },
+   {
+    "id": "FD1CBsBhkiRSqiHG",
+    "type": "specialisation",
+    "name": "Might"
+   },
+   {
+    "id": "mbuVsAa0uTX7NSsH",
+    "type": "specialisation",
+    "name": "Running"
+   },
+   {
+    "id": "Nc3QLpyGgW1zRgdR",
+    "type": "specialisation",
+    "name": "Smell"
+   },
+   {
+    "id": "MNFaFA5PGvRxYlSW",
+    "type": "specialisation",
+    "name": "Composure"
+   },
+   {
+    "id": "78HUqCaMlQOD7Ymo",
+    "type": "specialisation",
+    "name": "Fear"
+   },
+   {
+    "id": "YFSg7a06lPwsdwm7",
+    "type": "specialisation",
+    "name": "Pain"
+   },
+   {
+    "id": "oZqjoSRAIywcXNVE",
+    "type": "specialisation",
+    "name": "Endurance"
+   },
+   {
+    "id": "suLIz9NxMUtRXmez",
+    "type": "specialisation",
+    "name": "High Gothic"
+   },
+   {
+    "id": "rNeXNopxMxsw8Xyi",
+    "type": "specialisation",
+    "name": "Forbidden - Astartes Battle Sign"
+   },
+   {
+    "id": "KABkV2D8mDsoWiKA",
+    "type": "specialisation",
+    "name": "Forbidden - Astartes"
+   },
+   {
+    "id": "LsYnzLrCku9yeDHf",
+    "type": "specialisation",
+    "name": "Dodge"
+   }
+  ]
+ },
+ {
+  "id": "OkJkdPIAUEK7sORF",
+  "name": "Fireblade",
+  "gm": "<p>Possessions: Fire Warrior Heavy Combat Armor</p>",
+  "player": "",
+  "species": "T'au (T'au Empire)",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "T'au Empire"
+  },
+  "items": [
+   {
+    "id": "a8QIrEOl7cgnPnQ2",
+    "type": "trait",
+    "name": "Concentrate Fire"
+   },
+   {
+    "id": "i10lyNvoybuimEXK",
+    "type": "trait",
+    "name": "Field Commander"
+   },
+   {
+    "id": "iEXb429D9BP8vTKa",
+    "type": "trait",
+    "name": "For the Greater Good"
+   },
+   {
+    "id": "6BeKrSeFeYj24PeF",
+    "type": "weapon",
+    "name": "Pulse Rifle"
+   },
+   {
+    "id": "5gyaz0GjRnULQPKT",
+    "type": "weapon",
+    "name": "Bonding Knife"
+   },
+   {
+    "id": "O7cs5v1myr5pvec2",
+    "type": "specialisation",
+    "name": "Fear"
+   },
+   {
+    "id": "x5hIYwWDcMy05rjL",
+    "type": "specialisation",
+    "name": "Leadership"
+   },
+   {
+    "id": "FsFPJ2E3o19I2m8S",
+    "type": "specialisation",
+    "name": "Long Gun"
+   }
+  ]
+ },
+ {
+  "id": "QKnY8qS0BFn7Bwpk",
+  "name": "Gloomhaunt",
+  "gm": "",
+  "player": "",
+  "species": "Gloomhaunt (Fauna)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Fauna"
+  },
+  "items": [
+   {
+    "id": "Z01BZGaG7yOh3FZ9",
+    "type": "trait",
+    "name": "Death From Above"
+   },
+   {
+    "id": "NoDxQshIISj3bb56",
+    "type": "trait",
+    "name": "Cranial Clasp"
+   },
+   {
+    "id": "42ldGDinouxZjugn",
+    "type": "weapon",
+    "name": "Teeth & Claws"
+   },
+   {
+    "id": "DD57Nb5srpS9wg1Q",
+    "type": "specialisation",
+    "name": "Hide"
+   }
+  ]
+ },
+ {
+  "id": "RUss3KRMQF64b8Nj",
+  "name": "Benefictus",
+  "gm": "<p>Possessions: Xenos Mesh, Cult/Gang Colors, Filtration Plugs, Cult Icon</p>",
+  "player": "",
+  "species": "Mutant (Genestealer Cults)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Star Children"
+  },
+  "items": [
+   {
+    "id": "RQnCJaKtneIevIUJ",
+    "type": "trait",
+    "name": "Genestealer Mutation"
+   },
+   {
+    "id": "9zG8eTazmyPHEd7A",
+    "type": "trait",
+    "name": "Hunt the Hunters"
+   },
+   {
+    "id": "ECDLHDH5RsuUKK9m",
+    "type": "trait",
+    "name": "Smite (Power)"
+   },
+   {
+    "id": "QRDFgzKzvnvZK1dv",
+    "type": "trait",
+    "name": "Psychic Powers"
+   },
+   {
+    "id": "xHgyW9n9QCl1lP7u",
+    "type": "trait",
+    "name": "Telekine"
+   },
+   {
+    "id": "AydWbin7sdpcwObi",
+    "type": "trait",
+    "name": "Warp Threshold"
+   },
+   {
+    "id": "DpXb50WfSvprrq7C",
+    "type": "weapon",
+    "name": "Force Blade"
+   },
+   {
+    "id": "exAkUtr3Q4TesIo9",
+    "type": "weapon",
+    "name": "Force Staff"
+   },
+   {
+    "id": "vNppEkXSyl4hh661",
+    "type": "specialisation",
+    "name": "Psyniscience"
+   },
+   {
+    "id": "kaPbp2dG9j7lxZ3M",
+    "type": "specialisation",
+    "name": "Psychic"
+   },
+   {
+    "id": "lXNmGFEQQwszNMQa",
+    "type": "specialisation",
+    "name": "Tracking"
+   },
+   {
+    "id": "iSJuQhSSYvKzFlmX",
+    "type": "specialisation",
+    "name": "Telekinesis"
+   }
+  ]
+ },
+ {
+  "id": "Rp1sJd9qszIOnOvy",
+  "name": "Pathfinder",
+  "gm": "<p>Possessions: Pathfinder Recon Armor, Markerlight, may exchange Rail Rifle with Pulse Carbine or Ion Rifle</p>",
+  "player": "",
+  "species": "T'au (T'au Empire)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "T'au Empire"
+  },
+  "items": [
+   {
+    "id": "qrmfutitdjKggkXa",
+    "type": "trait",
+    "name": "For the Greater Good"
+   },
+   {
+    "id": "g6cCzHy0DtLlEzDd",
+    "type": "trait",
+    "name": "Markerlight"
+   },
+   {
+    "id": "grmySxl1dDlmzGrx",
+    "type": "weapon",
+    "name": "Rail Rifle"
+   },
+   {
+    "id": "DTSpa5tuw7iicKci",
+    "type": "weapon",
+    "name": "Pulse Pistol"
+   },
+   {
+    "id": "ioLW7Dp0ARlYf5SE",
+    "type": "specialisation",
+    "name": "Long Gun"
+   }
+  ]
+ },
+ {
+  "id": "UFGSnLH6ZAFzQQjH",
+  "name": "Razorwing",
+  "gm": "<p>Possessions: None.</p>",
+  "player": "",
+  "species": "Razorwing (Wych Cult)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Drukhari"
+  },
+  "items": [
+   {
+    "id": "MRBTSa5CJcNuFIfO",
+    "type": "trait",
+    "name": "Flocking Behavior"
+   },
+   {
+    "id": "SGvsoqGV2c8NSPf9",
+    "type": "trait",
+    "name": "Unknown Threat"
+   },
+   {
+    "id": "Fv9b5dJiD1yrcQuJ",
+    "type": "weapon",
+    "name": "Feathers"
+   },
+   {
+    "id": "UJZp04wxucBXYxQ2",
+    "type": "weapon",
+    "name": "Claws, Beak"
+   },
+   {
+    "id": "XDWRmj5E38zbDueP",
+    "type": "specialisation",
+    "name": "Dodge"
+   }
+  ]
+ },
+ {
+  "id": "UJ2bCWx9d4UpEGKs",
+  "name": "Sicarian Ruststalker",
+  "gm": "",
+  "player": "",
+  "species": "Human",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Adeptus Mechanicus"
+  },
+  "items": [
+   {
+    "id": "i8KKExoh8CR1GC6c",
+    "type": "trait",
+    "name": "Heavily Augmented"
+   },
+   {
+    "id": "ukJ4zpKVMiBuNulb",
+    "type": "trait",
+    "name": "Augmetic Heart"
+   },
+   {
+    "id": "F6bRB2i2BmsVlINV",
+    "type": "trait",
+    "name": "Augmetic Respiratory System"
+   },
+   {
+    "id": "zjeW4gkkXLBwFB4u",
+    "type": "weapon",
+    "name": "Transonic Blade (x2)"
+   }
+  ]
+ },
+ {
+  "id": "ULGkBmxMoSmapHE6",
+  "name": "Grotesque",
+  "gm": "<p>Possessions: None.</p>",
+  "player": "",
+  "species": "Drukhari (Haemonculus Coven)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Drukhari"
+  },
+  "items": [
+   {
+    "id": "5hCPx2hlZW05halM",
+    "type": "trait",
+    "name": "Horrific Experiments"
+   },
+   {
+    "id": "g2vogJgqo1iknQGJ",
+    "type": "trait",
+    "name": "Power from Pain"
+   },
+   {
+    "id": "7TqJe1ub426rkcI4",
+    "type": "weapon",
+    "name": "Liquifier Gun"
+   },
+   {
+    "id": "Pd2Ji5y3QIjLxycq",
+    "type": "weapon",
+    "name": "Monstrous Weapons"
+   },
+   {
+    "id": "EpF8XxAW5ECkMLhl",
+    "type": "specialisation",
+    "name": "Pain"
+   }
+  ]
+ },
+ {
+  "id": "UfHJrWfwgYbGSy0I",
+  "name": "Cryptothrall",
+  "gm": "",
+  "player": "",
+  "species": "Necron",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Necron (Dynasty)"
+  },
+  "items": [
+   {
+    "id": "ssfm841VkSfSMLOD",
+    "type": "trait",
+    "name": "Living Metal (2)"
+   },
+   {
+    "id": "CTTrait2PhaseOut",
+    "type": "trait",
+    "name": "Phase Out"
+   },
+   {
+    "id": "r6QfqNHs3jWSuUma",
+    "type": "trait",
+    "name": "Reanimation Protocols (7+)"
+   },
+   {
+    "id": "5ypFcpB3CJGFwr2O",
+    "type": "weapon",
+    "name": "Scouring Eye"
+   },
+   {
+    "id": "kxGt064FfDcJBaf4",
+    "type": "weapon",
+    "name": "Scythed Limbs"
+   }
+  ]
+ },
+ {
+  "id": "VPFu0L710maQeI92",
+  "name": "Fire Warrior Shas'ui",
+  "gm": "<p>Possessions: Fire Warrior Combat Armor, Replace Pulse Rifle with Pulse Carbine and EMP Grenade with Photon Flash Grenade if part of a Breacher Team.</p>",
+  "player": "",
+  "species": "T'au (T'au Empire)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "T'au Empire"
+  },
+  "items": [
+   {
+    "id": "92GMbsT9OaZfQCqQ",
+    "type": "trait",
+    "name": "Breachers"
+   },
+   {
+    "id": "Ut6Ia3ciTp9kINn0",
+    "type": "trait",
+    "name": "For the Greater Good"
+   },
+   {
+    "id": "RVhyIjbNXTfmVkpK",
+    "type": "trait",
+    "name": "Strikers"
+   },
+   {
+    "id": "xHQ6OtcXKBTgkB7h",
+    "type": "weapon",
+    "name": "Pulse Rifle"
+   },
+   {
+    "id": "j2rJ8SPRLSqGfvgT",
+    "type": "weapon",
+    "name": "EMP Grenade"
+   },
+   {
+    "id": "biRoxs1Mvfv27Vle",
+    "type": "specialisation",
+    "name": "Leadership"
+   },
+   {
+    "id": "HkkD2sWdbuNJaa5j",
+    "type": "specialisation",
+    "name": "Long Gun"
+   }
+  ]
+ },
+ {
+  "id": "W1RA4cMNeuoNZmw8",
+  "name": "Guardian Defender",
+  "gm": "<p>Possessions: A set of Aeldari Mesh Armor, an empty Spirit Stone</p>",
+  "player": "",
+  "species": "Aeldari",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Aeldari"
+  },
+  "items": [
+   {
+    "id": "8HSXyLFdbCZf1sB7",
+    "type": "trait",
+    "name": "Defender of the Craftworld"
+   },
+   {
+    "id": "vjFRWPpSYb3VwLxA",
+    "type": "trait",
+    "name": "Psychic Sensitivity"
+   },
+   {
+    "id": "leObnXm1MNJUjGiR",
+    "type": "weapon",
+    "name": "Shuriken Catapult"
+   },
+   {
+    "id": "6qPVd86MDxMUxszA",
+    "type": "weapon",
+    "name": "Eldar Chainsword"
+   },
+   {
+    "id": "Xxosa5uLrhIMc3nI",
+    "type": "specialisation",
+    "name": "Psyniscience"
+   },
+   {
+    "id": "KLxIlusx17rTSPlD",
+    "type": "specialisation",
+    "name": "Long Guns"
+   }
+  ]
+ },
+ {
+  "id": "WAPLT4jYlJdiArdH",
+  "name": "Secutarii Hoplite",
+  "gm": "",
+  "player": "",
+  "species": "Human",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Titan Legions"
+  },
+  "items": [
+   {
+    "id": "Jn9D7qRgzMrAlH1f",
+    "type": "trait",
+    "name": "Heavily Augmented"
+   },
+   {
+    "id": "5D05q5Tte1GvXEgs",
+    "type": "trait",
+    "name": "Augmetic Heart"
+   },
+   {
+    "id": "mnGQ0so9Jnmp2HWA",
+    "type": "trait",
+    "name": "Augmetic Respiratory System"
+   },
+   {
+    "id": "ANHbScJIQyvByL2t",
+    "type": "trait",
+    "name": "Kyropatris Field Generator"
+   },
+   {
+    "id": "LRXDdVgxosGTXOWd",
+    "type": "trait",
+    "name": "Titanguard"
+   },
+   {
+    "id": "kxT7uVhYPzhnU9nv",
+    "type": "weapon",
+    "name": "Arc Lance (Ranged)"
+   },
+   {
+    "id": "zvVusiwVZ4yl4WWv",
+    "type": "weapon",
+    "name": "Arc Lance (Melee)"
+   }
+  ]
+ },
+ {
+  "id": "WHfkNjgZDxKck2Yy",
+  "name": "Accursed Cultist",
+  "gm": "<p>Possessions: ragged Heavy Leathers, an Unholy Icon, 1d10 solars.</p>",
+  "player": "",
+  "species": "Human (Heretics)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Heretics"
+  },
+  "items": [
+   {
+    "id": "7XNDp7dBXtDUK5Ly",
+    "type": "trait",
+    "name": "Extra Eye"
+   },
+   {
+    "id": "DFR2fseGr3B5UQRl",
+    "type": "trait",
+    "name": "Lashing Tentacle"
+   },
+   {
+    "id": "ZjmIUP0rNQtklAfW",
+    "type": "trait",
+    "name": "Warp Claws"
+   },
+   {
+    "id": "eaAyUARM8prdZfba",
+    "type": "weapon",
+    "name": "Autopistol"
+   },
+   {
+    "id": "Ar8wHfvKktnXqMln",
+    "type": "weapon",
+    "name": "Unarmed (Warp Claws)"
+   },
+   {
+    "id": "PD53hf8gLECBNdC2",
+    "type": "weapon",
+    "name": "Unarmed (Warp Claws & Lashing Tentacle)"
+   },
+   {
+    "id": "ptm2pM7EoZ2kBvx4",
+    "type": "specialisation",
+    "name": "Forbidden"
+   },
+   {
+    "id": "S03LoEoQJcInp6Vr",
+    "type": "specialisation",
+    "name": "Forbidden"
+   },
+   {
+    "id": "eZmfDLT3jUv4wEou",
+    "type": "specialisation",
+    "name": "Brawling"
+   }
+  ]
+ },
+ {
+  "id": "WfXBpsGGwb1fmkGJ",
+  "name": "Flayed One",
+  "gm": "",
+  "player": "",
+  "species": "Necron",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Necron (Flayed Ones/Dynasty)"
+  },
+  "items": [
+   {
+    "id": "h0zAehP4k9VHqBd7",
+    "type": "trait",
+    "name": "Living Metal (3)"
+   },
+   {
+    "id": "VF4BVg68feyUaia7",
+    "type": "trait",
+    "name": "Phase Out"
+   },
+   {
+    "id": "d0yc4X4D0sBCUixY",
+    "type": "trait",
+    "name": "Reanimation Protocols (7+)"
+   },
+   {
+    "id": "ypaerBgQ2FacAR9U",
+    "type": "trait",
+    "name": "Flensing Claws"
+   },
+   {
+    "id": "SFiAi0SuuVFYIuH0",
+    "type": "trait",
+    "name": "Terrifying Foes"
+   },
+   {
+    "id": "It282LF57ewc4E9j",
+    "type": "weapon",
+    "name": "Flayer Claws"
+   }
+  ]
+ },
+ {
+  "id": "XgMbz0rnGTDHMZh8",
+  "name": "Neophyte Hybrid",
+  "gm": "<p>Possessions: Heavy Leathers, 1d10 Solars, Gang/Cult Colors, Filtration Plugs</p>",
+  "player": "",
+  "species": "Human (Genestealer Cults)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Star Children"
+  },
+  "items": [
+   {
+    "id": "3DMnBQhwNfeuN10g",
+    "type": "trait",
+    "name": "Genestealer Mutation"
+   },
+   {
+    "id": "eMJe6KIGHM8RDTyU",
+    "type": "trait",
+    "name": "Resurgence"
+   },
+   {
+    "id": "LYqPRckMJlrHb4Lx",
+    "type": "weapon",
+    "name": "Autogun"
+   },
+   {
+    "id": "0EmcO8okYOKjs38I",
+    "type": "weapon",
+    "name": "Stub Pistol"
+   },
+   {
+    "id": "rpLwGKOF5QcoZ2C8",
+    "type": "weapon",
+    "name": "Knife"
+   },
+   {
+    "id": "oG2tmMRTwjDSkq3i",
+    "type": "specialisation",
+    "name": "Might"
+   }
+  ]
+ },
+ {
+  "id": "XpJWP5aFuTShXanI",
+  "name": "Pteraxii Sterylizor",
+  "gm": "",
+  "player": "",
+  "species": "Human",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Adeptus Mechanicus"
+  },
+  "items": [
+   {
+    "id": "6KjFR3iBUImdbSiU",
+    "type": "trait",
+    "name": "Heavily Augmented"
+   },
+   {
+    "id": "cW5NFTwrGLupy7ry",
+    "type": "trait",
+    "name": "Augmetic Heart"
+   },
+   {
+    "id": "J9VaE19hOJW4ctRF",
+    "type": "trait",
+    "name": "Augmetic Respiratory System"
+   },
+   {
+    "id": "7kj29AdFOICeLXQe",
+    "type": "trait",
+    "name": "Pteraxii Flight Pack"
+   },
+   {
+    "id": "AzYSWDYK4hEFkaXN",
+    "type": "trait",
+    "name": "Riding the Thermals"
+   },
+   {
+    "id": "riEEGssIBaYMIlff",
+    "type": "weapon",
+    "name": "Phosphor Torch"
+   }
+  ]
+ },
+ {
+  "id": "XwpbbYbwPNENDjfl",
+  "name": "Aeldari Ranger",
+  "gm": "<p>Possessions: A set of Aeldari Light Mesh Armor, an empty Spirit Stone.</p>",
+  "player": "",
+  "species": "Aeldari",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Aeldari"
+  },
+  "items": [
+   {
+    "id": "Th2aGF49peQI6DeM",
+    "type": "trait",
+    "name": "Cameleoline Cloak"
+   },
+   {
+    "id": "RfGLcr0JePtE2wrp",
+    "type": "trait",
+    "name": "Psychic Sensitivity"
+   },
+   {
+    "id": "P7mD4HQb8GeavjTE",
+    "type": "trait",
+    "name": "Deadeye"
+   },
+   {
+    "id": "QykdeLFkeJnjb7wX",
+    "type": "weapon",
+    "name": "Ranger Long Rifle"
+   },
+   {
+    "id": "h9HjQtDcArQZclrj",
+    "type": "weapon",
+    "name": "Shuriken Pistol"
+   },
+   {
+    "id": "t92jX1DcKyWwFvL0",
+    "type": "specialisation",
+    "name": "Sight"
+   },
+   {
+    "id": "DEcY7E30M4kCUXH0",
+    "type": "specialisation",
+    "name": "Psyniscience"
+   },
+   {
+    "id": "CsrhXlABXh8Hg11F",
+    "type": "specialisation",
+    "name": "Surface"
+   },
+   {
+    "id": "y00QqPmwgSSZ9kL6",
+    "type": "specialisation",
+    "name": "Long Guns"
+   }
+  ]
+ },
+ {
+  "id": "YmXYnuAeJNsJwoEX",
+  "name": "Great Knarloc",
+  "gm": "<p>Possessions: None.</p>",
+  "player": "",
+  "species": "Kroot (T'au Empire)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "T'au Empire"
+  },
+  "items": [
+   {
+    "id": "TyHAbv84K91GMLxt",
+    "type": "trait",
+    "name": "Mountable"
+   },
+   {
+    "id": "YascnIFbrIr62sFd",
+    "type": "trait",
+    "name": "Quick to Anger"
+   },
+   {
+    "id": "OvmAA10r9hbFDR84",
+    "type": "weapon",
+    "name": "Kroot Bolt Thrower"
+   },
+   {
+    "id": "nqkQvjmoDqZVZkz9",
+    "type": "weapon",
+    "name": "Beak and Claw"
+   },
+   {
+    "id": "DmdM7uAdOc1LYhwY",
+    "type": "specialisation",
+    "name": "Might"
+   }
+  ]
+ },
+ {
+  "id": "YwULlBZZIXsJmjKb",
+  "name": "Trueborn Kabalite",
+  "gm": "<p>Possessions: A set of Kabalite Armor, a collection of horrific battle trophies.</p>",
+  "player": "",
+  "species": "Drukhari (Kabal)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Drukhari"
+  },
+  "items": [
+   {
+    "id": "ud8yfmELkrLGZbQn",
+    "type": "trait",
+    "name": "Blade Artist"
+   },
+   {
+    "id": "ycMvXEHAnn0H7gDh",
+    "type": "trait",
+    "name": "Power from Pain"
+   },
+   {
+    "id": "tmtCVauHJ5c6TDRM",
+    "type": "weapon",
+    "name": "Shardcarbine"
+   },
+   {
+    "id": "ruoWWjOB827rVwGS",
+    "type": "weapon",
+    "name": "Knife"
+   },
+   {
+    "id": "XwPrrVpxI2EpAT0H",
+    "type": "specialisation",
+    "name": "Pain"
+   },
+   {
+    "id": "Bl9HOahJk2aQjmR0",
+    "type": "specialisation",
+    "name": "One-Handed"
+   },
+   {
+    "id": "4ue4hDmIrW4nlxN7",
+    "type": "specialisation",
+    "name": "Interrogation"
+   },
+   {
+    "id": "rdnkDi4ESc3RUWHY",
+    "type": "specialisation",
+    "name": "Deception"
+   }
+  ]
+ },
+ {
+  "id": "ZV3pVFREihQfVw9v",
+  "name": "Clawed Fiend",
+  "gm": "<p>Possessions: None.</p>",
+  "player": "",
+  "species": "Clawed Fiend (Wych Cult)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Drukhari"
+  },
+  "items": [
+   {
+    "id": "AkXF1mVBsDDZITLj",
+    "type": "trait",
+    "name": "Fearsome"
+   },
+   {
+    "id": "rn8DFCmYNN3C732g",
+    "type": "trait",
+    "name": "Frenzy"
+   },
+   {
+    "id": "pqje99NNtLL4QS5L",
+    "type": "weapon",
+    "name": "Claws"
+   },
+   {
+    "id": "QLygaenvbKPtL0oS",
+    "type": "specialisation",
+    "name": "Might"
+   }
+  ]
+ },
+ {
+  "id": "d62GTGS5LuGpyvpc",
+  "name": "Royal Warden",
+  "gm": "",
+  "player": "",
+  "species": "Necron",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Necron (Dynasty)"
+  },
+  "items": [
+   {
+    "id": "gpEWEjXvDx5hbjaQ",
+    "type": "trait",
+    "name": "Living Metal (4)"
+   },
+   {
+    "id": "PZsnjeQpibAxkutf",
+    "type": "trait",
+    "name": "Phase Out"
+   },
+   {
+    "id": "FWV1CSRpIf03sOAU",
+    "type": "trait",
+    "name": "Reanimation Protocols (7+)"
+   },
+   {
+    "id": "YJBuBzR6vI0bbuG7",
+    "type": "trait",
+    "name": "Adaptive Strategy"
+   },
+   {
+    "id": "KH7BFq5d8ebBloFF",
+    "type": "trait",
+    "name": "Engrammatic Logic"
+   },
+   {
+    "id": "nfEhpU3aMpkAfwtQ",
+    "type": "trait",
+    "name": "Varguard"
+   },
+   {
+    "id": "Lm29WCRqF2S4VLdw",
+    "type": "weapon",
+    "name": "Relic Gauss Blaster"
+   }
+  ]
+ },
+ {
+  "id": "dXt5yN84Bl3WWWqW",
+  "name": "Horse",
+  "gm": "",
+  "player": "",
+  "species": "Horse (Fauna)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Fauna"
+  },
+  "items": [
+   {
+    "id": "ibY6PFcv7DJzk3i8",
+    "type": "trait",
+    "name": "Bred for War"
+   },
+   {
+    "id": "ju6BRoQowFgsH9R1",
+    "type": "weapon",
+    "name": "Hooves"
+   },
+   {
+    "id": "YpX4nVrRtdVlC1fD",
+    "type": "specialisation",
+    "name": "Might"
+   },
+   {
+    "id": "BUiTue7fiPgpoiN4",
+    "type": "specialisation",
+    "name": "Running"
+   },
+   {
+    "id": "au9KWLFbAzjQ05OI",
+    "type": "specialisation",
+    "name": "Pain"
+   }
+  ]
+ },
+ {
+  "id": "dawCrDsgzIVIahXa",
+  "name": "Necron Lord",
+  "gm": "",
+  "player": "",
+  "species": "Necron",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Necron (Dynasty)"
+  },
+  "items": [
+   {
+    "id": "E3suURJQsPAVQHzT",
+    "type": "trait",
+    "name": "Living Metal (4)"
+   },
+   {
+    "id": "FHIV9lG57GRhANz9",
+    "type": "trait",
+    "name": "Phase Out"
+   },
+   {
+    "id": "nl6PU1ZjGWbdyYAM",
+    "type": "trait",
+    "name": "Reanimation Protocols (7+)"
+   },
+   {
+    "id": "I4D4SHFWtp3yDPRl",
+    "type": "trait",
+    "name": "Lord's Will"
+   },
+   {
+    "id": "EsonVnEjXNW1UQv4",
+    "type": "trait",
+    "name": "Relentless March"
+   },
+   {
+    "id": "cfrJdgP05EOUUdEG",
+    "type": "trait",
+    "name": "Resurrection Orb"
+   },
+   {
+    "id": "PfA07M9WTOjAjxaf",
+    "type": "weapon",
+    "name": "Staff of Light (Ranged)"
+   },
+   {
+    "id": "HVKpGZBT5FNzi5cI",
+    "type": "weapon",
+    "name": "Staff of Light (Melee)"
+   }
+  ]
+ },
+ {
+  "id": "ddkoCdiXHCRDuEd3",
+  "name": "Acolyte Hybrid",
+  "gm": "<p>Possessions: Heavy Leathers, 2d10 Solars, Cult/Gang Colors</p>",
+  "player": "",
+  "species": "Mutant (Genestealer Cults)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Star Children"
+  },
+  "items": [
+   {
+    "id": "pyipRtfK7PfdAGRF",
+    "type": "trait",
+    "name": "Genestealer Mutation"
+   },
+   {
+    "id": "NC3hYo6LJvZjIr5e",
+    "type": "trait",
+    "name": "Iconward"
+   },
+   {
+    "id": "dSeTYdhZUX07a7Tp",
+    "type": "trait",
+    "name": "Multi-Limbed"
+   },
+   {
+    "id": "NJbZMddob8BlObsU",
+    "type": "trait",
+    "name": "Resurgence"
+   },
+   {
+    "id": "XXBFTY8TdLUW3PTq",
+    "type": "weapon",
+    "name": "Autopistol"
+   },
+   {
+    "id": "vG0g2MpqzzBV3S4b",
+    "type": "weapon",
+    "name": "Bonesword"
+   },
+   {
+    "id": "zhkWvI5wcGN1kKZa",
+    "type": "weapon",
+    "name": "Claws"
+   }
+  ]
+ },
+ {
+  "id": "fSf7TWF7N5XIBziq",
+  "name": "Knarloc",
+  "gm": "<p>Possessions: None.</p>",
+  "player": "",
+  "species": "Kroot (T'au Empire)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "T'au Empire"
+  },
+  "items": [
+   {
+    "id": "cmhmiga7NwQpZb9B",
+    "type": "trait",
+    "name": "Mountable"
+   },
+   {
+    "id": "BXhN5tZbaBigW1ts",
+    "type": "trait",
+    "name": "Multiple Varieties"
+   },
+   {
+    "id": "w2cTGQwShH47cbQK",
+    "type": "weapon",
+    "name": "Beak and Claw"
+   }
+  ]
+ },
+ {
+  "id": "fWHLLJh0pqxi3bzc",
+  "name": "Fire Dragon",
+  "gm": "<p>Possessions: A set of Aeldari Aspect Armor, an empty Spirit Stone, 2x Melta Bombs</p>",
+  "player": "",
+  "species": "Aeldari",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Aeldari"
+  },
+  "items": [
+   {
+    "id": "QcnQjuHwB6G6e2W9",
+    "type": "trait",
+    "name": "Psychic Sensitivity"
+   },
+   {
+    "id": "tqSF6LowGfP6ZbRL",
+    "type": "trait",
+    "name": "Tank Hunter"
+   },
+   {
+    "id": "v3KokEFR8R8i4INN",
+    "type": "weapon",
+    "name": "Fusion Gun"
+   },
+   {
+    "id": "ejI81pSk6GWGSXz2",
+    "type": "specialisation",
+    "name": "Psyniscience"
+   },
+   {
+    "id": "1uiTJKINM2Ccxe7x",
+    "type": "specialisation",
+    "name": "Long Gun"
+   }
+  ]
+ },
+ {
+  "id": "fWkdBJvhL3JbJl8c",
+  "name": "Sydonian Skatros",
+  "gm": "",
+  "player": "",
+  "species": "Human",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Adeptus Mechanicus"
+  },
+  "items": [
+   {
+    "id": "ARN9sonbmNzUDvVz",
+    "type": "trait",
+    "name": "Heavily Augmented"
+   },
+   {
+    "id": "LdVjU3VKtG4aFAUs",
+    "type": "trait",
+    "name": "Augmetic Heart"
+   },
+   {
+    "id": "XwgWwhxnOAfOBnCv",
+    "type": "trait",
+    "name": "Augmetic Respiratory System"
+   },
+   {
+    "id": "9xzbZBaFN1S1dF8T",
+    "type": "trait",
+    "name": "Aquillan Eye"
+   },
+   {
+    "id": "SskIEC0FlowGCTnf",
+    "type": "weapon",
+    "name": "Transuranic Arquebus"
+   }
+  ]
+ },
+ {
+  "id": "frBHfA1AihOsn8XS",
+  "name": "Pteraxii Skystalker",
+  "gm": "",
+  "player": "",
+  "species": "Human",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Adeptus Mechanicus"
+  },
+  "items": [
+   {
+    "id": "6tlY8Gij9hpl0nhL",
+    "type": "trait",
+    "name": "Heavily Augmented"
+   },
+   {
+    "id": "IYspKtmMcOcW1AyC",
+    "type": "trait",
+    "name": "Augmetic Heart"
+   },
+   {
+    "id": "yiUHMo7JRdZp7Awv",
+    "type": "trait",
+    "name": "Augmetic Respiratory System"
+   },
+   {
+    "id": "qZcg801xqJ1wbKVr",
+    "type": "trait",
+    "name": "Pteraxii Flight Pack"
+   },
+   {
+    "id": "gz4zZL6Etp44tg0T",
+    "type": "trait",
+    "name": "Riding the Thermals"
+   },
+   {
+    "id": "nrkDSTs1n2Np2EW1",
+    "type": "weapon",
+    "name": "Flechette Carbine"
+   }
+  ]
+ },
+ {
+  "id": "g6pD96mjTwnxv9aL",
+  "name": "Xothic Blood Locust Swarm",
+  "gm": "<p>Base profile shows 3 Wounds, but while acting as a swarm it counts as having 20 Wounds (see Overwhelming).</p>",
+  "player": "",
+  "species": "Blood Locust (Swarm)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Fauna"
+  },
+  "items": [
+   {
+    "id": "qmlCEVlv5L2ug3oI",
+    "type": "trait",
+    "name": "Exsanguination"
+   },
+   {
+    "id": "aCfCh95aMwBwJ5Zb",
+    "type": "trait",
+    "name": "Overwhelming"
+   },
+   {
+    "id": "Dov1w034qOBYoD0h",
+    "type": "weapon",
+    "name": "A Thousand Needles"
+   }
+  ]
+ },
+ {
+  "id": "gF1afj8U4oBwSWoO",
+  "name": "Succubus",
+  "gm": "<p>Possessions: A set of Wychsuit armor, a collection of horrific battle trophies, 3 doses of Accelerai.</p>",
+  "player": "",
+  "species": "Drukhari (Wych Cult)",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Drukhari"
+  },
+  "items": [
+   {
+    "id": "dK0Utqw5AdaWxSUu",
+    "type": "trait",
+    "name": "Blade Mistress"
+   },
+   {
+    "id": "3bELzHTflBfuOJXf",
+    "type": "trait",
+    "name": "Mistress of the Arena"
+   },
+   {
+    "id": "n4LUmeQ7k3UyEUzS",
+    "type": "trait",
+    "name": "Power from Pain"
+   },
+   {
+    "id": "XrfY13RxtndvTjjv",
+    "type": "trait",
+    "name": "Vying for Attention"
+   },
+   {
+    "id": "4Hj4pzMH2mN7m6q3",
+    "type": "weapon",
+    "name": "Splinter Pistol"
+   },
+   {
+    "id": "K4Um64W1GRU0rJlm",
+    "type": "weapon",
+    "name": "2x Knives"
+   },
+   {
+    "id": "tP0iy3LVKe2wXzGW",
+    "type": "specialisation",
+    "name": "Pain"
+   },
+   {
+    "id": "Fowp38lRg7e3rfMY",
+    "type": "specialisation",
+    "name": "One-Handed"
+   },
+   {
+    "id": "ywt89enRKhVx99mP",
+    "type": "specialisation",
+    "name": "Interrogation"
+   },
+   {
+    "id": "hn2441Rx0HkloWoC",
+    "type": "specialisation",
+    "name": "Acrobatics"
+   },
+   {
+    "id": "Q2bPUiLXZeACydLA",
+    "type": "specialisation",
+    "name": "Deception"
+   }
+  ]
+ },
+ {
+  "id": "gGrS5hdnYYO3WxYf",
+  "name": "Locus",
+  "gm": "<p>Possessions: Ornamental Robes, Hidden Mesh Vest, Cult Icon</p>",
+  "player": "",
+  "species": "Mutant (Genestealer Cults)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Star Children"
+  },
+  "items": [
+   {
+    "id": "VgHJ4hq3cNuNAfqp",
+    "type": "trait",
+    "name": "Counter Attack"
+   },
+   {
+    "id": "1Vmkw4PMEiul5kik",
+    "type": "trait",
+    "name": "Ever Vigilant Bodyguard"
+   },
+   {
+    "id": "Z7XKicr9vBdJ9F6s",
+    "type": "trait",
+    "name": "Genestealer Mutation"
+   },
+   {
+    "id": "JrvNiJaE3UjfHTo4",
+    "type": "trait",
+    "name": "Sudden Assault"
+   },
+   {
+    "id": "aQcErxoQ5EmzQPW5",
+    "type": "weapon",
+    "name": "2x Locus Blades"
+   },
+   {
+    "id": "jlhbnvlOzqGZmlD9",
+    "type": "weapon",
+    "name": "Toxinspike Tail"
+   },
+   {
+    "id": "zuwIER34a4JZLqEp",
+    "type": "weapon",
+    "name": "Neurotraumal Rod"
+   },
+   {
+    "id": "rj4CYJ1UZRCvLYlb",
+    "type": "specialisation",
+    "name": "Dodge"
+   },
+   {
+    "id": "0FB8My5Lm6r2dyxt",
+    "type": "specialisation",
+    "name": "One-Handed"
+   }
+  ]
+ },
+ {
+  "id": "hQhfb5VZKmHkHxWD",
+  "name": "Atalan Jackal Alphus",
+  "gm": "<p>Possessions: Heavy Leathers, 1d10 Solars, Gang/Cult Colors, Filtration Plugs, Motorbike (IM CRB pg. 226) or Combat Bike (Vehicles of the Imperium pg. 18) or Quadbike (MRG pg. 85)</p>",
+  "player": "",
+  "species": "Human (Genestealer Cults)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Star Children"
+  },
+  "items": [
+   {
+    "id": "troh8OnyWP6OlBid",
+    "type": "trait",
+    "name": "Genestealer Mutation"
+   },
+   {
+    "id": "7dhrsDURbTSNRn1y",
+    "type": "trait",
+    "name": "Hunting Pack"
+   },
+   {
+    "id": "pcCr6Ml7sxPphxgi",
+    "type": "trait",
+    "name": "Priority Target"
+   },
+   {
+    "id": "2TqoejagWt7MYRvz",
+    "type": "trait",
+    "name": "We Ride At Dawn"
+   },
+   {
+    "id": "QgQE6Lw9nU8LFwyz",
+    "type": "weapon",
+    "name": "Stub Pistol"
+   },
+   {
+    "id": "m3WZfcbqF40zVyyu",
+    "type": "weapon",
+    "name": "Knife"
+   },
+   {
+    "id": "l8GPpjPzuox1PP9L",
+    "type": "specialisation",
+    "name": "Might"
+   },
+   {
+    "id": "JtYsvUb0sHvuX8S1",
+    "type": "specialisation",
+    "name": "Civilian"
+   },
+   {
+    "id": "GfoB1zoz9dmqbAMb",
+    "type": "specialisation",
+    "name": "Long Guns"
+   }
+  ]
+ },
+ {
+  "id": "hhP2Hec8CfzzAo6L",
+  "name": "Magus",
+  "gm": "<p>Possessions: Xenos Mesh, Cult/Gang Colors, Filtration Plugs, Cult Icon</p>",
+  "player": "",
+  "species": "Mutant (Genestealer Cults)",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Star Children"
+  },
+  "items": [
+   {
+    "id": "hF7BlK4LzamJBC3z",
+    "type": "trait",
+    "name": "Genestealer Mutation"
+   },
+   {
+    "id": "KVSCk9oaJJCtycXH",
+    "type": "trait",
+    "name": "Smite (Power)"
+   },
+   {
+    "id": "mKhOXG2GJsq1TJ3Q",
+    "type": "trait",
+    "name": "Psychic Shriek (Power)"
+   },
+   {
+    "id": "Bpe6IBsnmD4i0a7w",
+    "type": "trait",
+    "name": "Psychic Powers"
+   },
+   {
+    "id": "KD7As0ia1H7rLuM4",
+    "type": "trait",
+    "name": "Telepath"
+   },
+   {
+    "id": "anwWMy4saAnKrxuQ",
+    "type": "trait",
+    "name": "Warp Threshold"
+   },
+   {
+    "id": "81jIuLOdPSNlr16G",
+    "type": "weapon",
+    "name": "Bolt Pistol"
+   },
+   {
+    "id": "cmKz3SoPT3WMNbGC",
+    "type": "weapon",
+    "name": "Force Staff"
+   },
+   {
+    "id": "7NqeEkPM4XRYSmST",
+    "type": "specialisation",
+    "name": "Psychic"
+   },
+   {
+    "id": "oUFHvq39H8kFhHK3",
+    "type": "specialisation",
+    "name": "Telepathy"
+   },
+   {
+    "id": "utbp5dw1GmXq8JI1",
+    "type": "specialisation",
+    "name": "Charm"
+   },
+   {
+    "id": "hGMFvOw3SBzXjv8y",
+    "type": "specialisation",
+    "name": "Deception"
+   }
+  ]
+ },
+ {
+  "id": "iAa6FUcSWBQw7sEI",
+  "name": "XV88 Broadside Battlesuit",
+  "gm": "<p>Possessions: Broadside Battlesuit</p>",
+  "player": "",
+  "species": "Battlesuit (T'au Empire)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "T'au Empire"
+  },
+  "items": [
+   {
+    "id": "1DkkxL78HjCej971",
+    "type": "trait",
+    "name": "For the Greater Good"
+   },
+   {
+    "id": "VpON0VdKajaVwpJr",
+    "type": "trait",
+    "name": "Smart Missile Systems"
+   },
+   {
+    "id": "KLDkoFEHhadFxUy8",
+    "type": "weapon",
+    "name": "Heavy Rail Rifle"
+   },
+   {
+    "id": "NGupjlLc8A25WPsx",
+    "type": "weapon",
+    "name": "2x Smart Missile Systems"
+   },
+   {
+    "id": "1dRoXbks9zMWjI5j",
+    "type": "specialisation",
+    "name": "Leadership"
+   },
+   {
+    "id": "cqwwYpDzQ6a9aSKB",
+    "type": "specialisation",
+    "name": "Ordnance"
+   }
+  ]
+ },
+ {
+  "id": "imbAhYrnQLKtkupF",
+  "name": "Fallen Demagogue",
+  "gm": "<p>Possessions: Xenos Mesh, Desecrated Robes, 1d10x1000 Solars, Heretical books</p>",
+  "player": "",
+  "species": "Human (Heretic)",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Heretics"
+  },
+  "items": [
+   {
+    "id": "1pqKWN6Cs86Cd74Y",
+    "type": "trait",
+    "name": "Darkened Fate"
+   },
+   {
+    "id": "lGronUSK8XFXbhWa",
+    "type": "trait",
+    "name": "Defend Me!"
+   },
+   {
+    "id": "4CnOX3rzGKifA6e4",
+    "type": "trait",
+    "name": "Minions"
+   },
+   {
+    "id": "rdwiKW3jk5bSyC4I",
+    "type": "trait",
+    "name": "My Dear Child"
+   },
+   {
+    "id": "NTAKuCbEu12tqUkX",
+    "type": "trait",
+    "name": "Sanity is for the Weak"
+   },
+   {
+    "id": "tmLpJvUkTZyWIqDy",
+    "type": "trait",
+    "name": "Witch-mark"
+   },
+   {
+    "id": "TNw7HqDiX0BtJIr0",
+    "type": "weapon",
+    "name": "Bolt Pistol"
+   },
+   {
+    "id": "uEVdSTCZylijWW9p",
+    "type": "weapon",
+    "name": "Electro-Flail"
+   },
+   {
+    "id": "k7utEARp42NDjXuE",
+    "type": "specialisation",
+    "name": "Human"
+   },
+   {
+    "id": "OizY4HtTw6e5qJQP",
+    "type": "specialisation",
+    "name": "High Gothic"
+   },
+   {
+    "id": "oSjiMBoh5YSrazGB",
+    "type": "specialisation",
+    "name": "Theology"
+   },
+   {
+    "id": "WByJgpFvmTIKvLOI",
+    "type": "specialisation",
+    "name": "Leadership"
+   }
+  ]
+ },
+ {
+  "id": "iqlBJqn1YEGwyZIz",
+  "name": "Ethereal",
+  "gm": "<p>Possessions: Ornamental Robes</p>",
+  "player": "",
+  "species": "T'au (T'au Empire)",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "T'au Empire"
+  },
+  "items": [
+   {
+    "id": "3SgYzaLZy8xnIKdS",
+    "type": "trait",
+    "name": "The Greater Good Manifest"
+   },
+   {
+    "id": "VkjBYvIdOpX58bl2",
+    "type": "trait",
+    "name": "Undeniable Aura"
+   },
+   {
+    "id": "ty8S6Ewt74lOmnIb",
+    "type": "trait",
+    "name": "Unity in all Things"
+   },
+   {
+    "id": "kaQSWddMe6rpJ2eF",
+    "type": "weapon",
+    "name": "Honor Blade"
+   },
+   {
+    "id": "JpcGfdxpxTu5NW17",
+    "type": "specialisation",
+    "name": "Forbidden"
+   },
+   {
+    "id": "vz7aMB7AG2M1SKbD",
+    "type": "specialisation",
+    "name": "Two-Handed"
+   },
+   {
+    "id": "oYXyKo6QPTEcstpn",
+    "type": "specialisation",
+    "name": "Leadership"
+   },
+   {
+    "id": "6sPlT9G9aBnrZtRp",
+    "type": "specialisation",
+    "name": "Charm"
+   },
+   {
+    "id": "CPgAZj3zro6sSEvB",
+    "type": "specialisation",
+    "name": "Deception"
+   }
+  ]
+ },
+ {
+  "id": "j7wwM5r6sTEn61Nz",
+  "name": "Triarch Praetorian",
+  "gm": "",
+  "player": "",
+  "species": "Necron",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": {
+    "athletics": 2,
+    "awareness": 2,
+    "discipline": 3,
+    "fortitude": 3,
+    "intuition": 2,
+    "logic": 1,
+    "lore": 1,
+    "melee": 2,
+    "piloting": 1,
+    "presence": 3,
+    "ranged": 2
+   }
+  },
+  "items": [
+   {
+    "id": "g1hkTiiaIYIcMFib",
+    "type": "trait",
+    "name": "Living Metal (4)"
+   },
+   {
+    "id": "SRsqahW8urKdIIQi",
+    "type": "trait",
+    "name": "Phase Out"
+   },
+   {
+    "id": "legFSGhzF4LYe7Ei",
+    "type": "trait",
+    "name": "Reanimation Protocols (7+)"
+   },
+   {
+    "id": "2VALWVjHDHDdRCQ1",
+    "type": "trait",
+    "name": "Unshakeable Purpose"
+   },
+   {
+    "id": "bDdAvvxU7rvzONvy",
+    "type": "weapon",
+    "name": "Rod of Covenant (Melee)"
+   },
+   {
+    "id": "Fny924jIHjjXrwvv",
+    "type": "weapon",
+    "name": "Rod of Covenant (Ranged)"
+   }
+  ]
+ },
+ {
+  "id": "kjKWREhbiGjlvhkT",
+  "name": "Ambull",
+  "gm": "<p>Initiative is listed in the source as PerB+AgB (Per Bonus + Agility Bonus = 3+5 = 8).</p>",
+  "player": "",
+  "species": "Ambull (Fauna)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Fauna"
+  },
+  "items": [
+   {
+    "id": "p3SKQOo6Cd6rvau5",
+    "type": "trait",
+    "name": "Tunneler"
+   },
+   {
+    "id": "kHvRwMzzuVtYkwMJ",
+    "type": "weapon",
+    "name": "Claws & Bite"
+   }
+  ]
+ },
+ {
+  "id": "lQ2JK6z4dKZrHlzQ",
+  "name": "Vespid Stingwing",
+  "gm": "<p>Possessions: Stingwing Armor</p>",
+  "player": "",
+  "species": "Vespid (T'au Empire)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "T'au Empire"
+  },
+  "items": [
+   {
+    "id": "5CF3xEjvOJ8aomW6",
+    "type": "trait",
+    "name": "For the Greater Good"
+   },
+   {
+    "id": "zIvxBj1dRVEYfoSM",
+    "type": "trait",
+    "name": "Winged Flight"
+   },
+   {
+    "id": "ymcXN61U9seLktDm",
+    "type": "weapon",
+    "name": "Neutron Blaster"
+   }
+  ]
+ },
+ {
+  "id": "lRKYz7A1zWSaw9Yx",
+  "name": "Fire Warrior",
+  "gm": "<p>Possessions: Fire Warrior Combat Armor, Replace Pulse Rifle with Pulse Carbine and EMP Grenade with Photon Flash Grenade if part of a Breacher Team.</p>",
+  "player": "",
+  "species": "T'au (T'au Empire)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "T'au Empire"
+  },
+  "items": [
+   {
+    "id": "U1h2uNAPKmGEIZ0f",
+    "type": "trait",
+    "name": "Breachers"
+   },
+   {
+    "id": "667blNsawEFDvwC2",
+    "type": "trait",
+    "name": "For the Greater Good"
+   },
+   {
+    "id": "5ZoVGHsfvrRDCMVR",
+    "type": "trait",
+    "name": "Strikers"
+   },
+   {
+    "id": "7r76Z9JdleAq1DdJ",
+    "type": "weapon",
+    "name": "Pulse Rifle"
+   },
+   {
+    "id": "THK1PBQ3HB8mY7G4",
+    "type": "weapon",
+    "name": "EMP Grenade"
+   },
+   {
+    "id": "tX5l971prfLAjVUD",
+    "type": "specialisation",
+    "name": "Long Gun"
+   }
+  ]
+ },
+ {
+  "id": "lRRLiiRejeKx0gbV",
+  "name": "Grox",
+  "gm": "",
+  "player": "",
+  "species": "Grox (Fauna)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Fauna"
+  },
+  "items": [
+   {
+    "id": "C3lrAmSJ2km14IKC",
+    "type": "trait",
+    "name": "Territorial"
+   },
+   {
+    "id": "zi2Eg3h0p54qGzTY",
+    "type": "weapon",
+    "name": "Horns & Claws"
+   }
+  ]
+ },
+ {
+  "id": "lhDyjqsevhW1V4Od",
+  "name": "Renegade Sergeant",
+  "gm": "<p>Possessions: A set of Astra Militarum Flak Armor, a pair of dog tags, a Gas Mask, an Entrenching Tool, a uniform, a set of Survival Gear in a backpack, 30 Solars</p>",
+  "player": "",
+  "species": "Human (Renegade Militarum)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Heretics"
+  },
+  "items": [
+   {
+    "id": "dmCL9DiuvoreYxIF",
+    "type": "trait",
+    "name": "Sanity is for the Weak"
+   },
+   {
+    "id": "uQk984Ew76AVWRhZ",
+    "type": "trait",
+    "name": "Witch-mark"
+   },
+   {
+    "id": "JZMuToxE887hUCdq",
+    "type": "weapon",
+    "name": "Las Pistol"
+   },
+   {
+    "id": "zJsoWmUUQYHnOyI0",
+    "type": "weapon",
+    "name": "Frag Grenade"
+   },
+   {
+    "id": "5PDfvUUKdeZukKzP",
+    "type": "weapon",
+    "name": "Krak Grenade"
+   },
+   {
+    "id": "G9IdHZeSvDyyRECP",
+    "type": "weapon",
+    "name": "Chainsword"
+   }
+  ]
+ },
+ {
+  "id": "m44KOj2QIkBk0zSh",
+  "name": "Psychomancer",
+  "gm": "",
+  "player": "",
+  "species": "Necron",
+  "role": "master",
+  "faction": {
+   "id": "",
+   "name": {
+    "athletics": 2,
+    "awareness": 1,
+    "discipline": 3,
+    "fortitude": 3,
+    "intuition": 1,
+    "lore": 3,
+    "logic": 3,
+    "melee": 2,
+    "presence": 3,
+    "ranged": 1,
+    "tech": 3
+   }
+  },
+  "items": [
+   {
+    "id": "O6hJZJA8iA4j1XkA",
+    "type": "trait",
+    "name": "Living Metal (4)"
+   },
+   {
+    "id": "A8zFdkhAWaSALxGz",
+    "type": "trait",
+    "name": "Phase Out"
+   },
+   {
+    "id": "xmegU2heNrLBWHf8",
+    "type": "trait",
+    "name": "Reanimation Protocols (7+)"
+   },
+   {
+    "id": "EkeileHodbE7Ht84",
+    "type": "trait",
+    "name": "Harbinger of Despair"
+   },
+   {
+    "id": "HIxenuAgXjroUc3k",
+    "type": "trait",
+    "name": "Nightmare Shroud"
+   },
+   {
+    "id": "Hr5HCyedDv0BBrGG",
+    "type": "trait",
+    "name": "Veil of Darkness"
+   },
+   {
+    "id": "gyFEXAaAGYDMFVs4",
+    "type": "weapon",
+    "name": "Abyssal Lance (Ranged)"
+   },
+   {
+    "id": "PbJkiVrtRzDnY5eB",
+    "type": "weapon",
+    "name": "Abyssal Lance (Melee)"
+   }
+  ]
+ },
+ {
+  "id": "mA2YoAblWFrySMaP",
+  "name": "Beastmaster",
+  "gm": "<p>Possessions: A set of Wychsuit armor, a collection of horrific battle trophies, 1 dose of a single combat drug.</p>",
+  "player": "",
+  "species": "Drukhari (Wych Cult)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Drukhari"
+  },
+  "items": [
+   {
+    "id": "EvkB2wU0f1m5Qc6S",
+    "type": "trait",
+    "name": "Power from Pain"
+   },
+   {
+    "id": "zScZnI2q9tR5iMss",
+    "type": "trait",
+    "name": "Skyboard"
+   },
+   {
+    "id": "1WNdf5RXML88Tl64",
+    "type": "weapon",
+    "name": "Splinter Pods"
+   },
+   {
+    "id": "WBebogYYJebK6qsq",
+    "type": "weapon",
+    "name": "Impaler"
+   },
+   {
+    "id": "7wYifBlAO5aae5Fn",
+    "type": "specialisation",
+    "name": "Pain"
+   },
+   {
+    "id": "jTFCmwFqTqtyddd6",
+    "type": "specialisation",
+    "name": "Aeronautica"
+   },
+   {
+    "id": "nv9YJyO7QoIO9Nf7",
+    "type": "specialisation",
+    "name": "Intimidation"
+   },
+   {
+    "id": "X5ZwTAd255UAG05h",
+    "type": "specialisation",
+    "name": "Acrobatics"
+   },
+   {
+    "id": "jVLOirW9rFS2vG7X",
+    "type": "specialisation",
+    "name": "Animals"
+   }
+  ]
+ },
+ {
+  "id": "n0Aewqp7XCqnASGY",
+  "name": "Cult Leader",
+  "gm": "<p>Possessions: Tattered Heavy Leathers, an Unholy Icon, a Cult Standard, a book of abominable knowledge.</p>",
+  "player": "",
+  "species": "Human (Heretic)",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Heretics"
+  },
+  "items": [
+   {
+    "id": "ZXm0dBZX29shUVoW",
+    "type": "trait",
+    "name": "Fanatical Zealotry"
+   },
+   {
+    "id": "TCAnZsznj22lRLtr",
+    "type": "trait",
+    "name": "The Price of Failure"
+   },
+   {
+    "id": "EiHoQP5qGVVE4Aq0",
+    "type": "trait",
+    "name": "Sanity is for the Weak"
+   },
+   {
+    "id": "D0aTYV5oFzkZW4Mu",
+    "type": "trait",
+    "name": "Witch-mark"
+   },
+   {
+    "id": "twkSuI5712XYaLvs",
+    "type": "weapon",
+    "name": "Hand Cannon"
+   },
+   {
+    "id": "TXH6bGBYCkqLzJEU",
+    "type": "weapon",
+    "name": "Chainsword"
+   },
+   {
+    "id": "qOIKnuRgiKsFqsb5",
+    "type": "weapon",
+    "name": "Knife"
+   },
+   {
+    "id": "gWAzQpdMEI9wNZBq",
+    "type": "specialisation",
+    "name": "Fear"
+   },
+   {
+    "id": "DLe7Cfx1ydZkGDI0",
+    "type": "specialisation",
+    "name": "Forbidden"
+   },
+   {
+    "id": "nxZHfORGi625gBKm",
+    "type": "specialisation",
+    "name": "Forbidden"
+   },
+   {
+    "id": "Tupn4VUFWZPLRRhA",
+    "type": "specialisation",
+    "name": "One-handed"
+   },
+   {
+    "id": "6WxxUtmQrhx64jo9",
+    "type": "specialisation",
+    "name": "Intimidation"
+   },
+   {
+    "id": "sG3lkYr0gUvvFYDY",
+    "type": "specialisation",
+    "name": "Leadership"
+   },
+   {
+    "id": "X8DubTn9duMOaZDn",
+    "type": "specialisation",
+    "name": "Deception"
+   }
+  ]
+ },
+ {
+  "id": "nB9CcOGWYOO4cTki",
+  "name": "Renegade Veteran",
+  "gm": "<p>Possessions: A set of Tempestus Carapace armour incorporating an Omnishield Helm (built in Photo-visors, Respirator, and Vox Bead), a Chirurgeon's Kit, a pair of dog tags, a set of Magnoculars, a Pict Recorder, a copy of the Imperial Infantryman's Uplifting Primer.</p>",
+  "player": "",
+  "species": "Human (Heretics)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Heretics"
+  },
+  "items": [
+   {
+    "id": "sFxjqaVaObVWOBmI",
+    "type": "trait",
+    "name": "Killing Zone"
+   },
+   {
+    "id": "0Ri2kFLUouulfgdf",
+    "type": "trait",
+    "name": "Shock Trooper"
+   },
+   {
+    "id": "L5eseRn3a7aNim4X",
+    "type": "trait",
+    "name": "For the Dark Gods"
+   },
+   {
+    "id": "7OnAKTsJQMWSvPwM",
+    "type": "weapon",
+    "name": "Hot-Shot Lasgun"
+   },
+   {
+    "id": "L1oTLdrqEFIHfVoo",
+    "type": "weapon",
+    "name": "Hot-Shot Volleygun"
+   },
+   {
+    "id": "mXEz9zjT1zMTtlHX",
+    "type": "weapon",
+    "name": "Knife"
+   },
+   {
+    "id": "k7IZ5ETawWq9eu2o",
+    "type": "weapon",
+    "name": "Frag Grenade"
+   },
+   {
+    "id": "jYcAgViRpksvC5sZ",
+    "type": "weapon",
+    "name": "Krak Grenade"
+   },
+   {
+    "id": "LQQs1HtQYaOmJPj1",
+    "type": "specialisation",
+    "name": "Long Guns"
+   }
+  ]
+ },
+ {
+  "id": "oHvtyzFWhqDx21zt",
+  "name": "Deathmark",
+  "gm": "",
+  "player": "",
+  "species": "Necron",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Necron (Dynasty)"
+  },
+  "items": [
+   {
+    "id": "udlzLn1d7KO2BBQ7",
+    "type": "trait",
+    "name": "Living Metal (3)"
+   },
+   {
+    "id": "vMPm9Etx4Q6BlxxJ",
+    "type": "trait",
+    "name": "Phase Out"
+   },
+   {
+    "id": "0kG6jU6bTU9Cjq4N",
+    "type": "trait",
+    "name": "Reanimation Protocols (7+)"
+   },
+   {
+    "id": "W3CoT9xaEnAaBBee",
+    "type": "trait",
+    "name": "Dimensional Oubliette"
+   },
+   {
+    "id": "ys6uHC58y21Hubbj",
+    "type": "trait",
+    "name": "Marked for Death"
+   },
+   {
+    "id": "oARgkmMIgnYLymBl",
+    "type": "weapon",
+    "name": "Synaptic Disintegrator"
+   }
+  ]
+ },
+ {
+  "id": "op6vfiOvW0465Kxz",
+  "name": "Hybrid Metamorph",
+  "gm": "<p>Possessions: Heavy Leathers, 1d10 Solars</p>",
+  "player": "",
+  "species": "Human (Genestealer Cults)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Star Children"
+  },
+  "items": [
+   {
+    "id": "0JM624ni6V1lVIJP",
+    "type": "trait",
+    "name": "Genestealer Mutation"
+   },
+   {
+    "id": "ETps4HbSciMKyEqZ",
+    "type": "trait",
+    "name": "Multi-Limbed"
+   },
+   {
+    "id": "T7si9kSIIpOCd3Zo",
+    "type": "trait",
+    "name": "Resurgence"
+   },
+   {
+    "id": "pGu54wkO8Nz7GTWx",
+    "type": "trait",
+    "name": "Saintly Mutations"
+   },
+   {
+    "id": "g3b3pEIwbfxwGjzn",
+    "type": "weapon",
+    "name": "Autopistol"
+   },
+   {
+    "id": "aG6dEHnMfT95skWP",
+    "type": "weapon",
+    "name": "Unarmed"
+   },
+   {
+    "id": "bmFpaVNtZZ1QUkal",
+    "type": "specialisation",
+    "name": "Might"
+   }
+  ]
+ },
+ {
+  "id": "pHbuOveGFzUWcI5I",
+  "name": "Secutarii Peltast",
+  "gm": "",
+  "player": "",
+  "species": "Human",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Titan Legions"
+  },
+  "items": [
+   {
+    "id": "oPkUxS6C7PKyPuAT",
+    "type": "trait",
+    "name": "Heavily Augmented"
+   },
+   {
+    "id": "hQOqYRAUH5XGKaVK",
+    "type": "trait",
+    "name": "Augmetic Heart"
+   },
+   {
+    "id": "rJuSpSH8PMxtARgy",
+    "type": "trait",
+    "name": "Augmetic Respiratory System"
+   },
+   {
+    "id": "9Jgfm5aMdLzDRYYo",
+    "type": "trait",
+    "name": "Kyropatris Field Generator"
+   },
+   {
+    "id": "IyTk1kHeN21Qf2v7",
+    "type": "trait",
+    "name": "Titanguard"
+   },
+   {
+    "id": "Zxqh2lAkWAV6pGGn",
+    "type": "trait",
+    "name": "Blind Barrage"
+   },
+   {
+    "id": "v8y0V6GdgZGwcvjY",
+    "type": "weapon",
+    "name": "Galvanic Caster"
+   }
+  ]
+ },
+ {
+  "id": "qj6qDEezEs2hcPUJ",
+  "name": "Kroot Shaper",
+  "gm": "<p>Possessions: Ragged Light Leathers</p>",
+  "player": "",
+  "species": "Kroot (T'au Empire)",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "T'au Empire"
+  },
+  "items": [
+   {
+    "id": "wB86nC8qdIE2HYOh",
+    "type": "trait",
+    "name": "Ambusher"
+   },
+   {
+    "id": "fhtxKgtRqZhFly0N",
+    "type": "trait",
+    "name": "Shamanic Powers"
+   },
+   {
+    "id": "Bg7OSVjRoFiCydQH",
+    "type": "trait",
+    "name": "Stealthy Hunter"
+   },
+   {
+    "id": "qHQh0hlXZXLuIvJa",
+    "type": "weapon",
+    "name": "Kroot Rifle (Shooting)"
+   },
+   {
+    "id": "XDsYZoYvVn6EkjUC",
+    "type": "weapon",
+    "name": "Kroot Rifle (Blades)"
+   },
+   {
+    "id": "qGMrAg1iUG40UisY",
+    "type": "specialisation",
+    "name": "Surface"
+   },
+   {
+    "id": "ZxFSQ4iUxjvpRnVV",
+    "type": "specialisation",
+    "name": "Leadership"
+   },
+   {
+    "id": "zu4B1SFdVOVMZ6wi",
+    "type": "specialisation",
+    "name": "Hide"
+   },
+   {
+    "id": "QIG1lYghERtlSigb",
+    "type": "specialisation",
+    "name": "Move Silently"
+   }
+  ]
+ },
+ {
+  "id": "r04KD18QKVuusCLx",
+  "name": "Kroot Hound",
+  "gm": "<p>Possessions: None.</p>",
+  "player": "",
+  "species": "Kroot (T'au Empire)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "T'au Empire"
+  },
+  "items": [
+   {
+    "id": "tFeQKmWNPzSSPchu",
+    "type": "weapon",
+    "name": "Bite"
+   }
+  ]
+ },
+ {
+  "id": "rK0tCb27brLe0Vyh",
+  "name": "Pit Thing",
+  "gm": "",
+  "player": "",
+  "species": "Pit Thing (Fauna)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Fauna"
+  },
+  "items": [
+   {
+    "id": "lr7HiKRkf3hlrHsO",
+    "type": "trait",
+    "name": "Aura of Hate"
+   },
+   {
+    "id": "aS0fH5EEg14TIcpo",
+    "type": "trait",
+    "name": "Utterly Terrifying"
+   },
+   {
+    "id": "Do3JD61rztPeHmI1",
+    "type": "weapon",
+    "name": "Claws"
+   }
+  ]
+ },
+ {
+  "id": "rXdL5kycjxZybMda",
+  "name": "T'au Drone",
+  "gm": "<p>Possessions: None. Resolve is listed as 'Special' in the source (tied to Machine Intelligence) and is set to 0 here for lack of an automatable value.</p>",
+  "player": "",
+  "species": "Drone (T'au Empire)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "T'au Empire"
+  },
+  "items": [
+   {
+    "id": "CsSsXCDktNNNJQdL",
+    "type": "trait",
+    "name": "Machine Intelligence"
+   },
+   {
+    "id": "LWJYRAWwrQRk2eeH",
+    "type": "trait",
+    "name": "Variants"
+   },
+   {
+    "id": "HG0YLYffXcQ22zpH",
+    "type": "weapon",
+    "name": "Twin Pulse Carbines (MV-1 Gun Drone)"
+   }
+  ]
+ },
+ {
+  "id": "rbic8cIvXjLHWwLO",
+  "name": "Necron Immortal",
+  "gm": "",
+  "player": "",
+  "species": "Necron",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Necron (Dynasty)"
+  },
+  "items": [
+   {
+    "id": "Wvd7eDae9tZAV5SK",
+    "type": "trait",
+    "name": "Living Metal (3)"
+   },
+   {
+    "id": "GWc3PVyIyn2sUJm9",
+    "type": "trait",
+    "name": "Phase Out"
+   },
+   {
+    "id": "1n7jx8htw1NeCmbx",
+    "type": "trait",
+    "name": "Reanimation Protocols (7+)"
+   },
+   {
+    "id": "lAkl0uEysIR3K2Ga",
+    "type": "trait",
+    "name": "Eternal Veteran"
+   },
+   {
+    "id": "EHDeGgLefLSdClB9",
+    "type": "weapon",
+    "name": "Gauss Blaster"
+   },
+   {
+    "id": "7bIFOHvdi0S1rKc1",
+    "type": "weapon",
+    "name": "Tesla Carbine"
+   }
+  ]
+ },
+ {
+  "id": "sJVfCfqD0mwCjAtD",
+  "name": "Serberys",
+  "gm": "",
+  "player": "",
+  "species": "Horse",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Adeptus Mechanicus"
+  },
+  "items": [
+   {
+    "id": "GX8cwEAlKzHGXvtK",
+    "type": "trait",
+    "name": "Heavily Augmented"
+   },
+   {
+    "id": "Yk4deht3lJmNMW7X",
+    "type": "trait",
+    "name": "Augmetic Heart"
+   },
+   {
+    "id": "bG3CalUGBEfcLTAq",
+    "type": "trait",
+    "name": "Augmetic Respiratory System"
+   },
+   {
+    "id": "KHz9PBoZYNkfeMFO",
+    "type": "trait",
+    "name": "Bred for War"
+   },
+   {
+    "id": "GPhbR2mDH7IoSUP6",
+    "type": "trait",
+    "name": "Sulphurhound"
+   },
+   {
+    "id": "f69wtnPACCV3uDmn",
+    "type": "weapon",
+    "name": "Mechanical Hooves"
+   }
+  ]
+ },
+ {
+  "id": "sSKh7CK2WpzAncBz",
+  "name": "Striking Scorpion",
+  "gm": "<p>Possessions: A set of Aeldari Aspect Armor, an empty Spirit Stone</p>",
+  "player": "",
+  "species": "Aeldari",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Aeldari"
+  },
+  "items": [
+   {
+    "id": "h9Al2lNe6YUxYkVW",
+    "type": "trait",
+    "name": "Aspect Armor"
+   },
+   {
+    "id": "oZeGycirRGbwGdZr",
+    "type": "trait",
+    "name": "Ambush Expertise"
+   },
+   {
+    "id": "UHb6cA8EbTWs4lo2",
+    "type": "trait",
+    "name": "Psychic Sensitivity"
+   },
+   {
+    "id": "NFKd5spCDlqkAPVt",
+    "type": "trait",
+    "name": "Mandiblaster"
+   },
+   {
+    "id": "H5a6s1Pu9OMn6lSc",
+    "type": "weapon",
+    "name": "Shuriken Pistol"
+   },
+   {
+    "id": "PtOVMF6bBkBPvNs3",
+    "type": "weapon",
+    "name": "Mandiblasters"
+   },
+   {
+    "id": "g94f1KUAK5vHTMcQ",
+    "type": "weapon",
+    "name": "Scorpion Chainsword"
+   },
+   {
+    "id": "ZA8CHlzgJ5HvPLHI",
+    "type": "specialisation",
+    "name": "Psyniscience"
+   },
+   {
+    "id": "mPHgzfuSGiO28ePP",
+    "type": "specialisation",
+    "name": "One-Handed"
+   },
+   {
+    "id": "v9U1NEq23Xee6MCX",
+    "type": "specialisation",
+    "name": "Dodge"
+   }
+  ]
+ },
+ {
+  "id": "sgUiNyrw8cKunx5G",
+  "name": "Iconarch",
+  "gm": "<p>Possessions: Tattered Heavy Leathers, Cult Icon</p>",
+  "player": "",
+  "species": "Human (Heretic)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Heretics"
+  },
+  "items": [
+   {
+    "id": "ZydP212ETVSzXaph",
+    "type": "trait",
+    "name": "Darkened Fate"
+   },
+   {
+    "id": "iTVGxSFD6yz0HakR",
+    "type": "trait",
+    "name": "Ruinous Iconbearer"
+   },
+   {
+    "id": "m8fCHBME7cY9oIuh",
+    "type": "trait",
+    "name": "Source of Corruption"
+   },
+   {
+    "id": "Bgytn7rhhVdmcMtK",
+    "type": "trait",
+    "name": "Unrestrained Power"
+   },
+   {
+    "id": "dUnmlmTecaZs9Txx",
+    "type": "trait",
+    "name": "Warp Threshold"
+   },
+   {
+    "id": "go4ybYbuKhhFzFaz",
+    "type": "weapon",
+    "name": "Laspistol"
+   },
+   {
+    "id": "MIrMZYVExx3HN3x0",
+    "type": "weapon",
+    "name": "Chaos Stave (Force Staff, Psy Focus)"
+   },
+   {
+    "id": "4EX2KbdtpAPovMOu",
+    "type": "specialisation",
+    "name": "Forbidden"
+   },
+   {
+    "id": "FUePvz3Ik8fD9poT",
+    "type": "specialisation",
+    "name": "Forbidden"
+   }
+  ]
+ },
+ {
+  "id": "ssHnkjNe2qt8iHWB",
+  "name": "Aberrant",
+  "gm": "<p>Possessions: None.</p>",
+  "player": "",
+  "species": "Mutant (Genestealer Cults)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Star Children"
+  },
+  "items": [
+   {
+    "id": "aQrMRZlrLExNM8q9",
+    "type": "trait",
+    "name": "Bodyguard"
+   },
+   {
+    "id": "PbFPYbo9R8JcZZ2A",
+    "type": "trait",
+    "name": "Genestealer Mutation"
+   },
+   {
+    "id": "c6ZPCFmDFhB53spq",
+    "type": "trait",
+    "name": "Multi-Limbed"
+   },
+   {
+    "id": "2mnkk2v3Yh8bxDlS",
+    "type": "trait",
+    "name": "Resurgence"
+   },
+   {
+    "id": "QVoZ5bZ7w3G5kGeR",
+    "type": "weapon",
+    "name": "Power Pick"
+   },
+   {
+    "id": "BLQg0csV9VG3Tp3h",
+    "type": "weapon",
+    "name": "Power Hammer"
+   },
+   {
+    "id": "Skwzun0FtOn4BU5h",
+    "type": "specialisation",
+    "name": "Two-Handed"
+   },
+   {
+    "id": "G5j795TZKICFKnNb",
+    "type": "specialisation",
+    "name": "Intimidation"
+   }
+  ]
+ },
+ {
+  "id": "uHUNMldJXblTlOUL",
+  "name": "Kelermorph",
+  "gm": "<p>Possessions: Heavy Leathers, Gang/Cult Colors, Filtration Plugs, Ornamental Cape</p>",
+  "player": "",
+  "species": "Mutant (Genestealer Cults)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Star Children"
+  },
+  "items": [
+   {
+    "id": "wFVZTcz58BnyZF5e",
+    "type": "trait",
+    "name": "Folktale Hero"
+   },
+   {
+    "id": "eUQWcLipZzlfaK2z",
+    "type": "trait",
+    "name": "Genestealer Mutation"
+   },
+   {
+    "id": "CfoiWQgKJUk1gxbp",
+    "type": "trait",
+    "name": "Multi-Limbed"
+   },
+   {
+    "id": "yh8ODX4b2OG6Ez6C",
+    "type": "trait",
+    "name": "Gunslinger of Legend"
+   },
+   {
+    "id": "OUXD0UbZGmAumhfP",
+    "type": "weapon",
+    "name": "3x Liberator Autostub Pistols"
+   },
+   {
+    "id": "TYN9cf4vXIYwny69",
+    "type": "weapon",
+    "name": "Knife"
+   },
+   {
+    "id": "73GnwzwjYbm9Tkga",
+    "type": "specialisation",
+    "name": "Pistols"
+   }
+  ]
+ },
+ {
+  "id": "ufM7D4XtJT1N1AnH",
+  "name": "Cult Gunner",
+  "gm": "<p>Possessions: a set of Cult Robes, a Disguise Kit, some Heretical Writings, a Glow Globe, an Unholy Icon, 20 Solars</p>",
+  "player": "",
+  "species": "Human (Heretic)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Heretics"
+  },
+  "items": [
+   {
+    "id": "SMdAAc6mW8eW2znc",
+    "type": "trait",
+    "name": "Sanity is for the Weak"
+   },
+   {
+    "id": "cx4Cd2QEhlHOLOzJ",
+    "type": "trait",
+    "name": "Suppressing Fire"
+   },
+   {
+    "id": "eze09GH44vfoETBP",
+    "type": "trait",
+    "name": "Witch-mark"
+   },
+   {
+    "id": "gYhDGYKcXy6gE7p6",
+    "type": "weapon",
+    "name": "Heavy Stubber"
+   },
+   {
+    "id": "mmNIoDgEFxPlvT4m",
+    "type": "weapon",
+    "name": "Knife"
+   },
+   {
+    "id": "sVdksIGBeiyVbxpG",
+    "type": "specialisation",
+    "name": "Forbidden"
+   },
+   {
+    "id": "PF9oLO3tpgmZ7fdA",
+    "type": "specialisation",
+    "name": "Forbidden"
+   },
+   {
+    "id": "uTPt5ozDqh1onDP5",
+    "type": "specialisation",
+    "name": "Ordnance"
+   },
+   {
+    "id": "VXcC4fFN60EaQh1d",
+    "type": "specialisation",
+    "name": "Deception"
+   }
+  ]
+ },
+ {
+  "id": "uqKuHCSeZu4gcEGS",
+  "name": "Lychguard",
+  "gm": "",
+  "player": "",
+  "species": "Necron",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Necron (Dynasty)"
+  },
+  "items": [
+   {
+    "id": "UB4Hj6cbuQSQo5lS",
+    "type": "trait",
+    "name": "Living Metal (4)"
+   },
+   {
+    "id": "8nDTxFd65j65MtV2",
+    "type": "trait",
+    "name": "Phase Out"
+   },
+   {
+    "id": "SVPRlLQUZBpfhHMq",
+    "type": "trait",
+    "name": "Reanimation Protocols (7+)"
+   },
+   {
+    "id": "3X1iIPH1W2eUO4zH",
+    "type": "trait",
+    "name": "Ultimate Bodyguard"
+   },
+   {
+    "id": "WgH9RVyANOtaZgs8",
+    "type": "weapon",
+    "name": "Hyperphase Sword"
+   },
+   {
+    "id": "GrBSdwqrHaTGnNQe",
+    "type": "weapon",
+    "name": "Warscythe"
+   }
+  ]
+ },
+ {
+  "id": "uxPTiBlNKxqICCEt",
+  "name": "Chaos Spawn",
+  "gm": "<p>Possessions: None.</p>",
+  "player": "",
+  "species": "Daemon (Heretic)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Heretics"
+  },
+  "items": [
+   {
+    "id": "KSQ9xLCurPfZ10hi",
+    "type": "trait",
+    "name": "Fearsome"
+   },
+   {
+    "id": "Zh8oKfQvf5cb4yvE",
+    "type": "trait",
+    "name": "Mutated Beyond Reason"
+   },
+   {
+    "id": "9ot8G8WVTKPWOklx",
+    "type": "trait",
+    "name": "Mutated Movement"
+   },
+   {
+    "id": "ylRpuSnzQFUu16iO",
+    "type": "trait",
+    "name": "Source of Corruption"
+   },
+   {
+    "id": "BPHAduqB8XrmLi1e",
+    "type": "weapon",
+    "name": "Hideous Mutations"
+   }
+  ]
+ },
+ {
+  "id": "vFnM2eyyRkaqwk72",
+  "name": "Biophagus",
+  "gm": "<p>Possessions: Heavy Leathers, Gang/Cult Colors, Gasmask, Poison Vials, 2x Hallucinogen Grenades (Inq. PG pg. 91)</p>",
+  "player": "",
+  "species": "Mutant (Genestealer Cults)",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Star Children"
+  },
+  "items": [
+   {
+    "id": "lrEy4Tf8kxkPnvWH",
+    "type": "trait",
+    "name": "Alchemicus Familiar"
+   },
+   {
+    "id": "OKkjfT8a5tZpv5JA",
+    "type": "trait",
+    "name": "Genestealer Mutation"
+   },
+   {
+    "id": "srwKZN8b55thM7mF",
+    "type": "trait",
+    "name": "Twisted Scientist"
+   },
+   {
+    "id": "TrUTZb6PBB587i63",
+    "type": "weapon",
+    "name": "Autopistol"
+   },
+   {
+    "id": "c1RfAKX78gQFosIw",
+    "type": "weapon",
+    "name": "Injector Goad"
+   },
+   {
+    "id": "lXQascB4RmjKfB4i",
+    "type": "specialisation",
+    "name": "Poisons"
+   },
+   {
+    "id": "zkzU1OVSSVv3Gqdv",
+    "type": "specialisation",
+    "name": "Forbidden"
+   },
+   {
+    "id": "vkDR2ngVQtPGJaAy",
+    "type": "specialisation",
+    "name": "Forbidden"
+   }
+  ]
+ },
+ {
+  "id": "vsIpwrPBvZDXUBth",
+  "name": "Abominant",
+  "gm": "<p>Possessions: None. Resolve is listed as 'Special' in the source (protected by Mindwyrm Familiar) and is set to 0 here for lack of an automatable value.</p>",
+  "player": "",
+  "species": "Mutant (Genestealer Cults)",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Star Children"
+  },
+  "items": [
+   {
+    "id": "uEpajM9sD81WuR4n",
+    "type": "trait",
+    "name": "Genestealer Mutation"
+   },
+   {
+    "id": "dDqPMKuBISVOcDBh",
+    "type": "trait",
+    "name": "Mindwyrm Familiar"
+   },
+   {
+    "id": "a26f0bEcJhvgEvJw",
+    "type": "trait",
+    "name": "Multi-Limbed"
+   },
+   {
+    "id": "zT0BozsbJHf0nejV",
+    "type": "trait",
+    "name": "Regenerating Genemass"
+   },
+   {
+    "id": "RWhPQuEpcKnnhLJl",
+    "type": "weapon",
+    "name": "Power Sledgehammer"
+   },
+   {
+    "id": "8eK6lJRdEGTLGjPe",
+    "type": "specialisation",
+    "name": "Two-Handed"
+   },
+   {
+    "id": "27eVfhWecfk7tjXU",
+    "type": "specialisation",
+    "name": "Intimidation"
+   }
+  ]
+ },
+ {
+  "id": "x7vkk80Em0f4Rqqx",
+  "name": "Haemonculus",
+  "gm": "<p>Possessions: A Clone Field, 1d5 doses of all drugs</p>",
+  "player": "",
+  "species": "Drukhari (Coven)",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Drukhari"
+  },
+  "items": [
+   {
+    "id": "yDDtGjX5XGhGbmut",
+    "type": "trait",
+    "name": "Clone Field"
+   },
+   {
+    "id": "Eqh7d5M0owgENZCD",
+    "type": "trait",
+    "name": "Haemonculus Secrets"
+   },
+   {
+    "id": "kN9RXoZ4VJe1NBvP",
+    "type": "trait",
+    "name": "Power from Pain"
+   },
+   {
+    "id": "vebC9SzDDpNJJHrb",
+    "type": "weapon",
+    "name": "Stinger Pistol"
+   },
+   {
+    "id": "tyOJyDcoo86LuYUE",
+    "type": "weapon",
+    "name": "Scissorhands"
+   },
+   {
+    "id": "tCMpGj63Acu30whO",
+    "type": "specialisation",
+    "name": "Pain"
+   },
+   {
+    "id": "syVydMQm3LI9jq9T",
+    "type": "specialisation",
+    "name": "Forbidden"
+   },
+   {
+    "id": "i4vJtfBXzcPB2dZk",
+    "type": "specialisation",
+    "name": "Forbidden"
+   },
+   {
+    "id": "jWbeJcOrNu6xHt92",
+    "type": "specialisation",
+    "name": "Intimidation"
+   },
+   {
+    "id": "k4RXj1hI1p2ykPGv",
+    "type": "specialisation",
+    "name": "Interrogation"
+   },
+   {
+    "id": "kAfPMriJQidiGZ5Q",
+    "type": "specialisation",
+    "name": "Deception"
+   },
+   {
+    "id": "GE1p92X8YZVfgz1A",
+    "type": "specialisation",
+    "name": "Augmetics"
+   }
+  ]
+ },
+ {
+  "id": "xyJ1E1TFCRsx0iCQ",
+  "name": "Atalan Jackal",
+  "gm": "<p>Possessions: Heavy Leathers, 1d10 Solars, Gang/Cult Colors, Filtration Plugs, Motorbike (IM CRB pg. 226) or Combat Bike (Vehicles of the Imperium pg. 18) or Quadbike (MRG pg. 85)</p>",
+  "player": "",
+  "species": "Human (Genestealer Cults)",
+  "role": "troop",
+  "faction": {
+   "id": "",
+   "name": "Star Children"
+  },
+  "items": [
+   {
+    "id": "KxQTcUH8IX1cfqo1",
+    "type": "trait",
+    "name": "Genestealer Mutation"
+   },
+   {
+    "id": "PTRUZqsDb67Edtc1",
+    "type": "trait",
+    "name": "Hunting Pack"
+   },
+   {
+    "id": "lKWIPaBDKfHUbNNw",
+    "type": "trait",
+    "name": "Resurgence"
+   },
+   {
+    "id": "91gWehBBE4EkrdKI",
+    "type": "weapon",
+    "name": "Stub Pistol"
+   },
+   {
+    "id": "Rlsl49vSiX4R7H5O",
+    "type": "weapon",
+    "name": "Knife"
+   },
+   {
+    "id": "g6VTzk2S3dDTcOra",
+    "type": "specialisation",
+    "name": "Might"
+   },
+   {
+    "id": "z9BoBJs4wxy48A0H",
+    "type": "specialisation",
+    "name": "Civilian"
+   }
+  ]
+ },
+ {
+  "id": "z5jBCYPryAq6xTq6",
+  "name": "Archon",
+  "gm": "<p>Possessions: A set of Ghostplate Armor, Shadow Field, 3 doses of Corpse Obmulen, a collection of horrific battle trophies, a Soul Trap</p>",
+  "player": "",
+  "species": "Drukhari (Kabal)",
+  "role": "leader",
+  "faction": {
+   "id": "",
+   "name": "Drukhari"
+  },
+  "items": [
+   {
+    "id": "CQJoV9TLiN67ZXyH",
+    "type": "trait",
+    "name": "Blade Artist"
+   },
+   {
+    "id": "VApwt8ikvka2f95d",
+    "type": "trait",
+    "name": "Overlord"
+   },
+   {
+    "id": "t1M9CDrixtJPA3u8",
+    "type": "trait",
+    "name": "Power from Pain"
+   },
+   {
+    "id": "9KZATaVpM0UiaNIe",
+    "type": "trait",
+    "name": "Soul Trap"
+   },
+   {
+    "id": "JQETx0BTOUvtJrMf",
+    "type": "weapon",
+    "name": "Blast Pistol"
+   },
+   {
+    "id": "P4VRFArthVgIAs4n",
+    "type": "weapon",
+    "name": "Eldar Power Sword"
+   },
+   {
+    "id": "UlzFop9dJUtM98o5",
+    "type": "specialisation",
+    "name": "Pain"
+   },
+   {
+    "id": "NpYx8TVuBhWlaCFU",
+    "type": "specialisation",
+    "name": "One-Handed"
+   },
+   {
+    "id": "lBsI2hGKbnCITbVj",
+    "type": "specialisation",
+    "name": "Interrogation"
+   },
+   {
+    "id": "ytPVgVtWy0MofQ5f",
+    "type": "specialisation",
+    "name": "Deception"
+   }
+  ]
+ },
+ {
+  "id": "z8z64r0SbQF5vVan",
+  "name": "Hekatrix",
+  "gm": "<p>Possessions: A set of Wychsuit armor, a collection of horrific battle trophies, 1 dose of a single combat drug.</p>",
+  "player": "",
+  "species": "Drukhari (Wych Cult)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "Drukhari"
+  },
+  "items": [
+   {
+    "id": "URLJ8aZin9mnHAqY",
+    "type": "trait",
+    "name": "Blade Mistress"
+   },
+   {
+    "id": "1ds5vzH5KUbyT5kn",
+    "type": "trait",
+    "name": "Power from Pain"
+   },
+   {
+    "id": "4l2ePpnwPpYJ9Vgq",
+    "type": "trait",
+    "name": "Vying for Attention"
+   },
+   {
+    "id": "uzmpbuM5vsXsNZbQ",
+    "type": "weapon",
+    "name": "Splinter Pistol"
+   },
+   {
+    "id": "Ct8g2boClKeQapIL",
+    "type": "weapon",
+    "name": "Knife"
+   },
+   {
+    "id": "eAf4ffLxpBx7V4aS",
+    "type": "specialisation",
+    "name": "Pain"
+   },
+   {
+    "id": "hKcON6SirJcajwUO",
+    "type": "specialisation",
+    "name": "One-Handed"
+   },
+   {
+    "id": "CLsWzCbl4LUgVTyR",
+    "type": "specialisation",
+    "name": "Interrogation"
+   },
+   {
+    "id": "UZEBEkcdunMhiC7E",
+    "type": "specialisation",
+    "name": "Acrobatics"
+   },
+   {
+    "id": "xbSkhq88RpiMC8qa",
+    "type": "specialisation",
+    "name": "Deception"
+   }
+  ]
+ },
+ {
+  "id": "zhCTTr10tJZBAiKs",
+  "name": "XV8 Crisis Battlesuit",
+  "gm": "<p>Possessions: Crisis Battlesuit, 3x Support Systems</p>",
+  "player": "",
+  "species": "Battlesuit (T'au Empire)",
+  "role": "elite",
+  "faction": {
+   "id": "",
+   "name": "T'au Empire"
+  },
+  "items": [
+   {
+    "id": "GEs1yDHeEPhXMBGv",
+    "type": "trait",
+    "name": "Battlesuit Jump Pack"
+   },
+   {
+    "id": "bqCcj0Vf9gobzdkp",
+    "type": "trait",
+    "name": "For the Greater Good"
+   },
+   {
+    "id": "nqYREz1KOFp1VhQS",
+    "type": "weapon",
+    "name": "Burst Cannon"
+   },
+   {
+    "id": "vK4UMHuPBZF3Jr6W",
+    "type": "weapon",
+    "name": "Missile Pods w/ Frag Missiles"
+   },
+   {
+    "id": "vYeMQhRHPulBHd54",
+    "type": "weapon",
+    "name": "Plasma Rifle"
+   },
+   {
+    "id": "Ou9LC94zGeUMnySS",
+    "type": "specialisation",
+    "name": "Leadership"
+   },
+   {
+    "id": "YQzrTh03jZmp4WiL",
+    "type": "specialisation",
+    "name": "Ordnance"
+   }
+  ]
+ }
+]

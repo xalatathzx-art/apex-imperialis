@@ -1,0 +1,33 @@
+{
+  "name": "Gene-Seed",
+  "type": "trait",
+  "_id": "navisSpTrait0001",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 100,
+  "system": {
+    "notes": {
+      "player": "<p>Nineteen implanted organs rebuild a boy into something that is no longer quite a man.</p> <p>At the start of your turn you may take an <strong>Average (+20) Fortitude</strong> Test to end one instance of <em>Bleeding</em> on yourself. You have Advantage on Tests to resist ingested poison, disease and airborne toxins, and you need three hours of sleep a night rather than eight. <em>Blinded</em> never lasts on you beyond the end of the round in which it was inflicted.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

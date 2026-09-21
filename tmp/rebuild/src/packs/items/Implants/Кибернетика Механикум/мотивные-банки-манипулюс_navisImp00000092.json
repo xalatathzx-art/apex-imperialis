@@ -1,0 +1,82 @@
+{
+  "name": "Мотивные Банки Манипулюс",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000092",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 9200,
+  "system": {
+    "notes": {
+      "player": "<p>Тяжёлый банк мотивирующей силы устанавливается на груди и животе техножреца, позволяя легче поглощать и накапливать энергию.</p><p>Устанавливается только персонажу с чертой Импланты Механикум, не более одного экземпляра. Операция по установке персонажу вне Техножречества — услуга Редкости 4.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Увеличивает максимум Заряда на 5 и даёт три манипулятора, не годных для атаки, но способных держать предметы, подключаться к генератору или сети и заряжать Катушку Потенции быстрее и с бонусом при использовании двух и более манипуляторов разом.</p>",
+    "page": "DoomBC стр. 271",
+    "category": "mechanicum",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Не даёт бонуса на тест Электу-Индукторов.",
+      "2": "",
+      "3": "Бонус на тест Электу-Индукторов выше.",
+      "4": "Как Уровень 3, и вдобавок четыре манипулятора вместо трёх, а зарядка всеми четырьмя разом занимает свободное действие раз в Ход."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00910",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt09100",
+            "kind": "energy",
+            "value": 5
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 271",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

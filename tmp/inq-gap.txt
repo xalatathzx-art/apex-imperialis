@@ -1,0 +1,215 @@
+
+######## 1tBL8qTxUkWlvoDX | Konstan Serranus | Констан Серранус
+## boonLiability | Utter Purity | needName=true needDesc=true
+<p>Your Patron demands that you uphold their uncompromising ideals of purity and abhor what they deem corrupted, be it psykers, the Warp, or the works of the alien, mutant, or heretic. Transgressors are punished severely, up to amputation, execution, or arco-flagellation.</p>
+
+######## 4neMMGpoX4oC0yOt | Mizo Leskar | Мизо Лескар
+## talent | Sanctioned Psyker | needName=false needDesc=true
+<p>The Astropath has a Warp Threshold equal to double their Willpower bonus.</p>
+## trait | Psychic Powers | needName=false needDesc=true
+<p>The Astropath knows the following Minor Psychic Powers: @UUID[Compendium.navis-apexialis.navis-core-items.Item.iHemd2KVEYx2olv7]{Smite}, and @UUID[Compendium.navis-apexialis.navis-core-items.Item.plATcbLJsFW1evOT]{Soulsight}.</p>
+
+######## 76CFMEzdNOznVcNf | Hernkyn Yaegir | Хернкин-йегир
+## trait | Hernkyn Crackshot | needName=true needDesc=true
+<p>When a Hernkyn Yaegir takes an Aim or Hide Action, the Penetration value of the weapon they are using increases by +1 for its next attack. Weapons without the Penetration Trait are not affected.</p>
+## equipment | Ancestral Icon | needName=true needDesc=false
+## equipment | Trenchoat | needName=true needDesc=false
+## weapon | Bolt Revolver | needName=true needDesc=false
+## weapon | Plasma Knife | needName=true needDesc=false
+
+######## 7RBUr5GqvTTAfxfc | Mizrax Tallian | Мизракс Таллиан
+## trait | Blood Fervour | needName=true needDesc=true
+<p>When a Critical Wound is dealt within Long Range of Mizrax, he can pick a Zone within Long Range and cause characters in that Zone to enter a frenzied state. They must make a <strong>Difficult (−10) Discipline (Composure)</strong> Test at the start of their next turn. If they fail, their StrB increases by +1, and they are immune to the <em>Frightened</em> Condition, but they must attempt to engage the nearest enemy in melee combat.</p>
+## trait | Favoured by Khorne | needName=true needDesc=true
+<p>A <strong>Difficult (−10) Awareness (Psyniscience)</strong> Test at Immediate Range can detect ripples and imperfections in realspace that surround Mizrax. If Mizrax is defeated without being reminded of his past honours, a rift opens, unleashing [[/r 1d10]] @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.r38KjnD2RWhYIykh]{Bloodletters}.</p>
+## equipment | 200 Solars | needName=true needDesc=false
+
+######## 7ht4yhDakzxmzkPg | Gaazrek Weavemaster | Гаазрек Ткач
+## trait | Deny the Witch | needName=false needDesc=true
+<p>When a psyker within Medium Range of Gaazrek Weavemaster manifests a Psychic Power, it may use its Reaction to attempt to disrupt it. Gaazrek Weavemaster makes a Willpower Test with the same Difficulty as the Psychic Power. If it succeeds, subtract its SL from the psyker's SL. This may reduce their SL below 1 and cause the Psychic Power to fail.</p>
+## trait | Ephemeral Form | needName=false needDesc=true
+<p>Gaazrek Weavemaster is immune to the <em>Penetrating</em> and <em>Rend</em> Weapon Traits.</p>
+## trait | Energy of Change | needName=true needDesc=true
+<p>If Gaazrek Weavemaster’s Coruscating Flames inflict a Critical Wound, the target must immediately make a <strong>Challenging (+0) Willpower</strong> Test. On failure, they are transformed into a Chaos Spawn.</p>
+## trait | Lesser Daemon | needName=false needDesc=true
+<p>Whenever Gaazrek Weavemaster is attacked, roll [[/r 1d5]] + 2 to determine its Armour.</p>
+## trait | Psyker | needName=true needDesc=true
+<p>Gaazrek Weavemaster knows the @UUID[Compendium.navis-apexialis.navis-core-items.Item.iHemd2KVEYx2olv7]{Smite} Psychic Power. As a daemon, it has no limit to its Warp Threshold.</p>
+## trait | Source of Corruption | needName=false needDesc=true
+<p>Witnessing Gaazrek Weavemaster is @Corruption[minor]{Minor Exposure}. Make a <strong>Challenging (+0) Discipline (Psychic)</strong> Test to resist 1 Corruption Point. Every SL reduces the number of Corruption Points gained by 1. Additionally, physical contact with Gaazrek Weavemaster is @Corruption[moderate]{Moderate Exposure}. Make a <strong>Challenging (+0) Fortitude</strong> Test to resist 2 Corruption Points. Every SL reduces the number of Corruption Points gained by 1.</p>
+## weapon | Coruscating Flames | needName=true needDesc=false
+## weapon | Daemonic Claws | needName=true needDesc=false
+
+######## CuYIq94DC9jXSdCG | Wraithguard | Призрачный страж
+## specialisation | Aeldari | needName=true needDesc=false
+## equipment | Aeldari Spirit Stones | needName=true needDesc=false
+## trait | Aeldrai War Construct | needName=true needDesc=true
+<p>The Wraithguard is immune to the <em>Blinded</em>, <em>Fatigued</em>, <em>Frightened</em>, and <em>Poisoned</em> Conditions. It is equipped with either a Wraithcannon or D-Scythe, but never both.</p>
+## weapon | Wraithcannon | needName=true needDesc=false
+## weapon | D-Scythe | needName=true needDesc=true
+<p>The D-Scythe only deals damage to creatures with souls. It makes no sound and produces no visible damage, causing characters it kills to simply become lifeless husks. Critical Wounds it afflicts cause the resulting body parts to become forever debilitated.</p>
+## weapon | Wraithbone Fist | needName=true needDesc=false
+
+######## DiCcUGLaqWptKqE9 | Vesta Lorraine | Веста Лоррейн
+## specialisation | Silent Trade | needName=true needDesc=false
+
+######## GM0SvY5IcLmeiJ6a | Poxwalker | Чумоход
+## trait | Curse of the Walking Pox | needName=true needDesc=true
+<p>Characters who die due to Damage inflicted by a Poxwalker’s melee attacks return to life after [[/r 1d100]] minutes as a Poxwalker with Wounds equal to their Corruption.</p>
+## trait | Source of Corruption | needName=false needDesc=true
+<p>Witnessing a Poxwalker is @Corruption[minor]{Minor Exposure}. Make a <strong>Challenging (+0) Discipline (Psychic)</strong> Test to resist 1 Corruption Point. Every SL reduces the number of Corruption Points gained by 1. Additionally, physical contact with a Poxwalker is @Corruption[moderate]{Moderate Exposure}. Make a <strong>Challenging (+0) Fortitude (Endurance)</strong> Test to resist 2 Corruption Points. Every SL reduces the number of Corruption Points gained by 1.</p>
+
+######## KZk1yGduhULvMbmP | Varon Vipersong | Варон Вайперсонг
+## trait | Blade Artist | needName=false needDesc=true
+<p>Whenever Varon makes a melee attack with a bladed weapon, it gains the Penetrating (+1) Trait.</p>
+## trait | Blade Master | needName=true needDesc=true
+<p>Varon can make two attacks with his Sybarite Swords on his turn. He does not suffer Disadvantage when attacking with two melee weapons simultaneously. When wielding two melee weapons, they gain the Defensive Trait.</p>
+## trait | Sadistic Raider | needName=true needDesc=true
+<p>Drukhari within Long Range of Varon can choose the result of their roll when their Power from Pain Trait activates (Varon gains the chosen bonus also).</p>
+## equipment | 300 Solars | needName=true needDesc=false
+## equipment | Collection of horrific battle trophies | needName=true needDesc=false
+## equipment | Set of Kabalite Armour. | needName=true needDesc=false
+## weapon | Sybarite Sword | needName=true needDesc=false
+## weapon | Sybarite Sword | needName=true needDesc=false
+## weapon | Blast Pistol | needName=true needDesc=false
+
+######## M6XWkYc0lfuKl2hU | Daemonhost | Демонхост
+## trait | Conduit to the Warp | needName=true needDesc=true
+<p>Each time the Daemonhost takes a Critical Wound, roll [[/r 1d100]] on the @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.9aSbu2mswOOI43J1]{Psychic Phenomena} Table. When the Daemonhost dies, roll [[/r 1d100]] on the @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.2YYlAUyaVIt4bZVa]{Perils of the Warp} Table</p>
+## trait | Malefic Warding | needName=true needDesc=true
+<p>The Daemonhost has additional Critical Wounds equal to its Willpower Bonus (included above). It also grants allies within Long Range and who have had their true names inscribed upon its wards or flesh an additional +[[/r 1d5]] Armour.</p>
+## trait | Source of Corruption | needName=false needDesc=true
+<p>Witnessing the Daemonhost is @Corruption[minor]{Minor Exposure}. Make a <strong>Challenging (+0) Discipline (Psychic)</strong> Test to resist 1 Corruption Point. Every SL reduces the number of Corruption Points gained by 1. Additionally, physical contact with the Daemonhost is @Corruption[moderate]{Moderate Exposure}. Make a <strong>Challenging (+0) Fortitude</strong> Test to resist 2 Corruption Points. Every SL reduces the number of Corruption Points gained by 1. (<em><strong>Note</strong>: </em><span style="font-family: Novarese"><em>Characters in the company of the Daemonhost must make these Tests at least once a day, when witnessing the Daemonhost for the first time in that period.</em>)</span></p>
+## equipment | Sarcophagus of Chains | needName=true needDesc=true
+<p> The Daemonhost is contained within a shroud of chains and malefic wards. This keeps the Daemonhost docile and easier to transport. Freeing it from these chains takes an Action, at which point it is free to move and act on its own will, and its Resolve increases to 5.</p>
+## trait | Unholy Gaze | needName=true needDesc=false
+## trait | Note | needName=true needDesc=true
+<p>The above attacks can be opposed by @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.3mzwixuzgerGUpu1.JournalEntryPage.T3pf1AmXi3Qnm6ev#deny-the-witch!]{Deny the Witch}! like any other Psychic Power.</p>
+## trait | Warp Grasp | needName=true needDesc=false
+
+######## OgCSwwJiQkk3X60B | The Reaper | Жнец
+## trait | Disgustingly Resilient | needName=false needDesc=true
+<p>Whenever the Reaper would suffer one or more Wounds, it may make a <strong>Challenging (+0) Fortitude</strong> Test. If it succeeds, it reduces the amount of Wounds suffered by the SL.</p>
+## trait | Lesser Daemon | needName=false needDesc=true
+<p>Whenever the Reaper is attacked, roll [[/r 1d5]] + 3 to determine its Armour.</p>
+## trait | Source of Corruption | needName=false needDesc=true
+<p>Witnessing the Reaper is @Corruption[Minor Exposure]. Make a <strong>Challenging (+0) Discipline (Psychic)</strong> Test to resist 1 Corruption Point. Every SL reduces the number of Corruption Points gained by 1. Additionally, physical contact with the Reaper is @Corruption[moderate]{Moderate Exposure}. Make a <strong>Challenging (+0) Fortitude</strong> Test to resist 2 Corruption Points. Every SL reduces the number of Corruption Points gained by 1.</p>
+## weapon | Plague-ridden Battle Scythe | needName=true needDesc=false
+
+######## SkjfCdcXvxERWyeo | Valastra | Валастра
+## trait | Extra Appendages | needName=true needDesc=true
+<p>On its turn, Valastra can attack two targets if they are both in Immediate Range — one with its Greatwsord, the other with its Serrated Claws.</p>
+## trait | Source of Corruption | needName=false needDesc=true
+<p>Witnessing Valastra is a @Corruption[minor]{Minor Exposure}. Make a <strong>Challenging (+0) Discipline</strong> Test to resist 1 Corruption Point. Every SL reduces the number of Corruption Points gained by 1. Additionally, physical contact with Valastra is @Corruption[moderate]{Moderate Exposure}. Make a <strong>Challenging (+0) Fortitude</strong> Test to resist 2 Corruption Points. Every SL reduces the number of Corruption Points gained by 1.</p>
+## trait | Tempt with Obsession | needName=true needDesc=true
+<p>Characters who have been Corrupted by Valastra have Advantage on any Intelligence (Logic) or (Lore) Tests but suffer Disadvantage on any Willpower (Discipline) or (Presence) Tests (this effect remains until the character has removed their Corruption).</p>
+## trait | Lesser Daemon | needName=false needDesc=true
+<p>Whenever Valastra is attacked, roll [[/r 1d5]] + 2 to determine its Armour.</p>
+## weapon | Serrated Claws | needName=true needDesc=false
+
+######## ZVtbub70IiLYQm8u | Gantus Black, Biophagus | Гантус Блэк, биофаг
+## trait | Biological Warfare | needName=true needDesc=true
+<p>Up to two other Genestealer Cult characters accompanying the Biophagus gain the Chemical Vials Attack.</p>
+## trait | Twisted Science | needName=true needDesc=true
+<p>As an Action on his turn, the Biophagus can use his Injector Goad on an Genestealer Cult ally within Immediate Range, dosing them with a gene-brew that enhances their abilities. Roll [[/r 1d10]] and apply the related effect. Each character can only be affected by this Trait once per encounter.</p><p>1-2 <strong>Heightened Sense</strong>: The character has Advantage to all Awareness, Intuition and Reflexes Tests.</p><p>3-4 <strong>Regenerating Mass</strong>: At the start of the character’s turns, they heal wounds equal to their Toughness Bonus.</p><p>5-6 <strong>Hulking Frame</strong>: <span style="font-family: Novarese">The character gains additional wounds equal to their Toughness Bonus, and adds their Strength Bonus in SL to any Strength Tests and Melee Damage.</span></p><p>7-8 <strong>Carapaced Flesh</strong>: <span style="font-family: Novarese">The character gains +2 Armour.</span></p><p>9-0 <strong>Combat Instincts</strong>: <span style="font-family: Novarese">The character has Advantage to all Dicsipline, Melee, Ranged and Stealth Tests.</span></p>
+## equipment | 300 Solars | needName=true needDesc=false
+## equipment | Forbidden knowledge of Genestealer Cult biology | needName=true needDesc=false
+## equipment | Various unidentifiable chemicals. | needName=true needDesc=false
+## weapon | Chemical Vials | needName=true needDesc=false
+## weapon | Injector Goad | needName=true needDesc=false
+
+######## dPJKFex2tEKcZevv | Mizrax’s Faithful | Верные Мизракса
+## trait | Raging Onslaught | needName=true needDesc=true
+<p>If one of Mizrax’s Faithful takes a Wound, they have Advantage on their next Melee Attack Test.</p>
+## trait | Mark of Khorne | needName=true needDesc=true
+<p>+10 Weapon Skill and Strength. The +10 Strength increases Wounds by +1 (already included above).</p>
+## weapon | Gladatorial Blade | needName=true needDesc=false
+
+######## fHzYwLoDQ2KoLVWQ | Disc Of Tzeentch | Диск Тзинча
+## trait | Bound Mount | needName=true needDesc=true
+<p>The Disc of Tzeentch can Fly, and can carry a rider upon it. Characters bound to it are immune to its Source of Corruption Trait, so long as they have at least 2 Corruption.</p>
+## trait | Source of Corruption | needName=false needDesc=true
+<p>Witnessing the Disc of Tzeentch is @Corruption[minor]{Minor Exposure}. Make a <strong>Challenging (+0) Discipline (Psychic)</strong> Test to resist 1 Corruption Point. Every SL reduces the number of Corruption Points gained by 1. Additionally, physical contact with the Disc of Tzeentch is @Corruption[moderate]{Moderate Exposure}. Make a <strong>Challenging (+0) Fortitude</strong> Test to resist 2 Corruption Points. Every SL reduces the number of Corruption Points gained by 1.</p>
+## trait | Lesser Daemon | needName=false needDesc=true
+<p>Whenever the Disc of Tzeentch is attacked, roll [[/r 1d5]] + 1 to determine its Armour.</p>
+## weapon | Lamprey Bite | needName=true needDesc=false
+
+######## fZRrr5DJMuUoveZe | Acolyte Hybrid | Гибрид-аколит
+## trait | Genestealer Mutation | needName=true needDesc=true
+<p>Acolyte Hybrids are connected to the Genestealer Broodmind. They gain Advantage on Discipline Tests when within Long Range of a Genestealer Psyker.</p>
+## trait | Helping Hand | needName=true needDesc=true
+<p>This creature has an additional limb. They may use it to wield an additional One-handed weapon and use it in combat.</p>
+## equipment | Cloak | needName=true needDesc=false
+## equipment | Cult Icons | needName=true needDesc=false
+## equipment | Makeshift Armour | needName=true needDesc=false
+## weapon | Rending Claw | needName=true needDesc=false
+
+######## iuJElT9PKfrFYQTp | The Murmurer | Бормочущий
+## trait | Powerful Telepath | needName=true needDesc=true
+<p>Murmurer can use the following Psychic Powers: @UUID[Compendium.navis-apexialis.navis-core-items.Item.owV6X67ajuIlIiK7]{Beacon}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.iF1qxYZdS6GKxaVk]{Call Vermin}, @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.hkQ5a28KjUr21qBT]{Cipher Seed}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.XnKX6A6hVzeXsGld]{Compel}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.FlK5TFyjJNmgnExw]{Dominate}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.I6NTqen3Srp90dyW]{Dread Presence}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.dXuovICcPa2cssAn]{Erasure}, @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.lwD2p2jSEj6Io81A]{Hallucinate}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.sZluux2xrMuK4w1H]{Mental Interrogation}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.42dhMCtTnzvxtiUM]{Psychic Static}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.plATcbLJsFW1evOT]{Soulsight}, and @UUID[Compendium.navis-apexialis.navis-core-items.Item.23AM9iBKKeWZKZNj]{Telepathic Link}.</p>
+## trait | Puppet Master | needName=true needDesc=true
+<p>While dominating a creature, the Murmurer has direct control of their body and can perceive through their senses. He can also manifest his Psychic Powers through that body as though it were his own.</p>
+## trait | Transient Body | needName=true needDesc=true
+<p>All Characteristics except for Int, Per, Wil, Fel, are determined by the specific body Murmurer controls at any given time (base values are his own).</p>
+## trait | Warp Threshold | needName=true needDesc=true
+<p>6 (Whilst plugged into the Emanation Engine, any Warp Charge that the Murmurer would generate locally is automatically dissipated).</p>
+## specialisation | Macharian Sector | needName=true needDesc=false
+## trait | Amplified Power | needName=true needDesc=true
+<p>The Emanation Engine drastically extends the range of Kho’s psyniscience and Psychic Powers, allowing him to detect and target creatures at any range within the sector. Additionally, the Murmurer has Advantage on Manifest Tests.</p>
+## power | Call Vermin | needName=false needDesc=true
+<p><strong>Cognomens</strong>: Verminspeak, Rat-tongue, Crawlers Plea</p><p>You summon and compel simple creatures to fly or scurry at your whim. Until the start of your next turn, you gain control of vermin in the area (you don't need to see them), amassing them as a swarm that fills one Zone within Medium Range. If the vermin crawl, the swarm's Zone is @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Difficult Terrain}. If the swarm flies, its Zone is @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#obscured]{Lightly Obscured}. As a free action once on your turn, you can command the swarm to move to an adjacent Zone within Long Range of you.</p><p>Alternatively, you can summon and control a single vermin, which emerges within Medium Range. As a free action once on your turn, you can direct it to perform a simple task, such as fetching a keycard or gnawing through bindings.</p><p>You immediately lose control of vermin beyond Medium Range. This power does not grant you the ability to communicate with vermin, only command them.</p><p>Specialisation in Telepathy applies to this power's Manifest Test.</p>
+## power | Call Vermin | needName=false needDesc=true
+<p><strong>Cognomens</strong>: Verminspeak, Rat-tongue, Crawlers Plea</p><p>You summon and compel simple creatures to fly or scurry at your whim. Until the start of your next turn, you gain control of vermin in the area (you don't need to see them), amassing them as a swarm that fills one Zone within Medium Range. If the vermin crawl, the swarm's Zone is @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Difficult Terrain}. If the swarm flies, its Zone is @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#obscured]{Lightly Obscured}. As a free action once on your turn, you can command the swarm to move to an adjacent Zone within Long Range of you.</p><p>Alternatively, you can summon and control a single vermin, which emerges within Medium Range. As a free action once on your turn, you can direct it to perform a simple task, such as fetching a keycard or gnawing through bindings.</p><p>You immediately lose control of vermin beyond Medium Range. This power does not grant you the ability to communicate with vermin, only command them.</p><p>Specialisation in Telepathy applies to this power's Manifest Test.</p>
+## power | Call Vermin | needName=false needDesc=true
+<p><strong>Cognomens</strong>: Verminspeak, Rat-tongue, Crawlers Plea</p><p>You summon and compel simple creatures to fly or scurry at your whim. Until the start of your next turn, you gain control of vermin in the area (you don't need to see them), amassing them as a swarm that fills one Zone within Medium Range. If the vermin crawl, the swarm's Zone is @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Difficult Terrain}. If the swarm flies, its Zone is @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#obscured]{Lightly Obscured}. As a free action once on your turn, you can command the swarm to move to an adjacent Zone within Long Range of you.</p><p>Alternatively, you can summon and control a single vermin, which emerges within Medium Range. As a free action once on your turn, you can direct it to perform a simple task, such as fetching a keycard or gnawing through bindings.</p><p>You immediately lose control of vermin beyond Medium Range. This power does not grant you the ability to communicate with vermin, only command them.</p><p>Specialisation in Telepathy applies to this power's Manifest Test.</p>
+## power | Call Vermin | needName=false needDesc=true
+<p><strong>Cognomens</strong>: Verminspeak, Rat-tongue, Crawlers Plea</p><p>You summon and compel simple creatures to fly or scurry at your whim. Until the start of your next turn, you gain control of vermin in the area (you don't need to see them), amassing them as a swarm that fills one Zone within Medium Range. If the vermin crawl, the swarm's Zone is @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Difficult Terrain}. If the swarm flies, its Zone is @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#obscured]{Lightly Obscured}. As a free action once on your turn, you can command the swarm to move to an adjacent Zone within Long Range of you.</p><p>Alternatively, you can summon and control a single vermin, which emerges within Medium Range. As a free action once on your turn, you can direct it to perform a simple task, such as fetching a keycard or gnawing through bindings.</p><p>You immediately lose control of vermin beyond Medium Range. This power does not grant you the ability to communicate with vermin, only command them.</p><p>Specialisation in Telepathy applies to this power's Manifest Test.</p>
+
+######## j3u29w8o6uvvQe0Y | Traitor Guardsman | Гвардеец-предатель
+## trait | For Chaos! | needName=true needDesc=true
+<p>A Traitor Guardsman can use their action to suffer [[/r 1d5]] Damage that ignores Armour and gain the <em>Prone</em> Condition to give allies in the same Zone Advantage on their next Attack Test.</p>
+## equipment | Tattered Uniform | needName=true needDesc=false
+## equipment | Scraps of heretical writings | needName=true needDesc=false
+
+######## lpytiuTAh3y4JhNv | Traitor Enforcer | Силовик-предатель
+## trait | Ranked Fire | needName=true needDesc=true
+<p>As an Action, the Traitor Enforcer can command all Traitor Guardsmen in their Zone to fire their Ranged Weapon on their next turn, granting them an additional +1 SL.</p>
+## trait | Worthless Lives | needName=true needDesc=true
+<p>When in the same Zone as an Enforcer, <em>Desperate</em> Traitor Guardsmen do not Flee or Surrender.</p>
+## equipment | Tattered Uniform. | needName=true needDesc=false
+## equipment | Symbol of the Dark Gods | needName=true needDesc=false
+
+######## ncXwqNsh38L8CyRo | Zarin Varuna | Зарин Варуна
+## specialisation | Aeldari | needName=true needDesc=false
+## specialisation | Votann | needName=true needDesc=false
+## specialisation | Aeldari | needName=true needDesc=false
+## specialisation | Votann | needName=true needDesc=false
+
+######## rilaQaBPslIRzGco | Orhys-Phi-07et | Орис-Фи-07ет
+## trait | Utility Mechadendrite | needName=false needDesc=true
+<p>Functions as a Combi-tool and a melee weapon.</p>
+## augmetic | Utility Mechadendrite | needName=false needDesc=true
+<p>These snake-like metal devices are affixed to the chest, back, or shoulders and act as additional manipulators. They are only found among adepts of the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.uJURMn2glWHhjqJk.JournalEntryPage.1oKZw1hTM7Gx5cqB]{Adeptus Mechanicus}, and extend roughly 2 metres in length. Each is fitted with its own special mechanisms. Using any Mechadendrite requires an Action.</p><p>Each Mechadendrite counts as a separate augmentation towards the maximum number a character can possess. If a character with Mechadendrites would suffer a Critical Wound to the Body location, roll a d10. If the result is less than the number of functioning Mechadendrites the character has installed, one of those is damaged instead. Damaged Mechadendrites cannot be used until they are repaired.</p><ul><li><p><strong>Utility</strong>: These are fitted with several devices for repairing and renovating machines, and are the most common form of Mechadendrite. They count as a Standard Quality @UUID[Compendium.navis-apexialis.navis-core-items.Item.xQ2vhqZTWMBZ3Jxi]{Combi-Tool}, granting +2 SL to Tech Tests, and can be used in melee combat as an @UUID[Compendium.navis-apexialis.navis-core-items.Item.CrbE669FitnwNPZX]{Improvised Melee Weapon (One-handed)}.</p></li></ul>
+
+######## uybcmaEfabyk4D4R | Mandrake | Мандрагора
+## trait | Blade Artist | needName=false needDesc=true
+<p>Whenever the Mandrake makes a melee attack with a bladed weapon, it gains the Penetrating (+1) Trait.</p>
+## trait | Shadow Creature | needName=true needDesc=true
+<p>The Mandrake always takes half damage, unless it takes damage from pyschic abilities or phenomena.</p>
+## trait | Fade Away | needName=true needDesc=true
+<p>As an Action on their turn, the Mandrake can become invisible to the eye while inside Zones with <em>Dark</em>, <em>Obscure</em>, or <em>Poorly Lit</em> Environmental Traits, and has Advantage on Stealth Tests. They remain in this state until they take a non-movement Action (such as making an attack, or interacting with an object).</p>
+## weapon | Glimmersteel Blade | needName=true needDesc=false
+## weapon | Baleblast | needName=true needDesc=false
+
+######## vOMZqNUtEm6Sjlne | Cherubim | Херувим
+## weapon | Hand Weapon | needName=true needDesc=false
+
+######## vds8HRa533wcv1Pq | Agira Chernov | Агира Чернов
+## talent | Data Delver | needName=false needDesc=true
+<p>The Administratum Adept has Advantage on Tests made to find or retrieve information from a document or archive (whether analog or digital).</p>
+
+######## vvgA1lyNkcTDw1xP | Lethic Arandir | Летик Арандир
+## power | Call Vermin | needName=false needDesc=true
+<p><strong>Cognomens</strong>: Verminspeak, Rat-tongue, Crawlers Plea</p><p>You summon and compel simple creatures to fly or scurry at your whim. Until the start of your next turn, you gain control of vermin in the area (you don't need to see them), amassing them as a swarm that fills one Zone within Medium Range. If the vermin crawl, the swarm's Zone is @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#difficult-terrain]{Difficult Terrain}. If the swarm flies, its Zone is @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#obscured]{Lightly Obscured}. As a free action once on your turn, you can command the swarm to move to an adjacent Zone within Long Range of you.</p><p>Alternatively, you can summon and control a single vermin, which emerges within Medium Range. As a free action once on your turn, you can direct it to perform a simple task, such as fetching a keycard or gnawing through bindings.</p><p>You immediately lose control of vermin beyond Medium Range. This power does not grant you the ability to communicate with vermin, only command them.</p><p>Specialisation in Telepathy applies to this power's Manifest Test.</p>
+## power | Ill Omen | needName=false needDesc=true
+<p><strong>Cognomens</strong>: The Wyrding Fear, Empyrean's touch</p><p>You allow the borders of the immaterium to bleed through into reality, twisting the physical realm to unsettle, amaze, or threaten those who experience the Warp's horrible nature. Roll on the @UUID[Compendium.navis-apexialis.navis-core-tables.RollTable.9aSbu2mswOOI43J1]{Psychic Phenomena} Table once per SL of your Manifest Test and choose one of the results. Choose a Zone within Medium Range. The chosen psychic phenomena appears in the target Zone until the start of your next turn.</p><p>Specialisation in Divination applies to this power's Manifest Test.</p>

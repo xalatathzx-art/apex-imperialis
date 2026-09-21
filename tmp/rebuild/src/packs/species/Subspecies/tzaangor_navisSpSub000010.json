@@ -1,0 +1,85 @@
+{
+  "name": "Tzaangor",
+  "type": "navis-apexialis.subspecies",
+  "_id": "navisSpSub000010",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder002",
+  "sort": 1000,
+  "system": {
+    "notes": {
+      "player": "<p>Tzeentch's bird-like Beastmen, covered in shimmering blue feathers, form complex hierarchical societies on the worlds of Chaos, built on rising through betrayal and deceit. Tzaangors are obsessed with hoarding knowledge and with elaborate plans. Even the lowest slave in a tribe or work-gang of these mutants can rise by outwitting or killing someone above him and taking his place, which weeds out the stupid and the careless quickly.</p> <p>Lacking sharp claws, and with horns made for display rather than for fighting, Tzaangors are also free of many of the curses the other Beastmen carry — which makes them useful as ships' crews and as craftsmen, and not only as cannon fodder.</p>",
+      "gm": ""
+    },
+    "category": "mutant",
+    "reference": "DoomBC p.12",
+    "restricted": false,
+    "characteristics": {
+      "modifiers": {
+        "ws": 0,
+        "bs": 0,
+        "str": 0,
+        "tgh": 0,
+        "ag": 0,
+        "int": 5,
+        "per": 0,
+        "wil": 0,
+        "fel": 5
+      },
+      "choice": {
+        "number": 0,
+        "value": 5,
+        "keys": []
+      }
+    },
+    "skills": {},
+    "size": "",
+    "corruption": 1,
+    "roles": [
+      "Mystic",
+      "Savant",
+      "Interlocutor"
+    ],
+    "removes": [
+      "Horns and Hooves",
+      "Aversion to Order"
+    ],
+    "grantedTraits": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0046",
+          "id": "navisSpTrait0046",
+          "name": "Schemer",
+          "diff": {}
+        }
+      ]
+    },
+    "talents": {
+      "list": []
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": []
+    },
+    "requires": "Beastman"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

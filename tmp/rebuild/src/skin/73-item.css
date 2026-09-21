@@ -1,0 +1,32 @@
+/* ══════════════════════════════════════════════════════════════════════════
+   NAVIS APEXIALIS SKIN — 73 ITEM SHEETS
+
+   module/skin.js opens impmal item sheets at Foundry's automatic height, so
+   the window fits its content, and collapses notes sections that are empty
+   (module/refit.js, refitEditorSections). This file caps that height to the
+   screen and quiets the collapsed headers.
+   ══════════════════════════════════════════════════════════════════════ */
+
+/* A window as tall as its content, never taller than the screen; past that
+   the content scrolls inside it. */
+body.navis-skin .application.impmal.item.sheet {
+  max-height: calc(100vh - 20px);
+}
+
+/* An empty notes section: a thin header that still opens it to write in. */
+body.navis-skin .application.impmal.sheet .editor-section.navis-empty > .header {
+  opacity: 0.7;
+  transition: opacity var(--navis-transition);
+}
+body.navis-skin .application.impmal.sheet .editor-section.navis-empty > .header:hover,
+body.navis-skin .application.impmal.sheet .editor-section.navis-empty:has(> .dropdown-content.expanded) > .header {
+  opacity: 1;
+}
+body.navis-skin .application.impmal.sheet .editor-section.navis-empty > .header > div:first-child::after {
+  content: " · Empty";
+  font-style: normal;
+  color: var(--navis-ink-faint);
+}
+body.navis-skin .application.impmal.sheet .editor-section.navis-empty:has(> .dropdown-content.expanded) > .header > div:first-child::after {
+  content: none;
+}

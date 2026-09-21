@@ -1,0 +1,75 @@
+{
+  "name": "Astartes Combat Knife",
+  "type": "weapon",
+  "_id": "navisSpGear00004",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/weapons/melee-weapon.webp",
+  "folder": "navisSpFolder004",
+  "sort": 400,
+  "system": {
+    "notes": {
+      "player": "<p>A blade the length of a mortal's forearm, carried as a sidearm and used as one.</p>",
+      "gm": ""
+    },
+    "encumbrance": {
+      "value": 1
+    },
+    "cost": 500,
+    "availability": "Rare",
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": "",
+      "force": false
+    },
+    "damage": {
+      "base": "4",
+      "characteristic": "str",
+      "SL": true,
+      "ignoreAP": false
+    },
+    "traits": {
+      "list": []
+    },
+    "attackType": "melee",
+    "spec": "oneHanded",
+    "category": "",
+    "range": "",
+    "rangeModifier": {
+      "value": 0,
+      "override": ""
+    },
+    "mag": {
+      "value": 0,
+      "current": null
+    },
+    "ammoCost": 0,
+    "ammo": {
+      "id": ""
+    },
+    "mods": {
+      "list": []
+    },
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

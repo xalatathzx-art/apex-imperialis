@@ -1,0 +1,101 @@
+{
+  "name": "Черепная Броня",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000027",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00003",
+  "sort": 2700,
+  "system": {
+    "notes": {
+      "player": "<p>Микропластины пласталя вживлены в череп, укрепляя его от травм головы. Внешне почти незаметна — разве что владелец стучит себя по лбу с непривычным металлическим звуком.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт <strong>+1 очко брони</strong> в голову, складывающееся с носимой бронёй.</p>",
+    "page": "DoomBC стр. 265",
+    "category": "cybernetic",
+    "rarity": 0,
+    "availability": "common",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 800,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Заклёпки крепления слегка мешают работе мозга и мимике лица: <strong>−1 к Интеллекту и Товариществу</strong>, пока имплант установлен.",
+      "2": "",
+      "3": "Позволяет подключить до двух мехадендритов, либо снимает половинное ограничение бонусов с уже подключённого.",
+      "4": "Оба эффекта Уровня 3 сразу."
+    },
+    "slot": "cortex",
+    "side": "",
+    "location": "head",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00260",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt02600",
+            "kind": "armour",
+            "key": "head",
+            "value": 1
+          },
+          {
+            "id": "navisImpEnt02601",
+            "kind": "characteristic",
+            "key": "int",
+            "value": {
+              "1": -1,
+              "2": 0
+            }
+          },
+          {
+            "id": "navisImpEnt02602",
+            "kind": "characteristic",
+            "key": "fel",
+            "value": {
+              "1": -1,
+              "2": 0
+            }
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 265",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

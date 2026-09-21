@@ -1,0 +1,33 @@
+{
+  "name": "Engineered Talent",
+  "type": "trait",
+  "_id": "navisSpTrait0029",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 2900,
+  "system": {
+    "notes": {
+      "player": "<p>You were grown from the genes of someone who was very good at something.</p> <p>Choose two characteristics and three skills when this is applied: they were built into you. Advances in them cost <strong>10 XP less</strong> than the table says, to a minimum of 10.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

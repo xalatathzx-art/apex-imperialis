@@ -1,0 +1,107 @@
+{
+  "name": "Кортикальный имплант",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000021",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00002",
+  "sort": 2100,
+  "system": {
+    "notes": {
+      "player": "<p>Кибернетический мозговой имплант, возвращающий часть функций мозга после травмы, отправившей человека в вегетативное состояние. Техножрецы зовут его милосердием; те, кто видел неудачные установки, зовут иначе.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Если имплант отключают, вы Оглушены на всё время его простоя.</p>",
+    "page": "DoomBC стр. 264",
+    "category": "bionic",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 2500,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Уничтожает личность и волю: персонаж превращается в сервитора, послушного программам импланта.",
+      "2": "",
+      "3": "<strong>+5 к Интеллекту</strong> и <strong>+2 успеха</strong> на проверки Логики и Знаний, когда вы вспоминаете важные сведения.",
+      "4": "Как Уровень 3, и вдобавок одна из доработок: два дополнительных бионических глаза или визора, видимых одновременно; дополнительное ментальное полудействие в начале Хода ценой проверки Ловкости −10 или 1 Усталости; нечеловеческие паттерны мышления — Преимущество против контроля разума и иллюзий, Помеха на Логику в социальных сценах; или экранирование от ЭМИ. Каждая доработка сверх первой поднимает Редкость на 1."
+    },
+    "slot": "cortex",
+    "side": "",
+    "location": "head",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00200",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt02000",
+            "kind": "characteristic",
+            "key": "int",
+            "value": {
+              "2": 0,
+              "3": 5,
+              "4": 5
+            }
+          },
+          {
+            "id": "navisImpEnt02001",
+            "kind": "testMod",
+            "skill": "logic",
+            "value": {
+              "2": 0,
+              "3": 2,
+              "4": 2
+            }
+          },
+          {
+            "id": "navisImpEnt02002",
+            "kind": "testMod",
+            "skill": "lore",
+            "value": {
+              "2": 0,
+              "3": 2,
+              "4": 2
+            }
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 264",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

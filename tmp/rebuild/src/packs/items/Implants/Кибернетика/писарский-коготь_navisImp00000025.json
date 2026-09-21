@@ -1,0 +1,70 @@
+{
+  "name": "Писарский Коготь",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000025",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00003",
+  "sort": 2500,
+  "system": {
+    "notes": {
+      "player": "<p>Один палец заменён комплексом стилуса и сканера, соединённым кабелями с речевым центром мозга. Хват этой руки навсегда отдаёт лёгким металлическим щелчком.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт <strong>+1 успех</strong> на любые проверки чтения и письма, позволяет писать со скоростью речи и читать «вслепую» сканером вместо глаз. Ладонь с этим имплантом получает <strong>−1 успех</strong> на использование инструментов и оружия этой же рукой.</p>",
+    "page": "DoomBC стр. 265",
+    "category": "cybernetic",
+    "rarity": -1,
+    "availability": "common",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 500,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Заменяет три пальца сразу и крайне неуклюж вне своей функции: рука способна держать оружие и инструменты, но не пользоваться ими всерьёз.",
+      "2": "",
+      "3": "Штраф на использование оружия и инструментов этой рукой снижается до −1 успеха (без изменений относительно базового эффекта).",
+      "4": "Штраф на оружие и инструменты этой рукой снят полностью; коготь выглядит как обычный палец, бионический или живой."
+    },
+    "slot": "mechadendrite",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 265",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

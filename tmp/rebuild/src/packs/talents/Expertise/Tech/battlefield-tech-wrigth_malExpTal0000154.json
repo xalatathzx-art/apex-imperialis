@@ -1,0 +1,59 @@
+{
+  "name": "Battlefield Tech-Wrigth",
+  "type": "talent",
+  "_id": "malExpTal0000154",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">No penalties for Tech/Repair tests due to external distractions, reduce penatlies due to tools/working conditions by 10</span></p><hr><p><span style=\"font-family: Arial\"><em>You no longer suffer any penalties to Tech or Repair Tests due to external distractions and reduces all penalties from poor tools or working conditions by a total of 10 (so a Hard (-20) Repair Test to fix a tank in a swamp would become Difficult (-10) instead).</em></span></p>",
+      "gm": "Talent Category: Tech"
+    },
+    "requirement": {
+      "value": "1 Advance in Tech, 1 Advance in Tech(Engineering)",
+      "script": "return this.actor.system.skills.tech.advances >= 1 && (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Engineering\" && i.system.skill == \"tech\")?.system?.advances >= 1)"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "gg2FdNYcHKZzBhcM",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 200000
+}

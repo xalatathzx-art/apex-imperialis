@@ -1,0 +1,83 @@
+{
+  "name": "Blunted",
+  "type": "navis-apexialis.subspecies",
+  "_id": "navisSpSub000002",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder002",
+  "sort": 200,
+  "system": {
+    "notes": {
+      "player": "<p>You were born with a very dim soul, far weaker than other people's, and that grants you a measure of protection from psykers and from the creatures of the Warp. Often a gift, it is also a curse: it keeps you from using the gifts and the attention of the Dark Gods as fully as other men can, or from benefiting from an allied psyker.</p>",
+      "gm": "<p><em>Conversion:</em> the book scales this from Blunted (1) to (4) against a rising Infamy penalty. impmal has no Infamy and nothing to pay it with, so this ships at one strength, with the loss of every psychic benefit as its cost.</p>"
+    },
+    "category": "human",
+    "reference": "DoomBC p.5",
+    "restricted": false,
+    "characteristics": {
+      "modifiers": {
+        "ws": 0,
+        "bs": 0,
+        "str": 0,
+        "tgh": 0,
+        "ag": 0,
+        "int": 0,
+        "per": 0,
+        "wil": 0,
+        "fel": 0
+      },
+      "choice": {
+        "number": 0,
+        "value": 5,
+        "keys": []
+      }
+    },
+    "skills": {},
+    "size": "",
+    "corruption": 0,
+    "roles": [
+      "Warrior",
+      "Penumbra",
+      "Savant",
+      "Interlocutor"
+    ],
+    "removes": [],
+    "grantedTraits": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0028",
+          "id": "navisSpTrait0028",
+          "name": "Blunted Soul",
+          "diff": {}
+        }
+      ]
+    },
+    "talents": {
+      "list": []
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": []
+    },
+    "requires": "Human"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

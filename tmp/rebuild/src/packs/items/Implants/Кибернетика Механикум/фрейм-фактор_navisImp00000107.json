@@ -1,0 +1,70 @@
+{
+  "name": "Фрейм Фактор",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000107",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 10700,
+  "system": {
+    "notes": {
+      "player": "<p>Фрейм для общения с людьми вне таинств Механикум, переговоров, торговли и шпионажа: избегает очевидно механических деталей, имитируя немодифицированное человеческое тело. Недоступен Космодесантникам.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт бонус на общение с людьми и некоторыми ксеносами (но не с Механикум, видящими фальшь фасада), и раз за сцену на каждого собеседника — встречную проверку Логики против Проницательности для дополнительного бонуса. Бионика выглядит как наилучшая или замаскирована под живую; можно установить не более 4 Технофокусов и 2 прочих имплантов Механикум и никаких Мехадендритов, кроме втягивающихся.</p>",
+    "page": "DoomBC стр. 273",
+    "category": "mechanicum",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 273",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

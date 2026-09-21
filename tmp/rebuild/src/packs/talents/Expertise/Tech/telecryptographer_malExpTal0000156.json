@@ -1,0 +1,59 @@
+{
+  "name": "Telecryptographer",
+  "type": "talent",
+  "_id": "malExpTal0000156",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">+2SL to jam/intercept/decode, may spend action to encrypt allied channels requiring enemies to bypass with SL higher than your IntB</span></p><hr><p><span style=\"font-family: Arial\"><em>You are a student of informational warfare, as fluent at intercepting enemy communications as guarding your own. You gain +2SL on Tech (Security) tests to jam, intercept, or decode enemy vox traffic (or equivalent). You may also spend an action encrypting allied communications to prevent unauthorized access, which can only be bypassed by the enemy if they score a number of SLs equal to your intelligence bonus.</em></span></p>",
+      "gm": "Talent Category: Tech"
+    },
+    "requirement": {
+      "value": "1 Advance in Lore, 2 Advances in Tech(Security)",
+      "script": "return this.actor.system.skills.lore.advances >= 1 && (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Security\" && i.system.skill == \"tech\")?.system?.advances >= 2)"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "gg2FdNYcHKZzBhcM",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 0
+}

@@ -1,0 +1,199 @@
+##### malExpTal0000071 | Knowledge | Archivautor
+REQ: 1 Advance in Lore, Data Delver Talent
+<p>Reroll failed checks utilizing recorded information with a -10</p><hr><p><em>When you make a Lore or Psychic Mastery Test utilizing sources of recorded information of any sort, such as cogitators, tomes, info-nets, and dataslates, you can reroll a failed test once with an additional -10 penalty. </em></p>
+
+##### malExpTal0000072 | Knowledge | Flash of Insight
+REQ: 2 Advances in Logic(Investigation)
+<p>Spend FP to reveal a clue or lead to progress investigation</p><hr><p><em>When stuck in an investigation, you may spend one Fate Point to reveal a single clue or lead to aid in the progression of your efforts. </em></p>
+
+##### malExpTal0000073 | Knowledge | Forensic Expert
+REQ: 2 Advances in Logic(Investigation)
+<p>+1 SL to any checks related to investigating biological, trace, and impression evidence, as well as examining and comparing other basic information at a crime scene</p><hr><p><em>You have been trained in the Forensics science of Criminalistics, and are a candidate to receive further dedicated training. When making a Logic (Investigation) test, you gain a +1SL bonus on it in terms of investigating biological, trace, and impression evidence, as well as examining and comparing other basic information at a crime scene. This talent may be taken multiple times, which grants a +1SL bonus to Logic (Investigation) tests and other skills relating to its field. Each time after the first, choose from one of the following fields: Data Forensics, Forensic Ballistics, Forensic Biologis, Forensic Chymestry, Forensic Engineering, Forensic Psykologis</em></p>
+
+##### malExpTal0000074 | Knowledge | Data Forensics
+REQ: Forensic Expert Talent
+<p>Grants the bonus of Forensic Expert to Tech(Security)</p><hr><p><em>Relating to investigating and recovering data from electronically stored media. This field grants bonuses to Tech (Security) tests as appropriate.</em></p>
+
+##### malExpTal0000075 | Knowledge | Forensic Ballistics
+REQ: Forensic Expert Talent
+<p>Grants the bonus of Forensic Expert to analyzing firearms and munitions, potentially deducing the skill of the shooter</p><hr><p><em>Relating to the analysis of firearms and their munitions. Training in this field allows you to deduce exactly what weapons and munitions were used, with a high number of SLs allowing you to evaluate the shooters skill.</em></p>
+
+##### malExpTal0000076 | Knowledge | Forensics Biologis
+REQ: Forensic Expert Talent
+<p>Grants the bonus of Forensic Expert to Medicae</p><hr><p><em>Relating to biological fluids, tissues, muscles, and DNA analysis. This field grants bonuses to Medicae tests as appropriate.</em></p>
+
+##### malExpTal0000077 | Knowledge | Forensic Chymestry
+REQ: Forensic Expert Talent
+<p>Grants the bonus of Forensic Expert to Medicae(Chem-Use)</p><hr><p><em>Relating to the detection and identification of chemical substances such as drugs, as well as their effects on the human body. This field grants bonuses to Medicae (Chem-Use) tests as appropriate.</em></p>
+
+##### malExpTal0000078 | Knowledge | Forensic Engineering
+REQ: Forensic Expert Talent
+<p>Grants the bonus of Forensic Expert to Tech(Engineering)</p><hr><p><em>Relating to investigating the analysis of structures, typically relating to causes of failure or damage. This field grants bonuses to Tech (Engineering) tests as appropriate.</em></p>
+
+##### malExpTal0000079 | Knowledge | Forensic Psykologis
+REQ: Forensic Expert Talent
+<p>Grants the bonus of Forensic Expert to Presence (Interrogation)</p><hr><p><em>Relating to the study of the study of the mind, behavior, and criminal responsibility. Especially prized amongst the Inquisition. This field grants bonuses to Presence (Interrogation) tests as appropriate</em></p>
+
+##### malExpTal0000080 | Knowledge | Foresight
+REQ: -
+<p>Spend 10min analyzing a problem: +1SL for next related intelligence based check</p><hr><p><em>By careful consideration of all the possible consequences and examination of all evidence and information, you can identify the best path for success. By spending ten minutes studying or analyzing a problem, you gain a +1SL bonus to your next Intelligence based test. </em></p>
+
+##### malExpTal0000081 | Knowledge | Know the Enemy; Kill the Enemy
+REQ: 1 Advance in Lore(Forbidden)
+<p>1/Encounter: choose enemy type, test appropriate Forbidden Lore -20 check. On success for SL turns: allies may re-roll one missed attack per turn against type</p><hr><p><em>Once per encounter, you may use this talent and choose a type of enemy (Orks, Eldar, Heretics, or anyother that is deemed appropriate by your GM) and make a Hard (-20) Lore (Forbidden) Test specializing in that foe (i.e. Lore (Forbidden – Orks)) If successful, any ally within communication range may re-roll one missed attack per Round against the chosen enemy for a number of Rounds equal to the Success Levels on the test.</em></p>
+
+##### malExpTal0000082 | Knowledge | Rumorsmith
+REQ: -
+<p>Advantage on Rapport(Inquiry) on local gossip</p><hr><p><em>You’re vigilant to local gossip, a bountiful source of both reliable and wildly inaccurate intelligence. You gain Advantage on Rapport (Inquiry) Tests to hear the word on the street. </em></p>
+
+##### malExpTal0000083 | Knowledge | Total Recall
+REQ: -
+<p>Automatically remember trivial facts, complex/difficult facts may require Intelligence test. Combines well with Eidetic Memory</p><hr><p><em>You automatically remember trivial facts or pieces of information you may have feasibly picked up in the past. When dealing with more detailed, complex, or obscure facts, such as the exact layout of a defense network, the GM may require you to make a successful Intelligence Test to recall the information. Together with Eidetic Memory, your character can be considered to have “perfect memory.“ </em></p>
+
+##### malExpTal0000084 | Knowledge | Unparalleled Proficiency
+REQ: 1 Advance in 3 separate Lore Specializations
+<p>+IntB/2 SL (unaugmented) to any successful Lore/Linguistic test</p><hr><p><em>You add half your unaugmented Intelligence Bonus (rounding up) to the Success Levels of any successful Lore or Linguistics Test.</em></p>
+
+##### malExpTal0000085 | Leadership | Annihilate Them!
+REQ: 2 Advances in Melee, 2 Advances in Presence(Leadership), Inspiring Presence Talent
+<p>Once/Encounter: test Presence-30 (+5 for each participating ally). On success: allies charge as a joint, out-of-order action</p><hr><p><em>Once per encounter as an action, make a Very Hard (-30) Presence (Leadership) Test with a +5 Bonus for each ally participating in this action. If you succeed, your allies rush forward with you in a joint Charge Action. The allies that were part of this charge can take their turn normally on their subsequent turn, but do not gain the benefits of Charging and are likely starting their turn in melee.  </em></p>
+
+##### malExpTal0000086 | Leadership | Final Judgement
+REQ: 2 Advances in Discipline, Deadeye Talent
+<p>Once/Encounter, after a Ranged kill: spend FP, test Presence. On success:allies within medium range gain 5xSL bonus to next BS/WS attack. Enemies within Medium range take the same amount as a penalty</p><hr><p><em>Once per encounter, after killing a target with a Ranged Attack, you may spend a Fate point and make a Challenging (+0) Presence (Leadership) Test. If you succeed, all allies within Medium Range gain a bonus equal to 5 times the Success Levels to the next Ballistic Skill or Weapons Skill test they make before the end of the encounter, and each foe within Medium Range suffers a penalty equal to 5 times the Success Levels to their next Ballistic Skill or Weapons Skill Test they make before the end of the encounter. </em></p>
+
+##### malExpTal0000087 | Leadership | Inspire Wrath
+REQ: Air of Authority Talent
+<p>Action: test Charm/Deception/Leadership/Intimidation to grant allies in Medium rangethe Hatred talent. Can be opposed by Discipline(Composure)</p><hr><p><em>As an Action, you can make a Rapport (Charm), Rapport (Deception), Presence (Leadership), or Presence (Intimidation) Test to grant the effects of the Hatred Talent to any allies within Medium Range. Success on the Test grants the Hatred Talent, with the object of their Hatred being chosen by you for the duration of the encounter. Listeners can resist the effects of your speech (and therefore not gain hatred) by passing an Opposed Discipline (Composure) Test against whichever test you make. Both you and the GM should bear in mind, however, once a crowd is inspired to hatred or mindless anger, the effects can be unpredictable.</em></p>
+
+##### malExpTal0000088 | Leadership | Into the Jaws of Hell
+REQ: Inspiring Presence Talent
+<p>Followers (not players) are immune to Frightening&Pinning while you lead by example</p><hr><p><em>Your followers become immune to the effects of the Frightening Talent and being pinned as long as you are physically there to lead them, and they can see you leading by example. Other player characters cannot benefit from this talent</em></p>
+
+##### malExpTal0000089 | Medicae | Angel of Mercy
+REQ: 2 Advances in Medicae
+<p>+1SL to determine healed wounds. May split number of healed wounds between multiple characters</p><hr><p><em>You are unyielding in rendering medical assistance to as many as you can, never resting when there is work to be done. Add +1SL to your Medicae Tests when determining how many wounds you can heal.Additionally, you may split the number of wounds you heal between multiple characters</em></p>
+
+##### malExpTal0000090 | Medicae | Don't you Die on me!
+REQ: Master Chirurgeon Talent, Methodical Care Talent
+<p>Revive ally dying from Blood Loss up to IntB rounds after "death" by spending a FP and succeed at Medicae-30 test</p><hr><p><em>Whenever an ally dies from Blood Loss, you have a chance to bring back the fallen comrade from the brink for a number of rounds equal to your Intelligence Bonus. During this time, if you are close enough to treat your “dead” ally, you may spend a Fate Point and make a Very Hard (-30) Medicae Test in an attempt to revive them. This test requires an action, and you must spend a Fate Point each time you wish to attempt it. If you succeed on one of these tests within a number of rounds equal to your Intelligence Bonus, you manage to bring back the fallen ally from the edge. This does not in any way reverse any other consequences of the injury that “killed” the character, such as lost limbs.</em></p>
+
+##### malExpTal0000091 | Medicae | Enhanced Healing
+REQ: 1 Advance in Medicae
+<p>Restore an additional d5 wounds with Medicae tests</p><hr><p><em>Each time you restore wounds on a Medicae Test, you restore an additional 1d5 wounds.</em></p>
+
+##### malExpTal0000092 | Medicae | First Response
+REQ: 2 Advances in Medicae
+<p>Once/Encounter: make Medicae check to heal as a free action</p><hr><p><em>You have an unerring knack for being in the right place at the right time when someone needs patching up. Once per encounter, you can make a Medicae test to heal wounds as a Free Action.</em></p>
+
+##### malExpTal0000093 | Medicae | Master Chirurgeon
+REQ: 4 Advances in Medicae, Superior Chirurgeon Talent
+<p>+2SL on all Medicae checks (replacing bonus of Superior Chirurgen). Restore double the critical wounds on success</p><hr><p><em>You gain a +2SL Bonus on all Medicae Tests (this is not cumulative with the bonus from Superior Chirurgeon, it replaces it). If treating a Critically Wounded patient, a successful Test heals twice the amount of Wounds. </em></p>
+
+##### malExpTal0000094 | Medicae | Methodical Care
+REQ: 2 Advances in Medicae, Swift Suture Talent
+<p>Heal all wounds of a target out-of-combat with an extended Medicae check</p><hr><p><em>When you would like to heal wounds outside of combat, you may choose to turn it into an Extended Medicae Test to heal all the patient’s wounds overtime, with an appropriate amount of SLs required as dictated by the GM. If the test is done successfully with no failures, an appropriate Injury as selected by the GM will also be healed automatically. </em></p>
+
+##### malExpTal0000095 | Medicae | Superior Chirurgeon
+REQ: 3 Advance in Medicae
+<p>+1SL on all Medicae checks, first aid in combat is done at +10</p><hr><p><em>You gain a +1SL Bonus on all Medicae Skill Tests. When providing first aid during combat, the test is Ordinary (+10) instead of Challenging</em></p>
+
+##### malExpTal0000096 | Medicae | Swift Suture
+REQ: 1 Advance in Medicae
+<p>End Bleeding (Minor) condition when succeeding a Medicae test on a patient</p><hr><p><em>Whenever you succeed on a Medicae Test, you also end the Bleeding (Minor) Condition if your patient has it.</em></p>
+
+##### malExpTal0000120 | Piloting | Ace Operator
+REQ: 2 Advances in Piloting or Athletics(Riding)
+<p>On Failed Piloting/Riding: spend FP to reduce failure by AgiB (or IntB for Voidship piloting). May turn the failure into a Success.</p><hr><p><em>Whenever you fail a Piloting or Athletics (Riding) Test, you may spend a Fate Point to reduce your Degrees of Failure on the test by your Agility Bonus. When using Piloting (Minor/Major Voidship), you  reduce them according to your Intelligence instead.</em></p>
+
+##### malExpTal0000121 | Piloting | Best of the Best
+REQ: Talented (Piloting (Any)) or Talented (Athletics (Riding)) Talent
+<p>Automatically win ties in opposed Piloting/Riding checks</p><hr><p><em>Whenever you make an Opposed Piloting or Athletics (Riding) Test, if you and your opponent have the same number of Success Levels, you count as winning the Test (in essence, you automatically win ties).</em></p>
+
+##### malExpTal0000122 | Piloting | Drop Trooper
+REQ: 1 Advance in Piloting(Aeronautica)
+<p>Using Grav-Chute: may reroll Reflexes(Dodge) test. May push extended use time of Chutes to 20 minutes</p><hr><p><em>When descending with a Grav Chute, the character may reroll Reflexes (Dodge) tests to avoid being hit. Additionally, the character is more used to pushing their equipment to the limit and can extend the use of the Grav Chute to last for 20 minutes with careful operation.</em></p>
+
+##### malExpTal0000123 | Piloting | Hotspot Pilot
+REQ: 2 Advances in Piloting or Athletics(Riding)
+<p>On Failed Piloting/Riding: may suffer Fatigued to reduce failed SL by AgiB/2 (min -1). On success: may suffer Fatigued(Minor) to add AgiB/2 SL on top</p><hr><p><em>When you succeed on a Piloting or Athletics (Riding) Test, you may suffer the Fatigued (Minor) Condition to add a number of Success Levels equal to half your Agility Bonus. When you fail a Piloting or  athletics (Riding) Test, you may voluntarily suffer the Fatigued Condition to reduce the failed SLs by an amount equal to half your Agility Bonus to a minimum of -1.</em></p>
+
+##### malExpTal0000124 | Piloting | Mounted Warrior
+REQ: 2 Advances in Piloting or Athletics(Riding)
+<p>On attack from moving vehicle/mount: base attack difficulty cannot be worse than -10. This does not reduce penalties from other circumstances</p><hr><p><em>Whenever you make an attack from a moving vehicle of mount, you count the difficulty as being at Difficult (-10) or less even if the Action describes the base difficulty as being worse. This applies to both ordinary attack actions and special vehicle and mount combat actions. This does not remove penalties from environmental conditions such as smoke, darkness, etc. </em></p>
+
+##### malExpTal0000125 | Piloting | Push the Limit
+REQ: 2 Advances in Piloting or Athletics(Riding)
+<p>1/round: may add +2SL to Piloting or Riding test. If test fails or getting a nat 100, roll d5 on the Crit Table</p><hr><p><em>Once per round, you may add +2SL to a Piloting or Athletics (Riding) Test, however, if you fail the test or roll an unmodified 100, immediately roll 1d5 on the Vehicle Critical Hit Table or the Legs Critical Hit Table in the case of a living mount and apply the result. </em></p>
+
+##### malExpTal0000126 | Piloting | Skilled Rider
+REQ: 1 Advance in Piloting or Athletics(Riding)
+<p>On thrown off vehicle/mount: Check Agility+10, on success remain seated or land savely on your feet@ground. May test Reflexes(Dodge)+10 to avoid taking damage from ciritcal hits on mount/vehicle</p><hr><p><em>Whenever you would be thrown from your vehicle or mount, you may make an Ordinary (+10) Agility Test. If you succeed, you land safely on your feet or retain your position in the vehicle/mount.  If you would be subject to damage from any other effects from a vehicle or mount suffering Critical Damage, you may make an Ordinary (+10) Reflexes (Dodge) Test to avoid the consequences of it before any other tests to avoid it. </em></p>
+
+##### malExpTal0000142 | Social | Ambassador Imperialis
+REQ: 1 Advance in Rapport, 1 Advance in Lore
+<p>1/Encounter: reroll failed Social skill test with Xeno/Non-Imperials. Also reduce penalties of such interactions by 10</p><hr><p><em>When you are making a Social Skill test when dealing with Xenos or other non-Imperial NPCs, reduce any penalty by 10. In addition, you may reroll a single failed Social Skill test per encounter when interacting with such an NPC.</em></p>
+
+##### malExpTal0000143 | Social | Clues from the Crowds
+REQ: 1 Advance in Rapport(Inquiry)
+<p>1/day: reroll test when gathering info from group of people</p><hr><p><em>Once per day, you can re-roll a test made to gather information from a group of people. </em></p>
+
+##### malExpTal0000144 | Social | Coordinated Interrogation
+REQ: Clues from the Crowd Talent, 1 Advance in Presence(Interrogation)
+<p>+1SL to all Presence(Interrogation). Additional +1SL for every 2 aiding characters with the same Talent. You gain effect of being Helped</p><hr><p><em>A trained interrogator, especially when working in conjunction with others, can induce cooperation from even the most hardened of suspect and heretics. You gain a +1SL bonus to all Presence (Interrogation) Tests, and an additional +1 SL for every two other characters participating in the interrogation who also have Coordinated Interrogation. You will also gain the effects of being Helped (IM CRB pg. 189). </em></p>
+
+##### malExpTal0000145 | Social | Ear to the Ground
+REQ: 1 Advance in Logic(Evaluation)
+<p>Advantage to Trade/Sell illicit goods, +1SL to avoid or deflect notice about this</p><hr><p><em>You gain Advantage on tests related to Trading or Selling illicit goods. Furthermore, you learned to avoid the attention of the authorities, and gain +1SL on Rapport (Deception) Tests to avoid or deflect notice about these dealings.</em></p>
+
+##### malExpTal0000146 | Social | Eloquent
+REQ: 2 Advances in Rapport(Charm)
+<p>+1SL to Rapport(Charm) & (Inquiry)</p><hr><p><em>You gain +1SL when making a Rapport (Charm) or Rapport (Inquiry) Test.</em></p>
+
+##### malExpTal0000147 | Social | Face in the Crowd
+REQ: Clues from the Crowds talent
+<p>When shadowing a target through crowds/gathering: use Fellowship instead Agility on Stealth</p><hr><p><em>With training, you can ensure no-one notices your presence through careful replication of a crowds mannerisms or even joining gatherings while keeping an eye on your quarry. When making a stealth test to follow an enemy, you use your Fellowship characteristic instead of Agility. </em></p>
+
+##### malExpTal0000148 | Social | Fashionista
+REQ: -
+<p>Gain extra SL to Rapport first time you appear in fancy clothes. Modifier depends or rarity.  Scarce +1, Rare +2, Exotic +3</p><hr><p><em>You remain on the cutting edge of Gothic fashion, delighting in any opportunity to make a memorable entrance. When acquiring Clothing, you gain +SL equal to Rapport tests equal to the value of the rarity of the clothing (+1 for Scarce, +2 for Rare, +3 for Exotic) in situations where your appearance would make a positive impression. You only gain this benefit for a single mission – after that, reappearing in the same outfit provides no bonuses. </em></p>
+
+##### malExpTal0000149 | Social | Spheres of Influence
+REQ: +2 Influence with a Faction
+<p>May spend FP to locate a nearby junior member of a Faction you have 2+ Influence and kick off a professional contact</p><hr><p><em>Your privileged position affords you access to a myriad of contacts that may be able to aid you. At any time, you may spend a Fate Point and nominate a faction you have +2 Influence with. Subject to GM approval, you may detail a junior member of the Faction in your approximate vicinity. This individual does not work for you, but you have a professional relationship, and you know how to contact them. They may help you, if it is not too great an inconvenience or are provided with a powerful incentive. </em></p>
+
+##### malExpTal0000151 | Social | Whispers
+REQ: 2 Advances in Rapport(Inquiry)
+<p>+1SL on Rapport (Inquiry) after a week working in an area or with a Personal Contact</p><hr><p><em>If you spend a week living in a locale, or having a Personal Contact (pg. 193) that operates in the area, you gain +1SL on Rapport (Inquiry) Tests. </em></p>
+
+##### malExpTal0000152 | Tech | Accelerated Repairs
+REQ: 2 Advances in Tech, 2 Advances in Tech(Engineering)
+<p>Rush (repair) Job only takes -10 penalty. Careful Repairs: additional time is only 25% (not 50%)</p><hr><p><em>You may now perform Repair Tests at a swifter rate. When opting to perform a Repair Test as a Rush Job, you suffer a -10 Penalty instead of the normal -30. When electing to make Careful Repairs, you increase the repair time by 25% instead of 50% (a repair that would take 12 hours takes 15 hours instead of the 18 it would normally take with Careful Repairs).</em></p>
+
+##### malExpTal0000153 | Tech | Armor-Monger
+REQ: 2 Advances in Tech
+<p>Gain IntB armor points you can distribute over your armor locations. Must spent 1h per day on your armor. For you only</p><hr><p><em>You gain an extra amount of Armor Points equal to your Intelligence Bonus, which you can distribute to any locations that your armor normally covers as long as you spend at least an hour a day to clean and repair it, or make minor modifications. This bonus only applies to armor when you are wearing it. </em></p>
+
+##### malExpTal0000154 | Tech | Battlefield Tech-Wrigth
+REQ: 1 Advance in Tech, 1 Advance in Tech(Engineering)
+<p>No penalties for Tech/Repair tests due to external distractions, reduce penatlies due to tools/working conditions by 10</p><hr><p><em>You no longer suffer any penalties to Tech or Repair Tests due to external distractions and reduces all penalties from poor tools or working conditions by a total of 10 (so a Hard (-20) Repair Test to fix a tank in a swamp would become Difficult (-10) instead).</em></p>
+
+##### malExpTal0000155 | Tech | Rite of Static Overload
+REQ: One or more cybernetic limbs, 1 Advance in Tech(Augmetics)
+<p>Action: Tech (Augmentics)+0 to give one cybernetic the Inflict (Stunned) quality for IntB rounds, on -4SL or once it ends: cybernetic shuts down and must be repaired Tech(Augmetics)+20</p><hr><p><em>You may make a Challenging (+0) Tech (Augmetics) Test as an Action to channel the energies within one of your cybernetic limbs outwards. If you succeed, for a number of rounds equal to your Intelligence Bonus, your attacks with these limbs (be they unarmed attacks, attacks with an inbuilt weapon, or with a Mechadendrite) gain the Inflict (Stunned) Quality. Once the number of rounds that had been determined are over, or if you had failed the test by -4SL or worse, your cybernetic limbs shut down until you can dedicate several minutes to fixing it with a Routine (+20) Tech (Augmetics) Test.</em></p>
+
+##### malExpTal0000156 | Tech | Telecryptographer
+REQ: 1 Advance in Lore, 2 Advances in Tech(Security)
+<p>+2SL to jam/intercept/decode, may spend action to encrypt allied channels requiring enemies to bypass with SL higher than your IntB</p><hr><p><em>You are a student of informational warfare, as fluent at intercepting enemy communications as guarding your own. You gain +2SL on Tech (Security) tests to jam, intercept, or decode enemy vox traffic (or equivalent). You may also spend an action encrypting allied communications to prevent unauthorized access, which can only be bypassed by the enemy if they score a number of SLs equal to your intelligence bonus.</em></p>
+
+##### malExpTal0000157 | Tech | Weapon-Tech
+REQ: Intelligence 40, 1 Advance in Tech(Engineering)
+<p>1/Encounter: Free Action: enhance personal Las/Melta/Plasma/Power: increase damage & Penetrating by IntB for 1 round</p><hr><p><em>Once per encounter as a Free Action, you may enhance any Las, Melta, Plasma, or Power weapon you are personally wielding. This increases the weapons Damage and the Penetrating Quality (if applicable) by an amount equal to your Intelligence Bonus until your next turn.</em></p>
+
+##### malExpTal0000225 | Stealth | Ambush
+REQ: 1 Advance in Stealth
+<p>On attacking surprised targets: +1 damage for each 2 SL</p><hr><p><em>The Tactica Imperialis teaches that a battle is easily won if they do not know they are fighting, and you take this maxim to heart. Your attacks against Surprised Targets inflict 1 additional damage for every +2SL on the attack Tests beyond the first.</em></p>
+
+##### malExpTal0000226 | Stealth | Deference for Darkness
+REQ: 2 Advances in Stealth
+<p>+2SL to Hide and Attack while Hidden if in dark or poorly lit zone</p><hr><p><em>When under the cover of the Dark or Poorly Lit features in a zone, you gain a +2SL bonus on Stealth Tests to Hide and avoid being hit, and gain +2SL on tests to attack while hidden (CRB pg. 214)</em></p>

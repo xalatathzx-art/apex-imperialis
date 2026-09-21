@@ -1,0 +1,59 @@
+{
+  "name": "Combat Sense",
+  "type": "talent",
+  "_id": "malExpTal0000003",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">May calculate initiative as follows: 2 x PerB</span></p><hr><p><span style=\"font-family: Arial\"><em>You have the ability to consciously recognize the prodding of your subconscious as it reacts to your preternaturally sharp senses, giving you an edge that mere speed cannot match. You may use 2x Perception Bonus instead of Perception Bonus + Agility Bonus when determining your initiative</em></span></p>",
+      "gm": "Talent Category: General"
+    },
+    "requirement": {
+      "value": "1 Advance in Awareness",
+      "script": "return this.actor.system.skills.awareness.advances >= 1"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "KmCDAtV80ZeH9J36",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 4700000
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Last Man Standing",
+  "type": "talent",
+  "_id": "malExpTal0000059",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Immune to pinning from Pistol/Long Guns, +1 Armor cover</span></p><hr><p><span style=\"font-family: Arial\"><em>You are immune to getting Pinned by Pistols and Long Guns, and add +1 Armor to any cover protecting you from ranged attacks.</em></span></p>",
+      "gm": "Talent Category: Defense"
+    },
+    "requirement": {
+      "value": "3 Advances in Discipline and 1 Advance in Discipline(Fear)",
+      "script": "return this.actor.system.skills.discipline.advances >= 3 && (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Fear\" && i.system.skill == \"discipline\")?.system?.advances >= 1)"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "WEnXbKeY9xtR01uo",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 900000
+}

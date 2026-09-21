@@ -1,0 +1,133 @@
+
+=== Drukhari < Xenos (14)
+0BNmH6VFM4L2cahw | Kabalite Warrior | GM 86ch
+6LLW1U5XUSuafWdM | Ariadne Helspider | GM 25ch
+6iIKvG235onEsSAU | Wych | GM 118ch
+87gYHi4g2GH9aifU | Khymera | GM 25ch
+HGtLUCtTPHM5QW9H | Wrack | GM 65ch
+UFGSnLH6ZAFzQQjH | Razorwing | GM 25ch
+ULGkBmxMoSmapHE6 | Grotesque | GM 25ch
+YwULlBZZIXsJmjKb | Trueborn Kabalite | GM 86ch
+ZV3pVFREihQfVw9v | Clawed Fiend | GM 25ch
+gF1afj8U4oBwSWoO | Succubus | GM 108ch
+mA2YoAblWFrySMaP | Beastmaster | GM 118ch
+x7vkk80Em0f4Rqqx | Haemonculus | GM 57ch
+z5jBCYPryAq6xTq6 | Archon | GM 141ch
+z8z64r0SbQF5vVan | Hekatrix | GM 118ch
+
+=== Genestealer Cults (19)
+0PoMQDBqgH3v3F3a | Genestealer Patriarch | GM 191ch
+7kkv6sagzBLYKQA7 | Sanctus | GM 120ch
+9l8qcla6OOzVLUci | Clamavus | GM 163ch
+A8r5IslWdpZsUdtn | Nexos | GM 77ch
+CdciKk5hs2JZzZFr | Purestrain Genestealer | GM 25ch
+IJqWzuI5uhOKVL1T | Primus | GM 80ch
+KpiWMjEAoTXdCQuV | Reductus Saboteur | GM 125ch
+RUss3KRMQF64b8Nj | Benefictus | GM 77ch
+XgMbz0rnGTDHMZh8 | Neophyte Hybrid | GM 83ch
+ddkoCdiXHCRDuEd3 | Acolyte Hybrid | GM 65ch
+gGrS5hdnYYO3WxYf | Locus | GM 65ch
+hQhfb5VZKmHkHxWD | Atalan Jackal Alphus | GM 185ch
+hhP2Hec8CfzzAo6L | Magus | GM 77ch
+op6vfiOvW0465Kxz | Hybrid Metamorph | GM 47ch
+ssHnkjNe2qt8iHWB | Aberrant | GM 25ch
+uHUNMldJXblTlOUL | Kelermorph | GM 87ch
+vFnM2eyyRkaqwk72 | Biophagus | GM 118ch
+vsIpwrPBvZDXUBth | Abominant | GM 158ch
+xyJ1E1TFCRsx0iCQ | Atalan Jackal | GM 185ch
+
+=== Necrons < Xenos (14)
+0zdoHTA3qra0ezmp | Necron Pariah | species: Necron
+3J3FXJDoVx7F2fBw | Necron Warrior | species: Necron
+6j6BmJAbNYCZiTJk | Chronomancer | species: Necron
+7Rm6c6zzCYZLF0Za | Apprentek | species: Necron
+NzNFvWWt8uwtFHFE | Plasmancer | species: Necron
+UfHJrWfwgYbGSy0I | Cryptothrall | species: Necron
+WfXBpsGGwb1fmkGJ | Flayed One | species: Necron
+d62GTGS5LuGpyvpc | Royal Warden | species: Necron
+dawCrDsgzIVIahXa | Necron Lord | species: Necron
+j7wwM5r6sTEn61Nz | Triarch Praetorian | species: Necron
+m44KOj2QIkBk0zSh | Psychomancer | species: Necron
+oHvtyzFWhqDx21zt | Deathmark | species: Necron
+rbic8cIvXjLHWwLO | Necron Immortal | species: Necron
+uqKuHCSeZu4gcEGS | Lychguard | species: Necron
+
+=== T'au Empire < Xenos (15)
+1B0XLaT5TmMzauqG | Krootox | species: Kroot (T'au Empire) | GM 25ch
+NHk6Q7g6XDEPdx5e | XV8 Crisis Battlesuit Commander | GM 57ch
+OkJkdPIAUEK7sORF | Fireblade | GM 51ch
+Rp1sJd9qszIOnOvy | Pathfinder | GM 112ch
+VPFu0L710maQeI92 | Fire Warrior Shas'ui | GM 155ch
+YmXYnuAeJNsJwoEX | Great Knarloc | GM 25ch
+fSf7TWF7N5XIBziq | Knarloc | species: Kroot (T'au Empire) | GM 25ch
+iAa6FUcSWBQw7sEI | XV88 Broadside Battlesuit | GM 40ch
+iqlBJqn1YEGwyZIz | Ethereal | GM 36ch
+lQ2JK6z4dKZrHlzQ | Vespid Stingwing | species: Vespid (T'au Empire) | GM 35ch
+lRKYz7A1zWSaw9Yx | Fire Warrior | GM 155ch
+qj6qDEezEs2hcPUJ | Kroot Shaper | GM 41ch
+r04KD18QKVuusCLx | Kroot Hound | GM 25ch
+rXdL5kycjxZybMda | T'au Drone | species: Drone (T'au Empire) | GM 156ch
+zhCTTr10tJZBAiKs | XV8 Crisis Battlesuit | GM 57ch
+
+=== Heretics < Chaos (20)
+1OJKulqkev5lEMLs | Cultist | GM 121ch
+3pMh7o8jfe3Dy5CX | Renegade Guardsman | GM 168ch
+4ImbUXQHWz8IDIez | Ogryn Brute | GM 54ch
+4Jk1oVdjGtd5c9zH | Dybuk Killer | GM 25ch
+CcSXZ0z4q8cHxwj4 | Chaos Beastman | GM 50ch
+IUvwmGXYR8y2jVCM | Rogue Psyker | GM 60ch
+JHtzgjr7MmMFr5eX | Chaos Hound
+JMcIyfHaBy9wdWqV | Blessed Blade | GM 97ch
+JtYUQihc16fV1tEn | Renegade Officer | GM 170ch
+NcT5GMfecUIrpXmZ | Cult Fanatic | GM 86ch
+Nnj4SpPrrqWFGnac | Tech-Assassin | GM 92ch
+Ok1dZp5fP32sU8ke | Traitor Legionnaire | GM 58ch
+WHfkNjgZDxKck2Yy | Accursed Cultist | GM 71ch
+imbAhYrnQLKtkupF | Fallen Demagogue | GM 83ch
+lhDyjqsevhW1V4Od | Renegade Sergeant | GM 168ch
+n0Aewqp7XCqnASGY | Cult Leader | GM 109ch
+nB9CcOGWYOO4cTki | Renegade Veteran | GM 272ch
+sgUiNyrw8cKunx5G | Iconarch | GM 54ch
+ufM7D4XtJT1N1AnH | Cult Gunner | GM 121ch
+uxPTiBlNKxqICCEt | Chaos Spawn | GM 25ch
+
+=== Wildlife (8)
+43qHdKCRGD4fc2jD | Mutant Rat Swarm | GM 127ch
+FrCfZ4U2EqkNk6sE | Boreworm | species: Worm (Fauna)
+QKnY8qS0BFn7Bwpk | Gloomhaunt
+dXt5yN84Bl3WWWqW | Horse
+g6pD96mjTwnxv9aL | Xothic Blood Locust Swarm | species: Blood Locust (Swarm) | GM 113ch
+kjKWREhbiGjlvhkT | Ambull | species: Ambull (Fauna) | GM 92ch
+lRRLiiRejeKx0gbV | Grox | species: Grox (Fauna)
+rK0tCb27brLe0Vyh | Pit Thing | species: Pit Thing (Fauna)
+
+=== Aeldari < Xenos (9)
+62mNCMCAG2vHrZ4B | Storm Guardian | GM 108ch
+69rIO6tBuRK2j1If | Dire Avengers | GM 78ch
+6k4a9ISApmCr13Ul | Howling Banshee | GM 80ch
+8rj21UuYYCUefznd | Dark Reaper | GM 72ch
+N4awcLNngZQCSJl6 | Warp Spider | GM 95ch
+W1RA4cMNeuoNZmw8 | Guardian Defender | GM 70ch
+XwpbbYbwPNENDjfl | Aeldari Ranger | GM 77ch
+fWHLLJh0pqxi3bzc | Fire Dragon | GM 88ch
+sSKh7CK2WpzAncBz | Striking Scorpion | GM 72ch
+
+=== Adeptus Mechanicus < Imperium (15)
+6Zz5lpXS9kvfLNX6 | Skitarii Marshal
+91DwM4Ye8gR1vlKH | Serberys Raider
+EiySlgxW6qNtLC7U | Serberys Sulphurhound
+Fc0BW9wtQ2COVPbV | Skitarii Alpha
+J0KS0IYWMdTvx3JJ | Sicarian Infiltrator
+KygWHyF8FYnGWq5N | Skitarii Vanguard
+MnM8VGR9PyWdzg9e | Secutarii Axiarch
+OIOU5Dx1dH685CGN | Skitarii Ranger
+UJ2bCWx9d4UpEGKs | Sicarian Ruststalker
+WAPLT4jYlJdiArdH | Secutarii Hoplite
+XpJWP5aFuTShXanI | Pteraxii Sterylizor
+fWkdBJvhL3JbJl8c | Sydonian Skatros
+frBHfA1AihOsn8XS | Pteraxii Skystalker
+pHbuOveGFzUWcI5I | Secutarii Peltast
+sJVfCfqD0mwCjAtD | Serberys
+
+=== Nurglite < Legiones Daemonica < Chaos (1)
+JdwePVHZvFhC5Tr5 | Herald of Nurgle

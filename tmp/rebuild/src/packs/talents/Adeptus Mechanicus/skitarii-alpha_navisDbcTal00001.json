@@ -1,0 +1,58 @@
+{
+  "name": "Скитарий Альфа",
+  "type": "talent",
+  "_id": "navisDbcTal00001",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p>Посвящение во внешние тайны Техножречества позволяет Скитарию лучше настроить свои Латы на совместимость с благословенными Модулями Скитарии.</p><p>Максимум ваших <strong>установленных</strong> и <strong>активных</strong> Модулей растёт на <strong>1</strong>.</p>",
+      "gm": "DoomBC стр. 102. Требует Боевых Лат Скитарии. module/implants/test-mods.js сопоставляет этот талант по имени (TALENT_NAMES.tuning): он поднимает оба потолка Модулей на 1."
+    },
+    "requirement": {
+      "value": "Боевые Латы Скитарии, Выносливость 40, Знания (Механикум)",
+      "script": ""
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 200,
+    "xpCost": 200,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "reference": "DoomBC стр. 102"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "folder": "v1jaQSwVla5DGTQg",
+  "ownership": {
+    "default": 0
+  },
+  "sort": 500000
+}

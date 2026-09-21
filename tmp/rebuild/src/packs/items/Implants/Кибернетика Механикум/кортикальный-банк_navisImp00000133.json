@@ -1,0 +1,70 @@
+{
+  "name": "Кортикальный Банк",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000133",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 13300,
+  "system": {
+    "notes": {
+      "player": "<p>Контейнер и система жизнеобеспечения для вторичных мозгов, служащих банками данных для основного мозга Механикум — вмещает до трёх, каждый хранит до четырёх Навыков Знаний.</p><p>Устанавливается только персонажу с чертой Импланты Механикум, не более одного экземпляра. Операция по установке персонажу вне Техножречества — услуга Редкости 4.</p>",
+      "gm": ""
+    },
+    "rules": "<p>На проверки этих Знаний владелец делает дополнительный бросок за каждый хранящий их мозг и берёт лучший результат. В банк можно поместить чужой мозг, получив доступ к его Знаниям.</p>",
+    "page": "DoomBC стр. 276",
+    "category": "mechanicum",
+    "rarity": 4,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 15000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Только один контейнер под мозг.",
+      "2": "",
+      "3": "Можно тратить Заряд одного из мозгов на поддержку Процессов и Ноосферы.",
+      "4": "Можно тратить Заряд одного из мозгов как свой."
+    },
+    "slot": "cortex",
+    "side": "",
+    "location": "head",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 276",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

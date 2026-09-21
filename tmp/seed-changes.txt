@@ -1,0 +1,22 @@
+inquisition | Unarmed | Безоружный бой → Безоружная атака
+inquisition | Combi-Tool | Комбиинструмент → Комби-инструмент
+voll | Call for Backup | Вызвать подкрепление → Вызов подкреплений
+voll | Home Turf | Своя территория → Наша земля
+voll | Gang Colours | Цвета банды → цвета банды
+voll | Bureaucratic Boldness | Бюрократическая уверенность → Чиновничья честь
+voll | Chief Whip | Главный надсмотрщик → Погонщик
+voll | several scrolls filled with records | Несколько свитков с записями → несколько свитков с записями
+voll | Malefic Psyker | Колдун-псайкер → Псайкер-малефик
+voll | Incarceratus | Инкарцератус → Инкарцерация
+voll | Ambusher | Засадник → Засада
+voll | Adeptus Mechanicus robes | Робы Адептус Механикус → одеяния Адептус Механикус
+voll | Ragged clothes | Рваная одежда → рваная одежда
+voll | Infractionist Ruler | Вожак инфракционистов → Главарь
+voll | Unrestrained Power | Необузданная сила → Несдерживаемая мощь
+voll | Argent Tongue | Серебряный язык → Красноречие
+voll | Light Leathers | Лёгкие кожи → лёгкий кожаный доспех
+voll | an Auspex | Ауспик → ауспик
+voll | 1d10 x 100 solars | 1d10 × 100 соляров → 1к10 × 100 соляров
+voll | Flaccid Fists | Дряблые кулаки → Вялые кулаки
+voll | Summary Execution | Казнь на месте → Полевая казнь
+voll | a pair of dog tags | Пара армейских жетонов → пара солдатских жетонов

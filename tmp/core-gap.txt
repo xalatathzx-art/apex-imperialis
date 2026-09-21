@@ -1,0 +1,12 @@
+### talent | Sanctioned Psyker | x 4 | 4neMMGpoX4oC0yOt Астропат; QiMSgysDqIaNjdGp Биомант-примарис; Voy7lhLzRunxvWkM Псайкер-примарис; vaqtX7WfPsT0Y8NR Пиромант-примарис
+<p>The Primaris Psyker has a Warp Threshold equal to double their Willpower bonus.</p>
+### talent | Martyrdom | x 1 | 5a6Q3NRdPonZjiGr Убийца из культа смерти
+<p>When the Death Cult Assassin suffers one or more Wounds, they lose the @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Frightened} Condition if they have it. @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Frightened} allies in Short Range who can see the Death Cult Assassin may immediately make a Discipline (Fear) Test with Advantage as a Free Action. Characters who succeed are no longer @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Frightened}.</p>
+### talent | Psyker | x 3 | Boq9jjqKp2eDcVe8 Голубой ужас; CAvzgSBWrbnHu8zi Розовый ужас; jPEYTvQIqOBwHU6q Серный ужас
+<p>The Brimstone Horror knows the Smite psychic power. As a daemon, they have no Warp Threshold.</p>
+### talent | Void Legs | x 3 | ipcjevVXtDR4XkNu Капитан пустотного корабля; kYpTOdUezMczq5eC Пустоход; pXsZLEawZr8Tf8Ym Оруженосец
+<p>The Armsman does not suffer Disadvantage due to environmental effects specific to the void, such as a ship rocking or zero gravity.</p>
+### talent | Data Delver | x 1 | vds8HRa533wcv1Pq Адепт Администратума
+<p>The Administratum Adept has Advantage on Tests made to find or retrieve information from a document or archive (whether analog or digital).</p>
+### talent | Deadeye | x 1 | xHzo06YI2vDu4kM0 Альдарский странник
+<p>When the Aeldari Ranger uses the Aim Action they gain +1 SL to their Ranged Attack Test.</p>

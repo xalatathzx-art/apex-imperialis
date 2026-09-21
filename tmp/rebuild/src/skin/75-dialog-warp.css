@@ -1,0 +1,454 @@
+/* ══════════════════════════════════════════════════════════════════════════
+   NAVIS APEXIALIS SKIN — 75 ROLL DIALOG AND WARP CHARGE
+   ══════════════════════════════════════════════════════════════════════ */
+
+
+/* ══ ROLL DIALOG — advantage · normal · disadvantage ═══════════════════════
+   impmal renders three bare radios, and its labels are not tied to them, so
+   only the dot is clickable. Here each option is a plate: the radio is laid
+   invisibly over the whole plate, so the plate is the target and the keyboard
+   still works, and the chosen state wears its meaning — advantage green,
+   normal brass, disadvantage red.
+   Markup: systems/impmal/templates/apps/test-dialog/dialog-state.hbs */
+
+body.navis-skin .application.roll-dialog-v2 .adv-dis {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 6px;
+  margin: 10px 0 2px;
+}
+body.navis-skin .application.roll-dialog-v2 .adv-dis > div {
+  --st: var(--navis-brass);
+  container-type: inline-size;
+  display: block;
+  position: relative;
+  min-width: 0;
+  margin: 0;
+}
+body.navis-skin .application.roll-dialog-v2 .adv-dis > div:has(> input[value="adv"]) { --st: var(--navis-success); }
+body.navis-skin .application.roll-dialog-v2 .adv-dis > div:has(> input[value="dis"]) { --st: var(--navis-danger); }
+
+body.navis-skin .application.roll-dialog-v2 .adv-dis > div > input[type="radio"] {
+  appearance: none;
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+/* Child combinators throughout: the Normal option's label also carries the
+   class state-label, and must not become a plate inside the plate. */
+body.navis-skin .application.roll-dialog-v2 .adv-dis > div > .state-label {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 36px;
+  margin: 0;
+  padding: 0 8px;
+  background: var(--navis-field);
+  border: 1px solid var(--navis-line);
+  border-bottom: 2px solid var(--navis-line);
+  transition: background-color var(--navis-transition), border-color var(--navis-transition), box-shadow var(--navis-transition);
+}
+body.navis-skin .application.roll-dialog-v2 .adv-dis > div > .state-label > label {
+  height: auto;
+  margin: 0;
+  padding: 0;
+  background: none;
+  pointer-events: none;
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-family: var(--navis-font-stencil);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--navis-ink-faint);
+  transition: color var(--navis-transition);
+}
+/* The count of sources rides in the corner, so the label keeps the whole width
+   of a narrow dialog column. */
+body.navis-skin .application.roll-dialog-v2 .adv-dis > div > .state-label > .state-value {
+  position: absolute;
+  top: -7px;
+  right: -4px;
+  z-index: 2;
+  pointer-events: none;
+  min-width: 16px;
+  width: auto;
+  height: 16px;
+  padding: 0 4px;
+  line-height: 14px;
+  text-align: center;
+  background: var(--navis-surface);
+  border: 1px solid var(--navis-line);
+  font-family: var(--navis-font-text);
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--navis-ink-faint);
+  transition: background-color var(--navis-transition), color var(--navis-transition);
+}
+
+/* impmal's dialog puts these plates in a column about a third of the window
+   wide; there "Disadvantage" only fits a size down. */
+@container (max-width: 120px) {
+  body.navis-skin .application.roll-dialog-v2 .adv-dis > div > .state-label > label {
+    font-size: 12px;
+    letter-spacing: 0.4px;
+  }
+}
+
+body.navis-skin .application.roll-dialog-v2 .adv-dis > div:hover > .state-label {
+  background: var(--navis-raised);
+}
+body.navis-skin .application.roll-dialog-v2 .adv-dis > div:hover > .state-label > label {
+  color: var(--navis-ink);
+}
+
+/* Chosen. */
+body.navis-skin .application.roll-dialog-v2 .adv-dis > div > input:checked + .state-label {
+  background: var(--navis-raised);
+  border-bottom-color: var(--st);
+  box-shadow: inset 0 -14px 16px -16px var(--st);
+}
+body.navis-skin .application.roll-dialog-v2 .adv-dis > div > input:checked + .state-label > label {
+  color: var(--st);
+}
+body.navis-skin .application.roll-dialog-v2 .adv-dis > div > input:checked + .state-label > .state-value {
+  background: var(--st);
+  border-color: var(--st);
+  color: var(--navis-field);
+}
+body.navis-skin .application.roll-dialog-v2 .adv-dis > div > input:focus-visible + .state-label {
+  outline: 2px solid var(--navis-accent-lit);
+  outline-offset: 1px;
+}
+
+
+/* ══ WARP CHARGE ═══════════════════════════════════════════════════════════
+   The one thing on the sheet allowed to move on its own. The fill is warp
+   stuff: deep violet deepening toward its leading edge, teal filaments and
+   pale clouds drifting through it in opposite directions, a sheen that passes
+   now and then, and an edge that breathes. It grows more restless as it fills
+   (--navis-warp-level, 0–1, set by module/refit.js). Over the threshold it
+   runs hotter; once a Psychic Mastery test has failed and Perils are owed, it
+   turns red and starts to tear.
+
+   When the charge changes, refit.js hands over the previous width and the bar
+   surges from there to the new value. Everything stops for reduced motion.
+
+   impmal-core animates the Perils state with a sliding starfield from the same
+   modules layer; these selectors are heavier than its rule, so they win
+   whichever module loads last. */
+
+@keyframes navis-warp-flow {
+  from { background-position: 0 0, 0 0, 0 0, 0 0; }
+  to   { background-position: 0 0, 180px 0, -120px 0, -240px 0; }
+}
+@keyframes navis-warp-breathe {
+  0%, 100% { opacity: 0.55; transform: scaleY(0.85); }
+  50%      { opacity: 1;    transform: scaleY(1.15); }
+}
+@keyframes navis-warp-sheen {
+  0%, 55% { left: -48px; opacity: 0; }
+  60%     { opacity: 1; }
+  100%    { left: 100%; opacity: 0; }
+}
+@keyframes navis-warp-surge {
+  from { width: var(--navis-warp-from); filter: brightness(1.9) saturate(1.5); }
+  55%  { filter: brightness(1.35) saturate(1.2); }
+  to   { filter: none; }
+}
+@keyframes navis-warp-tear {
+  0%, 100% { opacity: 0; }
+  8%       { opacity: 0.9; }
+  12%      { opacity: 0.1; }
+  47%      { opacity: 0; }
+  50%      { opacity: 0.75; }
+  53%      { opacity: 0; }
+}
+
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge {
+  display: flex;
+  align-items: stretch;
+  gap: 8px;
+  white-space: nowrap;
+}
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box {
+  flex: 0 0 8rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 4px;
+  row-gap: 3px;
+  height: auto;
+  padding: 5px 7px 6px;
+  background: var(--navis-raised);
+  border: 1px solid var(--navis-line);
+  border-top: 2px solid #4a3470;
+  clip-path: none;
+}
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box > .label {
+  flex: 1 0 100%;
+  display: flex;
+  justify-content: flex-start;
+  height: auto;
+}
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box > .label label {
+  margin: 0;
+  text-align: left;
+  font-family: var(--navis-font-stencil);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: #a98bd6;
+}
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box > .field {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: baseline;
+  width: auto;
+  height: auto;
+}
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box > .field input {
+  field-sizing: content;
+  min-width: 2ch;
+  width: auto;
+  height: auto;
+  padding: 0;
+  background: transparent;
+  border: 0;
+  text-align: left;
+  font-family: var(--navis-font-text);
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1.1;
+  color: var(--navis-ink);
+}
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box > .field + .field::before {
+  content: "/";
+  margin-right: 4px;
+  font-size: 12px;
+  color: var(--navis-ink-faint);
+}
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .attribute-box > .field + .field input {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--navis-ink-faint);
+}
+
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+}
+
+/* The vessel. */
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container {
+  position: relative;
+  flex: 1;
+  height: 26px;
+  margin: 0;
+  overflow: hidden;
+  background: radial-gradient(ellipse 60% 140% at 18% 50%, #150d22 0%, #070707 75%);
+  border: 1px solid var(--navis-line);
+  border-left: 3px solid #4a3470;
+  border-radius: 0;
+  clip-path: var(--navis-plate-sm);
+  box-shadow: inset 0 0 14px rgba(0, 0, 0, 0.85);
+}
+
+/* The charge. */
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container .bar {
+  position: relative;
+  height: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  border-radius: 0;
+  background-color: #1b0f2b;
+  background-image:
+    linear-gradient(90deg, #1b0f2b 0%, #36205c 50%, #6a44a8 100%),
+    repeating-linear-gradient(115deg, transparent 0 14px, rgba(110, 214, 204, 0.13) 14px 16px, transparent 16px 34px),
+    radial-gradient(ellipse 34px 11px at 50% 50%, rgba(196, 150, 255, 0.30), transparent 70%),
+    repeating-linear-gradient(-70deg, transparent 0 22px, rgba(205, 170, 255, 0.11) 22px 25px, transparent 25px 48px);
+  background-size: 100% 100%, 180px 100%, 120px 26px, 240px 100%;
+  background-repeat: repeat;
+  --navis-warp-flow: calc(18s - 9s * var(--navis-warp-level, 0));
+  animation: navis-warp-flow var(--navis-warp-flow) linear infinite;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.55);
+}
+/* A sheen crossing the charge every few seconds. */
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container .bar::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: -48px;
+  width: 48px;
+  background: linear-gradient(90deg, transparent, rgba(232, 214, 255, 0.22), transparent);
+  animation: navis-warp-sheen 6s ease-in-out infinite;
+  pointer-events: none;
+}
+/* The leading edge breathes, brighter the fuller it is. */
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container .bar::after {
+  content: "";
+  position: absolute;
+  top: 1px;
+  bottom: 1px;
+  right: 0;
+  width: 3px;
+  background: #d9c2ff;
+  box-shadow:
+    0 0 6px 2px rgba(178, 132, 255, calc(0.35 + 0.55 * var(--navis-warp-level, 0))),
+    -8px 0 14px 2px rgba(122, 90, 168, calc(0.25 + 0.45 * var(--navis-warp-level, 0)));
+  animation: navis-warp-breathe calc(3.2s - 1.4s * var(--navis-warp-level, 0)) ease-in-out infinite;
+  pointer-events: none;
+}
+
+/* Over the threshold: hotter, faster, an alert edge. */
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state1 {
+  border-left-color: var(--navis-alert);
+}
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state1 .bar {
+  background-image:
+    linear-gradient(90deg, #24103a 0%, #58278a 50%, #a553d6 100%),
+    repeating-linear-gradient(115deg, transparent 0 12px, rgba(140, 230, 220, 0.17) 12px 14px, transparent 14px 30px),
+    radial-gradient(ellipse 34px 11px at 50% 50%, rgba(226, 170, 255, 0.38), transparent 70%),
+    repeating-linear-gradient(-70deg, transparent 0 18px, rgba(230, 180, 255, 0.15) 18px 21px, transparent 21px 42px);
+  --navis-warp-flow: 6s;
+}
+
+/* Perils owed: red, and tearing. */
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state2 {
+  border-color: #4a1a22;
+  border-left-color: var(--navis-danger);
+}
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state2 .bar {
+  background-image:
+    linear-gradient(90deg, #2a0a1a 0%, #6e1840 50%, #d0305f 100%),
+    repeating-linear-gradient(115deg, transparent 0 10px, rgba(255, 170, 200, 0.18) 10px 12px, transparent 12px 24px),
+    radial-gradient(ellipse 30px 10px at 50% 50%, rgba(255, 120, 160, 0.40), transparent 70%),
+    repeating-linear-gradient(-70deg, transparent 0 14px, rgba(255, 190, 210, 0.16) 14px 17px, transparent 17px 34px);
+  background-size: 100% 100%, 180px 100%, 120px 26px, 240px 100%;
+  background-repeat: repeat;
+  --navis-warp-flow: 3.5s;
+}
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state2 .bar::before {
+  left: 0;
+  width: 100%;
+  background: repeating-linear-gradient(90deg, transparent 0 9px, rgba(255, 230, 240, 0.35) 9px 10px, transparent 10px 23px);
+  animation: navis-warp-tear 1.7s steps(1) infinite;
+}
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state2 .bar::after {
+  background: #ffd1dc;
+  box-shadow: 0 0 8px 3px rgba(210, 48, 95, 0.8), -10px 0 16px 3px rgba(160, 30, 70, 0.6);
+  animation-duration: 0.9s;
+}
+
+/* The surge. Declared after every state and with a class more than any of
+   them, so a state can never swap it out; the flow keeps whatever duration
+   the state chose. */
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container .bar.navis-warp-surge,
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container:is(.state1, .state2) .bar.navis-warp-surge {
+  animation:
+    navis-warp-surge 1100ms cubic-bezier(0.2, 0.8, 0.2, 1) both,
+    navis-warp-flow var(--navis-warp-flow) linear infinite;
+}
+
+/* The test prompt laid over the bar. */
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container .perils {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  pointer-events: none;
+}
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container .perils a {
+  pointer-events: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 0 8px;
+  line-height: 20px;
+  background: rgba(7, 7, 7, 0.72);
+  border: 1px solid rgba(169, 139, 214, 0.45);
+  font-family: var(--navis-font-stencil);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1.3px;
+  text-transform: uppercase;
+  color: var(--navis-ink);
+  text-shadow: 0 0 6px rgba(0, 0, 0, 0.9);
+}
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-section .bar-container.state2 .perils a {
+  border-color: rgba(210, 102, 88, 0.7);
+  color: #ffd1dc;
+}
+
+/* Purge is an action, so a rust-edged field. */
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .purge {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 26px;
+  padding: 0 10px;
+  background: var(--navis-field);
+  border: 1px solid var(--navis-line);
+  border-left: 3px solid var(--navis-accent);
+  font-family: var(--navis-font-stencil);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: var(--navis-accent-lit);
+  transition: background-color var(--navis-transition);
+}
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .purge:hover {
+  background: var(--navis-raised);
+}
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .purge.inactive {
+  border-left-color: var(--navis-line);
+  color: var(--navis-ink-faint);
+}
+
+/* Sustained powers: a plate with its caption. */
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .sustaining {
+  margin-bottom: 8px;
+  padding: 6px 10px 8px;
+  background: var(--navis-surface);
+  border: 1px solid var(--navis-line);
+  border-left: 3px solid #4a3470;
+  clip-path: var(--navis-plate);
+}
+body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .sustaining > label {
+  display: block;
+  text-align: left;
+  font-family: var(--navis-font-stencil);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: #a98bd6;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-container .bar,
+  body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-container .bar::before,
+  body.navis-skin .application.impmal.actor .tab[data-tab="powers"] .warp-charge .bar-container .bar::after {
+    animation: none !important;
+  }
+}

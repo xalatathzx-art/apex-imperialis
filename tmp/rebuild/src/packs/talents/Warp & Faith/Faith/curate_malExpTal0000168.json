@@ -1,0 +1,59 @@
+{
+  "name": "Curate",
+  "type": "talent",
+  "_id": "malExpTal0000168",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">May pass on FP gained from Divine Vengeance to an ally within Medium range. Is lost if not used after combat</span></p><hr><p><span style=\"font-family: Arial\"><em>When you would gain a Fate Point from the Divine Vengeance talent, you may give it to any other ally (aside from yourself) within Medium Range. This temporary Fate Point may be spent as normal, but may not be burned. If it is not spent by the end of the encounter, it is lost. </em></span></p>",
+      "gm": "Talent Category: Faith"
+    },
+    "requirement": {
+      "value": "Divine Vengeance Talent",
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Divine Vengeance\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "oBHvd40uCHrPtfbK",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 1700000
+}

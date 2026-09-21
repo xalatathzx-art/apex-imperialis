@@ -1,0 +1,101 @@
+{
+  "name": "Сикарианские ЭФМ",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000065",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00005",
+  "sort": 6500,
+  "system": {
+    "notes": {
+      "player": "<p>Жгуты усиленных электронных фибромышц вплетены в бионику Скитария, заменяя обычные движители и придавая конечностям скелетообразный вид.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт черту Неестественная Сила (2) — <strong>+5 к Силе</strong>.</p>",
+    "page": "DoomBC стр. 269",
+    "category": "skitarii",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 1500,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Пока установлены, <strong>−10 к Ловкости</strong>.",
+      "2": "",
+      "3": "Даёт дополнительный успех на все успешные проверки Силы.",
+      "4": "Как Уровень 3, и вдобавок <strong>+5 к Ближнему бою</strong>."
+    },
+    "slot": "skeleton",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00640",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt06400",
+            "kind": "characteristic",
+            "key": "str",
+            "value": 5
+          },
+          {
+            "id": "navisImpEnt06401",
+            "kind": "characteristic",
+            "key": "ag",
+            "value": {
+              "1": -10,
+              "2": 0
+            }
+          },
+          {
+            "id": "navisImpEnt06402",
+            "kind": "skill",
+            "key": "melee",
+            "value": {
+              "2": 0,
+              "4": 5
+            }
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 269",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

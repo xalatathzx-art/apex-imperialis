@@ -1,0 +1,70 @@
+{
+  "name": "Примарис Цепи",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000059",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00004",
+  "sort": 5900,
+  "system": {
+    "notes": {
+      "player": "<p>Продвинутые кибернетические мозговые импланты Примарис Псайкеров служат не для контроля, а для защиты ценного и доказавшего верность псайкера от гнева Эмпиреев.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Когда владелец вызывает Феномен вне усиленной манифестации, он может пройти проверку Силы воли и за каждый успех снизить бросок Феномена на 5, но затем получает урон Силе воли за применённый результат Феномена независимо от исхода проверки.</p>",
+    "page": "DoomBC стр. 268",
+    "category": "psybernetic",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Урон от Феномена выше — 1d10+1 вместо 1d5+1.",
+      "2": "",
+      "3": "Провал проверки не наносит урон Силе воли от самого Феномена.",
+      "4": "Как Уровень 3, и вдобавок проверка Силы воли на активацию проходит с Преимуществом."
+    },
+    "slot": "cortex",
+    "side": "",
+    "location": "head",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 268",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

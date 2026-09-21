@@ -1,0 +1,33 @@
+{
+  "name": "Barefoot",
+  "type": "trait",
+  "_id": "navisSpTrait0006",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 600,
+  "system": {
+    "notes": {
+      "player": "<p>The soles of your feet are tougher than boot leather and quieter than felt.</p> <p>While unshod you have Advantage on Stealth Tests to move silently and on any Test to cross Difficult Terrain. Only extreme heat or cold makes footwear worth the trouble.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

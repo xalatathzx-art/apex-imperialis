@@ -1,0 +1,80 @@
+{
+  "name": "Mutant",
+  "type": "navis-apexialis.subspecies",
+  "_id": "navisSpSub000001",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder002",
+  "sort": 100,
+  "system": {
+    "notes": {
+      "player": "<p>You were born with an obvious bodily mutation. If you grew up in the Imperium you hid from society for fear of execution over something that is not your fault, or you found a way to conceal the mutation. If you grew up among the Chaos-held, everyone around you saw that you were marked by the Gods for greatness, and expected more of you than you could give.</p>",
+      "gm": "<p><em>Conversion:</em> the book grants +5 Corruption and one mutation rolled from a list. impmal Corruption caps at Toughness bonus + Willpower bonus, so +5 would be most of a career before play; it becomes 1, and the mutation is written into the trait rather than rolled on a table this system does not have.</p>"
+    },
+    "category": "mutant",
+    "reference": "DoomBC p.5",
+    "restricted": false,
+    "characteristics": {
+      "modifiers": {
+        "ws": 0,
+        "bs": 0,
+        "str": 0,
+        "tgh": 0,
+        "ag": 0,
+        "int": 0,
+        "per": 0,
+        "wil": 0,
+        "fel": 0
+      },
+      "choice": {
+        "number": 0,
+        "value": 5,
+        "keys": []
+      }
+    },
+    "skills": {},
+    "size": "",
+    "corruption": 1,
+    "roles": [
+      "Any"
+    ],
+    "removes": [],
+    "grantedTraits": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0027",
+          "id": "navisSpTrait0027",
+          "name": "Visible Mutation",
+          "diff": {}
+        }
+      ]
+    },
+    "talents": {
+      "list": []
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": []
+    },
+    "requires": "Human"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

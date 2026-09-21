@@ -1,0 +1,33 @@
+{
+  "name": "Daemon Blood",
+  "type": "trait",
+  "_id": "navisSpTrait0031",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 3100,
+  "system": {
+    "notes": {
+      "player": "<p>A Daemon Prince is somewhere in your ancestry, and occasionally remembers it.</p> <p>In sleep or meditation you receive visions from your forebear. With the GM's agreement these can stand in for a teacher, letting you buy an advance you have nobody to train you in.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

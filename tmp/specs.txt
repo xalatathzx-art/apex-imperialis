@@ -1,0 +1,73 @@
+spec 72 distinct names 70
+Forbidden (Various) | Запретное (Разное) | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Forbidden (Various) | Запретное (Разное) | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Taste | Вкус | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Swimming | Плаванье | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Security | Безопасность | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Poison | Яды | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Tracking | Следы | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Void | Пустота | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Psychic | Психосилы | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Fear | Страх | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Dodge | Уклонение | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Climbing | Лазанье | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Aeronautica | Аэронавтика | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Sector | Сектор | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Interrogation | Допрос | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Engineering | Инженерное дело | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Thrown | Метательное оружие | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Surface | Поверхность | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Hide | Невидимка | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+People | Люди | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Military | Военная техника | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Smell | Обоняние | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Conceal | Маскировка | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Lock Picking | Взлом замков | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Sleight of Hand | И никакого мошенничества | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Augmetics | Аугметика | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Cipher | Шифры | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Theology | Богословие | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Haggle | Торг | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Pistols | Пистолеты | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Warp | Варп | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Riding | Верховая езда | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Animals | Животные | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Inquiry | Сбор сведений | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Move Silently | Бесшумное движение | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Civilian | Гражданская техника | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Might | Мощь | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+One-handed | Одноручное оружие | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Endurance | Неустанность | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Acrobatics | Акробатика | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Human | Люди | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Touch | Осязание | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Animal | Животные | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Two-handed | Двуручное оружие | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Leadership | Лидерство | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Pain | Боль | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Intimidation | Запугивание | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Forbidden | Запретное | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Sight | Зрение | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Long Guns | Лёгкое оружие | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Psyniscience | Психическое чутьё | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Group (Various) | Определённая группа (Разное) | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Academics | Схоластика | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Deception | Обман | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Ordnance | Тяжёлое оружие | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Defuse | Разминирование | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Pickpocket | Карманные кражи | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Adeptus Terra | Адептус Терра | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Surroundings | Окружение | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Composure | Самообладание | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Evaluation | Оценка | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Planet | Планета | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Balance | Равновесие | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Major Voidship | Крупные пустотные корабли | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+High Gothic | Высокий готический | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Minor Voidship | Малые пустотные корабли | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Charm | Обаяние | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Hearing | Слух | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Brawling | Кулачный бой | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Running | Бег | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Forbidden (Various) | Запретное (Разное) | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#
+Investigation | Следствие | @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#

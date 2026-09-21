@@ -1,0 +1,97 @@
+{
+  "name": "Бионическое сердце",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000018",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00002",
+  "sort": 1800,
+  "system": {
+    "notes": {
+      "player": "<p>Бионический протез сердца — замена необратимо повреждённому человеческому или компенсация одного из двух сердец Астартес. В тишине его слышно: ровный щелчок вместо удара.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Если это сердце у вас единственное и его отключают, вы теряете сознание, получаете <strong>1d10+5 урона Выносливости</strong> и через число раундов, равное бонусу Выносливости, умираете от кислородного голодания мозга — если сердце не запустят раньше.</p>",
+    "page": "DoomBC стр. 263",
+    "category": "bionic",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 1200,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Работает всего 1d5+3 года, после чего ломается.",
+      "2": "",
+      "3": "<strong>+1 успех</strong> на проверки Стойкости против Усталости и <strong>+1 очко брони</strong> торса.",
+      "4": "Как Уровень 3, и вдобавок экранировано от ЭМИ. Долгий форсированный бег больше не выматывает вас."
+    },
+    "slot": "circulatory",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00170",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt01700",
+            "kind": "testMod",
+            "skill": "fortitude",
+            "value": {
+              "2": 0,
+              "3": 1,
+              "4": 1
+            }
+          },
+          {
+            "id": "navisImpEnt01701",
+            "kind": "armour",
+            "key": "body",
+            "value": {
+              "2": 0,
+              "3": 1,
+              "4": 1
+            }
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 263",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

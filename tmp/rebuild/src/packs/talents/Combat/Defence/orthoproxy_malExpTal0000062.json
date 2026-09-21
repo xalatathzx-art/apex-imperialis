@@ -1,0 +1,59 @@
+{
+  "name": "Orthoproxy",
+  "type": "talent",
+  "_id": "malExpTal0000062",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">When gain Corruption / Mind influence: Discipline test to ignore effect (Free action)</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever you gain Corruption Points, or suffer mind-influencing effects (including but not limited to psychic powers) that would subvert, cloud, alter, or control your mind, you may make a Challenging (+0) Discipline Test as an any-time Free Action to ignore the effects. However, you tend to not get jokes anymore.</em></span></p>",
+      "gm": "Talent Category: Defense"
+    },
+    "requirement": {
+      "value": "2 Advances in Discipline",
+      "script": "return this.actor.system.skills.discipline.advances >= 2"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "WEnXbKeY9xtR01uo",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 300000
+}

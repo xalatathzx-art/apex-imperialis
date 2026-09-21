@@ -1,0 +1,33 @@
+{
+  "name": "Blunted Soul",
+  "type": "trait",
+  "_id": "navisSpTrait0028",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 2800,
+  "system": {
+    "notes": {
+      "player": "<p>Your soul is dimmer than a person's ought to be, and the Warp has trouble finding it.</p> <p>You have Advantage on any Test to resist a psychic power, and a psyker targeting you has Disadvantage. You can never manifest a psychic power, and no psychic power can heal, bless or benefit you — an ally's gifts slide off you the same way an enemy's do.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

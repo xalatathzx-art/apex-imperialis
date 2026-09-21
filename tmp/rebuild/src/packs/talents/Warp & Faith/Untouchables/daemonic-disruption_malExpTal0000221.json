@@ -1,0 +1,59 @@
+{
+  "name": "Daemonic Disruption",
+  "type": "talent",
+  "_id": "malExpTal0000221",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Daemons have Disadvantage to melee attack you</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever a Daemon attempts to make a Melee Attack (pg. 211) against you, they suffer Disadvantage. </em></span></p>",
+      "gm": "Talent Category: Untouchables"
+    },
+    "requirement": {
+      "value": "Blank Talent, Bane of the Daemon Talent",
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Blank\") && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Bane of Daemon\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "u3oMExDzCNqURptB",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 400000
+}

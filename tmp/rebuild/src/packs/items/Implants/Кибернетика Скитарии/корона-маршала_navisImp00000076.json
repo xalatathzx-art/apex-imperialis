@@ -1,0 +1,70 @@
+{
+  "name": "Корона Маршала",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000076",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00005",
+  "sort": 7600,
+  "system": {
+    "notes": {
+      "player": "<p>Черепные Цепи Скитария и его Ноосферный Фид дополнены модулями, придающими его ноосферному образу величие когниции истинного техножреца.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт Талант Двоичное Господство, как если бы владелец имел Импланты Механикум, и дополнительное полудействие в Ход только на Командование Скитариями, сервиторами или роботами — но его использование даёт штраф на все атаки владельца до начала следующего Хода.</p>",
+    "page": "DoomBC стр. 270",
+    "category": "skitarii",
+    "rarity": 3,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 7000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "cortex",
+    "side": "",
+    "location": "head",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 270",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

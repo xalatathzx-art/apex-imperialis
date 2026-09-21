@@ -1,0 +1,59 @@
+{
+  "name": "Psychic Locus",
+  "type": "talent",
+  "_id": "malExpTal0000211",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Perils of the Warp effects within Medium range target you instead of the source, powers afffecting other characters as well as powers with a range are centered on you</span></p><hr><p><span style=\"font-family: Arial\"><em>You are the point of focus for baleful energies of the Immaterium. If another character must roll on the Perils of the Warp table and is within Medium Range of you, then you will be the affected target of the result instead. Effects that would normally affect other characters instead affect you, and any effect with a range is centered on you. </em></span></p>",
+      "gm": "Talent Category: Psyker"
+    },
+    "requirement": {
+      "value": "Psyker Talent",
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Psyker\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "PU64XiLQ7hd5vW4E",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 400000
+}

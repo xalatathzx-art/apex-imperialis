@@ -1,0 +1,89 @@
+##### 0aU07JBpNMjdUABI Omnispex | Омниспик (0)
+
+
+##### 0fB10YisRQoUabab Frag Grenade | Фраг-граната (2)
+<p>Вместо того чтобы выбирать что-либо из врезки «Служба в Астра Милитарум», вы можете взять один из приведённых ниже готовых наборов, чтобы ускорить создание персонажа. Также вы получаете +1 к влиянию на Астра Милитарум, талант @UUID[Compendium.navis-apexialis.navis-core-items.Item.rWtFlGbvQIt894Ff]{Боевое слаживание}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{нож}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.pEFmeV070knXgwZ5]{флак-доспех Астра Милитарум}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.0fB10YisRQoUabab]{фраг-гранату} и 300 соляров.</p>
+<p>В галактике, полной еретиков, ксеносов и прочей нечисти, без насилия не обойтись. Удар @UUID[Compendium.navis-apexialis.navis-core-items.Item.tjUKnuDKTCCon28r]{цепным мечом}, выстрел из @UUID[Compendium.navis-apexialis.navis-core-items.Item.jNxvsLBybPPenmmn]{лазпистолета}, бросок @UUID[Compendium.navis-apexialis.navis-core-items.Item.0fB10YisRQoUabab]{фраг-гранаты} — это всё <strong>атака</strong>. Чтобы поразить цель оружием ближнего или дальнего боя, потребуется проверка — подробнее см. раздел @UUID[.Rjw4KykpjGJlGYEk]{«Совершение атаки»}.</p>
+
+##### 0fcoA2lzARTHovsa Man-Stopper Bullets | Бронебойные патроны (0)
+
+
+##### 1betTHOKX0m7ukk6 Demolition Charge | Подрывной заряд (0)
+
+
+##### 6Z8t2ZCNILy6CV0m Frag Missile | Фраг-ракета (0)
+
+
+##### 6ckd4WfSgctod9Wc Executioner Rounds | Патроны «Палач» (0)
+
+
+##### 8vxhLmzHfqSBUVUz Backpack Ammo Supply | Ранец для боеприпасов (0)
+
+
+##### 99dVOsy85KLNtGTj Melta Bomb | Мельта-бомба (0)
+
+
+##### ASCqZKcEmboAsfK8 Tox Rounds | Отравленные патроны (1)
+<p>Персонаж может получать состояния по разным причинам — от урона, особых атак или критических ран. Свойство @UUID[JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#inflict-(condition)]{Состояние} позволяет оружию относительно легко накладывать некоторые состояния: если герой не сможет ускользнуть из-под огня @UUID[Compendium.navis-apexialis.navis-core-items.Item.oRLXNHwPFJQbutAU]{паутинника} или получит попадание @UUID[Compendium.navis-apexialis.navis-core-items.Item.ASCqZKcEmboAsfK8]{отравленным патроном}, он немедленно получит состояние. Такой подход ускоряет бои, но делает оружие, способное накладывать состояния, весьма сильным. Если хотите, вы можете позволить персонажам бросать проверки, успех в которых избавит их от получения такого состояния. Ниже приведена таблица соответствий состояния и умения со специализацией, что применяются против него.</p>
+
+##### BMklaKKiyCUgQfOX Exterminator Cartridge | Экстерминатор (0)
+
+
+##### HQ4thlBy0uFtXo13 Blasting Charge | Шахтёрский подрывной заряд (0)
+
+
+##### ImfX7JAVfmy02DsH Web Grenade | Паутинная граната (0)
+
+
+##### JU4aGpoaxZLY7eIO Fire Bomb | Огненная бомба (1)
+<p><strong>Подготовленная западня</strong>: вожак подготовил несколько ловушек, которые можно заметить <strong>сложной (−20) проверкой Бдительности (Зрение)</strong>. Каждая ловушка считается элементом зоны. Потратив действие, вожак может задействовать ловушку — она сработает так, будто в зоне взорвалась @UUID[Compendium.navis-apexialis.navis-core-items.Item.JU4aGpoaxZLY7eIO]{огненная бомба}, и сделает зону @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#hazard]{слегка опасной}. Срабатывание необнаруженной заранее ловушки понижает превосходство на 1.</p>
+
+##### LhciQZrfQDuk8k3W Krak Grenade | Крак-граната (0)
+
+
+##### LqQBByxsreNT3C09 Silencer | Глушитель (0)
+
+
+##### Nxu0oeQVLPHI4R8A Photon Flash Grenade | Фотонная вспышка (0)
+
+
+##### OjLq7yDUPG8TpISi Choke Grenade | Удушающая граната (0)
+
+
+##### Sa0x6Yf5xZ2OcfVp Omniscope | Омниприцел (0)
+
+
+##### VUiRLSaCXVvdkn6n Hot-Shot Las Pack | Пробивной заряд (0)
+
+
+##### WQuwPZshSkpPrWcG Krak Missile | Крак-ракета (0)
+
+
+##### bme7IUpsgm3NzL83 Melee Attachment | Штык (0)
+
+
+##### cZKCgaW4oI9CpvFl Bipod | Сошки (0)
+
+
+##### iXETjksopXDMhxCa Refractor Field | Отражающее поле (0)
+
+
+##### kZuL2i84eWjUTUFv Bleeder Rounds | Патроны «Кровопийца» (0)
+
+
+##### kw9N0gOOA3YVqN4i Smoke Grenade | Дымовая граната (0)
+
+
+##### lCkJSiH0GMakGv35 Inferno Shells | Патроны «Инферно» (0)
+
+
+##### rD6BtFSjpfupZss1 Mono-edge | Моноклинок (1)
+<p>Вместо того чтобы выбирать что-либо из врезки «Служба в Адептус Астра Телепатике», вы можете взять один из приведённых ниже готовых наборов, чтобы ускорить создание персонажа. Также вы получаете +1 к влиянию на Адептус Астра Телепатику, @UUID[Compendium.navis-apexialis.navis-core-items.Item.qQ8Y8nmiaTaKgzvs]{нож} с улучшением @UUID[Compendium.navis-apexialis.navis-core-items.Item.rD6BtFSjpfupZss1]{«Моноклинок»}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.D9X5jPYYafLyPqKh]{одеяние}, @UUID[Compendium.navis-apexialis.navis-core-items.Item.RJQOgOg4q8krADXi]{принадлежности для гадания} и 500 соляров.</p>
+
+##### s8IYzKs3E2tDNutI Laser Sight | Лазерный целеуказатель (0)
+
+
+##### xclUKPJkNVeWfZqi Conversion Field | Преобразующее поле (0)
+
+
+##### ypBcdHfYzcs14rZR Fire Selector | Переключатель вида боеприпасов (0)

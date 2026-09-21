@@ -1,0 +1,1336 @@
+/* ══════════════════════════════════════════════════════════════════════════
+   NAVIS APEXIALIS SKIN — 70 REFIT
+
+   The approved "Sheet refit" proposal, applied to impmal's real markup: chat
+   roll cards as readouts, and the NPC Main tab as a stat block. Measurements,
+   type sizes and colours follow the proposal exactly.
+
+   module/refit.js adds the few wrappers and labels this needs
+   (.navis-readout, .navis-track, .navis-pips, .navis-action-row, …) and marks
+   what it has touched with data-navis-refit. Rules that depend on those
+   wrappers are scoped to them, so a card or sheet the refit has not reached
+   keeps the plain skin instead of half a layout.
+
+   Cascade: this file sits in layer(modules), above impmal and warhammer-lib,
+   and loads after the earlier skin layers; selectors here are at least as
+   heavy as the mirrored rules they refine.
+   ══════════════════════════════════════════════════════════════════════ */
+
+
+/* ══ CHAT ══════════════════════════════════════════════════════════════════
+   :is(#chat-popout, #interface #sidebar, #interface) takes the specificity of
+   its heaviest argument — two ids — so every rule here outweighs all three of
+   impmal's chat variants at once. */
+
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message {
+  padding: 8px 10px 10px;
+}
+
+/* ── Header: portrait · speaker · time ──────────────────────────────────── */
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: center;
+  column-gap: 8px;
+  margin-bottom: 8px;
+  color: var(--navis-ink-faint);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .message-token {
+  grid-column: 1;
+  grid-row: 1;
+  flex: none;
+  margin: 0;
+  width: 26px;
+  height: 26px;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .message-token img {
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+  border: 1px solid var(--navis-brass-dim);
+  border-radius: 0;
+  clip-path: var(--navis-plate-sm);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .message-sender {
+  grid-column: 2;
+  grid-row: 1;
+  margin: 0;
+  font-family: var(--navis-font-stencil);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 1.2px;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: var(--navis-brass);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .message-sender .whisper-to {
+  margin-left: 6px;
+  letter-spacing: 0.6px;
+  color: var(--navis-ink-faint);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .message-metadata {
+  grid-column: 3;
+  grid-row: 1;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+  font-family: var(--navis-font-stencil);
+  font-size: 12px;
+  letter-spacing: 0.6px;
+  color: var(--navis-ink-faint);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .message-metadata a {
+  color: var(--navis-ink-faint);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header .flavor-text,
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message > .message-header > .whisper-to {
+  grid-column: 1 / -1;
+  font-family: var(--navis-font-text);
+  font-size: 13px;
+  color: var(--navis-ink-muted);
+}
+
+/* ── Buttons in a message: a recessed field with a rust edge ────────────── */
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .message-content button:not(.icon) {
+  min-height: 30px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-family: var(--navis-font-stencil);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 1.3px;
+  text-transform: uppercase;
+}
+
+/* ── The test card ──────────────────────────────────────────────────────── */
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] {
+  --oc: var(--navis-brass-dim);
+  --oc-text: var(--navis-ink);
+  --oc-dim: var(--navis-raised);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+/* Same prefix as the base rule above: it sets the defaults on the same element
+   with two ids of weight, and a lighter selector here would never apply. */
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit][data-navis-outcome="success"] {
+  --oc: var(--navis-success);
+  --oc-text: var(--navis-success);
+  --oc-dim: var(--navis-success-dim);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit][data-navis-outcome="failure"] {
+  --oc: var(--navis-danger);
+  --oc-text: var(--navis-danger);
+  --oc-dim: var(--navis-danger-dim);
+}
+
+/* Title: the test name, qualifiers quieter after a middle dot. */
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] > .title {
+  margin: 0;
+  text-align: left;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] > .title p {
+  margin: 0;
+  font-family: var(--navis-font-stencil);
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  line-height: 1.15;
+  text-transform: uppercase;
+  color: var(--navis-ink);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] > .title .navis-qualifier {
+  font-weight: 500;
+  color: var(--navis-ink-faint);
+}
+
+/* Readout: SL plate left, evidence right. */
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-readout {
+  display: grid;
+  grid-template-columns: 64px minmax(0, 1fr);
+  gap: 10px;
+  align-items: stretch;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-readout > .sl {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 4px 0;
+  background: var(--navis-field);
+  border: 1px solid var(--navis-line);
+  border-left: 3px solid var(--oc);
+  clip-path: var(--navis-plate-sm);
+}
+/* A passed or failed test fills its SL plate, so the result reads before the
+   numbers do. */
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit][data-navis-outcome] .navis-readout > .sl {
+  background: var(--oc-dim);
+  border-color: var(--oc);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-readout > .sl > div {
+  width: auto;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  background: none;
+  background-image: none;
+  border: 0;
+  clip-path: none;
+  box-shadow: none;
+  text-shadow: none;
+  font-family: var(--navis-font-stencil);
+  font-size: 30px;
+  font-weight: 700;
+  color: var(--oc-text);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-readout > .sl > div::before,
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-readout > .sl > div::after {
+  display: none;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-sl-caption {
+  font-style: normal;
+  font-family: var(--navis-font-stencil);
+  font-size: 10px;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: var(--navis-ink-faint);
+}
+
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 6px;
+  min-width: 0;
+}
+
+/* Numbers: "ROLL 69 … TARGET 60". */
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .comparison {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 8px;
+  margin: 0;
+  font-family: var(--navis-font-text);
+  font-size: 15px;
+  text-align: left;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .comparison > * {
+  flex: none;
+  margin: 0;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .comparison .vs {
+  display: none;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .comparison :is(.roll, .target) {
+  display: flex;
+  align-items: baseline;
+  gap: 4px;
+  font-weight: 600;
+  color: var(--navis-ink);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .comparison :is(.roll, .target)::before {
+  content: attr(data-navis-label);
+  font-family: var(--navis-font-stencil);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--navis-ink-faint);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .comparison .test-breakdown {
+  margin-left: 4px;
+  font-size: 12px;
+  color: var(--navis-ink-faint);
+  opacity: 1;
+}
+
+/* The 0–100 track: the filled zone is what would have passed, the tick is
+   where the die landed. */
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-track {
+  position: relative;
+  height: 8px;
+  background: var(--navis-field);
+  border: 1px solid var(--navis-line);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-track .navis-zone {
+  display: block;
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: var(--navis-target);
+  background: var(--oc-dim);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-track .navis-zone::after {
+  content: "";
+  position: absolute;
+  right: -1px;
+  top: -4px;
+  bottom: -4px;
+  width: 2px;
+  background: var(--navis-ink-muted);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-track .navis-mark {
+  display: block;
+  position: absolute;
+  top: -5px;
+  bottom: -5px;
+  left: var(--navis-roll);
+  width: 3px;
+  margin-left: -1px;
+  background: var(--oc);
+}
+
+/* Tier: one pip per point of SL, then the word. */
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .outcome {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0;
+  text-align: left;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-evidence > .outcome strong {
+  font-family: var(--navis-font-stencil);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 1.3px;
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: var(--oc-text);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-pips {
+  display: flex;
+  gap: 2px;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-pips s {
+  display: block;
+  width: 10px;
+  height: 6px;
+  background: var(--navis-line);
+  text-decoration: none;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .navis-pips s.on {
+  background: var(--oc);
+}
+
+/* Tags: brass labels, left-aligned; a critical is hatched danger. */
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .test-details {
+  margin: 0;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .tags {
+  justify-content: flex-start;
+  gap: 4px;
+  margin: 0;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .tags:empty {
+  display: none;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .tags > * {
+  padding: 0 6px;
+  line-height: 17px;
+  background: transparent;
+  border: 1px solid var(--navis-brass-dim);
+  border-radius: 0;
+  box-shadow: none;
+  font-family: var(--navis-font-stencil);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--navis-brass);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .tags > .navis-crit {
+  color: var(--navis-field);
+  background-color: var(--navis-danger);
+  background-image: var(--navis-hatch);
+  border-color: var(--navis-danger);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .impmal.test[data-navis-refit] .tags > .navis-crit a {
+  color: inherit;
+}
+
+/* ── Item posts ─────────────────────────────────────────────────────────── */
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post {
+  display: grid;
+  grid-template-columns: 34px minmax(0, 1fr);
+  column-gap: 10px;
+  row-gap: 6px;
+  align-items: start;
+  margin: 0;
+  padding: 8px;
+  background: var(--navis-raised);
+  border: 1px solid var(--navis-line);
+  border-radius: 0;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post > .post-header {
+  display: contents;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post > .post-header img {
+  width: 34px;
+  height: 34px;
+  margin: 0;
+  object-fit: cover;
+  border: 1px solid var(--navis-brass-dim);
+  clip-path: var(--navis-plate-sm);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post .navis-post-titles {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: 0;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post .navis-post-type {
+  font-family: var(--navis-font-stencil);
+  font-size: 11px;
+  letter-spacing: 1.2px;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: var(--navis-brass);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post h4 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  font-family: var(--navis-font-stencil);
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: var(--navis-ink);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post > :not(.post-header) {
+  grid-column: 1 / -1;
+  font-family: var(--navis-font-text);
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--navis-ink-muted);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-post a.content-link {
+  padding: 0;
+  background: none;
+  border: 0;
+  font-weight: 500;
+  color: var(--navis-accent-lit);
+}
+
+
+/* ── The item a test was made with (weapon, power): a slim source strip ────
+   impmal prints it as a 50px image and an 18px bold name, louder than the
+   result it belongs to. Here it reads as a caption to the readout: a small
+   plated icon, the name in the stencil face, and a chevron that says the
+   description opens on click (impmal's expandItem, unchanged). */
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use {
+  margin: 0;
+  padding: 0;
+  background: var(--navis-raised);
+  border: 1px solid var(--navis-line);
+  border-left: 3px solid var(--navis-brass-dim);
+  border-radius: 0;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .item-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 0;
+  padding: 5px 8px;
+  transition: background-color var(--navis-transition);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .item-header:hover {
+  background: var(--navis-surface);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .item-header img {
+  flex: none;
+  width: 28px;
+  height: 28px;
+  margin: 0;
+  object-fit: cover;
+  border: 1px solid var(--navis-brass-dim);
+  border-radius: 0;
+  clip-path: var(--navis-plate-sm);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .item-header p {
+  flex: 1;
+  min-width: 0;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-family: var(--navis-font-stencil);
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.9px;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: var(--navis-ink);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .item-header::after {
+  content: "\f078";
+  flex: none;
+  font-family: var(--font-awesome, "Font Awesome 6 Pro");
+  font-weight: 900;
+  font-size: 10px;
+  color: var(--navis-ink-faint);
+  transition: transform var(--navis-transition), color var(--navis-transition);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .item-header:hover::after {
+  color: var(--navis-accent-lit);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use:has(> .description.expanded) .item-header::after {
+  transform: rotate(180deg);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .description.expanded {
+  border-top: 1px solid var(--navis-line);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .description .description-expander {
+  font-family: var(--navis-font-text);
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--navis-ink-muted);
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .description.expanded .description-expander {
+  padding: 6px 8px 8px;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .description .description-expander p {
+  margin: 0 0 6px;
+}
+body.navis-skin :is(#chat-popout, #interface #sidebar, #interface) .chat-message .item-use .description .description-expander p:last-child {
+  margin-bottom: 0;
+}
+
+/* ══ NPC SHEET ═════════════════════════════════════════════════════════════ */
+
+/* ── Header: portrait, name, identities; then characteristics; then the six
+      vitals in one row ────────────────────────────────────────────────────── */
+/* The six tracks are shares, not equal columns, because the boxes do not hold
+   equal things. Wounds, Crits, Init and Resolve hold one or two digits each,
+   so they share a single weight and come out the same width — four of a kind,
+   which is what they are. Armour and Speed are the two with something to show:
+   six hit locations, and a word that can run to "Медленный". They take the
+   slack, which on a 600px sheet is about 160px the row has no other use for.
+
+   The floor is `min-content` rather than 0, which is what keeps a caption from
+   being clipped in any language. That floor only means something because
+   `.label` claims `min-width: max-content` below — as a plain `flex: 1 0 100%`
+   item its min-content contribution is zero, which is why `auto` tracks were
+   no use here: the caption simply overflowed a squeezed track. */
+body.navis-skin .application.actor.impmal.npc .npc-header {
+  display: grid;
+  grid-template-columns:
+    minmax(min-content, 1.00fr)   /* Armour   — one figure, and a config link */
+    minmax(min-content, 0.80fr)   /* Wounds   — value / max, plus the meter   */
+    minmax(min-content, 0.80fr)   /* Crits    — value / max                   */
+    minmax(min-content, 0.80fr)   /* Init     — one figure                    */
+    minmax(min-content, 1.30fr)   /* Speed    — a word, and a config link     */
+    minmax(min-content, 0.80fr);  /* Resolve  — one figure                    */
+  gap: 12px 6px;
+}
+/* Makes the min-content floor above real: without it the caption's percentage
+   basis reports zero and the track is free to squeeze it out of the box. */
+body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .label {
+  min-width: max-content;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header > .sheet-header,
+body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table {
+  grid-column: 1 / -1;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header > .attribute-row {
+  display: contents;
+}
+
+body.navis-skin .application.actor.impmal.npc .npc-header > .sheet-header {
+  display: grid;
+  grid-template-columns: 76px minmax(0, 1fr);
+  gap: 12px;
+  align-items: start;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header > .sheet-header img.profile {
+  flex: none;
+  width: 76px;
+  height: 76px;
+  margin: 0;
+  object-fit: cover;
+  border: 1px solid var(--navis-brass-dim);
+  border-left: 3px solid var(--navis-brass);
+  border-radius: 0;
+  clip-path: var(--navis-plate);
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .header-details {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-width: 0;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .header-details .details-row.name {
+  padding: 0 10px;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .header-details .details-row.name input {
+  height: 36px;
+  line-height: 36px;
+  padding: 0;
+  background: transparent;
+  border: 0;
+  font-family: var(--navis-font-display);
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 1.6px;
+  text-align: left;
+  text-transform: uppercase;
+  color: var(--navis-brass-lit);
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .header-details .details-row:not(.name) {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 6px;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .header-details .detail-group {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: flex-end;
+  gap: 1px;
+  min-width: 0;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .header-details .detail-group > label {
+  margin: 0;
+  line-height: 1.3;
+  text-align: left;
+  font-family: var(--navis-font-stencil);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: var(--navis-ink-faint);
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .header-details .detail-group .input-group {
+  min-height: 0;
+  padding: 0 0 2px;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--navis-line);
+  border-radius: 0;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .header-details .detail-group .input-group > :is(input, select, .singleton-item) {
+  width: 100%;
+  height: 22px;
+  padding: 0;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  font-family: var(--navis-font-text);
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--navis-ink);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .header-details .detail-group select {
+  appearance: none;
+  cursor: pointer;
+}
+
+/* Characteristics: nine cells, caption over figure. */
+body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table {
+  display: grid;
+  grid-template-columns: repeat(9, minmax(0, 1fr));
+  margin: 0;
+  background: var(--navis-surface);
+  border: 1px solid var(--navis-line);
+}
+body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table :is(tbody, tr) {
+  display: contents;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table td {
+  height: auto;
+  padding: 0;
+  text-align: center;
+  background: none;
+  border: 0;
+  border-right: 1px solid var(--navis-line);
+}
+body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table td:nth-child(9) {
+  border-right: 0;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table tr:first-child td {
+  padding-top: 5px;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table tr:first-child td a {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+  font-family: var(--navis-font-stencil);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: var(--navis-ink-faint);
+}
+body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table tr:last-child td {
+  padding-bottom: 6px;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table tr:last-child td input {
+  width: 100%;
+  height: 24px;
+  padding: 0;
+  background: transparent;
+  border: 0;
+  text-align: center;
+  font-family: var(--navis-font-text);
+  font-size: 19px;
+  font-weight: 600;
+  color: var(--navis-ink);
+}
+body.navis-skin .application.actor.impmal.npc .npc-header > .characteristic-table td.navis-hi input {
+  color: var(--navis-brass-lit);
+}
+
+/* Vitals. */
+/* A grid, not a wrapping flex row. As flex, `value` and `max` are two separate
+   items and the row breaks between them the moment the box is a few pixels
+   short — which is exactly what the default 600px sheet does to Wounds, leaving
+   "5" on one line and "/ 22" on the next. Two columns put them on one row by
+   construction, at any sheet width, and the box's min-content now counts them
+   as a pair, so the track floor below reserves room for both.
+
+   The first column is sized to the figure so the max sits right next to it;
+   the second takes the rest, which is what lets the caption and the wounds
+   meter span the full width of the box. impmal's own inline `grid-column` on
+   each child is stripped in refitNpcHeader — it lays the box out as twelve
+   columns and no stylesheet can outrank it. */
+body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  /* warhammer-lib gives the box `grid-template-rows: repeat(2, 1fr)` — two
+     rows of equal height. With the fixed height removed that made the caption's
+     row as tall as the value's, so a 12px line of type occupied 28px and the
+     whole strip carried 16px of nothing. Rows sized to their own content. */
+  grid-template-rows: none;
+  align-items: baseline;
+  column-gap: 4px;
+  row-gap: 2px;
+  box-sizing: border-box;
+  min-width: 0;
+  height: auto;
+  padding: 3px 7px 4px;
+  background: var(--navis-raised);
+  border: 1px solid var(--navis-line);
+  border-top: 2px solid var(--navis-brass-dim);
+  clip-path: none;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .label {
+  grid-column: 1 / -1;
+  display: flex;
+  justify-content: flex-start;
+  height: auto;
+  text-align: left;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .label :is(label, a) {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin: 0;
+  font-family: var(--navis-font-stencil);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: var(--navis-brass);
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .label i {
+  font-size: 10px;
+  color: var(--navis-ink-faint);
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .field {
+  display: flex;
+  align-items: baseline;
+  width: auto;
+  min-width: 0;
+  height: auto;
+  font-family: var(--navis-font-text);
+  font-size: 17px;
+  font-weight: 600;
+  color: var(--navis-ink);
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > :is(.label, .field) {
+  margin: 0;
+  line-height: 1.1;
+}
+/* A box holding one bare figure — Init, Resolve, and flat Armour — centres it.
+   Left-aligned, a single digit sits stranded at the edge of a box sized by its
+   caption. A value/max pair keeps its left edge, because the two read across. */
+body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box:not(:has(> .field ~ .field)) > .field:has(input[type="number"]) {
+  grid-column: 1 / -1;
+  justify-self: center;
+}
+/* impmal's theme gives every attribute input a 0.2rem margin: dead height here. */
+body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .field input {
+  margin: 0;
+  field-sizing: content;
+  min-width: 2ch;
+  width: auto;
+  height: auto;
+  padding: 0;
+  line-height: 1.1;
+  text-align: left;
+  background: transparent;
+  border: 0;
+  font-family: var(--navis-font-text);
+  font-size: 17px;
+  font-weight: 600;
+  color: var(--navis-ink);
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .field input[type="text"] {
+  font-size: 14px;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .field + .field::before {
+  content: "/";
+  margin-right: 4px;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--navis-ink-faint);
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .field + .field input {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--navis-ink-faint);
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .navis-meter {
+  grid-column: 1 / -1;
+  position: relative;
+  height: 5px;
+  overflow: hidden;
+  background: var(--navis-field);
+  border: 1px solid var(--navis-line);
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .attribute-box > .navis-meter i {
+  display: block;
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: var(--navis-fill);
+  background-color: var(--navis-danger);
+  background-image: var(--navis-hatch);
+}
+
+/* ── Armour by location: six readouts inside one attribute box ───────────
+      An NPC with `useItems` armour prints all six hit locations in the Armour
+      box instead of one number. At its ordinary share that is 13px a location
+      and two Cyrillic letters run into the next, so the row is re-weighted:
+      Armour takes roughly twice its usual track and the other five give up the
+      surplus they were carrying, each still clearing its caption. */
+body.navis-skin .application.actor.impmal.npc .npc-header:has(.armour-properties .locations) {
+  grid-template-columns:
+    minmax(min-content, 1.85fr)   /* six locations, about 27px each */
+    minmax(min-content, 0.64fr)
+    minmax(min-content, 0.64fr)
+    minmax(min-content, 0.64fr)
+    minmax(min-content, 1.15fr)
+    minmax(min-content, 0.64fr);
+}
+/* Every other field in the row is shrink-to-fit — a number wants no more. This
+   one holds a six-column strip, and `.locations` sizes itself at `width: 100%`,
+   which against a shrink-to-fit parent resolves to nothing. */
+body.navis-skin .application.actor.impmal.npc .npc-header .armour-properties > .field:has(.locations) {
+  grid-column: 1 / -1;
+  width: 100%;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .armour-properties .locations {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 1px;
+  width: 100%;
+  background: none;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .armour-properties .locations .location {
+  width: auto;
+  height: auto;
+  min-width: 0;
+  padding: 1px 0;
+  background: var(--navis-field);
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .armour-properties .locations .location .location-values {
+  gap: 0;
+  line-height: 1;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .armour-properties .locations .location label {
+  margin: 0;
+  font-family: var(--navis-font-stencil);
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 0.6px;
+  line-height: 1;
+  color: var(--navis-brass);
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .armour-properties .locations .location label a {
+  color: inherit;
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .armour-properties .locations .location .armour-value {
+  font-family: var(--navis-font-text);
+  font-size: 14px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.05;
+  color: var(--navis-ink);
+}
+body.navis-skin .application.actor.impmal.npc .npc-header .armour-properties .locations .location .armour-value.damaged {
+  color: var(--navis-danger);
+}
+
+/* ── Tabs ───────────────────────────────────────────────────────────────── */
+body.navis-skin .application.actor.impmal.npc nav.sheet-tabs {
+  display: flex;
+  border: 0;
+  border-bottom: 1px solid var(--navis-line);
+}
+body.navis-skin .application.actor.impmal.npc nav.sheet-tabs > a[data-tab] {
+  flex: 1;
+  padding: 6px 0 7px;
+  text-align: center;
+  font-family: var(--navis-font-stencil);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 1.3px;
+  text-transform: uppercase;
+  color: var(--navis-ink-faint);
+}
+body.navis-skin .application.actor.impmal.npc nav.sheet-tabs > a[data-tab].active {
+  color: var(--navis-accent-lit);
+  background: var(--navis-raised);
+  box-shadow: inset 0 -2px 0 var(--navis-accent);
+}
+
+/* ── Actions: a control panel, three rows grouped by what they do ────────── */
+body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list.navis-actions {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 6px 10px;
+  align-items: center;
+}
+body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list .navis-action-caption {
+  justify-self: end;
+  width: 58px;
+  text-align: right;
+  font-family: var(--navis-font-stencil);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: var(--navis-brass);
+}
+body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list .navis-action-row {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 4px;
+}
+/* Two-Weapon Fighting is the one conditional action: impmal prints it only
+   while two one-handed weapons are equipped, which makes the attack row six
+   long and drops the sixth onto a line of its own. It used to be given two
+   tracks because it also carried the longest name of the fourteen. It no longer
+   does — the refit shortens it (SHORT_ACTION in module/refit.js) — so it sits in
+   one track like every other key, and the stray reads as a button rather than a
+   stretched one. */
+/* Block, not grid: a grid button centres an anonymous item that `text-overflow`
+   cannot reach, so a label too long for its cell is shaved at BOTH ends and
+   reads as nonsense. As a block the text truncates from the right, with an
+   ellipsis, and the full name stays on the tooltip the refit sets. */
+body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list .navis-action-row > button.action {
+  display: block;
+  min-width: 0;
+  height: 26px;
+  margin: 0;
+  padding: 0 4px;
+  line-height: 24px;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  background: var(--navis-field);
+  border: 1px solid var(--navis-line);
+  border-radius: 0;
+  box-shadow: none;
+  font-family: var(--navis-font-stencil);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.9px;
+  text-transform: uppercase;
+  color: var(--navis-ink-muted);
+  transition: color var(--navis-transition), background-color var(--navis-transition);
+}
+body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list .navis-action-row > button.action:is(:hover, :focus-visible) {
+  color: var(--navis-accent-lit);
+  background: var(--navis-raised);
+  border-left: 3px solid var(--navis-accent);
+}
+/* The chosen action, in the grid's own shape: caption left, a lifted plate
+   with a rust edge right. */
+body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list.navis-has-current .current-action {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  min-width: 0;
+  height: 30px;
+  margin: 0;
+  padding: 0 4px 0 10px;
+  line-height: 1;
+  background: var(--navis-raised);
+  border: 1px solid var(--navis-line);
+  border-left: 3px solid var(--navis-accent);
+}
+body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list.navis-has-current .current-action > div {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+  height: auto;
+  margin: 0;
+  background: none;
+}
+body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list.navis-has-current .navis-current-value {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-family: var(--navis-font-stencil);
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--navis-accent-lit);
+}
+body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list.navis-has-current .current-action > a {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 24px;
+  height: 24px;
+  margin: 0;
+  background: none;
+  color: var(--navis-ink-faint);
+  transition: color var(--navis-transition);
+}
+body.navis-skin .application.actor.impmal:is(.npc, .character) .action-list.navis-has-current .current-action > a:hover {
+  color: var(--navis-accent-lit);
+}
+
+/* ── Blocks: every list on the Main tab ─────────────────────────────────── */
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) section.tab[data-tab="main"] > .sheet-list {
+  padding: 0;
+  background: var(--navis-surface);
+  border: 1px solid var(--navis-line);
+  border-left: 3px solid var(--navis-brass-dim);
+  clip-path: var(--navis-plate);
+}
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) section.tab[data-tab="main"] > .sheet-list > .list-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: auto;
+  margin: 0;
+  padding: 5px 10px;
+  background: none;
+  border: 0;
+  border-bottom: 1px solid var(--navis-brass-dim);
+}
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) section.tab[data-tab="main"] > .sheet-list > .list-header .list-name {
+  flex: 1;
+  margin: 0;
+  padding: 0;
+  font-family: var(--navis-font-stencil);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: var(--navis-brass);
+}
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) section.tab[data-tab="main"] > .sheet-list > .list-header .list-controls a {
+  font-size: 16px;
+  line-height: 1;
+  color: var(--navis-ink-faint);
+}
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) section.tab[data-tab="main"] > .sheet-list .list-row {
+  background: none;
+}
+
+/* ── Skills: a two-column roll board ────────────────────────────────────── */
+body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .navis-board-caption {
+  font-family: var(--navis-font-stencil);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: var(--navis-ink-faint);
+}
+body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board > .list-content {
+  padding: 4px 10px 8px;
+}
+body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .skills-summary {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 18px;
+}
+body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .skills-summary > span {
+  display: block;
+  min-width: 0;
+}
+body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .skills-summary a.rollable {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 8px;
+  padding: 4px 0;
+  border-bottom: 1px solid var(--navis-line);
+  text-decoration: none;
+  color: var(--navis-ink);
+}
+body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .navis-skill-name {
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-family: var(--navis-font-text);
+  font-size: 14px;
+  color: var(--navis-ink);
+}
+body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .navis-skill-name em {
+  font-style: normal;
+  color: var(--navis-ink-faint);
+}
+body.navis-skin .application.actor.impmal.npc .sheet-list.navis-skill-board .navis-skill-target {
+  font-family: var(--navis-font-text);
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--navis-accent-lit);
+}
+
+/* ── Атаки НИП ──────────────────────────────────────────────────────────────
+   Раскладка приходит из блока вооружения (72-character.css): анкета НИП и
+   анкета персонажа собирают строку одними и теми же классами, поэтому колонки
+   у них совпадают до пикселя. Здесь остаётся только то, чего у персонажа нет.
+
+   У персонажа магазин — лента патронов и выбор боеприпаса, у НИП система даёт
+   одну кнопку: название заряженного или отметка, что патронов нет. Она и
+   занимает всю строку магазина. */
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .navis-armament .navis-arm-mag button {
+  flex: 0 1 auto;
+  min-width: 0;
+  width: auto;
+  height: auto;
+  min-height: 0;
+  margin: 0;
+  padding: 0;
+  background: none;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  clip-path: none;
+  text-align: left;
+  font-family: var(--navis-font-text);
+  font-size: 11px;
+  line-height: 1.2;
+  color: var(--navis-ink-faint);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .navis-armament .navis-arm-mag .navis-ammo-name:hover {
+  color: var(--navis-ink);
+}
+/* Нет патронов — это состояние оружия, а не примечание: цвет тревоги и рамка,
+   потому что кнопка ещё и заряжает. Раньше надпись не помещалась в колонку и
+   обрезалась на «ЕТ ПАТРОНО». */
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .navis-armament .navis-arm-mag .navis-no-ammo {
+  flex: none;
+  padding: 1px 6px;
+  border: 1px solid var(--navis-alert);
+  color: var(--navis-alert);
+  font-family: var(--navis-font-stencil);
+  font-size: 9px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .navis-armament .navis-arm-mag .navis-no-ammo:hover {
+  background: var(--navis-alert);
+  color: var(--navis-ink-inv, #16120e);
+}
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .navis-armament .weapon-aux.navis-drained {
+  display: none;
+}
+
+/* ── Traits: a plate each, description clamped to two lines ─────────────── */
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 8px 10px 10px;
+}
+/* No icon column. impmal swaps a trait's image for a d10 on hover from script,
+   which on a trait — used, not rolled — only reads as noise; with the image
+   hidden the dice never shows and the text starts at the plate's edge. The
+   name is still the click target it always was. */
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  column-gap: 0;
+  row-gap: 4px;
+  padding: 7px 10px 8px;
+  line-height: 1.4;
+  background: var(--navis-raised);
+  border: 1px solid var(--navis-line);
+  border-left: 3px solid var(--navis-brass-dim);
+}
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > .row-content,
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > .row-content > .list-name {
+  display: contents;
+}
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row .list-name img {
+  display: none;
+}
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row .list-name a.label {
+  grid-column: 1;
+  justify-self: start;
+  cursor: pointer;
+  align-self: center;
+  font-family: var(--navis-font-stencil);
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: var(--navis-ink);
+}
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > .description {
+  grid-column: 1 / -1;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  font-family: var(--navis-font-text);
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--navis-ink-muted);
+}
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row.navis-open > .description {
+  display: block;
+  -webkit-line-clamp: unset;
+  overflow: visible;
+}
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > .description p {
+  display: inline;
+  margin: 0;
+}
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row.navis-open > .description p {
+  display: block;
+}
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > .description a.content-link {
+  padding: 0;
+  background: none;
+  border: 0;
+  font-weight: 500;
+  color: var(--navis-accent-lit);
+}
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > .navis-more {
+  grid-column: 1 / -1;
+  justify-self: start;
+  cursor: pointer;
+  font-family: var(--navis-font-stencil);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: var(--navis-accent-lit);
+}
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > :not(.row-content, .description, .navis-more) {
+  grid-column: 1 / -1;
+}
+body.navis-skin .application.actor.impmal:is(.npc, .vehicle) .sheet-list.navis-traits > .list-content > .list-row > div:empty {
+  display: none;
+}
+
+/* ══ ADVANCEMENT FORM ══════════════════════════════════════════════════════
+   impmal lays every row of this form out as full-height input boxes — a
+   bordered, padded control per cell, on four tabs, including the two tabs that
+   are read-only. The result is a wall of boxes where the eye wants a list. The
+   refit (refitAdvancement in module/refit.js) turns the Items rows into plain
+   text and marks the form; the rest is weight taken off. */
+
+body.navis-skin .navis-advancement-form .advancement-list > p.navis-adv-hint {
+  margin: 0 0 8px;
+  font-size: 12px;
+  line-height: 1.35;
+  color: var(--navis-ink-faint);
+}
+
+body.navis-skin .navis-advancement-form .advancement-list .header {
+  margin: 0 0 2px;
+  padding-bottom: 3px;
+  border-bottom: 1px solid var(--navis-line);
+  font-family: var(--navis-font-stencil);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: var(--navis-track-caption);
+  text-transform: uppercase;
+  color: var(--navis-brass);
+}
+
+/* A row is a line of type, not a stack of fields. */
+body.navis-skin .navis-advancement-form .advancement-list > div:not(.header) {
+  min-height: 0;
+  padding: 2px 0;
+  border-bottom: 1px solid var(--navis-line-faint, rgba(255, 255, 255, 0.05));
+}
+
+/* Editable cells — the Other tab, and the advance steppers — keep their
+   affordance, but as a recessed line rather than a raised box. */
+body.navis-skin .navis-advancement-form .advancement-list input {
+  margin: 0;
+  padding: 1px 4px;
+  height: 22px;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--navis-line);
+  border-radius: 0;
+  box-shadow: none;
+  font-size: 13px;
+  color: var(--navis-ink);
+}
+body.navis-skin .navis-advancement-form .advancement-list input:is(:hover, :focus) {
+  background: var(--navis-field);
+  border-bottom-color: var(--navis-brass);
+  outline: none;
+}
+
+/* Read-only rows became text, so they carry no box at all. */
+body.navis-skin .navis-advancement-form .advancement-list .navis-adv-name,
+body.navis-skin .navis-advancement-form .advancement-list .navis-adv-xp {
+  padding: 1px 4px;
+  font-size: 13px;
+  line-height: 20px;
+  color: var(--navis-ink);
+}
+body.navis-skin .navis-advancement-form .advancement-list .navis-adv-xp {
+  font-variant-numeric: tabular-nums;
+  color: var(--navis-ink-muted);
+}
+
+/* The Items rows open their item, so they say so on hover. */
+body.navis-skin .navis-advancement-form .advancement-list .navis-adv-item {
+  cursor: pointer;
+}
+body.navis-skin .navis-advancement-form .advancement-list .navis-adv-item:hover {
+  background: var(--navis-raised);
+}
+body.navis-skin .navis-advancement-form .advancement-list .navis-adv-item:hover .navis-adv-name {
+  color: var(--navis-accent-lit);
+}

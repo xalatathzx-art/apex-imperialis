@@ -1,0 +1,70 @@
+{
+  "name": "Люминен Конденсаторы",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000101",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 10100,
+  "system": {
+    "notes": {
+      "player": "<p>Продвинутые энергетические шунты и эмиттеры позволяют формировать и направлять мотивирующую силу электричества.</p><p>Устанавливается только персонажу с чертой Импланты Механикум, не более одного экземпляра. Операция по установке персонажу вне Техножречества — услуга Редкости 4.</p>",
+      "gm": ""
+    },
+    "rules": "<p>10 минут медитации над батареей и проверка Выносливости заряжают её независимо от исхода, но каждый Провал стоит владельцу 1 заряд или 1 Усталость, не больше, чем батарея могла бы дать.</p>",
+    "page": "DoomBC стр. 272",
+    "category": "mechanicum",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 272",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

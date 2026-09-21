@@ -1,0 +1,182 @@
+{
+  "name": "Space Marine",
+  "type": "navis-apexialis.species",
+  "_id": "navisSpc00000010",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder001",
+  "sort": 1000,
+  "system": {
+    "notes": {
+      "player": "<p>You are one of the Space Marines of Chaos — whether an ancient veteran of the Horus Heresy, a fresher traitor, or a Marine created by the warbands of Chaos who was never loyal to the Emperor at all. You are a genetically enhanced warrior who towers over mortals and surpasses them in very nearly everything.</p>",
+      "gm": "<p><strong>Read this before allowing one.</strong> Even converted down to impmal's scale a marine is roughly 21 Wounds against a starting human's 12, and the power armour that comes with the species has AP 10 against flak's 4 — a lasgun hit does no damage to it at all, ever. The characteristics are survivable at a mixed table. The armour is not: encounters written for Imperium Maledictum stop working against it.</p> <p>Ship it, allow it deliberately, and expect to write combats differently. That is the trade, stated plainly.</p> <p><em>Ceilings:</em> impmal caps a human at 60 and puts an Astartes at \"60+\", so this entry states 80 across the board. The direction is the book's; the number is this module's.</p>"
+    },
+    "category": "transhuman",
+    "reference": "DoomBC p.6",
+    "restricted": true,
+    "characteristics": {
+      "modifiers": {
+        "ws": 10,
+        "bs": 10,
+        "str": 10,
+        "tgh": 10,
+        "ag": 5,
+        "int": 5,
+        "per": 5,
+        "wil": 5,
+        "fel": 5
+      },
+      "choice": {
+        "number": 1,
+        "value": 5,
+        "keys": [
+          "ws",
+          "bs",
+          "str",
+          "tgh",
+          "wil"
+        ]
+      },
+      "maximums": {
+        "ws": 80,
+        "bs": 80,
+        "str": 80,
+        "tgh": 80,
+        "ag": 80,
+        "int": 80,
+        "per": 80,
+        "wil": 80,
+        "fel": 80
+      }
+    },
+    "skills": {
+      "melee": 2,
+      "ranged": 2,
+      "athletics": 1,
+      "awareness": 1,
+      "discipline": 1,
+      "fortitude": 1
+    },
+    "size": "large",
+    "corruption": 0,
+    "roles": [
+      "Warrior",
+      "Zealot"
+    ],
+    "removes": [],
+    "grantedTraits": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0001",
+          "id": "navisSpTrait0001",
+          "name": "Gene-Seed",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0002",
+          "id": "navisSpTrait0002",
+          "name": "Black Carapace",
+          "diff": {}
+        }
+      ]
+    },
+    "talents": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-talents.Item.malExpTal0000061",
+          "id": "malExpTal0000061",
+          "name": "Nerves of Steel",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-talents.Item.malExpTal0000113",
+          "id": "malExpTal0000113",
+          "name": "Unarmed Warrior",
+          "diff": {}
+        }
+      ]
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpGear00005",
+          "id": "navisSpGear00005",
+          "name": "Astartes Power Armour",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpGear00003",
+          "id": "navisSpGear00003",
+          "name": "Astartes Pattern Boltgun",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpGear00004",
+          "id": "navisSpGear00004",
+          "name": "Astartes Combat Knife",
+          "diff": {}
+        }
+      ]
+    }
+  },
+  "effects": [
+    {
+      "_id": "navisSpFx0000010",
+      "name": "Space Marine — physiology",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "changes": [
+        {
+          "key": "system.combat.wounds.max",
+          "mode": 2,
+          "value": "6",
+          "priority": 20
+        },
+        {
+          "key": "system.combat.criticals.max",
+          "mode": 2,
+          "value": "1",
+          "priority": 20
+        }
+      ],
+      "disabled": false,
+      "transfer": true,
+      "origin": null,
+      "duration": {},
+      "description": "",
+      "statuses": [],
+      "flags": {
+        "navis-apexialis": {
+          "source": "DoomBC_Core",
+          "generated": "tools/make-species.mjs"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "impmal",
+        "systemVersion": "3.3.0"
+      }
+    }
+  ],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

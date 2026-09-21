@@ -1,0 +1,70 @@
+{
+  "name": "Фрейм Ксенарит",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000113",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 11300,
+  "system": {
+    "notes": {
+      "player": "<p>Фрейм для добычи, изучения и использования ксенотеха; на многих кузницах культы Ксенаритов вне закона, поэтому фреймы обычно не выделяются ни внешне, ни Ноосферно, мимикрируя под другие фреймы.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Не тратит Заряд на расшифровку Ксеноосферы, считает все специализации соответствующих Знаний изученными на +0 и вдвое снижает штраф на использование ксено-оружия. Включает Фазовый Якорь против технологий Некронов, Бесконечный Ретранслятор для техники Эльдар и Генератор Ван-Рихтена для техники Орков. Деградировавшая речь даёт штраф на общение вне Техножречества и Скитариев, растущий для Командования.</p>",
+    "page": "DoomBC стр. 274",
+    "category": "mechanicum",
+    "rarity": 3,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 8000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 274",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

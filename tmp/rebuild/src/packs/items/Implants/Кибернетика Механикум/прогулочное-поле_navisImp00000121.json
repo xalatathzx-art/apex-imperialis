@@ -1,0 +1,70 @@
+{
+  "name": "Прогулочное Поле",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000121",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 12100,
+  "system": {
+    "notes": {
+      "player": "<p>Частичная расшифровка инженерной обвязки времён ТЭТ создаёт комплекс полей, ограждающий владельца и всех рядом от угроз внешней среды.</p><p>Устанавливается только персонажу с чертой Импланты Механикум, не более одного экземпляра. Операция по установке персонажу вне Техножречества — услуга Редкости 4.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Пока поле активно, оно заполняет ауру до 5м чистым воздухом комфортной температуры, останавливает сильный ветер и мусор и ослабляет фоновую радиацию. Активация и поддержание тратят заряды.</p>",
+    "page": "DoomBC стр. 275",
+    "category": "mechanicum",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Не создаёт воздух в вакууме, только очищает имеющийся; не защищает от радиации.",
+      "2": "",
+      "3": "Даёт черту Полёт (3) в невесомости и полностью блокирует фоновую радиацию.",
+      "4": "Как Уровень 3, но не тратит заряды на поддержание."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 275",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

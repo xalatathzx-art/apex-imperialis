@@ -1,0 +1,33 @@
+{
+  "name": "Serum Hook",
+  "type": "trait",
+  "_id": "navisSpTrait0024",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 2400,
+  "system": {
+    "notes": {
+      "player": "<p>You were grown, and what grew you still owns the recipe.</p> <p>Without a dose of your serum each week you gain one level of <em>Fatigued</em> that no rest removes, cumulative. A dose costs 200 ₷ and cannot be bought from anyone but your maker or a very good chirurgeon.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

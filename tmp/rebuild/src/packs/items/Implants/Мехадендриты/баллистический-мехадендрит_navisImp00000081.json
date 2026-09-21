@@ -1,0 +1,99 @@
+{
+  "name": "Баллистический Мехадендрит",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000081",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00006",
+  "sort": 8100,
+  "system": {
+    "notes": {
+      "player": "<p>Распространённый среди воинственных Механикум мехадендрит, по умолчанию снабжённый компактным лазпистолетом.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Пистолет можно заменить любым другим компактным пистолетом или оружием со свойством Combi; питающееся от батарей оружие не расходует боеприпасы. При перегреве урон приходится в торс, а сам мехадендрит бесполезен до починки. Сам пистолет — отдельный предмет, который вы добываете и вешаете на мехадендрит.</p><p>Табличный профиль мехадендрита — это удар в рукопашной, и он вынесен в оружие: <strong>урон 4</strong>, <em>Бесполезное</em>.</p><p><em>Бонус Силы владельца к этому урону не прибавляется: собственная Сила мехадендрита уже учтена в числе.</em></p>",
+    "page": "DoomBC стр. 277",
+    "category": "mechadendrite",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 2800,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 1,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "−1 успех на связанные проверки, S −10.",
+      "2": "",
+      "3": "+1 успех на связанные проверки, S +5.",
+      "4": "+1 успех на связанные проверки, S +10."
+    },
+    "slot": "mechadendrite",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00800",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt08000",
+            "kind": "weapon",
+            "profile": {
+              "name": "Баллистический Мехадендрит",
+              "attackType": "melee",
+              "category": "mundane",
+              "spec": "brawling",
+              "range": "",
+              "damage": {
+                "base": "4",
+                "characteristic": "",
+                "SL": false,
+                "ignoreAP": false
+              }
+            }
+          },
+          {
+            "id": "navisImpEnt08001",
+            "kind": "weaponTrait",
+            "traitKey": "ineffective"
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 277",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

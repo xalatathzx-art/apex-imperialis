@@ -1,0 +1,79 @@
+/* ══════════════════════════════════════════════════════════════════════════
+   78 HORDE — the Strength field on an NPC's Effects tab, and the casualty
+   line the applied-damage chat card gains when the target is a horde.
+
+   The row carries one control and nothing else. Everything the number means —
+   Tier, the modifier it grants, how many targets the mob's attack covers — is
+   in the rules journal; repeating it here cost four lines of text on a tab
+   that already holds fourteen conditions. What the field does is on its
+   tooltip, which costs no height at all.
+   ══════════════════════════════════════════════════════════════════════ */
+
+body.navis-skin .navis-horde {
+  /* The Effects tab is a column flex container, so a percentage basis would be
+     read against its height and stretch the block down the whole tab. */
+  flex: 0 0 auto;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 6px;
+  padding: 3px 8px 4px;
+  background: var(--navis-raised);
+  border: 1px solid var(--navis-line);
+  border-left: 3px solid var(--navis-brass-dim);
+}
+
+body.navis-skin .navis-horde .navis-horde-label {
+  margin: 0;
+  font-family: var(--navis-font-stencil);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: var(--navis-track-caption);
+  text-transform: uppercase;
+  color: var(--navis-brass);
+}
+
+/* Pushed right so the number sits on the edge, the way an attribute box reads. */
+body.navis-skin .navis-horde .navis-horde-caption {
+  margin-left: auto;
+  font-size: 11px;
+  letter-spacing: 0.4px;
+  color: var(--navis-ink-faint);
+}
+
+body.navis-skin .navis-horde input[name="navis-horde-size"] {
+  flex: 0 0 auto;
+  width: 4.5ch;
+  height: 20px;
+  margin: 0;
+  padding: 0 2px;
+  text-align: center;
+  font-family: var(--navis-font-text);
+  font-size: 14px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  color: var(--navis-ink);
+  background: var(--navis-field);
+  border: 1px solid var(--navis-line);
+  border-radius: 0;
+}
+
+body.navis-skin .navis-horde input[name="navis-horde-size"]:focus {
+  outline: none;
+  border-color: var(--navis-brass);
+}
+
+/* ── The horde's casualty line on an applied-damage chat card ──────────── */
+body.navis-skin .navis-horde-casualties {
+  display: block;
+  margin-bottom: 2px;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  color: var(--navis-brass);
+}
+
+body.navis-skin .navis-horde-casualties.destroyed {
+  color: var(--navis-danger);
+  text-transform: uppercase;
+}

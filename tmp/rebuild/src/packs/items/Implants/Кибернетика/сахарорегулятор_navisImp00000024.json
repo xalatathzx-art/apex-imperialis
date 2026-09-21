@@ -1,0 +1,70 @@
+{
+  "name": "Сахарорегулятор",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000024",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00003",
+  "sort": 2400,
+  "system": {
+    "notes": {
+      "player": "<p>Хим-генератор у печени отслеживает уровень сахара в крови, извлекая или добавляя его по надобности. Наружный модуль на животе принимает батарею от лазпистолета, расходуя один заряд каждые четыре часа.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Пока в импланте есть заряды, владелец не нуждается в пище ради энергии — но по-прежнему нуждается в ней ради белков, минералов и витаминов — и не набирает лишний вес от переедания. Качество влияет только на внешний вид.</p>",
+    "page": "DoomBC стр. 265",
+    "category": "cybernetic",
+    "rarity": 0,
+    "availability": "common",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 800,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 265",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

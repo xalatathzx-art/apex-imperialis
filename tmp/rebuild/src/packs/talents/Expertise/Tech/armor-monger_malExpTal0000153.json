@@ -1,0 +1,59 @@
+{
+  "name": "Armor-Monger",
+  "type": "talent",
+  "_id": "malExpTal0000153",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Gain IntB armor points you can distribute over your armor locations. Must spent 1h per day on your armor. For you only</span></p><hr><p><span style=\"font-family: Arial\"><em>You gain an extra amount of Armor Points equal to your Intelligence Bonus, which you can distribute to any locations that your armor normally covers as long as you spend at least an hour a day to clean and repair it, or make minor modifications. This bonus only applies to armor when you are wearing it. </em></span></p>",
+      "gm": "Talent Category: Tech"
+    },
+    "requirement": {
+      "value": "2 Advances in Tech",
+      "script": "return this.actor.system.skills.tech.advances >= 2"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "gg2FdNYcHKZzBhcM",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 300000
+}

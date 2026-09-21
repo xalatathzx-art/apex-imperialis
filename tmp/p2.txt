@@ -1,0 +1,143 @@
+# Illicit Fabrications / Part 2: Caged Conspiracy (142 runs)
+2: Having discovered a link between the explosion and an underground fighting pit, the party navigates the dangers and dealings within The Dreg before uncovering a vile plot and a mysterious benefactor lingering in an abandoned hideout.
+6: The Dreg
+12: The Dreg is a collection of the miserable and the desperate, all seeking some escape from the drudgery of their lives. An abandoned hovel amid the hab slums, made from collapsed tunnels and crumbled industrial floors. The dug out antechamber is lit by a discordant mix of scavenged, flickering lumens of various tones. A stairway descends to a heavy iron door where two massive brutes bulked by grafted muscle stand sentinel.
+18: In the far corner of the antechamber, impossible to miss in his red scarf, sits Datan. He’s finishing up selling some of his black market rations to a customer. Should the characters approach him, 
+20: Datan
+22:  greets them with a greasy smile and begins to ask them what they’re in the market for. He has his rations on hand but otherwise claims to source ‘anything they need’ (use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ncXwqNsh38L8CyRo]{Smuggler} stat-block to represent him). 
+26: If the party asks him about the rations, he confirms they’re his, a custom mixture made from militarum-grade rations and other nutrients sourced here in @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.8lJW1E95hsf5Hu4K.JournalEntryPage.yspwSIQuXjVjk3NA#hive-rokarth]{Rokarth}. He claims it is much better stuff than what the dispensaries give out. He offers them at 10 solars for a pack of six — but is evasive if asked to whom he has recently sold them. Should the characters press him or otherwise mention their investigation of the manufactorum explosion, he says that he cannot confirm or deny any dealings he may or may not have had. Characters can make a 
+28: Difficult (−10) Presence (Intimidation)
+30:  or 
+32: Rapport (Charm)
+34:  Test, or simply offer him around 100 solars as a bribe, to loosen his tongue.
+38: Other than his usual customers, Datan recently sold a large shipment to some gangers, the @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#the-vylathi-knives]{Vylathi Knives}. The whole deal was brokered through a friend of his who also dealt with the Knives — the rations were something of a sweetener to the deal. Datan genuinely knows very little else about the deal. If the party asks about this friend, Datan points towards the stairs to the pit, guarded by a pair of rough-looking gangers:
+44: ‘You’ll find him down there in the pits. Kem, an old friend of mine, unless he’s done you some harm… In which case, I hardly know him. He sent the gangers my way. I didn’t get any names. The guy in charge looked pretty dangerous — smile like an acynadi and an attitude to match. They bought all my stock and left.’
+50: Datan has little else of immediate use for the party but is a valuable Contact. If a character is particularly generous to him, purchasing some of his goods or paying 200 or more solars for his information, they may add him as an Infractionist @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.qxkAEAcB9xAl56Xa#personal-influence]{Contact}.
+56: The Pit Below
+62: From beyond the doorway, leading down into the bowels of the Dreg, muffled cheering reaches up to be heard. Loud thumps and painful cracks further punctuate roars and screams. The architecture screams of decay, it might fall apart at any minute, but until then, the people here desperately need a place to go and forget their never-ending drudgery.
+68: The muscled brutes guarding the stairs are 
+70: Boritz
+72:  and 
+74: Urdo
+76:  (use the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{Grafted Ganger} stat-block to represent them). Anyone with at least 1 @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionist} Influence can easily talk their way in — punters and their solars are welcome after all — but anyone with a bearing of authority is asked about their business, requiring an 
+78: Average (+20) Rapport (Charm
+80:  or 
+82: Deception)
+84:  Test needed to get past them. If violence ensues, a short fistfight is considered a reasonable introduction in the Dreg, but anyone who pulls a weapon is set upon by three more @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{Grafted Gangers}, who emerge from a side room and attempt to remove any offender from the premises with all due bloodshed.
+88: The stairs down to the pit are plastered with graffiti, much of it carved into the rusting bulkhead walls and pipework along the narrow stairway. The space beneath is impressively large. Characters with Advances in the Engineering specialisation, or anyone who makes a 
+90: Routine (+20) Tech (Engineering)
+92:  Test, realise it was once a massive promethium storage tank.
+96: Beyond the stairs in the vast open space, three tiers packed with a cheering crowd overlook a dome of razor wire where two bloodied figures circle one another, fists raised. At the far side, separated from the crowd on a raised dais, a large man sits on a chair flanked by four hulking guards.
+100: The two continue to exchange blows as the characters enter. The crowd roars in approval at the bloody spectacle. Before long, one man catches the other with a right hook and sends his target sprawling to the floor, teeth scattering through the cage to be swiftly collected by eager punters willing to risk the razor wire for a souvenir. Panting and staggering to his feet, the victor raises a bloody fist. Shouts of ‘
+102: Kem! Kem! Kem!
+104: ’ resound as smug gamblers pass by cursing losers to collect their winnings. ‘
+106: Make your bets now, dear patrons! The night’s main event is upon us!
+108: ’ says the seated man, a vox unit amplifying his voice around the hall. ‘
+110: The butcher herself will take to the cage later tonight!
+116: Victorious but with more than a few bruises, Kem leaves the cage and limps towards a nearby passage. 
+120: The characters are free to mix with the crowd for a while, most of whom are happy to discuss their wins and losses. The Pit strongly encourages gambling — though most citizens put rations and favours on the line, it's mostly the gangers who regularly bet solars. Meanwhile, characters easily hear speculation on the upcoming bout: the Butcher is the favourite by far, but Kem is popular with the crowd. Kem however, has been fighting in the pit for years longer than most, and many believe he has slowed enough to make the coming match an easy win for the Butcher.
+124: Following Kem
+130: Kem sits in a filthy ablution chamber, washing the blood from his skin with murky water from a rusted pipe. His deep, wheezing breaths accentuate the messy gashes crisscrossing his muscular flesh. A crimson rag lies on the floor beside him.
+136: With the blood removed from his face and hair, the characters can see he is far older than he seems and weary beyond measure. Looking up at them, Kem spits a gob of red spit onto the floor and asks, ‘
+138: What do you want?
+144: If the party explains to Kem that Datan told them he might know something about the manufactorum explosion, he curses and growls. He threatens to ‘
+146: snap that little rat’s neck
+148: ’ when he sees him before breaking into a coughing fit and spitting more blood on the floor. He eyes the characters carefully before speaking again. Read aloud or paraphrase the following information:
+154: I’ve fought four tonight. Four strong, vicious men half my age, and I still owe Yarneg one last fight before I’m in the clear. He’s put me up against the Butcher, the pit champion. I know I can’t beat her. Maybe when I was young, but now? It's a death sentence. I don't want to die here. You want to know about the explosion? Help me out, and I'll tell you everything I know.
+160: Kem agrees to talk about what he knows only if the characters offer their aid. If so, Kem explains that Yarneg owns the Dreg, presiding over the fights with his guards at his side. He keeps the Butcher locked up like an animal and sends a lackey to feed her gruel laced with combat drugs before each fight. 
+164: Kem takes two pills from a brown paper bag and swallows them. ‘
+166: These are some of the strongest pain suppressants this side of the hive, courtesy of your friend Datan. Switch the gruel and dump the rest of this bag in it; that should be enough to give me a chance. Unless one of you would rather fight her yourself?’
+172: He also tells them where to find the Butcher’s cell. A lone @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.ZUWBWGM4eH7xFZ8P]{Dreg} guards her wretched prison. If the guard can be distracted or removed, the characters can dose the butcher’s meal without issue. If they draw attention to themselves, Yarneg’s guards, more @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{Grafted Gangers}, arrive to remove them.
+176: Otherwise, Kem could be intimidated into answering. A successful 
+178: Hard (−20) Presence (Intimidation)
+180:  Test is enough to convince him to answer. But without the character’s aid, his prediction proves accurate, and the Butcher tears him to shreds in the coming bout.
+184: A character might offer to fight in Kem’s stead. They need to convince Yarneg — a bulbous, sweaty mess of a man interested only in solars and the raucous cheers of the crowd — that they can make it an exciting fight. Taking down one of Yarneg’s guards bare-handed is enough to do this. Kem is surprised and grateful — he didn’t think anyone would take him up on that option. Surviving a bout with the unmedicated Butcher is another matter. Whether the lucky character wins or not, Kem is true to his word. Use the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.ciU9gLyQG3bdXpT1]{Grafted Ganger} stat-block to represent the Butcher. If she’s taken combat drugs, she can use her 
+186: Grafted Muscle
+188:  Trait without suffering any Damage from its effect.
+192: An Easy Win
+196: An hour later, the bout with the Butcher begins. The massive brute, bulked with grafted muscle, is led out in chains as Yarneg laughs from his perch. The crowd’s cheering falters once the Butcher is unleashed. If her meal was dosed with pain suppressants, she stumbles through the fight, making it an easy match for Kem — or any character who stands in his stead — who puts the massive woman down in short order. Silence reigns throughout the chamber, and then the cheering begins. Though notably, Yarneg does not look pleased.
+200: With the fight over, Kem thanks the characters and provides them with what he knows. Read aloud or paraphrase the following information:
+206: A man called DeGuar, a manufactorum overseer, used to come here occasionally, but that night was special. More reckless than ever before, he won bet after bet, until he lost big. The Vylathi Knives fixed all the fights that night. I don't lose many bouts, and I'm not proud of it, but I took a dive. I did it without Yarneg's permission. He can't touch the Knives, but he’s taking it out on us anyway — that’s why I got put up against the Butcher tonight.
+212: Kem heard the gangers talking while collecting his payment. The Knives fixed the fights that night specifically to get Overseer DeGaur into their debt. Once he owed them a sufficiently ruinous amount of solars, they ‘helpfully’ offered him an alternative. DeGaur would grant them access to the manufactorum, and they would take his workers. DeGuar would keep some of the chems from that place and start a new life off the profits. The manufactorum was demolished to cover the gang’s tracks. 
+216: By then, the gangers had noticed Kem paying attention, which is when he went to Datan, making it seem like he’d be interested only in hawking a friend’s wares rather than spying on the gang.
+220: Kem gives the party directions to a ganger hideout — he visited it once while negotiating his own deal — and sends them on their way. If the characters think to ask, Kem can describe the gang’s weaponry, mostly @UUID[Compendium.navis-apexialis.navis-core-items.Item.nyjv454gtdJ43klt]{autoguns}, and the defences around their hideout, granting the party 1 Superiority in their next confrontation with the @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#the-vylathi-knives]{Vylathi Knives}.
+224: The Raid
+228: As the party returns to the main pit, a croaking voice calls to them from a nearby drain. ‘
+230: Go… The Skitarii… they’re coming
+232: ’. The characters only have a moment to react to this warning before the crowd’s chants turn to screams, backed by gunfire and plasma shots. A squad of @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{Skitarii Vanguard} are raiding The Dreg, having also discovered the fighting pit’s connection to the mystery. Amply forewarned, the characters may run if they wish. They witness a pitched battle between the Skitarii and the gangers if they linger.
+236: Smoke fills the air as the crowd of citizens and gangers duck for cover, returning fire at the Skitarii, who push quickly into the main chamber, the ragtag resistance providing little opposition. A character may attempt a 
+238: Routine (+20) Stealth (Move Silently)
+240:  Test to lead the party and skirt their way around the crossfire towards the exit.  
+246: Let’s fight!
+250: Most parties have enough sense to avoid getting into a firefight between Yarneg’s gangers and the Skitarii, but if they are so inclined, you may allow them to do so.
+254: If they are fighting on the side of the Skitarii, then the @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.vsiOALilPnEe3dKg]{Skitarii Vanguard Alpha} in charge of the squad — Landa-12, whom they may have encountered earlier in the hab slums — recognises their assistance. The Vanguard are ordered not to engage them unless they are fired upon. Landa-12 hears the party out before sending them on their way, advising them that further interference in the investigation would be ‘
+256: illogical and ill-advised.
+262: If they join in on the side of the Gangers and win, then Yarneg forgets any previous ill will and thanks the characters profusely. The Dreg must be abandoned, but Yarneg is optimistic about starting over elsewhere and invites the party to attend his new venture once it is opened. The party’s Patron can leverage this connection to gain 1 @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.5jO3tXI5hSEBAC4s]{Infractionist} Influence, and the characters may add Yarneg as a Contact.
+268: From the dais above, Yarneg hurls @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.QaiU7Hod2xMnOTM7.Item.Oe9FDIz24FoyKhjl]{Frag Grenades} towards the invaders. The crowd rushes for the stairs, abandoning cover to be cut down by precise fire. Yet the press of bodies living and dying clogs the stairway, making it a 
+270: Minor Hazard
+272: . One of the characters may attempt a 
+274: Routine (+20) Athletics (Might)
+276:  Test to barge a path through the crowd without taking Damage. 
+280: In the ruined antechamber above, several gangers are kneeling, hands shackled, and overseen by two @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.jSJkugzVGrfqbl9o]{Skitarii Vanguard}. As the fleeing crowd bursts onto the scene, they raise their rifles and acquire targets. Unless the characters can muster at least +3 Influence with the @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.nYfLVXh10BKR47Kj]{Adeptus Mechanicus} and succeed a 
+282: Challenging (+0) Rapport (Charm)
+284:  Test, these Skitarii immediately open fire on them, as their command protocols have been set to engage any potential targets emerging from the Pit.
+288: Assuming the party survives events at the Dreg, they can follow Kem’s directions to the Vylathi Knives' hideout. The mysterious voice they heard in the Pit could point the way if they did not acquire this information. The party may also have begun to suspect that Vand is DeGuar and now has enough information to hand the former Overseer over to the authorities if they are so inclined.
+300: The Hideout
+306: A rundown warehouse complex sits decaying and lightless amidst the hab slums. Sealed windows stare out over a former processing yard strewn with puddles of promethium, rusted machinery and vast spools of wire.
+312: Following Kem’s directions, the party reaches the Vylathi Knives' hideout, finding it abandoned and unguarded. Its first floor consists of an open area and a small back room. Piles of refuse and loose strands of cabling scatter the floor before a dark stairway that rises to the level above. The smell of body odour and effluent is heavy, and a strange green stain marks the floor. Characters can find clues listed in the Abandoned Hideout Clues Table, should they search the hideout — provide at least one to each character involved in the search, and allow them to puzzle over what each might mean, or get them to make 
+314: Challenging (+0)
+318: Investigation (Logic)
+320:  Tests if they are stumped.
+324: Once the recording (‘Labelled Vox Recording’) has been played, have anyone who hears it make an 
+326: Investigation (Logic)
+328:  Test, the difficulty of which varies depending on how long they have spent with @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.gw1UiYXapR7TRNHF]{Barsis Vand}. If successful, it becomes clear that DeGaur's voice on the recording is the same as that of Vand, albeit somewhat more inebriated. If Vand happens to accompany the characters while the vox recording is being played, his terrified reaction makes this connection all the clearer.
+340: Abandoned Hideout Clues
+352: Clue
+360: Description
+368: Interpretation
+384: Small Device
+392: A small device lies discarded in a small back room, along with a handful of spent @UUID[Compendium.navis-apexialis.navis-core-items.Item.nyjv454gtdJ43klt]{autogun} casings and some dirty clothing.
+400: A successful 
+402: Challenging (+0) Investigation (Logic)
+404:  Test reveals this to be a detonator for a det pack, a fact which anyone with an @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.GPqYZykonC12TJb1.JournalEntryPage.r6JYS3jOfrAEorvd]{Astra Militarum} background or who is otherwise familiar with such munitions can tell without a Test.
+414: Discarded Ration Papers
+420: Discarded ration pack wrappers are strewn across the floor. They found the same ones around the ruined manufactorum.
+428: These were the custom rations that Datan sold to the Vylathi Knives. A successful 
+430: Challenging (+0) Awareness (Sight)
+432:  Test reveals a small cache of these rations nearby — enough to give one to each party member.
+442: Acrid Green Liquid
+448: An acrid green liquid has been spilt in one corner of the warehouse, and damage to the floor indicates that several heavy containers were recently moved from here.
+456: A successful 
+458: Challenging (+0) Tech (Engineering)
+460:  Test reveals this to be a highly refined organic compound. If the characters know of the precusor chemicals stolen from Manufactorum Vitus-II, then a 
+462: Routine (+20) Investigation (Logic)
+464:  Test informs them that this is likely a trace of that substance.
+474: Plasflex Restraints
+480: Interspersed among the remains of the ration packs are several cut plasfex restraints.
+488: A 
+490: Routine (+20) Investigation (Logic)
+492:  Test reveals restraints sufficient to hold at least fifty individuals. The fact that they were cut may indicate that some prisoners were released or became compliant with their captors.
+502: Labelled Vox Recording
+508: A vox recorder sits with a crudely written note attached. It reads: ‘
+510: DeGaur, if you’re stupid enough to come looking for us, this is a reminder of what you agreed to. We have more copies.
+520: Playing the recording, the characters hear the following:
+524: DeGuar: ‘
+526: So… I keep the precursor, and you take all my labourers to continue the work…
+528: ’ he says, clearly inebriated.
+532: Navrak: ‘
+534: That’s our proposal, DeGuar.
+540: DeGuar: ‘
+542: And the gang will level the manufactorum so no one finds out?
+544: ’ he slurs before adding, ‘
+546: Smart man, Navrak.
+562: Unwelcome Homecoming
+566: Once the party has had enough time to investigate the warehouse, ideally, when they are all in the back room listening to the vox, the character nearest the door hears the noise of someone entering the warehouse. Seven @UUID[Compendium.impmal-starter-set.journals.JournalEntry.Vjfxkwi1rFYPnSIf.JournalEntryPage.AgChFLsZYrdMa2pS#the-vylathi-knives]{Vylathi Knives} enter the warehouse, carrying a wounded comrade between them. One mutters, ‘
+568: I never signed up to fight the Throne-damned Mechanicus
+570: .’ Another replies, ‘
+572: Sit tight, Navrak will know what to do.
+578: Use the @UUID[Compendium.navis-apexialis.navis-core-actors.Actor.bB0rMr6Gez3M9bME]{Ganger} stat-block to represent the Vylathi Knives NPCs.
+582: The party is likely in an advantageous position to take the gangers by surprise (they gain 1 Superiority if this is the case), but are also likely to be outnumbered. If they wish, they may fight through this encounter or attempt to escape through the back.
+586: Key to this encounter is the introduction of @UUID[Compendium.navis-apexialis.navis-voll-actors.Actor.i1LNkpV6WWiZR7PL]{Lerna Harrog}. She has shadowed the group for some time and finally decided to trust them. If the characters choose to flee, they hear her croaked voice whisper, ‘
+588: Here! Come quick!
+590: ´ from a nearby drain. If they decide to fight the gangers, Harrog waits until the gunfire dies down before approaching the group or, if they prove to be outmatched, lends the characters her considerable aid. Her story is told at the beginning of @UUID[.Wg3MpL7rSVOWhIlt]{Part 3}.
+594: If the characters leave any of the gangers alive, they can interrogate them. These low-level street toughs rely on @UUID[.0Ozt4mfDwFIqYyBJ#kathor-navrak]{Kathor Navrak} for much of their higher brain function. Still, they can provide the characters with some helpful information and fill in any blanks they may have missed regarding the deal between DeGaur and the Vylathi Knives.

@@ -6,15 +6,6 @@
 # from it — `node tools/build.mjs`. Committing the built LevelDB would also
 # mean committing its LOCK file, which the running Foundry server holds open,
 # so `git add` fails outright whenever the world is up.
-#
-# The leading slash is load-bearing: without it this pattern matches a `packs`
-# directory at ANY depth, and silently swallows src/packs/ — 530 files of the
-# actual source content — while looking exactly like it works.
-/packs/
-
-# Scratch: PDF text dumps, page renders, one-off compendium copies. Everything
-# in here is regenerable and none of it is input to a build.
-tmp/
 
 # Subagent-driven-development scratch: ledgers, briefs, review packages.
 .superpowers/

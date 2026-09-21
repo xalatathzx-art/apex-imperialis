@@ -1,0 +1,70 @@
+{
+  "name": "Встроенная Вокс-Бусина",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000029",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00003",
+  "sort": 2900,
+  "system": {
+    "notes": {
+      "player": "<p>Вокс-бусина, вживлённая в область уха, челюсти или горла и управляемая жестами ближайших мышц или сигналом с ретинального дисплея, Кортикального Импланта или Чёрного Панциря.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Работает как обычная вокс-бусина того же качества. Сверх этого снижает урон от взрывной декомпрессии на 3 при закрытом рте (имплант автоматически перекрывает нос при входе в вакуум).</p>",
+    "page": "DoomBC стр. 265",
+    "category": "cybernetic",
+    "rarity": 0,
+    "availability": "common",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 800,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Антенна и разъёмы пробивают кожу и торчат наружу, выдавая имплант при осмотре.",
+      "2": "",
+      "3": "Снижает урон от декомпрессии на 5 вместо 3.",
+      "4": "Как Уровень 3, и вдобавок при закрытом рте работает как пустотная броня, но без запаса кислорода."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 265",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

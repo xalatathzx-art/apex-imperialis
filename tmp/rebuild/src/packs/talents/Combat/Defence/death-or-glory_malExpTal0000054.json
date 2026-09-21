@@ -1,0 +1,59 @@
+{
+  "name": "Death or Glory",
+  "type": "talent",
+  "_id": "malExpTal0000054",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">May immediately charge an enemy that would trigger frighten you as free action if within range</span></p><hr><p><span style=\"font-family: Arial\"><em>When confronting an enemy that would cause you to make a test against the Frightened condition, you may instead immediately Charge (CRB pg. 207) the source of the test as an any-time Free Action, so long as they are within range and are a tangible threat (charging a Daemon is fine, charging the consequences of your actions is not). This talent may be used even if you have already done an Action.</em></span></p>",
+      "gm": "Talent Category: Defense"
+    },
+    "requirement": {
+      "value": "1 Advance in Melee and 1 Advance in Discipline",
+      "script": "return this.actor.system.skills.melee.advances >= 1 && this.actor.system.skills.discipline.advances >= 1"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "WEnXbKeY9xtR01uo",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 1400000
+}

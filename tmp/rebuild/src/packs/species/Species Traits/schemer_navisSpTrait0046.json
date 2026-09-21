@@ -1,0 +1,33 @@
+{
+  "name": "Schemer",
+  "type": "trait",
+  "_id": "navisSpTrait0046",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 4600,
+  "system": {
+    "notes": {
+      "player": "<p>Tzeentch's children climb, and the rungs are other people.</p> <p>When an act would raise your standing — a rival dead, a debt called in, a display of nerve in front of someone who matters — pass a <strong>Challenging (+0) Discipline</strong> Test or take it. The GM may let you test Logic first to see how badly it will cost you later.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

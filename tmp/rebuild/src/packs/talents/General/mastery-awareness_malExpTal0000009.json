@@ -1,0 +1,59 @@
+{
+  "name": "Mastery (Awareness)",
+  "type": "talent",
+  "_id": "malExpTal0000009",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Spend FP to auto-succeed on selected Awareness, scored SL = associated stat bonus</span></p><hr><p><span style=\"font-family: Arial\"><em>You must have 4 Advances in Awareness and the Talented(Awareness) on. You can spend a Fate Point to automatically pass a Awareness Test, scoring a number of Success Levels equal to your characteristic bonus. </em></span></p>",
+      "gm": "Talent Category: General"
+    },
+    "requirement": {
+      "value": "4 Advances in Awareness, Talented (Awareness) Talent",
+      "script": "return this.actor.system.skills.awareness.advances >= 4 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Talented (Awareness)\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "KmCDAtV80ZeH9J36",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 4100000
+}

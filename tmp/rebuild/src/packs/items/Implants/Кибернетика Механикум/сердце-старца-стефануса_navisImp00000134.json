@@ -1,0 +1,82 @@
+{
+  "name": "Сердце Старца Стефануса",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000134",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 13400,
+  "system": {
+    "notes": {
+      "player": "<p>Комплекс фабрикатора и аналитического когитатора в груди создаёт дополнительный защитный слой микро-дронов под обычной бронёй, адаптирующийся под полученные удары.</p><p>Устанавливается только персонажу с чертой Импланты Механикум, не более одного экземпляра. Операция по установке персонажу вне Техножречества — услуга Редкости 4.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт <strong>+2 очка брони</strong> на все части тела. Получив непоглощённый урон, владелец может потратить любое количество Заряда, получая бонус к броне против этого конкретного попадания.</p>",
+    "page": "DoomBC стр. 276",
+    "category": "mechanicum",
+    "rarity": 3,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 8000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Бонус брони за заряд ниже.",
+      "2": "",
+      "3": "Бонус брони за заряд выше.",
+      "4": "Бонус брони за заряд максимален."
+    },
+    "slot": "circulatory",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp01330",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt13300",
+            "kind": "armourAll",
+            "value": 2
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 276",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

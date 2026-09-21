@@ -1,0 +1,104 @@
+{
+  "name": "Бионические ноги: гусеницы",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000003",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00002",
+  "sort": 300,
+  "system": {
+    "notes": {
+      "player": "<p>Дешёвый и широко доступный гусеничный блок вместо ног. Такие ставят рабочим мануфакторумов и сервиторам-погрузчикам: тем, кому не нужно бегать, но нужно тащить. Владелец передвигается с ровным механическим лязгом, который слышно за поворот.</p><p><em>Любая бионическая конечность даёт +1 очко брони против попаданий в неё, складываясь с носимой бронёй.</em></p>",
+      "gm": ""
+    },
+    "rules": "<p>Вы не можете прыгать, карабкаться и пользоваться вертикальными лестницами, и получаете <strong>Помеху</strong> на проверки Рефлексов (Акробатика).</p><p>Взамен ваш порог перегрузки растёт на <strong>+2</strong>, а порог обездвиживания — на <strong>+4</strong>: гусеницы несут и толкают то, что человеку не поднять.</p>",
+    "page": "DoomBC стр. 263",
+    "category": "bionic",
+    "rarity": -1,
+    "availability": "common",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 600,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Протез вял и плохо слушается: ваша <strong>скорость падает на 1</strong>, а совершая Бег или Натиск, вы должны пройти <strong>среднюю (+0) проверку Ловкости</strong>, иначе падаете и останавливаетесь на полпути.",
+      "2": "",
+      "3": "Нога несёт вас сама: вы не устаёте от долгого бега и получаете <strong>+2 успеха</strong> на любые проверки прыжков.",
+      "4": "Как Уровень 3, и вдобавок <strong>+5</strong> к проверкам Ближнего боя, Силы и Ловкости, выполняемым ногами, плюс одна из доработок: считается легионной ногой; внутренняя полость под два ножа, пистолет, две гранаты или предмет размера 2×1; выдвижной нож в носке или пятке; грав-подошвы; продвинутые движители; или синтекожа, неотличимая от живой ноги на вид и на ощупь. Каждая доработка сверх первой поднимает Редкость на 1."
+    },
+    "slot": "leg",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00020",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt00200",
+            "kind": "speed",
+            "key": "land",
+            "value": {
+              "1": -1,
+              "2": 0
+            }
+          },
+          {
+            "id": "navisImpEnt00201",
+            "kind": "testMod",
+            "skill": "reflexes",
+            "advantage": -1
+          },
+          {
+            "id": "navisImpEnt00202",
+            "kind": "encumbrance",
+            "key": "overburdened",
+            "value": 2
+          },
+          {
+            "id": "navisImpEnt00203",
+            "kind": "encumbrance",
+            "key": "restrained",
+            "value": 4
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 263",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

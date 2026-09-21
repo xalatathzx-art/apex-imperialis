@@ -1,0 +1,322 @@
+[
+  {
+    "_id": "IW0cpOekkHpu3uU2",
+    "name": "Combat",
+    "type": "Item",
+    "folder": null,
+    "description": "",
+    "color": "#7a2020",
+    "sorting": "a",
+    "sort": 100,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "QWThJrKmW2XlflEF",
+    "name": "Melee",
+    "type": "Item",
+    "folder": "IW0cpOekkHpu3uU2",
+    "description": "",
+    "color": "#963030",
+    "sorting": "a",
+    "sort": 100,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "RR06fV9NhqJFz6js",
+    "name": "Ranged",
+    "type": "Item",
+    "folder": "IW0cpOekkHpu3uU2",
+    "description": "",
+    "color": "#963030",
+    "sorting": "a",
+    "sort": 200,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "WEnXbKeY9xtR01uo",
+    "name": "Defence",
+    "type": "Item",
+    "folder": "IW0cpOekkHpu3uU2",
+    "description": "",
+    "color": "#963030",
+    "sorting": "a",
+    "sort": 300,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "peKMu9b8pxb7bDBT",
+    "name": "Movement",
+    "type": "Item",
+    "folder": "IW0cpOekkHpu3uU2",
+    "description": "",
+    "color": "#963030",
+    "sorting": "a",
+    "sort": 400,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "HkfW4xLnNmvApOHD",
+    "name": "Expertise",
+    "type": "Item",
+    "folder": null,
+    "description": "",
+    "color": "#1f4e79",
+    "sorting": "a",
+    "sort": 200,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "sYF7k1rcP4ZWyjHQ",
+    "name": "Knowledge",
+    "type": "Item",
+    "folder": "HkfW4xLnNmvApOHD",
+    "description": "",
+    "color": "#2f6ba3",
+    "sorting": "a",
+    "sort": 100,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "IgrCXb2wJE7Arklf",
+    "name": "Medicae",
+    "type": "Item",
+    "folder": "HkfW4xLnNmvApOHD",
+    "description": "",
+    "color": "#2f6ba3",
+    "sorting": "a",
+    "sort": 200,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "gg2FdNYcHKZzBhcM",
+    "name": "Tech",
+    "type": "Item",
+    "folder": "HkfW4xLnNmvApOHD",
+    "description": "",
+    "color": "#2f6ba3",
+    "sorting": "a",
+    "sort": 300,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "3JxhLA6h0JYJZyf9",
+    "name": "Piloting",
+    "type": "Item",
+    "folder": "HkfW4xLnNmvApOHD",
+    "description": "",
+    "color": "#2f6ba3",
+    "sorting": "a",
+    "sort": 400,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "mg3uVwg28mluzz2Q",
+    "name": "Guile & Influence",
+    "type": "Item",
+    "folder": null,
+    "description": "",
+    "color": "#5b2f8b",
+    "sorting": "a",
+    "sort": 300,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "QZxXEi5gaFblpeYN",
+    "name": "Social",
+    "type": "Item",
+    "folder": "mg3uVwg28mluzz2Q",
+    "description": "",
+    "color": "#7a46b0",
+    "sorting": "a",
+    "sort": 100,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "gQ5NKgnf1W8qg1mz",
+    "name": "Leadership",
+    "type": "Item",
+    "folder": "mg3uVwg28mluzz2Q",
+    "description": "",
+    "color": "#7a46b0",
+    "sorting": "a",
+    "sort": 200,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "f1PTXONocws7vzEw",
+    "name": "Stealth",
+    "type": "Item",
+    "folder": "mg3uVwg28mluzz2Q",
+    "description": "",
+    "color": "#7a46b0",
+    "sorting": "a",
+    "sort": 300,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "8eh76Ky4xuyw7ZkE",
+    "name": "Warp & Faith",
+    "type": "Item",
+    "folder": null,
+    "description": "",
+    "color": "#8b6a1f",
+    "sorting": "a",
+    "sort": 400,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "oBHvd40uCHrPtfbK",
+    "name": "Faith",
+    "type": "Item",
+    "folder": "8eh76Ky4xuyw7ZkE",
+    "description": "",
+    "color": "#b08c30",
+    "sorting": "a",
+    "sort": 100,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "PU64XiLQ7hd5vW4E",
+    "name": "Psyker",
+    "type": "Item",
+    "folder": "8eh76Ky4xuyw7ZkE",
+    "description": "",
+    "color": "#b08c30",
+    "sorting": "a",
+    "sort": 200,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "u3oMExDzCNqURptB",
+    "name": "Untouchables",
+    "type": "Item",
+    "folder": "8eh76Ky4xuyw7ZkE",
+    "description": "",
+    "color": "#b08c30",
+    "sorting": "a",
+    "sort": 300,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "v1jaQSwVla5DGTQg",
+    "name": "Adeptus Mechanicus",
+    "type": "Item",
+    "folder": null,
+    "description": "",
+    "color": "#8b5a2f",
+    "sorting": "a",
+    "sort": 500,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "KmCDAtV80ZeH9J36",
+    "name": "General",
+    "type": "Item",
+    "folder": null,
+    "description": "",
+    "color": "#4a4a4a",
+    "sorting": "a",
+    "sort": 600,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  }
+]

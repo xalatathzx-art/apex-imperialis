@@ -1,0 +1,95 @@
+{
+  "name": "Скапули Супериор",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000068",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00005",
+  "sort": 6800,
+  "system": {
+    "notes": {
+      "player": "<p>Мозг Скитария перенастраивается для лучшей ориентации в трёхмерном пространстве, а в спину вживляется комбинация прыжкового ранца и механических крыльев.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт черту Полёт (10) и бонус на проверки личного пилотирования, убирая штрафы от погоды и плотности атмосферы, но накладывает штраф на социальные взаимодействия и автоматически проваливает проверки Проницательности.</p>",
+    "page": "DoomBC стр. 270",
+    "category": "skitarii",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 3500,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Пока установлен, <strong>−10 к Восприятию и Товариществу</strong>.",
+      "2": "",
+      "3": "Штраф на общение ниже; проверки Проницательности можно проходить со штрафом.",
+      "4": "Как Уровень 3, и вдобавок раз в Ход можно перебросить проверку личного полёта."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00670",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt06700",
+            "kind": "characteristic",
+            "key": "per",
+            "value": {
+              "1": -10,
+              "2": 0
+            }
+          },
+          {
+            "id": "navisImpEnt06701",
+            "kind": "characteristic",
+            "key": "fel",
+            "value": {
+              "1": -10,
+              "2": 0
+            }
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 270",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

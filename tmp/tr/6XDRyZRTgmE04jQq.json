@@ -1,0 +1,31 @@
+{
+ "name": "Возможности",
+ "runs": {
+  "2": "В этом разделе приведены новые возможности, которые могут получить покровители-инквизиторы в помощь своим аколитам. Не каждая возможность подходит любому покровителю — в зависимости от его пуританской или радикальной позиции и от того, какой @UUID[.lFT1A8eGYjmaOne2]{философии} он придерживается. Вашей группе стоит обратиться к соответствующим таблицам возможностей и слабостей за базовым набором вариантов. При создании покровителя можно выбирать и @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.JiJ2Z5aXJoIhESRX]{возможности} из книги Imperium Maledictum.",
+  "6": "Некоторые возможности дают влияние у фракции и фракционный эффект в игре, отражая союзы, которые покровитель заключил за свою прославленную (или печально известную) карьеру. Хотя не все возможности дают влияние таким образом, ведущий может использовать их как источник вдохновения для изменения будущего влияния покровителя.",
+  "12": "Узы, что связывают",
+  "16": "Подобно возможности @UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.5UadOpX9ykwmnH0Z]{«Связи с Адептус Арбитрес»} и другим возможностям этой главы, если у покровителя есть доступ к любой из следующих возможностей из книги Imperium Maledictum, он может развернуть более крупный отряд этих сил. Он может захотеть установить контроль над крупными имперскими населёнными пунктами, штурмовать важные цели или провести масштабное проникновение в их организацию. Он может сделать это раз за кампанию ценой того, что отряд теряет от 1 до 3 @UUID[Compendium.navis-apexialis.navis-inquisition-journals.JournalEntry.KbejcPMug5gfoWWz.JournalEntryPage.XyTxLhjDZDkpE0Lz]{скрытности операции} — в зависимости от размера развёртывания и того, насколько убедительно алиби или объяснение персонажей для внезапного появления этих сил.",
+  "24": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.pZ6zHYkCIWPBWdRQ]{Фанатики}",
+  "32": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.ZN4rNe3T5dbmtwkk]{Флотский десант}",
+  "40": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.TlHiHOx0U3w5coz2]{Поддержка псайкера}",
+  "48": "@UUID[Compendium.navis-apexialis.navis-core-items.Item.jVqhxWe0o7nWz3Qj]{Прикомандированные войска}",
+  "58": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.5UadOpX9ykwmnH0Z]{Связи с Адептус Арбитрес}",
+  "62": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.S56anxusJpE26v03]{Оружие чужаков}",
+  "66": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.XHNjYyGrhYKKwXrj]{Маяк правосудия}",
+  "70": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.GHtgEv8jHcThlVWK]{Связи с орденом}",
+  "74": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Fg5RUOiTXkLjhOZw]{Демон-щит}",
+  "78": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.0AGD77i2srXGE78M]{Агенты культа смерти}",
+  "82": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.Bty6tbImg8hG8sxu]{Санкция Караула Смерти}",
+  "86": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.fXL1xdBMORqze5rK]{Сомнительные союзники}",
+  "90": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.0UpwAa5KuteQ4L4c]{Санкция Серых Рыцарей}",
+  "94": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.mBNw59ZcxjYBIxPt]{Охотничьи гончие}",
+  "98": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.cLbXUVzpsCmizKoP]{Техник-жокаэро}",
+  "102": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.4VePlkjTkcjUeuN6]{Связи с Официо Ассасинорум}",
+  "106": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.OeIcMZpeI2CFBlT1]{Связи с Ордо Темпестус}",
+  "110": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.F5PPX1r6UMQKcyH6]{Пелена в Варпе}",
+  "114": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.qNcqBfKR07ujbHnx]{Психическое наставничество}",
+  "118": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.oIuxCadYmWVnAdxL]{Подготовка псайкеров}",
+  "122": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.VSAgSVxN4oGzRNfj]{Безмолвный торговец}",
+  "126": "@UUID[Compendium.navis-apexialis.navis-inquisition-items.Item.xtKRw8pLAQlqsoEg]{Санкция Сороритас}"
+ }
+}

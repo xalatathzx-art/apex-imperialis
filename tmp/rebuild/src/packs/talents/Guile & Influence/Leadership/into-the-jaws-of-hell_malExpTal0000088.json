@@ -1,0 +1,59 @@
+{
+  "name": "Into the Jaws of Hell",
+  "type": "talent",
+  "_id": "malExpTal0000088",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Followers (not players) are immune to Frightening&Pinning while you lead by example</span></p><hr><p><span style=\"font-family: Arial\"><em>Your followers become immune to the effects of the Frightening Talent and being pinned as long as you are physically there to lead them, and they can see you leading by example. Other player characters cannot benefit from this talent</em></span></p>",
+      "gm": "Talent Category: Leadership"
+    },
+    "requirement": {
+      "value": "Inspiring Presence Talent",
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Inspiring Presence\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "gQ5NKgnf1W8qg1mz",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 0
+}

@@ -1,0 +1,324 @@
+/* ══════════════════════════════════════════════════════════════════════════
+   NAVIS APEXIALIS SKIN — 74 SPECIES
+
+   Two surfaces the module adds rather than repaints: the Species item sheet
+   (module/species/species-sheet.js, templates/item/species.hbs) and the slot
+   plus card the character refit builds from it (module/refit-character.js,
+   refitSpeciesSlot and refitSpeciesCard).
+
+   The sheet is dense on purpose: a species is thirty small numbers, and a GM
+   editing one wants them all on screen at once rather than behind accordions.
+   ══════════════════════════════════════════════════════════════════════ */
+
+/* ── The species item sheet ──────────────────────────────────────────────── */
+
+/* Only when the tab is active: a bare `display: flex` here would override
+   Foundry's own hiding of inactive tabs and print the details under the
+   description. */
+body.navis-skin .application.impmal.item.species .navis-species-details.active {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 8px;
+}
+
+/* Identity and gating: short rows of labelled fields. */
+body.navis-skin .application.impmal.item.species .navis-species-details :is(.navis-species-identity, .navis-species-gating) {
+  display: flex;
+  align-items: flex-end;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+}
+body.navis-skin .application.impmal.item.species .navis-species-details .navis-species-gating {
+  align-items: center;
+}
+
+body.navis-skin .application.impmal.item.species .navis-species-details .field {
+  display: flex;
+  flex: 1 1 0;
+  flex-direction: column;
+  gap: 2px;
+  width: auto;
+  min-width: 0;
+}
+body.navis-skin .application.impmal.item.species .navis-species-details .field.narrow {
+  flex: 0 0 68px;
+}
+
+body.navis-skin .application.impmal.item.species .navis-species-details label {
+  margin: 0;
+  font-family: var(--navis-font-stencil);
+  font-size: var(--navis-size-caption);
+  font-weight: 600;
+  letter-spacing: var(--navis-track-caption);
+  line-height: 1.3;
+  text-transform: uppercase;
+  color: var(--navis-ink-faint);
+  white-space: nowrap;
+}
+
+body.navis-skin .application.impmal.item.species .navis-species-details :is(input[type="text"], input[type="number"], select) {
+  height: 24px;
+  margin: 0;
+  padding: 0 6px;
+  background: var(--navis-field);
+  border: 1px solid var(--navis-line);
+  border-radius: 0;
+  font-family: var(--navis-font-data);
+  font-size: var(--navis-size-secondary);
+  line-height: 1.2;
+  color: var(--navis-ink);
+}
+body.navis-skin .application.impmal.item.species .navis-species-details :is(input:focus, select:focus) {
+  background: var(--navis-field-focus);
+  border-color: var(--navis-brass-dim);
+  box-shadow: none;
+  outline: none;
+}
+
+/* The GM-option marker reads as a warning, because that is what it is. */
+body.navis-skin .application.impmal.item.species .navis-species-details label.checkbox {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--navis-danger);
+  text-transform: none;
+  white-space: nowrap;
+}
+
+/* A titled block per section of the package. */
+body.navis-skin .application.impmal.item.species .navis-species-block {
+  background: var(--navis-surface);
+  border: 1px solid var(--navis-line);
+  border-left: 3px solid var(--navis-brass-dim);
+  clip-path: var(--navis-plate-sm);
+}
+body.navis-skin .application.impmal.item.species .navis-species-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 4px 8px;
+  border-bottom: 1px solid var(--navis-brass-dim);
+  font-family: var(--navis-font-stencil);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: var(--navis-brass);
+}
+body.navis-skin .application.impmal.item.species .navis-species-head.sub {
+  border-top: 1px solid var(--navis-line);
+  color: var(--navis-ink-faint);
+}
+/* impmal gives spans inside a sheet `flex: 0 0 100%`, which would push the
+   hint onto its own over-wide line and scroll the whole tab sideways. */
+body.navis-skin .application.impmal.item.species .navis-species-head > span {
+  flex: 0 1 auto;
+  width: auto;
+  min-width: 0;
+}
+body.navis-skin .application.impmal.item.species .navis-species-head > span:first-child {
+  flex: none;
+}
+body.navis-skin .application.impmal.item.species .navis-species-head .hint {
+  overflow: hidden;
+  font-family: var(--navis-font-text);
+  font-size: var(--navis-size-caption);
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--navis-ink-faint);
+  text-align: right;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Nine characteristics across, whatever the window width. */
+body.navis-skin .application.impmal.item.species .navis-species-chars {
+  display: grid;
+  grid-template-columns: repeat(9, minmax(0, 1fr));
+  gap: 1px;
+  padding: 6px 8px;
+}
+body.navis-skin .application.impmal.item.species .navis-species-chars .char {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  min-width: 0;
+}
+body.navis-skin .application.impmal.item.species .navis-species-chars input {
+  width: 100%;
+  text-align: center;
+}
+
+/* Skills wrap into as many columns as fit; twenty of them is a lot of rows. */
+body.navis-skin .application.impmal.item.species .navis-species-skills {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(92px, 1fr));
+  gap: 4px 8px;
+  padding: 6px 8px;
+}
+body.navis-skin .application.impmal.item.species .navis-species-skills .skill {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 34px;
+  align-items: center;
+  gap: 4px;
+}
+body.navis-skin .application.impmal.item.species .navis-species-skills label {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+body.navis-skin .application.impmal.item.species .navis-species-skills input {
+  text-align: center;
+}
+
+/* A skill the species says nothing about stays quiet until it carries a value. */
+body.navis-skin .application.impmal.item.species .navis-species-skills .skill:has(input[value="0"]) label {
+  color: var(--navis-ink-faint);
+  opacity: 0.55;
+}
+
+body.navis-skin .application.impmal.item.species .navis-species-choice {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 6px 8px;
+}
+
+body.navis-skin .application.impmal.item.species .navis-species-choice multi-checkbox {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px 10px;
+  padding: 2px 0;
+  border: 0;
+  font-size: var(--navis-size-secondary);
+  color: var(--navis-ink-muted);
+}
+
+/* Drop targets say what belongs in them rather than sitting blank. */
+body.navis-skin .application.impmal.item.species .navis-species-empty {
+  padding: 8px 10px;
+  font-size: var(--navis-size-secondary);
+  font-style: italic;
+  color: var(--navis-ink-faint);
+  text-align: center;
+}
+
+/* ── The slot on the character header ────────────────────────────────────── */
+
+/* Species and subspecies read as a pair, so the header carries five cells
+   rather than four; the widths are set with the Russian labels, below. */
+
+/* An empty slot says what belongs in it instead of sitting blank. */
+body.navis-skin .application.actor.impmal.character .navis-character-header .navis-species-hint {
+  overflow: hidden;
+  padding: 0;
+  font-family: var(--navis-font-text);
+  font-size: var(--navis-size-caption);
+  font-style: italic;
+  line-height: 24px;
+  color: var(--navis-ink-faint);
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  opacity: 0.75;
+}
+
+/* A species the GM enabled on purpose keeps a mark on the slot, so nobody has
+   to remember which of the party is outside the system's power band. */
+body.navis-skin .application.actor.impmal.character .navis-species-slot.navis-species-restricted .singleton-item a {
+  color: var(--navis-alert);
+}
+
+body.navis-skin .application.actor.impmal.character .navis-species-slot .navis-species-unset {
+  flex: none;
+  color: var(--navis-ink-faint);
+  transition: color var(--navis-transition);
+}
+body.navis-skin .application.actor.impmal.character .navis-species-slot .navis-species-unset:hover {
+  color: var(--navis-danger);
+  text-shadow: none;
+}
+
+/* ── The card on the Main tab ────────────────────────────────────────────── */
+
+body.navis-skin .application.actor.impmal.character .navis-species-card .navis-species-size {
+  font-family: var(--navis-font-stencil);
+  font-size: var(--navis-size-caption);
+  font-weight: 600;
+  letter-spacing: var(--navis-track-caption);
+  text-transform: uppercase;
+  color: var(--navis-ink-faint);
+  white-space: nowrap;
+}
+
+body.navis-skin .application.actor.impmal.character .navis-species-card-bd {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 7px 10px 8px;
+}
+
+/* The figures the species moves, read off its own effects. */
+body.navis-skin .application.actor.impmal.character .navis-species-figures {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
+  gap: 4px;
+}
+body.navis-skin .application.actor.impmal.character .navis-species-figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1px;
+  padding: 3px 4px;
+  background: var(--navis-field);
+  border: 1px solid var(--navis-line);
+  clip-path: var(--navis-plate-sm);
+}
+body.navis-skin .application.actor.impmal.character .navis-species-figure em {
+  font-family: var(--navis-font-data);
+  font-size: var(--navis-size-label);
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.1;
+  color: var(--navis-brass-lit);
+}
+
+body.navis-skin .application.actor.impmal.character .navis-species-traits {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+body.navis-skin .application.actor.impmal.character .navis-species-trait {
+  padding: 0 6px;
+  border: 1px solid var(--navis-line);
+  font-family: var(--navis-font-stencil);
+  font-size: var(--navis-size-caption);
+  font-weight: 600;
+  letter-spacing: var(--navis-track-caption);
+  line-height: 18px;
+  text-transform: uppercase;
+  color: var(--navis-ink-muted);
+  transition: color var(--navis-transition), border-color var(--navis-transition);
+}
+body.navis-skin .application.actor.impmal.character .navis-species-trait:hover {
+  color: var(--navis-brass-lit);
+  border-color: var(--navis-brass-dim);
+  text-shadow: none;
+}
+
+body.navis-skin .application.actor.impmal.character .navis-species-roles {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+}
+body.navis-skin .application.actor.impmal.character .navis-species-roles em {
+  font-family: var(--navis-font-text);
+  font-size: var(--navis-size-secondary);
+  font-style: normal;
+  color: var(--navis-ink-muted);
+}

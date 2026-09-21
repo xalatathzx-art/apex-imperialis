@@ -1,0 +1,59 @@
+{
+  "name": "Decadence",
+  "type": "talent",
+  "_id": "malExpTal0000004",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Ignore poison/drugs unless failing Fortitude by more than TghB. +1SL to resist addiction</span></p><hr><p><span style=\"font-family: Arial\"><em>When you consume intoxicants, are unwillingly subjected to drugs, or are poisoned, you may choose to be unaffected by their effects unless you fail a Fortitude test by an mount of SLs equal to or greater than your Toughness Bonus. You also gain a +1SL Bonus to resist the effects of addiction. </em></span></p>",
+      "gm": "Talent Category: General"
+    },
+    "requirement": {
+      "value": "1 Advance in Fortitude(Poison)",
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Poison\" && i.system.skill == \"fortitude\")?.system?.advances >= 1)"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "KmCDAtV80ZeH9J36",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 4300000
+}

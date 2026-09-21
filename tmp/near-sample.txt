@@ -1,0 +1,17 @@
+{ core: 13, inquisition: 93, requisition: 4, voll: 125 }
+
+### trait Call for Backup @ Morgan Trace
+GAP : While in the @UUID[Compendium.navis-apexialis.navis-voll-journals.JournalEntry.0sTvCVRuh5Wpawt9.JournalEntryPage.eiMwmm7AQZLlFOkn#f.-the-float]{Float}, as an Action, Trace can call for backup on her Vox Bead. All Marauders hear this call within 1 mile. Backup usually arrives in [[/r 1d5]] Rounds and
+KNOWN: As an Action, an Arbitrator can call for backup. This call is heard by all Enforcers in a 1 mile radius. Backup usually arrives in [[/r 1d10]] Rounds (or minutes if out of combat), but may be shorter or longer depending on distance.
+
+### specialisation Theology @ The Harbinger
+GAP : @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Lore} Training in the Imperial Creed, including various sects and interpretations. Passing knowledge of the Cult Mechanicus. Only cursory knowledge at best of any heretica
+KNOWN: @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Lore} Training in the Imperial Creed, including various sects and interpretations. Passing knowledge of the Cult Mechanicus. Only cursory knowledge at best of any heretical sects of the Imperial Creed and none whatsoev
+
+### specialisation Two-handed @ The Harbinger
+GAP : @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#melee-(ws)]{Melee} Extensive training in the use of larger swords, bigger axes, heavier maces, and other melee weapons that require two hands to use, along with various polearms such 
+KNOWN: @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#melee-(ws)]{Melee} Extensive training in the use of larger swords, bigger axes, heavier maces, and other melee weapons that require two hands to use, along with various polearms such as spears and halberds.
+
+### specialisation Swimming @ Acynadi Beta-3
+GAP : @UUID[Compendium.navis-apexialis.navis-core-journals.JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#athletics-(str)]{Athletics} Better aptitude at swimming through liquids, typically water. Essential on some worlds with planet-spanning oceans, and almost unknown on others.
+KNOWN: @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#athletics-(str)]{Athletics} Better aptitude at swimming through liquids, typically water. Essential on some worlds with planet-spanning oceans, and almost unknown on others.

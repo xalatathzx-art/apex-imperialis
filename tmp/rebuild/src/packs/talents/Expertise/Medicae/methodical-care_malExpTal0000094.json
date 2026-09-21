@@ -1,0 +1,59 @@
+{
+  "name": "Methodical Care",
+  "type": "talent",
+  "_id": "malExpTal0000094",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Heal all wounds of a target out-of-combat with an extended Medicae check</span></p><hr><p><span style=\"font-family: Arial\"><em>When you would like to heal wounds outside of combat, you may choose to turn it into an Extended Medicae Test to heal all the patient’s wounds overtime, with an appropriate amount of SLs required as dictated by the GM. If the test is done successfully with no failures, an appropriate Injury as selected by the GM will also be healed automatically. </em></span></p>",
+      "gm": "Talent Category: Medicae"
+    },
+    "requirement": {
+      "value": "2 Advances in Medicae, Swift Suture Talent",
+      "script": "return this.actor.system.skills.medicae.advances >= 2 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Swift Suture\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "IgrCXb2wJE7Arklf",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 300000
+}

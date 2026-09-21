@@ -1,0 +1,153 @@
+boonLiability | Utter Purity | nameEn=true descEn=true | terms=- | x1 Констан Серранус
+trait | Astropath | nameEn=true descEn=true | terms=Астропат | x1 Мизо Лескар
+trait | Blind | nameEn=true descEn=true | terms=- | x1 Мизо Лескар
+trait | Soul-Bound | nameEn=true descEn=true | terms=- | x1 Мизо Лескар
+trait | Telepath | nameEn=true descEn=true | terms=- | x1 Мизо Лескар
+trait | Psychic Powers | nameEn=true descEn=true | terms=Психосилы | x1 Мизо Лескар
+trait | Ambusher | nameEn=true descEn=true | terms=- | x1 Джеритин Хаммер
+trait | Relentless Pursuit | nameEn=true descEn=true | terms=- | x1 Джеритин Хаммер
+equipment | 100 solars | nameEn=true descEn=false | terms=- | x2 Джеритин Хаммер
+specialisation | Лазанье | nameEn=false descEn=true | terms=- | x2 Жокаэро
+specialisation | Разминирование | nameEn=false descEn=true | terms=- | x1 Жокаэро
+specialisation | Оценка | nameEn=false descEn=true | terms=- | x1 Жокаэро
+specialisation | Пистолеты | nameEn=false descEn=true | terms=- | x1 Жокаэро
+specialisation | Аугметика | nameEn=false descEn=true | terms=- | x4 Жокаэро
+specialisation | Инженерное дело | nameEn=false descEn=true | terms=- | x2 Жокаэро
+specialisation | Безопасность | nameEn=false descEn=true | terms=- | x1 Жокаэро
+trait | True Faith | nameEn=true descEn=true | terms=- | x2 Хогарт Древет
+trait | Flagellation Whip | nameEn=true descEn=false | terms=- | x1 Хогарт Древет
+equipment | A set of ragged robes | nameEn=true descEn=false | terms=- | x1 Хогарт Древет
+trait | Hernkyn Crackshot | nameEn=true descEn=true | terms=- | x1 Хернкин-йегир
+equipment | Ancestral Icon | nameEn=true descEn=false | terms=- | x1 Хернкин-йегир
+equipment | Trenchoat | nameEn=true descEn=false | terms=- | x1 Хернкин-йегир
+weapon | Bolt Revolver | nameEn=true descEn=false | terms=- | x1 Хернкин-йегир
+weapon | Plasma Knife | nameEn=true descEn=false | terms=- | x1 Хернкин-йегир
+trait | Blood Fervour | nameEn=true descEn=true | terms=- | x1 Мизракс Таллиан
+trait | Favoured by Khorne | nameEn=true descEn=true | terms=- | x1 Мизракс Таллиан
+equipment | 200 Solars | nameEn=true descEn=false | terms=- | x1 Мизракс Таллиан
+trait | Deny the Witch | nameEn=true descEn=true | terms=- | x1 Гаазрек Ткач
+trait | Ephemeral Form | nameEn=true descEn=true | terms=- | x1 Гаазрек Ткач
+trait | Energy of Change | nameEn=true descEn=true | terms=- | x1 Гаазрек Ткач
+trait | Lesser Daemon | nameEn=true descEn=true | terms=- | x4 Гаазрек Ткач
+trait | Psyker | nameEn=true descEn=true | terms=Псайкер | x1 Гаазрек Ткач
+trait | Source of Corruption | nameEn=true descEn=true | terms=- | x7 Гаазрек Ткач
+weapon | Coruscating Flames | nameEn=true descEn=false | terms=- | x1 Гаазрек Ткач
+weapon | Daemonic Claws | nameEn=true descEn=false | terms=- | x1 Гаазрек Ткач
+trait | War Hymn | nameEn=true descEn=true | terms=- | x1 Челестина Висконти
+equipment | a Rosarius | nameEn=true descEn=false | terms=- | x1 Челестина Висконти
+equipment | 50 solars | nameEn=true descEn=false | terms=- | x1 Челестина Висконти
+specialisation | Aeldari | nameEn=true descEn=false | terms=- | x3 Призрачный страж
+equipment | Aeldari Spirit Stones | nameEn=true descEn=false | terms=- | x1 Призрачный страж
+trait | Aeldrai War Construct | nameEn=true descEn=true | terms=- | x1 Призрачный страж
+weapon | Wraithcannon | nameEn=true descEn=false | terms=- | x1 Призрачный страж
+weapon | D-Scythe | nameEn=true descEn=true | terms=- | x1 Призрачный страж
+weapon | Wraithbone Fist | nameEn=true descEn=false | terms=- | x1 Призрачный страж
+trait | Argent Tongue | nameEn=true descEn=true | terms=- | x2 Веста Лоррейн
+trait | Immovable Mercantile | nameEn=true descEn=true | terms=- | x1 Веста Лоррейн
+trait | Mono Sword | nameEn=true descEn=false | terms=- | x1 Веста Лоррейн
+equipment | Clothes with the Ornamental Trait | nameEn=true descEn=false | terms=- | x1 Веста Лоррейн
+equipment | 500 solars | nameEn=true descEn=false | terms=- | x1 Веста Лоррейн
+specialisation | Silent Trade | nameEn=true descEn=false | terms=- | x1 Веста Лоррейн
+trait | Curse of the Walking Pox | nameEn=true descEn=true | terms=- | x1 Чумоход
+specialisation | Зрение | nameEn=false descEn=true | terms=- | x1 Острокрыл
+specialisation | Кулачный бой | nameEn=false descEn=true | terms=- | x2 Острокрыл
+specialisation | Следы | nameEn=false descEn=true | terms=- | x3 Острокрыл
+specialisation | Запугивание | nameEn=false descEn=true | terms=- | x2 Острокрыл
+specialisation | Бесшумное движение | nameEn=false descEn=true | terms=- | x3 Острокрыл
+trait | Blade Artist | nameEn=true descEn=true | terms=- | x2 Варон Вайперсонг
+trait | Blade Master | nameEn=true descEn=true | terms=- | x1 Варон Вайперсонг
+trait | Sadistic Raider | nameEn=true descEn=true | terms=- | x1 Варон Вайперсонг
+equipment | 300 Solars | nameEn=true descEn=false | terms=- | x2 Варон Вайперсонг
+equipment | Collection of horrific battle trophies | nameEn=true descEn=false | terms=- | x1 Варон Вайперсонг
+equipment | Set of Kabalite Armour. | nameEn=true descEn=false | terms=- | x1 Варон Вайперсонг
+weapon | Sybarite Sword | nameEn=true descEn=false | terms=- | x2 Варон Вайперсонг
+weapon | Blast Pistol | nameEn=true descEn=false | terms=- | x1 Варон Вайперсонг
+trait | Conduit to the Warp | nameEn=true descEn=true | terms=- | x1 Демонхост
+trait | Malefic Warding | nameEn=true descEn=true | terms=- | x1 Демонхост
+equipment | Sarcophagus of Chains | nameEn=true descEn=true | terms=- | x1 Демонхост
+trait | Unholy Gaze | nameEn=true descEn=false | terms=- | x1 Демонхост
+trait | Note | nameEn=true descEn=true | terms=- | x1 Демонхост
+trait | Warp Grasp | nameEn=true descEn=false | terms=- | x1 Демонхост
+trait | Disgustingly Resilient | nameEn=true descEn=true | terms=- | x1 Жнец
+weapon | Plague-ridden Battle Scythe | nameEn=true descEn=false | terms=- | x1 Жнец
+trait | Extra Appendages | nameEn=true descEn=true | terms=- | x1 Валастра
+trait | Tempt with Obsession | nameEn=true descEn=true | terms=- | x1 Валастра
+weapon | Serrated Claws | nameEn=true descEn=false | terms=- | x1 Валастра
+specialisation | Неустанность | nameEn=false descEn=true | terms=- | x3 Многозадачный сервочереп
+specialisation | Уклонение | nameEn=false descEn=true | terms=- | x1 Многозадачный сервочереп
+trait | Anti-grav Field Generator | nameEn=true descEn=true | terms=- | x1 Модеста
+trait | Programmed to Serve | nameEn=true descEn=true | terms=- | x1 Модеста
+trait | Skull Bash | nameEn=true descEn=false | terms=- | x1 Модеста
+specialisation | Мощь | nameEn=false descEn=true | terms=- | x2 Многозадачный сервитор
+trait | Biological Warfare | nameEn=true descEn=true | terms=- | x1 Гантус Блэк, биофаг
+trait | Twisted Science | nameEn=true descEn=true | terms=- | x1 Гантус Блэк, биофаг
+equipment | Forbidden knowledge of Genestealer Cult biology | nameEn=true descEn=false | terms=- | x1 Гантус Блэк, биофаг
+equipment | Various unidentifiable chemicals. | nameEn=true descEn=false | terms=- | x1 Гантус Блэк, биофаг
+weapon | Chemical Vials | nameEn=true descEn=false | terms=- | x1 Гантус Блэк, биофаг
+weapon | Injector Goad | nameEn=true descEn=false | terms=- | x1 Гантус Блэк, биофаг
+trait | Raging Onslaught | nameEn=true descEn=true | terms=- | x1 Верные Мизракса
+trait | Mark of Khorne | nameEn=true descEn=true | terms=- | x1 Верные Мизракса
+weapon | Gladatorial Blade | nameEn=true descEn=false | terms=- | x1 Верные Мизракса
+specialisation | Вкус | nameEn=false descEn=true | terms=- | x1 Вивах
+specialisation | Психическое чутьё | nameEn=false descEn=true | terms=- | x2 Вивах
+specialisation | Психосилы | nameEn=false descEn=true | terms=- | x2 Вивах
+trait | Bound Mount | nameEn=true descEn=true | terms=- | x1 Диск Тзинча
+weapon | Lamprey Bite | nameEn=true descEn=false | terms=- | x1 Диск Тзинча
+trait | Genestealer Mutation | nameEn=true descEn=true | terms=- | x1 Гибрид-аколит
+trait | Helping Hand | nameEn=true descEn=true | terms=- | x1 Гибрид-аколит
+equipment | Cloak | nameEn=true descEn=false | terms=- | x1 Гибрид-аколит
+equipment | Cult Icons | nameEn=true descEn=false | terms=- | x1 Гибрид-аколит
+equipment | Makeshift Armour | nameEn=true descEn=false | terms=- | x1 Гибрид-аколит
+weapon | Rending Claw | nameEn=true descEn=false | terms=- | x1 Гибрид-аколит
+trait | Powerful Telepath | nameEn=true descEn=true | terms=- | x1 Бормочущий
+trait | Puppet Master | nameEn=true descEn=true | terms=- | x1 Бормочущий
+trait | Transient Body | nameEn=true descEn=true | terms=- | x1 Бормочущий
+trait | Warp Threshold | nameEn=true descEn=true | terms=- | x1 Бормочущий
+specialisation | Macharian Sector | nameEn=true descEn=false | terms=- | x1 Бормочущий
+trait | Amplified Power | nameEn=true descEn=true | terms=- | x1 Бормочущий
+power | Призыв вредителей | nameEn=false descEn=true | terms=- | x4 Бормочущий
+trait | For Chaos! | nameEn=true descEn=true | terms=- | x1 Гвардеец-предатель
+equipment | Tattered Uniform | nameEn=true descEn=false | terms=- | x1 Гвардеец-предатель
+equipment | Scraps of heretical writings | nameEn=true descEn=false | terms=- | x1 Гвардеец-предатель
+trait | Ranked Fire | nameEn=true descEn=true | terms=- | x1 Силовик-предатель
+trait | Worthless Lives | nameEn=true descEn=true | terms=- | x1 Силовик-предатель
+equipment | Tattered Uniform. | nameEn=true descEn=false | terms=- | x1 Силовик-предатель
+equipment | Symbol of the Dark Gods | nameEn=true descEn=false | terms=- | x1 Силовик-предатель
+specialisation | Обоняние | nameEn=false descEn=true | terms=- | x1 Кибермастиф
+trait | Home Turf | nameEn=true descEn=true | terms=- | x1 Зарин Варуна
+equipment | Light Leathers | nameEn=true descEn=false | terms=- | x1 Зарин Варуна
+equipment | an Auspex | nameEn=true descEn=false | terms=- | x1 Зарин Варуна
+equipment | 1d10 x 100 solars | nameEn=true descEn=false | terms=- | x1 Зарин Варуна
+specialisation | Votann | nameEn=true descEn=false | terms=- | x2 Зарин Варуна
+specialisation | Mathematics | nameEn=true descEn=false | terms=- | x1 Орис-Фи-07ет
+trait | Heavily Augmented | nameEn=true descEn=true | terms=- | x1 Орис-Фи-07ет
+trait | Augmetic Heart | nameEn=true descEn=true | terms=Аугметическое сердце | x1 Орис-Фи-07ет
+trait | Augmetic Respiratory System | nameEn=true descEn=true | terms=Аугметическая дыхательная система | x1 Орис-Фи-07ет
+trait | Biomechanical Interface | nameEn=true descEn=true | terms=Биомеханический канал связи | x1 Орис-Фи-07ет
+trait | Optical Mechadendrite | nameEn=true descEn=true | terms=Оптический механодендрит | x1 Орис-Фи-07ет
+trait | Ремесленный механодендрит | nameEn=false descEn=true | terms=- | x1 Орис-Фи-07ет
+equipment | Adeptus Mechanicus robes | nameEn=true descEn=false | terms=- | x1 Орис-Фи-07ет
+equipment | 300 solars | nameEn=true descEn=false | terms=- | x1 Орис-Фи-07ет
+trait | Shadow Creature | nameEn=true descEn=true | terms=- | x1 Мандрагора
+trait | Fade Away | nameEn=true descEn=true | terms=- | x1 Мандрагора
+weapon | Glimmersteel Blade | nameEn=true descEn=false | terms=- | x1 Мандрагора
+weapon | Baleblast | nameEn=true descEn=false | terms=- | x1 Мандрагора
+weapon | Hand Weapon | nameEn=true descEn=false | terms=- | x1 Херувим
+trait | Bureaucratic Boldness | nameEn=true descEn=true | terms=- | x1 Агира Чернов
+trait | Flaccid Fists | nameEn=true descEn=false | terms=- | x1 Агира Чернов
+equipment | several scrolls filled with records | nameEn=true descEn=false | terms=- | x1 Агира Чернов
+equipment | 30 solars | nameEn=true descEn=false | terms=- | x1 Агира Чернов
+specialisation | Шифры | nameEn=false descEn=true | terms=- | x1 Агира Чернов
+specialisation | Запретное (Разное) | nameEn=false descEn=true | terms=- | x1 Агира Чернов
+specialisation | Адептус Терра | nameEn=false descEn=true | terms=- | x1 Агира Чернов
+trait | Malefic Psyker | nameEn=true descEn=true | terms=- | x1 Летик Арандир
+trait | Unrestrained Power | nameEn=true descEn=true | terms=- | x1 Летик Арандир
+trait | Chaos Stave (Force Staff, Psy Focus) | nameEn=true descEn=false | terms=- | x1 Летик Арандир
+trait | Aura of Discipline | nameEn=true descEn=true | terms=- | x1 Дариус Дофин
+trait | Stalwart | nameEn=true descEn=true | terms=- | x1 Дариус Дофин
+equipment | A Commissar’s uniform | nameEn=true descEn=false | terms=- | x1 Дариус Дофин
+equipment | a pair of dog tags | nameEn=true descEn=false | terms=- | x1 Дариус Дофин
+equipment | a bookmarked copy of the Imperial Infantryman’s Uplifting Primer | nameEn=true descEn=false | terms=- | x1 Дариус Дофин
+specialisation | Бег | nameEn=false descEn=true | terms=- | x1 Гиринкс
+specialisation | Обаяние | nameEn=false descEn=true | terms=- | x1 Гиринкс
+specialisation | Равновесие | nameEn=false descEn=true | terms=- | x1 Гиринкс

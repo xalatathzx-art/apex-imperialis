@@ -1,0 +1,216 @@
+0WV8IJuVkxLdOuem | Forbidden (Various) | Запретное (Разное)
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Lore}</p><p>Knowledge and training in a specific subject that is utterly suppressed within the Imperium. Knowing information about aliens or psykers without specific dispensation from a powerful individual or group can get you in serious trouble. True knowledge of daemons lead to summary execution. Any knowledge of the immaterium, beyond common myth, is typically strictly obscured within the Imperium, as is real knowledge about the Adeptus Astartes. Each Forbidden Lore requires taking a corresponding @UUID[Compendium.navis-apexialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Forbidden Knowledge} Talent in order to learn it.</p>
+
+1OMDatjP2PW1oufq | Forbidden (Various) | Запретное (Разное)
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#medicae-(int)]{Medicae}</p><p>Examples include knowledge of the installation and configuration of various radical Augmetics. Advanced medical training in treating disease and injuries in a specific species of xenos creature — typically used after a battle to stabilise one of them long enough for interrogation. Knowledge of diseases borne of the warp. Each Forbidden Medicae requires taking a corresponding @UUID[Compendium.navis-apexialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Forbidden Knowledge} Talent in order to learn it. </p>
+
+1OpFNkQcIjJ3GubM | Taste | Вкус
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Awareness}</p><p>Superior ability to discern various flavours, including the signs of certain poisons and drugs. </p><p></p>
+
+1StCjMo3UrYVdvmB | Swimming | Плаванье
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#athletics-(str)]{Athletics}</p><p>Better aptitude at swimming through liquids, typically water. Essential on some worlds with planet-spanning oceans, and almost unknown on others.</p>
+
+4AB9VMouQfamftYY | Security | Безопасность
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Tech}</p><p>Knowledge of how to interact with the Machine Spirits that control security devices, along with whatever other systems have been linked to the same, such as doors, thermo-regulators, weapons systems, and so forth, in order to direct them in specific ways. Accomplished through the use of binary codes, modern and ancient, along with various techniques used to sift information from datavaults, secured or otherwise. A Specialisation known to few outside the @UUID[JournalEntry.uJURMn2glWHhjqJk.JournalEntryPage.1oKZw1hTM7Gx5cqB]{Adeptus Mechanicus}. </p>
+
+5NcIai4M0ir0mfFu | Poison | Яды
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#fortitude-(tgh)]{Fortitude}</p><p>Precise exposure to a variety of toxins helps build up resistance, as well as granting experience in how to focus and continue to act effectively, despite having been poisoned. </p>
+
+6XPljxGYZGUiF0Ku | Tracking | Следы
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#navigation-(int)]{Navigation}</p><p>Extensive training in how to read the marks left by the passage of others, in order to follow them, but also to determine information such as their numbers, if they are carrying a heavy load or travelling light, if they were in a hurry, and so on. </p>
+
+6vL1UfitHLvZyFSn | Void | Пустота
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#navigation-(int)]{Navigation}</p><p>Capacity with the unusual knowledge of how to plot and follow a course between celestial bodies within a system. </p>
+
+9VlX8m432ACYOejV | Psychic | Психосилы
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#discipline-(wil)]{Discipline}</p><p>Advanced training in mentally resisting various psychic powers that can unduly influence or suborn one’s mind. </p>
+
+9mjpbJ5GEldcLVoP | Fear | Страх
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#discipline-(wil)]{Discipline}</p><p>Mentally hardened to stand firm in the face of the unnatural fear caused by exposure to heretical and corrupt beings. Fear is often used to resist and recover from the @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Frightened} Condition. </p>
+
+AlRlK6zT5y9An6YH | Dodge | Уклонение
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#reflexes-(ag)]{Reflexes}</p><p>Capacity for avoiding injury or accident through quick movements designed to sidestep the danger. Can be used to defend yourself in combat against melee and ranged attacks. While the unaugmented cannot directly dodge bullets, they can avoid being shot by swiftly removing themselves from the line of fire. </p>
+
+AmEl8GsMnXRgsW1u | Climbing | Лазанье
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#athletics-(str)]{Athletics}</p><p>Practised ability to safely and efficiently traverse vertical surfaces. Frequently useful on both Feral and Hive Worlds. Valuable in combat if one has to scale the side of a servo-hauler to get the drop on a heretical demagogue.</p>
+
+At93MfDwDGrGs2Ou | Aeronautica | Аэронавтика
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#piloting-(ag)]{Piloting}</p><p>Advanced training in how to operate flying vehicles, from transports to combat aircraft. This specialisation is sufficient for taking capable craft from orbit down to a planet, but not for performing complex manoeuvres outside of a planet's atmosphere.</p>
+
+BRM3Kr2h6HXY1N3S | Sector | Сектор
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Lore}</p><p>Broad knowledge about a particular Sector, which must be chosen when this specialisation is first taken. For example, Lore (Macharian Sector) would cover the subsectors, power structures, important figures, and general place of the @UUID[JournalEntry.B7MZBBT3bNew9N96]{Macharian Sector} within the wider Imperium. It is possible to take this specialisation more than once. Each time you do so, choose another sector. </p>
+
+ERqWtuOCTmeQNdeS | Interrogation | Допрос
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Presence}</p><p>Aptitude in a variety of techniques designed to elicit answers out of a subject. A skilled interrogator implies pressure in many ways, subtle and not, in order to discover as much information as they can, even when a subject is cooperative. Interrogation is not physical torture, though undergoing a long interrogation may certainly feel agonising. Interrogation is opposed by the target's @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Discipline (Composure)} or @UUID[Compendium.navis-apexialis.navis-core-items.Item.hu6z7RnzzKS830Av]{Endurance (Pain)}. </p>
+
+Fg5EIrACH7YL8GV4 | Engineering | Инженерное дело
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Tech}</p><p>Knowledge of the construction, use, and restoration of technological and mechanical devices. Encompasses the crafting of such items, as well as weapons and explosives. Within the Imperium, the Adeptus Mechanicus considers this entire branch of knowledge to be their exclusive right and will punish those who use it, or even study it, without their sanction. Notably, an individual that knows only how to assemble or repair a device by rote need not have this Specialisation. </p>
+
+FkC4Nhy3WE5EKxzm | Thrown | Метательное оружие
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#ranged-(bs)]{Ranged}</p><p>Extensive training in the use of hurled weapons, such as grenades and throwing knives. </p>
+
+FrPGX0LKgTxBImQe | Surface | Поверхность
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#navigation-(int)]{Navigation}</p><p>Training in plotting and following a likely course over land or sea in order to reach a chosen destination in the most efficient way possible. </p>
+
+G82uhQ5GJVIsMqLy | Hide | Невидимка
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#stealth-(ag)]{Stealth}</p><p>Competence at becoming unseen or unremarked by others, such as when camouflaged amidst xenofoliage or tailing someone through a crowd. Hide is usually opposed by an observor's @UUID[Compendium.navis-apexialis.navis-core-items.Item.jY2q3F8O0ogwpf6E]{Awareness (Sight)}. </p>
+
+GdiJM3RqIcqQUmSs | People | Люди
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#intuition-(per)]{Intuition}</p><p>Extensive practice in studying patterns of Human behaviour, allowing one to notice when someone is lying, hiding something, or acting strangely. This skill is often used to oppose @UUID[Compendium.navis-apexialis.navis-core-items.Item.nhW5AN4gHrWvmfyz]{Rapport (Deception)}.</p>
+
+IkZnmJf94H73sdKO | Military | Военная техника
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#piloting-(ag)]{Piloting}</p><p>Advanced training in how to operate military ground vehicles, such as tanks. Typically, training in this specialisation is given by Astra Militarum instructors, to characters of sufficient rank. </p>
+
+Iy8utZ0K31vqRqdh | Smell | Обоняние
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Awareness}</p><p>Aptitude for noting and identifyingparticularly distinct or unusual aromas. Some rare augmentations and genetic enhancements allow those imbued with them to track others entirely by scent alone.</p><p></p>
+
+JIKtbqpg0l3dqEp9 | Conceal | Маскировка
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#stealth-(ag)]{Stealth}</p><p>Aptitude for knowing how to obscure places and objects so that others cannot easily find them. Conceal is often opposed by either @UUID[Compendium.navis-apexialis.navis-core-items.Item.jY2q3F8O0ogwpf6E]{Awareness (Sight)} or @UUID[Compendium.navis-apexialis.navis-core-items.Item.qQj5DU8bmjmdqgIh]{Intuition (Surroundings)}.</p>
+
+KkqeDOE06sl4avkH | Lock Picking | Взлом замков
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#dexterity-(ag)]{Dexterity}</p><p>Experience in the art of opening mechanical locks without keys. Locks sophisticated enough to have a machine spirit likely requires a Tech (Security) Test to convince them to open. </p><p></p>
+
+L8GeEJI6wSqEQD2y | Sleight of Hand | И никакого мошенничества
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#dexterity-(ag)]{Dexterity}</p><p>Training in performing tricks of prestidigitation and secreting various items even while being observed. A master can conceal a weapon with the Subtle Trait even while being searched. Sleight of Hand is usually opposed by Awareness (Sight). </p><p></p>
+
+MIk0Pmf5AIXP9Qat | Augmetics | Аугметика
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Tech}</p><p>Studied in the use and repair of different types of augmetic devices. Most augmetics are mechanical or electrical augmetic substitutes for Human biological parts, many with enhanced capacities, though some offer entirely new capabilities. Augmetics requires at least 1 Advance in the @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#medicae-(int)]{Medicae} Skill. </p>
+
+MclWeVoIN5X4MkQ0 | Cipher | Шифры
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Linguistics}</p><p>Training in identifying, deciphering, and using secret writing codes. Some ciphers are clearly coded communications that may require a literary key of some kind to unlock, others are messages carefully disguised within other writings. </p>
+
+NNjqMA3cKTKOSgSp | Theology | Богословие
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Lore}</p><p>Training in the Imperial Creed, including various sects and interpretations. Passing knowledge of the Cult Mechanicus. Only cursory knowledge at best of any heretical sects of the Imperial Creed and none whatsoever of any forbidden cults. Theology requires at least 1 Advance in @UUID[Compendium.navis-apexialis.navis-core-items.Item.uIycnZ1DuUJFFO0c]{Linguistics (High Gothic)}. </p>
+
+NfZSZJjCzZRkR9Ux | Haggle | Торг
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#rapport-(fel)]{Rapport}</p><p>Versed in the ancient art of bargaining for the best deal. Haggle is often opposed by either @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Discipline (Composure)} or @UUID[Compendium.navis-apexialis.navis-core-items.Item.t3d39VvFsvgeu0bW]{Logic (Evaluation)}. </p>
+
+PQeWw1pIk2T4M1P0 | Pistols | Пистолеты
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#ranged-(bs)]{Ranged}</p><p>Extensive training in the use of handguns, such as laspistols, bolt pistols, autopistols, stub revolvers, and similar firearms. </p>
+
+RXUhvWSFQ3L4tkqv | Warp | Варп
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#navigation-(int)]{Navigation}</p><p>The ability to plot a course through the uncertain eddies and currents of the immaterium. A skill based on feeling as much as knowledge, it is impossible to accurately navigate the warp without the ability to perceive it, which is why this skill is held exclusively by the mutant Navigators of the Navis Nobilite. Using this skill requires the @UUID[Compendium.navis-apexialis.navis-core-items.Item.6HjP77WbIfwGbhs5]{Inheritor (Navis Nobilite)} Talent.</p>
+
+UfHJSmgqn3BJzssJ | Riding | Верховая езда
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#athletics-(str)]{Athletics}</p><p>Increased aptitude in piloting equines, or their xenos equivalents. All but essential for controlling such beasts in combat.</p>
+
+VWxeRNyt6FoJS8Lq | Animals | Животные
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#rapport-(fel)]{Rapport}</p><p>Aptitude for gaining the friendship and affection of simple beasts, along with the knowledge of how to care for them. Useful for interacting with guardian canids to, for example, issue one a command, or get a hostile one to stop barking. </p>
+
+ZvZaekCoMPSxIM22 | Inquiry | Сбор сведений
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#rapport-(fel)]{Rapport}</p><p>Trained, or naturally skilled, at getting answers out of others via gossip, friendly conversation, or pointed questions. Inquiry can be opposed by either @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Discipline (Composure)} or @UUID[Compendium.navis-apexialis.navis-core-items.Item.i5ycJHAR6vodK1sM]{Presence (Intimidation)}. </p>
+
+b3u4RvLc4hMpqvUZ | Move Silently | Бесшумное движение
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#stealth-(ag)]{Stealth}</p><p>Trained facility for moving soundlessly and avoiding drawing attention. Move Silently is usually opposed by @UUID[Compendium.navis-apexialis.navis-core-items.Item.w8inHqYAM5sSUmg8]{Awareness (Hearing)}. </p>
+
+bOZCuB3ObJrmYZ2b | Civilian | Гражданская техника
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#piloting-(ag)]{Piloting}</p><p>Advanced training in how to operate nonmilitary ground vehicles such as cargo haulers or personal transports. </p>
+
+br7jzWuiFA3SBcqX | Might | Мощь
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#athletics-(str)]{Athletics}</p><p>Advanced capacity for moving greater weight, breaking physical objects, and enduring heavy loads. In appropriate circumstances, an Athletics (Might) Test can be used in place of a Presence (Intimidation) Test to achieve similar aims.</p>
+
+ch8f7tsa4DgP3LM1 | One-handed | Одноручное оружие
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#melee-(ws)]{Melee}</p><p>Extensive training in the use of swords, axes, maces, and other melee weapons that can be used with a single hand. </p><p></p>
+
+d9qvNNcRkBEHOOsI | Endurance | Неустанность
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#fortitude-(tgh)]{Fortitude}</p><p>Trained to go without sleep for significantly extended periods, pushing on through exhaustion due to greater stamina. </p>
+
+dJXTBf3YXV36k5ao | Acrobatics | Акробатика
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#reflexes-(ag)]{Reflexes}</p><p>Training in gymnastic exercises, with increased capacity for gracefully jumping, rolling, and tumbling. Can be used to swiftly traverse otherwise difficult terrain. </p>
+
+e2q6d2U78Mx7gNZH | Human | Люди
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#medicae-(int)]{Medicae}</p><p>Advanced training in treating disease and injuries in Humans. Used for first aid, stabilising the heavily injured, and stopping bleeding. Despite the name, it will work on Abhumans such as Ratlings, Ogryn, and Kin of the Leagues of Votann. </p>
+
+fOUBnit4lZ2NvEhw | Touch | Осязание
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Awareness}</p><p>Capacity to feel unusual vibrations which indicate the passage of subterranean vehicles and weapon systems. Trained to discern the origin of fabrics and unusual materials by feel. Useful for detecting pickpockets. </p><p></p>
+
+fpGtXdwoRBFZLQKg | Animal | Животные
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#medicae-(int)]{Medicae}</p><p>Studied in the medical arts that deal specifically with the prevention and treatment of disease and injuries to animals. Includes extensive knowledge of their anatomies, patterns of behaviour, and products derived from them. </p>
+
+gGYWF9SwVtapwXON | Two-handed | Двуручное оружие
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#melee-(ws)]{Melee}</p><p>Extensive training in the use of larger swords, bigger axes, heavier maces, and other melee weapons that require two hands to use, along with various polearms such as spears and halberds. </p>
+
+hcHLnG4bQuuSvDKc | Leadership | Лидерство
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Presence}</p><p>Trained to inspire others to put in their best efforts to achieve a desired goal. This can range anywhere from motivating a few clerks to finish a long survey in record time, to giving a group of desperate soldiers the courage to charge a fortified enemy bunker. </p>
+
+hu6z7RnzzKS830Av | Pain | Боль
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#fortitude-(tgh)]{Fortitude}</p><p>Increased capability for resisting torture and doing one’s duty despite injuries, due to extensive training in withstanding pain. </p>
+
+i5ycJHAR6vodK1sM | Intimidation | Запугивание
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#presence-(wil)]{Presence}</p><p>Applying pressure through threats, subtle or blatant, that physical chastisement and other dire fates await those that fail to do as they are told or confess all they know. Intimidation is often opposed by @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Discipline (Composure)}. If one party is of a larger @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#size]{Size} than the other, the larger creature gains Advantage on this Test.</p>
+
+ilKBDlUb3tQA1gIm | Forbidden | Запретное
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#psychic-mastery-(wil)]{Psychic Mastery}</p><p>Many other Psychic Disciplines exist throughout the galaxy, more secretive or forbidden that even the abhorred practices of the Imperium's sanctioned psykers. Some of these will be explored in future supplements, and likely require a corresponding @UUID[Compendium.navis-apexialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Forbidden Knowledge} Talent in order to learn. </p>
+
+jY2q3F8O0ogwpf6E | Sight | Зрение
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Awareness}</p><p>Advanced capacity for perceiving important details and training in noticing elements that seem even a little incongruous.</p><p></p>
+
+jkEVa1cQDw3xlT0G | Long Guns | Лёгкое оружие
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#ranged-(bs)]{Ranged}</p><p>Extensive training in the use of longer firearms, such as lasguns, shotguns, bolters, autoguns, meltaguns, and similar ranged weapons. </p>
+
+lBzdm76EnuuoGfMq | Psyniscience | Психическое чутьё
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Awareness}</p><p>Psykers can be trained to use their connection to the immaterium in order to discern areas where realspace is being, or has been, disrupted due to the intrusion of the warp. This allows them to detect the presence of warp entities and even locate other psykers, so long as they draw on the empyrean to use their psychic abilities. Psyniscience requires the @UUID[Compendium.navis-apexialis.navis-core-items.Item.3GLGsYiH5LiKgYjE]{Psyker} Talent, though prolonged exposure to warp phenomena and at the GM's discretion may allow others to take a single advance in this skill. </p><p></p>
+
+lYk44GrezmapuTQh | Group (Various) | Определённая группа (Разное)
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#intuition-(per)]{Intuition}</p><p>As above, but for a group of people who are partly or entirely something other than Human. This includes heavily augmented Tech-priests, Space Marines, or even xenos.</p>
+
+mwcL5TThn7EWth1Y | Academics | Схоластика
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Lore}</p><p>Grants the ability to write Low Gothic along with some knowledge of arts, economics, books, and local planetary culture. Generally reserved for more connected or well-to-do members of the Imperium. </p>
+
+nhW5AN4gHrWvmfyz | Deception | Обман
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#rapport-(fel)]{Rapport}</p><p>Well-practised, or specifically trained, to deceive without flinching. Deception is often opposed by Intuition. </p>
+
+oT9uE04bDo0gRY9J | Ordnance | Тяжёлое оружие
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#ranged-(bs)]{Ranged}</p><p>Extensive training in the use of heavier ranged weaponry, such as lascannons, heavy bolters, missile launchers, and similarly devastating means of causing death and destruction. </p>
+
+pCaL4N0VwOWCN736 | Defuse | Разминирование
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#dexterity-(ag)]{Dexterity}</p><p>Practical rote instruction in the various techniques and prayers used to harmlessly deactivate explosive devices and disarm trap mechanisms. Defuse requires at least 1 Advance in the @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Tech Skill}. </p><p></p>
+
+plZWqfsPtZXYg0jd | Pickpocket | Карманные кражи
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#dexterity-(ag)]{Dexterity}</p><p>Competence in pilfering the contents of others’ pockets, bags, backpacks, etc. without their noticing. Can also be used in reverse to place (incriminating) items within. Pickpocket is usually opposed by Awareness (Touch). </p>
+
+pzxky5Jl5c2G82wF | Adeptus Terra | Адептус Терра
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Lore}</p><p>Knowledge not only of the Adeptus Terra itself, but of the many Adepta that make up the structure of the Imperium. This specialisation does not necessarily confer knowledge of any but the most well known members of any particular organisation, but it does cover knowledge of the roles and responsibilities of these organisations and their position with the Imperium at large. </p>
+
+qQj5DU8bmjmdqgIh | Surroundings | Окружение
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#intuition-(per)]{Intuition}</p><p>Training in learning to continually read the surrounding environment, noting unusual mistakes in layout, furtive steps, concealed shapes, or ominous patterns of behaviour which indicate something is wrong. </p>
+
+rZwUyULrgjBjGlbN | Composure | Самообладание
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#discipline-(wil)]{Discipline}</p><p>Practised at resisting charm, intimidation, and other social pressures. Those with strong Composure are gifted at maintaining their integrity in the face of temptation. </p>
+
+t3d39VvFsvgeu0bW | Evaluation | Оценка
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#logic-(int)]{Logic}</p><p>The ability to assess relative worth based on perceived qualities. Useful for determining the value of practical goods and equipment, or the soundness of a given structure or device.</p>
+
+tSLDbjssuHbHCXp6 | Planet | Планета
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#lore-(int)]{Lore}</p><p>Specific knowledge about a particular planet, which must be chosen when this specialisation is first taken. For example, Lore (Voll) knowledge about the world of @UUID[JournalEntry.B7MZBBT3bNew9N96.JournalEntryPage.59y8WFXTbwKRwiRI]{Voll}, its customs, governance, locations, hazards, and so on. It is possible to take this specialisation more than once. Each time you do so, choose another planet. </p>
+
+tUjc8EyagoTGnwPG | Balance | Равновесие
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#reflexes-(ag)]{Reflexes}</p><p>Practice in keeping on one’s feet, despite uncertain ground, pools of slippery unguents, or treacherous walkways. </p>
+
+tsjntQt0FNor3a38 | Major Voidship | Крупные пустотные корабли
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#piloting-(ag)]{Piloting}</p><p>Training in how to operate the truly vast ships of the Imperial Fleet — Cruisers, Destroyers, Frigates, and similar. Typically, training in this specialisation is given by Imperial Navy instructors, to characters of sufficient rank. </p>
+
+uIycnZ1DuUJFFO0c | High Gothic | Высокий готический
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Linguistics}</p><p>Familiarity with the formal language of the Imperium, spoken only in rarefied circles. Knowledge of High Gothic is held within the various branches of the Imperium, the Adeptus Mechanicus, and some older noble houses. The eldest histories of the Imperium, along with its most ancient secrets, are often preserved within datavaults in formal High Gothic. </p>
+
+uJDozJSZZWyPfvXy | Minor Voidship | Малые пустотные корабли
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#piloting-(ag)]{Piloting}</p><p>Advanced training in operating smaller space vessels, from void fighters to transports. Typically, training in this specialisation is given by Imperial Navy instructors, to characters of sufficient rank. </p>
+
+w3E5gSHLdi987WVO | Charm | Обаяние
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#rapport-(fel)]{Rapport}</p><p>Skilled at being exceedingly agreeable and pleasant company, leading to increased ability to make ‘reasonable’ requests of one’s new friends. Charm is often opposed by @UUID[Compendium.navis-apexialis.navis-core-items.Item.rZwUyULrgjBjGlbN]{Discipline (Composure)}. </p>
+
+w8inHqYAM5sSUmg8 | Hearing | Слух
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#awareness-(per)]{Awareness}</p><p>Facility for detecting and identifying unusual sounds that stand out from local ambient ones. Greater ability to determine where a sound originated from.</p>
+
+xO9zBsfvffNZbRvg | Brawling | Кулачный бой
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#melee-(ws)]{Melee}</p><p>Experience in the brutal art of pugilism. Covers everything from fighting with bare hands or brass knuckles, through to inflicting devastating blows with a mighty @UUID[Compendium.navis-apexialis.navis-core-items.Item.Tm38HWpxtnkcrmKl]{Power Fist}.</p>
+
+y5zTFfM2mNl1cV36 | Running | Бег
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#athletics-(str)]{Athletics}</p><p>Greater capability for moving at speed over longer distances. Useful for catching fleeing foes, and escaping from dangerous opponents.</p>
+
+z3pFUwFlp4BJf1oJ | Forbidden (Various) | Запретное (Разное)
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#linguistics-(int)]{Linguistics}</p><p>Those possessed of this skill understand a language or form of communication that is either highly restricted or prohibited within the Imperium. With few exceptions, it is considered heretical to know the languages of aliens; however, the Sisters of the Orders Dialogus are frequently granted special dispensation from the Adeptus Ministorum to learn such in pursuit of their duties. Some xenos languages, such as the Kroot’s, are unpronounceable by a Human tongue without augmentation. While some languages are considered too profane to speak, others are too holy for common knowledge. The Lingua-technis of the Adeptus Mechanicus is a forbidden language that few outside their order have ever learned, in part, because it is based on binary machine code that all but the most gifted individuals require cybernetic implants to speak. Thoughtmark, the form of sign language used by the Sisters of Silence, is also known to very few outsiders. Each Forbidden Language requires taking a corresponding @UUID[Compendium.navis-apexialis.navis-core-items.Item.Lbm6mRMiqSGHq9GD]{Forbidden Knowledge} Talent in order to learn it. </p>
+
+zmHYMyMLYBqoEPSe | Investigation | Следствие
+<p>@UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#logic-(int)]{Logic}</p><p>Training on how to read a crime scene for clues as to what occurred, including inferring whom the parties involved might be, as well as drawing pertinent information from any corpse present. Includes some forensic knowledge, such as knowing how to assess the angle of a strike and the sort of weapons used due to the angle of blood splatters, as well as time since the attack by studying how congealed the gore is.</p>
+

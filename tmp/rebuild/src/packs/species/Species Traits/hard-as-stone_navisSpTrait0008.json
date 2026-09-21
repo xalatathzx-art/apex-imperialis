@@ -1,0 +1,33 @@
+{
+  "name": "Hard as Stone",
+  "type": "trait",
+  "_id": "navisSpTrait0008",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 800,
+  "system": {
+    "notes": {
+      "player": "<p>Generations under heavy gravity, bred short and dense.</p> <p>You have Advantage on Fortitude Tests to resist poison, disease, radiation and vacuum, and on any Test to resist being knocked <em>Prone</em> or moved against your will.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

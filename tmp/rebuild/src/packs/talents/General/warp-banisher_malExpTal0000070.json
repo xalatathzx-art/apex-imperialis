@@ -1,0 +1,59 @@
+{
+  "name": "Warp Banisher",
+  "type": "talent",
+  "_id": "malExpTal0000070",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">After successful Deny The Witch: spend FP to prevent psychic power usage for 1d5 turns. If demon: +5 damage</span></p><hr><p><span style=\"font-family: Arial\"><em>After making a successful Deny the Witch attempt to stop a Power from affecting you, you may spend a Fate Point to prevent the enemy from using any powers at all for 1d5 turns. Furthermore, if the enemy is Daemonic in nature, they suffer 5 Damage. </em></span></p>",
+      "gm": "Talent Category: Defense"
+    },
+    "requirement": {
+      "value": "2 Advances in Discipline, Condemn the Witch Talent OR Emperor’s Aegis Talent",
+      "script": "return this.actor.system.skills.discipline.advances >= 2 && (this.actor.itemTypes[\"talent\"].find(i => i.name == \"Condemn The Witch\") || this.actor.itemTypes[\"talent\"].find(i => i.name == \"Aegis of the Emperor\"))"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "KmCDAtV80ZeH9J36",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 0
+}

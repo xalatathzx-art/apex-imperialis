@@ -1,0 +1,59 @@
+{
+  "name": "Aegis of the Emperor",
+  "type": "talent",
+  "_id": "malExpTal0000158",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">1/Encounter, spend FP, target ally within Short range: target cannot be affected by Psychic Powers for 1h</span></p><hr><p><span style=\"font-family: Arial\"><em>It is said that among the oldest invocations of the Emperor’s strength are the three words, “The Emperor Protects.” Once per encounter, you may spend a Fate Point on an ally within Short Range. This ally cannot be targeted by Psychic Powers for 1 Hour.</em></span></p>",
+      "gm": "Talent Category: Faith"
+    },
+    "requirement": {
+      "value": "Shielding Faith talent",
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Shielding Faith\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "oBHvd40uCHrPtfbK",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 2600000
+}

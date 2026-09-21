@@ -1,0 +1,59 @@
+{
+  "name": "Coordinated Interrogation",
+  "type": "talent",
+  "_id": "malExpTal0000144",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">+1SL to all Presence(Interrogation). Additional +1SL for every 2 aiding characters with the same Talent. You gain effect of being Helped</span></p><hr><p><span style=\"font-family: Arial\"><em>A trained interrogator, especially when working in conjunction with others, can induce cooperation from even the most hardened of suspect and heretics. You gain a +1SL bonus to all Presence (Interrogation) Tests, and an additional +1 SL for every two other characters participating in the interrogation who also have Coordinated Interrogation. You will also gain the effects of being Helped (IM CRB pg. 189). </em></span></p>",
+      "gm": "Talent Category: Social"
+    },
+    "requirement": {
+      "value": "Clues from the Crowd Talent, 1 Advance in Presence(Interrogation)",
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Interrogation\" && i.system.skill == \"presence\")?.system?.advances >= 1) && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Clues from the Crowds\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "QZxXEi5gaFblpeYN",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 200000
+}

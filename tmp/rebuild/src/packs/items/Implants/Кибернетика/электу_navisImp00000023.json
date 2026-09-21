@@ -1,0 +1,70 @@
+{
+  "name": "Электу",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000023",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00003",
+  "sort": 2300,
+  "system": {
+    "notes": {
+      "player": "<p>Татуировка-имплант не больше 20×20см, вживлённая под кожу и подключённая к нервной системе. Ментальным полудействием владелец обесцвечивает её или возвращает обратно.</p>",
+      "gm": ""
+    },
+    "rules": "<p>При наличии МИУ или Имплантов Механикум все действия с Электу становятся свободными.</p>",
+    "page": "DoomBC стр. 265",
+    "category": "cybernetic",
+    "rarity": -1,
+    "availability": "common",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 500,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Активация болезненна: проверка Силы воли (+30), иначе — гримаса, шипение или вскрик. Часть моделей сохраняет этот эффект и на более высоких уровнях нарочно — терпеть боль Электу считается доблестью во многих кланах подулья.",
+      "2": "",
+      "3": "Электу способна светиться в темноте или показывать зацикленную анимацию — оба эффекта включаются и выключаются ментальным полудействием.",
+      "4": "Как Уровень 3, и вдобавок при наличии Имплантов Механикум или связки Кортикального Импланта с МИУ на Электу можно выводить текст и изображения прямо из памяти."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 265",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

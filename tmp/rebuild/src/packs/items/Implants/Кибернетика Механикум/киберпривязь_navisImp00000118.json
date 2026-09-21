@@ -1,0 +1,70 @@
+{
+  "name": "Киберпривязь",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000118",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 11800,
+  "system": {
+    "notes": {
+      "player": "<p>Продвинутый Ноосферный адаптер, вживляемый в Кибер-Мантию для прямого управления сервочерепами и подобными простыми конструктами.</p><p>Устанавливается только персонажу с чертой Импланты Механикум, не более одного экземпляра. Операция по установке персонажу вне Техножречества — услуга Редкости 4.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Позволяет использовать Характеристики, Навыки и Таланты владельца вместо принадлежащих сервочерепу, который тратит очки действий и Реакции владельца. Занимает по одному слоту Кибер-Мантии за каждый подключённый череп.</p>",
+    "page": "DoomBC стр. 275",
+    "category": "mechanicum",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 2000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 1,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "До 1 сервочерепа.",
+      "2": "",
+      "3": "До 3 сервочерепов.",
+      "4": "До 4 сервочерепов, один без затраты слота."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 275",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

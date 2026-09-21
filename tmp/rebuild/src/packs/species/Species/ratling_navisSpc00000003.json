@@ -1,0 +1,148 @@
+{
+  "name": "Ratling",
+  "type": "navis-apexialis.species",
+  "_id": "navisSpc00000003",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder001",
+  "sort": 300,
+  "system": {
+    "notes": {
+      "player": "<p>You belong to the physically smallest abhuman strain. Ratlings like you live on half a dozen worlds of their own and have settled in small communities across many worlds of the Imperium; after the Twelfth Black Crusade, billions of Ratlings were driven into slavery in the Eye of Terror.</p> <p>Though you are weaker than an ordinary human, a sharp eye, deft hands and an almost preternatural aim make your kind ideal scouts, thieves and snipers.</p>",
+      "gm": "<p><em>Conversion:</em> the book's Unnatural BS (2) and Unnatural P (2) fold into the same characteristics rather than stacking on the bonus, and Runt's −4 maximum Wounds becomes −2 on impmal's shorter scale.</p> <p><em>House rule:</em> DoomBC sets no characteristic ceilings. The Strength cap of 40 and the Ballistic Skill cap of 70 are this module's; everything else is impmal's own 60.</p>"
+    },
+    "category": "abhuman",
+    "reference": "DoomBC p.8",
+    "restricted": false,
+    "characteristics": {
+      "modifiers": {
+        "ws": 0,
+        "bs": 10,
+        "str": -10,
+        "tgh": -5,
+        "ag": 5,
+        "int": 0,
+        "per": 5,
+        "wil": 0,
+        "fel": 0
+      },
+      "choice": {
+        "number": 1,
+        "value": 5,
+        "keys": [
+          "bs",
+          "ag",
+          "fel"
+        ]
+      },
+      "maximums": {
+        "ws": 60,
+        "bs": 70,
+        "str": 40,
+        "tgh": 60,
+        "ag": 60,
+        "int": 60,
+        "per": 60,
+        "wil": 60,
+        "fel": 60
+      }
+    },
+    "skills": {
+      "stealth": 2,
+      "dexterity": 2,
+      "ranged": 1
+    },
+    "size": "small",
+    "corruption": 0,
+    "roles": [
+      "Penumbra",
+      "Savant",
+      "Warrior",
+      "Interlocutor"
+    ],
+    "removes": [],
+    "grantedTraits": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0006",
+          "id": "navisSpTrait0006",
+          "name": "Barefoot",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0007",
+          "id": "navisSpTrait0007",
+          "name": "Runt",
+          "diff": {}
+        }
+      ]
+    },
+    "talents": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-talents.Item.malExpTal0000003",
+          "id": "malExpTal0000003",
+          "name": "Combat Sense",
+          "diff": {}
+        }
+      ]
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": []
+    }
+  },
+  "effects": [
+    {
+      "_id": "navisSpFx0000003",
+      "name": "Ratling — physiology",
+      "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+      "changes": [
+        {
+          "key": "system.combat.wounds.max",
+          "mode": 2,
+          "value": "-2",
+          "priority": 20
+        }
+      ],
+      "disabled": false,
+      "transfer": true,
+      "origin": null,
+      "duration": {},
+      "description": "",
+      "statuses": [],
+      "flags": {
+        "navis-apexialis": {
+          "source": "DoomBC_Core",
+          "generated": "tools/make-species.mjs"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "impmal",
+        "systemVersion": "3.3.0"
+      }
+    }
+  ],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

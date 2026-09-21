@@ -1,0 +1,219 @@
+##### malExpTal0000048 | Defense | Abiding Resilience
+REQ: 2 Advances in Fortitude
+<p>Spend FP to recover 1d5+TghB</p><hr><p><em>You can now expend a Fate Point to regain 1d5 + Toughness Bonus Wounds.</em></p>
+
+##### malExpTal0000053 | Defense | Blistering Evasion
+REQ: 2 Advances in Reflexes(Dodge) or 2 Advances in Melee
+<p>On success dodge/parry:further attack against you -10. Stacks until next turn</p><hr><p><em>Whenever you successfully Dodge or Parry an attack, any further attacks against you until the beginning of your next turn suffer a -10 Penalty. If you perform multiple successful Dodges and/or Parries, this penalty is cumulative until the beginning of your next turn. </em></p>
+
+##### malExpTal0000054 | Defense | Death or Glory
+REQ: 1 Advance in Melee and 1 Advance in Discipline
+<p>May immediately charge an enemy that would trigger frighten you as free action if within range</p><hr><p><em>When confronting an enemy that would cause you to make a test against the Frightened condition, you may instead immediately Charge (CRB pg. 207) the source of the test as an any-time Free Action, so long as they are within range and are a tangible threat (charging a Daemon is fine, charging the consequences of your actions is not). This talent may be used even if you have already done an Action.</em></p>
+
+##### malExpTal0000055 | Defense | Die Hard
+REQ: -
+<p>Reroll Fortitude (Endurance) to resist Bleeding</p><hr><p><em>Through either willpower or sheer stubbornness, you refuse to die. When you suffer from the Bleeding condition, you may reroll Fortitude (Endurance) Tests to resist the condition. </em></p>
+
+##### malExpTal0000056 | Defense | Dug In Deep
+REQ: -
+<p>Extra armor while in cover: Light +1, Medium/Heavy +2</p><hr><p><em>You are an expert of defensive warfare, making maximum use of cover to reinforce your position. When targeted by an enemy whilst in Light Cover, you gain +1 Armor, and whilst in Medium or Heavy Cover you gain +2 Armor.</em></p>
+
+##### malExpTal0000057 | Defense | Formidable
+REQ: Tenacious Talent
+<p>Halve damage from Blast weapon effect (after armor, round up)</p><hr><p><em>Though the human body can never truly adapt to the intense pressure, heat, and vibration shocks of explosions, anyone experienced with demolitions or artillery becomes somewhat accustomed to it. When you take damage from a weapon with the Blast quality, you halve the number of Wounds you receive after accounting for armor, rounding up.</em></p>
+
+##### malExpTal0000058 | Defense | Hardened Soul
+REQ: Emperor’s Aegis Talent, succeeded against a corruption test at least once
+<p>When gain Corruption: gain half. Checks to hold corruption +1SL</p><hr><p><em>Whenever you would gain Corruption Points, you may reduce the amount by half (rounded up). Additionally, when you make a test to resist to hold off your corruption, you gain +1 SL on the test.</em></p>
+
+##### malExpTal0000059 | Defense | Last Man Standing
+REQ: 3 Advances in Discipline and 1 Advance in Discipline(Fear)
+<p>Immune to pinning from Pistol/Long Guns, +1 Armor cover</p><hr><p><em>You are immune to getting Pinned by Pistols and Long Guns, and add +1 Armor to any cover protecting you from ranged attacks.</em></p>
+
+##### malExpTal0000060 | Defense | Low Profile
+REQ: 1 Advance in Reflexes
+<p>+2 Cover Armor</p><hr><p><em>Effective city-fighting requires relearning how to move – not just keeping your head down, but making every piece of environmental protection work as hard as possible for you. You increase the effective armor of any cover you occupy by +2.</em></p>
+
+##### malExpTal0000061 | Defense | Nerves of Steel
+REQ: -
+<p>Re-Roll failed Discipline to resist Pinning, +1SL against Intimidation</p><hr><p><em>Long years on the battlefield enable you to remain calm as fire impacts all around you. You may re-roll failed Discipline Tests to avoid or recover from Pinning. In addition, you are seldom impressed by the aggressive displays of your enemies and gain +1SL to Discipline Tests when resisting the effects of enemy Intimidation Skill attempts.</em></p>
+
+##### malExpTal0000062 | Defense | Orthoproxy
+REQ: 2 Advances in Discipline
+<p>When gain Corruption / Mind influence: Discipline test to ignore effect (Free action)</p><hr><p><em>Whenever you gain Corruption Points, or suffer mind-influencing effects (including but not limited to psychic powers) that would subvert, cloud, alter, or control your mind, you may make a Challenging (+0) Discipline Test as an any-time Free Action to ignore the effects. However, you tend to not get jokes anymore.</em></p>
+
+##### malExpTal0000063 | Defense | Resistance (X)
+REQ: -
+<p>+1 SL resist selected effects</p><hr><p><em>Each time you take this talent, choose one type of resistance. You gain a +1SL Bonus when resisting the effects of this type. The GM may require approval for certain choices, or justifications based on your past. Candidates for resistance effects include but are not limited to Cold, Fear, Heat, Poisons, Psychic Powers, the Vacuum, and Other, where Other is substituted by any other effect not listed here.</em></p>
+
+##### malExpTal0000064 | Defense | Shield Wall
+REQ: 2 Advances in Melee, Ambidextrous Talent
+<p>With Shield: re-roll failed parry (once/turn)</p><hr><p><em>When you are armed with a shield, you may re-roll one failed Parry test per round</em></p>
+
+##### malExpTal0000066 | Defense | Silence the Witch
+REQ: 2 Advances in Melee or 2 Advances in Ranged, Emperor’s Aegis Talent
+<p>Reactive Target a Location attack against user of a Psychic Power / Ritual within weapon range. Resolve attack before the Power</p><hr><p><em>Whenever a Psychic Power, Navigator Power, or Hex-type Ritual is used by an enemy, you may make a Target a Location attack against them as a reaction. The enemy must be within the Range of the weapon used for the attack, and must be done after the Test is made but before the Power is resolved, as the enemy may be unable to use the power depending on the results. If the enemy is knocked Unconscious, is set Ablaze, Stunned, or Dies, then the power does not manifest. </em></p>
+
+##### malExpTal0000068 | Defense | Tireless
+REQ: 1 Advance in Fortitude and 1 Advance in Discipline
+<p>Ignore Fatigued(Minor). Use effect of Minor for Fatigued(Major)</p><hr><p><em>Treat Fatigued (Major) as Fatigued (Minor), and Fatigued (Minor) as not being fatigued at all. </em></p>
+
+##### malExpTal0000069 | Defense | True Grit
+REQ: 2 Advance in Fortitude(Pain)
+<p>On Critical wound: reduce severity roll by 5, min 1</p><hr><p><em>The character is able to shrug off wounds that would fell lesser men. Whenever the character suffers a Critical Wound, reduce the Severity Roll by 5 (to a minimum of 1)</em></p>
+
+##### malExpTal0000070 | Defense | Warp Banisher
+REQ: 2 Advances in Discipline, Condemn the Witch Talent OR Emperor’s Aegis Talent
+<p>After successful Deny The Witch: spend FP to prevent psychic power usage for 1d5 turns. If demon: +5 damage</p><hr><p><em>After making a successful Deny the Witch attempt to stop a Power from affecting you, you may spend a Fate Point to prevent the enemy from using any powers at all for 1d5 turns. Furthermore, if the enemy is Daemonic in nature, they suffer 5 Damage. </em></p>
+
+##### malExpTal0000097 | Melee | Aspire to Vengeance
+REQ: 2 Advances in Melee
+<p>After ally dies within Medium range: +3 Critical Wounds inflicted in melee (until end of combat)</p><hr><p><em>Whenever a Player Character, Follower, or Ally within Medium Range is slain by an enemy, you enter a hateful fury. Until the end of the encounter, you increase any Critical Damage that you inflict in melee from Critical Hits by +3.</em></p>
+
+##### malExpTal0000098 | Melee | Bladedancer
+REQ: Dual Wielder Talent
+<p>+1 SL to both attacks made while two-weapon fighting with two melee weapons</p><hr><p><em>You have brought your ability to wield two melee weapons at once to an exceptional level of skill. When armed with two one-handed melee weapons, you gain +1SL to both attacks you made as part of two-weapon fighting. </em></p>
+
+##### malExpTal0000099 | Melee | Blademaster
+REQ: 4 Advances in Melee
+<p>Re-Roll one WS based check per round</p><hr><p><em>You can re-roll one Weapons Skill-based test per round.</em></p>
+
+##### malExpTal0000100 | Melee | Blind Fighting
+REQ: -
+<p>Ignore all vision obscured penalties for fighting in meele. Does not remove penalty from being Blinded</p><hr><p><em>Years of practice and development of your other senses allow you to fight in close combat without the benefit of your sight. You ignore all penalties for fighting with a melee weapon while suffering from obscured vision, allowing yourself to fight in fog, smoke, or darkness more effectively. </em></p>
+
+##### malExpTal0000101 | Melee | Combat Flair
+REQ: Blademaster Talent, 2 Advances in Rapport(Charm)
+<p>Free action: Rapport(Charm) vs Discipline(Composure) against Engaged foe. On success: target takes -10WS, +1SL for every SL</p><hr><p><em>You may make an Opposed Challenging (+0) Rapport (Charm) versus the enemies Discipline (Composure) as an in-turn Free Action against any Engaged foes each round. Should you win, you impose a -10 penalty to your enemies Weapons Skill, increased by 5 for every +SL. </em></p>
+
+##### malExpTal0000102 | Melee | Creative Killer
+REQ: Street Fighting Talent
+<p>Choose an appropriate Low-Tech melee weapon profile for improvised weapon</p><hr><p><em>When you attack with an Improvised Weapon (CRB pg. 128), you may count its profile as being an appropriate Low-Tech melee weapon instead. </em></p>
+
+##### malExpTal0000103 | Melee | Dedicate the Kill
+REQ: Faithful (X) Talent
+<p>Spent Movement action to nominate target in LoS. Personally killing the target recovers 1 FP</p><hr><p><em>You are a devout believer that only offerings of flesh and blood can appease your God. During an encounter, you may sacrifice your movement for the turn to nominate an Elite or Leader level enemy in line of sight as your target. You may nominate a new target by sacrificing your movement again, but this replaces the previous target. If you personally kill your target in melee combat, you regain 1 spent Fate Point. </em></p>
+
+##### malExpTal0000104 | Melee | Demoralizing Decapitation
+REQ: 2 Advances in Melee and Presence(Intimidation)
+<p>Once/Encounter, killing Elite/Leader in melee: force enemies within Long Range to Discipline(Fear)-20. On Fail: Frightened and -1SL on all tests</p><hr><p><em>Once per encounter when you kill an Elite or Leader level enemy in melee combat, you may force all enemies within Long Range to make a Hard (-20) Discipline (Fear) Test. Any enemy who fails this test counts as being Frightened and suffers a -1SL penalty on all tests until the end of combat.</em></p>
+
+##### malExpTal0000105 | Melee | Disruptive Launch
+REQ: -
+<p>With Jump Pack, Action: make melee attack and inflict Restrained</p><hr><p><em>You employ short bursts of your jump pack as suppressive fire, protecting you from retaliatory assaults. When equipped with a Jump Pack, you can spend an action to make a Melee Attack and inflict the Restrained Condition on an enemy you’re engaged with.</em></p>
+
+##### malExpTal0000106 | Melee | Double Team
+REQ: -
+<p>When outnumbering: +1SL on melee. If your outnumbering ally als has Double Team, get another 1SL</p><hr><p><em>You have experience fighting in paired teams that work together to take down their enemies. When outnumbering an opponent, you gain +1SL on Melee Tests. If both you and your ally that outnumber the enemy have this Talent, then you gain another +1SL for a total of +2SL. This bonus is in addition to the normal bonus from outnumbering on an opponent (CRB pg. 214) . </em></p>
+
+##### malExpTal0000107 | Melee | Hunt the Alien
+REQ: Hatred (Xenos) Talent or 1 Advance in Lore(Forbidden – Xenos)
+<p>+10 WS and +2 damage in melee vs Aliens</p><hr><p><em>You gain a +10 to your Weapons Skill and deal +2 Damage in melee when fighting aliens</em></p>
+
+##### malExpTal0000108 | Melee | One-on-One
+REQ: Duelist Talent
+<p>On single melee combat: +WS-B / 2 SL on all melee tests</p><hr><p><em>You are a master of single combat. Without distractions from multiple opponents, you fight at your best, taking every opening and leaving none. When fighting a single enemy in melee combat, you score extra Success Levels on Melee tests equal to half your Weapons Skill bonus (rounded down).</em></p>
+
+##### malExpTal0000109 | Melee | Preternatural Speed
+REQ: 2 Advances in Melee, 2 Advances in Athletics(Running)
+<p>Charge (up to) an additional zone further than normal.</p><hr><p><em>When making a Charge Action, you may move an additional zone than usual.</em></p>
+
+##### malExpTal0000110 | Melee | Slayer of Demons
+REQ: Hatred (Daemons) Talent or 1 Advance in Lore(Forbidden – Daemonology)
+<p>+10 WS and +2 damage when melee fighting daemons</p><hr><p><em>Vowing to battle the beasts from the beyond, you have marked the warp-spawned for death. You gain a +10 to your Weapons Skill and deal +2 Damage in melee when fighting Daemons.</em></p>
+
+##### malExpTal0000111 | Melee | Street Fighting
+REQ: 1 Advance in Melee
+<p>+WsB/2 critical damage when fighting with knifes or bare handed</p><hr><p><em>When armed with a knife (powered, chain, throwing, or otherwise) or a similarly small weapon, or just your bare hands, you add half your Weapons Skill bonus to any Critical Damage you inflict.</em></p>
+
+##### malExpTal0000112 | Melee | Unarmed Master
+REQ: 3 Advances in Melee(Brawling), 2 Advance in Reflexes, Unarmed Warrior Talent
+<p>Unarmed weapon profile is: 2+StB, Penetrating(1)</p><hr><p><em>Your unarmed Melee attacks deal 2 + StrB Damage with the Penetrating (1) Trait.</em></p>
+
+##### malExpTal0000113 | Melee | Unarmed Warrior
+REQ: 2 Advance in Melee(Brawling), 1 Advance in Reflexes
+<p>Unarmed weapon profile is 1+StB. Increase any One-Handed or Brawling weapon to at least 1+StB damage</p><hr><p><em>Your unarmed Melee attacks deal 1 + StrB Damage instead of just StrB. If you are using a subtle Brawling or One-Handed weapon that would deal 1+StrB Damage or less, increase its damage by 1 (i.e.  knives are now 1 + StrB)</em></p>
+
+##### malExpTal0000114 | Movement | Accustomed to Crowds
+REQ: -
+<p>Free action Awareness check to prevent Reaction attack from engaged enemy upon leaving, Crowds are not difficult terrain</p><hr><p><em>You do not consider packed crowds to be Difficult Terrain. Additionally, when you attempt to leave while Engaged without performing the Disengage Action, you may make perform an Awareness Test as a free Action to prevent enemies from attacking you as a Reaction.</em></p>
+
+##### malExpTal0000115 | Movement | Bloodhound
+REQ: -
+<p>Once/mission: nominate a single target as prey, you have Advantage on Navigation (Tracking) on this target</p><hr><p><em>Once you have the scent of a target, nothing short of their death or yours can end your pursuit. Nominate a single creature or individual as the target of this talent – you cannot switch targets until the next mission. You gain Advantage on Navigation (Tracking) tests made to track this target.</em></p>
+
+##### malExpTal0000116 | Movement | Cat Fall
+REQ: 1 Advance in Reflexes(Acrobatics)
+<p>Add AgiB to the distance you can savely fall before taking damage. +20 to checks to jump</p><hr><p><em>When calculating how far you must fall to take damage, you add a number of meters equal to your Agility Bonus, ignoring this distance as if it did not exist. You also gain a +20 Bonus to Athletics Tests to Jump (pg. 203)</em></p>
+
+##### malExpTal0000117 | Movement | Coward's Grace
+REQ: -
+<p>While running away: Speed increase by one step</p><hr><p><em>When running away from combat (including fleeing from melee, being Frightened, or Retreating), count your speed as one higher than it normally is (Normal speed becomes Fast). Additionally, you may not purchase Advancements to Willpower or Discipline without losing this talent. This talent does not stack with the speed boost from Adrenaline Acceleration.</em></p>
+
+##### malExpTal0000118 | Movement | Enviable Grace
+REQ: 2 Advances in Reflexes(Acrobatics), Contortionist Talent
+<p>Ignore difficult terrain and Restrained (Minor), may fit in impassable spaces</p><hr><p><em>You are a dexterous contortionist, twirling around restrictions to navigate your environment with enviable grace. Difficult Terrain does not reduce your Speed and you are immune to the Restrained (Minor) Condition. At the GM’s discretion, you may be able to insert yourself into otherwise impassable spaces.</em></p>
+
+##### malExpTal0000119 | Movement | Surefoot Wayfinder
+REQ: 2 Advances in Navigation(Surface)
+<p>Ignore movement penalty of (most) difficult terrain. Once/session: reroll failed Navigation(Tracking) test</p><hr><p><em>You ignore penalties to your movement from Difficult Terrain, although particularly dangerous environments such as burning buildings stil penalize you at the GMs discretion. You may also re-roll one failed Navigation (Tracking) Test per session.</em></p>
+
+##### malExpTal0000127 | Ranged | Bombardier
+REQ: 2 Advances in Ranged(Ordnance)
+<p>Advantage to fire Launcher/Artillery weapons at obscured zone or a zone outside LoS</p><hr><p><em>Due to many years of training, you are an expert with explosive weapons and have uncanny control over where projectiles land. When firing a Launcher or Artillery Weapon at a partially obscured zone or a zone with no line of sight, you have Advantage. </em></p>
+
+##### malExpTal0000128 | Ranged | Bullet Hell
+REQ: 2 Advances in Ranged
+<p>1/combat when using Rapid Fire: increase RF rating by BS-B (without spending more ammo)</p><hr><p><em>You discharge a hailstorm of lead from your shooter, spent casings puddling around your feet. Once per encounter, when using a weapon with the Rapid Fire (X) Trait, increase the rating by your Ballistic Skill Bonus without increasing the amount of ammunition consumed.</em></p>
+
+##### malExpTal0000129 | Ranged | Calculated Barrage
+REQ: 1 Advance in Ranged(Ordnance)
+<p>On fire Ordnance weapon:any enemy within short range of a hit must test Discipline (Fear) or suffer Restrained</p><hr><p><em>You are exceptionally good at conceptualizing the battlefield and picking just the right place to drop massed amounts of explosives to maximum effect – not just on enemies, but their morale. Whenever you fire an Ordnance Artillery weapon, if at least one hit lands within Short Range of an enemy, that target must make a Challenging (+0) Discipline (Fear) Test or suffer the Restrained Condition until your next turn. </em></p>
+
+##### malExpTal0000130 | Ranged | Close-Quarter Killer
+REQ: -
+<p>+1 SL to attack enemy with a Ranged weapon with Close trait at Immediate range</p><hr><p><em>You gain an additional +1SL when attacking an enemy within Immediate Range with a weapon with the Close Trait.</em></p>
+
+##### malExpTal0000131 | Ranged | Eye of Vengeance
+REQ: 3 Advances in Ranged
+<p>May spend FP to add BS-B to both damage and Penetration (if weapon has it)</p><hr><p><em>Before making a Ranged Attack, you can spend a Fate Point. If you do so, you add your Ballistic Skill Bonus to both your Damage and your Penetrating Trait if your weapon has it. </em></p>
+
+##### malExpTal0000132 | Ranged | Hail of Fire
+REQ: Suppressing Fire Talent
+<p>On Suppressive Fire: using Burst/Rapid Fire next turn will also count as using Suppressive Fire against the targets again</p><hr><p><em>If you use the Suppressing Fire Talent against an enemy, then these enemies will also be affected by further Burst or Rapid Fire attacks as if they are being affected by the Suppressing Fire Talent simultaneously until your next turn. </em></p>
+
+##### malExpTal0000133 | Ranged | Hunter's Instinct
+REQ: 1 Advance in Ranged
+<p>Ranged attacks against enemies out of Cover: +1 damage</p><hr><p><em>Far too frequently, Imperial Forces find themselves facing off against brutishly large enemies, or targets so huge and tough that the idea of taking cover is laughable. In such cases, a calm eye for weak points can do surprising damage. Your ranged attacks against enemies not in cover deal 1 extra damage.</em></p>
+
+##### malExpTal0000134 | Ranged | Lasgun Barrage
+REQ: 2 Advances in Ranged
+<p>On Burst/Rapid Fire with las weapon: +1SL on success if you do not move</p><hr><p><em>Through years of practice drills and battlefield experience, you have become a master of the lasgun. When fire any class on Las Weapons on Burst or Rapid Fire, you may score +1SL (provided the test is successful) if you do not move in your turn. </em></p>
+
+##### malExpTal0000135 | Ranged | Professional Marksman
+REQ: Sharpshooter Talent
+<p>On target hit Location: take no penalty</p><hr><p><em>When you Target Location (pg. 210), you make such a test at no additional penalty instead of Disadvantage or the -20 Penalty from Sharpshooter.</em></p>
+
+##### malExpTal0000136 | Ranged | Ranging Fire
+REQ: 2 Advances in Ranged(Ordnance)
+<p>On successful hit with Ordnance artillery: allies withint Medium range may reroll Ranged attacks agains the target until end of your next turn</p><hr><p><em>Any good Imperial artilleryman knows that they are not operating in a vacuum, as spotters feed information to you, you field detailed targeting information back to ensure accurate fire. When you make a successful attack against an enemy with an Ordnance Artillery weapon, all allies within Medium Range may reroll missed ranged attacks against the same target until the end of your next turn. </em></p>
+
+##### malExpTal0000137 | Ranged | Sharpshooter
+REQ: Deadeye Talent
+<p>On target hit Location: take -20 penalty (instead Disadvantage)</p><hr><p><em>When you Target Location (pg. 210), you suffer a -20 Penalty instead of Disadvantage on the test. </em></p>
+
+##### malExpTal0000138 | Ranged | Storm of Iron
+REQ: 3 Advances in Ranged
+<p>When dealing damage with Rapid Fire: Spread targets all creatured within Short Range of the target</p><hr><p><em>When facing a mass of enemies, you lay down a storm of firepower that even the most foolhardy cannot push through. When you deal damage to a target with a Rapid Fire attack with Spread, you target all creatures within Short Range of the target rather than Immediate Range. </em></p>
+
+##### malExpTal0000139 | Ranged | Mighty Shot
+REQ: 4 Advances in Ranged
+<p>Add BS-B/2 damage to any Ranged damage</p><hr><p><em>You know the weak points in every type of armor and material, and have the skill to ensure that your shots land exactly where they can do the most damage. You add half your Ballistic Skill bonus (rounded up) to damage you inflict with Ranged Weapons. </em></p>
+
+##### malExpTal0000140 | Ranged | Tank Hunter
+REQ: 2 Advances in Ranged(Ordnance)
+<p>Add BS-B to Penetrating trait against vehicles</p><hr><p><em>When you make a Ranged Attack against a vehicle with a weapon with the Penetrating quality, you add your Ballistic Skill Bonus to the Penetration value of the weapon. </em></p>
+
+##### malExpTal0000141 | Ranged | Unblinking Watcher
+REQ: 2 Advances in Awareness
+<p>Define a second trigger to your action on Overwatch</p><hr><p><em>When you take the Overwatch action, you may choose two triggers for it rather than one to execute the action.</em></p>

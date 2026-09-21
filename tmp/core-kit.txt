@@ -1,0 +1,41 @@
+equipment|a pair of dog tags   <- 7 Солдат Астра Милитарум (связист)
+equipment|a copy of the Imperial Infantryman’s Uplifting Primer   <- 6 Солдат Астра Милитарум (связист)
+equipment|a uniform   <- 5 Солдат Астра Милитарум (связист)
+equipment|30 Solars   <- 5 Солдат Астра Милитарум (связист)
+equipment|100 solars   <- 4 Охотник за головами
+equipment|A set of ragged robes   <- 1 Праведник
+equipment|20 solars   <- 2 Круут-наёмник
+equipment|a Rosarius   <- 1 Священник Министорума
+equipment|50 solars   <- 3 Священник Министорума
+specialisation|Thoughtmark   <- 1 Сестра Безмолвия
+equipment|A set of Vratine Armour.   <- 1 Сестра Безмолвия
+equipment|Clothes with the Ornamental Trait   <- 1 Купец
+equipment|500 solars   <- 1 Купец
+equipment|300 solars   <- 4 Дознаватель
+equipment|A Primaris Psyker’s Uniform   <- 3 Биомант-примарис
+equipment|Ragged clothing   <- 1 Имперский обыватель
+equipment|1d10 solars   <- 3 Имперский обыватель
+equipment|A Heavy Leather Uniform or a Void Suit   <- 1 Пустоход с Чёрного корабля
+equipment|Rotting rags   <- 1 Отброс
+equipment|1d5 solars   <- 1 Отброс
+equipment|A set of Kabalite Armour   <- 1 Воин-кабалит друкхари
+equipment|a collection of horrific battle trophies.   <- 1 Воин-кабалит друкхари
+equipment|Gang Colours   <- 2 Бандит
+equipment|A set of Sororitas Power Armour   <- 1 Боевая сестра
+specialisation|Stellar   <- 1 Капитан пустотного корабля
+specialisation|Voidship   <- 1 Капитан пустотного корабля
+equipment|Light Leathers   <- 1 Контрабандист
+equipment|an Auspex   <- 1 Контрабандист
+equipment|1d10 x 100 solars   <- 1 Контрабандист
+equipment|a Cult Standard   <- 1 Вождь культа
+equipment|a book of abominable knowledge.   <- 1 Вождь культа
+equipment|some Heretical Writings   <- 1 Культист
+equipment|Ragged clothes   <- 1 Рабочий с мануфакторума
+equipment|5 Solars   <- 1 Рабочий с мануфакторума
+specialisation|Mathematics   <- 1 Техножрец
+equipment|Adeptus Mechanicus robes   <- 1 Техножрец
+equipment|several scrolls filled with records   <- 2 Адепт Администратума
+equipment|30 solars   <- 1 Адепт Администратума
+equipment|A Commissar’s uniform   <- 1 Комиссар
+equipment|a bookmarked copy of the Imperial Infantryman’s Uplifting Primer   <- 1 Комиссар
+equipment|A set of Aeldari Mesh Armour.   <- 1 Альдарский странник

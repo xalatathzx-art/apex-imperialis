@@ -1,0 +1,92 @@
+{
+  "name": "Бионические ноги: репульсоры",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000008",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00002",
+  "sort": 800,
+  "system": {
+    "notes": {
+      "player": "<p>Компактный комплект антиграв-репульсоров вместо ног. Владелец не касается пола — он висит над ним на ладонь, и в тишине слышно ровное гудение поля. Среди высших чинов Механикум это столь же знак ранга, сколь и средство передвижения.</p><p><em>Любая бионическая конечность даёт +1 очко брони против попаданий в неё, складываясь с носимой бронёй.</em></p>",
+      "gm": ""
+    },
+    "rules": "<p>Вас нельзя сбить с ног. Попадания, которые пришлись бы вам в ноги, приходятся в торс.</p><p>Не имея надёжной опоры, вы получаете <strong>−2 успеха</strong> на проверки Атлетики, связанные с упором: удержаться на месте или сдвинуть с места кого-то грубой силой.</p>",
+    "page": "DoomBC стр. 263",
+    "category": "bionic",
+    "rarity": 3,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 7000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Протез вял и плохо слушается: ваша <strong>скорость падает на 1</strong>, а совершая Бег или Натиск, вы должны пройти <strong>среднюю (+0) проверку Ловкости</strong>, иначе падаете и останавливаетесь на полпути.",
+      "2": "",
+      "3": "Нога несёт вас сама: вы не устаёте от долгого бега и получаете <strong>+2 успеха</strong> на любые проверки прыжков.",
+      "4": "Как Уровень 3, и вдобавок <strong>+5</strong> к проверкам Ближнего боя, Силы и Ловкости, выполняемым ногами, плюс одна из доработок: считается легионной ногой; внутренняя полость под два ножа, пистолет, две гранаты или предмет размера 2×1; выдвижной нож в носке или пятке; грав-подошвы; продвинутые движители; или синтекожа, неотличимая от живой ноги на вид и на ощупь. Каждая доработка сверх первой поднимает Редкость на 1."
+    },
+    "slot": "leg",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00070",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt00700",
+            "kind": "speed",
+            "key": "land",
+            "value": {
+              "1": -1,
+              "2": 0
+            }
+          },
+          {
+            "id": "navisImpEnt00701",
+            "kind": "testMod",
+            "skill": "athletics",
+            "value": -2
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 263",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Бионические ноги: арахнид-шасси",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000006",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00002",
+  "sort": 600,
+  "system": {
+    "notes": {
+      "player": "<p>Восемь насекомовидных конечностей вместо ног. Шасси излюблено генеторами и скульпторами плоти, которым нужно одновременно стоять у трёх столов, и внушает непосвящённым безотчётный ужас, который те редко могут объяснить.</p><p><em>Любая бионическая конечность даёт +1 очко брони против попаданий в неё, складываясь с носимой бронёй.</em></p>",
+      "gm": ""
+    },
+    "rules": "<p>Вы полностью игнорируете труднопроходимую местность и получаете <strong>Преимущество</strong> на проверки Атлетики — восемь точек опоры держат вас там, где человек уже сорвался бы, — и на встречные проверки против попыток сдвинуть вас с места.</p>",
+    "page": "DoomBC стр. 263",
+    "category": "bionic",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Протез вял и плохо слушается: ваша <strong>скорость падает на 1</strong>, а совершая Бег или Натиск, вы должны пройти <strong>среднюю (+0) проверку Ловкости</strong>, иначе падаете и останавливаетесь на полпути.",
+      "2": "",
+      "3": "Нога несёт вас сама: вы не устаёте от долгого бега и получаете <strong>+2 успеха</strong> на любые проверки прыжков.",
+      "4": "Как Уровень 3, и вдобавок <strong>+5</strong> к проверкам Ближнего боя, Силы и Ловкости, выполняемым ногами, плюс одна из доработок: считается легионной ногой; внутренняя полость под два ножа, пистолет, две гранаты или предмет размера 2×1; выдвижной нож в носке или пятке; грав-подошвы; продвинутые движители; или синтекожа, неотличимая от живой ноги на вид и на ощупь. Каждая доработка сверх первой поднимает Редкость на 1."
+    },
+    "slot": "leg",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00050",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt00500",
+            "kind": "speed",
+            "key": "land",
+            "value": {
+              "1": -1,
+              "2": 0
+            }
+          },
+          {
+            "id": "navisImpEnt00501",
+            "kind": "testMod",
+            "skill": "athletics",
+            "advantage": 1
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 263",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

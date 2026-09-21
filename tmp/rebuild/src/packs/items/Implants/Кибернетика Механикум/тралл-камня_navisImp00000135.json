@@ -1,0 +1,70 @@
+{
+  "name": "Тралл Камня",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000135",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 13500,
+  "system": {
+    "notes": {
+      "player": "<p>Небольшой когнитивный модуль содержит Изуверский Интеллект времён ТЭТ, скованный мощнейшими известными инфобрегами, чтобы заставить его подчиняться.</p><p>Устанавливается только персонажу с чертой Импланты Механикум, не более одного экземпляра. Операция по установке персонажу вне Техножречества — услуга Редкости 4.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Свободным действием владелец может дать Траллу детальную команду и время активации, после чего Тралл получает контроль над телом по правилам черты Паразит, используя собственные высокие Характеристики, пока не выполнит или не извратит команду.</p>",
+    "page": "DoomBC стр. 276",
+    "category": "mechanicum",
+    "rarity": 5,
+    "availability": "exotic",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 25000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "cortex",
+    "side": "",
+    "location": "head",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 276",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Clues from the Crowds",
+  "type": "talent",
+  "_id": "malExpTal0000143",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">1/day: reroll test when gathering info from group of people</span></p><hr><p><span style=\"font-family: Arial\"><em>Once per day, you can re-roll a test made to gather information from a group of people. </em></span></p>",
+      "gm": "Talent Category: Social"
+    },
+    "requirement": {
+      "value": "1 Advance in Rapport(Inquiry)",
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Inquiry\" && i.system.skill == \"rapport\")?.system?.advances >= 1)"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "QZxXEi5gaFblpeYN",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 300000
+}

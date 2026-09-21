@@ -1,0 +1,88 @@
+{
+  "name": "Heir",
+  "type": "navis-apexialis.subspecies",
+  "_id": "navisSpSub000004",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder002",
+  "sort": 400,
+  "system": {
+    "notes": {
+      "player": "<p>In your veins runs the blood of a great Lord of Chaos, ascended to daemonhood for his uncounted deeds in the glory of the Gods. Your progenitor spends most of his time in the Warp, fighting the endless battles and intrigues of the Great Game, but from time to time he turns his gaze upon his heirs and grants those who have set out on the path of a champion of Chaos a portion of his power.</p>",
+      "gm": "<p><em>Conversion:</em> the book's +1 maximum Infamy has no impmal equivalent and is dropped. The visions and the re-roll on escaping death carry the subspecies instead.</p>"
+    },
+    "category": "human",
+    "reference": "DoomBC p.5",
+    "restricted": false,
+    "characteristics": {
+      "modifiers": {
+        "ws": 0,
+        "bs": 0,
+        "str": 0,
+        "tgh": 0,
+        "ag": 0,
+        "int": 0,
+        "per": 0,
+        "wil": 0,
+        "fel": 0
+      },
+      "choice": {
+        "number": 0,
+        "value": 5,
+        "keys": []
+      }
+    },
+    "skills": {},
+    "size": "",
+    "corruption": 0,
+    "roles": [
+      "Zealot",
+      "Interlocutor",
+      "Mystic"
+    ],
+    "removes": [],
+    "grantedTraits": {
+      "list": [
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0031",
+          "id": "navisSpTrait0031",
+          "name": "Daemon Blood",
+          "diff": {}
+        },
+        {
+          "uuid": "Compendium.navis-apexialis.navis-species.Item.navisSpTrait0032",
+          "id": "navisSpTrait0032",
+          "name": "Ancestral Regard",
+          "diff": {}
+        }
+      ]
+    },
+    "talents": {
+      "list": []
+    },
+    "specialisations": {
+      "list": []
+    },
+    "equipment": {
+      "list": []
+    },
+    "requires": "Human"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Inspire Wrath",
+  "type": "talent",
+  "_id": "malExpTal0000087",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Action: test Charm/Deception/Leadership/Intimidation to grant allies in Medium rangethe Hatred talent. Can be opposed by Discipline(Composure)</span></p><hr><p><span style=\"font-family: Arial\"><em>As an Action, you can make a Rapport (Charm), Rapport (Deception), Presence (Leadership), or Presence (Intimidation) Test to grant the effects of the Hatred Talent to any allies within Medium Range. Success on the Test grants the Hatred Talent, with the object of their Hatred being chosen by you for the duration of the encounter. Listeners can resist the effects of your speech (and therefore not gain hatred) by passing an Opposed Discipline (Composure) Test against whichever test you make. Both you and the GM should bear in mind, however, once a crowd is inspired to hatred or mindless anger, the effects can be unpredictable.</em></span></p>",
+      "gm": "Talent Category: Leadership"
+    },
+    "requirement": {
+      "value": "Air of Authority Talent",
+      "script": "return this.actor.itemTypes[\"talent\"].find(i => i.name == \"Air of Authority\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "gQ5NKgnf1W8qg1mz",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 200000
+}

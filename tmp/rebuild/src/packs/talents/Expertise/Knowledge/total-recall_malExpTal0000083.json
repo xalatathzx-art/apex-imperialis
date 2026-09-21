@@ -1,0 +1,59 @@
+{
+  "name": "Total Recall",
+  "type": "talent",
+  "_id": "malExpTal0000083",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Automatically remember trivial facts, complex/difficult facts may require Intelligence test. Combines well with Eidetic Memory</span></p><hr><p><span style=\"font-family: Arial\"><em>You automatically remember trivial facts or pieces of information you may have feasibly picked up in the past. When dealing with more detailed, complex, or obscure facts, such as the exact layout of a defense network, the GM may require you to make a successful Intelligence Test to recall the information. Together with Eidetic Memory, your character can be considered to have “perfect memory.“ </em></span></p>",
+      "gm": "Talent Category: Knowledge"
+    },
+    "requirement": {
+      "value": "-",
+      "script": ""
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "sYF7k1rcP4ZWyjHQ",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": -296875
+}

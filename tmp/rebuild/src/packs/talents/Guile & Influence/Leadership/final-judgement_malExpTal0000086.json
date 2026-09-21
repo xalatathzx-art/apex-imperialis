@@ -1,0 +1,59 @@
+{
+  "name": "Final Judgement",
+  "type": "talent",
+  "_id": "malExpTal0000086",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Once/Encounter, after a Ranged kill: spend FP, test Presence. On success:allies within medium range gain 5xSL bonus to next BS/WS attack. Enemies within Medium range take the same amount as a penalty</span></p><hr><p><span style=\"font-family: Arial\"><em>Once per encounter, after killing a target with a Ranged Attack, you may spend a Fate point and make a Challenging (+0) Presence (Leadership) Test. If you succeed, all allies within Medium Range gain a bonus equal to 5 times the Success Levels to the next Ballistic Skill or Weapons Skill test they make before the end of the encounter, and each foe within Medium Range suffers a penalty equal to 5 times the Success Levels to their next Ballistic Skill or Weapons Skill Test they make before the end of the encounter. </em></span></p>",
+      "gm": "Talent Category: Leadership"
+    },
+    "requirement": {
+      "value": "2 Advances in Discipline, Deadeye Talent",
+      "script": "return this.actor.system.skills.discipline.advances >= 2 && this.actor.itemTypes[\"talent\"].find(i => i.name == \"Deadeye\")"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "gQ5NKgnf1W8qg1mz",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 0
+}

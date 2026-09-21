@@ -1,0 +1,93 @@
+{
+  "name": "Фрейм Лексмеханик",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000109",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 10900,
+  "system": {
+    "notes": {
+      "player": "<p>Фрейм для обработки больших массивов данных и сложных вычислений, узнаваемый по блокам дата-стеков на спине и жужжанию систем охлаждения.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт <strong>+1 успех</strong> на проверки Знаний для вспоминания информации и Исследований, Талант Впитанное Знание, сокращает смену для Исследований до 4 часов, но <strong>снижает максимум Заряда на 2 и максимум Ран на 3</strong>, а хрупкие системы охлаждения дают бонус +2 успеха на слух для обнаружения владельца. Поднимает рейтинг Славословий вне Кибертеургии на 1 и цену активации Техночудес Ноотеургии и Аниматеургии на 1 заряд.</p>",
+    "page": "DoomBC стр. 273",
+    "category": "mechanicum",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp01080",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt10800",
+            "kind": "testMod",
+            "skill": "lore",
+            "value": 1
+          },
+          {
+            "id": "navisImpEnt10801",
+            "kind": "energy",
+            "value": -2
+          },
+          {
+            "id": "navisImpEnt10802",
+            "kind": "wounds",
+            "value": -3
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 273",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

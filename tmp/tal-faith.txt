@@ -1,0 +1,271 @@
+##### malExpTal0000158 | Faith | Aegis of the Emperor
+REQ: Shielding Faith talent
+<p>1/Encounter, spend FP, target ally within Short range: target cannot be affected by Psychic Powers for 1h</p><hr><p><em>It is said that among the oldest invocations of the Emperor’s strength are the three words, “The Emperor Protects.” Once per encounter, you may spend a Fate Point on an ally within Short Range. This ally cannot be targeted by Psychic Powers for 1 Hour.</em></p>
+
+##### malExpTal0000159 | Faith | Blazing Exemplar
+REQ: 1 Advance in Presence(Leadership)
+<p>On success Presence (Leadership): allies weapon gain Penetrating +1 for one round</p><hr><p><em>When you make a successful Presence (Leadership) Test, you may give all allies weapons the Penetrating (+1) Quality on all their attacks made until your next turn</em></p>
+
+##### malExpTal0000160 | Faith | Blessed Martyrdom
+REQ: Faithful (Imperial Cult) talent
+<p>On burn Fate to survice: witnessing allies regain 1 FP. If you die in battle, every ally fully recovers his FP</p><hr><p><em>Whenever you burn Fate to survive a mortal blow, each other friendly character who witnesses this miraculous survival regains 1 spent Fate Point. When you die in battle, each other friendly character who witnesses your glorious demise regains all spent Fate Points.</em></p>
+
+##### malExpTal0000161 | Faith | Blessing of Flame
+REQ: 2 Advances in Lore(Theology), Faithful (Imperial Cult) talent
+<p>Action to bless a weapon: Lore (Theology)+0 untile end of combat (or Mag is depleted). Weapon gains Inflict(Ablaze) & Sanctified. Ablazes demons on hit even without damage</p><hr><p><em>As an Action, you may make a Challenging (+0) Lore (Theology) Test to bless a single weapon with the Inflict (Ablaze), and Sanctified Qualities. A weapon so blessed sets Daemons Ablaze when it strikes them, even without dealing damage, and retains these Qualities until the end of Combat or until its Mag is depleted (if it has one). </em></p>
+
+##### malExpTal0000162 | Faith | Bolstering Purity
+REQ: Do Not Falter! talent
+<p>1/mission, Reaction, Spend 1FP: let any ally within hearing range including self auto-pass Fear/Intimidation/Pinning for one round</p><hr><p><em>Once per mission as a Reaction, you can spend a Fate Point to have one Imperial ally within hearing range – including yourself – to automatically pass all Fear, Pinning, and Intimidation tests until the end of the round. </em></p>
+
+##### malExpTal0000163 | Faith | Brimstone Rhetoric
+REQ: Faithful (Imperial Cult) Talent, 1 Advance in Presence(Leadership) and 1 Advance in Presence(Intimidation)
+<p>On ally/self within Medium range deals Critical that deals damage: reroll keep better d10 to determine hit table result</p><hr><p><em>Whenever an ally (including yourself) within Medium Range inflicts a Critical Hit on an enemy with an attack that causes Damage, you may roll an additional 1d10 on the appropriate Critical Hit Table and discard the lowest result. </em></p>
+
+##### malExpTal0000164 | Faith | Bulwark of the Faith
+REQ: Faithful (Imperial Cult) Talent
+<p>On success, resisting Daemon fear: demon suffer damage=your SL (ignore armor)</p><hr><p><em>Whenever you pass a test to not be Frightened from a Daemonic entity, the Daemon suffers 1 Damage ignoring armor for each Success Level on the test. </em></p>
+
+##### malExpTal0000165 | Faith | Ceaseless Crusader
+REQ: Faithful (Imperial Cult) Talent, 2 Advances in Discipline
+<p>May spend FP as free anytime action to remove Fatigue from self and all allies within Medium range. You are immune to it until end of combat</p><hr><p><em>As an any-time Free Action, you may spend a Fate Point to ignore the effects of Fatigue until the end of the encounter. When you do so, each other friendly character within Medium Range removes the Fatigued condition as well if they had it. </em></p>
+
+##### malExpTal0000166 | Faith | Cleanse with Fire
+REQ: Faithful (Imperial Cult) Talent, 2 Advances in Ranged
+<p>Add WilB/2 to any flamer damage</p><hr><p><em>When attacking with a weapon with the Flamer Trait, you may add half your Willpower Bonus (rounding up) to your Damage. </em></p>
+
+##### malExpTal0000167 | Faith | Confessor
+REQ: Faithful (Imperial Cult) Talent
+<p>On ally reduces corruption gained: reduce one more</p><hr><p><em>Whenever a Character in the group would reduce Corruption, they may reduce the amount of Corruption by an additional point.</em></p>
+
+##### malExpTal0000168 | Faith | Curate
+REQ: Divine Vengeance Talent
+<p>May pass on FP gained from Divine Vengeance to an ally within Medium range. Is lost if not used after combat</p><hr><p><em>When you would gain a Fate Point from the Divine Vengeance talent, you may give it to any other ally (aside from yourself) within Medium Range. This temporary Fate Point may be spent as normal, but may not be burned. If it is not spent by the end of the encounter, it is lost. </em></p>
+
+##### malExpTal0000169 | Faith | Divine Guidance
+REQ: Faithful (Imperial Cult) Talent, 2 Advances in Ranged
+<p>Action, spend FP to gain imperial ally within hearing range: +2SL on Ranged attacks for 1 round</p><hr><p><em>As an action, you may spend a Fate Point to grant one Imperial ally within hearing range +2 SL to Ranged Attacks for 1 Round. </em></p>
+
+##### malExpTal0000170 | Faith | Divine Ministrations
+REQ: Faithful (Imperial Cult) Talent, 1 Advance in Medicae
+<p>On Medicae to heal: restore WpB wounds OR spend FP to remove Fatigue from 2xWpB characters</p><hr><p><em>When you are testing Medicae, you may spend a Fate Point to restore an amount of Damage equal to your Willpower Bonus instead of the normal amount. You may also spend a Fate Point to remove all fatigue from a number of people equal to twice your Willpower Bonus. </em></p>
+
+##### malExpTal0000171 | Faith | Divine Protection
+REQ: Faithful (Imperial Cult) Talent, 1 Advance in Discipline and 2 Advances in Ranged
+<p>Spread attacks only hits enemies</p><hr><p><em>Those who hunt the witch and mutant prefer to use cleansing fire to purify their unclean enemies, using it even when allies are in the line of fire, yet miraculously leaving them unaffected. When you attack using a weapon with the Spread quality, it only strikes enemies within the area of effect; the attack does not harm allies.  </em></p>
+
+##### malExpTal0000172 | Faith | Discipline of the Holy Trinity
+REQ: Faithful (Imperial Cult) Talent, must be a Sororitas OR have +2 influence with them
+<p>+1SL on Ranged Attacks using Bolt, Flamer, or Melta</p><hr><p><em>The Sisters of Battle venerate the Holy Trinity of Bolter, Flamer, and Melta above all other weapons. You gain +1SL on Ranged Attacks using Bolt, Flamer, or Melta weapons. </em></p>
+
+##### malExpTal0000173 | Faith | Divine Vengeance
+REQ: Faithful (Imperial Cult) Talent, 2 Advances in Ranged or 2 Advances in Melee
+<p>First crit in combat: regain one FP</p><hr><p><em>The first time in a combat encounter that you inflict a Critical hit upon an enemy, you regain 1 spent Fate Point. </em></p>
+
+##### malExpTal0000174 | Faith | Do not Falter!
+REQ: Faithful (Imperial Cult) Talent, 1 Advance in Presence(Leadership)
+<p>Test Presence (Leadership) to give allies within Medium range +2SL against Fear/Pinning/Mind-Altering Psychic Powers until end of your next turn</p><hr><p><em>You may make a Presence (Leadership) Test to give allies within Medium Range an additional +2SL Bonus to Tests made to resist the effects of Fear, Pinning, and mind-altering psychic powers until the end of your next turn</em></p>
+
+##### malExpTal0000175 | Faith | Emperor's Guidance
+REQ: Faithful (Imperial Cult) Talent, 1 Advance in Ranged
+<p>Anytime-Free action: spend FP to increase Penetrating+2 until end of next turn</p><hr><p><em>As an any-time Free Action, you may spend a Fate Point to increase the quality of the Penetrating Trait of your weapon by +2 until the end of your next turn. </em></p>
+
+##### malExpTal0000176 | Faith | Furious Zeal
+REQ: Hatred Talent, Faithful (Imperial Cult) Talent
+<p>+2 damage against hated enemies in melee</p><hr><p><em>You may add +2 Damage to any melee attacks you inflict against targets included in your Hatred talent.</em></p>
+
+##### malExpTal0000177 | Faith | In HIS Name!
+REQ: Faithful (Imperial Cult) Talent, 1 Advance in Lore(Theology)
+<p>On Rapport(Charm)/Presence(Leadership) with imperials: spend FP to gain Advantage</p><hr><p><em>You have spent time studying the holy writings of the Cult Imperialis and can invoke hallowed passages to sway others. You may spend a Fate Point to gain Advantage when making a Rapport (Charm) or Presence (Leadership) Test when interacting with an Imperial.</em></p>
+
+##### malExpTal0000178 | Faith | Instrument of HIS Will
+REQ: Faithful (Imperial Cult) Talent, 3 Advances in Discipline(Psychic)
+<p>On Hit against Demon: spend FP to increase (first) damage by 2xWpB (ignoring armor)</p><hr><p><em>You strike down the daemonic with holy fury, your blows landing as if guided by the hand of the Emperor Himself. After making a successful attack against a Daemon (including psychic powers), you may spend a Fate Point to increase the damage of the first hit you inflict by an amount equal to twice your Willpower bonus. This additional damage ignores armor. </em></p>
+
+##### malExpTal0000179 | Faith | Litany of Condemnation
+REQ: Faithful (Imperial Cult) Talent, 2 Advances in Presence
+<p>On Presence to counter presence of Demons/Mutants/Warp Phenomenon: +2SL</p><hr><p><em>You score an additional +2SL whenever you succeed on a Presence Test to counteract the presence of Daemons, mutants, and the unnatural effects of the Warp. </em></p>
+
+##### malExpTal0000180 | Faith | Martyr's Gift
+REQ: Faithful (Imperial Cult) Talent
+<p>Anytime-Free action: spend FP to gain WpB/2 extra armor until your next turn</p><hr><p><em>As an any-time Free Action, you may spend a Fate Point to gain additional Armor Points on all locations equal to half your Willpower Bonus (rounding up) until the start of your next turn. </em></p>
+
+##### malExpTal0000181 | Faith | Purge the Unclean
+REQ: Faithful (Imperial Cult) Talent, 4 Advances in Lore(Theology), Willpower 50
+<p>Exorcise a possessed target or repell a warp entity: opposed Lore(Theology) vs Discipline. on success: entity must leave host and cannot repossess for WpBx2h. Roaming entities are repelled WpB/2 zones and cannot approach further for 2d5 rounds</p><hr><p><em>As an action, you may spend a Fate Point to intone holy words to repel a warp entity. Make an Opposed Challenging (+0) Lore (Theology) Test against the warp entity’s Discipline. If the test succeeds, the Warp Entity is repelled a number of zones away equal to half your Willpower Bonus (rounded up). It cannot approach closer than this distance for 2d5 rounds. You may also spend a Fate Point to speak the rites of Exorcism and force out a possessing warp entity from its host. The same test as before, if you succeed, the Warp Entity is driven out of whatever or whoever it possessed and manifests in the same Zone as its former host. It may not possess the same host again for a number of hours equal to twice your character’s Willpower Bonus.</em></p>
+
+##### malExpTal0000182 | Faith | Shielding Faith
+REQ: Faithful (Imperial Cult) Talent, Emperor’s Aegis
+<p>On Deny the Witch: spend FP to auto-succeed with WpB SL. Target must test against being Frightened</p><hr><p><em>When attempting to Deny The Witch, you may spend a Fate Point to automatically pass the test with a number of Success Levels equal to your Willpower Bonus. If you do so, the Psyker must immediately test against being Frightened.</em></p>
+
+##### malExpTal0000183 | Faith | Strength of the Creed
+REQ: Faithful (Imperial Cult) Talent, 2 Advances in Lore(Theology)
+<p>On spend FP to gain SL: gain 2SL total (instead 1)</p><hr><p><em>Whenever you spend a Fate Point to gain +1SL, you gain an additional SL instead (for +2SL total). </em></p>
+
+##### malExpTal0000184 | Faith | Suffer not the Works of Heretics
+REQ: Faithful (Imperial Cult) Talent, Hatred Talent
+<p>On attack Hated target: add WpB/2 to melee Penetrating. Is shared when using Inspire Wrath (using your WpB)</p><hr><p><em>When attacking an enemy for whom you possess the appropriate Hatred Talent, or a vehicle, structure, or object crafted by such an enemy, increase the Penetrating quality of all melee attacks by an amount equal to half your Willpower Bonus. If you possess the Inspire Wrath Talent, you pass the benefit along with any Hatred Talents when using it. Characters so affected gain benefits based on the Willpower Bonus of the character that inspired them. </em></p>
+
+##### malExpTal0000185 | Faith | Unshakeable Faith
+REQ: 1 Advance in Discipline
+<p>Reroll failed Discipline checks vs Fear</p><hr><p><em>People’s faith in the Emperor and his abilities is so strong that they can face any danger. The character may re-roll any failed Discipline Tests to avoid the effects of Fear.</em></p>
+
+##### malExpTal0000186 | Faith | Urge the Penitent
+REQ: Faithful (Imperial Cult) Talent, 1 Advance in Presence(Leadership)
+<p>When reroll with FP: gain an extra +10 on the reroll. May share this ebenfit with an ally within sight&communication range as reaction</p><hr><p><em>You gain a +1SL Bonus whenever you re-roll a Test with a Fate Point after failing your initial attempt. You may spend a Reaction to pass this benefit to any ally spending Fate Points to re-roll a Test as long as the ally is within line of sight and communications range.</em></p>
+
+##### malExpTal0000187 | Mechanicus | Binaric Chatter
+REQ: -
+<p>+1SL to communicate/command servitors/servo-skulls etc</p><hr><p><em>You receive a +1SL Bonus to any attempt to communicate with or command servitors, servo-skulls, or machine constructs.</em></p>
+
+##### malExpTal0000188 | Mechanicus | Faithful (Cult Mechanicus)
+REQ: Member of AdMech OR +2 Influence with them OR 2 Advances in Lore (Forbidden. Cult Mechanicus)
+<p>1/session: add IntB SL making a test related to Machine Cult</p><hr><p><em>You are a true believer of the Cult Mechanicus, a follower of the teachings of the Forge Worlds and placing yourself in the service of the Omnissiah. You are capable of manifesting your faith as a light in the darkness of the 41st Millennium. This power can be used to further the Quest for Knowledge, but if it is misused, the Machine God’s followers will punish your treachery. Once per session, you may add your Intelligence Bonus in SL when you are making a Test related to your faith. Examples: 
+- When interrogating a suspected heretek, invoke the Omnissiah’s judgement to gain SL equal to your Intelligence Bonus on a Presence (Intimidation) Test. 
+- If you are righteously striking down a foul xenos creature or a heretek, you can scream a benediction of the Machine God’s fury to gain SL equal to your Intelligence Bonus on your next attack.
+- If you are attempting to recall information or locate a particular sacred text, you can make a prayer to the Omnissiah to gain SL equal to your Intelligence Bonus on your Lore (Forbidden – Cult Mechanicus) Test. 
+- If you are attempting to cleanse a corrupt Machine Spirit, or interfacing with a cogitator that has been tainted, you utter the rites of cleansing to gain SL equal to your Intelligence Bonus on your Tech (Security) Test.</em></p>
+
+##### malExpTal0000189 | Mechanicus | Feedback Screech
+REQ: -
+<p>Action: every unprotected creature within Medium range (and hearing): Discipline+0 or get Stunned</p><hr><p><em>As an Action, you can force all unprotected creatures within Medium Range who have the ability to hear must make a successful Challenging (+0) Discipline Test or become Stunned on their next turn as they involuntarily react to the cacophonous shriek.</em></p>
+
+##### malExpTal0000190 | Mechanicus | Heart of Iron
+REQ: 2 Advances in Logic
+<p>May use Intelligence for Social tests (instead Fellowship)</p><hr><p><em>You may substitute your Intelligence Characteristic for any Social Test that would be based on Fellowship.</em></p>
+
+##### malExpTal0000191 | Mechanicus | Logis Implant
+REQ: -
+<p>May re-roll a Ranged or Meele test as reaction but become Fatigued</p><hr><p><em>You may spend your Reaction to re-roll a failed Ranged or Melee Test. However, you become Fatigued.</em></p>
+
+##### malExpTal0000192 | Mechanicus | Mechadendrite Fighter
+REQ: -
+<p>Extra Reaction. Can only be used to attack with Mechadendrite</p><hr><p><em>You gain an additional Reaction that may only be used to attack with a Mechadendrite.</em></p>
+
+##### malExpTal0000193 | Mechanicus | Potentia Coil Induction
+REQ: -
+<p>When: close to power source: Can remove Fatigue with a Fortitude check. Minor = +10, Major (-10)</p><hr><p><em>When you are in the presence of a suitable power source, such as a portable generator or the power plant of a vehicle, you may make an Ordinary (+10) Fortitude Test as an Action and remove the Fatigued (Minor) Condition. You may make a Difficult (-10) Fortitude Test to remove the Fatigued (Major) Condition. </em></p>
+
+##### malExpTal0000194 | Mechanicus | Rad-Saturated
+REQ: Must be Admech
+<p>When Engaged: enemy must test Fortitude (Encurance) -10 or suffer Irradicated</p><hr><p><em>You have exposed yourself to semi-lethal quantities of radiation, sacrificing your lifespan to better serve as the Omnissiah’s deadly assailant. Whenever a creature enters Engagement with you or starts a turn Engaged with you, they must make a Difficult (-10) Fortitude (Endurance) Test or suffer the Irradiated Condition (Weapons of the Mechanicus pg. 2) </em></p>
+
+##### malExpTal0000195 | Mechanicus | Reclamator
+REQ: 1 Advance in Tech(Engineering)
+<p>Requistion item with 1-step reduced scarcity (min: Common) but it is damaged and needs repairing (8+h extended Engineering task). Illegel if your not Admech</p><hr><p><em>You have access to a reliable supply of broken or damaged technology, and can reassemble it yourself at half the cost. When you requisition items, you can choose to reduce the Rarity by one level (to a minimum of Common). However, if you do so, the item cannot be used until you repair it. You must undertake an 8-hour minimum Extended Tech Engineering) Test with a difficulty according to the table in the Crafting Endeavor (pg. 233) – but you are not required to actually take the endeavor to undertake the repairs. If you are not a member of the Adeptus Mechanicus, this activity is considered illegal, a violation of both the Lex Imperialis and the Treaty of Mars. </em></p>
+
+##### malExpTal0000196 | Mechanicus | Rite of Awe
+REQ: -
+<p>All humans within Long Range: test Discipline+0 test or have Disadvantage to next Skill test. Only augmented hearing can detect this</p><hr><p><em>All humans, regardless of their ability to hear, within Long Range feel a sense of dread and suffer Disadvantage on their next Skill Test. Characters may ignore these effects with a Challenging (+0) Discipline Test. Whilst incanting the rite, you become unable to talk or communicate with others. Humans without auditory implants cannot hear infrasonic sound, and though are still affected, will not know you are speaking.</em></p>
+
+##### malExpTal0000197 | Mechanicus | Rite of Fear
+REQ: Rite of Awe talent
+<p>All humans within Long Range: test Discipline+0 test become frightened of you. Only augmented hearing can detect this</p><hr><p><em>All humans, regardless of their ability to hear, within Long Range must test to avoid the Frightened Condition towards you. Whilst incanting the rite, you become unable to talk or communicate with others. Humans without auditory implants cannot hear infrasonic sound, and though are still affected, will not know you are speaking. </em></p>
+
+##### malExpTal0000198 | Mechanicus | Rite of Pure Thought
+REQ: 2 Advances in Lore(Cult Mechanicus) or Discipline
+<p>Immune to Pinning or other emotional-based influence. You come accross quite cold</p><hr><p><em>You no longer feel emotion, and instead embrace the crystal-clear purity of logic, making you immune to pinning and under effects that stem from emotional disturbance. Your compatriots may find you somewhat cold, though other followers of the Omnissiah will rejoice in your newfound freedom. </em></p>
+
+##### malExpTal0000199 | Mechanicus | Rite of Shroudpsalm
+REQ: Must be AdMech, 2 Advances in Stealth
+<p>Free action (de-)activate: you do not register on scanning/recording equipment. Any gear/equipment providing boni to Awareness do not work on you</p><hr><p><em>You are implanted with noospheric negators, electromagnetic disrupters, and stealth screen projectors, all designed to interfere with enemy surveillance equipment. You may activate or deactivate the effects of this talent as a Free Action. While active, you do not register on auspices, pict-thieves, monoscopes, or other forms of scanning or recording equipment. Anyone attempting to identify your presence use their unmodified Awareness, without bonuses for gear or equipment. </em></p>
+
+##### malExpTal0000200 | Mechanicus | Rite of Voltagheist
+REQ: Must be Admech
+<p>On melee hit against you: inflict 5 woundsOn Fumble against you: 5 damage, Inflict(Stunned, Prone)</p><hr><p><em>Either the Corpuscarii or the Fulgurite Electro-Priesthoods have implanted electoo circuitry into your body, channeling the motive force that flows through you to protect you from enemies of the Omnissiah. Whenever you are hit by a Melee Attack, or a Fumble is rolled on a Melee Attack that targets you, you inflict 5 Damage to your attacker. In addition, your attacker suffers the effects of the Stunned Condition, and suffers from the Prone Condition if they suffer a Fumble. </em></p>
+
+##### malExpTal0000201 | Mechanicus | Rite of Synchronized Steel
+REQ: Must have MIU/VIC implant, 1 Advance in Piloting
+<p>When MIU/VIC linked to vehicle:use Intelligence instead Agility for Piloting</p><hr><p><em>While linked to a vehicle with your MIU or VIC implant, you may use your Intelligence characteristic instead of Agility for the Piloting Skill. This may not be used with jump packs or similar devices. </em></p>
+
+##### malExpTal0000202 | Mechanicus | Stir, Spirits of Iron
+REQ: Rite of Synchronized Steel Talent
+<p>When MIU/VIC linked to vehicle, 1/encounter: may Tech-20 test, on success either grant Maneuverable trait OR increase one vehicle weapon damage by IntB. Both last IntB rounds.</p><hr><p><em>While linked to a vehicle with your MIU or VIC implant, you can call upon it to enhance one of the vehicles systems. You must make a Hard (-20) Tech Test, if you succeed, you can either boost the vehicles engines and grant it the Maneuverable trait or overcharge one of its weapons by increasing one of the vehicles weapons damages by your Intelligence Bonus. These effects last for a number of rounds equal to your Intelligence Bonus and may only be done once per encounter</em></p>
+
+##### malExpTal0000203 | Mechanicus | Vitality Coils
+REQ: 2 Advances in Fortitude, Potentia Coil Induction Talent
+<p>1/session, needs power source, Action: Fortitude+0 check to heal SL+IntB wounds. Cannot remove critical wounds. On fail: suffer SL damage</p><hr><p><em>Once per session, when in the presence of a suitable power source such as a portable generator or the power plant of a vehicle, you may make a Challenging (+0) Fortitude Test as an action. If you succeed, you may heal a number of wounds equal to your success levels, plus your Intelligence Bonus. You cannot remove Critical Wounds this way, and if you fail the test, you suffer damage equal to your negative success levels. </em></p>
+
+##### malExpTal0000204 | Psyker | Anophobic
+REQ: Sanctioned Psyker Talent
+<p>Can re-roll tests to resist Frightened</p><hr><p><em>Your time on Terra changed your persona forever. Whatever the cause, psykers like you are left viewing the galaxy differently from the common man. After the sanctioning ritual, what fear can come close to that experience? You can re-roll tests to resist the Frightened Condition. </em></p>
+
+##### malExpTal0000205 | Psyker | Daemonologist
+REQ: Psyker Talent, 1 Advance in Lore(Forbidden – Daemonology)
+<p>On target daemon with Psyker Power: +SL = Advances in Lore(Daemonology)</p><hr><p><em>When you are using a psychic power and the target is a Daemon, you gain an amount of success levels equal to the number of advances you have in Lore(Forbidden – Daemonology). This may turn a failed test into a successful one. </em></p>
+
+##### malExpTal0000206 | Psyker | Favored by the Warp
+REQ: Psyker Talent, 2 Advances in Psychic Mastery
+<p>May re-roll and pick rolls on Psychic Phenomena unless you got Persils of the Warp</p><hr><p><em>Whenever you are being affected by Psychic Phenomena, as long as you are not subject to Perils of the Warp, you may roll a second time and choose which result you receive.</em></p>
+
+##### malExpTal0000207 | Psyker | Light of Terra
+REQ: Sanctioned Psyker Talent, 2 Advances in Psychic Mastery
+<p>On Psychic Power damage on "unclean" targets: deal double damage. Loose this if you gain 2 mutations or Malignancies</p><hr><p><em>The pilgrimage to the seat of the Emperor has a profound effect on the majority of sanctioned, but for a few, there is a very real effect on their souls. Any wounds inflicted by a Psychic Power on a Daemon, Mutant, Unsanctioned Psyker, Sorcerer, or other character the GM considers “unclean” by a Psyker with this talent is doubled. The effects of this talent are lost if the Psyker ever gains two Mutations or two Malignancies unless you find a way to rid yourself of them. </em></p>
+
+##### malExpTal0000208 | Psyker | Mental Rage
+REQ: Psyker Talent, Frenzy Talent
+<p>May use Psychic Powers while Frenzied</p><hr><p><em>The madness and hate you have subjected yourself to opens your mind to the warp, allowing you to use your psychic curse with little conscious thought. While you are frenzied, you may still use Psychic Powers. </em></p>
+
+##### malExpTal0000209 | Psyker | Mind of Adamant
+REQ: Psyker Talent, 2 Advances in Discipline
+<p>On Opposed Discipline check for Psychic Power: may spend FP to gain IntB SL</p><hr><p><em>Whenever you make an Opposed Discipline Skill Test for a Psychic Power (either yours or your opponents), you may spend a Fate Point. If you do so, you gain a number of success levels equal to your Intelligence Bonus. This may turn a failed test into a successful one. </em></p>
+
+##### malExpTal0000210 | Psyker | Natural Psyker
+REQ: Psyker Talent, 1 Advance in Psychic Mastery
+<p>Choose Minor Psyker Power. 1/encounter may cast this as free action. Can also cast a "normal" Psyker power before/after this</p><hr><p><em>When you take this talent, choose one Minor Psychic Power. As a Free Action, you may cast this power once per encounter. You will still be able to cast Psychic Powers as an action before or after you use this talent</em></p>
+
+##### malExpTal0000211 | Psyker | Psychic Locus
+REQ: Psyker Talent
+<p>Perils of the Warp effects within Medium range target you instead of the source, powers afffecting other characters as well as powers with a range are centered on you</p><hr><p><em>You are the point of focus for baleful energies of the Immaterium. If another character must roll on the Perils of the Warp table and is within Medium Range of you, then you will be the affected target of the result instead. Effects that would normally affect other characters instead affect you, and any effect with a range is centered on you. </em></p>
+
+##### malExpTal0000212 | Psyker | Psykerpath
+REQ: Psyker Talent, 2 Advances in Discipline
+<p>On Perils of the Warp:may spend FP to ignore all ill effect. It does not cancel the effects on others though!</p><hr><p><em>After being forced to roll on the Perils of the Warp Table, you may spend a Fate Point to avoid suffering any ill effects from the result. If the result would affect others or the environment, the effects still apply to everyone but the psyker. This includes being possessed or consumed by the warp. </em></p>
+
+##### malExpTal0000213 | Psyker | Tainted Psyker
+REQ: Psyker Talent, must have made at least one Corruption Test
+<p>When manifesting power: may take corruption = Warp Rating / 2 to gain +1SL to manifest. It will add +10 to next Psychic Phenomena roll</p><hr><p><em>Whenever you test to cast a Psychic Power, you may choose to gain a number of Corruption Points equal to the half the Warp Rating of your power (round up). For each point you gain this way, you gain +1SL to cast the power, but add +10 to any rolls for Psychic Phenomena later.  </em></p>
+
+##### malExpTal0000214 | Psyker | Undisciplined Psyker
+REQ: Psyker Talent, cannot be Sanctioned
+<p>When Push to manifest: may reroll failed test. Adds +20 to Psychic Phenomena & Perils of the Warp roll</p><hr><p><em>When attempting to Push (pg. 162) a Psychic Power, you are also able to reroll failed tests once. However, you must add an additional +20 to both Psychic Phenomena and any resulting Perils of the Warp rolls.</em></p>
+
+##### malExpTal0000215 | Psyker | Unsulliable
+REQ: Light of Terra Talent
+<p>Daemons consider your zone as a Minor Hazard</p><hr><p><em>Your purity sends the Daemonic reeling, cleansing the space around you of all its chaotic influences. Daemons consider the zone you are in as a Minor Hazard (pg. 206). </em></p>
+
+##### malExpTal0000216 | Psyker | Warp Lock
+REQ: Psyker Talent, 4 Advances in Discipline
+<p>1/session: negate Psychic Phenomena roll (including Perils) but take 1d5 damage to head ignoring armor. Cannot use or sustain powers until your next turn</p><hr><p><em>You have learned to swiftly cut yourself off from the Warp to protect your mind from its tendrils. Once per session, you may ignore the effects of Psychic Phenomena you have rolled (including the Perils of the Warp result on the table), completely negating its effects. However, you suffer 1d5 Damage to your head, ignoring armor, and cannot make any Psychic Mastery Tests or sustain any psychic powers until the start of your next turn. </em></p>
+
+##### malExpTal0000217 | Psyker | Warp Shield
+REQ: Psyker Talent
+<p>Test Psychic Mastery to create a Force Field with 1d10 protection rating. on 5+SL, the rating is 2d10</p><hr><p><em>You can choose to sacrifice your psychic potential to form a barrier of protection around yourself. You may choose to make a Psychic Mastery Test, which if you succeed, you gain a Force Field with a protection rating of 1d10. If you succeed by +5SL, you instead have 2d10. </em></p>
+
+##### malExpTal0000218 | Psyker | Wyrdvane
+REQ: Psychic Locus Talent
+<p>Redirect Perils of the Warp effect from anyone within Medium range (including self) to another character within Medium range</p><hr><p><em>You have learned to channel and redirect the worst effects of the Immaterium. You can redirect the effects of the Perils of the Warp rolls from any character within Medium Range of yourself, including yourself, onto another character of your choosing within Medium Range. </em></p>
+
+##### malExpTal0000219 | Untouchables | Bane of Daemon
+REQ: Blank Talent, 2 Advances in Discipline
+<p>Daemons treat the Zone you are in as a Major Hazard</p><hr><p><em>Daemons treat the Zone you are in as a Major Hazard (pg. 206) instead of a Minor Hazard.</em></p>
+
+##### malExpTal0000220 | Untouchables | Daemonic Anathema
+REQ: Blank Talent, Warp Disruption Talent
+<p>Deaemons in your zone do not benefit from daemonic armor</p><hr><p><em>Daemons within your zone do not gain the benefits of the Daemonic trait that grants them armor.</em></p>
+
+##### malExpTal0000221 | Untouchables | Daemonic Disruption
+REQ: Blank Talent, Bane of the Daemon Talent
+<p>Daemons have Disadvantage to melee attack you</p><hr><p><em>Whenever a Daemon attempts to make a Melee Attack (pg. 211) against you, they suffer Disadvantage. </em></p>
+
+##### malExpTal0000222 | Untouchables | Psychic Null
+REQ: Blank Talent, 2 Advances in Discipline
+<p>On psyker targeting your zone (or anyone therein) OR a manifest test fails within Short range of you, the psyker 3+ WpB damage (ignore armor)</p><hr><p><em>When a Test is made to Manifest a psychic power that targets your zone, an individual in your zone, or made within Short Range of you fails, the Psyker suffers Wounds equal to the Warp Rating of the power they attempted to manifest. </em></p>
+
+##### malExpTal0000223 | Untouchables | Warp Disruption
+REQ: Blank Talent
+<p>Manifest tests in your zone have Warp Rating +1 and sustaining psychic powers in your zone requires (free action) sustain check</p><hr><p><em>Any Psychic Power being manifested within your zone increases its Warp Rating by 1, and any Psyker currently sustained a Psychic Power within Short Range of you must test to continue sustaining it as a Free Action. If you take this Talent again, Daemons within Short Range of you must make a Difficult (-10) Willpower Test at the start of their turn as long as they remain within Short Range of you. If they fail this test, they are suffer 3 + WilB Damage that ignores Armor. </em></p>
+
+##### malExpTal0000224 | Untouchables | Warp Disruption II
+REQ: Warp Disruption talent
+<p>On Daemon starts turn within Short Range of you: it must test Dicipline-10 test or suffer 3+WpB damage ignoring armor</p><hr><p><em>Daemons within Short Range of you must make a Difficult (-10) Willpower Test at the start of their turn as long as they remain within Short Range of you. If they fail this test, they are suffer 3 + WilB Damage that ignores Armor. </em></p>

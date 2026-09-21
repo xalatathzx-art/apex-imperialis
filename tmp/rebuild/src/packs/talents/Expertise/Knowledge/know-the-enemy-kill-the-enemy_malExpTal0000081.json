@@ -1,0 +1,59 @@
+{
+  "name": "Know the Enemy; Kill the Enemy",
+  "type": "talent",
+  "_id": "malExpTal0000081",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">1/Encounter: choose enemy type, test appropriate Forbidden Lore -20 check. On success for SL turns: allies may re-roll one missed attack per turn against type</span></p><hr><p><span style=\"font-family: Arial\"><em>Once per encounter, you may use this talent and choose a type of enemy (Orks, Eldar, Heretics, or anyother that is deemed appropriate by your GM) and make a Hard (-20) Lore (Forbidden) Test specializing in that foe (i.e. Lore (Forbidden – Orks)) If successful, any ally within communication range may re-roll one missed attack per Round against the chosen enemy for a number of Rounds equal to the Success Levels on the test.</em></span></p>",
+      "gm": "Talent Category: Knowledge"
+    },
+    "requirement": {
+      "value": "1 Advance in Lore(Forbidden)",
+      "script": "return (this.actor.itemTypes[\"specialisation\"].find(i => i.name.includes(\"Forbidden\") && i.system.skill == \"lore\")?.system?.advances >= 1)"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "sYF7k1rcP4ZWyjHQ",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": -290625
+}

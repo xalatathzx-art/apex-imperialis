@@ -1,0 +1,59 @@
+{
+  "name": "Fashionista",
+  "type": "talent",
+  "_id": "malExpTal0000148",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">Gain extra SL to Rapport first time you appear in fancy clothes. Modifier depends or rarity.  Scarce +1, Rare +2, Exotic +3</span></p><hr><p><span style=\"font-family: Arial\"><em>You remain on the cutting edge of Gothic fashion, delighting in any opportunity to make a memorable entrance. When acquiring Clothing, you gain +SL equal to Rapport tests equal to the value of the rarity of the clothing (+1 for Scarce, +2 for Rare, +3 for Exotic) in situations where your appearance would make a positive impression. You only gain this benefit for a single mission – after that, reappearing in the same outfit provides no bonuses. </em></span></p>",
+      "gm": "Talent Category: Social"
+    },
+    "requirement": {
+      "value": "-",
+      "script": ""
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "QZxXEi5gaFblpeYN",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 0
+}

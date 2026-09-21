@@ -1,0 +1,33 @@
+{
+  "name": "Bone-'ead",
+  "type": "trait",
+  "_id": "navisSpTrait0004",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 400,
+  "system": {
+    "notes": {
+      "player": "<p>The implant raised your intelligence. It did not raise it to human.</p> <p>Any Intelligence-based Test takes you a full Action rather than whatever it would normally take, and on a success you count no more than <strong>1 SL</strong>, however well you rolled.</p> <p>In a Haywire field of intensity 3 or higher the implant falters: you automatically fail every Intelligence Test until you leave it.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

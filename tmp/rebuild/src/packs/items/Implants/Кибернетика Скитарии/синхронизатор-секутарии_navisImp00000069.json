@@ -1,0 +1,70 @@
+{
+  "name": "Синхронизатор Секутарии",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000069",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00005",
+  "sort": 6900,
+  "system": {
+    "notes": {
+      "player": "<p>Расширенный функционал Ноосферного Фида, позволяющий Скитарию ощущать движения союзных богомашин и защищать их, не сбиваясь с собственного ритма.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Союзные Рыцари и Титаны могут проходить сквозь пространство владельца без риска задеть его. Когда союзная богомашина подвергается Натиску, владелец может потратить Реакцию, чтобы подвинуться и принять Натиск на себя.</p>",
+    "page": "DoomBC стр. 270",
+    "category": "skitarii",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 3500,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "",
+      "2": "Функционал не меняется ни на одном уровне качества — разнится только отделка.",
+      "3": "",
+      "4": ""
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 270",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

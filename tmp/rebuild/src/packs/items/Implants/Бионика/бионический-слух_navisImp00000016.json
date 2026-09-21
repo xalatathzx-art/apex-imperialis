@@ -1,0 +1,88 @@
+{
+  "name": "Бионический слух",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000016",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00002",
+  "sort": 1600,
+  "system": {
+    "notes": {
+      "player": "<p>Бионический протез органов слуха, заменяющий разрушенное внутреннее ухо. Ставится после декомпрессии, близкого разрыва или слишком долгой службы при орудийной палубе.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Имплант заменяет слух полностью. Его качество читается прямо в проверках Бдительности, которыми игрок слушает.</p>",
+    "page": "DoomBC стр. 263",
+    "category": "bionic",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 1200,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Искажает слух статикой и хаотичной сменой громкости: <strong>−2 успеха</strong> на проверки Бдительности, опирающиеся на слух.",
+      "2": "",
+      "3": "<strong>+1 успех</strong> на проверки Бдительности, опирающиеся на слух, и встроенная вокс-бусина.",
+      "4": "Как Уровень 3, и вдобавок работает как глушащие беруши наилучшего исполнения: оглушающий грохот вам не страшен."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00150",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt01500",
+            "kind": "testMod",
+            "skill": "awareness",
+            "value": {
+              "1": -2,
+              "2": 0,
+              "3": 1,
+              "4": 1
+            }
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 263",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

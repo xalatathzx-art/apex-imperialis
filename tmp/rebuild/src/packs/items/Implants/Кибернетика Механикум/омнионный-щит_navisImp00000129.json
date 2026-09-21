@@ -1,0 +1,70 @@
+{
+  "name": "Омнионный Щит",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000129",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 12900,
+  "system": {
+    "notes": {
+      "player": "<p>Генератор экзотических полей нейтрализует ионизирующую радиацию внутри своего купола.</p><p>Устанавливается только персонажу с чертой Импланты Механикум, не более одного экземпляра. Операция по установке персонажу вне Техножречества — услуга Редкости 4.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт иммунитет к фоновой радиации и свойству Rad, но собственные сенсоры радиации владельца перестают что-либо засекать, пока щит активен.</p>",
+    "page": "DoomBC стр. 276",
+    "category": "mechanicum",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 4000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 0,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Защищает только от фоновой радиации, но не от свойства Rad.",
+      "2": "",
+      "3": "Не мешает работе сенсоров радиации.",
+      "4": "Как Уровень 3, но защищает всех в радиусе до 5м."
+    },
+    "slot": "other",
+    "side": "",
+    "location": "internal",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 276",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

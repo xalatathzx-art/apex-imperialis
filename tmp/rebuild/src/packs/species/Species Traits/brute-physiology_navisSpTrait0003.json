@@ -1,0 +1,33 @@
+{
+  "name": "Brute Physiology",
+  "type": "trait",
+  "_id": "navisSpTrait0003",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 300,
+  "system": {
+    "notes": {
+      "player": "<p>A body built to take the kind of punishment that kills other people.</p> <p>At the end of your turn you automatically shed the <em>Stunned</em> condition. You cannot die from <em>Bleeding</em>, and you may eat anything organic without ill effect.</p> <p>Those hands were not made for fine work: you have Disadvantage on any Test of delicate manipulation, including most Tech (Engineering) work and any attempt at forgery, lockpicking or surgery.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

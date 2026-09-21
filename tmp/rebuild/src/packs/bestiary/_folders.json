@@ -1,0 +1,210 @@
+[
+  {
+    "_id": "KfQJC9Eg5BVlFKoA",
+    "name": "Xenos",
+    "type": "Actor",
+    "folder": null,
+    "description": "",
+    "color": "#2f6b3f",
+    "sorting": "a",
+    "sort": 100,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "C0ocNsWAaCrjQzFI",
+    "name": "Aeldari",
+    "type": "Actor",
+    "folder": "KfQJC9Eg5BVlFKoA",
+    "description": "",
+    "color": "#3f8b55",
+    "sorting": "a",
+    "sort": 100,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "aKrQVIv8CiO95oiY",
+    "name": "Drukhari",
+    "type": "Actor",
+    "folder": "KfQJC9Eg5BVlFKoA",
+    "description": "",
+    "color": "#3f8b55",
+    "sorting": "a",
+    "sort": 200,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "NoLeUzyh0HC6Im07",
+    "name": "Necrons",
+    "type": "Actor",
+    "folder": "KfQJC9Eg5BVlFKoA",
+    "description": "",
+    "color": "#3f8b55",
+    "sorting": "a",
+    "sort": 300,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "FhtA0e1buYqiFwgv",
+    "name": "T'au Empire",
+    "type": "Actor",
+    "folder": "KfQJC9Eg5BVlFKoA",
+    "description": "",
+    "color": "#3f8b55",
+    "sorting": "a",
+    "sort": 400,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "2T8C1yIdgOMvqX1r",
+    "name": "Chaos",
+    "type": "Actor",
+    "folder": null,
+    "description": "",
+    "color": "#6b1f1f",
+    "sorting": "a",
+    "sort": 200,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "h8yOWTItFK1AbtLE",
+    "name": "Heretics",
+    "type": "Actor",
+    "folder": "2T8C1yIdgOMvqX1r",
+    "description": "",
+    "color": "#8b3030",
+    "sorting": "a",
+    "sort": 100,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "STpRJmjdeqpHhQIl",
+    "name": "Legiones Daemonica",
+    "type": "Actor",
+    "folder": "2T8C1yIdgOMvqX1r",
+    "description": "",
+    "color": "#8b3030",
+    "sorting": "a",
+    "sort": 200,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "UBqpDh9rz709srIj",
+    "name": "Nurglite",
+    "type": "Actor",
+    "folder": "STpRJmjdeqpHhQIl",
+    "description": "",
+    "color": "#6b7a2f",
+    "sorting": "a",
+    "sort": 100,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "RSlGU78gahros5am",
+    "name": "Genestealer Cults",
+    "type": "Actor",
+    "folder": null,
+    "description": "",
+    "color": "#5b2f8b",
+    "sorting": "a",
+    "sort": 300,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "MXUjzUn5in9XY1Nd",
+    "name": "Imperium",
+    "type": "Actor",
+    "folder": null,
+    "description": "",
+    "color": "#8b6a1f",
+    "sorting": "a",
+    "sort": 400,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "wmfalUS4GvedzY0T",
+    "name": "Adeptus Mechanicus",
+    "type": "Actor",
+    "folder": "MXUjzUn5in9XY1Nd",
+    "description": "",
+    "color": "#8b5a2f",
+    "sorting": "a",
+    "sort": 100,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  },
+  {
+    "_id": "1hnt1OVNFBLIRfur",
+    "name": "Wildlife",
+    "type": "Actor",
+    "folder": null,
+    "description": "",
+    "color": "#5a4a2f",
+    "sorting": "a",
+    "sort": 500,
+    "flags": {},
+    "_stats": {
+      "systemId": "impmal",
+      "systemVersion": "3.3.0",
+      "coreVersion": "13.348"
+    }
+  }
+]

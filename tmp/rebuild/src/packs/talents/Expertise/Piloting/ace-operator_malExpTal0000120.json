@@ -1,0 +1,59 @@
+{
+  "name": "Ace Operator",
+  "type": "talent",
+  "_id": "malExpTal0000120",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "system": {
+    "notes": {
+      "player": "<p><span style=\"font-family: Arial\">On Failed Piloting/Riding: spend FP to reduce failure by AgiB (or IntB for Voidship piloting). May turn the failure into a Success.</span></p><hr><p><span style=\"font-family: Arial\"><em>Whenever you fail a Piloting or Athletics (Riding) Test, you may spend a Fate Point to reduce your Degrees of Failure on the test by your Agility Bonus. When using Piloting (Minor/Major Voidship), you  reduce them according to your Intelligence instead.</em></span></p>",
+      "gm": "Talent Category: Piloting"
+    },
+    "requirement": {
+      "value": "2 Advances in Piloting or Athletics(Riding)",
+      "script": "return this.actor.system.skills.piloting.advances >= 2 || this.actor.itemTypes[\"specialisation\"].find(i => i.name == \"Riding\" && i.system.skill == \"athletics\")?.system?.advances >= 2"
+    },
+    "test": {
+      "difficulty": "challenging",
+      "characteristic": "",
+      "skill": {
+        "key": "",
+        "specialisation": ""
+      },
+      "self": false
+    },
+    "taken": 1,
+    "xp": 100,
+    "xpCost": 100,
+    "effectOptions": {
+      "list": []
+    },
+    "effectTakenRequirement": {},
+    "effectRepeatable": {},
+    "effectChoices": {},
+    "slots": {
+      "list": [],
+      "value": 0
+    }
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "impmal-malexp",
+      "sourceVersion": "v1.4.0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.345",
+    "systemId": "impmal",
+    "systemVersion": "3.1.0"
+  },
+  "folder": "3JxhLA6h0JYJZyf9",
+  "ownership": {
+    "default": 0,
+    "bfVhf0cfdU0mWsuU": 3
+  },
+  "sort": 400000
+}

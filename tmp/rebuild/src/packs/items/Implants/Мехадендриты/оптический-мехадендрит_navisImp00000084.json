@@ -1,0 +1,104 @@
+{
+  "name": "Оптический Мехадендрит",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000084",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00006",
+  "sort": 8400,
+  "system": {
+    "notes": {
+      "player": "<p>Крайне гибкий, но физически слабый мехадендрит с визорами и пикт-фидами для наблюдения; стебель сжимается до 5мм, чтобы пролезать в узкие щели.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Даёт ночное и тепловое зрение, работает как хороший магнокуляр и собственная лампа-светосфера, а также бонус на проверки зрения и на тонкие проверки Крафта.</p><p>Драться им можно, но незачем: <strong>урон 4</strong>, <em>Бесполезное</em>, <em>Длинное</em> (стебель 3 м).</p><p><em>Бонус Силы владельца к этому урону не прибавляется: собственная Сила мехадендрита уже учтена в числе.</em></p>",
+    "page": "DoomBC стр. 278",
+    "category": "mechadendrite",
+    "rarity": 2,
+    "availability": "rare",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 2800,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 1,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "−1 успех на связанные проверки, S −10.",
+      "2": "",
+      "3": "+1 успех на связанные проверки, S +5.",
+      "4": "+1 успех на связанные проверки, S +10."
+    },
+    "slot": "mechadendrite",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [
+      {
+        "id": "navisImpGrp00830",
+        "operator": "AND",
+        "entries": [
+          {
+            "id": "navisImpEnt08300",
+            "kind": "weapon",
+            "profile": {
+              "name": "Оптический Мехадендрит",
+              "attackType": "melee",
+              "category": "mundane",
+              "spec": "brawling",
+              "range": "",
+              "damage": {
+                "base": "4",
+                "characteristic": "",
+                "SL": false,
+                "ignoreAP": false
+              }
+            }
+          },
+          {
+            "id": "navisImpEnt08301",
+            "kind": "weaponTrait",
+            "traitKey": "ineffective"
+          },
+          {
+            "id": "navisImpEnt08302",
+            "kind": "weaponTrait",
+            "traitKey": "reach"
+          }
+        ]
+      }
+    ],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 278",
+      "proseOnly": false
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

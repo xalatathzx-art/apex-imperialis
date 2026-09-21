@@ -1,0 +1,33 @@
+{
+  "name": "Anathema Touch",
+  "type": "trait",
+  "_id": "navisSpTrait0035",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisSpFolder003",
+  "sort": 3500,
+  "system": {
+    "notes": {
+      "player": "<p>What you are is worst at close range.</p> <p>Anyone who touches you must pass a <strong>Challenging (+0) Discipline</strong> Test or spend their next turn getting away from you. A psyker or a daemon fails automatically and takes <strong>Willpower bonus</strong> damage that ignores armour, with stigmata to show for it. Wounds your touch leaves cannot be closed by psychic powers, daemonic gifts or sorcery.</p>",
+      "gm": ""
+    },
+    "category": "standard"
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-species.mjs"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

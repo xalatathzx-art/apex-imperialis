@@ -1,0 +1,70 @@
+{
+  "name": "Унктор Когнис",
+  "type": "navis-apexialis.implant",
+  "_id": "navisImp00000122",
+  "img": "modules/navis-apexialis/assets/impmal-core/icons/generic.webp",
+  "folder": "navisImpFld00007",
+  "sort": 12200,
+  "system": {
+    "notes": {
+      "player": "<p>Два коротких мехадендрита с мощными инфо- и энергопроводами для подключения к оружию, вживлённые в спину.</p><p>Устанавливается только персонажу с чертой Импланты Механикум, не более одного экземпляра. Операция по установке персонажу вне Техножречества — услуга Редкости 4.</p>",
+      "gm": ""
+    },
+    "rules": "<p>Раз в Ход каждым дендритом свободным действием можно подключиться к высокотехнологичному оружию или отключиться от него; подключённое оружие получает свойство Cognis и считается интегрированным в бионику.</p>",
+    "page": "DoomBC стр. 275",
+    "category": "mechanicum",
+    "rarity": 1,
+    "availability": "scarce",
+    "encumbrance": {
+      "value": 0
+    },
+    "cost": 2000,
+    "quantity": 1,
+    "equipped": {
+      "value": false,
+      "hand": ""
+    },
+    "slots": {
+      "value": 1,
+      "list": []
+    },
+    "traits": {
+      "list": []
+    },
+    "quality": 2,
+    "qualityText": {
+      "1": "Только один дендрит.",
+      "2": "",
+      "3": "Оружие, повисшее на дендрите после выпадения из руки, считается на удобной разгрузке.",
+      "4": "Как Уровень 3, и вдобавок позволяет подключаться к оружию противника в Борьбе и заряжать Катушку Потенции от подключённого оружия."
+    },
+    "slot": "mechadendrite",
+    "side": "",
+    "location": "body",
+    "installed": false,
+    "disabled": false,
+    "active": true,
+    "mechanics": [],
+    "chosenEffects": {}
+  },
+  "effects": [],
+  "flags": {
+    "navis-apexialis": {
+      "source": "DoomBC_Core",
+      "generated": "tools/make-implants.mjs",
+      "reference": "DoomBC стр. 275",
+      "proseOnly": true
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.348",
+    "systemId": "impmal",
+    "systemVersion": "3.3.0"
+  },
+  "ownership": {
+    "default": 0
+  }
+}
